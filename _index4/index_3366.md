@@ -2,8 +2,8 @@
 pid: index_3366
 volume: Volume 3
 image_number: '39'
-head: restoration
-entry: "<a href='/digital-beehive/num7/num_2526/'>1652 [Restoration]</a>"
+head: rent
+entry: "<a href='/digital-beehive/num3/num_0724/'>568 [Rent or Revenue]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-73835f792"
+item: "#item-1d9be1cc7"
 unparsed:
-line: 'Head: restoration|Entry: 1652 [Restoration]|#item-73835f792'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1500,1880,600,154/full/0/default.jpg
+line: 'Head: rent|Entry: 568 [Rent or Revenue]|#item-1d9be1cc7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/798,1786,415,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229933154
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469239721
+sort_value: '303921786'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1500,1880,600,154/150,/0/default.jpg
-label: restoration
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/798,1786,415,161/150,/0/default.jpg
+label: rent
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

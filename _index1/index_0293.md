@@ -2,8 +2,8 @@
 pid: index_0293
 volume: Volume 3
 image_number: '9'
-head: banter
-entry: "<a href='/digital-beehive/num9/num_2956/'>2022 [Banter]</a>"
+head: barbuda
+entry: "<a href='/digital-beehive/num7/num_2239/'>1514 [Barbada or Barbuda]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e2e6e4fbd"
+item: "#item-a00a05e26"
 unparsed:
-line: 'Head: banter|Entry: 2022 [Banter]|#item-e2e6e4fbd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/900,2065,508,98/full/0/default.jpg
+line: 'Head: barbuda|Entry: 1514 [Barbada or Barbuda]|#item-a00a05e26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/898,2715,672,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505404685639
+annotation_uri: http://dev.llgc.org.uk/annotation/1506104587522
+sort_value: '300922715'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/900,2065,508,98/150,/0/default.jpg
-label: banter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/898,2715,672,140/150,/0/default.jpg
+label: barbuda
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

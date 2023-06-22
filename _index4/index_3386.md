@@ -2,8 +2,8 @@
 pid: index_3386
 volume: Volume 3
 image_number: '39'
-head: to replevy
-entry: "<a href='/digital-beehive/num2/num_0554/'>445 [To replevy]</a>"
+head: reserved
+entry:
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-dcddd05a0"
+item: "#item-dd9ecc4e1"
 unparsed:
-line: 'Head: to replevy|Entry: 445 [To replevy]|#item-dcddd05a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/811,2639,612,158/full/0/default.jpg
+line: 'Head: reserved|#item-dd9ecc4e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1498,845,373,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469508634
+annotation_uri: http://dev.llgc.org.uk/annotation/1575398429225
+sort_value: '303930845'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/811,2639,612,158/150,/0/default.jpg
-label: to replevy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1498,845,373,124/150,/0/default.jpg
+label: reserved
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

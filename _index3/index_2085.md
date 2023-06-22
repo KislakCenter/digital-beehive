@@ -2,24 +2,25 @@
 pid: index_2085
 volume: Volume 3
 image_number: '26'
-head: ingenious
-entry:
+head: intrigue
+entry: "<a href='/digital-beehive/num3/num_0881/'>645 [Intrigue]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4592/'>wit</a>"
+see:
 index:
-item: "#item-a50e616ee"
+item: "#item-d97e46327"
 unparsed:
-line: 'Head: ingenious|See: wit|#item-a50e616ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/429,2399,543,205/full/0/default.jpg
+line: 'Head: intrigue|Entry: 645 [Intrigue]|#item-d97e46327'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1863,486,442,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744994040
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750757463
+sort_value: '302630486'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/429,2399,543,205/150,/0/default.jpg
-label: ingenious
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1863,486,442,138/150,/0/default.jpg
+label: intrigue
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

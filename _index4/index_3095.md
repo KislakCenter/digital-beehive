@@ -2,8 +2,8 @@
 pid: index_3095
 volume: Volume 3
 image_number: '36'
-head: pocks small
-entry: "<a href='/digital-beehive/num2/num_0447/'>371 [small pocks]</a>"
+head: gun pouder
+entry: "<a href='/digital-beehive/num5/num_1642/'>1203 [Pistol Pouder]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-67b4151f5"
+item: "#item-74ded3cf4"
 unparsed:
-line: 'Head: pocks small|Entry: 371 [small pocks]|#item-67b4151f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/390,2109,636,119/full/0/default.jpg
+line: 'Head: gun pouder|Entry: 1203 [Pistol Pouder]|#item-74ded3cf4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1148,2904,648,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208203581
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439163192
+sort_value: '303622904'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/390,2109,636,119/150,/0/default.jpg
-label: pocks small
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1148,2904,648,179/150,/0/default.jpg
+label: gun pouder
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

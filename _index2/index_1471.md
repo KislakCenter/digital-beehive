@@ -2,26 +2,27 @@
 pid: index_1471
 volume: Volume 3
 image_number: '20'
-head: fight
+head: flame
 entry:
 topic:
 first_letter: F
-page:
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
-see: battle|<a href='/digital-beehive/index4/index_3856/'>souldier</a>|<a href='/digital-beehive/index2/index_1447/'>fencing</a>
+see:
 index:
-item: "#item-c7c3f3b78"
+item: "#item-f4d046355"
 unparsed:
-line: 'Head: fight|See: battle|See: souldier|See: fencing|#item-c7c3f3b78'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1102,3157,781,233/full/0/default.jpg
+line: 'Head: flame|Page: p.30 [Image 1.90]|#item-f4d046355'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,2247,423,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562599426029
+annotation_uri: http://dev.llgc.org.uk/annotation/1562616016110
+sort_value: '302032247'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1102,3157,781,233/150,/0/default.jpg
-label: fight
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,2247,423,177/150,/0/default.jpg
+label: flame
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: The intended point of reference for "battle" is unclear.
+issue:
 insertion_xref:
 order: '290'
 layout: index_item

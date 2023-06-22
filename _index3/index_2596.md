@@ -2,24 +2,25 @@
 pid: index_2596
 volume: Volume 3
 image_number: '31'
-head: mortal
-entry: "<a href='/digital-beehive/num9/num_3012/'>2078 [Mortal]</a>"
+head: mother
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2881/'>parents</a>"
 index:
-item: "#item-566ad4180"
+item: "#item-c27d57ba5"
 unparsed:
-line: 'Head: mortal|Entry: 2078 [Mortal]|#item-566ad4180'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/846,2228,523,85/full/0/default.jpg
+line: 'Head: mother|See: parents|#item-c27d57ba5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,3198,551,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356368584
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356878130
+sort_value: '303123198'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/846,2228,523,85/150,/0/default.jpg
-label: mortal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,3198,551,126/150,/0/default.jpg
+label: mother
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

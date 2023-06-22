@@ -2,8 +2,8 @@
 pid: index_4676
 volume: Volume 3
 image_number: '54'
-head: Spur
-entry: "<a href='/digital-beehive/num5/num_1709/'>1239 [Spur]</a>"
+head: trespass
+entry: "<a href='/digital-beehive/num8/num_2814/'>1916 [Trespass]</a>"
 topic:
 first_letter: insertion
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-a061eca78"
-unparsed: Type Index|Insertion [:28.]
-line: 'Type: Index|Insertion: [:28.]|Head: Spur|Entry: 1239 [Spur]|#item-a061eca78'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1046,746,590,137/full/0/default.jpg
+item: "#item-87a70fce4"
+unparsed: Type Index|Insertion [:13.]
+line: 'Type: Index|Insertion [:13.]|Head: trespass|Entry: 1916 [Trespass]|#item-87a70fce4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/382,2096,556,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560953874874
-insertion: "[:28.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1046,746,590,137/150,/0/default.jpg
-label: Spur
+annotation_uri: http://dev.llgc.org.uk/annotation/1560868710059
+sort_value: '305412096'
+insertion: "[:13.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/382,2096,556,137/150,/0/default.jpg
+label: trespass
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '639'
+order: '638'
 layout: index_item
 collection: index5
 ---

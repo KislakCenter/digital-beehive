@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0374/'>325 [Infirmity]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2074/'>infirmity</a>"
+index: "<a href='/digital-beehive/index3/index_2036/'>infirmity</a>"
 item: "#item-24f20eccd"
 unparsed:
 line: 'Entry: Infirmity|Topic: Infirmity|Xref: 325 [Infirmity]|Index: infirmity|#item-24f20eccd'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/308,1080,3021,452/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564760118968
+sort_value: '202311080'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/308,1080,600,180/250,/0/default.jpg
 label: Infirmity

@@ -2,8 +2,8 @@
 pid: index_0127
 volume: Volume 3
 image_number: '8'
-head: appeal
-entry: "<a href='/digital-beehive/num1/num_0151/'>145 [Appeal]</a>"
+head: am[m]unition
+entry: 863 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9f6bf47d8"
+item: "#item-64e45eb1d"
 unparsed:
-line: 'Head: appeal|Entry: 145 [Appeal]|#item-9f6bf47d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1109,1463,389,119/full/0/default.jpg
+line: 'Head: am[m]unition|Entry: 863 [PAGE_MISSING]|#item-64e45eb1d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/414,515,541,81/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760408129
+annotation_uri: http://dev.llgc.org.uk/annotation/1491237569118
+sort_value: '300810515'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1109,1463,389,119/150,/0/default.jpg
-label: appeal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/414,515,541,81/150,/0/default.jpg
+label: am[m]unition
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

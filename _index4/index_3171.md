@@ -2,9 +2,9 @@
 pid: index_3171
 volume: Volume 3
 image_number: '37'
-head: pretty
-entry: "<a href='/digital-beehive/num3/num_0670/'>535 [Incomparable]</a>|<a href='/digital-beehive/num3/num_0671/'>535
-  [Excellent]</a>"
+head: process in law
+entry: "<a href='/digital-beehive/alpha4/alpha_0743/'>a</a>|790 [PAGE_MISSING]|4451
+  [WORD_MISSING]"
 topic:
 first_letter: P
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9a32d8a0d"
+item: "#item-5936ca540"
 unparsed:
-line: 'Head: pretty|Entry: 535 [Incomparable]|Entry: 535 [Excellent]|#item-9a32d8a0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/102,1548,382,185/full/0/default.jpg
+line: 'Head: process in law|Entry: a|Entry: 790 [PAGE_MISSING]|Entry: 4451 [WORD_MISSING]|#item-5936ca540'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/802,1187,662,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866422539
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867783744
+sort_value: '303721187'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/102,1548,382,185/150,/0/default.jpg
-label: pretty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/802,1187,662,152/150,/0/default.jpg
+label: process in law
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

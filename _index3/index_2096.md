@@ -2,24 +2,25 @@
 pid: index_2096
 volume: Volume 3
 image_number: '26'
-head: intercession
-entry: "<a href='/digital-beehive/alpha3/alpha_0487/'>a</a>"
+head: inundation
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1003/'>deluge</a>"
 index:
-item: "#item-19c631cea"
+item: "#item-0452b5fbc"
 unparsed:
-line: 'Head: intercession|Entry: a|#item-19c631cea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1157,2814,488,117/full/0/default.jpg
+line: 'Head: inundation|See: deluge|#item-0452b5fbc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1867,1644,625,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748990702
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751500776
+sort_value: '302631644'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1157,2814,488,117/150,/0/default.jpg
-label: intercession
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1867,1644,625,159/150,/0/default.jpg
+label: inundation
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_2726
 volume: Volume 3
 image_number: '32'
-head: notorious
-entry: "<a href='/digital-beehive/num1/num_0195/'>186 [Manifest]</a>"
+head: non resistance
+entry: "<a href='/digital-beehive/num9/num_3132/'>2189 [Passive Obedience & non resistance]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8bf9dabdf"
+item: "#item-bf09cb7b8"
 unparsed:
-line: 'Head: notorious|Entry: 186 [Manifest]|#item-8bf9dabdf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1835,2896,484,95/full/0/default.jpg
+line: 'Head: non resistance|Entry: 2189 [Passive Obedience & non resistance]|#item-bf09cb7b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1840,1538,639,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449796580
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448897200
+sort_value: '303231538'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1835,2896,484,95/150,/0/default.jpg
-label: notorious
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1840,1538,639,131/150,/0/default.jpg
+label: non resistance
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

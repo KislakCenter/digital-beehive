@@ -2,8 +2,8 @@
 pid: index_3170
 volume: Volume 3
 image_number: '37'
-head: proselyte
-entry: 836 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2586/'>1682 [Proselyse]</a>
+head: to proceed
+entry: "<a href='/digital-beehive/num10/num_3312/'>2342 [To proceed]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-00060c8fb"
+item: "#item-e2b6403dd"
 unparsed:
-line: 'Head: proselyte|Entry: 836 [PAGE_MISSING]|Entry: 1682 [Proselyse]|#item-00060c8fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1483,1540,680,115/full/0/default.jpg
+line: 'Head: to proceed|Entry: 2342 [To proceed]|#item-e2b6403dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/809,1141,606,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869367610
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867733913
+sort_value: '303721141'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1483,1540,680,115/150,/0/default.jpg
-label: proselyte
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/809,1141,606,86/150,/0/default.jpg
+label: to proceed
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

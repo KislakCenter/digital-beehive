@@ -2,24 +2,25 @@
 pid: index_2149
 volume: Volume 3
 image_number: '27'
-head: laplanders
-entry: "<a href='/digital-beehive/num6/num_1837/'>1316 [Laplanders]</a>"
+head: to keep back
+entry: 828 [PAGE_MISSING]
 topic:
-first_letter: L
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-15c559e4c"
+item: "#item-701e34976"
 unparsed:
-line: 'Head: laplanders|Entry: 1316 [Laplanders]|#item-15c559e4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1553,1152,478,150/full/0/default.jpg
+line: 'Head: to keep back|Entry: 828 [PAGE_MISSING]|#item-701e34976'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/133,3357,528,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835474983
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759573504
+sort_value: '302713357'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1553,1152,478,150/150,/0/default.jpg
-label: laplanders
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/133,3357,528,148/150,/0/default.jpg
+label: to keep back
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,27 +2,25 @@
 pid: index_3221
 volume: Volume 3
 image_number: '38'
-head: Quakers
-entry: "<a href='/digital-beehive/alpha4/alpha_0768/'>a</a>|<a href='/digital-beehive/num5/num_1430/'>1063
-  [Quakers]</a>|<a href='/digital-beehive/num7/num_2243/'>1516 [Quaker]</a>|<a href='/digital-beehive/num10/num_3200/'>2252
-  [Quakers]</a>|<a href='/digital-beehive/num10/num_3408/'>2433 [Quakers]</a>"
+head: pudding
+entry: "<a href='/digital-beehive/alpha4/alpha_0762/'>a</a>"
 topic:
-first_letter: Q
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-bd16154bd"
+item: "#item-a5675cd08"
 unparsed:
-line: 'Head: Quakers|Entry: a|Entry: 1063 [Quakers]|Entry: 1516 [Quaker]|Entry: 2252
-  [Quakers]|Entry: 2433 [Quakers]|#item-bd16154bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/359,2896,1145,165/full/0/default.jpg
+line: 'Head: pudding|Entry: a|#item-a5675cd08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/381,250,482,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452760910
+annotation_uri: http://dev.llgc.org.uk/annotation/1558451886915
+sort_value: '303810250'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/359,2896,1145,165/150,/0/default.jpg
-label: Quakers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/381,250,482,163/150,/0/default.jpg
+label: pudding
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

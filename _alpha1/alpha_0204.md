@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0649/'>Novelty</a>|<a href='/digital-beehive/alpha4/alpha_0921/'>Strange
   Business</a>|<a href='/digital-beehive/num7/num_2414/'>1602 [Curiosity]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0970/'>curiosity</a>"
+index: "<a href='/digital-beehive/index1/index_0927/'>curiosity</a>"
 item: "#item-f021b2326"
 unparsed:
 line: 'Entry: Curiosity|Topic: Curiosity|Xref: Novelty|Xref: Strange Business|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Curiosity|Topic: Curiosity|Xref: Novelty|Xref: Strange Business|Xr
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/328,823,3127,425/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499786794381
+sort_value: '144710823'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/328,823,600,180/250,/0/default.jpg
 label: Curiosity

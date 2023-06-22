@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2593/'>must</a>"
+index: "<a href='/digital-beehive/index3/index_2622/'>must</a>"
 item: "#item-8ed5b0e78"
 unparsed:
 line: 'Entry: Must|Topic: Must|Index: must|#item-8ed5b0e78'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/680,4275,1620,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1586977419485
+sort_value: '203414275'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/680,4275,600,180/250,/0/default.jpg
 label: Must

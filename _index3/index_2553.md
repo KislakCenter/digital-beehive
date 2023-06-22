@@ -2,9 +2,9 @@
 pid: index_2553
 volume: Volume 3
 image_number: '31'
-head: misfortune
-entry: "<a href='/digital-beehive/alpha3/alpha_0601/'>a</a>|<a href='/digital-beehive/num7/num_2638/'>1714
-  [Misfortune]</a>"
+head: moderate
+entry: "<a href='/digital-beehive/num1/num_0021/'>21 [Moderate]</a>|<a href='/digital-beehive/num6/num_1870/'>1331
+  [Moderation]</a>|<a href='/digital-beehive/num11/num_3589/'>4916 [Moderation]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-688743da9"
+item: "#item-67e28300d"
 unparsed:
-line: 'Head: misfortune|Entry: a|Entry: 1714 [Misfortune]|#item-688743da9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,837,620,111/full/0/default.jpg
+line: 'Head: moderate|Entry: 21 [Moderate]|Entry: 1331 [Moderation]|Entry: 4916 [Moderation]|#item-67e28300d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,2361,699,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351130669
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352564550
+sort_value: '303112361'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,837,620,111/150,/0/default.jpg
-label: misfortune
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,2361,699,124/150,/0/default.jpg
+label: moderate
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0938
 volume: Volume 3
 image_number: '15'
-head: dead mens candles
-entry: "<a href='/digital-beehive/num7/num_2385/'>1589 [Ignis fatuus]</a>"
+head: Dainty meats
+entry: "<a href='/digital-beehive/num3/num_1000/'>696 [Dainty meats]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-23246506e"
+item: "#item-5f95bfd5d"
 unparsed:
-line: 'Head: dead mens candles|Entry: 1589 [Ignis fatuus]|#item-23246506e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1526,2484,590,85/full/0/default.jpg
+line: 'Head: Dainty meats|Entry: 696 [Dainty meats]|#item-5f95bfd5d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1563,859,630,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391792077
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390904986
+sort_value: '301530859'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1526,2484,590,85/150,/0/default.jpg
-label: dead mens candles
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1563,859,630,105/150,/0/default.jpg
+label: Dainty meats
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0936'
+order: '0937'
 layout: index_item
 collection: index1
 ---

@@ -2,24 +2,25 @@
 pid: index_1541
 volume: Volume 3
 image_number: '21'
-head: gag
-entry: 4742 [PAGE_MISSING]
+head: frenzy
+entry: "<a href='/digital-beehive/num2/num_0517/'>417 [Rage]</a>"
 topic:
-first_letter: G
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b1f0dc4bc"
+item: "#item-bd85186b1"
 unparsed:
-line: 'Head: gag|Entry: 4742 [PAGE_MISSING]|#item-b1f0dc4bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1970,1992,344,143/full/0/default.jpg
+line: 'Head: frenzy|Entry: 417 [Rage]|#item-bd85186b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/866,2201,400,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786458152
+annotation_uri: http://dev.llgc.org.uk/annotation/1532619110574
+sort_value: '302122201'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1970,1992,344,143/150,/0/default.jpg
-label: gag
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/866,2201,400,91/150,/0/default.jpg
+label: frenzy
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

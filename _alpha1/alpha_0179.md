@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>|<a href='/digital-beehive/num4/num_1170/'>901
   [Contradiction]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0775/'>contradiction</a>"
+index: "<a href='/digital-beehive/index1/index_0828/'>contradiction</a>"
 item: "#item-ecfae9f9c"
 unparsed:
 line: 'Entry: Contradiction|Topic: Contradiction|Xref: 201 [Taverns]|Xref: 901 [Contradiction]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Contradiction|Topic: Contradiction|Xref: 201 [Taverns]|Xref: 901 [
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/780,4393,3061,667/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499784916861
+sort_value: '144414393'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/780,4393,600,180/250,/0/default.jpg
 label: Contradiction

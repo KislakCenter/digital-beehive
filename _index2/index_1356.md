@@ -2,24 +2,25 @@
 pid: index_1356
 volume: Volume 3
 image_number: '19'
-head: excess
-entry: "<a href='/digital-beehive/num5/num_1595/'>1169 [Extremity]</a>"
+head: exploit
+entry:
 topic:
 first_letter: E
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0983/'>deed</a>"
 index:
-item: "#item-5f619fd50"
+item: "#item-6e7ee6f60"
 unparsed:
-line: 'Head: excess|Entry: 1169 [Extremity]|#item-5f619fd50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/840,3085,435,168/full/0/default.jpg
+line: 'Head: exploit|See: deed|#item-6e7ee6f60'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1548,1728,527,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360320914
+annotation_uri: http://dev.llgc.org.uk/annotation/1561395612943
+sort_value: '301931728'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/840,3085,435,168/150,/0/default.jpg
-label: excess
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1548,1728,527,151/150,/0/default.jpg
+label: exploit
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

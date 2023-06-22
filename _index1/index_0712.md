@@ -2,24 +2,26 @@
 pid: index_0712
 volume: Volume 3
 image_number: '13'
-head: coach
-entry: "<a href='/digital-beehive/num5/num_1583/'>1162 [Carriage]</a>"
+head: cock
+entry: "<a href='/digital-beehive/num3/num_1070/'>723 [a Cock]</a>|<a href='/digital-beehive/num8/num_2696/'>1765
+  [Cock]</a>"
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-44198db57"
+item: "#item-ba6239de5"
 unparsed:
-line: 'Head: coach|Entry: 1162 [Carriage]|#item-44198db57'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/873,2233,401,141/full/0/default.jpg
+line: 'Head: cock|Page: p.35 [Image 1.95]|Entry: 723 [a Cock]|Entry: 1765 [Cock]|#item-ba6239de5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/844,2697,658,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536607890224
+annotation_uri: http://dev.llgc.org.uk/annotation/1536608597793
+sort_value: '301322697'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/873,2233,401,141/150,/0/default.jpg
-label: coach
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/844,2697,658,162/150,/0/default.jpg
+label: cock
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

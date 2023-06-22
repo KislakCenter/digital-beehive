@@ -2,8 +2,8 @@
 pid: index_2725
 volume: Volume 3
 image_number: '32'
-head: niceness
-entry: "<a href='/digital-beehive/num6/num_1912/'>1352 [Niceness]</a>"
+head: nonplust
+entry: 831 [PAGE_MISSING]
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ab9988fdb"
+item: "#item-c31281d61"
 unparsed:
-line: 'Head: niceness|Entry: 1352 [Niceness]|#item-ab9988fdb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1150,2860,511,121/full/0/default.jpg
+line: 'Head: nonplust|Entry: 831 [PAGE_MISSING]|#item-c31281d61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1836,1456,460,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560443289286
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448806753
+sort_value: '303231456'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1150,2860,511,121/150,/0/default.jpg
-label: niceness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1836,1456,460,140/150,/0/default.jpg
+label: nonplust
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

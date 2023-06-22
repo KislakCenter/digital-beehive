@@ -2,8 +2,8 @@
 pid: index_2712
 volume: Volume 3
 image_number: '32'
-head: notary
-entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
+head: Nile
+entry: "<a href='/digital-beehive/num7/num_2361/'>1574 [Nile]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8d448ea85"
+item: "#item-911955e07"
 unparsed:
-line: 'Head: notary|Entry: 260 [Scribe or publick Notary]|#item-8d448ea85'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2256,419,129/full/0/default.jpg
+line: 'Head: Nile|Entry: 1574 [Nile]|#item-911955e07'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1137,3457,386,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449359856
+annotation_uri: http://dev.llgc.org.uk/annotation/1560446330105
+sort_value: '303223457'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2256,419,129/150,/0/default.jpg
-label: notary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1137,3457,386,119/150,/0/default.jpg
+label: Nile
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0885/'>Singing</a>|<a href='/digital-beehive/num7/num_2497/'>1640
   [Sound]</a>|<a href='/digital-beehive/num2/num_0527/'>425 [Musick]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2590/'>musick</a>"
+index: "<a href='/digital-beehive/index3/index_2621/'>musick</a>"
 item: "#item-843ee86fd"
 unparsed:
 line: 'Entry: Musick|Topic: Musick|Xref: Singing|Xref: 1640 [Sound]|Xref: 425 [Musick]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Musick|Topic: Musick|Xref: Singing|Xref: 1640 [Sound]|Xref: 425 [M
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/702,3919,3035,557/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564777940324
+sort_value: '203413919'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/702,3919,600,180/250,/0/default.jpg
 label: Musick

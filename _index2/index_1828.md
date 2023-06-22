@@ -2,8 +2,8 @@
 pid: index_1828
 volume: Volume 3
 image_number: '24'
-head: hosts
-entry: "<a href='/digital-beehive/num8/num_2771/'>1891 [Armies or Hosts]</a>"
+head: to hide
+entry: 811 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3b0579b65"
+item: "#item-716ca448c"
 unparsed:
-line: 'Head: hosts|Entry: 1891 [Armies or Hosts]|#item-3b0579b65'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1172,3638,400,139/full/0/default.jpg
+line: 'Head: to hide|Entry: 811 [PAGE_MISSING]|#item-716ca448c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/405,1685,444,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584759968
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576330208
+sort_value: '302411685'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1172,3638,400,139/150,/0/default.jpg
-label: hosts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/405,1685,444,104/150,/0/default.jpg
+label: to hide
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

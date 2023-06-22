@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0795/'>603 [Flaccid]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3762/'>soft</a>"
+index: "<a href='/digital-beehive/index4/index_3781/'>soft</a>"
 item: "#item-bf50f33bf"
 unparsed:
 line: 'Entry: Soft|Topic: Soft|Xref: 603 [Flaccid]|Index: soft|#item-bf50f33bf'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/818,1496,836,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532448996658
+sort_value: '205411496'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/818,1496,600,180/250,/0/default.jpg
 label: Soft

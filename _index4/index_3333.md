@@ -2,24 +2,25 @@
 pid: index_3333
 volume: Volume 3
 image_number: '39'
-head: to recruit
-entry: "<a href='/digital-beehive/num2/num_0579/'>464 [Amending]</a>"
+head: to refresh
+entry:
 topic:
 first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3261/'>quicken</a>"
 index:
-item: "#item-8341a905f"
+item: "#item-12b3cec00"
 unparsed:
-line: 'Head: to recruit|Entry: 464 [Amending]|#item-8341a905f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/125,633,605,167/full/0/default.jpg
+line: 'Head: to refresh|See: quicken|#item-12b3cec00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/133,1483,677,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463243614
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464552129
+sort_value: '303911483'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/125,633,605,167/150,/0/default.jpg
-label: to recruit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/133,1483,677,121/150,/0/default.jpg
+label: to refresh
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

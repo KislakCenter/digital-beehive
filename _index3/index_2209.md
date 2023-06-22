@@ -2,8 +2,8 @@
 pid: index_2209
 volume: Volume 3
 image_number: '27'
-head: Lavender
-entry: "<a href='/digital-beehive/num8/num_2857/'>1938 [Lavender]</a>"
+head: to last or endure
+entry: "<a href='/digital-beehive/alpha3/alpha_0518/'>a</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-37a8f986f"
+item: "#item-b403e920b"
 unparsed:
-line: 'Head: Lavender|Entry: 1938 [Lavender]|#item-37a8f986f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1533,3107,476,108/full/0/default.jpg
+line: 'Head: to last or endure|Entry: a|#item-b403e920b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,2131,596,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836910585
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836068046
+sort_value: '302732131'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1533,3107,476,108/150,/0/default.jpg
-label: Lavender
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,2131,596,133/150,/0/default.jpg
+label: to last or endure
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

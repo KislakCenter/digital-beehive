@@ -2,27 +2,25 @@
 pid: index_2543
 volume: Volume 3
 image_number: '31'
-head: mountebank
-entry: "<a href='/digital-beehive/alpha3/alpha_0616/'>a</a>|<a href='/digital-beehive/num6/num_1874/'>1333
-  [Mountebank]</a>|<a href='/digital-beehive/num10/num_3249/'>2288 [Mountebanck :
-  Quack]</a>"
+head: missionaries
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0170/'>apostles</a>"
 index:
-item: "#item-132cac763"
+item: "#item-e9d7c5c87"
 unparsed:
-line: 'Head: mountebank|Entry: a|Entry: 1333 [Mountebank]|Entry: 2288 [Mountebanck
-  : Quack]|#item-132cac763'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1600,524,666,147/full/0/default.jpg
+line: 'Head: missionaries|See: apostles|#item-e9d7c5c87'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/178,1194,688,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360524709
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351733266
+sort_value: '303111194'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1600,524,666,147/150,/0/default.jpg
-label: mountebank
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/178,1194,688,159/150,/0/default.jpg
+label: missionaries
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

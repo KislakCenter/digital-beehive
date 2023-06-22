@@ -2,8 +2,8 @@
 pid: index_2649
 volume: Volume 3
 image_number: '32'
-head: noon
-entry: 765 [PAGE_MISSING]
+head: nativity
+entry:
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-64aa21538"
+item: "#item-79ef3a393"
 unparsed:
-line: 'Head: noon|Entry: 765 [PAGE_MISSING]|#item-64aa21538'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,1759,363,88/full/0/default.jpg
+line: 'Head: nativity|#item-79ef3a393'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/393,1356,310,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448978181
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437714005
+sort_value: '303211356'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,1759,363,88/150,/0/default.jpg
-label: noon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/393,1356,310,114/150,/0/default.jpg
+label: nativity
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

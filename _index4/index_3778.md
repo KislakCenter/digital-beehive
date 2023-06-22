@@ -2,9 +2,8 @@
 pid: index_3778
 volume: Volume 3
 image_number: '43'
-head: sin venial
-entry: "<a href='/digital-beehive/num2/num_0388/'>335 [mortal & venial sins]</a>|<a
-  href='/digital-beehive/num3/num_0689/'>546 [Punctilio]</a>"
+head: Socinians
+entry: "<a href='/digital-beehive/num1/num_0048/'>48 [Socinians]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e4308b335"
+item: "#item-3f020460b"
 unparsed:
-line: 'Head: sin venial|Entry: 335 [mortal & venial sins]|Entry: 546 [Punctilio]|#item-e4308b335'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/168,3060,736,126/full/0/default.jpg
+line: 'Head: Socinians|Entry: 48 [Socinians]|#item-3f020460b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,2126,519,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582590879
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586216942
+sort_value: '304332126'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/168,3060,736,126/150,/0/default.jpg
-label: sin venial
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,2126,519,133/150,/0/default.jpg
+label: Socinians
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

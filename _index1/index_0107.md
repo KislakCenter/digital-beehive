@@ -2,8 +2,8 @@
 pid: index_0107
 volume: Volume 3
 image_number: '7'
-head: acorns
-entry: "<a href='/digital-beehive/num6/num_2084/'>1431 [Acorns]</a>"
+head: almost
+entry: 781 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e97b77199"
+item: "#item-ca2e9c949"
 unparsed:
-line: 'Head: acorns|Entry: 1431 [Acorns]|#item-e97b77199'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/166,3051,469,83/full/0/default.jpg
+line: 'Head: almost|Entry: 781 [PAGE_MISSING]|#item-ca2e9c949'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1601,2024,368,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491191607454
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770214673
+sort_value: '300732024'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/166,3051,469,83/150,/0/default.jpg
-label: acorns
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1601,2024,368,113/150,/0/default.jpg
+label: almost
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

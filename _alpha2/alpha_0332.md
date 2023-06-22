@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0097/'>94 [a Plausible man]</a>|810 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index2/index_1451/'>flattery</a>"
+index: "<a href='/digital-beehive/index2/index_1473/'>flattery</a>"
 item: "#item-c9615b60f"
 unparsed:
 line: 'Entry: Flattery|Topic: Flattery|Xref: 94 [a Plausible man]|Xref: 810 [PAGE_MISSING]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Flattery|Topic: Flattery|Xref: 94 [a Plausible man]|Xref: 810 [PAG
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/398,4327,3036,751/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1474834007338
+sort_value: '201114327'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/398,4327,600,180/250,/0/default.jpg
 label: Flattery

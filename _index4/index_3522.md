@@ -2,24 +2,25 @@
 pid: index_3522
 volume: Volume 3
 image_number: '41'
-head: sceptre
-entry: 826 [PAGE_MISSING]
+head: satisfaction
+entry: "<a href='/digital-beehive/num3/num_0690/'>547 [Satisfaction]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-358e2e594"
+item: "#item-7a662a885"
 unparsed:
-line: 'Head: sceptre|Page: p.39 [Image 1.99]|Entry: 826 [PAGE_MISSING]|#item-358e2e594'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/870,761,636,152/full/0/default.jpg
+line: 'Head: satisfaction|Entry: 547 [Satisfaction]|#item-7a662a885'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,1904,552,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240355165
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239121796
+sort_value: '304111904'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/870,761,636,152/150,/0/default.jpg
-label: sceptre
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,1904,552,133/150,/0/default.jpg
+label: satisfaction
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

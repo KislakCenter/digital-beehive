@@ -2,8 +2,9 @@
 pid: index_3982
 volume: Volume 3
 image_number: '46'
-head: sweat
-entry: "<a href='/digital-beehive/alpha4/alpha_0939/'>a</a>"
+head: sun
+entry: "<a href='/digital-beehive/alpha4/alpha_0931/'>a</a>|<a href='/digital-beehive/num6/num_1923/'>1357
+  [Sun]</a>|<a href='/digital-beehive/num9/num_3045/'>2108 [Sun]</a>"
 topic:
 first_letter: S
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-5a2cd8e7f"
+item: "#item-8bc217319"
 unparsed:
-line: 'Head: sweat|Entry: a|#item-5a2cd8e7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1092,1601,348,112/full/0/default.jpg
+line: 'Head: sun|Entry: a|Entry: 1357 [Sun]|Entry: 2108 [Sun]|#item-8bc217319'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/473,908,574,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565293298680
+annotation_uri: http://dev.llgc.org.uk/annotation/1530472814720
+sort_value: '304610908'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1092,1601,348,112/150,/0/default.jpg
-label: sweat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/473,908,574,84/150,/0/default.jpg
+label: sun
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1228'
+order: '1230'
 layout: index_item
 collection: index4
 ---

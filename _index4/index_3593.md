@@ -2,24 +2,25 @@
 pid: index_3593
 volume: Volume 3
 image_number: '41'
-head: scar
-entry:
+head: seeing
+entry: "<a href='/digital-beehive/num2/num_0468/'>385 [Sight]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4565/'>wound</a>"
+see: "<a href='/digital-beehive/index4/index_3701/'>sight</a>"
 index:
-item: "#item-3fa9f6b5e"
+item: "#item-4c8214bae"
 unparsed:
-line: 'Head: scar|See: wound|#item-3fa9f6b5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,3252,497,166/full/0/default.jpg
+line: 'Head: seeing|See: sight|Entry: 385 [Sight]|#item-4c8214bae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1598,2900,672,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240083713
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243026815
+sort_value: '304132900'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,3252,497,166/150,/0/default.jpg
-label: scar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1598,2900,672,169/150,/0/default.jpg
+label: seeing
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

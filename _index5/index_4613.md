@@ -2,28 +2,30 @@
 pid: index_4613
 volume: Volume 3
 image_number: '53'
-head: yeoman
-entry: "<a href='/digital-beehive/num6/num_2151/'>1464 [Yeoman, Ingenuus]</a>"
+head: good works
+entry: "<a href='/digital-beehive/alpha5/alpha_1060/'>a</a>|<a href='/digital-beehive/num5/num_1429/'>1062
+  [Good Works]</a>|4769 [PAGE_MISSING]"
 topic:
-first_letter: Y
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e5b238077"
+item: "#item-de86681a6"
 unparsed:
-line: 'Head: yeoman|Entry: 1464 [Yeoman, Ingenuus]|#item-e5b238077'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1569,2076,496,106/full/0/default.jpg
+line: 'Head: good works|Entry: a|Entry: 1062 [Good Works]|Entry: 4769 [PAGE_MISSING]|#item-de86681a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2455,693,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799020982
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797161790
+sort_value: '305322455'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1569,2076,496,106/150,/0/default.jpg
-label: yeoman
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2455,693,153/150,/0/default.jpg
+label: good works
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '576'
+order: '575'
 layout: index_item
 collection: index5
 ---

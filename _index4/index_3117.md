@@ -2,26 +2,28 @@
 pid: index_3117
 volume: Volume 3
 image_number: '36'
-head: prerogative
+head: precious
 entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3147/'>priviledge</a>"
+see: dear|excell
 index:
-item: "#item-30cb68a9c"
+item: "#item-893007bd4"
 unparsed:
-line: 'Head: prerogative|See: priviledge|#item-30cb68a9c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1841,3018,713,186/full/0/default.jpg
+line: 'Head: precious|See: dear|See: excell|#item-893007bd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1842,1745,743,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440897988
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440455317
+sort_value: '303631745'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1841,3018,713,186/150,/0/default.jpg
-label: prerogative
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1842,1745,743,125/150,/0/default.jpg
+label: precious
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue:
+issue: The intended point of reference for "dear" is unclear.|The intended point of
+  reference for "excell" is unclear.
 insertion_xref:
 order: '0365'
 layout: index_item

@@ -2,24 +2,25 @@
 pid: index_3004
 volume: Volume 3
 image_number: '35'
-head: philosopher stone
-entry:
+head: pigions
+entry: "<a href='/digital-beehive/num3/num_0761/'>588 [Dove]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0027/'>alchymie</a>"
+see:
 index:
-item: "#item-4ec30a3ed"
+item: "#item-2eca340da"
 unparsed:
-line: 'Head: philosopher stone|See: alchymie|#item-4ec30a3ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/full/0/default.jpg
+line: 'Head: pigions|Entry: 588 [Dove]|#item-2eca340da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1533,963,737,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974701712
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976154759
+sort_value: '303530963'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/150,/0/default.jpg
-label: philosopher stone
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1533,963,737,126/150,/0/default.jpg
+label: pigions
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

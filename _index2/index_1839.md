@@ -2,8 +2,8 @@
 pid: index_1839
 volume: Volume 3
 image_number: '24'
-head: hour
-entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1957/'>1374 [Clock]</a>
+head: hinges
+entry: "<a href='/digital-beehive/num7/num_2676/'>1748 [Hinges]</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-077bc3635"
+item: "#item-8bab85db1"
 unparsed:
-line: 'Head: hour|Entry: 758 [PAGE_MISSING]|Entry: 1374 [Clock]|#item-077bc3635'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1840,615,483,113/full/0/default.jpg
+line: 'Head: hinges|Entry: 1748 [Hinges]|#item-8bab85db1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/406,2849,447,178/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586316479
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577474176
+sort_value: '302412849'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1840,615,483,113/150,/0/default.jpg
-label: hour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/406,2849,447,178/150,/0/default.jpg
+label: hinges
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

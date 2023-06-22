@@ -2,8 +2,8 @@
 pid: index_0654
 volume: Volume 3
 image_number: '13'
-head: cleft
-entry: 842 [PAGE_MISSING]
+head: christmas
+entry: "<a href='/digital-beehive/num7/num_2405/'>1598 [Christmas]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-fa719bc62"
+item: "#item-3ea078f5d"
 unparsed:
-line: 'Head: cleft|Entry: 842 [PAGE_MISSING]|#item-fa719bc62'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/861,337,423,149/full/0/default.jpg
+line: 'Head: christmas|Entry: 1598 [Christmas]|#item-3ea078f5d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/140,757,545,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536333896530
+annotation_uri: http://dev.llgc.org.uk/annotation/1532618914240
+sort_value: '301310757'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/861,337,423,149/150,/0/default.jpg
-label: cleft
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/140,757,545,133/150,/0/default.jpg
+label: christmas
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

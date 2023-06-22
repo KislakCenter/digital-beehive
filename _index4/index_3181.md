@@ -2,9 +2,8 @@
 pid: index_3181
 volume: Volume 3
 image_number: '37'
-head: profession
-entry: "<a href='/digital-beehive/num2/num_0280/'>255 [Profession]</a>|<a href='/digital-beehive/num7/num_2621/'>1699
-  [Profession]</a>"
+head: prognostica[ti]ons
+entry: "<a href='/digital-beehive/alpha4/alpha_0746/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f5b954605"
+item: "#item-683f714b4"
 unparsed:
-line: 'Head: profession|Entry: 255 [Profession]|Entry: 1699 [Profession]|#item-f5b954605'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/796,2007,679,147/full/0/default.jpg
+line: 'Head: prognostica[ti]ons|Entry: a|#item-683f714b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/771,2343,576,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868187680
+annotation_uri: http://dev.llgc.org.uk/annotation/1564084141262
+sort_value: '303722343'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/796,2007,679,147/150,/0/default.jpg
-label: profession
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/771,2343,576,157/150,/0/default.jpg
+label: prognostica[ti]ons
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

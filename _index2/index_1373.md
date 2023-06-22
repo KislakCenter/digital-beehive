@@ -17,6 +17,7 @@ line: 'Head: Ezekiel|Entry: 2164 [Ezekiel]|#item-f8278db89'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1512,3591,537,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561398317016
+sort_value: '301933591'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1512,3591,537,135/150,/0/default.jpg
 label: Ezekiel

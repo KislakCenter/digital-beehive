@@ -2,24 +2,25 @@
 pid: index_0106
 volume: Volume 3
 image_number: '7'
-head: aggravate
-entry: "<a href='/digital-beehive/num3/num_0731/'>573 [To aggravate]</a>"
+head: almond
+entry: 1856 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4652/'>worse</a>"
+see:
 index:
-item: "#item-fc752fad1"
+item: "#item-a56ea2e06"
 unparsed:
-line: 'Head: aggravate|See: worse|Entry: 573 [To aggravate]|#item-fc752fad1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3041,696,125/full/0/default.jpg
+line: 'Head: almond|Entry: 1856 [PAGE_MISSING]|#item-a56ea2e06'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1605,1989,389,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767478157
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770165654
+sort_value: '300731989'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3041,696,125/150,/0/default.jpg
-label: aggravate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1605,1989,389,91/150,/0/default.jpg
+label: almond
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

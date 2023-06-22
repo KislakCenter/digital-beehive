@@ -2,24 +2,26 @@
 pid: index_0172
 volume: Volume 3
 image_number: '8'
-head: arrogancy
-entry:
+head: apothecary
+entry: "<a href='/digital-beehive/alpha1/alpha_0040/'>a</a>|<a href='/digital-beehive/num11/num_3486/'>4794
+  [Apothecary]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3189/'>pride</a>|<a href='/digital-beehive/index4/index_3899/'>stoutness</a>"
+see:
 index:
-item: "#item-5c111e5f0"
+item: "#item-27eb9d694"
 unparsed:
-line: 'Head: arrogancy|See: pride|See: stoutness|#item-5c111e5f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1799,1217,594,206/full/0/default.jpg
+line: 'Head: apothecary|Entry: a|Entry: 4794 [Apothecary]|#item-27eb9d694'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1106,993,636,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631327494
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759951191
+sort_value: '300820993'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1799,1217,594,206/150,/0/default.jpg
-label: arrogancy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1106,993,636,126/150,/0/default.jpg
+label: apothecary
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

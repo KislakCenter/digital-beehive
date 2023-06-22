@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_2971/'>2037 [Nominal Christians]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0653/'>christendom</a>"
+index: "<a href='/digital-beehive/index1/index_0650/'>christendom</a>"
 item: "#item-0b0ff0fcd"
 unparsed:
 line: 'Entry: Christendom|Topic: Christendom|Xref: 2037 [Nominal Christians]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Christendom|Topic: Christendom|Xref: 2037 [Nominal Christians]|Ind
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/804,212,3096,640/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499699786298
+sort_value: '144210212'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/804,212,600,180/250,/0/default.jpg
 label: Christendom

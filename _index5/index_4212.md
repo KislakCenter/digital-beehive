@@ -2,9 +2,9 @@
 pid: index_4212
 volume: Volume 3
 image_number: '48'
-head: too much
-entry: "<a href='/digital-beehive/alpha5/alpha_0970/'>a</a>|815 [PAGE_MISSING]|4649
-  [PAGE_MISSING]"
+head: trance
+entry: "<a href='/digital-beehive/alpha5/alpha_0979/'>a</a>|<a href='/digital-beehive/num6/num_1791/'>1286
+  [Extasies]</a>"
 topic:
 first_letter: T
 page:
@@ -12,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-02bb8094e"
+item: "#item-f94a7aa4f"
 unparsed:
-line: 'Head: too much|Entry: a|Entry: 815 [PAGE_MISSING]|Entry: 4649 [PAGE_MISSING]|#item-02bb8094e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/443,1635,713,134/full/0/default.jpg
+line: 'Head: trance|Entry: a|Entry: 1286 [Extasies]|#item-f94a7aa4f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1107,1816,541,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274806427
+annotation_uri: http://dev.llgc.org.uk/annotation/1561485853297
+sort_value: '304821816'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/443,1635,713,134/150,/0/default.jpg
-label: too much
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1107,1816,541,106/150,/0/default.jpg
+label: trance
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '175'
+order: '174'
 layout: index_item
 collection: index5
 ---

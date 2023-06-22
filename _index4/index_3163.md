@@ -2,8 +2,9 @@
 pid: index_3163
 volume: Volume 3
 image_number: '37'
-head: pretention
-entry: "<a href='/digital-beehive/num6/num_1989/'>1389 [Pretension]</a>"
+head: privacy
+entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>|<a href='/digital-beehive/num5/num_1606/'>1178
+  [Privacy]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5a9eac838"
+item: "#item-bd3a634f6"
 unparsed:
-line: 'Head: pretention|Entry: 1389 [Pretension]|#item-5a9eac838'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,1250,546,143/full/0/default.jpg
+line: 'Head: privacy|Entry: a|Entry: 1178 [Privacy]|#item-bd3a634f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/764,415,598,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866301153
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867539151
+sort_value: '303720415'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,1250,546,143/150,/0/default.jpg
-label: pretention
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/764,415,598,149/150,/0/default.jpg
+label: privacy
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

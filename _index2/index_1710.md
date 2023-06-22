@@ -2,8 +2,8 @@
 pid: index_1710
 volume: Volume 3
 image_number: '23'
-head: gray hairs
-entry: "<a href='/digital-beehive/alpha2/alpha_0382/'>a</a>"
+head: greek
+entry: 783 [PAGE_MISSING]
 topic:
 first_letter: G
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ee64de4e8"
+item: "#item-bd1a8d430"
 unparsed:
-line: 'Head: gray hairs|Entry: a|#item-ee64de4e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/129,457,504,131/full/0/default.jpg
+line: 'Head: greek|Entry: 783 [PAGE_MISSING]|#item-bd1a8d430'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/142,1113,343,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559228941091
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230461145
+sort_value: '302311113'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/129,457,504,131/150,/0/default.jpg
-label: gray hairs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/142,1113,343,125/150,/0/default.jpg
+label: greek
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

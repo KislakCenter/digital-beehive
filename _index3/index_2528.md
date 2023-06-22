@@ -2,24 +2,25 @@
 pid: index_2528
 volume: Volume 3
 image_number: '30'
-head: medals
-entry: 4539 [PAGE_MISSING]
+head: minority
+entry: "<a href='/digital-beehive/num4/num_1279/'>959 [Guardian]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1722/'>guardians</a>"
 index:
-item: "#item-eeecbaef6"
+item: "#item-ad4e76e35"
 unparsed:
-line: 'Head: medals|Entry: 4539 [PAGE_MISSING]|#item-eeecbaef6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/431,3349,432,141/full/0/default.jpg
+line: 'Head: minority|See: guardians|Entry: 959 [Guardian]|#item-ad4e76e35'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1832,2951,657,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560266247149
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274832070
+sort_value: '303032951'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/431,3349,432,141/150,/0/default.jpg
-label: medals
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1832,2951,657,184/150,/0/default.jpg
+label: minority
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

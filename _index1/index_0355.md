@@ -2,24 +2,25 @@
 pid: index_0355
 volume: Volume 3
 image_number: '10'
-head: both
-entry: 777 [PAGE_MISSING]
+head: benevolence
+entry:
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1417/'>favour</a>"
 index:
-item: "#item-4d103fdcd"
+item: "#item-9ac1d7b00"
 unparsed:
-line: 'Head: both|Entry: 777 [PAGE_MISSING]|#item-4d103fdcd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1783,2419,349,119/full/0/default.jpg
+line: 'Head: benevolence|See: favour|#item-9ac1d7b00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/377,1863,710,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531416686910
+annotation_uri: http://dev.llgc.org.uk/annotation/1531147767958
+sort_value: '301011863'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1783,2419,349,119/150,/0/default.jpg
-label: both
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/377,1863,710,150/150,/0/default.jpg
+label: benevolence
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

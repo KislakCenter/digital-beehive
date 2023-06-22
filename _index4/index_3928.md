@@ -2,8 +2,8 @@
 pid: index_3928
 volume: Volume 3
 image_number: '45'
-head: strappado
-entry: "<a href='/digital-beehive/alpha4/alpha_0922/'>a</a>"
+head: stranger
+entry: "<a href='/digital-beehive/num5/num_1452/'>1076 [Stranger]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8af722b3b"
+item: "#item-884c80f8c"
 unparsed:
-line: 'Head: strappado|Entry: a|#item-8af722b3b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/898,1864,423,123/full/0/default.jpg
+line: 'Head: stranger|Entry: 1076 [Stranger]|#item-884c80f8c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/899,1480,440,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530464842471
+annotation_uri: http://dev.llgc.org.uk/annotation/1530461621702
+sort_value: '304521480'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/898,1864,423,123/150,/0/default.jpg
-label: strappado
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/899,1480,440,131/150,/0/default.jpg
+label: stranger
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0418
 volume: Volume 3
 image_number: '10'
-head: bouhours
-entry: "<a href='/digital-beehive/num11/num_3489/'>4796 [Bouhours]</a>"
+head: Boston
+entry: "<a href='/digital-beehive/num7/num_2257/'>1523 [New England]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2a197bc4a"
+item: "#item-f6d69941c"
 unparsed:
-line: 'Head: bouhours|Entry: 4796 [Bouhours]|#item-2a197bc4a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1774,2779,498,98/full/0/default.jpg
+line: 'Head: Boston|Entry: 1523 [New England]|#item-f6d69941c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1782,2368,408,90/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531416854338
+annotation_uri: http://dev.llgc.org.uk/annotation/1531416665465
+sort_value: '301032368'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1774,2779,498,98/150,/0/default.jpg
-label: bouhours
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1782,2368,408,90/150,/0/default.jpg
+label: Boston
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

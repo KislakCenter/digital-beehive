@@ -2,8 +2,8 @@
 pid: index_2068
 volume: Volume 3
 image_number: '26'
-head: invocation of Saints
-entry: "<a href='/digital-beehive/num8/num_2798/'>1906 [Invocation of Saints]</a>"
+head: instigation
+entry: "<a href='/digital-beehive/num3/num_0791/'>602 [Instigation]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4ef806d6f"
+item: "#item-9d9d393bf"
 unparsed:
-line: 'Head: invocation of Saints|Entry: 1906 [Invocation of Saints]|#item-4ef806d6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1729,669,135/full/0/default.jpg
+line: 'Head: instigation|Entry: 602 [Instigation]|#item-9d9d393bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1166,1893,558,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751692486
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748185836
+sort_value: '302621893'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1729,669,135/150,/0/default.jpg
-label: invocation of Saints
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1166,1893,558,146/150,/0/default.jpg
+label: instigation
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0487/'>Intercession</a>|<a href='/digital-beehive/alpha4/alpha_0697/'>Peacemaker</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2530/'>mediator</a>"
+index: "<a href='/digital-beehive/index3/index_2464/'>mediator</a>"
 item: "#item-e03fccbbb"
 unparsed:
 line: 'Entry: Mediatour|Topic: Mediatour|Xref: Intercession|Xref: Peacemaker|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Mediatour|Topic: Mediatour|Xref: Intercession|Xref: Peacemaker|Ind
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/355,4602,3019,409/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564773278400
+sort_value: '203114602'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/355,4602,600,180/250,/0/default.jpg
 label: Mediatour

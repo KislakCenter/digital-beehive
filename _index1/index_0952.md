@@ -2,29 +2,29 @@
 pid: index_0952
 volume: Volume 3
 image_number: '15'
-head: cowardize
-entry: "<a href='/digital-beehive/alpha1/alpha_0191/'>a</a>|<a href='/digital-beehive/num9/num_3000/'>2066
-  [Cowardly]</a>"
+head: dawning
+entry:
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4274/'>twilight</a>"
 index:
-item: "#item-185f7077c"
+item: "#item-9498f0f80"
 unparsed:
-line: 'Head: cowardize|Entry: a|Entry: 2066 [Cowardly]|#item-185f7077c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/163,2958,675,124/full/0/default.jpg
+line: 'Head: dawning|See: twilight|#item-9498f0f80'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1455,1875,839,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537975217874
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391523109
+sort_value: '301531875'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/163,2958,675,124/150,/0/default.jpg
-label: cowardize
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1455,1875,839,160/150,/0/default.jpg
+label: dawning
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0950'
+order: '0951'
 layout: index_item
 collection: index1
 ---

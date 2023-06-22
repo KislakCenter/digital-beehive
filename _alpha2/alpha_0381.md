@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0882/'>646 [Grace of God]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1652/'>Grace of God</a>"
+index: "<a href='/digital-beehive/index2/index_1683/'>Grace of God</a>"
 item: "#item-f20619d2c"
 unparsed:
 line: 'Entry: Grace of God|Topic: Grace of God|Xref: 646 [Grace of God]|Index: Grace
@@ -18,6 +18,7 @@ line: 'Entry: Grace of God|Topic: Grace of God|Xref: 646 [Grace of God]|Index: G
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/390,3712,3011,437/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564603228332
+sort_value: '201513712'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/390,3712,600,180/250,/0/default.jpg
 label: Grace of God

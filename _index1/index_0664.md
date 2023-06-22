@@ -2,8 +2,8 @@
 pid: index_0664
 volume: Volume 3
 image_number: '13'
-head: colour
-entry: 788 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2349/'>1568 [Colours]</a>
+head: Churchman
+entry: "<a href='/digital-beehive/num6/num_1972/'>1381 [Robert Churchman]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-03cf496a6"
+item: "#item-841f4d4af"
 unparsed:
-line: 'Head: colour|Entry: 788 [PAGE_MISSING]|Entry: 1568 [Colours]|#item-03cf496a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1540,735,564,110/full/0/default.jpg
+line: 'Head: Churchman|Entry: 1381 [Robert Churchman]|#item-841f4d4af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/139,1577,549,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610298538
+annotation_uri: http://dev.llgc.org.uk/annotation/1532620076284
+sort_value: '301311577'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1540,735,564,110/150,/0/default.jpg
-label: colour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/139,1577,549,102/150,/0/default.jpg
+label: Churchman
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

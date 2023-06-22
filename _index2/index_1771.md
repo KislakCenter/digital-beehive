@@ -2,8 +2,9 @@
 pid: index_1771
 volume: Volume 3
 image_number: '23'
-head: helmut
-entry: 849 [PAGE_MISSING]
+head: hay
+entry: "<a href='/digital-beehive/num4/num_1115/'>878 [Pasture]</a>|<a href='/digital-beehive/num9/num_3092/'>2151
+  [Grass & Pasture]</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-93a41ce42"
+item: "#item-c7c65f67e"
 unparsed:
-line: 'Head: helmut|Entry: 849 [PAGE_MISSING]|#item-93a41ce42'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1528,2278,404,123/full/0/default.jpg
+line: 'Head: hay|Entry: 878 [Pasture]|Entry: 2151 [Grass & Pasture]|#item-c7c65f67e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/827,3307,460,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571131865
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241651976
+sort_value: '302323307'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1528,2278,404,123/150,/0/default.jpg
-label: helmut
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/827,3307,460,145/150,/0/default.jpg
+label: hay
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

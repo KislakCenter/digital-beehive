@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0885/'>Singing</a>|1867 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3212/'>psalm</a>"
+index: "<a href='/digital-beehive/index4/index_3217/'>psalm</a>"
 item: "#item-863f88b4c"
 unparsed:
 line: 'Topic: Psalms|Entry: Psalms|Xref: Singing|Xref: 1867 [PAGE_MISSING]|Index:
@@ -18,6 +18,7 @@ line: 'Topic: Psalms|Entry: Psalms|Xref: Singing|Xref: 1867 [PAGE_MISSING]|Index
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/804,3851,2937,492/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529669808509
+sort_value: '204413851'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/804,3851,600,180/250,/0/default.jpg
 label: Psalms

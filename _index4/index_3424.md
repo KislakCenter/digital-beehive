@@ -2,24 +2,25 @@
 pid: index_3424
 volume: Volume 3
 image_number: '40'
-head: rimes
-entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>"
+head: ridiculus
+entry:
 topic:
 first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0018/'>absurd</a>"
 index:
-item: "#item-03bca2c24"
+item: "#item-7e6edc55b"
 unparsed:
-line: 'Head: rimes|Entry: 1585 [Verses]|#item-03bca2c24'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/440,2671,400,80/full/0/default.jpg
+line: 'Head: ridiculus|See: absurd|#item-7e6edc55b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/429,2072,640,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232387458
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231906931
+sort_value: '304012072'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/440,2671,400,80/150,/0/default.jpg
-label: rimes
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/429,2072,640,143/150,/0/default.jpg
+label: ridiculus
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

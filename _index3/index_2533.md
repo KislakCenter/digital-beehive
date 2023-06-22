@@ -2,8 +2,8 @@
 pid: index_2533
 volume: Volume 3
 image_number: '31'
-head: "[:12.]"
-entry:
+head: misapply
+entry: "<a href='/digital-beehive/num5/num_1380/'>1032 [misapply]</a>"
 topic:
 first_letter: M
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-64eb0e794"
-unparsed: 'Type: Index|Insertion Xref: [:12.]|#item-64eb0e794'
-line: 'Type: Index|Insertion Xref: [:12.]|#item-64eb0e794'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/2138,1116,189,141/full/0/default.jpg
+item: "#item-cef4bd8bd"
+unparsed:
+line: 'Head: misapply|Entry: 1032 [misapply]|#item-cef4bd8bd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/184,225,504,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361105000
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350469074
+sort_value: '303110225'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/2138,1116,189,141/150,/0/default.jpg
-label: "[:12.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/184,225,504,120/150,/0/default.jpg
+label: misapply
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4704/'>multitude</a>"
+insertion_xref:
 order: '615'
 layout: index_item
 collection: index3

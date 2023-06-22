@@ -2,24 +2,25 @@
 pid: index_2926
 volume: Volume 3
 image_number: '34'
-head: peacock
-entry: "<a href='/digital-beehive/num6/num_2019/'>1404 [Peacocks]</a>"
+head: pavemt
+entry: "<a href='/digital-beehive/num11/num_3566/'>4871 [Pavement]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-9037818ca"
+item: "#item-7c34e855a"
 unparsed:
-line: 'Head: peacock|Page: p.35 [Image 1.95]|Entry: 1404 [Peacocks]|#item-9037818ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1799,3122,691,171/full/0/default.jpg
+line: 'Head: pavemt|Entry: 4871 [Pavement]|#item-7c34e855a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1793,2333,636,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495986728
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495773110
+sort_value: '303432333'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1799,3122,691,171/150,/0/default.jpg
-label: peacock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1793,2333,636,112/150,/0/default.jpg
+label: pavemt
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

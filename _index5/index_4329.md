@@ -2,28 +2,30 @@
 pid: index_4329
 volume: Volume 3
 image_number: '49'
-head: two headed
-entry: "<a href='/digital-beehive/num7/num_2434/'>1612 [Double-headed]</a>"
+head: vile
+entry: "<a href='/digital-beehive/num3/num_0764/'>589 [Base]</a>|<a href='/digital-beehive/num10/num_3394/'>2421
+  [Vile]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-aaec67f99"
+item: "#item-238785142"
 unparsed:
-line: 'Head: two headed|Entry: 1612 [Double-headed]|#item-aaec67f99'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2782,460,110/full/0/default.jpg
+line: 'Head: vile|Entry: 589 [Base]|Entry: 2421 [Vile]|#item-238785142'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1640,1069,527,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657157179
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660026718
+sort_value: '304931069'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2782,460,110/150,/0/default.jpg
-label: two headed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1640,1069,527,119/150,/0/default.jpg
+label: vile
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '292'
+order: '291'
 layout: index_item
 collection: index5
 ---

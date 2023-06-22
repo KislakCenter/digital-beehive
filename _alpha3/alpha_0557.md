@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num6/num_1830/'>1309 [Love to God & the Brethren]</a>|<a
   href='/digital-beehive/num9/num_2974/'>2040 [Love of God]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2378/'>love of God</a>"
+index: "<a href='/digital-beehive/index3/index_2340/'>love of God</a>"
 item: "#item-7b863a95e"
 unparsed:
 line: 'Entry: Love of God|Topic: Love of God|Xref: 1309 [Love to God & the Brethren]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Love of God|Topic: Love of God|Xref: 1309 [Love to God & the Breth
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/329,3168,3055,682/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770800880
+sort_value: '202913168'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/329,3168,600,180/250,/0/default.jpg
 label: Love of God

@@ -2,24 +2,25 @@
 pid: index_3638
 volume: Volume 3
 image_number: '42'
-head: servant & service of God
+head: Sentinel
 entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4655/'>worship</a>"
+see:
 index:
-item: "#item-bb827ea55"
+item: "#item-8570bcde1"
 unparsed:
-line: 'Head: servant & service of God|See: worship|#item-bb827ea55'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1106,1212,744,182/full/0/default.jpg
+line: 'Head: Sentinel|#item-8570bcde1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1129,225,376,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573970706
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571836651
+sort_value: '304220225'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1106,1212,744,182/150,/0/default.jpg
-label: servant & service of God
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1129,225,376,150/150,/0/default.jpg
+label: Sentinel
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

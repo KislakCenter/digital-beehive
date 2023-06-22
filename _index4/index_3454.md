@@ -2,24 +2,25 @@
 pid: index_3454
 volume: Volume 3
 image_number: '40'
-head: Sacheverell
-entry: "<a href='/digital-beehive/num7/num_2577/'>1677 [Sacheverell]</a>"
+head: rosemary
+entry: "<a href='/digital-beehive/num3/num_0990/'>692 [Rosemary]</a>"
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5eb4e541c"
+item: "#item-473fef709"
 unparsed:
-line: 'Head: Sacheverell|Entry: 1677 [Sacheverell]|#item-5eb4e541c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1811,1379,597,132/full/0/default.jpg
+line: 'Head: rosemary|Entry: 692 [Rosemary]|#item-473fef709'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1153,1887,468,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234691757
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233655828
+sort_value: '304021887'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1811,1379,597,132/150,/0/default.jpg
-label: Sacheverell
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1153,1887,468,131/150,/0/default.jpg
+label: rosemary
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,25 +2,25 @@
 pid: index_3449
 volume: Volume 3
 image_number: '40'
-head: Sabbath
-entry: "<a href='/digital-beehive/alpha4/alpha_0824/'>a</a>|<a href='/digital-beehive/num4/num_1239/'>930
-  [Sabbath]</a>|<a href='/digital-beehive/num7/num_2384/'>1589 [Sabbath]</a>"
+head: rope
+entry: "<a href='/digital-beehive/num2/num_0407/'>348 [A rope]</a>"
 topic:
-first_letter: S
-page:
+first_letter: R
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a1aa7c2f5"
+item: "#item-8d84b6ab3"
 unparsed:
-line: 'Head: Sabbath|Entry: a|Entry: 930 [Sabbath]|Entry: 1589 [Sabbath]|#item-a1aa7c2f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1817,1007,657,164/full/0/default.jpg
+line: 'Head: rope|Page: p.38 [Image 1.98]|Entry: 348 [A rope]|#item-8d84b6ab3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1172,1463,454,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234498089
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233486935
+sort_value: '304021463'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1817,1007,657,164/150,/0/default.jpg
-label: Sabbath
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1172,1463,454,111/150,/0/default.jpg
+label: rope
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

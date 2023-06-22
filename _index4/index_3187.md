@@ -2,25 +2,25 @@
 pid: index_3187
 volume: Volume 3
 image_number: '37'
-head: profit
-entry: "<a href='/digital-beehive/alpha4/alpha_0745/'>a</a>|<a href='/digital-beehive/num7/num_2607/'>1692
-  [Gain]</a>"
+head: to prolong
+entry: 851 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
-add: Utility
+add:
 xref:
 see:
 index:
-item: "#item-7875629be"
+item: "#item-60da04bab"
 unparsed:
-line: 'Head: profit|Entry: a|Entry: 1692 [Gain]|Add: Utility|#item-7875629be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/799,2247,483,129/full/0/default.jpg
+line: 'Head: to prolong|Entry: 851 [PAGE_MISSING]|#item-60da04bab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,2972,468,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868490570
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868577278
+sort_value: '303722972'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/799,2247,483,129/150,/0/default.jpg
-label: profit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,2972,468,130/150,/0/default.jpg
+label: to prolong
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

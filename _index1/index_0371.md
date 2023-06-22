@@ -2,8 +2,8 @@
 pid: index_0371
 volume: Volume 3
 image_number: '10'
-head: body of Christ
-entry: a|<a href='/digital-beehive/num3/num_0750/'>583 [Body]</a>
+head: bigamy
+entry: "<a href='/digital-beehive/num2/num_0562/'>452 [Bigamy]</a>"
 topic:
 first_letter: B
 page:
@@ -11,17 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-a11baee38"
+item: "#item-94196207b"
 unparsed:
-line: 'Head: body of Christ|Entry: a|Entry: 583 [Body]|#item-a11baee38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,377,417,163/full/0/default.jpg
+line: 'Head: bigamy|Entry: 452 [Bigamy]|#item-94196207b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1086,490,419,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565635048479
+annotation_uri: http://dev.llgc.org.uk/annotation/1531149273792
+sort_value: '301020490'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,377,417,163/150,/0/default.jpg
-label: body of Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1086,490,419,136/150,/0/default.jpg
+label: bigamy
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified.
+issue:
 insertion_xref:
 order: '0370'
 layout: index_item

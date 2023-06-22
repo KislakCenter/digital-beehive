@@ -2,9 +2,8 @@
 pid: index_2354
 volume: Volume 3
 image_number: '29'
-head: loquacity
-entry: "<a href='/digital-beehive/num2/num_0533/'>430 [Babbling]</a>|<a href='/digital-beehive/num7/num_2652/'>1728
-  [Babbling]</a>"
+head: first love
+entry: "<a href='/digital-beehive/num7/num_2411/'>1601 [First Love]</a>"
 topic:
 first_letter: L
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-53377a99c"
+item: "#item-55b6f1813"
 unparsed:
-line: 'Head: loquacity|Entry: 430 [Babbling]|Entry: 1728 [Babbling]|#item-53377a99c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/183,1205,565,125/full/0/default.jpg
+line: 'Head: first love|Entry: 1601 [First Love]|#item-55b6f1813'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/163,2985,437,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178071036
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180308485
+sort_value: '302912985'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/183,1205,565,125/150,/0/default.jpg
-label: loquacity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/163,2985,437,129/150,/0/default.jpg
+label: first love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

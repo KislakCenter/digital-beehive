@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2443/'>1615 [Widow]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4522/'>widowhood</a>"
+index: "<a href='/digital-beehive/index5/index_4545/'>widowhood</a>"
 item: "#item-1d9195d67"
 unparsed:
 line: 'Entry: Widowhood|Topic: Widowhood|Xref: 1615 [Widow]|Index: widowhood|#item-1d9195d67'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/813,3956,2933,432/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529590854947
+sort_value: '206413956'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/813,3956,600,180/250,/0/default.jpg
 label: Widowhood

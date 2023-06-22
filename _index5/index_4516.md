@@ -2,30 +2,30 @@
 pid: index_4516
 volume: Volume 3
 image_number: '52'
-head: water
-entry: "<a href='/digital-beehive/alpha5/alpha_1030/'>a</a>|<a href='/digital-beehive/num7/num_2300/'>1546
-  [Waters]</a>|<a href='/digital-beehive/num9/num_3088/'>2147 [Water]</a>"
+head: welcome
+entry: "<a href='/digital-beehive/num1/num_0086/'>85 [Wel- and Unwelcome]</a>|<a href='/digital-beehive/num6/num_1920/'>1354
+  [Welcome]</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-080f2191c"
+item: "#item-37540b900"
 unparsed:
-line: 'Head: water|Page: p.30 [Image 1.90]|Entry: a|Entry: 1546 [Waters]|Entry: 2147
-  [Water]|#item-080f2191c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/508,1325,601,140/full/0/default.jpg
+line: 'Head: welcome|Entry: 85 [Wel- and Unwelcome]|Entry: 1354 [Welcome]|#item-37540b900'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1082,1193,638,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960592647
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968775737
+sort_value: '305221193'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/508,1325,601,140/150,/0/default.jpg
-label: water
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1082,1193,638,113/150,/0/default.jpg
+label: welcome
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '479'
+order: '478'
 layout: index_item
 collection: index5
 ---

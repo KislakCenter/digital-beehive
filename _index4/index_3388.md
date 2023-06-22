@@ -2,8 +2,8 @@
 pid: index_3388
 volume: Volume 3
 image_number: '39'
-head: return
-entry: 787 [PAGE_MISSING]
+head: resistance
+entry: "<a href='/digital-beehive/alpha4/alpha_0801/'>a</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5cc984f98"
+item: "#item-5872e4d97"
 unparsed:
-line: 'Head: return|Entry: 787 [PAGE_MISSING]|#item-5cc984f98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1495,2757,480,148/full/0/default.jpg
+line: 'Head: resistance|Entry: a|#item-5872e4d97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1480,1065,553,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230229623
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229131277
+sort_value: '303931065'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1495,2757,480,148/150,/0/default.jpg
-label: return
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1480,1065,553,155/150,/0/default.jpg
+label: resistance
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

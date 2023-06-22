@@ -2,8 +2,9 @@
 pid: index_3770
 volume: Volume 3
 image_number: '43'
-head: sloe
-entry: "<a href='/digital-beehive/num3/num_0998/'>695 [Sloe-bush]</a>"
+head: snow
+entry: "<a href='/digital-beehive/alpha4/alpha_0895/'>a</a>|<a href='/digital-beehive/num7/num_2568/'>1672
+  [Snow]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-920827042"
+item: "#item-6f62af41c"
 unparsed:
-line: 'Head: sloe|Entry: 695 [Sloe-bush]|#item-920827042'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/902,2811,318,107/full/0/default.jpg
+line: 'Head: snow|Entry: a|Entry: 1672 [Snow]|#item-6f62af41c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1582,1307,500,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584763024
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585453052
+sort_value: '304331307'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/902,2811,318,107/150,/0/default.jpg
-label: sloe
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1582,1307,500,104/150,/0/default.jpg
+label: snow
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

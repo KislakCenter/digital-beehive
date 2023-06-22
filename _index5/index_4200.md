@@ -2,29 +2,29 @@
 pid: index_4200
 volume: Volume 3
 image_number: '48'
-head: toys
-entry: "<a href='/digital-beehive/num1/num_0208/'>199 [Toys]</a>|<a href='/digital-beehive/num5/num_1632/'>1196
-  [Trifling]</a>"
+head: touchstone
+entry:
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a81b35196"
+item: "#item-748a87ef3"
 unparsed:
-line: 'Head: toys|Entry: 199 [Toys]|Entry: 1196 [Trifling]|#item-a81b35196'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1107,1116,462,135/full/0/default.jpg
+line: 'Head: touchstone|Page: p.32 [Image 1.92]|#item-748a87ef3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1105,371,457,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561484569605
+annotation_uri: http://dev.llgc.org.uk/annotation/1560285281421
+sort_value: '304820371'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1107,1116,462,135/150,/0/default.jpg
-label: toys
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1105,371,457,109/150,/0/default.jpg
+label: touchstone
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '163'
+order: '162'
 layout: index_item
 collection: index5
 ---

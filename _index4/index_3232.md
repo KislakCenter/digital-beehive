@@ -2,24 +2,26 @@
 pid: index_3232
 volume: Volume 3
 image_number: '38'
-head: to raise
-entry: 751 [PAGE_MISSING]
+head: a purge
+entry: "<a href='/digital-beehive/num3/num_0922/'>665 [Medicines]</a>|<a href='/digital-beehive/num7/num_2657/'>1731
+  [A Purge]</a>|<a href='/digital-beehive/num10/num_3411/'>2435 [a Purge]</a>"
 topic:
-first_letter: R
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-85dbbc53b"
+item: "#item-ee93eada1"
 unparsed:
-line: 'Head: to raise|Entry: 751 [PAGE_MISSING]|#item-85dbbc53b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1852,213,415,160/full/0/default.jpg
+line: 'Head: a purge|Entry: 665 [Medicines]|Entry: 1731 [A Purge]|Entry: 2435 [a Purge]|#item-ee93eada1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/401,1503,803,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459893867
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452253827
+sort_value: '303811503'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1852,213,415,160/150,/0/default.jpg
-label: to raise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/401,1503,803,129/150,/0/default.jpg
+label: a purge
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

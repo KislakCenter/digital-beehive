@@ -2,24 +2,26 @@
 pid: index_0510
 volume: Volume 3
 image_number: '11'
-head: bright
-entry: "<a href='/digital-beehive/num2/num_0530/'>427 [Bright]</a>"
+head: calling
+entry: "<a href='/digital-beehive/alpha1/alpha_0116/'>a</a>|<a href='/digital-beehive/num4/num_1174/'>904
+  [Calling]</a>|<a href='/digital-beehive/num4/num_1271/'>953 [Call]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-8cd30dfed"
+item: "#item-cab4f8c68"
 unparsed:
-line: 'Head: bright|Entry: 427 [Bright]|#item-8cd30dfed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/174,2588,387,108/full/0/default.jpg
+line: 'Head: calling|Entry: a|Entry: 904 [Calling]|Entry: 953 [Call]|#item-cab4f8c68'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1581,512,666,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419650947
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494365199
+sort_value: '301130512'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/174,2588,387,108/150,/0/default.jpg
-label: bright
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1581,512,666,103/150,/0/default.jpg
+label: calling
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

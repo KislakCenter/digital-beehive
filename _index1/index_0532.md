@@ -2,8 +2,8 @@
 pid: index_0532
 volume: Volume 3
 image_number: '11'
-head: Cabal
-entry: "<a href='/digital-beehive/alpha1/alpha_0115/'>a</a>"
+head: cap
+entry: "<a href='/digital-beehive/num7/num_2648/'>1724 [Cap]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-920c096a6"
+item: "#item-141869f90"
 unparsed:
-line: 'Head: Cabal|Entry: a|#item-920c096a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/864,3351,409,114/full/0/default.jpg
+line: 'Head: cap|Entry: 1724 [Cap]|#item-141869f90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1568,2668,366,79/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493761685
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495924327
+sort_value: '301132668'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/864,3351,409,114/150,/0/default.jpg
-label: Cabal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1568,2668,366,79/150,/0/default.jpg
+label: cap
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

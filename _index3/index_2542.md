@@ -2,8 +2,8 @@
 pid: index_2542
 volume: Volume 3
 image_number: '31'
-head: miserere mei
-entry: "<a href='/digital-beehive/num5/num_1558/'>1144 [Iliack passion]</a>"
+head: to miss
+entry: "<a href='/digital-beehive/num3/num_0829/'>618 [To Miss]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7068ba584"
+item: "#item-850697179"
 unparsed:
-line: 'Head: miserere mei|Entry: 1144 [Iliack passion]|#item-7068ba584'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/164,467,587,124/full/0/default.jpg
+line: 'Head: to miss|Entry: 618 [To Miss]|#item-850697179'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/173,1076,415,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350936838
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351712840
+sort_value: '303111076'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/164,467,587,124/150,/0/default.jpg
-label: miserere mei
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/173,1076,415,143/150,/0/default.jpg
+label: to miss
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

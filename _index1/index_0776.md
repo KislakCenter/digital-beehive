@@ -2,8 +2,8 @@
 pid: index_0776
 volume: Volume 3
 image_number: '14'
-head: conjunctions
-entry: "<a href='/digital-beehive/num9/num_2978/'>2044 [Particles]</a>"
+head: concubine
+entry: 787 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-973c8d7c3"
+item: "#item-e4bfb0b15"
 unparsed:
-line: 'Head: conjunctions|Entry: 2044 [Particles]|#item-973c8d7c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1167,701,601,71/full/0/default.jpg
+line: 'Head: concubine|Entry: 787 [PAGE_MISSING]|#item-e4bfb0b15'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/415,2233,551,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541182159
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216627872
+sort_value: '301412233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1167,701,601,71/150,/0/default.jpg
-label: conjunctions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/415,2233,551,120/150,/0/default.jpg
+label: concubine
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

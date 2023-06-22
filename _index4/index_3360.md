@@ -2,8 +2,8 @@
 pid: index_3360
 volume: Volume 3
 image_number: '39'
-head: rest or residue
-entry: "<a href='/digital-beehive/num3/num_1053/'>716 [Rest]</a>"
+head: remora
+entry: "<a href='/digital-beehive/num7/num_2282/'>1534 [Remora]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f744b719b"
+item: "#item-d94179e6a"
 unparsed:
-line: 'Head: rest or residue|Entry: 716 [Rest]|#item-f744b719b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1484,1604,649,151/full/0/default.jpg
+line: 'Head: remora|Entry: 1534 [Remora]|#item-d94179e6a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/767,1050,562,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229877876
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469002263
+sort_value: '303921050'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1484,1604,649,151/150,/0/default.jpg
-label: rest or residue
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/767,1050,562,149/150,/0/default.jpg
+label: remora
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

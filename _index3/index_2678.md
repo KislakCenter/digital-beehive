@@ -2,8 +2,8 @@
 pid: index_2678
 volume: Volume 3
 image_number: '32'
-head: to nod. wincken
-entry: "<a href='/digital-beehive/num9/num_3145/'>2202 [To Nod : to becken]</a>"
+head: proof of a Negative
+entry: "<a href='/digital-beehive/num4/num_1200/'>913 [to prove a Negative]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0dedb6aa8"
+item: "#item-e71737611"
 unparsed:
-line: 'Head: to nod. wincken|Entry: 2202 [To Nod : to becken]|#item-0dedb6aa8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1836,1109,678,129/full/0/default.jpg
+line: 'Head: proof of a Negative|Entry: 913 [to prove a Negative]|#item-e71737611'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1174,242,672,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448507727
+annotation_uri: http://dev.llgc.org.uk/annotation/1560440797032
+sort_value: '303220242'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1836,1109,678,129/150,/0/default.jpg
-label: to nod. wincken
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1174,242,672,154/150,/0/default.jpg
+label: proof of a Negative
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

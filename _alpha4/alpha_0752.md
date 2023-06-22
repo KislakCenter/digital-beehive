@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0953/'>Testimony</a>|argument|<a href='/digital-beehive/num4/num_1199/'>913
   [Proof]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3137/'>proof or evidence</a>"
+index: "<a href='/digital-beehive/index4/index_3192/'>proof or evidence</a>"
 item: "#item-e4d9f00a8"
 unparsed:
 line: 'Entry: Proof|Topic: Proof|Xref: Testimony|Xref: argument|Xref: 913 [Proof]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Proof|Topic: Proof|Xref: Testimony|Xref: argument|Xref: 913 [Proof
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/809,216,2990,521/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528720384077
+sort_value: '204410216'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/809,216,600,180/250,/0/default.jpg
 label: Proof

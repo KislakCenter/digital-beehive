@@ -2,9 +2,8 @@
 pid: index_2050
 volume: Volume 3
 image_number: '26'
-head: insensibleness
-entry: "<a href='/digital-beehive/alpha3/alpha_0483/'>a</a>|<a href='/digital-beehive/num5/num_1441/'>1070
-  [Insensible]</a>"
+head: Inkhorn
+entry: "<a href='/digital-beehive/num2/num_0507/'>410 [Ink-horn]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-03ea224b4"
+item: "#item-0892f5c85"
 unparsed:
-line: 'Head: insensibleness|Entry: a|Entry: 1070 [Insensible]|#item-03ea224b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1161,1008,616,175/full/0/default.jpg
+line: 'Head: Inkhorn|Entry: 410 [Ink-horn]|#item-0892f5c85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/714,3281,433,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747501560
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745580815
+sort_value: '302613281'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1161,1008,616,175/150,/0/default.jpg
-label: insensibleness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/714,3281,433,119/150,/0/default.jpg
+label: Inkhorn
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

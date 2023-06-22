@@ -2,8 +2,8 @@
 pid: index_1417
 volume: Volume 3
 image_number: '20'
-head: firmamt
-entry: "<a href='/digital-beehive/num2/num_0463/'>383 [Firmament]</a>"
+head: favour & disfavour
+entry: "<a href='/digital-beehive/num6/num_1927/'>1359 [Favour of Princes]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8e3e75218"
+item: "#item-a9b107b5b"
 unparsed:
-line: 'Head: firmamt|Entry: 383 [Firmament]|#item-8e3e75218'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1814,1287,489,176/full/0/default.jpg
+line: 'Head: favour & disfavour|Entry: 1359 [Favour of Princes]|#item-a9b107b5b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,784,700,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613756888
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661605111
+sort_value: '302020784'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1814,1287,489,176/150,/0/default.jpg
-label: firmamt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,784,700,153/150,/0/default.jpg
+label: favour & disfavour
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

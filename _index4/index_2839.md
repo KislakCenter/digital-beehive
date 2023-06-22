@@ -2,24 +2,25 @@
 pid: index_2839
 volume: Volume 3
 image_number: '34'
-head: palsie
-entry: "<a href='/digital-beehive/num3/num_0776/'>596 [The Palsie]</a>"
+head: overly
+entry: 727 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3470/'>4483 [Overly]</a>
 topic:
-first_letter: P
+first_letter: O
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ea04dcc3b"
+item: "#item-d79221aa4"
 unparsed:
-line: 'Head: palsie|Entry: 596 [The Palsie]|#item-ea04dcc3b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1162,249,498,153/full/0/default.jpg
+line: 'Head: overly|Entry: 727 [PAGE_MISSING]|Entry: 4483 [Overly]|#item-d79221aa4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/435,992,718,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538491710692
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425136333
+sort_value: '303410992'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1162,249,498,153/150,/0/default.jpg
-label: palsie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/435,992,718,171/150,/0/default.jpg
+label: overly
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

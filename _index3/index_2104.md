@@ -2,8 +2,8 @@
 pid: index_2104
 volume: Volume 3
 image_number: '26'
-head: intermission
-entry: 1883 [PAGE_MISSING]
+head: to joyn
+entry: 822 [PAGE_MISSING]
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3c70073f9"
+item: "#item-ccd5d4471"
 unparsed:
-line: 'Head: intermission|Entry: 1883 [PAGE_MISSING]|#item-3c70073f9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1162,3043,526,127/full/0/default.jpg
+line: 'Head: to joyn|Entry: 822 [PAGE_MISSING]|#item-ccd5d4471'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1852,2291,423,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559749179865
+annotation_uri: http://dev.llgc.org.uk/annotation/1559752099624
+sort_value: '302632291'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1162,3043,526,127/150,/0/default.jpg
-label: intermission
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1852,2291,423,131/150,/0/default.jpg
+label: to joyn
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

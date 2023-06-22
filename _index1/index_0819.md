@@ -2,8 +2,8 @@
 pid: index_0819
 volume: Volume 3
 image_number: '14'
-head: concubine
-entry: 787 [PAGE_MISSING]
+head: "[:35.]"
+entry:
 topic:
 first_letter: C
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e4bfb0b15"
-unparsed:
-line: 'Head: concubine|Entry: 787 [PAGE_MISSING]|#item-e4bfb0b15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/415,2233,551,120/full/0/default.jpg
+item: "#item-2c9f0e53a"
+unparsed: 'Type: Index|Insertion Xref: [:35.]|#item-2c9f0e53a'
+line: 'Type: Index|Insertion Xref: [:35.]|#item-2c9f0e53a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1636,3191,170,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216627872
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275851951
+sort_value: '301423191'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/415,2233,551,120/150,/0/default.jpg
-label: concubine
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1636,3191,170,95/150,/0/default.jpg
+label: "[:35.]"
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4703/'>Content or purpose</a>"
 order: '0818'
 layout: index_item
 collection: index1

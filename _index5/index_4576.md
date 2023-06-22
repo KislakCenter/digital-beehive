@@ -2,8 +2,8 @@
 pid: index_4576
 volume: Volume 3
 image_number: '53'
-head: woman's speaking in ye Church
-entry: "<a href='/digital-beehive/num1/num_0247/'>230 [Womans Speaking in the Church]</a>"
+head: with
+entry: "<a href='/digital-beehive/num5/num_1550/'>1140 [With]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-1fd693f86"
+item: "#item-590ff729f"
 unparsed:
-line: 'Head: woman''s speaking in ye Church|Entry: 230 [Womans Speaking in the Church]|#item-1fd693f86'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,754,823,192/full/0/default.jpg
+line: 'Head: with|Entry: 1140 [With]|#item-590ff729f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/157,1880,349,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560794882527
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792449159
+sort_value: '305311880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,754,823,192/150,/0/default.jpg
-label: woman's speaking in ye Church
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/157,1880,349,134/150,/0/default.jpg
+label: with
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '539'
+order: '538'
 layout: index_item
 collection: index5
 ---

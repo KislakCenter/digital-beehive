@@ -2,8 +2,9 @@
 pid: index_2570
 volume: Volume 3
 image_number: '31'
-head: mum[m]y
-entry: "<a href='/digital-beehive/num7/num_2471/'>1629 [Mummy]</a>"
+head: monster
+entry: "<a href='/digital-beehive/alpha3/alpha_0607/'>a</a>|<a href='/digital-beehive/num8/num_2928/'>1996
+  [Monster]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a5afcd9ad"
+item: "#item-abbd4ad14"
 unparsed:
-line: 'Head: mum[m]y|Entry: 1629 [Mummy]|#item-a5afcd9ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1564,1363,416,138/full/0/default.jpg
+line: 'Head: monster|Entry: a|Entry: 1996 [Monster]|#item-abbd4ad14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/896,966,528,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361281753
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355179831
+sort_value: '303120966'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1564,1363,416,138/150,/0/default.jpg
-label: mum[m]y
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/896,966,528,107/150,/0/default.jpg
+label: monster
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

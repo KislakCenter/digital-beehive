@@ -2,24 +2,25 @@
 pid: index_2128
 volume: Volume 3
 image_number: '27'
-head: to kill
-entry: "<a href='/digital-beehive/num3/num_0831/'>619 [to Kill]</a>"
+head: Jubilee
+entry: "<a href='/digital-beehive/num2/num_0577/'>463 [Jubilees]</a>"
 topic:
-first_letter: K
+first_letter: I/J
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ad52ddd4d"
+item: "#item-04b83a053"
 unparsed:
-line: 'Head: to kill|Entry: 619 [to Kill]|#item-ad52ddd4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/847,547,391,115/full/0/default.jpg
+line: 'Head: Jubilee|Entry: 463 [Jubilees]|#item-04b83a053'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/132,1233,390,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761395632
+annotation_uri: http://dev.llgc.org.uk/annotation/1559757109749
+sort_value: '302711233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/847,547,391,115/150,/0/default.jpg
-label: to kill
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/132,1233,390,128/150,/0/default.jpg
+label: Jubilee
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

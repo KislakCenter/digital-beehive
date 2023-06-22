@@ -2,8 +2,8 @@
 pid: index_0699
 volume: Volume 3
 image_number: '13'
-head: com[m]andmts ten
-entry: "<a href='/digital-beehive/num2/num_0550/'>444 [Decalogue]</a>"
+head: cloke
+entry: "<a href='/digital-beehive/alpha1/alpha_0154/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-69762dc64"
+item: "#item-721e9956a"
 unparsed:
-line: 'Head: com[m]andmts ten|Entry: 444 [Decalogue]|#item-69762dc64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1563,1871,418,98/full/0/default.jpg
+line: 'Head: cloke|Entry: a|#item-721e9956a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/856,1493,376,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611371671
+annotation_uri: http://dev.llgc.org.uk/annotation/1536607015431
+sort_value: '301321493'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1563,1871,418,98/150,/0/default.jpg
-label: com[m]andmts ten
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/856,1493,376,138/150,/0/default.jpg
+label: cloke
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

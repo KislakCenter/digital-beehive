@@ -2,8 +2,8 @@
 pid: index_3698
 volume: Volume 3
 image_number: '43'
-head: smoke
-entry: 768 [PAGE_MISSING]
+head: siege
+entry: "<a href='/digital-beehive/alpha4/alpha_0876/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-78217ba17"
+item: "#item-141dfc07f"
 unparsed:
-line: 'Head: smoke|Entry: 768 [PAGE_MISSING]|#item-78217ba17'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1574,260,438,138/full/0/default.jpg
+line: 'Head: siege|Entry: a|#item-141dfc07f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/182,422,307,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585014742
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577546894
+sort_value: '304310422'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1574,260,438,138/150,/0/default.jpg
-label: smoke
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/182,422,307,137/150,/0/default.jpg
+label: siege
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

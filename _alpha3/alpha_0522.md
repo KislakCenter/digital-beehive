@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>derision</a>|<a href='/digital-beehive/num6/num_1738/'>1254
   [Laughter]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2213/'>laughter</a>"
+index: "<a href='/digital-beehive/index3/index_2221/'>laughter</a>"
 item: "#item-565ae020d"
 unparsed:
 line: 'Entry: Laughter|Topic: Laughter|Xref: derision|Xref: 1254 [Laughter]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Laughter|Topic: Laughter|Xref: derision|Xref: 1254 [Laughter]|Inde
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/768,4352,2976,469/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564766881635
+sort_value: '202614352'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/768,4352,600,180/250,/0/default.jpg
 label: Laughter

@@ -2,25 +2,25 @@
 pid: index_2906
 volume: Volume 3
 image_number: '34'
-head: parrot
-entry: "<a href='/digital-beehive/alpha4/alpha_0684/'>a</a>|<a href='/digital-beehive/num11/num_3498/'>4804
-  [Parrot]</a>"
+head: passover
+entry: "<a href='/digital-beehive/num5/num_1351/'>1011 [Passover]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
-add:
+page:
+add: Easter
 xref:
 see:
 index:
-item: "#item-2d75457e2"
+item: "#item-0fbbfc5eb"
 unparsed:
-line: 'Head: parrot|Page: p.35 [Image 1.95]|Entry: a|Entry: 4804 [Parrot]|#item-2d75457e2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1129,2382,726,208/full/0/default.jpg
+line: 'Head: passover|Entry: 1011 [Passover]|Add: Easter|#item-0fbbfc5eb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1825,524,523,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494449615
+annotation_uri: http://dev.llgc.org.uk/annotation/1565192308257
+sort_value: '303430524'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1129,2382,726,208/150,/0/default.jpg
-label: parrot
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1825,524,523,165/150,/0/default.jpg
+label: passover
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

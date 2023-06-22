@@ -2,8 +2,8 @@
 pid: index_2723
 volume: Volume 3
 image_number: '32'
-head: to give notice
-entry: "<a href='/digital-beehive/num2/num_0381/'>331 [to give Notice]</a>"
+head: noisom
+entry: "<a href='/digital-beehive/num3/num_0914/'>662 [Irksomness]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f700ebb18"
+item: "#item-3601399b7"
 unparsed:
-line: 'Head: to give notice|Entry: 331 [to give Notice]|#item-f700ebb18'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1806,2754,612,144/full/0/default.jpg
+line: 'Head: noisom|Entry: 662 [Irksomness]|#item-3601399b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1843,1322,423,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449657697
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448711086
+sort_value: '303231322'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1806,2754,612,144/150,/0/default.jpg
-label: to give notice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1843,1322,423,106/150,/0/default.jpg
+label: noisom
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

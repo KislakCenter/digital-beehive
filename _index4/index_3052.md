@@ -2,8 +2,8 @@
 pid: index_3052
 volume: Volume 3
 image_number: '36'
-head: plausible
-entry: "<a href='/digital-beehive/num1/num_0097/'>94 [a Plausible man]</a>"
+head: plural
+entry: "<a href='/digital-beehive/num6/num_1964/'>1377 [Plural]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-acf4a12ff"
+item: "#item-c52115377"
 unparsed:
-line: 'Head: plausible|Entry: 94 [a Plausible man]|#item-acf4a12ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/462,605,516,144/full/0/default.jpg
+line: 'Head: plural|Entry: 1377 [Plural]|#item-c52115377'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/446,1860,521,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1542052862912
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208102873
+sort_value: '303611860'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/462,605,516,144/150,/0/default.jpg
-label: plausible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/446,1860,521,145/150,/0/default.jpg
+label: plural
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

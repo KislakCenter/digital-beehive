@@ -17,6 +17,7 @@ line: 'Head: celandine|Entry: 674 [Celandine]|#item-94a068d3a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1125,869,530,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532099102070
+sort_value: '301220869'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1125,869,530,111/150,/0/default.jpg
 label: celandine

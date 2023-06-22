@@ -2,9 +2,8 @@
 pid: index_1208
 volume: Volume 3
 image_number: '18'
-head: end
-entry: "<a href='/digital-beehive/alpha2/alpha_0285/'>a</a>|<a href='/digital-beehive/num4/num_1088/'>868
-  [End]</a>|<a href='/digital-beehive/num9/num_3196/'>2249 [End]</a>"
+head: edom
+entry: "<a href='/digital-beehive/num8/num_2784/'>1901 [Esau]</a>"
 topic:
 first_letter: E
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-cd586b415"
+item: "#item-edcacdb30"
 unparsed:
-line: 'Head: end|Entry: a|Entry: 868 [End]|Entry: 2249 [End]|#item-cd586b415'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1861,1012,581,107/full/0/default.jpg
+line: 'Head: edom|Entry: 1901 [Esau]|#item-edcacdb30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1133,888,406,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560450976914
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672178044
+sort_value: '301820888'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1861,1012,581,107/150,/0/default.jpg
-label: end
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1133,888,406,95/150,/0/default.jpg
+label: edom
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '033'
+order: '027'
 layout: index_item
 collection: index2
 ---

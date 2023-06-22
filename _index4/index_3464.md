@@ -2,24 +2,25 @@
 pid: index_3464
 volume: Volume 3
 image_number: '40'
-head: saddle
-entry: "<a href='/digital-beehive/num4/num_1095/'>871 [a Saddle]</a>"
+head: to rule
+entry:
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9c649f151"
+item: "#item-4552354ce"
 unparsed:
-line: 'Head: saddle|Entry: 871 [a Saddle]|#item-9c649f151'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1778,1716,490,129/full/0/default.jpg
+line: 'Head: to rule|#item-4552354ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1123,2786,318,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234814991
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233941569
+sort_value: '304022786'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1778,1716,490,129/150,/0/default.jpg
-label: saddle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1123,2786,318,121/150,/0/default.jpg
+label: to rule
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

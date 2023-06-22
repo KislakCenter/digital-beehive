@@ -2,8 +2,8 @@
 pid: index_2878
 volume: Volume 3
 image_number: '34'
-head: womens patches
-entry: "<a href='/digital-beehive/num10/num_3423/'>2445 [Patches]</a>"
+head: parchment
+entry: "<a href='/digital-beehive/num6/num_1855/'>1323 [Parchment]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-71e9e4bbe"
+item: "#item-c1dba0617"
 unparsed:
-line: 'Head: womens patches|Entry: 2445 [Patches]|#item-71e9e4bbe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1832,1570,726,123/full/0/default.jpg
+line: 'Head: parchment|Entry: 1323 [Parchment]|#item-c1dba0617'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1115,1521,667,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495347862
+annotation_uri: http://dev.llgc.org.uk/annotation/1538493895003
+sort_value: '303421521'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1832,1570,726,123/150,/0/default.jpg
-label: womens patches
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1115,1521,667,143/150,/0/default.jpg
+label: parchment
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

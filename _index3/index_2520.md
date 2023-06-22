@@ -2,8 +2,8 @@
 pid: index_2520
 volume: Volume 3
 image_number: '30'
-head: Ambros. Merlin
-entry: "<a href='/digital-beehive/num6/num_2142/'>1459 [Ambrosius Merlin]</a>"
+head: minerva
+entry: "<a href='/digital-beehive/num5/num_1361/'>1019 [Spinning]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7cd6a9544"
+item: "#item-8050bf144"
 unparsed:
-line: 'Head: Ambros. Merlin|Entry: 1459 [Ambrosius Merlin]|#item-7cd6a9544'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1093,3010,639,185/full/0/default.jpg
+line: 'Head: minerva|Entry: 1019 [Spinning]|#item-8050bf144'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1812,2233,405,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269527258
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274344460
+sort_value: '303032233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1093,3010,639,185/150,/0/default.jpg
-label: Ambros. Merlin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1812,2233,405,89/150,/0/default.jpg
+label: minerva
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

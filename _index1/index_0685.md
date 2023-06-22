@@ -2,8 +2,8 @@
 pid: index_0685
 volume: Volume 3
 image_number: '13'
-head: church history
-entry: "<a href='/digital-beehive/num6/num_2206/'>1497 [Historia Ecclesiastica]</a>"
+head: to cleanse
+entry: "<a href='/digital-beehive/num3/num_0906/'>659 [Purge]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9bff70a2e"
+item: "#item-829be16b8"
 unparsed:
-line: 'Head: church history|Entry: 1497 [Historia Ecclesiastica]|#item-9bff70a2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,1479,511,130/full/0/default.jpg
+line: 'Head: to cleanse|Entry: 659 [Purge]|#item-829be16b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619863386
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333738126
+sort_value: '301313399'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,1479,511,130/150,/0/default.jpg
-label: church history
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/150,/0/default.jpg
+label: to cleanse
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

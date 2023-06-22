@@ -2,24 +2,25 @@
 pid: index_2639
 volume: Volume 3
 image_number: '32'
-head: ill name
-entry: "<a href='/digital-beehive/num1/num_0011/'>11 [Ill Name]</a>"
+head: good name
+entry:
 topic:
 first_letter: N
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3382/'>reputation</a>"
 index:
-item: "#item-5fbd1806e"
+item: "#item-b30107de1"
 unparsed:
-line: 'Head: ill name|Entry: 11 [Ill Name]|#item-5fbd1806e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/392,555,402,93/full/0/default.jpg
+line: 'Head: good name|See: reputation|#item-b30107de1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/374,419,800,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560436890191
+annotation_uri: http://dev.llgc.org.uk/annotation/1560436649038
+sort_value: '303210419'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/392,555,402,93/150,/0/default.jpg
-label: ill name
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/374,419,800,109/150,/0/default.jpg
+label: good name
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

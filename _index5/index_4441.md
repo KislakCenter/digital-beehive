@@ -2,28 +2,29 @@
 pid: index_4441
 volume: Volume 3
 image_number: '51'
-head: want of appetite
-entry: 4527 [PAGE_MISSING]
+head: Urim & Thum[m]im
+entry: "<a href='/digital-beehive/num1/num_0064/'>63 [Urim and Thummim]</a>"
 topic:
-first_letter: W
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-36963b150"
+item: "#item-7c5ef5a0e"
 unparsed:
-line: 'Head: want of appetite|Entry: 4527 [PAGE_MISSING]|#item-36963b150'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1643,1571,616,103/full/0/default.jpg
+line: 'Head: Urim & Thum[m]im|Entry: 63 [Urim and Thummim]|#item-7c5ef5a0e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/926,1075,718,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647882576
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646690690
+sort_value: '305121075'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1643,1571,616,103/150,/0/default.jpg
-label: want of appetite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/926,1075,718,150/150,/0/default.jpg
+label: Urim & Thum[m]im
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '404'
+order: '403'
 layout: index_item
 collection: index5
 ---

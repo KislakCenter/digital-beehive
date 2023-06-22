@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0976/'>Tortoise</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3610/'>shells of snails</a>"
+index: "<a href='/digital-beehive/index4/index_3667/'>shells of snails</a>"
 item: "#item-b3badbfc6"
 unparsed:
 line: 'Entry: Shells of Snails|Topic: Shells of Snails|Xref: Tortoise|Index: shells
@@ -18,6 +18,7 @@ line: 'Entry: Shells of Snails|Topic: Shells of Snails|Xref: Tortoise|Index: she
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/831,2702,2917,365/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530803527937
+sort_value: '205212702'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/831,2702,600,180/250,/0/default.jpg
 label: Shells of Snails

@@ -2,24 +2,25 @@
 pid: index_0711
 volume: Volume 3
 image_number: '13'
-head: com[m]iseration
-entry:
+head: cochineal
+entry: "<a href='/digital-beehive/num7/num_2412/'>1601 [Cochineal]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0764/'>compass</a>"
+see:
 index:
-item: "#item-1df33587f"
+item: "#item-cfdc4bfc8"
 unparsed:
-line: 'Head: com[m]iseration|See: compass|#item-1df33587f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,2202,771,126/full/0/default.jpg
+line: 'Head: cochineal|Entry: 1601 [Cochineal]|#item-cfdc4bfc8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/854,2606,519,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611539456
+annotation_uri: http://dev.llgc.org.uk/annotation/1536608287959
+sort_value: '301322606'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,2202,771,126/150,/0/default.jpg
-label: com[m]iseration
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/854,2606,519,114/150,/0/default.jpg
+label: cochineal
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_4399
 volume: Volume 3
 image_number: '50'
-head: to undo
-entry: 754 [PAGE_MISSING]
+head: unlawful
+entry: "<a href='/digital-beehive/num7/num_2418/'>1603 [Unlawful]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-391f8d059"
+item: "#item-8e1a0e995"
 unparsed:
-line: 'Head: to undo|Entry: 754 [PAGE_MISSING]|#item-391f8d059'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/420,3082,471,121/full/0/default.jpg
+line: 'Head: unlawful|Entry: 1603 [Unlawful]|#item-8e1a0e995'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1090,2644,518,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560873757911
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882272461
+sort_value: '305022644'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/420,3082,471,121/150,/0/default.jpg
-label: to undo
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1090,2644,518,152/150,/0/default.jpg
+label: unlawful
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '362'
+order: '361'
 layout: index_item
 collection: index5
 ---

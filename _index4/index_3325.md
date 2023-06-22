@@ -2,8 +2,8 @@
 pid: index_3325
 volume: Volume 3
 image_number: '39'
-head: to recover
-entry: "<a href='/digital-beehive/num2/num_0502/'>408 [To Recover]</a>"
+head: to rectify
+entry: "<a href='/digital-beehive/num2/num_0579/'>464 [Amending]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bc69bbfb1"
+item: "#item-8c7d9fdfd"
 unparsed:
-line: 'Head: to recover|Entry: 408 [To Recover]|#item-bc69bbfb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/152,371,493,149/full/0/default.jpg
+line: 'Head: to rectify|Entry: 464 [Amending]|#item-8c7d9fdfd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/124,744,453,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463186836
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463275579
+sort_value: '303910744'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/152,371,493,149/150,/0/default.jpg
-label: to recover
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/124,744,453,93/150,/0/default.jpg
+label: to rectify
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

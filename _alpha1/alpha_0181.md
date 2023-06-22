@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0254/'>236 [Cookery]</a>|<a href='/digital-beehive/num3/num_1000/'>696
   [Dainty meats]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0817/'>cookery</a>"
+index: "<a href='/digital-beehive/index1/index_0840/'>cookery</a>"
 item: "#item-65367d05f"
 unparsed:
 line: 'Entry: Cookery|Topic: Cookery|Xref: 236 [Cookery]|Xref: 696 [Dainty meats]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Cookery|Topic: Cookery|Xref: 236 [Cookery]|Xref: 696 [Dainty meats
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0444/267,704,3204,318/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0444/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499784973605
+sort_value: '144510704'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0444/267,704,600,180/250,/0/default.jpg
 label: Cookery

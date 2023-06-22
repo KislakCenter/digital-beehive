@@ -2,8 +2,8 @@
 pid: index_1331
 volume: Volume 3
 image_number: '19'
-head: Erbpacht
-entry: "<a href='/digital-beehive/num2/num_0413/'>352 [Erbpacht]</a>"
+head: to excell
+entry: "<a href='/digital-beehive/num3/num_0679/'>539 [beter]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7e0b1a1f7"
+item: "#item-4d17c7116"
 unparsed:
-line: 'Head: Erbpacht|Entry: 352 [Erbpacht]|#item-7e0b1a1f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/120,2066,523,149/full/0/default.jpg
+line: 'Head: to excell|Entry: 539 [beter]|#item-4d17c7116'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/831,2835,488,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847329900
+annotation_uri: http://dev.llgc.org.uk/annotation/1560359582460
+sort_value: '301922835'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/120,2066,523,149/150,/0/default.jpg
-label: Erbpacht
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/831,2835,488,150/150,/0/default.jpg
+label: to excell
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

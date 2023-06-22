@@ -2,8 +2,8 @@
 pid: index_0564
 volume: Volume 3
 image_number: '12'
-head: cause of Sin
-entry: "<a href='/digital-beehive/alpha1/alpha_0133/'>a</a>"
+head: catharrs
+entry: "<a href='/digital-beehive/num3/num_0771/'>594 [Catarrhs, Inveterate Coughs]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2b0f18163"
+item: "#item-aa10f13c0"
 unparsed:
-line: 'Head: cause of Sin|Entry: a|#item-2b0f18163'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1142,411,472,89/full/0/default.jpg
+line: 'Head: catharrs|Entry: 594 [Catarrhs, Inveterate Coughs]|#item-aa10f13c0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/395,2885,546,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098853707
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098619389
+sort_value: '301212885'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1142,411,472,89/150,/0/default.jpg
-label: cause of Sin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/395,2885,546,133/150,/0/default.jpg
+label: catharrs
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

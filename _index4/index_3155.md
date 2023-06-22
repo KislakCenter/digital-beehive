@@ -2,8 +2,8 @@
 pid: index_3155
 volume: Volume 3
 image_number: '37'
-head: presumption
-entry: "<a href='/digital-beehive/num1/num_0058/'>57 [Presumption]</a>"
+head: primitive Xtians
+entry: "<a href='/digital-beehive/num5/num_1431/'>1064 [Primitive Christians]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-65694ecca"
+item: "#item-e70b17368"
 unparsed:
-line: 'Head: presumption|Entry: 57 [Presumption]|#item-65694ecca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/83,993,572,116/full/0/default.jpg
+line: 'Head: primitive Xtians|Entry: 1064 [Primitive Christians]|#item-e70b17368'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2789,608,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866178483
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866995981
+sort_value: '303712789'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/83,993,572,116/150,/0/default.jpg
-label: presumption
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2789,608,153/150,/0/default.jpg
+label: primitive Xtians
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

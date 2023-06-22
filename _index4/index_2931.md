@@ -2,24 +2,26 @@
 pid: index_2931
 volume: Volume 3
 image_number: '34'
-head: palmtree
-entry: 1868 [PAGE_MISSING]
+head: peacemaker
+entry: "<a href='/digital-beehive/alpha4/alpha_0697/'>a</a>|<a href='/digital-beehive/num5/num_1562/'>1146
+  [Peacemak.]</a>|<a href='/digital-beehive/num8/num_2782/'>1900 [Peacemak]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-65aa8a001"
+item: "#item-6008dd51e"
 unparsed:
-line: 'Head: palmtree|Page: p.32 [Image 1.92]|Entry: 1868 [PAGE_MISSING]|#item-65aa8a001'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/411,3233,723,168/full/0/default.jpg
+line: 'Head: peacemaker|Entry: a|Entry: 1146 [Peacemak.]|Entry: 1900 [Peacemak]|#item-6008dd51e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1766,2853,783,200/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538426371851
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495932137
+sort_value: '303432853'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/411,3233,723,168/150,/0/default.jpg
-label: palmtree
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1766,2853,783,200/150,/0/default.jpg
+label: peacemaker
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

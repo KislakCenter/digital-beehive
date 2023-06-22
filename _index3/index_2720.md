@@ -2,8 +2,8 @@
 pid: index_2720
 volume: Volume 3
 image_number: '32'
-head: nazarites
-entry: "<a href='/digital-beehive/num8/num_2805/'>1912 [Nazarites]</a>"
+head: land of nod
+entry: "<a href='/digital-beehive/num7/num_2453/'>1621 [Nod]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-216199391"
+item: "#item-dacb0a256"
 unparsed:
-line: 'Head: nazarites|Entry: 1912 [Nazarites]|#item-216199391'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,2622,485,101/full/0/default.jpg
+line: 'Head: land of nod|Entry: 1621 [Nod]|#item-dacb0a256'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1600,1065,566,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438750684
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448444666
+sort_value: '303231065'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,2622,485,101/150,/0/default.jpg
-label: nazarites
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1600,1065,566,126/150,/0/default.jpg
+label: land of nod
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

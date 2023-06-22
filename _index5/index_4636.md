@@ -2,28 +2,29 @@
 pid: index_4636
 volume: Volume 3
 image_number: '53'
-head: workmen
-entry: 4608 [PAGE_MISSING]
+head: Y
+entry:
 topic:
-first_letter: W
-page:
+first_letter: Y
+page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-05ad5f6c9"
+item: "#item-3c0be044c"
 unparsed:
-line: 'Head: workmen|Entry: 4608 [PAGE_MISSING]|#item-05ad5f6c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,2830,536,88/full/0/default.jpg
+line: 'Head: Y|Page: p.41 [Image 1.101]|#item-3c0be044c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1589,1422,283,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797276353
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798760598
+sort_value: '305331422'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,2830,536,88/150,/0/default.jpg
-label: workmen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1589,1422,283,151/150,/0/default.jpg
+label: Y
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '599'
+order: '598'
 layout: index_item
 collection: index5
 ---

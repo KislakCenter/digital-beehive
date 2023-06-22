@@ -10,13 +10,14 @@ page:
 add:
 xref: 747 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index1/index_1067/'>devil</a>"
+index: "<a href='/digital-beehive/index1/index_1033/'>devil</a>"
 item: "#item-0d1928a70"
 unparsed:
 line: 'Entry: Devil|Topic: Devil|Xref: 747 [PAGE_MISSING]|Index: devil|#item-0d1928a70'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/370,2440,3061,549/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507923237983
+sort_value: '144912440'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/370,2440,600,180/250,/0/default.jpg
 label: Devil

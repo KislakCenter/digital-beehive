@@ -2,9 +2,8 @@
 pid: index_1411
 volume: Volume 3
 image_number: '20'
-head: fear
-entry: "<a href='/digital-beehive/alpha2/alpha_0323/'>a</a>|<a href='/digital-beehive/num3/num_0721/'>566
-  [Fear]</a>|<a href='/digital-beehive/num5/num_1577/'>1157 [Fear]</a>|1888 [PAGE_MISSING]"
+head: fat. aroina
+entry: "<a href='/digital-beehive/num9/num_3075/'>2136 [Fat : Sewet]</a>"
 topic:
 first_letter: F
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e0adff636"
+item: "#item-a9081188e"
 unparsed:
-line: 'Head: fear|Entry: a|Entry: 566 [Fear]|Entry: 1157 [Fear]|Entry: 1888 [PAGE_MISSING]|#item-e0adff636'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1125,1014,658,184/full/0/default.jpg
+line: 'Head: fat. aroina|Entry: 2136 [Fat : Sewet]|#item-a9081188e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,3547,585,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562091480644
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660533716
+sort_value: '302013547'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1125,1014,658,184/150,/0/default.jpg
-label: fear
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,3547,585,126/150,/0/default.jpg
+label: fat. aroina
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

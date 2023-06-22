@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0229/'>Deprecation</a>|<a href='/digital-beehive/num5/num_1400/'>1046
   [Confess]</a>|<a href='/digital-beehive/num8/num_2912/'>1981 [Confession]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0838/'>confession</a>"
+index: "<a href='/digital-beehive/index1/index_0784/'>confession</a>"
 item: "#item-3edc47b2d"
 unparsed:
 line: 'Entry: Confession|Topic: Confession|Xref: Deprecation|Xref: 1046 [Confess]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Confession|Topic: Confession|Xref: Deprecation|Xref: 1046 [Confess
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/370,4448,3124,633/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499700751150
+sort_value: '144314448'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/370,4448,600,180/250,/0/default.jpg
 label: Confession

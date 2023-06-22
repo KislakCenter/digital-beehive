@@ -18,13 +18,14 @@ line: 'Head: discord|Entry: a|Entry: 840 [PAGE_MISSING]|Entry: 1854 [PAGE_MISSIN
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1808,3559,636,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541784533878
+sort_value: '301633559'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1808,3559,636,124/150,/0/default.jpg
 label: discord
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1066'
+order: '1067'
 layout: index_item
 collection: index1
 ---

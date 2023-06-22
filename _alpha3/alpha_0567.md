@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0366/'>318 [Magistrates]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2387/'>magistrate</a>"
+index: "<a href='/digital-beehive/index3/index_2379/'>magistrate</a>"
 item: "#item-39f583755"
 unparsed:
 line: 'Entry: Magistrate|Topic: Magistrate|Xref: 318 [Magistrates]|Index: magistrate|#item-39f583755'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/747,2747,3032,667/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564771925023
+sort_value: '203012747'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/747,2747,600,180/250,/0/default.jpg
 label: Magistrate

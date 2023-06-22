@@ -2,24 +2,25 @@
 pid: index_0527
 volume: Volume 3
 image_number: '11'
-head: by little
-entry:
+head: canker
+entry: "<a href='/digital-beehive/alpha1/alpha_0119/'>a</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_1987/'>Increase</a>"
+see:
 index:
-item: "#item-da10710b7"
+item: "#item-0ed3c1f5d"
 unparsed:
-line: 'Head: by little|See: Increase|#item-da10710b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/867,3156,759,154/full/0/default.jpg
+line: 'Head: canker|Entry: a|#item-0ed3c1f5d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1576,2189,448,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493620384
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495334342
+sort_value: '301132189'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/867,3156,759,154/150,/0/default.jpg
-label: by little
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1576,2189,448,127/150,/0/default.jpg
+label: canker
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

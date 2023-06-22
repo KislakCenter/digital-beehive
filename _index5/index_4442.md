@@ -2,9 +2,8 @@
 pid: index_4442
 volume: Volume 3
 image_number: '51'
-head: usurpation
-entry: "<a href='/digital-beehive/num3/num_0848/'>628 [Invasion]</a>|<a href='/digital-beehive/num8/num_2897/'>1970
-  [Usurpation]</a>"
+head: urin
+entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3013/'>2079 [Urine]</a>
 topic:
 first_letter: U/V
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-a847986ff"
+item: "#item-9ca06d73b"
 unparsed:
-line: 'Head: usurpation|Entry: 628 [Invasion]|Entry: 1970 [Usurpation]|#item-a847986ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/951,1608,714,137/full/0/default.jpg
+line: 'Head: urin|Entry: 805 [PAGE_MISSING]|Entry: 2079 [Urine]|#item-9ca06d73b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/955,1230,604,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646844597
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646732216
+sort_value: '305121230'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/951,1608,714,137/150,/0/default.jpg
-label: usurpation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/955,1230,604,133/150,/0/default.jpg
+label: urin
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '405'
+order: '404'
 layout: index_item
 collection: index5
 ---

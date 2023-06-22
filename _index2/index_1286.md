@@ -2,9 +2,8 @@
 pid: index_1286
 volume: Volume 3
 image_number: '19'
-head: epicurism
-entry: "<a href='/digital-beehive/alpha2/alpha_0289/'>a</a>|<a href='/digital-beehive/num5/num_1465/'>1087
-  [Epicures]</a>|<a href='/digital-beehive/num7/num_2594/'>1686 [Epicures]</a>"
+head: equanimity
+entry: "<a href='/digital-beehive/alpha2/alpha_0292/'>a</a>|4560 [PAGE_MISSING]"
 topic:
 first_letter: E
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c65258d33"
+item: "#item-4627212f6"
 unparsed:
-line: 'Head: epicurism|Entry: a|Entry: 1087 [Epicures]|Entry: 1686 [Epicures]|#item-c65258d33'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/122,496,759,149/full/0/default.jpg
+line: 'Head: equanimity|Entry: a|Entry: 4560 [PAGE_MISSING]|#item-4627212f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/128,1280,685,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842334032
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844358920
+sort_value: '301911280'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/122,496,759,149/150,/0/default.jpg
-label: epicurism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/128,1280,685,163/150,/0/default.jpg
+label: equanimity
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

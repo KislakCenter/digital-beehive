@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0655/'>522 [Flesh]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1462/'>flesh</a>"
+index: "<a href='/digital-beehive/index2/index_1478/'>flesh</a>"
 item: "#item-a82bff2a3"
 unparsed:
 line: 'Entry: Flesh|Topic: Flesh|Xref: 522 [Flesh]|Index: flesh|#item-a82bff2a3'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/790,464,2963,413/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508259151074
+sort_value: '201210464'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/790,464,600,180/250,/0/default.jpg
 label: Flesh

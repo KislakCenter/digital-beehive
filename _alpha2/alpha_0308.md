@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>epicurism</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1370/'>eye lust</a>"
+index: "<a href='/digital-beehive/index2/index_1372/'>eye lust</a>"
 item: "#item-992a5ce4c"
 unparsed:
 line: 'Entry: lust of the eye|Topic: lust of the eye|Xref: epicurism|Index: eye lust|#item-992a5ce4c'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/409,3684,3025,456/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564588047954
+sort_value: '145513684'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/409,3684,600,180/250,/0/default.jpg
 label: lust of the eye

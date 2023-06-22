@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0396/'>Happiness</a>|1159 [Fortune]"
 see:
-index: "<a href='/digital-beehive/index2/index_1496/'>fortune</a>"
+index: "<a href='/digital-beehive/index2/index_1522/'>fortune</a>"
 item: "#item-7b80a010f"
 unparsed:
 line: 'Entry: Fortune|Topic: Fortune|Xref: Happiness|Xref: 1159 [Fortune]|Index: fortune|#item-7b80a010f'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/369,479,3077,410/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564590079830
+sort_value: '201310479'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/369,479,600,180/250,/0/default.jpg
 label: Fortune

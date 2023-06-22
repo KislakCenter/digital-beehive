@@ -2,24 +2,25 @@
 pid: index_0586
 volume: Volume 3
 image_number: '12'
-head: cherry
-entry:
+head: certificate
+entry: "<a href='/digital-beehive/num5/num_1345/'>1007 [a Testimonial]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-f70d343ea"
+item: "#item-0b6300420"
 unparsed:
-line: 'Head: cherry|Page: p.33 [Image 1.93]|#item-f70d343ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1823,1287,448,118/full/0/default.jpg
+line: 'Head: certificate|Entry: 1007 [a Testimonial]|#item-0b6300420'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,1973,516,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459497229
+annotation_uri: http://dev.llgc.org.uk/annotation/1532100278567
+sort_value: '301221973'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1823,1287,448,118/150,/0/default.jpg
-label: cherry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,1973,516,127/150,/0/default.jpg
+label: certificate
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3557
 volume: Volume 3
 image_number: '41'
-head: Satyr
-entry: "<a href='/digital-beehive/num9/num_2989/'>2055 [a Satyr]</a>"
+head: Scots
+entry: "<a href='/digital-beehive/num6/num_1967/'>1379 [Scots]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0da9c6e75"
+item: "#item-a7b6e32cc"
 unparsed:
-line: 'Head: Satyr|Entry: 2055 [a Satyr]|#item-0da9c6e75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/164,1988,365,85/full/0/default.jpg
+line: 'Head: Scots|Entry: 1379 [Scots]|#item-a7b6e32cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/893,2305,400,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239164351
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240968133
+sort_value: '304122305'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/164,1988,365,85/150,/0/default.jpg
-label: Satyr
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/893,2305,400,118/150,/0/default.jpg
+label: Scots
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

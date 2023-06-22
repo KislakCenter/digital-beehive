@@ -2,8 +2,8 @@
 pid: index_1796
 volume: Volume 3
 image_number: '23'
-head: heraldry
-entry: "<a href='/digital-beehive/alpha2/alpha_0416/'>a</a>"
+head: helpless
+entry: "<a href='/digital-beehive/num3/num_0832/'>620 [Despair]</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ac9e3b6c9"
+item: "#item-cb9f51c9f"
 unparsed:
-line: 'Head: heraldry|Entry: a|#item-ac9e3b6c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1511,3102,375,128/full/0/default.jpg
+line: 'Head: helpless|Entry: 620 [Despair]|#item-cb9f51c9f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1535,2353,439,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559572083475
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571242963
+sort_value: '302332353'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1511,3102,375,128/150,/0/default.jpg
-label: heraldry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1535,2353,439,124/150,/0/default.jpg
+label: helpless
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

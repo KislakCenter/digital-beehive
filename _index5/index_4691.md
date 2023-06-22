@@ -2,9 +2,8 @@
 pid: index_4691
 volume: Volume 3
 image_number: '54'
-head: national Constitutions
-entry: "<a href='/digital-beehive/num6/num_1983/'>1386 [Fashion of the Countrey]</a>|1872
-  [PAGE_MISSING]"
+head: Turpentine
+entry: "<a href='/digital-beehive/num9/num_3084/'>2145 [Turpentine]</a>"
 topic:
 first_letter: insertion
 page:
@@ -12,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-8b9b56e9e"
-unparsed: Type Index|Insertion [:7.]
-line: 'Type: Index|Insertion: [:7.]|Head: national Constitutions|Entry: 1386 [Fashion
-  of the Countrey]|Entry: 1872 [PAGE_MISSING]|#item-8b9b56e9e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/372,1355,690,145/full/0/default.jpg
+item: "#item-0bb027c45"
+unparsed: Type Index|Insertion [:26.]
+line: 'Type: Index|Insertion: [:26.]|Head: Turpentine|Entry: 2145 [Turpentine]|#item-0bb027c45'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1074,440,693,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560867948206
-insertion: "[:7.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/372,1355,690,145/150,/0/default.jpg
-label: national Constitutions
+annotation_uri: http://dev.llgc.org.uk/annotation/1560953659359
+sort_value: '305420440'
+insertion: "[:26.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1074,440,693,152/150,/0/default.jpg
+label: Turpentine
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '654'
+order: '653'
 layout: index_item
 collection: index5
 ---

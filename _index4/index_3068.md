@@ -2,8 +2,8 @@
 pid: index_3068
 volume: Volume 3
 image_number: '36'
-head: prayers for the dead
-entry: "<a href='/digital-beehive/num2/num_0501/'>408 [Prayers for the Dead]</a>"
+head: pomp
+entry: 781 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b1293121b"
+item: "#item-29ab169bf"
 unparsed:
-line: 'Head: prayers for the dead|Entry: 408 [Prayers for the Dead]|#item-b1293121b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1850,1147,602,150/full/0/default.jpg
+line: 'Head: pomp|Entry: 781 [PAGE_MISSING]|#item-29ab169bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/391,3468,518,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440103552
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438134463
+sort_value: '303613468'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1850,1147,602,150/150,/0/default.jpg
-label: prayers for the dead
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/391,3468,518,134/150,/0/default.jpg
+label: pomp
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

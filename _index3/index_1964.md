@@ -2,8 +2,9 @@
 pid: index_1964
 volume: Volume 3
 image_number: '25'
-head: incomprehensible
-entry: "<a href='/digital-beehive/num2/num_0497/'>406 [Infinitness]</a>"
+head: impartiality
+entry: "<a href='/digital-beehive/alpha3/alpha_0463/'>a</a>|<a href='/digital-beehive/num6/num_2046/'>1417
+  [Impartial]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3ae7f6763"
+item: "#item-3a7127ee0"
 unparsed:
-line: 'Head: incomprehensible|Entry: 406 [Infinitness]|#item-3ae7f6763'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1571,1607,650,130/full/0/default.jpg
+line: 'Head: impartiality|Entry: a|Entry: 1417 [Impartial]|#item-3a7127ee0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/858,1217,693,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198643371
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665619989
+sort_value: '302521217'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1571,1607,650,130/150,/0/default.jpg
-label: incomprehensible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/858,1217,693,138/150,/0/default.jpg
+label: impartiality
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

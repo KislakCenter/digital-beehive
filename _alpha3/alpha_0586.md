@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Imagination</a>|<a href='/digital-beehive/alpha4/alpha_0827/'>Sadness</a>|1847
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2473/'>melancholy</a>"
+index: "<a href='/digital-beehive/index3/index_2476/'>melancholy</a>"
 item: "#item-f7d2261c2"
 unparsed:
 line: 'Entry: Melancholy|Topic: Melancholy|Topic: Melancholyness|Xref: Imagination|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Melancholy|Topic: Melancholy|Topic: Melancholyness|Xref: Imaginati
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/706,1309,3045,547/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564773899605
+sort_value: '203211309'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/706,1309,600,180/250,/0/default.jpg
 label: Melancholy

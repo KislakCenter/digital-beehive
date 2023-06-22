@@ -2,24 +2,26 @@
 pid: index_3617
 volume: Volume 3
 image_number: '42'
-head: sheriff
-entry:
+head: Self hatred
+entry: "<a href='/digital-beehive/alpha4/alpha_0854/'>a</a>|<a href='/digital-beehive/num4/num_1108/'>874
+  [Self hatred]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3619/'>Serjeant</a>"
+see:
 index:
-item: "#item-1e4198480"
+item: "#item-4c8f5fdf2"
 unparsed:
-line: 'Head: sheriff|See: Serjeant|#item-1e4198480'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1830,513,673,122/full/0/default.jpg
+line: 'Head: Self hatred|Entry: a|Entry: 874 [Self hatred]|#item-4c8f5fdf2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/376,1484,695,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575587863
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244498317
+sort_value: '304211484'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1830,513,673,122/150,/0/default.jpg
-label: sheriff
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/376,1484,695,116/150,/0/default.jpg
+label: Self hatred
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

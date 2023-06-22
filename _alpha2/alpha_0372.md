@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1040/'>Will of God</a>|<a href='/digital-beehive/num1/num_0242/'>227
   [Gods Providence]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1671/'>God's providence</a>"
+index: "<a href='/digital-beehive/index2/index_1689/'>God's providence</a>"
 item: "#item-5ef72dfee"
 unparsed:
 line: 'Entry: God''s Providence|Topic: God''s Providence|Xref: Will of God|Xref: 227
@@ -19,6 +19,7 @@ line: 'Entry: God''s Providence|Topic: God''s Providence|Xref: Will of God|Xref:
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/337,799,3088,391/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508854247510
+sort_value: '201510799'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/337,799,600,180/250,/0/default.jpg
 label: God's Providence

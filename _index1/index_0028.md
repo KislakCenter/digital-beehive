@@ -2,9 +2,8 @@
 pid: index_0028
 volume: Volume 3
 image_number: '7'
-head: adventure
-entry: "<a href='/digital-beehive/alpha1/alpha_0009/'>a</a>|<a href='/digital-beehive/num3/num_0839/'>623
-  [Adventure]</a>"
+head: accurate
+entry: "<a href='/digital-beehive/num1/num_0153/'>147 [Exactness]</a>"
 topic:
 first_letter: A
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3d114741c"
+item: "#item-25553776f"
 unparsed:
-line: 'Head: adventure|Entry: a|Entry: 623 [Adventure]|#item-3d114741c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/876,771,568,89/full/0/default.jpg
+line: 'Head: accurate|Entry: 147 [Exactness]|#item-25553776f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/176,2524,537,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761003783
+annotation_uri: http://dev.llgc.org.uk/annotation/1491191433131
+sort_value: '300712524'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/876,771,568,89/150,/0/default.jpg
-label: adventure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/176,2524,537,93/150,/0/default.jpg
+label: accurate
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0316
 volume: Volume 3
 image_number: '9'
-head: barefooted
-entry: "<a href='/digital-beehive/num8/num_2859/'>1939 [Barefooted]</a>"
+head: bear
+entry: "<a href='/digital-beehive/num9/num_3103/'>2162 [Bears]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5399c245e"
+item: "#item-d3f1f48ec"
 unparsed:
-line: 'Head: barefooted|Entry: 1939 [Barefooted]|#item-5399c245e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/907,2805,568,116/full/0/default.jpg
+line: 'Head: bear|Entry: 2162 [Bears]|#item-d3f1f48ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1604,1539,364,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506104731239
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891459115
+sort_value: '300931539'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/907,2805,568,116/150,/0/default.jpg
-label: barefooted
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1604,1539,364,76/150,/0/default.jpg
+label: bear
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

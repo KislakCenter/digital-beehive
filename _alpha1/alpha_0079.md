@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0008/'>advantage</a>|<a href='/digital-beehive/alpha5/alpha_1020/'>utility</a>|<a
   href='/digital-beehive/num5/num_1495/'>1104 [Benefits]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0349/'>benefit</a>"
+index: "<a href='/digital-beehive/index1/index_0354/'>benefit</a>"
 item: "#item-f7835b924"
 unparsed:
 line: 'Entry: Benefit|Topic: Benefit|Xref: advantage|Xref: utility|Xref: 1104 [Benefits]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Benefit|Topic: Benefit|Xref: advantage|Xref: utility|Xref: 1104 [B
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/839,3098,2898,578/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744268515
+sort_value: '143613098'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/839,3098,600,180/250,/0/default.jpg
 label: Benefit

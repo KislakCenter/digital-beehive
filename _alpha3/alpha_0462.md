@@ -10,7 +10,7 @@ page:
 add:
 xref: 1010 [The Following of Christ]
 see:
-index: "<a href='/digital-beehive/index3/index_1943/'>imitation of Christ</a>"
+index: "<a href='/digital-beehive/index3/index_1961/'>imitation of Christ</a>"
 item: "#item-e6337f777"
 unparsed:
 line: 'Entry: Imitation of Christ|Topic: Imitation of Christ|Xref: 1010 [The Following
@@ -18,6 +18,7 @@ line: 'Entry: Imitation of Christ|Topic: Imitation of Christ|Xref: 1010 [The Fol
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/779,233,2986,770/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759281682
+sort_value: '202210233'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/779,233,600,180/250,/0/default.jpg
 label: Imitation of Christ

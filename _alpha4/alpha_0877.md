@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0878/'>Silence, continued</a>|<a href='/digital-beehive/num2/num_0540/'>436
   [Silence]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3728/'>silence</a>"
+index: "<a href='/digital-beehive/index4/index_3707/'>silence</a>"
 item: "#item-0e7ccb2d3"
 unparsed:
 line: 'Entry: Silence|Topic: Silence|Xref: Silence, continued|Xref: 436 [Silence]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Silence|Topic: Silence|Xref: Silence, continued|Xref: 436 [Silence
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/801,4548,2945,540/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530803811573
+sort_value: '205214548'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/801,4548,600,180/250,/0/default.jpg
 label: Silence

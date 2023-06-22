@@ -2,24 +2,25 @@
 pid: index_3761
 volume: Volume 3
 image_number: '43'
-head: sling
-entry: "<a href='/digital-beehive/num8/num_2767/'>1832 [To Swing]</a>"
+head: smith
+entry: "<a href='/digital-beehive/num2/num_0350/'>306 [Smith]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-38ef946fb"
+item: "#item-b9c55c561"
 unparsed:
-line: 'Head: sling|Entry: 1832 [To Swing]|#item-38ef946fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/892,2505,406,84/full/0/default.jpg
+line: 'Head: smith|Page: p.38 [Image 1.98]|Entry: 306 [Smith]|#item-b9c55c561'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/903,3473,563,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584670036
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584956441
+sort_value: '304323473'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/892,2505,406,84/150,/0/default.jpg
-label: sling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/903,3473,563,144/150,/0/default.jpg
+label: smith
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

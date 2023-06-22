@@ -2,24 +2,26 @@
 pid: index_2488
 volume: Volume 3
 image_number: '30'
-head: millenary
-entry:
+head: mercurius
+entry: "<a href='/digital-beehive/num7/num_2343/'>1566 [Quick Silver]</a>|<a href='/digital-beehive/num9/num_3094/'>2153
+  [Mercurius]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0620/'>chiliasm</a>"
+see:
 index:
-item: "#item-6bbd1bbdb"
+item: "#item-728939150"
 unparsed:
-line: 'Head: millenary|See: chiliasm|#item-6bbd1bbdb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1843,1904,646,150/full/0/default.jpg
+line: 'Head: mercurius|Entry: 1566 [Quick Silver]|Entry: 2153 [Mercurius]|#item-728939150'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1108,2629,667,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274073360
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269301161
+sort_value: '303022629'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1843,1904,646,150/150,/0/default.jpg
-label: millenary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1108,2629,667,109/150,/0/default.jpg
+label: mercurius
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

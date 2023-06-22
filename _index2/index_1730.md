@@ -2,25 +2,25 @@
 pid: index_1730
 volume: Volume 3
 image_number: '23'
-head: happiness
-entry: "<a href='/digital-beehive/alpha2/alpha_0396/'>a</a>|<a href='/digital-beehive/num5/num_1497/'>1106
-  [happy]</a>|<a href='/digital-beehive/num6/num_2071/'>1426 [Happy]</a>"
+head: guilty of other sins
+entry: "<a href='/digital-beehive/num10/num_3388/'>2415 [Partake not with the wicked]</a>"
 topic:
-first_letter: H
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-783dde2ce"
+item: "#item-3ac25d8f7"
 unparsed:
-line: 'Head: happiness|Entry: a|Entry: 1106 [happy]|Entry: 1426 [Happy]|#item-783dde2ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/842,1108,681,122/full/0/default.jpg
+line: 'Head: guilty of other sins|Entry: 2415 [Partake not with the wicked]|#item-3ac25d8f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/156,2832,664,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239143809
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233454729
+sort_value: '302312832'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/842,1108,681,122/150,/0/default.jpg
-label: happiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/156,2832,664,107/150,/0/default.jpg
+label: guilty of other sins
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_2079
 volume: Volume 3
 image_number: '26'
-head: information
-entry: "<a href='/digital-beehive/alpha3/alpha_0477/'>a</a>|<a href='/digital-beehive/num5/num_1604/'>1176
-  [to Inform]</a>"
+head: interruption
+entry: "<a href='/digital-beehive/num5/num_1654/'>1211 [Interruption]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-598622861"
+item: "#item-aeb445063"
 unparsed:
-line: 'Head: information|Entry: a|Entry: 1176 [to Inform]|#item-598622861'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/427,2197,594,130/full/0/default.jpg
+line: 'Head: interruption|Entry: 1211 [Interruption]|#item-aeb445063'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1166,3238,526,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744860661
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749569904
+sort_value: '302623238'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/427,2197,594,130/150,/0/default.jpg
-label: information
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1166,3238,526,143/150,/0/default.jpg
+label: interruption
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

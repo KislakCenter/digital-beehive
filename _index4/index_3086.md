@@ -2,27 +2,27 @@
 pid: index_3086
 volume: Volume 3
 image_number: '36'
-head: precious
-entry:
+head: post
+entry: "<a href='/digital-beehive/num2/num_0514/'>416 [Post]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: dear|excell
+see:
 index:
-item: "#item-893007bd4"
+item: "#item-8a773f001"
 unparsed:
-line: 'Head: precious|See: dear|See: excell|#item-893007bd4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1842,1745,743,125/full/0/default.jpg
+line: 'Head: post|Entry: 416 [Post]|#item-8a773f001'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1180,1877,393,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440455317
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438850943
+sort_value: '303621877'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1842,1745,743,125/150,/0/default.jpg
-label: precious
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1180,1877,393,140/150,/0/default.jpg
+label: post
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: The intended point of reference for "dear" is unclear.|The intended point of
-  reference for "excell" is unclear.
+issue:
 insertion_xref:
 order: '0334'
 layout: index_item

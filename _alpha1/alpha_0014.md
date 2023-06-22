@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0086/'>85 [Wel- and Unwelcome]</a>|<a href='/digital-beehive/num4/num_1144/'>889
   [Agreable]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0114/'>agreable</a>"
+index: "<a href='/digital-beehive/index1/index_0079/'>agreable</a>"
 item: "#item-16d46db60"
 unparsed:
 line: 'Entry: Agreableness|Topic: Agreableness|Xref: 85 [Wel- and Unwelcome]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Agreableness|Topic: Agreableness|Xref: 85 [Wel- and Unwelcome]|Xre
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/661,1247,3203,403/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490629815347
+sort_value: '143211247'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/661,1247,600,180/250,/0/default.jpg
 label: Agreableness

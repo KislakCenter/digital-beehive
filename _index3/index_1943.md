@@ -2,9 +2,8 @@
 pid: index_1943
 volume: Volume 3
 image_number: '25'
-head: imitation of Christ
-entry: "<a href='/digital-beehive/alpha3/alpha_0462/'>a</a>|<a href='/digital-beehive/num5/num_1349/'>1010
-  [Following of Christ]</a>"
+head: wandering Jew
+entry: "<a href='/digital-beehive/num6/num_1873/'>1332 [Wandring Jew]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-afe949723"
+item: "#item-ec7abe356"
 unparsed:
-line: 'Head: imitation of Christ|Entry: a|Entry: 1010 [Following of Christ]|#item-afe949723'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/852,827,641,142/full/0/default.jpg
+line: 'Head: wandering Jew|Entry: 1332 [Wandring Jew]|#item-ec7abe356'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/147,2473,620,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665291036
+annotation_uri: http://dev.llgc.org.uk/annotation/1559661555122
+sort_value: '302512473'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/852,827,641,142/150,/0/default.jpg
-label: imitation of Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/147,2473,620,136/150,/0/default.jpg
+label: wandering Jew
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_0424
 volume: Volume 3
 image_number: '10'
-head: bowels
-entry:
+head: bounty
+entry: "<a href='/digital-beehive/alpha1/alpha_0097/'>a</a>"
 topic:
 first_letter: B
 page:
 add:
 xref:
-see: 802 [PAGE_MISSING]
+see:
 index:
-item: "#item-2e56261dc"
+item: "#item-e9a80241e"
 unparsed:
-line: 'Head: bowels|See: 802 [PAGE_MISSING]|#item-2e56261dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3064,464,125/full/0/default.jpg
+line: 'Head: bounty|Entry: a|#item-e9a80241e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,2848,340,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417083596
+annotation_uri: http://dev.llgc.org.uk/annotation/1531416885399
+sort_value: '301032848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3064,464,125/150,/0/default.jpg
-label: bowels
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,2848,340,110/150,/0/default.jpg
+label: bounty
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

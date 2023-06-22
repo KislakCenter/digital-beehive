@@ -2,26 +2,25 @@
 pid: index_2161
 volume: Volume 3
 image_number: '27'
-head: judge of controversie
-entry: "<a href='/digital-beehive/num1/num_0075/'>74 [the Judge of religious Controversies]</a>|<a
-  href='/digital-beehive/num6/num_2017/'>1403 [Rule of faith & life]</a>"
+head: kindred
+entry: "<a href='/digital-beehive/num1/num_0176/'>168 [Kindred]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5e347f017"
+item: "#item-7f608343d"
 unparsed:
-line: 'Head: judge of controversie|Entry: 74 [the Judge of religious Controversies]|Entry:
-  1403 [Rule of faith & life]|#item-5e347f017'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/132,1597,716,105/full/0/default.jpg
+line: 'Head: kindred|Entry: 168 [Kindred]|#item-7f608343d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/841,941,452,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559757681005
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761665345
+sort_value: '302720941'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/132,1597,716,105/150,/0/default.jpg
-label: judge of controversie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/841,941,452,137/150,/0/default.jpg
+label: kindred
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

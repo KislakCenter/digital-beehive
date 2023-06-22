@@ -19,6 +19,7 @@ line: 'Entry: Moral Philosophy|Topic: Moral Philosophy|Xref: 15 [Moral Philosoph
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/337,4055,3045,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564776745879
+sort_value: '203314055'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/337,4055,600,180/250,/0/default.jpg
 label: Moral Philosophy

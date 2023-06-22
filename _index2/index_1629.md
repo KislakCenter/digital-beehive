@@ -2,9 +2,8 @@
 pid: index_1629
 volume: Volume 3
 image_number: '22'
-head: gentleness
-entry: "<a href='/digital-beehive/alpha2/alpha_0360/'>a</a>|<a href='/digital-beehive/num5/num_1645/'>1206
-  [Gentleness]</a>|4683 [PAGE_MISSING]"
+head: gluttony
+entry: 816 [PAGE_MISSING]
 topic:
 first_letter: G
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-19228c31f"
+item: "#item-9a2359e94"
 unparsed:
-line: 'Head: gentleness|Entry: a|Entry: 1206 [Gentleness]|Entry: 4683 [PAGE_MISSING]|#item-19228c31f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/446,766,675,151/full/0/default.jpg
+line: 'Head: gluttony|Entry: 816 [PAGE_MISSING]|#item-9a2359e94'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1144,635,430,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042306697
+annotation_uri: http://dev.llgc.org.uk/annotation/1561045710833
+sort_value: '302220635'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/446,766,675,151/150,/0/default.jpg
-label: gentleness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1144,635,430,155/150,/0/default.jpg
+label: gluttony
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

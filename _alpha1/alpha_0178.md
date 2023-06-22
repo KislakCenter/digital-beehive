@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0471/'>Incontinence</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0766/'>continency</a>"
+index: "<a href='/digital-beehive/index1/index_0825/'>continency</a>"
 item: "#item-7842cd78e"
 unparsed:
 line: 'Entry: Continency|Topic: Continency|Xref: Incontinence|Index: continency|#item-7842cd78e'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/804,3944,3045,499/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499784892066
+sort_value: '144413944'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/804,3944,600,180/250,/0/default.jpg
 label: Continency

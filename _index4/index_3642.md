@@ -2,9 +2,8 @@
 pid: index_3642
 volume: Volume 3
 image_number: '42'
-head: Self guilty
-entry: "<a href='/digital-beehive/num2/num_0583/'>468 [Self-guilty]</a>|<a href='/digital-beehive/num6/num_1776/'>1279
-  [Self guilty]</a>|<a href='/digital-beehive/num10/num_3274/'>2310 [Self guilty]</a>"
+head: seriousness
+entry: "<a href='/digital-beehive/num1/num_0213/'>202 [Seriousness]</a>"
 topic:
 first_letter: S
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0fd8882ff"
+item: "#item-e5b042d17"
 unparsed:
-line: 'Head: Self guilty|Entry: 468 [Self-guilty]|Entry: 1279 [Self guilty]|Entry:
-  2310 [Self guilty]|#item-0fd8882ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/392,1381,794,131/full/0/default.jpg
+line: 'Head: seriousness|Entry: 202 [Seriousness]|#item-e5b042d17'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1116,702,610,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244463669
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573713755
+sort_value: '304220702'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/392,1381,794,131/150,/0/default.jpg
-label: Self guilty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1116,702,610,160/150,/0/default.jpg
+label: seriousness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

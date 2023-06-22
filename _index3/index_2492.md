@@ -2,8 +2,8 @@
 pid: index_2492
 volume: Volume 3
 image_number: '30'
-head: men-pleasing
-entry: 1871 [PAGE_MISSING]
+head: Ambros. Merlin
+entry: "<a href='/digital-beehive/num6/num_2142/'>1459 [Ambrosius Merlin]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e1e5cc010"
+item: "#item-7cd6a9544"
 unparsed:
-line: 'Head: men-pleasing|Entry: 1871 [PAGE_MISSING]|#item-e1e5cc010'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1127,1969,666,121/full/0/default.jpg
+line: 'Head: Ambros. Merlin|Entry: 1459 [Ambrosius Merlin]|#item-7cd6a9544'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1093,3010,639,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268432401
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269527258
+sort_value: '303023010'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1127,1969,666,121/150,/0/default.jpg
-label: men-pleasing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1093,3010,639,185/150,/0/default.jpg
+label: Ambros. Merlin
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

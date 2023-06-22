@@ -2,9 +2,8 @@
 pid: index_3431
 volume: Volume 3
 image_number: '40'
-head: robbery
-entry: "<a href='/digital-beehive/alpha4/alpha_0817/'>a</a>|<a href='/digital-beehive/num2/num_0628/'>499
-  [Robbery]</a>|4511 [PAGE_MISSING]"
+head: rimes
+entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>"
 topic:
 first_letter: R
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-af2a42bec"
+item: "#item-03bca2c24"
 unparsed:
-line: 'Head: robbery|Entry: a|Entry: 499 [Robbery]|Entry: 4511 [PAGE_MISSING]|#item-af2a42bec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1164,255,673,129/full/0/default.jpg
+line: 'Head: rimes|Entry: 1585 [Verses]|#item-03bca2c24'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/440,2671,400,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232809722
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232387458
+sort_value: '304012671'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1164,255,673,129/150,/0/default.jpg
-label: robbery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/440,2671,400,80/150,/0/default.jpg
+label: rimes
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

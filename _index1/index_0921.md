@@ -2,24 +2,25 @@
 pid: index_0921
 volume: Volume 3
 image_number: '15'
-head: day of humiliation
-entry: "<a href='/digital-beehive/num2/num_0337/'>298 [Day of humiliation]</a>"
+head: crystal
+entry: "<a href='/digital-beehive/num7/num_2507/'>1645 [Chrystall]</a>"
 topic:
-first_letter: D
+first_letter: C
 page:
-add: Visitation
+add:
 xref:
 see:
 index:
-item: "#item-82ba7c3e6"
+item: "#item-3dc168891"
 unparsed:
-line: 'Head: day of humiliation|Entry: 298 [Day of humiliation]|Add: Visitation|#item-82ba7c3e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1526,2042,704,133/full/0/default.jpg
+line: 'Head: crystal|Entry: 1645 [Chrystall]|#item-3dc168891'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/855,2896,428,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391627623
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577911644
+sort_value: '301522896'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1526,2042,704,133/150,/0/default.jpg
-label: day of humiliation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/855,2896,428,134/150,/0/default.jpg
+label: crystal
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

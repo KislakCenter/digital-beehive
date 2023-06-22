@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0897/'>Solitude</a>|<a href='/digital-beehive/alpha2/alpha_0428/'>Home</a>|<a
   href='/digital-beehive/num1/num_0179/'>171 [Private]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3138/'>privacy</a>"
+index: "<a href='/digital-beehive/index4/index_3163/'>privacy</a>"
 item: "#item-cff356199"
 unparsed:
 line: 'Entry: Privacy|Topic: Privacy|Xref: Solitude|Xref: Home|Xref: 171 [Private]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Privacy|Topic: Privacy|Xref: Solitude|Xref: Home|Xref: 171 [Privat
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/314,621,3052,369/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528405377011
+sort_value: '204310621'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/314,621,600,180/250,/0/default.jpg
 label: Privacy

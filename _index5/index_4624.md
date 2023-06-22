@@ -2,29 +2,30 @@
 pid: index_4624
 volume: Volume 3
 image_number: '53'
-head: witnesses
-entry: "<a href='/digital-beehive/num5/num_1344/'>1007 [Witnesses]</a>|<a href='/digital-beehive/num9/num_3152/'>2209
-  [Witness]</a>"
+head: will worship
+entry: "<a href='/digital-beehive/alpha5/alpha_1065/'>a</a>|<a href='/digital-beehive/num2/num_0613/'>490
+  [Will-worship]</a>|<a href='/digital-beehive/num10/num_3362/'>2390 [Will-worship]</a>"
 topic:
 first_letter: W
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4160/'>testimony</a>"
+see:
 index:
-item: "#item-0be58393f"
+item: "#item-42eb3eb7d"
 unparsed:
-line: 'Head: witnesses|See: testimony|Entry: 1007 [Witnesses]|Entry: 2209 [Witness]|#item-0be58393f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/180,2383,691,202/full/0/default.jpg
+line: 'Head: will worship|Entry: a|Entry: 490 [Will-worship]|Entry: 2390 [Will-worship]|#item-42eb3eb7d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/834,3545,742,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792860680
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797782183
+sort_value: '305323545'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/180,2383,691,202/150,/0/default.jpg
-label: witnesses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/834,3545,742,120/150,/0/default.jpg
+label: will worship
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '587'
+order: '586'
 layout: index_item
 collection: index5
 ---

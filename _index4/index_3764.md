@@ -2,25 +2,25 @@
 pid: index_3764
 volume: Volume 3
 image_number: '43'
-head: simulation
-entry: "<a href='/digital-beehive/alpha4/alpha_0882/'>a</a>|<a href='/digital-beehive/num5/num_1567/'>1150
-  [Simulation]</a>|<a href='/digital-beehive/num6/num_1796/'>1289 [Simulation]</a>"
+head: snail
+entry:
 topic:
 first_letter: S
-page:
-add:
+page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
+add: "<a href='/digital-beehive/index4/index_3667/'>shells</a>"
 xref:
 see:
 index:
-item: "#item-1acd593ea"
+item: "#item-9727486f9"
 unparsed:
-line: 'Head: simulation|Entry: a|Entry: 1150 [Simulation]|Entry: 1289 [Simulation]|#item-1acd593ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/169,2572,658,169/full/0/default.jpg
+line: 'Head: snail|Page: p.36 [Image 1.96]|Add: shells|#item-9727486f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1559,513,521,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582424644
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585092411
+sort_value: '304330513'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/169,2572,658,169/150,/0/default.jpg
-label: simulation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1559,513,521,175/150,/0/default.jpg
+label: snail
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

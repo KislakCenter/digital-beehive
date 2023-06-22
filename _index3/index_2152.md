@@ -2,25 +2,26 @@
 pid: index_2152
 volume: Volume 3
 image_number: '27'
-head: large
-entry: "<a href='/digital-beehive/num3/num_0860/'>635 [Great, rich & eminent Persons]</a>|800
-  [PAGE_MISSING]"
+head: key
+entry: "<a href='/digital-beehive/alpha3/alpha_0501/'>a</a>|<a href='/digital-beehive/num6/num_1807/'>1294
+  [Keys]</a>"
 topic:
-first_letter: L
-page:
+first_letter: K
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-9d0ceed6a"
+item: "#item-cfd9a74c8"
 unparsed:
-line: 'Head: large|Entry: 635 [Great, rich & eminent Persons]|Entry: 800 [PAGE_MISSING]|#item-9d0ceed6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1572,1283,469,145/full/0/default.jpg
+line: 'Head: key|Page: p.30 [Image 1.90]|Entry: a|Entry: 1294 [Keys]|#item-cfd9a74c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/134,3575,548,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835569557
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759826805
+sort_value: '302713575'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1572,1283,469,145/150,/0/default.jpg
-label: large
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/134,3575,548,162/150,/0/default.jpg
+label: key
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

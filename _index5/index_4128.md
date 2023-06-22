@@ -2,31 +2,30 @@
 pid: index_4128
 volume: Volume 3
 image_number: '47'
-head: time
-entry: "<a href='/digital-beehive/alpha5/alpha_0961/'>a</a>|<a href='/digital-beehive/num5/num_1678/'>1225
-  [Time]</a>|<a href='/digital-beehive/num9/num_2993/'>2059 [Time]</a>|<a href='/digital-beehive/num11/num_3509/'>4815
-  [Time]</a>"
+head: thouing
+entry: "<a href='/digital-beehive/alpha5/alpha_0956/'>a</a>|<a href='/digital-beehive/num1/num_0229/'>217
+  [Thouing]</a>"
 topic:
 first_letter: T
 page:
-add: "<a href='/digital-beehive/index3/index_2256/'>lilly time</a>"
+add:
 xref:
 see:
 index:
-item: "#item-df6275575"
+item: "#item-5dee8af62"
 unparsed:
-line: 'Head: time|Entry: a|Entry: 1225 [Time]|Entry: 2059 [Time]|Entry: 4815 [Time]|Add:
-  lilly time|#item-df6275575'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1594,2233,686,342/full/0/default.jpg
+line: 'Head: thouing|Entry: a|Entry: 217 [Thouing]|#item-5dee8af62'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/908,2900,445,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565800136088
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517465561
+sort_value: '304722900'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1594,2233,686,342/150,/0/default.jpg
-label: time
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/908,2900,445,135/150,/0/default.jpg
+label: thouing
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '091'
+order: '090'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,29 @@
 pid: index_4328
 volume: Volume 3
 image_number: '49'
-head: vision
-entry: "<a href='/digital-beehive/num2/num_0503/'>409 [Vision]</a>"
+head: vigilance
+entry: 4655 [PAGE_MISSING]
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3211/'>providence</a>"
 index:
-item: "#item-ebfa2d080"
+item: "#item-c8efae733"
 unparsed:
-line: 'Head: vision|Entry: 409 [Vision]|#item-ebfa2d080'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,2752,414,142/full/0/default.jpg
+line: 'Head: vigilance|See: providence|Entry: 4655 [PAGE_MISSING]|#item-c8efae733'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1631,1006,714,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661289432
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659992552
+sort_value: '304931006'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,2752,414,142/150,/0/default.jpg
-label: vision
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1631,1006,714,127/150,/0/default.jpg
+label: vigilance
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '291'
+order: '290'
 layout: index_item
 collection: index5
 ---

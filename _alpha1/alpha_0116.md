@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0660/'>office</a>|<a href='/digita
   href='/digital-beehive/num1/num_0233/'>221 [Sacrament of Orders]</a>|<a href='/digital-beehive/num4/num_1174/'>904
   [Calling]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0447/'>calling</a>"
+index: "<a href='/digital-beehive/index1/index_0510/'>calling</a>"
 item: "#item-01e9433b9"
 unparsed:
 line: 'Entry: Calling|Topic: Calling|Xref: office|Xref: Simony|Xref: 221 [Sacrament
@@ -20,6 +20,7 @@ line: 'Entry: Calling|Topic: Calling|Xref: office|Xref: Simony|Xref: 221 [Sacram
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/319,1233,3148,515/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1496690173296
+sort_value: '143911233'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/319,1233,600,180/250,/0/default.jpg
 label: Calling

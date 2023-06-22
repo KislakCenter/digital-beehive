@@ -2,8 +2,8 @@
 pid: index_1126
 volume: Volume 3
 image_number: '17'
-head: to do
-entry: "<a href='/digital-beehive/num4/num_1128/'>883 [To act]</a>"
+head: dog-days
+entry: "<a href='/digital-beehive/alpha1/alpha_0261/'>a</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-cfbc63fa7"
+item: "#item-1c7c34bfe"
 unparsed:
-line: 'Head: to do|Entry: 883 [To act]|#item-cfbc63fa7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,2167,396,140/full/0/default.jpg
+line: 'Head: dog-days|Entry: a|#item-1c7c34bfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/793,2964,513,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560366695818
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367202426
+sort_value: '301722964'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,2167,396,140/150,/0/default.jpg
-label: to do
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/793,2964,513,168/150,/0/default.jpg
+label: dog-days
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1124'
+order: '1125'
 layout: index_item
 collection: index1
 ---

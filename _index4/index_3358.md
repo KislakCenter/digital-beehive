@@ -2,9 +2,8 @@
 pid: index_3358
 volume: Volume 3
 image_number: '39'
-head: refuge
-entry: "<a href='/digital-beehive/num1/num_0138/'>133 [Refuge]</a>|<a href='/digital-beehive/num6/num_2169/'>1473
-  [Refuge]</a>"
+head: remission
+entry: "<a href='/digital-beehive/alpha4/alpha_0793/'>a</a>"
 topic:
 first_letter: R
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d9975306e"
+item: "#item-1691e9e84"
 unparsed:
-line: 'Head: refuge|Entry: 133 [Refuge]|Entry: 1473 [Refuge]|#item-d9975306e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/120,1545,550,118/full/0/default.jpg
+line: 'Head: remission|Entry: a|#item-1691e9e84'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/771,816,513,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464594856
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468960767
+sort_value: '303920816'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/120,1545,550,118/150,/0/default.jpg
-label: refuge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/771,816,513,145/150,/0/default.jpg
+label: remission
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

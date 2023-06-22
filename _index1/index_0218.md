@@ -2,8 +2,8 @@
 pid: index_0218
 volume: Volume 3
 image_number: '8'
-head: aqueduct
-entry: "<a href='/digital-beehive/num5/num_1527/'>1126 [Aqueduct]</a>"
+head: as if
+entry: "<a href='/digital-beehive/num8/num_2704/'>1773 [Lord's Supper]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4bce89933"
+item: "#item-851f883ef"
 unparsed:
-line: 'Head: aqueduct|Entry: 1126 [Aqueduct]|#item-4bce89933'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1095,2892,495,116/full/0/default.jpg
+line: 'Head: as if|Entry: 1773 [Lord''s Supper]|#item-851f883ef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,1892,356,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491239815605
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631600159
+sort_value: '300831892'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1095,2892,495,116/150,/0/default.jpg
-label: aqueduct
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,1892,356,119/150,/0/default.jpg
+label: as if
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

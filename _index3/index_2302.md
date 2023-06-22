@@ -2,24 +2,26 @@
 pid: index_2302
 volume: Volume 3
 image_number: '28'
-head: to leave off
-entry: "<a href='/digital-beehive/num5/num_1658/'>1212 [To Leave off]</a>"
+head: lion
+entry: "<a href='/digital-beehive/alpha3/alpha_0544/'>a</a>|<a href='/digital-beehive/num5/num_1467/'>1088
+  [Lion]</a>"
 topic:
 first_letter: L
-page:
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-84b4bde53"
+item: "#item-1e2a7d74a"
 unparsed:
-line: 'Head: to leave off|Entry: 1212 [To Leave off]|#item-84b4bde53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/386,2614,525,155/full/0/default.jpg
+line: 'Head: lion|Page: p.34 [Image 1.94]|Entry: a|Entry: 1088 [Lion]|#item-1e2a7d74a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1836,1521,574,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842499943
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848895839
+sort_value: '302831521'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/386,2614,525,155/150,/0/default.jpg
-label: to leave off
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1836,1521,574,139/150,/0/default.jpg
+label: lion
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

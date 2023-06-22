@@ -2,9 +2,8 @@
 pid: index_3782
 volume: Volume 3
 image_number: '43'
-head: smart
-entry: "<a href='/digital-beehive/num3/num_0905/'>658 [Grief]</a>|<a href='/digital-beehive/num9/num_3032/'>2096
-  [Smart]</a>"
+head: to solder
+entry: 822 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4a6f05a68"
+item: "#item-c7c4e608a"
 unparsed:
-line: 'Head: smart|Entry: 658 [Grief]|Entry: 2096 [Smart]|#item-4a6f05a68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/896,3247,609,156/full/0/default.jpg
+line: 'Head: to solder|Entry: 822 [PAGE_MISSING]|#item-c7c4e608a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1599,2593,471,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584916065
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586369671
+sort_value: '304332593'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/896,3247,609,156/150,/0/default.jpg
-label: smart
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1599,2593,471,166/150,/0/default.jpg
+label: to solder
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

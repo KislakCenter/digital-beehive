@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0246/'>disobed</a>|<a href='/digital-beehive/alpha4/alpha_0682/'>Parents</a>|<a
   href='/digital-beehive/num4/num_1314/'>985 [Obedience]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2783/'>obedience</a>"
+index: "<a href='/digital-beehive/index4/index_2755/'>obedience</a>"
 item: "#item-7dfdfd864"
 unparsed:
 line: 'Entry: Obedience|Topic: Obedience|Xref: disobed|Xref: Parents|Xref: 985 [Obedience]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Obedience|Topic: Obedience|Xref: disobed|Xref: Parents|Xref: 985 [
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/702,4416,3063,630/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565016107334
+sort_value: '203614416'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/702,4416,600,180/250,/0/default.jpg
 label: Obedience

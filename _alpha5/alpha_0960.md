@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1901/'>1346 [Thunder & Lightning]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4089/'>thunder</a>"
+index: "<a href='/digital-beehive/index5/index_4143/'>thunder</a>"
 item: "#item-40bb469ee"
 unparsed:
 line: 'Entry: Thunder|Topic: Thunder|Xref: 1346 [Thunder & Lightning]|Index: thunder|#item-40bb469ee'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/832,4221,2942,382/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529518283829
+sort_value: '205814221'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/832,4221,600,180/250,/0/default.jpg
 label: Thunder

@@ -2,8 +2,8 @@
 pid: index_3446
 volume: Volume 3
 image_number: '40'
-head: Roman Empire
-entry: "<a href='/digital-beehive/num10/num_3211/'>2260 [Roman Empire]</a>"
+head: roof
+entry: "<a href='/digital-beehive/num2/num_0431/'>362 [a Shingle]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e45f2244e"
+item: "#item-194cd1463"
 unparsed:
-line: 'Head: Roman Empire|Entry: 2260 [Roman Empire]|#item-e45f2244e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1144,905,677,158/full/0/default.jpg
+line: 'Head: roof|Entry: 362 [a Shingle]|#item-194cd1463'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1158,1137,313,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233301423
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233394683
+sort_value: '304021137'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1144,905,677,158/150,/0/default.jpg
-label: Roman Empire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1158,1137,313,116/150,/0/default.jpg
+label: roof
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,9 @@
 pid: index_1410
 volume: Volume 3
 image_number: '20'
-head: fiery or passionate
-entry: "<a href='/digital-beehive/num1/num_0123/'>119 [Passions]</a>"
+head: fasting
+entry: "<a href='/digital-beehive/alpha2/alpha_0318/'>a</a>|<a href='/digital-beehive/num4/num_1110/'>876
+  [Fasting]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9f019df69"
+item: "#item-eb1d35f09"
 unparsed:
-line: 'Head: fiery or passionate|Entry: 119 [Passions]|#item-9f019df69'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1779,927,741,159/full/0/default.jpg
+line: 'Head: fasting|Entry: a|Entry: 876 [Fasting]|#item-eb1d35f09'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/397,3432,552,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613382486
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660445306
+sort_value: '302013432'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1779,927,741,159/150,/0/default.jpg
-label: fiery or passionate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/397,3432,552,156/150,/0/default.jpg
+label: fasting
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -11,13 +11,14 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1059/'>Works</a>|<a href='/digital-beehive/num5/num_1545/'>1137
   [Deed]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1010/'>deed</a>"
+index: "<a href='/digital-beehive/index1/index_0983/'>deed</a>"
 item: "#item-76b2be726"
 unparsed:
 line: 'Entry: Deed|Topic: Deed|Xref: Works|Xref: 1137 [Deed]|Index: deed|#item-76b2be726'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/827,2064,2943,569/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507574651787
+sort_value: '144812064'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/827,2064,600,180/250,/0/default.jpg
 label: Deed

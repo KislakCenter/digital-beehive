@@ -2,24 +2,26 @@
 pid: index_3496
 volume: Volume 3
 image_number: '40'
-head: rules false
-entry: "<a href='/digital-beehive/num1/num_0143/'>138 [False Rules]</a>"
+head: Saints
+entry: "<a href='/digital-beehive/alpha4/alpha_0829/'>a</a>|<a href='/digital-beehive/num9/num_3090/'>2149
+  [Saints]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5fdece7e1"
+item: "#item-98b7d7407"
 unparsed:
-line: 'Head: rules false|Entry: 138 [False Rules]|#item-5fdece7e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1133,3151,407,103/full/0/default.jpg
+line: 'Head: Saints|Entry: a|Entry: 2149 [Saints]|#item-98b7d7407'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1849,2985,493,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234131360
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235263548
+sort_value: '304032985'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1133,3151,407,103/150,/0/default.jpg
-label: rules false
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1849,2985,493,143/150,/0/default.jpg
+label: Saints
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

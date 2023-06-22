@@ -2,8 +2,8 @@
 pid: index_4514
 volume: Volume 3
 image_number: '52'
-head: whosoever
-entry: 1851 [PAGE_MISSING]
+head: Welch
+entry: "<a href='/digital-beehive/num2/num_0561/'>451 [Welsh or Old Britan]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-c982bb0f6"
+item: "#item-6cbb7e27b"
 unparsed:
-line: 'Head: whosoever|Entry: 1851 [PAGE_MISSING]|#item-c982bb0f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1791,1248,510,122/full/0/default.jpg
+line: 'Head: Welch|Entry: 451 [Welsh or Old Britan]|#item-6cbb7e27b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,951,373,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971787440
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968632145
+sort_value: '305220951'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1791,1248,510,122/150,/0/default.jpg
-label: whosoever
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,951,373,118/150,/0/default.jpg
+label: Welch
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '477'
+order: '476'
 layout: index_item
 collection: index5
 ---

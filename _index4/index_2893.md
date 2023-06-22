@@ -2,24 +2,25 @@
 pid: index_2893
 volume: Volume 3
 image_number: '34'
-head: to own
-entry: "<a href='/digital-beehive/num2/num_0321/'>284 [To own]</a>"
+head: parsly
+entry: "<a href='/digital-beehive/alpha4/alpha_0687/'>a</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-074920651"
+item: "#item-775c65f41"
 unparsed:
-line: 'Head: to own|Entry: 284 [To own]|#item-074920651'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/456,2060,518,136/full/0/default.jpg
+line: 'Head: parsly|Entry: a|#item-775c65f41'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1087,2642,558,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425625090
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494515885
+sort_value: '303422642'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/456,2060,518,136/150,/0/default.jpg
-label: to own
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1087,2642,558,159/150,/0/default.jpg
+label: parsly
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

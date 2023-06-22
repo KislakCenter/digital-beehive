@@ -2,28 +2,30 @@
 pid: index_1192
 volume: Volume 3
 image_number: '18'
-head: emulation
-entry: 828 [PAGE_MISSING]
+head: earth's division
+entry:
 topic:
 first_letter: E
-page:
+page: "<a href='/digital-beehive/toc/toc1_333/'>p.192 [Image 1.343]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-ea35cbe7f"
+item: "#item-26c8334cd"
 unparsed:
-line: 'Head: emulation|Entry: 828 [PAGE_MISSING]|#item-ea35cbe7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1841,471,546,135/full/0/default.jpg
+line: 'Head: earth''s division|Page: p.192 [Image 1.343]|#item-26c8334cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/409,2645,907,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745195800
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668978970
+sort_value: '301812645'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1841,471,546,135/150,/0/default.jpg
-label: emulation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/409,2645,907,93/150,/0/default.jpg
+label: earth's division
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue:
+issue: Pastorius links to entry 914 in the Onomastical Considerations. There is currently
+  no protocol for linking to specific entries in the Onomastical Considerations.
 insertion_xref:
-order: '021'
+order: '011'
 layout: index_item
 collection: index2
 ---

@@ -2,8 +2,8 @@
 pid: index_0605
 volume: Volume 3
 image_number: '12'
-head: certificate
-entry: "<a href='/digital-beehive/num5/num_1345/'>1007 [a Testimonial]</a>"
+head: chariots
+entry: "<a href='/digital-beehive/num5/num_1583/'>1162 [Carriage]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0b6300420"
+item: "#item-658b7a665"
 unparsed:
-line: 'Head: certificate|Entry: 1007 [a Testimonial]|#item-0b6300420'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,1973,516,127/full/0/default.jpg
+line: 'Head: chariots|Entry: 1162 [Carriage]|#item-658b7a665'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1129,3435,432,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532100278567
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443545970
+sort_value: '301223435'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,1973,516,127/150,/0/default.jpg
-label: certificate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1129,3435,432,98/150,/0/default.jpg
+label: chariots
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

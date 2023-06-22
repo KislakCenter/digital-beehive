@@ -2,8 +2,8 @@
 pid: index_2951
 volume: Volume 3
 image_number: '35'
-head: perspective
-entry: "<a href='/digital-beehive/num7/num_2493/'>1639 [Spectacles]</a>"
+head: pepper
+entry: "<a href='/digital-beehive/num9/num_3060/'>2121 [Pepper]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3fb0c5fbb"
+item: "#item-ab89e9c96"
 unparsed:
-line: 'Head: perspective|Entry: 1639 [Spectacles]|#item-3fb0c5fbb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/784,751,686,170/full/0/default.jpg
+line: 'Head: pepper|Entry: 2121 [Pepper]|#item-ab89e9c96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/134,1908,481,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974121507
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972707773
+sort_value: '303511908'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/784,751,686,170/150,/0/default.jpg
-label: perspective
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/134,1908,481,100/150,/0/default.jpg
+label: pepper
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

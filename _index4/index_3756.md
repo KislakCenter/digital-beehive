@@ -2,9 +2,9 @@
 pid: index_3756
 volume: Volume 3
 image_number: '43'
-head: Sodom and Sodomy
-entry: "<a href='/digital-beehive/num2/num_0556/'>447 [Sodomy]</a>|<a href='/digital-beehive/num8/num_2719/'>1787
-  [Sodom & Sodomy]</a>"
+head: slowness
+entry: "<a href='/digital-beehive/alpha4/alpha_0892/'>a</a>|<a href='/digital-beehive/num5/num_1471/'>1089
+  [Slow-footed]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-23418998c"
+item: "#item-78b2481dd"
 unparsed:
-line: 'Head: Sodom and Sodomy|Entry: 447 [Sodomy]|Entry: 1787 [Sodom & Sodomy]|#item-23418998c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1567,2332,640,191/full/0/default.jpg
+line: 'Head: slowness|Entry: a|Entry: 1089 [Slow-footed]|#item-78b2481dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/898,2930,577,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586307905
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584824193
+sort_value: '304322930'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1567,2332,640,191/150,/0/default.jpg
-label: Sodom and Sodomy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/898,2930,577,131/150,/0/default.jpg
+label: slowness
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

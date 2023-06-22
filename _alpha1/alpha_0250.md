@@ -10,7 +10,7 @@ page:
 add:
 xref: 1371 [WORD_MISSING]
 see:
-index: "<a href='/digital-beehive/index1/index_1106/'>divines and divinity</a>"
+index: "<a href='/digital-beehive/index1/index_1113/'>divines and divinity</a>"
 item: "#item-a97ed4337"
 unparsed:
 line: 'Entry: Divinity|Topic: Divinity|Xref: 1371 [WORD_MISSING]|Index: divines and
@@ -18,6 +18,7 @@ line: 'Entry: Divinity|Topic: Divinity|Xref: 1371 [WORD_MISSING]|Index: divines 
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/372,222,3066,385/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558557872632
+sort_value: '145110222'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/372,222,600,180/250,/0/default.jpg
 label: Divinity

@@ -2,8 +2,9 @@
 pid: index_0360
 volume: Volume 3
 image_number: '10'
-head: betony
-entry: "<a href='/digital-beehive/num7/num_2277/'>1531 [Betonica]</a>"
+head: besiege
+entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1883/''>1338 [To Assault
+  : besiege]</a>'
 topic:
 first_letter: B
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8715a9ab4"
+item: "#item-2cf0ec7da"
 unparsed:
-line: 'Head: betony|Entry: 1531 [Betonica]|#item-8715a9ab4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/359,2907,370,145/full/0/default.jpg
+line: 'Head: besiege|Entry: 742 [PAGE_MISSING]|Entry: 1338 [To Assault : besiege]|#item-2cf0ec7da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/366,2416,566,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531148760156
+annotation_uri: http://dev.llgc.org.uk/annotation/1531148344923
+sort_value: '301012416'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/359,2907,370,145/150,/0/default.jpg
-label: betony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/366,2416,566,154/150,/0/default.jpg
+label: besiege
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

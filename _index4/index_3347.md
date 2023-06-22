@@ -2,26 +2,27 @@
 pid: index_3347
 volume: Volume 3
 image_number: '39'
-head: resistance
-entry: "<a href='/digital-beehive/alpha4/alpha_0801/'>a</a>"
+head: relation. fre√ºndschafft
+entry: "<a href='/digital-beehive/num2/num_0552/'>445 [Relation]</a>"
 topic:
 first_letter: R
 page:
-add:
+add: history
 xref:
 see:
 index:
-item: "#item-5872e4d97"
+item: "#item-7f928271c"
 unparsed:
-line: 'Head: resistance|Entry: a|#item-5872e4d97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1480,1065,553,155/full/0/default.jpg
+line: 'Head: relation. fre√ºndschafft|Entry: 445 [Relation]|Add: history|#item-7f928271c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/139,2934,647,193/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229131277
+annotation_uri: http://dev.llgc.org.uk/annotation/1558465368428
+sort_value: '303912934'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1480,1065,553,155/150,/0/default.jpg
-label: resistance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/139,2934,647,193/150,/0/default.jpg
+label: relation. fre√ºndschafft
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue:
+issue: The intended point of reference for "add. history" is unclear.
 insertion_xref:
 order: '0595'
 layout: index_item

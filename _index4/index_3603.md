@@ -2,24 +2,25 @@
 pid: index_3603
 volume: Volume 3
 image_number: '42'
-head: Self do
-entry: "<a href='/digital-beehive/num1/num_0088/'>87 [Messenger]</a>"
+head: Self acting
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4624/'>Will worship</a>"
 index:
-item: "#item-1a38acca3"
+item: "#item-3e31bf942"
 unparsed:
-line: 'Head: Self do|Entry: 87 [Messenger]|#item-1a38acca3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/418,1176,339,132/full/0/default.jpg
+line: 'Head: Self acting|See: Will worship|#item-3e31bf942'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/448,464,719,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244291853
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243813490
+sort_value: '304210464'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/418,1176,339,132/150,/0/default.jpg
-label: Self do
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/448,464,719,121/150,/0/default.jpg
+label: Self acting
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

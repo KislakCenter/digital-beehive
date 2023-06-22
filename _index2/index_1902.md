@@ -2,24 +2,25 @@
 pid: index_1902
 volume: Volume 3
 image_number: '24'
-head: hint
-entry:
+head: 4 humours
+entry: "<a href='/digital-beehive/num9/num_3040/'>2104 [the 4 humours]</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0484/'>brevity</a>"
+see:
 index:
-item: "#item-43aff8c10"
+item: "#item-f3e739d8a"
 unparsed:
-line: 'Head: hint|See: brevity|#item-43aff8c10'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/406,3017,438,193/full/0/default.jpg
+line: 'Head: 4 humours|Entry: 2104 [the 4 humours]|#item-f3e739d8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1845,1964,553,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577569456
+annotation_uri: http://dev.llgc.org.uk/annotation/1559587787021
+sort_value: '302431964'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/406,3017,438,193/150,/0/default.jpg
-label: hint
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1845,1964,553,107/150,/0/default.jpg
+label: 4 humours
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

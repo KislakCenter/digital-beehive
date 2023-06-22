@@ -2,8 +2,8 @@
 pid: index_0891
 volume: Volume 3
 image_number: '15'
-head: cough
-entry: "<a href='/digital-beehive/num3/num_0771/'>594 [Catarrhs, Inveterate Coughs]</a>"
+head: crab
+entry: "<a href='/digital-beehive/alpha1/alpha_0192/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-400b9b2a1"
+item: "#item-91c576b0d"
 unparsed:
-line: 'Head: cough|Entry: 594 [Catarrhs, Inveterate Coughs]|#item-400b9b2a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/150,1125,411,165/full/0/default.jpg
+line: 'Head: crab|Entry: a|#item-91c576b0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/157,3101,301,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974297182
+annotation_uri: http://dev.llgc.org.uk/annotation/1537975262941
+sort_value: '301513101'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/150,1125,411,165/150,/0/default.jpg
-label: cough
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/157,3101,301,112/150,/0/default.jpg
+label: crab
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

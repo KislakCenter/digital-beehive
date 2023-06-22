@@ -2,8 +2,9 @@
 pid: index_1459
 volume: Volume 3
 image_number: '20'
-head: fewness
-entry: "<a href='/digital-beehive/alpha2/alpha_0327/'>a</a>"
+head: firstborn
+entry: "<a href='/digital-beehive/alpha2/alpha_0330/'>a</a>|<a href='/digital-beehive/num9/num_3104/'>2163
+  [Birth-right]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-58dd353c0"
+item: "#item-337393eaa"
 unparsed:
-line: 'Head: fewness|Entry: a|#item-58dd353c0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1116,2794,466,153/full/0/default.jpg
+line: 'Head: firstborn|Entry: a|Entry: 2163 [Birth-right]|#item-337393eaa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1803,1469,531,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562598632479
+annotation_uri: http://dev.llgc.org.uk/annotation/1562613985222
+sort_value: '302031469'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1116,2794,466,153/150,/0/default.jpg
-label: fewness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1803,1469,531,148/150,/0/default.jpg
+label: firstborn
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

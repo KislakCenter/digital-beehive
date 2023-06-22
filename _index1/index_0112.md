@@ -2,24 +2,25 @@
 pid: index_0112
 volume: Volume 3
 image_number: '7'
-head: acquittance
-entry: 857 [PAGE_MISSING]
+head: already
+entry: "<a href='/digital-beehive/num1/num_0269/'>248 [Long ago]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2789/'>obliga[ti]on</a>"
+see:
 index:
-item: "#item-e23e0abc9"
+item: "#item-fa9f39ab3"
 unparsed:
-line: 'Head: acquittance|Entry: 857 [PAGE_MISSING]|See: obliga[ti]on|#item-e23e0abc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/159,3219,741,175/full/0/default.jpg
+line: 'Head: already|Entry: 248 [Long ago]|#item-fa9f39ab3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,2469,437,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760121978
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770562942
+sort_value: '300732469'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/159,3219,741,175/150,/0/default.jpg
-label: acquittance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,2469,437,114/150,/0/default.jpg
+label: already
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num8/num_2775/'>1895 [Butter]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0509/'>butter</a>"
+index: "<a href='/digital-beehive/index1/index_0494/'>butter</a>"
 item: "#item-1343f1767"
 unparsed:
 line: 'Entry: Butter|Topic: Butter|Xref: 1895 [Butter]|Index: butter|#item-1343f1767'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/349,602,3080,275/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558626821200
+sort_value: '143910602'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/349,602,600,180/250,/0/default.jpg
 label: Butter

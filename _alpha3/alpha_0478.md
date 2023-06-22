@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0439/'>humanity</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2094/'>inhumanity</a>"
+index: "<a href='/digital-beehive/index3/index_2044/'>inhumanity</a>"
 item: "#item-60d045282"
 unparsed:
 line: 'Entry: Inhumanity|Topic: Inhumanity|Xref: humanity|Index: inhumanity|#item-60d045282'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/337,1749,2990,406/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564760233871
+sort_value: '202311749'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/337,1749,600,180/250,/0/default.jpg
 label: Inhumanity

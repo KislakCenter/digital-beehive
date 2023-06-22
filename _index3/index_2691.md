@@ -2,9 +2,8 @@
 pid: index_2691
 volume: Volume 3
 image_number: '32'
-head: new
-entry: "<a href='/digital-beehive/alpha3/alpha_0643/'>a</a>|<a href='/digital-beehive/num7/num_2534/'>1656
-  [New : News]</a>"
+head: Nevis
+entry: "<a href='/digital-beehive/num7/num_2248/'>1519 [Mevis or Nevis]</a>"
 topic:
 first_letter: N
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-06247a9a1"
+item: "#item-7029583a4"
 unparsed:
-line: 'Head: new|Entry: a|Entry: 1656 [New : News]|#item-06247a9a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1158,1627,452,107/full/0/default.jpg
+line: 'Head: Nevis|Entry: 1519 [Mevis or Nevis]|#item-7029583a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,1361,379,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442364918
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442212301
+sort_value: '303221361'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1158,1627,452,107/150,/0/default.jpg
-label: new
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,1361,379,149/150,/0/default.jpg
+label: Nevis
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

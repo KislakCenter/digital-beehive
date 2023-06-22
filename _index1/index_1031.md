@@ -2,28 +2,29 @@
 pid: index_1031
 volume: Volume 3
 image_number: '16'
-head: desert
-entry:
+head: detriment
+entry: "<a href='/digital-beehive/num3/num_0759/'>587 [Decrement]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2514/'>merit</a>"
+see:
 index:
-item: "#item-e8192b591"
+item: "#item-07d74aeb1"
 unparsed:
-line: 'Head: desert|See: merit|#item-e8192b591'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1145,2076,495,125/full/0/default.jpg
+line: 'Head: detriment|Entry: 587 [Decrement]|#item-07d74aeb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1063,3444,575,79/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541604968105
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605296868
+sort_value: '301623444'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1145,2076,495,125/150,/0/default.jpg
-label: desert
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1063,3444,575,79/150,/0/default.jpg
+label: detriment
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1029'
+order: '1030'
 layout: index_item
 collection: index1
 ---

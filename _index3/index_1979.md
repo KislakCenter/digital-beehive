@@ -2,24 +2,25 @@
 pid: index_1979
 volume: Volume 3
 image_number: '25'
-head: incontinence
-entry: "<a href='/digital-beehive/alpha3/alpha_0471/'>a</a>"
+head: imprimis
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1458/'>first</a>"
 index:
-item: "#item-ee5dc8d81"
+item: "#item-c6f4d5e90"
 unparsed:
-line: 'Head: incontinence|Entry: a|#item-ee5dc8d81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1562,2112,505,93/full/0/default.jpg
+line: 'Head: imprimis|See: first|#item-c6f4d5e90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/850,2532,589,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671876797
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667415347
+sort_value: '302522532'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1562,2112,505,93/150,/0/default.jpg
-label: incontinence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/850,2532,589,140/150,/0/default.jpg
+label: imprimis
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

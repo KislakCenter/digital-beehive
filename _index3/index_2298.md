@@ -2,8 +2,8 @@
 pid: index_2298
 volume: Volume 3
 image_number: '28'
-head: Lidford law
-entry: "<a href='/digital-beehive/num4/num_1281/'>961 [Too hasty]</a>"
+head: limning
+entry: 4530 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-85f1f92fb"
+item: "#item-24d89613f"
 unparsed:
-line: 'Head: Lidford law|Entry: 961 [Too hasty]|#item-85f1f92fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1088,2476,570,154/full/0/default.jpg
+line: 'Head: limning|Entry: 4530 [PAGE_MISSING]|#item-24d89613f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1837,1078,477,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846395394
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848701871
+sort_value: '302831078'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1088,2476,570,154/150,/0/default.jpg
-label: Lidford law
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1837,1078,477,111/150,/0/default.jpg
+label: limning
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

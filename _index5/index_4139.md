@@ -2,8 +2,8 @@
 pid: index_4139
 volume: Volume 3
 image_number: '47'
-head: terra sigillata
-entry: "<a href='/digital-beehive/num5/num_1592/'>1168 [Terra Sigillata]</a>"
+head: thrush
+entry: "<a href='/digital-beehive/alpha5/alpha_0958/'>a</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-4b780e579"
+item: "#item-b24a25ea2"
 unparsed:
-line: 'Head: terra sigillata|Entry: 1168 [Terra Sigillata]|#item-4b780e579'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/152,2645,594,146/full/0/default.jpg
+line: 'Head: thrush|Entry: a|#item-b24a25ea2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1616,533,328,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532718953353
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517992550
+sort_value: '304730533'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/152,2645,594,146/150,/0/default.jpg
-label: terra sigillata
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1616,533,328,114/150,/0/default.jpg
+label: thrush
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '102'
+order: '101'
 layout: index_item
 collection: index5
 ---

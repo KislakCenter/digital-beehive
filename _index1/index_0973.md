@@ -2,28 +2,29 @@
 pid: index_0973
 volume: Volume 3
 image_number: '15'
-head: crane
-entry:
+head: to debase
+entry: "<a href='/digital-beehive/num6/num_1862/'>1326 [debase]</a>"
 topic:
-first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+first_letter: D
+page:
 add:
 xref:
 see:
 index:
-item: "#item-c699badc8"
+item: "#item-60fdd1dcd"
 unparsed:
-line: 'Head: crane|Page: p.35 [Image 1.95]|#item-c699badc8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/154,3615,424,141/full/0/default.jpg
+line: 'Head: to debase|Entry: 1326 [debase]|#item-60fdd1dcd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1531,3584,523,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537975348617
+annotation_uri: http://dev.llgc.org.uk/annotation/1540392520880
+sort_value: '301533584'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/154,3615,424,141/150,/0/default.jpg
-label: crane
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1531,3584,523,120/150,/0/default.jpg
+label: to debase
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0971'
+order: '0972'
 layout: index_item
 collection: index1
 ---

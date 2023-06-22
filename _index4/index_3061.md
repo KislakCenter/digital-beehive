@@ -2,26 +2,27 @@
 pid: index_3061
 volume: Volume 3
 image_number: '36'
-head: popularity
-entry: "<a href='/digital-beehive/num2/num_0455/'>377 [Popularity]</a>"
+head: poetical toys
+entry:
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_247/'>p.79 [Image 1.257]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-ff20adbe8"
+item: "#item-87cc8ae4f"
 unparsed:
-line: 'Head: popularity|Entry: 377 [Popularity]|#item-ff20adbe8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1201,872,525,143/full/0/default.jpg
+line: 'Head: poetical toys|Page: p.79 [Image 1.257]|#item-87cc8ae4f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/444,2662,577,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438408084
+annotation_uri: http://dev.llgc.org.uk/annotation/1548437908063
+sort_value: '303612662'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1201,872,525,143/150,/0/default.jpg
-label: popularity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/444,2662,577,141/150,/0/default.jpg
+label: poetical toys
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue:
+issue: The page reference refers to Pastorius's older system of pagination.
 insertion_xref:
 order: '0309'
 layout: index_item

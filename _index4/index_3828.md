@@ -9,7 +9,7 @@ first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0173/'>apparitions</a>"
+see: "<a href='/digital-beehive/index1/index_0176/'>apparitions</a>"
 index:
 item: "#item-907fddaf0"
 unparsed:
@@ -17,6 +17,7 @@ line: 'Head: spectres|See: apparitions|#item-907fddaf0'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1115,972,746,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565288719578
+sort_value: '304420972'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1115,972,746,126/150,/0/default.jpg
 label: spectres

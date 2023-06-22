@@ -2,8 +2,8 @@
 pid: index_1849
 volume: Volume 3
 image_number: '24'
-head: Hesiodus
-entry: 823 [PAGE_MISSING]
+head: hither
+entry: "<a href='/digital-beehive/num2/num_0524/'>422 [Hither]</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3eaee79a8"
+item: "#item-fc67ca024"
 unparsed:
-line: 'Head: Hesiodus|Entry: 823 [PAGE_MISSING]|#item-3eaee79a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/418,1029,466,145/full/0/default.jpg
+line: 'Head: hither|Entry: 422 [Hither]|#item-fc67ca024'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,573,391,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575516313
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581342386
+sort_value: '302420573'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/418,1029,466,145/150,/0/default.jpg
-label: Hesiodus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,573,391,114/150,/0/default.jpg
+label: hither
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

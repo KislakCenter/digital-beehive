@@ -2,29 +2,29 @@
 pid: index_4646
 volume: Volume 3
 image_number: '53'
-head: brave woman
-entry: "<a href='/digital-beehive/num6/num_2176/'>1477 [Brave Woman]</a>|<a href='/digital-beehive/num9/num_3197/'>2250
-  [Brave Woman]</a>"
+head: yesterday
+entry: "<a href='/digital-beehive/num5/num_1692/'>1230 [Yesterday]</a>"
 topic:
-first_letter: W
+first_letter: Y
 page:
 add:
 xref:
 see:
 index:
-item: "#item-478240125"
+item: "#item-4c258ee38"
 unparsed:
-line: 'Head: brave woman|Entry: 1477 [Brave Woman]|Entry: 2250 [Brave Woman]|#item-478240125'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/168,3206,654,118/full/0/default.jpg
+line: 'Head: yesterday|Entry: 1230 [Yesterday]|#item-4c258ee38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1566,2376,550,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793568082
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799205710
+sort_value: '305332376'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/168,3206,654,118/150,/0/default.jpg
-label: brave woman
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1566,2376,550,130/150,/0/default.jpg
+label: yesterday
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '609'
+order: '608'
 layout: index_item
 collection: index5
 ---

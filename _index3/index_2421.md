@@ -2,8 +2,8 @@
 pid: index_2421
 volume: Volume 3
 image_number: '29'
-head: marble
-entry: 757 [PAGE_MISSING]
+head: many
+entry: "<a href='/digital-beehive/num5/num_1436/'>1067 [Many]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ea64e2205"
+item: "#item-1c08c8035"
 unparsed:
-line: 'Head: marble|Entry: 757 [PAGE_MISSING]|#item-ea64e2205'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1510,3341,404,82/full/0/default.jpg
+line: 'Head: many|Entry: 1067 [Many]|#item-1c08c8035'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1529,3136,359,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560197095693
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196937804
+sort_value: '302933136'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1510,3341,404,82/150,/0/default.jpg
-label: marble
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1529,3136,359,123/150,/0/default.jpg
+label: many
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

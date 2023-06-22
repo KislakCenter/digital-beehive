@@ -2,24 +2,25 @@
 pid: index_2794
 volume: Volume 3
 image_number: '33'
-head: obscene
-entry:
+head: once
+entry: "<a href='/digital-beehive/num10/num_3455/'>4470 [Once]</a>"
 topic:
 first_letter: O
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0446/'>buffoonry</a>"
+see:
 index:
-item: "#item-3cde73157"
+item: "#item-702b4b0f0"
 unparsed:
-line: 'Head: obscene|See: buffoonry|#item-3cde73157'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/146,2107,733,204/full/0/default.jpg
+line: 'Head: once|Entry: 4470 [Once]|#item-702b4b0f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/840,2838,491,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347340932
+annotation_uri: http://dev.llgc.org.uk/annotation/1538159777947
+sort_value: '303322838'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/146,2107,733,204/150,/0/default.jpg
-label: obscene
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/840,2838,491,118/150,/0/default.jpg
+label: once
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

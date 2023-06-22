@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0098/'>95 [a Vulgar Spirited man]</a>|<a
   href='/digital-beehive/num5/num_1543/'>1136 [Vulgar]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4464/'>the vulgar</a>"
+index: "<a href='/digital-beehive/index5/index_4453/'>the vulgar</a>"
 item: "#item-f749e0afc"
 unparsed:
 line: 'Entry: the Vulgar|Topic: the Vulgar|Xref: 95 [a Vulgar Spirited man]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: the Vulgar|Topic: the Vulgar|Xref: 95 [a Vulgar Spirited man]|Xref
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/339,1947,3013,331/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529004999189
+sort_value: '206311947'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/339,1947,600,180/250,/0/default.jpg
 label: the Vulgar

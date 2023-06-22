@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0839/'>Schoole</a>|Professors|<a href='/digital-beehive/num4/num_1172/'>902
   [University]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4379/'>universities</a>"
+index: "<a href='/digital-beehive/index5/index_4393/'>universities</a>"
 item: "#item-fb3f37194"
 unparsed:
 line: 'Entry: University|Topic: University|Xref: Schoole|Xref: Professors|Xref: 902
@@ -19,6 +19,7 @@ line: 'Entry: University|Topic: University|Xref: Schoole|Xref: Professors|Xref: 
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/793,2150,2973,491/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528912421661
+sort_value: '206212150'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/793,2150,600,180/250,/0/default.jpg
 label: University

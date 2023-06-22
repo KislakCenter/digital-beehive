@@ -2,8 +2,9 @@
 pid: index_0048
 volume: Volume 3
 image_number: '7'
-head: "[ae]tna"
-entry: "<a href='/digital-beehive/num1/num_0171/'>163 [Mountain]</a>"
+head: adventure
+entry: "<a href='/digital-beehive/alpha1/alpha_0009/'>a</a>|<a href='/digital-beehive/num3/num_0839/'>623
+  [Adventure]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-044279208"
+item: "#item-3d114741c"
 unparsed:
-line: 'Head: [ae]tna|Entry: 163 [Mountain]|#item-044279208'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,1321,370,69/full/0/default.jpg
+line: 'Head: adventure|Entry: a|Entry: 623 [Adventure]|#item-3d114741c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/876,771,568,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491192728859
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761003783
+sort_value: '300720771'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,1321,370,69/150,/0/default.jpg
-label: "[ae]tna"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/876,771,568,89/150,/0/default.jpg
+label: adventure
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

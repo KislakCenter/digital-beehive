@@ -2,24 +2,25 @@
 pid: index_2394
 volume: Volume 3
 image_number: '29'
-head: disordinate love
-entry: "<a href='/digital-beehive/num10/num_3434/'>4454 [Disordinate Love]</a>"
+head: makebate
+entry:
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3941/'>strife</a>"
 index:
-item: "#item-3da94f461"
+item: "#item-05af7b703"
 unparsed:
-line: 'Head: disordinate love|Entry: 4454 [Disordinate Love]|#item-3da94f461'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,2568,642,107/full/0/default.jpg
+line: 'Head: makebate|See: strife|#item-05af7b703'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,578,596,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179816488
+annotation_uri: http://dev.llgc.org.uk/annotation/1560193974714
+sort_value: '302930578'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,2568,642,107/150,/0/default.jpg
-label: disordinate love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,578,596,159/150,/0/default.jpg
+label: makebate
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

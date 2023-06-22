@@ -2,24 +2,25 @@
 pid: index_2496
 volume: Volume 3
 image_number: '30'
-head: menonists
-entry: "<a href='/digital-beehive/num1/num_0164/'>157 [Anabaptist]</a>"
+head: Messias
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0645/'>Christ</a>"
 index:
-item: "#item-77589c900"
+item: "#item-e82ae15cc"
 unparsed:
-line: 'Head: menonists|Entry: 157 [Anabaptist]|#item-77589c900'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1120,2119,480,95/full/0/default.jpg
+line: 'Head: Messias|See: Christ|#item-e82ae15cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1101,3511,522,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268603139
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269905987
+sort_value: '303023511'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1120,2119,480,95/150,/0/default.jpg
-label: menonists
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1101,3511,522,169/150,/0/default.jpg
+label: Messias
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

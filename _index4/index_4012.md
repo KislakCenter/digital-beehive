@@ -2,28 +2,29 @@
 pid: index_4012
 volume: Volume 3
 image_number: '46'
-head: sun rising, setting
-entry: 4612 [PAGE_MISSING]
+head: suttler
+entry: "<a href='/digital-beehive/num3/num_1048/'>714 [a haggler]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_077/'>p.27 [Image 1.87]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-324d017cb"
+item: "#item-ca98a62b7"
 unparsed:
-line: 'Head: sun rising, setting|Page: p.27 [Image 1.87]|Entry: 4612 [PAGE_MISSING]|#item-324d017cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/432,1003,612,152/full/0/default.jpg
+line: 'Head: suttler|Entry: 714 [a haggler]|#item-ca98a62b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1097,1068,357,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530472936835
+annotation_uri: http://dev.llgc.org.uk/annotation/1531685438110
+sort_value: '304621068'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/432,1003,612,152/150,/0/default.jpg
-label: sun rising, setting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1097,1068,357,106/150,/0/default.jpg
+label: suttler
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1244'
+order: '1260'
 layout: index_item
 collection: index4
 ---

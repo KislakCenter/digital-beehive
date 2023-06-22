@@ -2,8 +2,8 @@
 pid: index_4529
 volume: Volume 3
 image_number: '52'
-head: West Indies
-entry: "<a href='/digital-beehive/num5/num_1519/'>1122 [West Indies]</a>"
+head: whereas
+entry: 860 [PAGE_MISSING]
 topic:
 first_letter: W
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-1b38e5fa0"
+item: "#item-618821249"
 unparsed:
-line: 'Head: West Indies|Entry: 1122 [West Indies]|#item-1b38e5fa0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1076,2003,483,150/full/0/default.jpg
+line: 'Head: whereas|Entry: 860 [PAGE_MISSING]|#item-618821249'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1062,3039,524,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969155104
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970012560
+sort_value: '305223039'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1076,2003,483,150/150,/0/default.jpg
-label: West Indies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1062,3039,524,138/150,/0/default.jpg
+label: whereas
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '492'
+order: '491'
 layout: index_item
 collection: index5
 ---

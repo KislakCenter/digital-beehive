@@ -2,9 +2,8 @@
 pid: index_2156
 volume: Volume 3
 image_number: '27'
-head: kiss
-entry: "<a href='/digital-beehive/alpha3/alpha_0505/'>a</a>|<a href='/digital-beehive/num8/num_2797/'>1905
-  [Kissing]</a>"
+head: kidneys
+entry: "<a href='/digital-beehive/num8/num_2795/'>1905 [Kidneys]</a>"
 topic:
 first_letter: K
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-63df50127"
+item: "#item-d02dd7e8f"
 unparsed:
-line: 'Head: kiss|Entry: a|Entry: 1905 [Kissing]|#item-63df50127'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/852,1424,443,180/full/0/default.jpg
+line: 'Head: kidneys|Entry: 1905 [Kidneys]|#item-d02dd7e8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/814,465,472,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761983010
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761307281
+sort_value: '302720465'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/852,1424,443,180/150,/0/default.jpg
-label: kiss
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/814,465,472,143/150,/0/default.jpg
+label: kidneys
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

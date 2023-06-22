@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1911/'>1351 [a Kite : a Hawk]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3266/'>raven</a>"
+index: "<a href='/digital-beehive/index4/index_3302/'>raven</a>"
 item: "#item-f20901ff9"
 unparsed:
 line: 'Entry: Raven|Topic: Raven|Xref: 1351 [a Kite : a Hawk]|Index: raven|#item-f20901ff9'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/375,4230,2982,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528400246693
+sort_value: '204514230'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/375,4230,600,180/250,/0/default.jpg
 label: Raven

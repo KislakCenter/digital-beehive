@@ -2,8 +2,8 @@
 pid: index_2059
 volume: Volume 3
 image_number: '26'
-head: to insist
-entry: "<a href='/digital-beehive/num5/num_1414/'>1054 [To Urge]</a>"
+head: insects
+entry: 792 [PAGE_MISSING]
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1424b2219"
+item: "#item-10d020022"
 unparsed:
-line: 'Head: to insist|Entry: 1054 [To Urge]|#item-1424b2219'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1127,1413,457,134/full/0/default.jpg
+line: 'Head: insects|Entry: 792 [PAGE_MISSING]|#item-10d020022'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,896,384,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747762756
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747407769
+sort_value: '302620896'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1127,1413,457,134/150,/0/default.jpg
-label: to insist
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,896,384,135/150,/0/default.jpg
+label: insects
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

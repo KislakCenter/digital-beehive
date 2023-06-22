@@ -2,8 +2,8 @@
 pid: index_0790
 volume: Volume 3
 image_number: '14'
-head: complices
-entry: "<a href='/digital-beehive/num10/num_3388/'>2415 [Partake not with the wicked]</a>"
+head: conformity occasional
+entry: 1839 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-dda9bc6f6"
+item: "#item-f911ec12c"
 unparsed:
-line: 'Head: complices|Entry: 2415 [Partake not with the wicked]|#item-dda9bc6f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/423,1165,532,62/full/0/default.jpg
+line: 'Head: conformity occasional|Entry: 1839 [PAGE_MISSING]|#item-f911ec12c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/394,3556,621,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215414903
+annotation_uri: http://dev.llgc.org.uk/annotation/1537217009102
+sort_value: '301413556'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/423,1165,532,62/150,/0/default.jpg
-label: complices
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/394,3556,621,95/150,/0/default.jpg
+label: conformity occasional
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

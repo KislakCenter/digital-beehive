@@ -2,9 +2,9 @@
 pid: index_2756
 volume: Volume 3
 image_number: '33'
-head: opinion
-entry: "<a href='/digital-beehive/alpha4/alpha_0668/'>a</a>|<a href='/digital-beehive/num5/num_1376/'>1029
-  [Opinion]</a>"
+head: objections
+entry: "<a href='/digital-beehive/num1/num_0259/'>241 [Objections]</a>|<a href='/digital-beehive/num5/num_1411/'>1053
+  [Objections agt. the Quakers answered]</a>"
 topic:
 first_letter: O
 page:
@@ -12,19 +12,21 @@ add:
 xref:
 see:
 index:
-item: "#item-5c930db8c"
+item: "#item-ddf21a32c"
 unparsed:
-line: 'Head: opinion|Entry: a|Entry: 1029 [Opinion]|#item-5c930db8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1516,630,620,151/full/0/default.jpg
+line: 'Head: objections|Entry: 241 [Objections]|Entry: 1053 [Objections agt. the Quakers
+  answered]|#item-ddf21a32c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/145,1797,749,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161354330
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347226016
+sort_value: '303311797'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1516,630,620,151/150,/0/default.jpg
-label: opinion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/145,1797,749,168/150,/0/default.jpg
+label: objections
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0008'
+order: '0004'
 layout: index_item
 collection: index4
 ---

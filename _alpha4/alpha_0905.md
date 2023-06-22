@@ -14,7 +14,7 @@ xref: "<a href='/digital-beehive/alpha5/alpha_0966/'>tongue</a>|<a href='/digita
   hasty</a>|<a href='/digital-beehive/alpha2/alpha_0283/'>Eloquence</a>|<a href='/digital-beehive/num5/num_1628/'>1194
   [Speech]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3832/'>speech</a>"
+index: "<a href='/digital-beehive/index4/index_3830/'>speech</a>"
 item: "#item-34bb03e62"
 unparsed:
 line: 'Entry: Speech|Topic: Speech|Xref: tongue|Xref: language|Xref: 2 [Laconism]|Xref:
@@ -22,6 +22,7 @@ line: 'Entry: Speech|Topic: Speech|Xref: tongue|Xref: language|Xref: 2 [Laconism
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/748,4004,2981,848/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532449805510
+sort_value: '205414004'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/748,4004,600,180/250,/0/default.jpg
 label: Speech

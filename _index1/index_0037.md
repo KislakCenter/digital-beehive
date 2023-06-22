@@ -2,24 +2,25 @@
 pid: index_0037
 volume: Volume 3
 image_number: '7'
-head: ale
-entry:
+head: activity
+entry: "<a href='/digital-beehive/num3/num_1019/'>703 [Nimble]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0318/'>beer</a>"
+see:
 index:
-item: "#item-075736695"
+item: "#item-950468af1"
 unparsed:
-line: 'Head: ale|See: beer|#item-075736695'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1000,353,136/full/0/default.jpg
+line: 'Head: activity|Entry: 703 [Nimble]|#item-950468af1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/166,3349,463,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768572306
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760322766
+sort_value: '300713349'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1000,353,136/150,/0/default.jpg
-label: ale
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/166,3349,463,131/150,/0/default.jpg
+label: activity
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

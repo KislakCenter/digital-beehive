@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|waspish|<a href='/digital-beehive/num10/num_3267/'>2303
   [Stubborn]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3968/'>stubborn</a>"
+index: "<a href='/digital-beehive/index4/index_3946/'>stubborn</a>"
 item: "#item-223af03d7"
 unparsed:
 line: 'Entry: Stubborness|Topic: Stubborness|Xref: Obstinacy|Xref: waspish|Xref: 2303
@@ -19,6 +19,7 @@ line: 'Entry: Stubborness|Topic: Stubborness|Xref: Obstinacy|Xref: waspish|Xref:
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/724,932,3042,678/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532550720737
+sort_value: '205610932'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/724,932,600,180/250,/0/default.jpg
 label: Stubborness

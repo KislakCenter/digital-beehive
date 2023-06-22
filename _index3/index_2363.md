@@ -2,25 +2,25 @@
 pid: index_2363
 volume: Volume 3
 image_number: '29'
-head: luxury
-entry: "<a href='/digital-beehive/num1/num_0198/'>189 [Luxury]</a>|<a href='/digital-beehive/num5/num_1612/'>1183
-  [Luxury]</a>"
+head: to lull asleep
+entry:
 topic:
 first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0892/'>cradle</a>"
 index:
-item: "#item-31d0317a1"
+item: "#item-3bae6c218"
 unparsed:
-line: 'Head: luxury|Entry: 189 [Luxury]|Entry: 1183 [Luxury]|#item-31d0317a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/867,1526,494,141/full/0/default.jpg
+line: 'Head: to lull asleep|See: cradle|#item-3bae6c218'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/861,551,655,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185979637
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185020979
+sort_value: '302920551'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/867,1526,494,141/150,/0/default.jpg
-label: luxury
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/861,551,655,129/150,/0/default.jpg
+label: to lull asleep
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

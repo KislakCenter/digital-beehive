@@ -2,8 +2,8 @@
 pid: index_2740
 volume: Volume 3
 image_number: '32'
-head: nightingale
-entry: 4589 [PAGE_MISSING]
+head: notwithstanding
+entry: "<a href='/digital-beehive/num4/num_1296/'>973 [Not withstanding]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-96bd4bf8e"
+item: "#item-123d3fd63"
 unparsed:
-line: 'Head: nightingale|Entry: 4589 [PAGE_MISSING]|#item-96bd4bf8e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1123,3408,474,124/full/0/default.jpg
+line: 'Head: notwithstanding|Entry: 973 [Not withstanding]|#item-123d3fd63'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1828,3013,667,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560446277989
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449864539
+sort_value: '303233013'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1123,3408,474,124/150,/0/default.jpg
-label: nightingale
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1828,3013,667,154/150,/0/default.jpg
+label: notwithstanding
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

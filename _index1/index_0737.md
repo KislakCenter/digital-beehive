@@ -2,8 +2,8 @@
 pid: index_0737
 volume: Volume 3
 image_number: '13'
-head: common wives
-entry: 1843 [PAGE_MISSING]
+head: com[m]andmts ten
+entry: "<a href='/digital-beehive/num2/num_0550/'>444 [Decalogue]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-54823f3a0"
+item: "#item-69762dc64"
 unparsed:
-line: 'Head: common wives|Entry: 1843 [PAGE_MISSING]|#item-54823f3a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1539,2914,495,71/full/0/default.jpg
+line: 'Head: com[m]andmts ten|Entry: 444 [Decalogue]|#item-69762dc64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1563,1871,418,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537163750921
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611371671
+sort_value: '301331871'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1539,2914,495,71/150,/0/default.jpg
-label: common wives
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1563,1871,418,98/150,/0/default.jpg
+label: com[m]andmts ten
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

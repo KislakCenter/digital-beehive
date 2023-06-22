@@ -2,8 +2,8 @@
 pid: index_3893
 volume: Volume 3
 image_number: '45'
-head: sturgeon
-entry: "<a href='/digital-beehive/num6/num_2009/'>1398 [Sturgeons]</a>"
+head: stellionatus
+entry: 1869 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b5779d88d"
+item: "#item-227635938"
 unparsed:
-line: 'Head: sturgeon|Entry: 1398 [Sturgeons]|#item-b5779d88d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1576,640,507,133/full/0/default.jpg
+line: 'Head: stellionatus|Entry: 1869 [PAGE_MISSING]|#item-227635938'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/204,1472,534,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565291011101
+annotation_uri: http://dev.llgc.org.uk/annotation/1530220511653
+sort_value: '304511472'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1576,640,507,133/150,/0/default.jpg
-label: sturgeon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/204,1472,534,99/150,/0/default.jpg
+label: stellionatus
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

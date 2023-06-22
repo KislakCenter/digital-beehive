@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0384/'>Grandeur</a>|<a href='/digital-beehive/num4/num_1131/'>883
   [highness]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1884/'>highness</a>"
+index: "<a href='/digital-beehive/index2/index_1833/'>highness</a>"
 item: "#item-61f20e887"
 unparsed:
 line: 'Entry: Highness|Topic: Highness|Xref: Grandeur|Xref: 883 [highness]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Highness|Topic: Highness|Xref: Grandeur|Xref: 883 [highness]|Index
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/777,3458,2961,423/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508963724932
+sort_value: '201813458'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/777,3458,600,180/250,/0/default.jpg
 label: Highness

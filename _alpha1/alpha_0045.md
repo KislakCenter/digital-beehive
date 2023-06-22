@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0568/'>457 [Arithmetick]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0145/'>arithmetick</a>"
+index: "<a href='/digital-beehive/index1/index_0203/'>arithmetick</a>"
 item: "#item-2bef0507e"
 unparsed:
 line: 'Entry: Arithmetick|Topic: Arithmetick|Xref: 457 [Arithmetick]|Index: arithmetick|#item-2bef0507e'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/798,1637,3044,576/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490811915522
+sort_value: '143411637'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/798,1637,600,180/250,/0/default.jpg
 label: Arithmetick

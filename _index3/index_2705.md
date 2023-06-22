@@ -2,25 +2,25 @@
 pid: index_2705
 volume: Volume 3
 image_number: '32'
-head: nature
-entry: "<a href='/digital-beehive/alpha3/alpha_0636/'>a</a>|<a href='/digital-beehive/num7/num_2547/'>1663
-  [Nature]</a>|<a href='/digital-beehive/num9/num_3096/'>2155 [Nature]</a>"
+head: nicodemus's gospel
+entry:
 topic:
 first_letter: N
-page:
+page: "<a href='/digital-beehive/toc/toc1_074/'>p.24 [Image 1.84]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-6cd683728"
+item: "#item-c7b7d274b"
 unparsed:
-line: 'Head: nature|Entry: a|Entry: 1663 [Nature]|Entry: 2155 [Nature]|#item-6cd683728'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/370,2039,708,108/full/0/default.jpg
+line: 'Head: nicodemus''s gospel|Page: p.24 [Image 1.84]|#item-c7b7d274b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1139,2906,715,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438400514
+annotation_uri: http://dev.llgc.org.uk/annotation/1560443354154
+sort_value: '303222906'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/370,2039,708,108/150,/0/default.jpg
-label: nature
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1139,2906,715,158/150,/0/default.jpg
+label: nicodemus's gospel
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3623
 volume: Volume 3
 image_number: '42'
-head: to shew
-entry: 812 [PAGE_MISSING]
+head: Self opinioned
+entry: "<a href='/digital-beehive/num11/num_3548/'>4853 [Selfopinionated]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8e7b4d005"
+item: "#item-e98d1c2b2"
 unparsed:
-line: 'Head: to shew|Entry: 812 [PAGE_MISSING]|#item-8e7b4d005'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1811,648,474,120/full/0/default.jpg
+line: 'Head: Self opinioned|Entry: 4853 [Selfopinionated]|#item-e98d1c2b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/373,2072,685,82/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575739762
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244748763
+sort_value: '304212072'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1811,648,474,120/150,/0/default.jpg
-label: to shew
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/373,2072,685,82/150,/0/default.jpg
+label: Self opinioned
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

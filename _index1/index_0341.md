@@ -2,8 +2,8 @@
 pid: index_0341
 volume: Volume 3
 image_number: '10'
-head: to bind
-entry: "<a href='/digital-beehive/num3/num_0799/'>605 [To tye]</a>"
+head: behaviour
+entry: "<a href='/digital-beehive/num5/num_1552/'>1141 [Behaviour]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c3cecaf24"
+item: "#item-0ed75170a"
 unparsed:
-line: 'Head: to bind|Entry: 605 [To tye]|#item-c3cecaf24'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1074,773,397,89/full/0/default.jpg
+line: 'Head: behaviour|Entry: 1141 [Behaviour]|#item-0ed75170a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/395,465,468,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531149475140
+annotation_uri: http://dev.llgc.org.uk/annotation/1531146659739
+sort_value: '301010465'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1074,773,397,89/150,/0/default.jpg
-label: to bind
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/395,465,468,114/150,/0/default.jpg
+label: behaviour
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

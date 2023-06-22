@@ -2,8 +2,9 @@
 pid: index_2039
 volume: Volume 3
 image_number: '26'
-head: insatiable
-entry: 744 [PAGE_MISSING]
+head: informer
+entry: "<a href='/digital-beehive/num5/num_1584/'>1163 [Informer]</a>|<a href='/digital-beehive/num8/num_2762/'>1827
+  [Informer]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d59606f48"
+item: "#item-0c6baa675"
 unparsed:
-line: 'Head: insatiable|Entry: 744 [PAGE_MISSING]|#item-d59606f48'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1162,630,506,129/full/0/default.jpg
+line: 'Head: informer|Entry: 1163 [Informer]|Entry: 1827 [Informer]|#item-0c6baa675'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/421,2297,628,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747323381
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744952568
+sort_value: '302612297'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1162,630,506,129/150,/0/default.jpg
-label: insatiable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/421,2297,628,160/150,/0/default.jpg
+label: informer
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

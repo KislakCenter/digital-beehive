@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0546/'>Livelyhood</a>|109 [A Shopkeeper]|350
   [Butcher]|<a href='/digital-beehive/num3/num_0859/'>634 [Trade]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4204/'>trade</a>"
+index: "<a href='/digital-beehive/index5/index_4208/'>trade</a>"
 item: "#item-dbf3ca43c"
 unparsed:
 line: 'Entry: Trade|Topic: Trade|Xref: Livelyhood|Xref: 109 [A Shopkeeper]|Xref: 350
@@ -19,6 +19,7 @@ line: 'Entry: Trade|Topic: Trade|Xref: Livelyhood|Xref: 109 [A Shopkeeper]|Xref:
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/800,211,2967,492/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565114816366
+sort_value: '206010211'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/800,211,600,180/250,/0/default.jpg
 label: Trade

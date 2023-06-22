@@ -2,8 +2,8 @@
 pid: index_3663
 volume: Volume 3
 image_number: '42'
-head: Self preservation
-entry: "<a href='/digital-beehive/num9/num_3003/'>2069 [Selfpreservation]</a>"
+head: shark. (fish.)
+entry: 4744 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4d214eed3"
+item: "#item-e5802fbe0"
 unparsed:
-line: 'Head: Self preservation|Entry: 2069 [Selfpreservation]|#item-4d214eed3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/404,2143,725,145/full/0/default.jpg
+line: 'Head: shark. (fish.)|Entry: 4744 [PAGE_MISSING]|#item-e5802fbe0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1075,3139,659,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244811244
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575335171
+sort_value: '304223139'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/404,2143,725,145/150,/0/default.jpg
-label: Self preservation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1075,3139,659,126/150,/0/default.jpg
+label: shark. (fish.)
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

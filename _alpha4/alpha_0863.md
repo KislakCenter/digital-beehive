@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0579/'>Master</a>|813 [PAGE_MISSING]|<a
   href='/digital-beehive/num6/num_1853/'>1322 [Capucins]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3635/'>servant & service</a>"
+index: "<a href='/digital-beehive/index4/index_3645/'>servant & service</a>"
 item: "#item-3513bb2bd"
 unparsed:
 line: 'Entry: Service|Topic: Service|Xref: Master|Xref: 813 [PAGE_MISSING]|Xref: 1322
@@ -19,6 +19,7 @@ line: 'Entry: Service|Topic: Service|Xref: Master|Xref: 813 [PAGE_MISSING]|Xref:
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/774,183,3043,451/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530803052908
+sort_value: '205210183'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/774,183,600,180/250,/0/default.jpg
 label: Service

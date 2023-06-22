@@ -2,28 +2,29 @@
 pid: index_0969
 volume: Volume 3
 image_number: '15'
-head: cramp
-entry: "<a href='/digital-beehive/num3/num_0780/'>597 [Cramp]</a>"
+head: death of bad men
+entry: "<a href='/digital-beehive/num5/num_1725/'>1247 [Death of bad men]</a>"
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
 see:
 index:
-item: "#item-35a777660"
+item: "#item-e461cadea"
 unparsed:
-line: 'Head: cramp|Entry: 597 [Cramp]|#item-35a777660'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/170,3491,398,132/full/0/default.jpg
+line: 'Head: death of bad men|Entry: 1247 [Death of bad men]|#item-e461cadea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1528,3193,593,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537975328283
+annotation_uri: http://dev.llgc.org.uk/annotation/1540392330881
+sort_value: '301533193'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/170,3491,398,132/150,/0/default.jpg
-label: cramp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1528,3193,593,95/150,/0/default.jpg
+label: death of bad men
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0967'
+order: '0968'
 layout: index_item
 collection: index1
 ---

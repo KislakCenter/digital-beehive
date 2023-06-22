@@ -2,8 +2,8 @@
 pid: index_2730
 volume: Volume 3
 image_number: '32'
-head: notwithstanding
-entry: "<a href='/digital-beehive/num4/num_1296/'>973 [Not withstanding]</a>"
+head: north
+entry: 864 [PAGE_MISSING]
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-123d3fd63"
+item: "#item-32802b677"
 unparsed:
-line: 'Head: notwithstanding|Entry: 973 [Not withstanding]|#item-123d3fd63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1828,3013,667,154/full/0/default.jpg
+line: 'Head: north|Entry: 864 [PAGE_MISSING]|#item-32802b677'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1823,1880,426,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449864539
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449016561
+sort_value: '303231880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1828,3013,667,154/150,/0/default.jpg
-label: notwithstanding
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1823,1880,426,106/150,/0/default.jpg
+label: north
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

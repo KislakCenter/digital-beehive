@@ -2,24 +2,25 @@
 pid: index_1748
 volume: Volume 3
 image_number: '23'
-head: hare
-entry: "<a href='/digital-beehive/alpha2/alpha_0399/'>a</a>"
+head: hanging of thieves
+entry: "<a href='/digital-beehive/num6/num_1762/'>1271 [Hanging of thieves]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e423fdca4"
+item: "#item-fa211b62b"
 unparsed:
-line: 'Head: hare|Page: p.34 [Image 1.94]|Entry: a|#item-e423fdca4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,1607,451,145/full/0/default.jpg
+line: 'Head: hanging of thieves|Entry: 1271 [Hanging of thieves]|#item-fa211b62b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,995,562,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239856850
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238973488
+sort_value: '302320995'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,1607,451,145/150,/0/default.jpg
-label: hare
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,995,562,89/150,/0/default.jpg
+label: hanging of thieves
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

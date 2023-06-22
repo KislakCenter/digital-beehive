@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1055/'>wonderfull things</a>|<a href='/digital-beehive/num1/num_0261/'>243
   [Miracles]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2531/'>miracle</a>"
+index: "<a href='/digital-beehive/index3/index_2532/'>miracle</a>"
 item: "#item-a2f4c508e"
 unparsed:
 line: 'Entry: Miracles|Topic: Miracles|Xref: wonderfull things|Xref: 243 [Miracles]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Miracles|Topic: Miracles|Xref: wonderfull things|Xref: 243 [Miracl
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/346,1115,3056,466/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564775582598
+sort_value: '203311115'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/346,1115,600,180/250,/0/default.jpg
 label: Miracles

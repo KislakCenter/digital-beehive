@@ -2,25 +2,26 @@
 pid: index_2197
 volume: Volume 3
 image_number: '27'
-head: justification
-entry: "<a href='/digital-beehive/alpha3/alpha_0500/'>a</a>|<a href='/digital-beehive/num2/num_0474/'>390
-  [Justification]</a>|<a href='/digital-beehive/num5/num_1358/'>1017 [Justification]</a>"
+head: language
+entry: "<a href='/digital-beehive/alpha3/alpha_0511/'>a</a>|<a href='/digital-beehive/num6/num_2040/'>1413
+  [Languages]</a>|4755 [PAGE_MISSING]"
 topic:
-first_letter: I/J
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6b7ab6f0f"
+item: "#item-6fc916d2f"
 unparsed:
-line: 'Head: justification|Entry: a|Entry: 390 [Justification]|Entry: 1017 [Justification]|#item-6b7ab6f0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/106,2700,755,143/full/0/default.jpg
+line: 'Head: language|Entry: a|Entry: 1413 [Languages]|Entry: 4755 [PAGE_MISSING]|#item-6fc916d2f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1559,915,713,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759250517
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835072604
+sort_value: '302730915'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/106,2700,755,143/150,/0/default.jpg
-label: justification
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1559,915,713,131/150,/0/default.jpg
+label: language
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

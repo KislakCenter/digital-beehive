@@ -2,8 +2,9 @@
 pid: index_4520
 volume: Volume 3
 image_number: '52'
-head: well! welldone
-entry: 772 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2475/'>1631 [Well done]</a>
+head: wen
+entry: "<a href='/digital-beehive/num3/num_0957/'>681 [Wen]</a>|<a href='/digital-beehive/num9/num_3086/'>2146
+  [Wen]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-4ca56ebc2"
+item: "#item-005f38a48"
 unparsed:
-line: 'Head: well! welldone|Entry: 772 [PAGE_MISSING]|Entry: 1631 [Well done]|#item-4ca56ebc2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1103,1564,682,221/full/0/default.jpg
+line: 'Head: wen|Entry: 681 [Wen]|Entry: 2146 [Wen]|#item-005f38a48'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1080,1760,584,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968959433
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969100674
+sort_value: '305221760'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1103,1564,682,221/150,/0/default.jpg
-label: well! welldone
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1080,1760,584,130/150,/0/default.jpg
+label: wen
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '483'
+order: '482'
 layout: index_item
 collection: index5
 ---

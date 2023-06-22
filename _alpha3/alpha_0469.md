@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0152/'>Civil</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1944/'>incivility</a>"
+index: "<a href='/digital-beehive/index3/index_1995/'>incivility</a>"
 item: "#item-123fb86c5"
 unparsed:
 line: 'Entry: Incivility|Topic: Incivility|Xref: Civil|Index: incivility|#item-123fb86c5'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/775,3747,2954,524/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759632106
+sort_value: '202213747'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/775,3747,600,180/250,/0/default.jpg
 label: Incivility

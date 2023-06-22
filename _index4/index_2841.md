@@ -2,8 +2,8 @@
 pid: index_2841
 volume: Volume 3
 image_number: '34'
-head: pamphlet
-entry: "<a href='/digital-beehive/num10/num_3222/'>2267 [Pamphlet]</a>"
+head: "[:1.]"
+entry:
 topic:
 first_letter: P
 page:
@@ -11,18 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-61db78316"
-unparsed:
-line: 'Head: pamphlet|Entry: 2267 [Pamphlet]|#item-61db78316'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1165,332,569,144/full/0/default.jpg
+item: "#item-37fa65ab6"
+unparsed: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
+line: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1010,1216,115,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538491737759
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276862104
+sort_value: '303411216'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1165,332,569,144/150,/0/default.jpg
-label: pamphlet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1010,1216,115,80/150,/0/default.jpg
+label: "[:1.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4662/'>to oversee or overslip</a>|<a
+  href='/digital-beehive/index5/index_4663/'>overseer</a>"
 order: '0089'
 layout: index_item
 collection: index4

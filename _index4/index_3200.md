@@ -2,8 +2,8 @@
 pid: index_3200
 volume: Volume 3
 image_number: '37'
-head: priesthood
-entry: "<a href='/digital-beehive/alpha4/alpha_0736/'>a</a>"
+head: proportion
+entry: "<a href='/digital-beehive/num4/num_1207/'>916 [Proportion]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d06402ebf"
+item: "#item-1e1484ff1"
 unparsed:
-line: 'Head: priesthood|Entry: a|#item-d06402ebf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,2667,473,125/full/0/default.jpg
+line: 'Head: proportion|Entry: 916 [Proportion]|#item-1e1484ff1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1462,1173,547,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866956909
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869215146
+sort_value: '303731173'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,2667,473,125/150,/0/default.jpg
-label: priesthood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1462,1173,547,129/150,/0/default.jpg
+label: proportion
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

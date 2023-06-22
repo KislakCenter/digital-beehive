@@ -18,6 +18,7 @@ line: 'Head: free will|Entry: a|Entry: 1052 [Free Will]|Entry: 2307 [Free Will]|
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/857,1913,733,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565623019252
+sort_value: '302121913'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/857,1913,733,131/150,/0/default.jpg
 label: free will

@@ -2,8 +2,8 @@
 pid: index_2249
 volume: Volume 3
 image_number: '28'
-head: likelyhood
-entry: a|758 [PAGE_MISSING]
+head: left
+entry: 816 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,18 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-7b1431326"
+item: "#item-362a57f64"
 unparsed:
-line: 'Head: likelyhood|Entry: a|Entry: 758 [PAGE_MISSING]|#item-7b1431326'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1829,496,628,135/full/0/default.jpg
+line: 'Head: left|Entry: 816 [PAGE_MISSING]|#item-362a57f64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/403,3249,314,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848294489
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842771681
+sort_value: '302813249'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1829,496,628,135/150,/0/default.jpg
-label: likelyhood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/403,3249,314,138/150,/0/default.jpg
+label: left
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: The "a" links to an alphabetical entry which is indexed more than once. There
-  is no protocol at this point to handle multiple indexing for alphabetical entries.
+issue:
 insertion_xref:
 order: '331'
 layout: index_item

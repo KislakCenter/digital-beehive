@@ -2,8 +2,9 @@
 pid: index_3350
 volume: Volume 3
 image_number: '39'
-head: resolution
-entry: "<a href='/digital-beehive/num2/num_0546/'>441 [Resolutions]</a>"
+head: reliques
+entry: "<a href='/digital-beehive/alpha4/alpha_0792/'>a</a>|<a href='/digital-beehive/num6/num_1980/'>1385
+  [Reliques]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e852969e1"
+item: "#item-8be5d1d43"
 unparsed:
-line: 'Head: resolution|Entry: 441 [Resolutions]|#item-e852969e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1476,1189,614,140/full/0/default.jpg
+line: 'Head: reliques|Entry: a|Entry: 1385 [Reliques]|#item-8be5d1d43'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/106,3312,575,201/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229155628
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468734207
+sort_value: '303913312'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1476,1189,614,140/150,/0/default.jpg
-label: resolution
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/106,3312,575,201/150,/0/default.jpg
+label: reliques
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

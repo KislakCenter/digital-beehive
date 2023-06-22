@@ -2,24 +2,27 @@
 pid: index_3765
 volume: Volume 3
 image_number: '43'
-head: to solder
-entry: 822 [PAGE_MISSING]
+head: snake
+entry: "<a href='/digital-beehive/alpha4/alpha_0894/'>a</a>|<a href='/digital-beehive/num5/num_1731/'>1250
+  [Serpent]</a>|<a href='/digital-beehive/num9/num_3056/'>2119 [Serpents]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-c7c4e608a"
+item: "#item-ae6389661"
 unparsed:
-line: 'Head: to solder|Entry: 822 [PAGE_MISSING]|#item-c7c4e608a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1599,2593,471,166/full/0/default.jpg
+line: 'Head: snake|Page: p.37 [Image 1.97]|Entry: a|Entry: 1250 [Serpent]|Entry: 2119
+  [Serpents]|#item-ae6389661'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1566,681,611,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586369671
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585249462
+sort_value: '304330681'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1599,2593,471,166/150,/0/default.jpg
-label: to solder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1566,681,611,172/150,/0/default.jpg
+label: snake
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

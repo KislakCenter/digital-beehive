@@ -18,6 +18,7 @@ line: 'Entry: Brethern in Iniquity|Topic: Brethern in Iniquity|Xref: 1915 [Stray
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/842,3197,2937,284/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/full/full/0/default.jpg
 annotation_uri: http://beehive-anno.library.upenn.edu/annotation/1686073878517
+sort_value: '143813197'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/842,3197,600,180/250,/0/default.jpg
 label: Brethern in Iniquity

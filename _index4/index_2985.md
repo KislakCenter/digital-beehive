@@ -2,24 +2,25 @@
 pid: index_2985
 volume: Volume 3
 image_number: '35'
-head: phanatick
-entry: "<a href='/digital-beehive/num3/num_0824/'>616 [Fanatick]</a>"
+head: philosopher stone
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0089/'>alchymie</a>"
 index:
-item: "#item-b5955eb3c"
+item: "#item-4ec30a3ed"
 unparsed:
-line: 'Head: phanatick|Entry: 616 [Fanatick]|#item-b5955eb3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/838,1837,577,195/full/0/default.jpg
+line: 'Head: philosopher stone|See: alchymie|#item-4ec30a3ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974497485
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974701712
+sort_value: '303522523'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/838,1837,577,195/150,/0/default.jpg
-label: phanatick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/150,/0/default.jpg
+label: philosopher stone
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

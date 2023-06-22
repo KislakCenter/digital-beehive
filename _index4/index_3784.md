@@ -2,10 +2,8 @@
 pid: index_3784
 volume: Volume 3
 image_number: '43'
-head: sincerity
-entry: Sincerity|<a href='/digital-beehive/num6/num_1839/'>1317 [Sincerity]</a>|<a
-  href='/digital-beehive/num7/num_2353/'>1571 [Sincerity]</a>|<a href='/digital-beehive/num10/num_3327/'>2355
-  [Sincerity]</a>
+head: solecism
+entry: "<a href='/digital-beehive/num3/num_0676/'>537 [Terms in didascalia]</a>"
 topic:
 first_letter: S
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-26201a026"
+item: "#item-09309a132"
 unparsed:
-line: 'Head: sincerity|Entry: Sincerity|Entry: 1317 [Sincerity]|Entry: 1571 [Sincerity]|Entry:
-  2355 [Sincerity]|#item-26201a026'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/175,3336,744,170/full/0/default.jpg
+line: 'Head: solecism|Entry: 537 [Terms in didascalia]|#item-09309a132'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1585,2779,482,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582760565
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586422103
+sort_value: '304332779'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/175,3336,744,170/150,/0/default.jpg
-label: sincerity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1585,2779,482,117/150,/0/default.jpg
+label: solecism
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3335
 volume: Volume 3
 image_number: '39'
-head: remiss
-entry: 797 [PAGE_MISSING]
+head: refusal
+entry: 806 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3147/'>2204 [Refusal]</a>
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c6946fdd9"
+item: "#item-17bafc39c"
 unparsed:
-line: 'Head: remiss|Entry: 797 [PAGE_MISSING]|#item-c6946fdd9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/779,710,469,151/full/0/default.jpg
+line: 'Head: refusal|Entry: 806 [PAGE_MISSING]|Entry: 2204 [Refusal]|#item-17bafc39c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/91,1643,691,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468942799
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464632598
+sort_value: '303911643'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/779,710,469,151/150,/0/default.jpg
-label: remiss
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/91,1643,691,154/150,/0/default.jpg
+label: refusal
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

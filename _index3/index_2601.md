@@ -2,9 +2,8 @@
 pid: index_2601
 volume: Volume 3
 image_number: '31'
-head: moderate
-entry: "<a href='/digital-beehive/num1/num_0021/'>21 [Moderate]</a>|<a href='/digital-beehive/num6/num_1870/'>1331
-  [Moderation]</a>|<a href='/digital-beehive/num11/num_3589/'>4916 [Moderation]</a>"
+head: motto
+entry: "<a href='/digital-beehive/alpha3/alpha_0615/'>a</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-67e28300d"
+item: "#item-d9321ad16"
 unparsed:
-line: 'Head: moderate|Entry: 21 [Moderate]|Entry: 1331 [Moderation]|Entry: 4916 [Moderation]|#item-67e28300d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,2361,699,124/full/0/default.jpg
+line: 'Head: motto|Entry: a|#item-d9321ad16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1568,245,353,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352564550
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360247740
+sort_value: '303130245'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,2361,699,124/150,/0/default.jpg
-label: moderate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1568,245,353,97/150,/0/default.jpg
+label: motto
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

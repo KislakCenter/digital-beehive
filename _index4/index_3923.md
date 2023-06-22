@@ -2,8 +2,8 @@
 pid: index_3923
 volume: Volume 3
 image_number: '45'
-head: Stephen
-entry: "<a href='/digital-beehive/num2/num_0380/'>331 [St. Stephen]</a>"
+head: to Strain a gnat
+entry: "<a href='/digital-beehive/num1/num_0185/'>177 [Strain a gnat]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4b4065ae2"
+item: "#item-cbc71dafe"
 unparsed:
-line: 'Head: Stephen|Entry: 331 [St. Stephen]|#item-4b4065ae2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/214,1637,404,102/full/0/default.jpg
+line: 'Head: to Strain a gnat|Entry: 177 [Strain a gnat]|#item-cbc71dafe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/890,1050,540,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530220911126
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290625063
+sort_value: '304521050'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/214,1637,404,102/150,/0/default.jpg
-label: Stephen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/890,1050,540,80/150,/0/default.jpg
+label: to Strain a gnat
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

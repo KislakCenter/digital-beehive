@@ -2,8 +2,8 @@
 pid: index_1912
 volume: Volume 3
 image_number: '24'
-head: hypochondriack
-entry: 1847 [PAGE_MISSING]
+head: husk
+entry: "<a href='/digital-beehive/alpha2/alpha_0446/'>a</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8261ae6b9"
+item: "#item-836824bec"
 unparsed:
-line: 'Head: hypochondriack|Entry: 1847 [PAGE_MISSING]|#item-8261ae6b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1871,3373,632,117/full/0/default.jpg
+line: 'Head: husk|Entry: a|#item-836824bec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1846,2961,358,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559589090216
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588719405
+sort_value: '302432961'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1871,3373,632,117/150,/0/default.jpg
-label: hypochondriack
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1846,2961,358,132/150,/0/default.jpg
+label: husk
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,28 +2,29 @@
 pid: index_4180
 volume: Volume 3
 image_number: '48'
-head: touchstone
+head: too many
 entry:
 topic:
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0534/'>captains</a>"
 index:
-item: "#item-748a87ef3"
+item: "#item-2510843f6"
 unparsed:
-line: 'Head: touchstone|Page: p.32 [Image 1.92]|#item-748a87ef3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1105,371,457,109/full/0/default.jpg
+line: 'Head: too many|See: captains|#item-2510843f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/449,1492,673,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560285281421
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274616409
+sort_value: '304811492'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1105,371,457,109/150,/0/default.jpg
-label: touchstone
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/449,1492,673,142/150,/0/default.jpg
+label: too many
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '143'
+order: '142'
 layout: index_item
 collection: index5
 ---

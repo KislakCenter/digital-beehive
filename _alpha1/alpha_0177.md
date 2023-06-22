@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0242/'>Discont</a>|<a href='/digit
   [Easy in Living]|<a href='/digital-beehive/alpha4/alpha_0800/'>Resignation</a>|<a
   href='/digital-beehive/num2/num_0343/'>302 [Contentment]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0855/'>contentmt</a>"
+index: "<a href='/digital-beehive/index1/index_0823/'>contentmt</a>"
 item: "#item-5f770ccf9"
 unparsed:
 line: 'Entry: Contentment|Topic: Contentment|Topic: Contentedness|Xref: Discont|Xref:
@@ -21,6 +21,7 @@ line: 'Entry: Contentment|Topic: Contentment|Topic: Contentedness|Xref: Discont|
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/841,3264,3012,790/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499784853276
+sort_value: '144413264'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/841,3264,600,180/250,/0/default.jpg
 label: Contentment

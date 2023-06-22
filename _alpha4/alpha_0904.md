@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3620/'>a shew</a>"
+index: "<a href='/digital-beehive/index4/index_3671/'>a shew</a>"
 item: "#item-68eab80ab"
 unparsed:
 line: 'Entry: Show|Topic: Show|Index: a shew|#item-68eab80ab'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/736,3960,3019,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565111549606
+sort_value: '205413960'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/736,3960,600,180/250,/0/default.jpg
 label: Show

@@ -2,29 +2,30 @@
 pid: index_0953
 volume: Volume 3
 image_number: '15'
-head: cuckold
-entry: "<a href='/digital-beehive/alpha1/alpha_0203/'>a</a>|<a href='/digital-beehive/num7/num_2655/'>1730
-  [Cuckold]</a>|4749 [PAGE_MISSING]"
+head: day
+entry: "<a href='/digital-beehive/alpha1/alpha_0211/'>a</a>|<a href='/digital-beehive/num6/num_2115/'>1447
+  [Day]</a>"
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9fa9be56a"
-unparsed: Variant cuckow
-line: 'Head: cuckold|Variant: cuckow|Entry: a|Entry: 1730 [Cuckold]|Entry: 4749 [PAGE_MISSING]|#item-9fa9be56a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/829,2994,673,174/full/0/default.jpg
+item: "#item-e6884194d"
+unparsed:
+line: 'Head: day|Entry: a|Entry: 1447 [Day]|#item-e6884194d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1551,1973,475,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577986281
+annotation_uri: http://dev.llgc.org.uk/annotation/1507321988619
+sort_value: '301531973'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/829,2994,673,174/150,/0/default.jpg
-label: cuckold
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1551,1973,475,98/150,/0/default.jpg
+label: day
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0951'
+order: '0952'
 layout: index_item
 collection: index1
 ---

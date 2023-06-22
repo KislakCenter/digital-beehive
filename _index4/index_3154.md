@@ -2,8 +2,8 @@
 pid: index_3154
 volume: Volume 3
 image_number: '37'
-head: privy parts
-entry: "<a href='/digital-beehive/num2/num_0570/'>458 [Privy parts]</a>"
+head: priesthood
+entry: "<a href='/digital-beehive/alpha4/alpha_0736/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ce41a5f3c"
+item: "#item-d06402ebf"
 unparsed:
-line: 'Head: privy parts|Entry: 458 [Privy parts]|#item-ce41a5f3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,936,441,121/full/0/default.jpg
+line: 'Head: priesthood|Entry: a|#item-d06402ebf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,2667,473,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867668788
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866956909
+sort_value: '303712667'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,936,441,121/150,/0/default.jpg
-label: privy parts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,2667,473,125/150,/0/default.jpg
+label: priesthood
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

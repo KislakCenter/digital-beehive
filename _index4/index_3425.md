@@ -2,8 +2,8 @@
 pid: index_3425
 volume: Volume 3
 image_number: '40'
-head: ruin
-entry: "<a href='/digital-beehive/num3/num_0804/'>608 [Ruin]</a>"
+head: riding
+entry: "<a href='/digital-beehive/num7/num_2679/'>1750 [Horseman]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-fbbffaa7f"
+item: "#item-88ea23030"
 unparsed:
-line: 'Head: ruin|Entry: 608 [Ruin]|#item-fbbffaa7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2673,379,137/full/0/default.jpg
+line: 'Head: riding|Entry: 1750 [Horseman]|#item-88ea23030'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/453,2145,465,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233928733
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231941331
+sort_value: '304012145'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2673,379,137/150,/0/default.jpg
-label: ruin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/453,2145,465,100/150,/0/default.jpg
+label: riding
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

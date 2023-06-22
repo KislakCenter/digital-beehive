@@ -2,8 +2,8 @@
 pid: index_3879
 volume: Volume 3
 image_number: '44'
-head: space
-entry: "<a href='/digital-beehive/num9/num_2981/'>2047 [Space]</a>"
+head: star slough
+entry: "<a href='/digital-beehive/num7/num_2455/'>1621 [Phenomena's or Apparitions]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-373f530e7"
+item: "#item-20ee916a1"
 unparsed:
-line: 'Head: space|Entry: 2047 [Space]|#item-373f530e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/601,3598,411,107/full/0/default.jpg
+line: 'Head: star slough|Entry: 1621 [Phenomena''s or Apparitions]|#item-20ee916a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1790,3547,501,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529788179080
+annotation_uri: http://dev.llgc.org.uk/annotation/1530106881114
+sort_value: '304433547'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/601,3598,411,107/150,/0/default.jpg
-label: space
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1790,3547,501,94/150,/0/default.jpg
+label: star slough
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

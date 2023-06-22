@@ -2,24 +2,25 @@
 pid: index_3954
 volume: Volume 3
 image_number: '45'
-head: sudden
-entry: "<a href='/digital-beehive/num6/num_2081/'>1430 [Suddenness]</a>"
+head: submission
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4648/'>yielding</a>"
 index:
-item: "#item-4cd4d3b3a"
+item: "#item-90b84a133"
 unparsed:
-line: 'Head: sudden|Entry: 1430 [Suddenness]|#item-4cd4d3b3a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1623,2767,405,87/full/0/default.jpg
+line: 'Head: submission|See: yielding|#item-90b84a133'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1592,858,657,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530469571248
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467522360
+sort_value: '304530858'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1623,2767,405,87/150,/0/default.jpg
-label: sudden
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1592,858,657,154/150,/0/default.jpg
+label: submission
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

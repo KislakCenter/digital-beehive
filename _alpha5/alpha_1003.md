@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2077/'>1429 [Visit]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4332/'>visitation</a>"
+index: "<a href='/digital-beehive/index5/index_4344/'>visitation</a>"
 item: "#item-85e05a08f"
 unparsed:
 line: 'Entry: Visit|Topic: Visit|Xref: 1429 [Visit]|Index: visitation|#item-85e05a08f'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/307,4769,2995,300/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529004603315
+sort_value: '206114769'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/307,4769,600,180/250,/0/default.jpg
 label: Visit

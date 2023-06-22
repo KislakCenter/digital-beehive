@@ -2,9 +2,8 @@
 pid: index_1547
 volume: Volume 3
 image_number: '21'
-head: french pocks
-entry: "<a href='/digital-beehive/num3/num_0864/'>637 [French Pocks]</a>|<a href='/digital-beehive/num9/num_3077/'>2138
-  [French Pocks]</a>"
+head: friendship parted by poverty
+entry: "<a href='/digital-beehive/num1/num_0016/'>16 [Poverty parts good fellowship]</a>"
 topic:
 first_letter: F
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-542541b79"
+item: "#item-11bed1097"
 unparsed:
-line: 'Head: french pocks|Entry: 637 [French Pocks]|Entry: 2138 [French Pocks]|#item-542541b79'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/883,2140,616,91/full/0/default.jpg
+line: 'Head: friendship parted by poverty|Entry: 16 [Poverty parts good fellowship]|#item-11bed1097'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/858,2676,727,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619060158
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784200885
+sort_value: '302122676'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/883,2140,616,91/150,/0/default.jpg
-label: french pocks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/858,2676,727,153/150,/0/default.jpg
+label: friendship parted by poverty
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

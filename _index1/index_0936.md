@@ -2,11 +2,8 @@
 pid: index_0936
 volume: Volume 3
 image_number: '15'
-head: to court
-entry: "<a href='/digital-beehive/alpha1/alpha_0190/'>a</a>|<a href='/digital-beehive/num4/num_1198/'>912
-  [To Wooe]</a>|<a href='/digital-beehive/num6/num_1988/'>1389 [of Courting women]</a>|<a
-  href='/digital-beehive/num7/num_2439/'>1614 [Courting]</a>|4554 [PAGE_MISSING]|<a
-  href='/digital-beehive/num11/num_3575/'>4880 [Courtship]</a>"
+head: to cut off
+entry: "<a href='/digital-beehive/num3/num_0909/'>659 [to lop]</a>"
 topic:
 first_letter: C
 page:
@@ -14,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-98377fd2e"
+item: "#item-663ad8c42"
 unparsed:
-line: 'Head: to court|Entry: a|Entry: 912 [To Wooe]|Entry: 1389 [of Courting women]|Entry:
-  1614 [Courting]|Entry: 4554 [PAGE_MISSING]|Entry: 4880 [Courtship]|#item-98377fd2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/143,2464,722,145/full/0/default.jpg
+line: 'Head: to cut off|Entry: 659 [to lop]|#item-663ad8c42'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1569,659,481,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974942711
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390806974
+sort_value: '301530659'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/143,2464,722,145/150,/0/default.jpg
-label: to court
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1569,659,481,101/150,/0/default.jpg
+label: to cut off
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0934'
+order: '0935'
 layout: index_item
 collection: index1
 ---

@@ -2,9 +2,9 @@
 pid: index_3397
 volume: Volume 3
 image_number: '39'
-head: revelling. sau√ü und schmau√ü
-entry: "<a href='/digital-beehive/alpha4/alpha_0807/'>a</a>|<a href='/digital-beehive/num4/num_1322/'>990
-  [Revelling]</a>"
+head: resurrection
+entry: "<a href='/digital-beehive/alpha4/alpha_0803/'>a</a>|<a href='/digital-beehive/num6/num_1772/'>1277
+  [Resurrection]</a>|<a href='/digital-beehive/num9/num_3181/'>2236 [Resurrection]</a>"
 topic:
 first_letter: R
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7331cd107"
+item: "#item-c15953b51"
 unparsed:
-line: 'Head: revelling. sau√ü und schmau√ü|Entry: a|Entry: 990 [Revelling]|#item-7331cd107'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1435,3085,838,214/full/0/default.jpg
+line: 'Head: resurrection|Entry: a|Entry: 1277 [Resurrection]|Entry: 2236 [Resurrection]|#item-c15953b51'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1483,2247,738,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230482310
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230077799
+sort_value: '303932247'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1435,3085,838,214/150,/0/default.jpg
-label: revelling. sau√ü und schmau√ü
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1483,2247,738,190/150,/0/default.jpg
+label: resurrection
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

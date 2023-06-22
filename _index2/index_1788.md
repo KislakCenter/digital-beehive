@@ -2,8 +2,8 @@
 pid: index_1788
 volume: Volume 3
 image_number: '23'
-head: Henry IV. K. of Fr
-entry: "<a href='/digital-beehive/num6/num_1850/'>1321 [Henry IV]</a>"
+head: hebrew
+entry: "<a href='/digital-beehive/num4/num_1315/'>986 [Hebrew]</a>|1858 [PAGE_MISSING]"
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-fb9e535ef"
+item: "#item-93d34088e"
 unparsed:
-line: 'Head: Henry IV. K. of Fr|Entry: 1321 [Henry IV]|#item-fb9e535ef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1511,2841,607,146/full/0/default.jpg
+line: 'Head: hebrew|Entry: 986 [Hebrew]|Entry: 1858 [PAGE_MISSING]|#item-93d34088e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1533,1585,494,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571929549
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244863809
+sort_value: '302331585'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1511,2841,607,146/150,/0/default.jpg
-label: Henry IV. K. of Fr
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1533,1585,494,107/150,/0/default.jpg
+label: hebrew
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

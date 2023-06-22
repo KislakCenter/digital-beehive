@@ -17,6 +17,7 @@ line: 'Entry: Consequence|Topic: Consequence|Xref: 1447 [Consequence]|Index: con
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/788,1357,3077,498/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563827414317
+sort_value: '144411357'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/788,1357,600,180/250,/0/default.jpg
 label: Consequence

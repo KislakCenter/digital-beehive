@@ -2,28 +2,29 @@
 pid: index_4411
 volume: Volume 3
 image_number: '51'
-head: waggon
-entry: "<a href='/digital-beehive/num5/num_1583/'>1162 [Carriage]</a>"
+head: unready
+entry: 541 [WORD_MISSING]
 topic:
-first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+first_letter: U/V
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a7464b884"
+item: "#item-e4c343520"
 unparsed:
-line: 'Head: waggon|Page: p.38 [Image 1.98]|Entry: 1162 [Carriage]|#item-a7464b884'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1640,344,626,116/full/0/default.jpg
+line: 'Head: unready|Entry: 541 [WORD_MISSING]|#item-e4c343520'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/200,565,471,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647524296
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645401075
+sort_value: '305110565'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1640,344,626,116/150,/0/default.jpg
-label: waggon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/200,565,471,162/150,/0/default.jpg
+label: unready
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '374'
+order: '373'
 layout: index_item
 collection: index5
 ---

@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num10/num_3440/'>4458 [Creature]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0869/'>creature</a>"
+index: "<a href='/digital-beehive/index1/index_0898/'>creature</a>"
 item: "#item-178f2b621"
 unparsed:
 line: 'Entry: Creature|Topic: Creature|Xref: 4458 [Creature]|Index: creature|#item-178f2b621'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/788,1694,2987,452/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499785730527
+sort_value: '144611694'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/788,1694,600,180/250,/0/default.jpg
 label: Creature

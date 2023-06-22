@@ -2,8 +2,9 @@
 pid: index_2023
 volume: Volume 3
 image_number: '26'
-head: John Bapt
-entry: "<a href='/digital-beehive/alpha3/alpha_0490/'>a</a>"
+head: indulgence
+entry: "<a href='/digital-beehive/num3/num_0924/'>667 [Indulgence]</a>|<a href='/digital-beehive/num5/num_1629/'>1195
+  [Indulgence]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-950123adc"
+item: "#item-ee8bf5940"
 unparsed:
-line: 'Head: John Bapt|Entry: a|#item-950123adc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1859,2167,291,114/full/0/default.jpg
+line: 'Head: indulgence|Entry: 667 [Indulgence]|Entry: 1195 [Indulgence]|#item-ee8bf5940'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/395,463,733,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559752008947
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674460103
+sort_value: '302610463'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1859,2167,291,114/150,/0/default.jpg
-label: John Bapt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/395,463,733,159/150,/0/default.jpg
+label: indulgence
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

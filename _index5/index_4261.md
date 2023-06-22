@@ -2,29 +2,29 @@
 pid: index_4261
 volume: Volume 3
 image_number: '49'
-head: truth
-entry: "<a href='/digital-beehive/alpha5/alpha_0987/'>a</a>|<a href='/digital-beehive/num6/num_1736/'>1253
-  [Truth]</a>|<a href='/digital-beehive/num9/num_3164/'>2221 [Truth]</a>"
+head: tube
+entry:
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-bbd79773e"
+item: "#item-8ae3811e2"
 unparsed:
-line: 'Head: truth|Entry: a|Entry: 1253 [Truth]|Entry: 2221 [Truth]|#item-bbd79773e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/234,266,623,91/full/0/default.jpg
+line: 'Head: tube|Page: p.39 [Image 1.99]|#item-8ae3811e2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,1005,294,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655182817
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655714565
+sort_value: '304911005'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/234,266,623,91/150,/0/default.jpg
-label: truth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,1005,294,121/150,/0/default.jpg
+label: tube
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '224'
+order: '223'
 layout: index_item
 collection: index5
 ---

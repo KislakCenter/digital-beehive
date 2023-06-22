@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index2/index_1736/'>heavenly things</a>"
+index: "<a href='/digital-beehive/index2/index_1785/'>heavenly things</a>"
 item: "#item-38f299b36"
 unparsed:
 line: 'Entry: Heavenly Things|Topic: Heavenly Things|Index: heavenly things|#item-38f299b36'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/402,4340,3022,385/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564605689168
+sort_value: '201714340'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/402,4340,600,180/250,/0/default.jpg
 label: Heavenly Things

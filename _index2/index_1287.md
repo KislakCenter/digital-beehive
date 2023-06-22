@@ -2,8 +2,8 @@
 pid: index_1287
 volume: Volume 3
 image_number: '19'
-head: exemplar
-entry: "<a href='/digital-beehive/num2/num_0563/'>452 [Copy]</a>"
+head: equinox
+entry: "<a href='/digital-beehive/num5/num_1466/'>1088 [Equinox]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-33a215afc"
+item: "#item-88b429cb9"
 unparsed:
-line: 'Head: exemplar|Entry: 452 [Copy]|#item-33a215afc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1557,558,563,134/full/0/default.jpg
+line: 'Head: equinox|Entry: 1088 [Equinox]|#item-88b429cb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/140,1409,493,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042157433
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844489187
+sort_value: '301911409'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1557,558,563,134/150,/0/default.jpg
-label: exemplar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/140,1409,493,143/150,/0/default.jpg
+label: equinox
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

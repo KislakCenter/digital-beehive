@@ -2,8 +2,8 @@
 pid: index_3184
 volume: Volume 3
 image_number: '37'
-head: proffer
-entry: "<a href='/digital-beehive/num6/num_2035/'>1411 [Profferd kindness]</a>"
+head: prohibition
+entry: "<a href='/digital-beehive/alpha4/alpha_0748/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-761e3cddb"
+item: "#item-fe63fa0d1"
 unparsed:
-line: 'Head: proffer|Entry: 1411 [Profferd kindness]|#item-761e3cddb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/775,2125,406,125/full/0/default.jpg
+line: 'Head: prohibition|Entry: a|#item-fe63fa0d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/797,2609,471,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868252953
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868505776
+sort_value: '303722609'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/775,2125,406,125/150,/0/default.jpg
-label: proffer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/797,2609,471,154/150,/0/default.jpg
+label: prohibition
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

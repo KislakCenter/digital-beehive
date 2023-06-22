@@ -2,24 +2,25 @@
 pid: index_2218
 volume: Volume 3
 image_number: '27'
-head: lake
-entry: 4505 [PAGE_MISSING]
+head: latin English
+entry: "<a href='/digital-beehive/num5/num_1355/'>1015 [Some English Latin]</a>"
 topic:
 first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3505/'>Sea</a>"
+see:
 index:
-item: "#item-1e2573473"
+item: "#item-7b42a65fe"
 unparsed:
-line: 'Head: lake|See: Sea|Entry: 4505 [PAGE_MISSING]|#item-1e2573473'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/811,3409,710,153/full/0/default.jpg
+line: 'Head: latin English|Entry: 1015 [Some English Latin]|#item-7b42a65fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1507,3020,491,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832456028
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836790573
+sort_value: '302733020'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/811,3409,710,153/150,/0/default.jpg
-label: lake
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1507,3020,491,134/150,/0/default.jpg
+label: latin English
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

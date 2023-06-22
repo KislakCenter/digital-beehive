@@ -2,8 +2,8 @@
 pid: index_4093
 volume: Volume 3
 image_number: '47'
-head: thus
-entry: 838 [PAGE_MISSING]
+head: term
+entry: "<a href='/digital-beehive/num5/num_1670/'>1219 [a Term]</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-e25d87a1f"
+item: "#item-19686079b"
 unparsed:
-line: 'Head: thus|Entry: 838 [PAGE_MISSING]|#item-e25d87a1f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1612,1095,287,99/full/0/default.jpg
+line: 'Head: term|Entry: 1219 [a Term]|#item-19686079b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/166,2528,337,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552669691766
+annotation_uri: http://dev.llgc.org.uk/annotation/1532714757666
+sort_value: '304712528'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1612,1095,287,99/150,/0/default.jpg
-label: thus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/166,2528,337,101/150,/0/default.jpg
+label: term
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '056'
+order: '055'
 layout: index_item
 collection: index5
 ---

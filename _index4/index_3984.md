@@ -2,8 +2,8 @@
 pid: index_3984
 volume: Volume 3
 image_number: '46'
-head: Sweet
-entry: 749 [PAGE_MISSING]
+head: sunday
+entry: "<a href='/digital-beehive/num3/num_0643/'>511 [First day of the Week]</a>"
 topic:
 first_letter: S
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-77132f756"
+item: "#item-6813b9ec9"
 unparsed:
-line: 'Head: Sweet|Entry: 749 [PAGE_MISSING]|#item-77132f756'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1106,1882,367,135/full/0/default.jpg
+line: 'Head: sunday|Entry: 511 [First day of the Week]|#item-6813b9ec9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/449,1170,352,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531691716397
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473028541
+sort_value: '304611170'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1106,1882,367,135/150,/0/default.jpg
-label: Sweet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/449,1170,352,101/150,/0/default.jpg
+label: sunday
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1229'
+order: '1232'
 layout: index_item
 collection: index4
 ---

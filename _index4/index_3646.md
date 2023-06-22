@@ -2,24 +2,25 @@
 pid: index_3646
 volume: Volume 3
 image_number: '42'
-head: severity
-entry: "<a href='/digital-beehive/alpha4/alpha_0865/'>a</a>"
+head: servant & service of God
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4623/'>worship</a>"
 index:
-item: "#item-4ecb3e178"
+item: "#item-bb827ea55"
 unparsed:
-line: 'Head: severity|Entry: a|#item-4ecb3e178'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1097,1570,485,166/full/0/default.jpg
+line: 'Head: servant & service of God|See: worship|#item-bb827ea55'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1106,1212,744,182/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574159936
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573970706
+sort_value: '304221212'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1097,1570,485,166/150,/0/default.jpg
-label: severity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1106,1212,744,182/150,/0/default.jpg
+label: servant & service of God
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

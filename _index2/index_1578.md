@@ -2,24 +2,25 @@
 pid: index_1578
 volume: Volume 3
 image_number: '21'
-head: frost
-entry: "<a href='/digital-beehive/num7/num_2517/'>1649 [Frost]</a>"
+head: galilee
+entry: "<a href='/digital-beehive/num11/num_3563/'>4868 [Galileans]</a>"
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-40ecb3b8a"
+item: "#item-89eca517d"
 unparsed:
-line: 'Head: frost|Entry: 1649 [Frost]|#item-40ecb3b8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/849,3210,378,153/full/0/default.jpg
+line: 'Head: galilee|Entry: 4868 [Galileans]|#item-89eca517d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2276,521,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784499900
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787067680
+sort_value: '302132276'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/849,3210,378,153/150,/0/default.jpg
-label: frost
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2276,521,140/150,/0/default.jpg
+label: galilee
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

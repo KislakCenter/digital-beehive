@@ -2,8 +2,8 @@
 pid: index_2254
 volume: Volume 3
 image_number: '28'
-head: L'estrange
-entry: "<a href='/digital-beehive/num7/num_2480/'>1633 [Lestrange]</a>"
+head: lending
+entry: "<a href='/digital-beehive/alpha3/alpha_0531/'>a</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ebe40783a"
+item: "#item-28589f43d"
 unparsed:
-line: 'Head: L''estrange|Entry: 1633 [Lestrange]|#item-ebe40783a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1134,633,531,131/full/0/default.jpg
+line: 'Head: lending|Entry: a|#item-28589f43d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1147,223,405,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844438987
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844045784
+sort_value: '302820223'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1134,633,531,131/150,/0/default.jpg
-label: L'estrange
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1147,223,405,171/150,/0/default.jpg
+label: lending
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

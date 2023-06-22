@@ -20,6 +20,7 @@ line: 'Head: pardon|Entry: a|Entry: 1081 [Forgiveness]|Entry: 1764 [Forgiveness]
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1155,1578,702,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538494083145
+sort_value: '303421578'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1155,1578,702,142/150,/0/default.jpg
 label: pardon

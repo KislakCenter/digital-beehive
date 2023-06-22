@@ -2,28 +2,25 @@
 pid: index_1413
 volume: Volume 3
 image_number: '20'
-head: Faith
-entry: "<a href='/digital-beehive/alpha2/alpha_0312/'>a</a>|<a href='/digital-beehive/num1/num_0137/'>132
-  [Faith & Patience]</a>|<a href='/digital-beehive/num2/num_0485/'>397 [Faith]</a>|<a
-  href='/digital-beehive/num7/num_2608/'>1693 [Faith]</a>|<a href='/digital-beehive/num9/num_3066/'>2127
-  [Faith]</a>|<a href='/digital-beehive/num2/num_0559/'>449 [Implicite Faith]</a>"
+head: father
+entry: "<a href='/digital-beehive/num2/num_0326/'>289 [Father]</a>"
 topic:
 first_letter: F
 page:
-add: "<a href='/digital-beehive/index3/index_1968/'>implicit</a>"
+add:
 xref:
 see:
 index:
-item: "#item-897aa4f44"
+item: "#item-a82fe788c"
 unparsed:
-line: 'Head: Faith|Entry: a|Entry: 132 [Faith & Patience]|Entry: 397 [Faith]|Entry:
-  1693 [Faith]|Entry: 2127 [Faith]|Add: implicit|Entry: 449 [Implicite Faith]|#item-897aa4f44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/374,1055,756,256/full/0/default.jpg
+line: 'Head: father|Entry: 289 [Father]|#item-a82fe788c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1141,338,399,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561401055471
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660789927
+sort_value: '302020338'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/374,1055,756,256/150,/0/default.jpg
-label: Faith
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1141,338,399,116/150,/0/default.jpg
+label: father
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_0306
 volume: Volume 3
 image_number: '9'
-head: to becken
-entry: "<a href='/digital-beehive/num9/num_3145/'>2202 [To Nod : to becken]</a>"
+head: bat
+entry: "<a href='/digital-beehive/num3/num_0985/'>689 [a Bat]</a>"
 topic:
 first_letter: B
-page:
+page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-d274ab745"
+item: "#item-d079a4d28"
 unparsed:
-line: 'Head: to becken|Entry: 2202 [To Nod : to becken]|#item-d274ab745'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1593,2465,493,89/full/0/default.jpg
+line: 'Head: bat|Page: p.36 [Image 1.96]|Entry: 689 [a Bat]|#item-d079a4d28'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1615,476,446,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530892453024
+annotation_uri: http://dev.llgc.org.uk/annotation/1530805759454
+sort_value: '300930476'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1593,2465,493,89/150,/0/default.jpg
-label: to becken
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1615,476,446,134/150,/0/default.jpg
+label: bat
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

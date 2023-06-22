@@ -2,8 +2,8 @@
 pid: index_2981
 volume: Volume 3
 image_number: '35'
-head: pindapus
-entry: 4782 [PAGE_MISSING]
+head: pharisees
+entry: "<a href='/digital-beehive/num2/num_0368/'>319 [Pharisees]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-792fcf7eb"
+item: "#item-fb67585ec"
 unparsed:
-line: 'Head: pindapus|Entry: 4782 [PAGE_MISSING]|#item-792fcf7eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1528,1687,804,214/full/0/default.jpg
+line: 'Head: pharisees|Entry: 319 [Pharisees]|#item-fb67585ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/859,1981,437,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976624865
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974525459
+sort_value: '303521981'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1528,1687,804,214/150,/0/default.jpg
-label: pindapus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/859,1981,437,158/150,/0/default.jpg
+label: pharisees
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

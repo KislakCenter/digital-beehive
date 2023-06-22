@@ -2,10 +2,9 @@
 pid: index_3189
 volume: Volume 3
 image_number: '37'
-head: pride
-entry: "<a href='/digital-beehive/alpha4/alpha_0735/'>a</a>|819 [PAGE_MISSING]|<a
-  href='/digital-beehive/num7/num_2636/'>1712 [Pride]</a>|<a href='/digital-beehive/num11/num_3513/'>4818
-  [Pride]</a>"
+head: promoting
+entry: "<a href='/digital-beehive/alpha4/alpha_0750/'>a</a>|<a href='/digital-beehive/num7/num_2650/'>1726
+  [Preferment]</a>"
 topic:
 first_letter: P
 page:
@@ -13,16 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-53fb33826"
+item: "#item-37a40cf6c"
 unparsed:
-line: 'Head: pride|Entry: a|Entry: 819 [PAGE_MISSING]|Entry: 1712 [Pride]|Entry: 4818
-  [Pride]|#item-53fb33826'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/109,2319,697,158/full/0/default.jpg
+line: 'Head: promoting|Entry: a|Entry: 1726 [Preferment]|#item-37a40cf6c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/797,3246,637,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866745540
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868683864
+sort_value: '303723246'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/109,2319,697,158/150,/0/default.jpg
-label: pride
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/797,3246,637,137/150,/0/default.jpg
+label: promoting
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

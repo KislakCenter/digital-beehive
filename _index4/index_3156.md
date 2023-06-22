@@ -2,26 +2,25 @@
 pid: index_3156
 volume: Volume 3
 image_number: '37'
-head: false prophets
-entry: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num3/num_0666/'>531
-  [unholy man to be a Gospel-minister]</a>"
+head: primogen
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1459/'>firstborn</a>"
 index:
-item: "#item-7920f1dbf"
+item: "#item-81b4e9c8a"
 unparsed:
-line: 'Head: false prophets|Entry: 41 [False Prophets]|Entry: 531 [unholy man to be
-  a Gospel-minister]|#item-7920f1dbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1452,1010,535,135/full/0/default.jpg
+line: 'Head: primogen|See: firstborn|#item-81b4e9c8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/123,2863,686,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869200957
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867018156
+sort_value: '303712863'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1452,1010,535,135/150,/0/default.jpg
-label: false prophets
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/123,2863,686,172/150,/0/default.jpg
+label: primogen
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

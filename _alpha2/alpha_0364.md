@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0551/'>Lookingglass</a>|<a href='/digital-beehive/num3/num_0816/'>612
   [Bottle]</a>|<a href='/digital-beehive/num7/num_2532/'>1655 [Glass]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1687/'>glass</a>"
+index: "<a href='/digital-beehive/index2/index_1619/'>glass</a>"
 item: "#item-88581f002"
 unparsed:
 line: 'Entry: Glass|Topic: Glass|Xref: Lookingglass|Xref: 612 [Bottle]|Xref: 1655
@@ -19,6 +19,7 @@ line: 'Entry: Glass|Topic: Glass|Xref: Lookingglass|Xref: 612 [Bottle]|Xref: 165
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/743,2374,2996,458/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564601934065
+sort_value: '201412374'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/743,2374,600,180/250,/0/default.jpg
 label: Glass

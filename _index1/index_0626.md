@@ -2,8 +2,8 @@
 pid: index_0626
 volume: Volume 3
 image_number: '12'
-head: chiromancy
-entry: "<a href='/digital-beehive/num7/num_2276/'>1531 [Chiromancy]</a>"
+head: chickens
+entry: "<a href='/digital-beehive/num5/num_1428/'>1061 [Chickens]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3513d5b27"
+item: "#item-0b2103c32"
 unparsed:
-line: 'Head: chiromancy|Entry: 1531 [Chiromancy]|#item-3513d5b27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1819,2844,605,125/full/0/default.jpg
+line: 'Head: chickens|Entry: 1061 [Chickens]|#item-0b2103c32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1832,1638,512,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532461285808
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459897814
+sort_value: '301231638'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1819,2844,605,125/150,/0/default.jpg
-label: chiromancy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1832,1638,512,119/150,/0/default.jpg
+label: chickens
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

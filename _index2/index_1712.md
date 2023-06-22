@@ -2,8 +2,9 @@
 pid: index_1712
 volume: Volume 3
 image_number: '23'
-head: grazing
-entry: "<a href='/digital-beehive/num8/num_2919/'>1988 [Grazing]</a>"
+head: grief
+entry: "<a href='/digital-beehive/num3/num_0905/'>658 [Grief]</a>|<a href='/digital-beehive/num10/num_3323/'>2352
+  [Grief]</a>"
 topic:
 first_letter: G
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-85db98277"
+item: "#item-ee1d87f04"
 unparsed:
-line: 'Head: grazing|Entry: 1988 [Grazing]|#item-85db98277'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/132,549,481,96/full/0/default.jpg
+line: 'Head: grief|Entry: 658 [Grief]|Entry: 2352 [Grief]|#item-ee1d87f04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/139,1249,488,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229105508
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230963057
+sort_value: '302311249'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/132,549,481,96/150,/0/default.jpg
-label: grazing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/139,1249,488,126/150,/0/default.jpg
+label: grief
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

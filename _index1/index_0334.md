@@ -2,24 +2,25 @@
 pid: index_0334
 volume: Volume 3
 image_number: '9'
-head: bacon
-entry:
+head: beetles
+entry: "<a href='/digital-beehive/num5/num_1336/'>1002 [Flies]</a>"
 topic:
 first_letter: B
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1847/'>hog</a>"
+see:
 index:
-item: "#item-d0129b04a"
+item: "#item-2fb4d1f4d"
 unparsed:
-line: 'Head: bacon|See: hog|#item-d0129b04a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/204,3407,500,160/full/0/default.jpg
+line: 'Head: beetles|Entry: 1002 [Flies]|#item-2fb4d1f4d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1587,3011,439,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504211086283
+annotation_uri: http://dev.llgc.org.uk/annotation/1531145957524
+sort_value: '300933011'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/204,3407,500,160/150,/0/default.jpg
-label: bacon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1587,3011,439,140/150,/0/default.jpg
+label: beetles
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

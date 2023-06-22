@@ -2,24 +2,25 @@
 pid: index_0074
 volume: Volume 3
 image_number: '7'
-head: almost
-entry: 781 [PAGE_MISSING]
+head: age
+entry:
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2782/'>old</a>"
 index:
-item: "#item-ca2e9c949"
+item: "#item-a555e64bb"
 unparsed:
-line: 'Head: almost|Entry: 781 [PAGE_MISSING]|#item-ca2e9c949'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1601,2024,368,113/full/0/default.jpg
+line: 'Head: age|See: old|#item-a555e64bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/895,2816,342,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770214673
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767293061
+sort_value: '300722816'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1601,2024,368,113/150,/0/default.jpg
-label: almost
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/895,2816,342,116/150,/0/default.jpg
+label: age
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

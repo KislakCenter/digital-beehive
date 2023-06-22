@@ -2,24 +2,25 @@
 pid: index_0619
 volume: Volume 3
 image_number: '12'
-head: chamber pot
-entry: 809 [PAGE_MISSING]
+head: cheat
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1532/'>fraud</a>"
 index:
-item: "#item-ab1261919"
+item: "#item-c94a4acd1"
 unparsed:
-line: 'Head: chamber pot|Entry: 809 [PAGE_MISSING]|#item-ab1261919'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1127,2545,440,127/full/0/default.jpg
+line: 'Head: cheat|See: fraud|#item-c94a4acd1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1818,1026,535,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532100838116
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459211282
+sort_value: '301231026'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1127,2545,440,127/150,/0/default.jpg
-label: chamber pot
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1818,1026,535,137/150,/0/default.jpg
+label: cheat
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

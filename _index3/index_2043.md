@@ -2,25 +2,25 @@
 pid: index_2043
 volume: Volume 3
 image_number: '26'
-head: in vain
-entry: "<a href='/digital-beehive/num3/num_0923/'>666 [In vain]</a>|<a href='/digital-beehive/num7/num_2316/'>1553
-  [In vain]</a>"
+head: inheritance
+entry: "<a href='/digital-beehive/num7/num_2622/'>1700 [Inheritance]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1813/'>heritage</a>"
 index:
-item: "#item-abc8a6b6b"
+item: "#item-52ddc533d"
 unparsed:
-line: 'Head: in vain|Entry: 666 [In vain]|Entry: 1553 [In vain]|#item-abc8a6b6b|'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1858,766,556,113/full/0/default.jpg
+line: 'Head: inheritance|See: heritage|Entry: 1700 [Inheritance]|#item-52ddc533d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/422,2615,840,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750990240
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745191920
+sort_value: '302612615'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1858,766,556,113/150,/0/default.jpg
-label: in vain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/422,2615,840,157/150,/0/default.jpg
+label: inheritance
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,10 +2,8 @@
 pid: index_3571
 volume: Volume 3
 image_number: '41'
-head: Scriptures
-entry: "<a href='/digital-beehive/alpha4/alpha_0841/'>a</a>|<a href='/digital-beehive/num4/num_1222/'>922
-  [H. Scripture]</a>|<a href='/digital-beehive/num5/num_1375/'>1028 [h: Scriptures]</a>|<a
-  href='/digital-beehive/num9/num_3180/'>2235 [H: Scriptures]</a>"
+head: Sea devil
+entry: "<a href='/digital-beehive/num6/num_2165/'>1472 [Sea-Devil]</a>"
 topic:
 first_letter: S
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5d964af2c"
+item: "#item-dfd4db042"
 unparsed:
-line: 'Head: Scriptures|Entry: a|Entry: 922 [H. Scripture]|Entry: 1028 [h: Scriptures]|Entry:
-  2235 [H: Scriptures]|#item-5d964af2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2458,734,158/full/0/default.jpg
+line: 'Head: Sea devil|Entry: 1472 [Sea-Devil]|#item-dfd4db042'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1563,411,459,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241344714
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242051635
+sort_value: '304130411'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2458,734,158/150,/0/default.jpg
-label: Scriptures
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1563,411,459,132/150,/0/default.jpg
+label: Sea devil
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -19,6 +19,7 @@ line: 'Entry: Sickness|Topic: Sickness|Xref: fever|Xref: Kings evil|Xref: 808 [P
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/832,3505,2885,688/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530803693926
+sort_value: '205213505'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/832,3505,600,180/250,/0/default.jpg
 label: Sickness

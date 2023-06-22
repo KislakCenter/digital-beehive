@@ -2,9 +2,8 @@
 pid: index_2280
 volume: Volume 3
 image_number: '28'
-head: liberality
-entry: "<a href='/digital-beehive/alpha3/alpha_0535/'>a</a>|<a href='/digital-beehive/num5/num_1528/'>1127
-  [Liberality]</a>"
+head: Lidford law
+entry: "<a href='/digital-beehive/num4/num_1281/'>961 [Too hasty]</a>"
 topic:
 first_letter: L
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8b7010643"
+item: "#item-85f1f92fb"
 unparsed:
-line: 'Head: liberality|Entry: a|Entry: 1127 [Liberality]|#item-8b7010643'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1132,1644,601,167/full/0/default.jpg
+line: 'Head: Lidford law|Entry: 961 [Too hasty]|#item-85f1f92fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1088,2476,570,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845697574
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846395394
+sort_value: '302822476'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1132,1644,601,167/150,/0/default.jpg
-label: liberality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1088,2476,570,154/150,/0/default.jpg
+label: Lidford law
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_4110
 volume: Volume 3
 image_number: '47'
-head: tile
-entry: "<a href='/digital-beehive/num2/num_0431/'>362 [a Shingle]</a>"
+head: then
+entry: "<a href='/digital-beehive/num3/num_1054/'>717 [Then]</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-ea21d527b"
+item: "#item-4dd98fa3d"
 unparsed:
-line: 'Head: tile|Entry: 362 [a Shingle]|#item-ea21d527b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1605,1675,334,104/full/0/default.jpg
+line: 'Head: then|Entry: 717 [Then]|#item-4dd98fa3d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/899,1063,303,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552670440439
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294355429
+sort_value: '304721063'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1605,1675,334,104/150,/0/default.jpg
-label: tile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/899,1063,303,101/150,/0/default.jpg
+label: then
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '073'
+order: '072'
 layout: index_item
 collection: index5
 ---

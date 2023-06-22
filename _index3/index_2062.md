@@ -2,9 +2,8 @@
 pid: index_2062
 volume: Volume 3
 image_number: '26'
-head: infidelity
-entry: "<a href='/digital-beehive/alpha3/alpha_0475/'>a</a>|<a href='/digital-beehive/num10/num_3352/'>2380
-  [Unfaithful]</a>"
+head: insolence
+entry: "<a href='/digital-beehive/num5/num_1677/'>1224 [Insolence]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0cee4a603"
+item: "#item-465174e5e"
 unparsed:
-line: 'Head: infidelity|Entry: a|Entry: 2380 [Unfaithful]|#item-0cee4a603'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/443,1524,611,159/full/0/default.jpg
+line: 'Head: insolence|Entry: 1224 [Insolence]|#item-465174e5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1317,480,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744292512
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747694877
+sort_value: '302621317'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/443,1524,611,159/150,/0/default.jpg
-label: infidelity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1317,480,113/150,/0/default.jpg
+label: insolence
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -17,6 +17,7 @@ line: 'Head: box|Entry: 1631 [Box]|#item-2ee7f7f47'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3388,417,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531417269739
+sort_value: '301033388'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3388,417,89/150,/0/default.jpg
 label: box

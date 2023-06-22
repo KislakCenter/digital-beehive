@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1257/'>940 [Auricular Confession]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0840/'>confession auricular</a>"
+index: "<a href='/digital-beehive/index1/index_0785/'>confession auricular</a>"
 item: "#item-b300239ec"
 unparsed:
 line: 'Entry: Auricular Confession|Topic: Auricular Confession|Xref: 940 [Auricular
@@ -18,6 +18,7 @@ line: 'Entry: Auricular Confession|Topic: Auricular Confession|Xref: 940 [Auricu
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/796,199,3069,507/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499707467630
+sort_value: '144410199'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/796,199,600,180/250,/0/default.jpg
 label: Auricular Confession

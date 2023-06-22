@@ -2,24 +2,25 @@
 pid: index_2190
 volume: Volume 3
 image_number: '27'
-head: I know not
-entry: 4597 [PAGE_MISSING]
+head: lamentation
+entry: "<a href='/digital-beehive/num3/num_0678/'>539 [Lamentation]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7f6029546"
+item: "#item-bb8d2541a"
 unparsed:
-line: 'Head: I know not|Entry: 4597 [PAGE_MISSING]|#item-7f6029546'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/812,2534,556,133/full/0/default.jpg
+line: 'Head: lamentation|Entry: 539 [Lamentation]|#item-bb8d2541a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1576,420,590,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762727663
+annotation_uri: http://dev.llgc.org.uk/annotation/1559834277446
+sort_value: '302730420'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/812,2534,556,133/150,/0/default.jpg
-label: I know not
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1576,420,590,168/150,/0/default.jpg
+label: lamentation
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

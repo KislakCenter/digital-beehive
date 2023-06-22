@@ -2,24 +2,25 @@
 pid: index_0792
 volume: Volume 3
 image_number: '14'
-head: compulsion
+head: confusion
 entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1536/'>force</a>"
+see: "<a href='/digital-beehive/index1/index_1086/'>disorder</a>"
 index:
-item: "#item-f3d9c5edc"
+item: "#item-52ca7b716"
 unparsed:
-line: 'Head: compulsion|See: force|#item-f3d9c5edc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/422,1189,689,107/full/0/default.jpg
+line: 'Head: confusion|See: disorder|#item-52ca7b716'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1170,346,713,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215449631
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541087922
+sort_value: '301420346'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/422,1189,689,107/150,/0/default.jpg
-label: compulsion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1170,346,713,147/150,/0/default.jpg
+label: confusion
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

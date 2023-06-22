@@ -2,11 +2,8 @@
 pid: index_0181
 volume: Volume 3
 image_number: '8'
-head: articles of faith
-entry: "<a href='/digital-beehive/alpha1/alpha_0046/'>a</a>|<a href='/digital-beehive/num3/num_0745/'>581
-  [Articles of faith]</a>|<a href='/digital-beehive/num7/num_2590/'>1684 [Points of
-  Christian Religion]</a>|<a href='/digital-beehive/num10/num_3339/'>2367 [Articles
-  of Faith]</a>"
+head: to appease
+entry: 1864 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -14,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2e851849b"
+item: "#item-c3543d030"
 unparsed:
-line: 'Head: articles of faith|Entry: a|Entry: 581 [Articles of faith]|Entry: 1684
-  [Points of Christian Religion]|Entry: 2367 [Articles of Faith]|#item-2e851849b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1797,1608,712,178/full/0/default.jpg
+line: 'Head: to appease|Entry: 1864 [PAGE_MISSING]|#item-c3543d030'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1092,1728,535,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631547530
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760538449
+sort_value: '300821728'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1797,1608,712,178/150,/0/default.jpg
-label: articles of faith
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1092,1728,535,107/150,/0/default.jpg
+label: to appease
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_2873
 volume: Volume 3
 image_number: '34'
-head: pasture
-entry: "<a href='/digital-beehive/num4/num_1115/'>878 [Pasture]</a>|<a href='/digital-beehive/num9/num_3092/'>2151
-  [Grass & Pasture]</a>"
+head: Paracelsus
+entry: "<a href='/digital-beehive/num4/num_1300/'>974 [Paracelsus]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3192019d5"
+item: "#item-33517a234"
 unparsed:
-line: 'Head: pasture|Entry: 878 [Pasture]|Entry: 2151 [Grass & Pasture]|#item-3192019d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1803,1399,659,163/full/0/default.jpg
+line: 'Head: Paracelsus|Entry: 974 [Paracelsus]|#item-33517a234'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1134,987,622,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495251815
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492826620
+sort_value: '303420987'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1803,1399,659,163/150,/0/default.jpg
-label: pasture
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1134,987,622,147/150,/0/default.jpg
+label: Paracelsus
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

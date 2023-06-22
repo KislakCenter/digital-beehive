@@ -2,24 +2,25 @@
 pid: index_3238
 volume: Volume 3
 image_number: '38'
-head: to quench
-entry: 782 [PAGE_MISSING]
+head: purposely
+entry: "<a href='/digital-beehive/num4/num_1183/'>907 [Purposely]</a>"
 topic:
-first_letter: Q
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4b4a3949c"
+item: "#item-c4ae76f71"
 unparsed:
-line: 'Head: to quench|Entry: 782 [PAGE_MISSING]|#item-4b4a3949c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,439,521,137/full/0/default.jpg
+line: 'Head: purposely|Entry: 907 [Purposely]|#item-c4ae76f71'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/412,2101,487,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455041456
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452410214
+sort_value: '303812101'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,439,521,137/150,/0/default.jpg
-label: to quench
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/412,2101,487,169/150,/0/default.jpg
+label: purposely
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

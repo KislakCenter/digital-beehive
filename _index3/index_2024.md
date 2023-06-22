@@ -2,8 +2,9 @@
 pid: index_2024
 volume: Volume 3
 image_number: '26'
-head: Jonas
-entry: "<a href='/digital-beehive/num4/num_1149/'>891 [Jonas]</a>"
+head: inequality
+entry: "<a href='/digital-beehive/alpha3/alpha_0473/'>a</a>|<a href='/digital-beehive/num6/num_2025/'>1407
+  [Inequality]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ece687b78"
+item: "#item-556305ea4"
 unparsed:
-line: 'Head: Jonas|Entry: 891 [Jonas]|#item-ece687b78'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1843,2593,353,126/full/0/default.jpg
+line: 'Head: inequality|Entry: a|Entry: 1407 [Inequality]|#item-556305ea4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/455,621,586,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754254794
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674579865
+sort_value: '302610621'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1843,2593,353,126/150,/0/default.jpg
-label: Jonas
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/455,621,586,124/150,/0/default.jpg
+label: inequality
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

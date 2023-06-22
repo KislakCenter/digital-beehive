@@ -2,24 +2,27 @@
 pid: index_2368
 volume: Volume 3
 image_number: '29'
-head: one man ye others wolf
-entry: "<a href='/digital-beehive/num5/num_1691/'>1230 [homo homini lupus e]</a>"
+head: lust
+entry: "<a href='/digital-beehive/num6/num_2014/'>1402 [Lasciviousness]</a>"
 topic:
-first_letter: M
+first_letter: L
 page:
-add:
+add: "<a href='/digital-beehive/index1/index_0777/'>Concup</a>|<a href='/digital-beehive/index3/index_2202/'>lasciv</a>|<a
+  href='/digital-beehive/index4/index_3042/'>pleasure</a>|<a href='/digital-beehive/index2/index_1372/'>eye</a>"
 xref:
 see:
 index:
-item: "#item-235058173"
+item: "#item-510e75603"
 unparsed:
-line: 'Head: one man ye others wolf|Entry: 1230 [homo homini lupus e]|#item-235058173'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1544,1732,752,148/full/0/default.jpg
+line: 'Head: lust|Entry: 1402 [Lasciviousness]|Add: Concup|Add: lasciv|Add: pleasure|Add:
+  eye|#item-510e75603'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/851,924,646,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195306887
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185535453
+sort_value: '302920924'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1544,1732,752,148/150,/0/default.jpg
-label: one man ye others wolf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/851,924,646,184/150,/0/default.jpg
+label: lust
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

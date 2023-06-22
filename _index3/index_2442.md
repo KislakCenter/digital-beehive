@@ -2,9 +2,8 @@
 pid: index_2442
 volume: Volume 3
 image_number: '30'
-head: metal
-entry: "<a href='/digital-beehive/alpha3/alpha_0592/'>a</a>|<a href='/digital-beehive/num5/num_1586/'>1164
-  [Metal]</a>"
+head: masquerade
+entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-23e8695a7"
+item: "#item-7a4a4f18b"
 unparsed:
-line: 'Head: metal|Entry: a|Entry: 1164 [Metal]|#item-23e8695a7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1836,203,510,98/full/0/default.jpg
+line: 'Head: masquerade|Entry: 129 [Vizard]|#item-7a4a4f18b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/412,1491,564,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273111054
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263864447
+sort_value: '303011491'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1836,203,510,98/150,/0/default.jpg
-label: metal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/412,1491,564,121/150,/0/default.jpg
+label: masquerade
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

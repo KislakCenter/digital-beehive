@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0788/'>Refusal</a>|<a href='/digital-beehive/alpha4/alpha_0853/'>Selfdenial</a>|<a
   href='/digital-beehive/num6/num_2172/'>1475 [Denial]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1000/'>denial</a>"
+index: "<a href='/digital-beehive/index1/index_1009/'>denial</a>"
 item: "#item-7347a1409"
 unparsed:
 line: 'Entry: Denial|Topic: Denial|Xref: Refusal|Xref: Selfdenial|Xref: 1475 [Denial]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Denial|Topic: Denial|Xref: Refusal|Xref: Selfdenial|Xref: 1475 [De
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/376,848,3051,532/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507922410702
+sort_value: '144910848'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/376,848,600,180/250,/0/default.jpg
 label: Denial

@@ -2,24 +2,25 @@
 pid: index_0522
 volume: Volume 3
 image_number: '11'
-head: to bring in
-entry: "<a href='/digital-beehive/num7/num_2554/'>1666 [To bring in]</a>"
+head: I can not
+entry: 4597 [PAGE_MISSING]
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-8d28bbe14"
+item: "#item-7c30b188a"
 unparsed:
-line: 'Head: to bring in|Entry: 1666 [To bring in]|#item-8d28bbe14'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/157,2946,570,154/full/0/default.jpg
+line: 'Head: I can not|Entry: 4597 [PAGE_MISSING]|#item-7c30b188a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1577,1651,459,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419873834
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495123983
+sort_value: '301131651'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/157,2946,570,154/150,/0/default.jpg
-label: to bring in
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1577,1651,459,98/150,/0/default.jpg
+label: I can not
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,9 @@
 pid: index_3033
 volume: Volume 3
 image_number: '35'
-head: physicians Names
-entry: "<a href='/digital-beehive/num9/num_3172/'>2228 [Noia Medicorum]</a>"
+head: planets
+entry: "<a href='/digital-beehive/alpha4/alpha_0715/'>a</a>|<a href='/digital-beehive/num6/num_2041/'>1414
+  [Seven Planets]</a>|1874 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c8af6cb5e"
+item: "#item-95ee194f5"
 unparsed:
-line: 'Head: physicians Names|Entry: 2228 [Noia Medicorum]|#item-c8af6cb5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/839,3464,722,165/full/0/default.jpg
+line: 'Head: planets|Entry: a|Entry: 1414 [Seven Planets]|Entry: 1874 [PAGE_MISSING]|#item-95ee194f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1500,3346,724,198/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975725437
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977283981
+sort_value: '303533346'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/839,3464,722,165/150,/0/default.jpg
-label: physicians Names
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1500,3346,724,198/150,/0/default.jpg
+label: planets
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

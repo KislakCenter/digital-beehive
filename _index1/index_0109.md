@@ -2,8 +2,10 @@
 pid: index_0109
 volume: Volume 3
 image_number: '7'
-head: amazons
-entry: "<a href='/digital-beehive/num7/num_2268/'>1529 [Amazones]</a>"
+head: alms
+entry: "<a href='/digital-beehive/alpha1/alpha_0022/'>a</a>|<a href='/digital-beehive/num3/num_0662/'>528
+  [Alms]</a>|<a href='/digital-beehive/num6/num_2144/'>1461 [Alms]</a>|<a href='/digital-beehive/num7/num_2658/'>1732
+  [Alms]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +13,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a56e24a20"
+item: "#item-e604f4a73"
 unparsed:
-line: 'Head: amazons|Entry: 1529 [Amazones]|#item-a56e24a20'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1579,3129,513,135/full/0/default.jpg
+line: 'Head: alms|Entry: a|Entry: 528 [Alms]|Entry: 1461 [Alms]|Entry: 1732 [Alms]|#item-e604f4a73'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1597,2190,711,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564771085742
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770351719
+sort_value: '300732190'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1579,3129,513,135/150,/0/default.jpg
-label: amazons
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1597,2190,711,122/150,/0/default.jpg
+label: alms
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

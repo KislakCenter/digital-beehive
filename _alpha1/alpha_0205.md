@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0489/'>399 [Jailer]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0867/'>custody</a>"
+index: "<a href='/digital-beehive/index1/index_0931/'>custody</a>"
 item: "#item-467fa12a2"
 unparsed:
 line: 'Entry: Custody|Topic: Custody|Xref: 399 [Jailer]|Index: custody|#item-467fa12a2'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/353,1181,3063,365/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499786316734
+sort_value: '144711181'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/353,1181,600,180/250,/0/default.jpg
 label: Custody

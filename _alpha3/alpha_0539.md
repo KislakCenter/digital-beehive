@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0094/'>Book</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2292/'>library</a>"
+index: "<a href='/digital-beehive/index3/index_2277/'>library</a>"
 item: "#item-ae386080e"
 unparsed:
 line: 'Entry: Library|Topic: Library|Xref: Book|Index: library|#item-ae386080e'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/779,490,3011,546/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564769113549
+sort_value: '202810490'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/779,490,600,180/250,/0/default.jpg
 label: Library

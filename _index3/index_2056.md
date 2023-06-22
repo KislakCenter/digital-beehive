@@ -2,8 +2,9 @@
 pid: index_2056
 volume: Volume 3
 image_number: '26'
-head: infant killing
-entry: "<a href='/digital-beehive/alpha3/alpha_0474/'>a</a>"
+head: inquisition
+entry: "<a href='/digital-beehive/num2/num_0491/'>400 [Inquisition]</a>|<a href='/digital-beehive/num7/num_2312/'>1551
+  [Inquisitors]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a73f077c1"
+item: "#item-df1a6b97d"
 unparsed:
-line: 'Head: infant killing|Entry: a|#item-a73f077c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/440,1275,469,173/full/0/default.jpg
+line: 'Head: inquisition|Entry: 400 [Inquisition]|Entry: 1551 [Inquisitors]|#item-df1a6b97d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1163,481,620,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744168230
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747288605
+sort_value: '302620481'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/440,1275,469,173/150,/0/default.jpg
-label: infant killing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1163,481,620,162/150,/0/default.jpg
+label: inquisition
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

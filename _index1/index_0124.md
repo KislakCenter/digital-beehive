@@ -2,8 +2,8 @@
 pid: index_0124
 volume: Volume 3
 image_number: '8'
-head: any
-entry: 4726 [PAGE_MISSING]
+head: amen
+entry: "<a href='/digital-beehive/num2/num_0621/'>495 [Yes]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3f471ea0b"
+item: "#item-5f45773ab"
 unparsed:
-line: 'Head: any|Entry: 4726 [PAGE_MISSING]|#item-3f471ea0b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1118,330,323,91/full/0/default.jpg
+line: 'Head: amen|Entry: 495 [Yes]|#item-5f45773ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/384,216,420,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759477790
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757519205
+sort_value: '300810216'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1118,330,323,91/150,/0/default.jpg
-label: any
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/384,216,420,151/150,/0/default.jpg
+label: amen
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,28 +2,29 @@
 pid: index_4650
 volume: Volume 3
 image_number: '53'
-head: wormwood
-entry: "<a href='/digital-beehive/num3/num_0993/'>693 [Wormwood]</a>"
+head: the young of beasts
+entry: "<a href='/digital-beehive/num5/num_1428/'>1061 [Chickens]</a>"
 topic:
-first_letter: W
+first_letter: Y
 page:
 add:
 xref:
 see:
 index:
-item: "#item-22055d9e0"
+item: "#item-384aa512d"
 unparsed:
-line: 'Head: wormwood|Entry: 693 [Wormwood]|#item-22055d9e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/848,3292,409,108/full/0/default.jpg
+line: 'Head: the young of beasts|Entry: 1061 [Chickens]|#item-384aa512d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1578,2693,694,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797583751
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799474919
+sort_value: '305332693'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/848,3292,409,108/150,/0/default.jpg
-label: wormwood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1578,2693,694,136/150,/0/default.jpg
+label: the young of beasts
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '613'
+order: '612'
 layout: index_item
 collection: index5
 ---

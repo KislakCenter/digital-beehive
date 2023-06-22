@@ -2,24 +2,25 @@
 pid: index_1598
 volume: Volume 3
 image_number: '22'
-head: gourd
-entry: 828 [PAGE_MISSING]
+head: geography
+entry:
 topic:
 first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0863/'>Cosmography</a>"
 index:
-item: "#item-2310bc5d5"
+item: "#item-efe5a2466"
 unparsed:
-line: 'Head: gourd|Entry: 828 [PAGE_MISSING]|#item-2310bc5d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1812,1121,400,129/full/0/default.jpg
+line: 'Head: geography|See: Cosmography|#item-efe5a2466'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/432,855,746,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052467409
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042331699
+sort_value: '302210855'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1812,1121,400,129/150,/0/default.jpg
-label: gourd
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/432,855,746,152/150,/0/default.jpg
+label: geography
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

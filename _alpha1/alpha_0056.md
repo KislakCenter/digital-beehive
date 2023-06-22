@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index1/index_0284/'>banner</a>"
+index: "<a href='/digital-beehive/index1/index_0285/'>banner</a>"
 item: "#item-57a7dbde7"
 unparsed:
 line: 'Entry: Banner|Topic: Banner|Index: banner|#item-57a7dbde7'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/312,772,3091,382/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558807454165
+sort_value: '143510772'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/312,772,600,180/250,/0/default.jpg
 label: Banner

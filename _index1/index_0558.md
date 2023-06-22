@@ -2,27 +2,29 @@
 pid: index_0558
 volume: Volume 3
 image_number: '12'
-head: "[:33.]"
-entry:
+head: cat
+entry: "<a href='/digital-beehive/alpha1/alpha_0127/'>a</a>|<a href='/digital-beehive/num8/num_2692/'>1761
+  [Cat]</a>"
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-3600e4f41"
-unparsed: 'Type: Index|Insertion Xref: [:33.]|#item-3600e4f41'
-line: 'Type: Index|Insertion Xref: [:33.]|#item-3600e4f41'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/2369,3576,169,150/full/0/default.jpg
+item: "#item-ee77e9e0a"
+unparsed:
+line: 'Head: cat|Page: p.34 [Image 1.94]|Entry: a|Entry: 1761 [Cat]|#item-ee77e9e0a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,2113,599,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275645704
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098164302
+sort_value: '301212113'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/2369,3576,169,150/150,/0/default.jpg
-label: "[:33.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,2113,599,131/150,/0/default.jpg
+label: cat
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4693/'>Christ's absence</a>"
+insertion_xref:
 order: '0557'
 layout: index_item
 collection: index1

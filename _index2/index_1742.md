@@ -2,8 +2,8 @@
 pid: index_1742
 volume: Volume 3
 image_number: '23'
-head: hardship
-entry: "<a href='/digital-beehive/num6/num_1798/'>1290 [Difficulty]</a>"
+head: ham[m]er
+entry: 756 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f3f17b099"
+item: "#item-2be0592a2"
 unparsed:
-line: 'Head: hardship|Entry: 1290 [Difficulty]|#item-f3f17b099'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,1468,456,129/full/0/default.jpg
+line: 'Head: ham[m]er|Entry: 756 [PAGE_MISSING]|#item-2be0592a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/848,459,356,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239683896
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238185375
+sort_value: '302320459'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,1468,456,129/150,/0/default.jpg
-label: hardship
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/848,459,356,99/150,/0/default.jpg
+label: ham[m]er
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

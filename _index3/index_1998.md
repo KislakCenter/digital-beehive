@@ -2,8 +2,8 @@
 pid: index_1998
 volume: Volume 3
 image_number: '25'
-head: indeed
-entry: "<a href='/digital-beehive/num6/num_2059/'>1422 [In (very) Deed]</a>"
+head: incom[m]odity
+entry: 743 [PAGE_MISSING]
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-fae32567a"
+item: "#item-30e7b4d12"
 unparsed:
-line: 'Head: indeed|Entry: 1422 [In (very) Deed]|#item-fae32567a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1554,2686,430,94/full/0/default.jpg
+line: 'Head: incom[m]odity|Entry: 743 [PAGE_MISSING]|#item-30e7b4d12'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,1246,531,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672636359
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670923273
+sort_value: '302531246'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1554,2686,430,94/150,/0/default.jpg
-label: indeed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,1246,531,146/150,/0/default.jpg
+label: incom[m]odity
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

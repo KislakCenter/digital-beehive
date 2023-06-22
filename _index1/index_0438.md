@@ -2,24 +2,25 @@
 pid: index_0438
 volume: Volume 3
 image_number: '11'
-head: cacao
-entry: "<a href='/digital-beehive/num7/num_2274/'>1530 [Cacao]</a>"
+head: brass
+entry: 1881 [PAGE_MISSING]
 topic:
-first_letter: C
+first_letter: B
 page:
 add:
 xref:
 see:
 index:
-item: "#item-bf4a0a009"
+item: "#item-941c4417b"
 unparsed:
-line: 'Head: cacao|Entry: 1530 [Cacao]|#item-bf4a0a009'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1565,262,414,89/full/0/default.jpg
+line: 'Head: brass|Entry: 1881 [PAGE_MISSING]|#item-941c4417b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/179,705,331,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494044908
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417740733
+sort_value: '301110705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1565,262,414,89/150,/0/default.jpg
-label: cacao
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/179,705,331,122/150,/0/default.jpg
+label: brass
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

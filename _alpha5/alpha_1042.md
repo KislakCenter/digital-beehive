@@ -11,13 +11,14 @@ add:
 xref: "<a href='/digital-beehive/num6/num_1837/'>1316 [Laplanders]</a>|<a href='/digital-beehive/num6/num_1763/'>1271
   [Wind]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4553/'>wind</a>"
+index: "<a href='/digital-beehive/index5/index_4557/'>wind</a>"
 item: "#item-e4ac066b8"
 unparsed:
 line: 'Entry: Wind|Topic: Wind|Xref: 1316 [Laplanders]|Xref: 1271 [Wind]|Index: wind|#item-e4ac066b8'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/330,616,3056,412/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529591802129
+sort_value: '206510616'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/330,616,600,180/250,/0/default.jpg
 label: Wind

@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1648/'>1208 [Bees]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0314/'>bee</a>"
+index: "<a href='/digital-beehive/index1/index_0332/'>bee</a>"
 item: "#item-1f801aabb"
 unparsed:
 line: 'Entry: Bee|Topic: Bee|Xref: 1208 [Bees]|Index: bee|#item-1f801aabb'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/875,1000,2901,410/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744156107
+sort_value: '143611000'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/875,1000,600,180/250,/0/default.jpg
 label: Bee

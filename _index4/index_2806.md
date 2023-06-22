@@ -2,25 +2,26 @@
 pid: index_2806
 volume: Volume 3
 image_number: '33'
-head: organs
-entry: 4719 [PAGE_MISSING]
+head: opinion
+entry: "<a href='/digital-beehive/alpha4/alpha_0668/'>a</a>|<a href='/digital-beehive/num5/num_1376/'>1029
+  [Opinion]</a>"
 topic:
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>|<a href='/digital-beehive/toc/toc1_089/'>p.39
-  [Image 1.99]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-0e4f9b94f"
+item: "#item-5c930db8c"
 unparsed:
-line: 'Head: organs|Page: p.4 [Image 1.64]|Page: p.39 [Image 1.99]|Entry: 4719 [PAGE_MISSING]|#item-0e4f9b94f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1503,2593,717,153/full/0/default.jpg
+line: 'Head: opinion|Entry: a|Entry: 1029 [Opinion]|#item-5c930db8c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1516,630,620,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538163492888
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161354330
+sort_value: '303330630'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1503,2593,717,153/150,/0/default.jpg
-label: organs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1516,630,620,151/150,/0/default.jpg
+label: opinion
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -17,6 +17,7 @@ line: 'Head: begging the question|Entry: 270 [Begging the Question]|#item-818e2b
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1589,3499,677,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531146373687
+sort_value: '300933499'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1589,3499,677,122/150,/0/default.jpg
 label: begging the question

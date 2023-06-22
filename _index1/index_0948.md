@@ -2,11 +2,8 @@
 pid: index_0948
 volume: Volume 3
 image_number: '15'
-head: death
-entry: "<a href='/digital-beehive/alpha1/alpha_0213/'>a</a>|<a href='/digital-beehive/num3/num_0638/'>507
-  [Death passed upon all men]</a>|<a href='/digital-beehive/num5/num_1588/'>1166 [Death]</a>|<a
-  href='/digital-beehive/num5/num_1724/'>1247 [Death]</a>|<a href='/digital-beehive/num10/num_3363/'>2391
-  [Death]</a>"
+head: darling
+entry: 796 [PAGE_MISSING]|1870 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -14,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-725443b1e"
+item: "#item-dc581f8d6"
 unparsed:
-line: 'Head: death|Entry: a|Entry: 507 [Death passed upon all men]|Entry: 1166 [Death]|Entry:
-  1247 [Death]|Entry: 2391 [Death]|#item-725443b1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1418,2857,865,208/full/0/default.jpg
+line: 'Head: darling|Entry: 796 [PAGE_MISSING]|Entry: 1870 [PAGE_MISSING]|#item-dc581f8d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1548,1585,603,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507322361555
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391264195
+sort_value: '301531585'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1418,2857,865,208/150,/0/default.jpg
-label: death
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1548,1585,603,120/150,/0/default.jpg
+label: darling
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0946'
+order: '0947'
 layout: index_item
 collection: index1
 ---

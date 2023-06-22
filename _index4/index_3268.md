@@ -2,24 +2,25 @@
 pid: index_3268
 volume: Volume 3
 image_number: '38'
-head: ravenous birds
-entry: "<a href='/digital-beehive/num6/num_1911/'>1351 [a Kite : a Hawk]</a>"
+head: quince
+entry: "<a href='/digital-beehive/num8/num_2707/'>1776 [Quince]</a>"
 topic:
-first_letter: R
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c4fe547bc"
+item: "#item-fba8a7d9b"
 unparsed:
-line: 'Head: ravenous birds|Entry: 1351 [a Kite : a Hawk]|#item-c4fe547bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1818,1419,654,201/full/0/default.jpg
+line: 'Head: quince|Entry: 1776 [Quince]|#item-fba8a7d9b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1184,1681,363,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461151105
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455320537
+sort_value: '303821681'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1818,1419,654,201/150,/0/default.jpg
-label: ravenous birds
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1184,1681,363,113/150,/0/default.jpg
+label: quince
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

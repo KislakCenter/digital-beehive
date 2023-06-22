@@ -2,26 +2,25 @@
 pid: index_2844
 volume: Volume 3
 image_number: '34'
-head: passive obed
-entry: "<a href='/digital-beehive/num9/num_3132/'>2189 [Passive Obedience & non resistance]</a>|4626
-  [PAGE_MISSING]"
+head: out
+entry: "<a href='/digital-beehive/num3/num_0981/'>688 [Out]</a>"
 topic:
-first_letter: P
+first_letter: O
 page:
 add:
 xref:
 see:
 index:
-item: "#item-dc60fc9ce"
+item: "#item-dfd2e1cdb"
 unparsed:
-line: 'Head: passive obed|Entry: 2189 [Passive Obedience & non resistance]|Entry:
-  4626 [PAGE_MISSING]|#item-dc60fc9ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1823,422,715,200/full/0/default.jpg
+line: 'Head: out|Entry: 688 [Out]|#item-dfd2e1cdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,1397,481,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494978487
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425337953
+sort_value: '303411397'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1823,422,715,200/150,/0/default.jpg
-label: passive obed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,1397,481,141/150,/0/default.jpg
+label: out
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

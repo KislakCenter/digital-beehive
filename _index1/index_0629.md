@@ -2,9 +2,8 @@
 pid: index_0629
 volume: Volume 3
 image_number: '12'
-head: change
-entry: "<a href='/digital-beehive/alpha1/alpha_0138/'>a</a>|<a href='/digital-beehive/num6/num_1757/'>1268
-  [Change]</a>"
+head: chiefly
+entry: "<a href='/digital-beehive/num3/num_1015/'>702 [Chiefly]</a>"
 topic:
 first_letter: C
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5000e9d07"
+item: "#item-2c5bd1bd9"
 unparsed:
-line: 'Head: change|Entry: a|Entry: 1268 [Change]|#item-5000e9d07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1133,2893,545,151/full/0/default.jpg
+line: 'Head: chiefly|Entry: 702 [Chiefly]|#item-2c5bd1bd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1822,1949,483,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532442515925
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460666705
+sort_value: '301231949'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1133,2893,545,151/150,/0/default.jpg
-label: change
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1822,1949,483,134/150,/0/default.jpg
+label: chiefly
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

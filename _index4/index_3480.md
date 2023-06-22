@@ -2,24 +2,25 @@
 pid: index_3480
 volume: Volume 3
 image_number: '40'
-head: righteous
-entry: "<a href='/digital-beehive/num2/num_0367/'>319 [Righteous]</a>"
+head: Sacheverell
+entry: "<a href='/digital-beehive/num7/num_2577/'>1677 [Sacheverell]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c1086557f"
+item: "#item-5eb4e541c"
 unparsed:
-line: 'Head: righteous|Entry: 319 [Righteous]|#item-c1086557f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/401,2328,549,120/full/0/default.jpg
+line: 'Head: Sacheverell|Entry: 1677 [Sacheverell]|#item-5eb4e541c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1811,1379,597,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232103084
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234691757
+sort_value: '304031379'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/401,2328,549,120/150,/0/default.jpg
-label: righteous
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1811,1379,597,132/150,/0/default.jpg
+label: Sacheverell
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

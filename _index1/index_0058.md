@@ -2,9 +2,9 @@
 pid: index_0058
 volume: Volume 3
 image_number: '7'
-head: alliance
-entry: "<a href='/digital-beehive/alpha1/alpha_0020/'>a</a>|<a href='/digital-beehive/num6/num_1977/'>1384
-  [Alliance]</a>|4503 [PAGE_MISSING]"
+head: affections
+entry: "<a href='/digital-beehive/alpha1/alpha_0012/'>a</a>|<a href='/digital-beehive/num5/num_1620/'>1187
+  [Affections]</a>"
 topic:
 first_letter: A
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f541d0d4f"
+item: "#item-ef17e84d9"
 unparsed:
-line: 'Head: alliance|Entry: a|Entry: 1384 [Alliance]|Entry: 4503 [PAGE_MISSING]|#item-f541d0d4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1595,1606,688,116/full/0/default.jpg
+line: 'Head: affections|Entry: a|Entry: 1187 [Affections]|#item-ef17e84d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/896,1511,547,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769779596
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766204750
+sort_value: '300721511'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1595,1606,688,116/150,/0/default.jpg
-label: alliance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/896,1511,547,150/150,/0/default.jpg
+label: affections
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3091
 volume: Volume 3
 image_number: '36'
-head: post Script
-entry: "<a href='/digital-beehive/num7/num_2368/'>1579 [Post Script]</a>"
+head: posture
+entry: 777 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9d98bc259"
+item: "#item-8f45dcd9e"
 unparsed:
-line: 'Head: post Script|Entry: 1579 [Post Script]|#item-9d98bc259'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1128,1958,573,161/full/0/default.jpg
+line: 'Head: posture|Entry: 777 [PAGE_MISSING]|#item-8f45dcd9e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1170,2441,500,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438883131
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439060317
+sort_value: '303622441'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1128,1958,573,161/150,/0/default.jpg
-label: post Script
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1170,2441,500,184/150,/0/default.jpg
+label: posture
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

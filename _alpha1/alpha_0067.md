@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2147/'>1462 [Beard]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0283/'>beard</a>"
+index: "<a href='/digital-beehive/index1/index_0318/'>beard</a>"
 item: "#item-f6031a9ca"
 unparsed:
 line: 'Entry: Beard|Topic: Beard|Xref: 1462 [Beard]|Index: beard|#item-f6031a9ca'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/395,4553,3046,283/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558810036446
+sort_value: '143514553'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/395,4553,600,180/250,/0/default.jpg
 label: Beard

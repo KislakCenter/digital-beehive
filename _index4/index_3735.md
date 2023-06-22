@@ -2,8 +2,8 @@
 pid: index_3735
 volume: Volume 3
 image_number: '43'
-head: skin
-entry: "<a href='/digital-beehive/alpha4/alpha_0888/'>a</a>"
+head: sive
+entry: "<a href='/digital-beehive/num3/num_1004/'>698 [Sive]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e96db6994"
+item: "#item-f4eb83dfe"
 unparsed:
-line: 'Head: skin|Entry: a|#item-e96db6994'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/866,1558,340,142/full/0/default.jpg
+line: 'Head: sive|Entry: 698 [Sive]|#item-f4eb83dfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/864,1066,403,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583405054
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583070811
+sort_value: '304321066'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/866,1558,340,142/150,/0/default.jpg
-label: skin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/864,1066,403,116/150,/0/default.jpg
+label: sive
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

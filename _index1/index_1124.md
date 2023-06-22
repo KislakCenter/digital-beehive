@@ -2,8 +2,8 @@
 pid: index_1124
 volume: Volume 3
 image_number: '17'
-head: disordinate love
-entry: "<a href='/digital-beehive/num10/num_3434/'>4454 [Disordinate Love]</a>"
+head: doctrine false
+entry: "<a href='/digital-beehive/num2/num_0452/'>373 [Heterodox]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-4868783dc"
+item: "#item-45ffef8e6"
 unparsed:
-line: 'Head: disordinate love|Entry: 4454 [Disordinate Love]|#item-4868783dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,2141,678,84/full/0/default.jpg
+line: 'Head: doctrine false|Entry: 373 [Heterodox]|#item-45ffef8e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/797,2713,464,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804273327
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367058287
+sort_value: '301722713'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,2141,678,84/150,/0/default.jpg
-label: disordinate love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/797,2713,464,137/150,/0/default.jpg
+label: doctrine false
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1122'
+order: '1123'
 layout: index_item
 collection: index1
 ---

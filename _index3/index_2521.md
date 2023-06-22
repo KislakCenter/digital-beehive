@@ -2,8 +2,9 @@
 pid: index_2521
 volume: Volume 3
 image_number: '30'
-head: means
-entry: "<a href='/digital-beehive/num1/num_0180/'>172 [Means]</a>|4703 [PAGE_MISSING]"
+head: mine. minerals
+entry: "<a href='/digital-beehive/alpha3/alpha_0598/'>a</a>|<a href='/digital-beehive/num9/num_3095/'>2154
+  [Mineral]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c49d06113"
+item: "#item-4844f4227"
 unparsed:
-line: 'Head: means|Entry: 172 [Means]|Entry: 4703 [PAGE_MISSING]|#item-c49d06113'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/423,3015,558,87/full/0/default.jpg
+line: 'Head: mine. minerals|Entry: a|Entry: 2154 [Mineral]|#item-4844f4227'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,2248,643,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265859166
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274415273
+sort_value: '303032248'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/423,3015,558,87/150,/0/default.jpg
-label: means
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,2248,643,137/150,/0/default.jpg
+label: mine. minerals
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

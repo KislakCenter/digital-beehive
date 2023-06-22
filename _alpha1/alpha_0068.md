@@ -11,13 +11,14 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0131/'>Cattel</a>|<a href='/digital-beehive/num5/num_1616/'>1185
   [Beasts]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0287/'>beast</a>"
+index: "<a href='/digital-beehive/index1/index_0319/'>beast</a>"
 item: "#item-ed5341113"
 unparsed:
 line: 'Entry: Beast|Topic: Beast|Xref: Cattel|Xref: 1185 [Beasts]|Index: beast|#item-ed5341113'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/425,4784,3014,252/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558810100380
+sort_value: '143514784'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/425,4784,600,180/250,/0/default.jpg
 label: Beast

@@ -2,29 +2,32 @@
 pid: index_4345
 volume: Volume 3
 image_number: '49'
-head: tyranny
-entry: "<a href='/digital-beehive/alpha5/alpha_0990/'>a</a>|<a href='/digital-beehive/num5/num_1650/'>1209
-  [Tyran[n]y]</a>"
+head: day of Visitn
+entry: "<a href='/digital-beehive/alpha5/alpha_1002/'>a</a>|<a href='/digital-beehive/num6/num_1771/'>1276
+  [Day of Visitation]</a>|<a href='/digital-beehive/num10/num_3374/'>2402 [Day of
+  Visitation]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5f1b992c8"
+item: "#item-ac3777a9d"
 unparsed:
-line: 'Head: tyranny|Entry: a|Entry: 1209 [Tyran[n]y]|#item-5f1b992c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/232,3401,603,139/full/0/default.jpg
+line: 'Head: day of Visitn|Entry: a|Entry: 1276 [Day of Visitation]|Entry: 2402 [Day
+  of Visitation]|#item-ac3777a9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,3031,645,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657336254
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661438971
+sort_value: '304933031'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/232,3401,603,139/150,/0/default.jpg
-label: tyranny
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,3031,645,175/150,/0/default.jpg
+label: day of Visitn
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '308'
+order: '307'
 layout: index_item
 collection: index5
 ---

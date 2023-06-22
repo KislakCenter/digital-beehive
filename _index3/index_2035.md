@@ -2,25 +2,25 @@
 pid: index_2035
 volume: Volume 3
 image_number: '26'
-head: inquisition
-entry: "<a href='/digital-beehive/num2/num_0491/'>400 [Inquisition]</a>|<a href='/digital-beehive/num7/num_2312/'>1551
-  [Inquisitors]</a>"
+head: infirmeries
+entry:
 topic:
 first_letter: I/J
-page:
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-df1a6b97d"
+item: "#item-2d26819c8"
 unparsed:
-line: 'Head: inquisition|Entry: 400 [Inquisition]|Entry: 1551 [Inquisitors]|#item-df1a6b97d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1163,481,620,162/full/0/default.jpg
+line: 'Head: infirmeries|Page: p.4 [Image 1.64]|#item-2d26819c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/446,1795,484,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747288605
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744399838
+sort_value: '302611795'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1163,481,620,162/150,/0/default.jpg
-label: inquisition
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/446,1795,484,136/150,/0/default.jpg
+label: infirmeries
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

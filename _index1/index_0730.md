@@ -2,8 +2,8 @@
 pid: index_0730
 volume: Volume 3
 image_number: '13'
-head: common opinion
-entry: "<a href='/digital-beehive/num1/num_0098/'>95 [a Vulgar Spirited man]</a>"
+head: comely
+entry: 731 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-cd28e796e"
+item: "#item-62bd5d064"
 unparsed:
-line: 'Head: common opinion|Entry: 95 [a Vulgar Spirited man]|#item-cd28e796e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1546,2744,502,111/full/0/default.jpg
+line: 'Head: comely|Entry: 731 [PAGE_MISSING]|#item-62bd5d064'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1554,1263,420,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536612296703
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610617396
+sort_value: '301331263'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1546,2744,502,111/150,/0/default.jpg
-label: common opinion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1554,1263,420,105/150,/0/default.jpg
+label: comely
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

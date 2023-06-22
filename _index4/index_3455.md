@@ -2,27 +2,27 @@
 pid: index_3455
 volume: Volume 3
 image_number: '40'
-head: sack cloath
-entry: "<a href='/digital-beehive/num10/num_3474/'>4487 [Sackcloth]</a>"
+head: to rost
+entry: "<a href='/digital-beehive/num8/num_2781/'>1899 [To Rost]</a>"
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5347cee38"
+item: "#item-4714337d6"
 unparsed:
-line: 'Head: sack cloath|Entry: 4487 [Sackcloth]|#item-5347cee38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1793,1454,674,105/full/0/default.jpg
+line: 'Head: to rost|Entry: 1899 [To Rost]|#item-4714337d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1153,1968,430,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234723858
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233692513
+sort_value: '304021968'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1793,1454,674,105/150,/0/default.jpg
-label: sack cloath
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1153,1968,430,93/150,/0/default.jpg
+label: to rost
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: Pastorius appears to have written 1487 under this entry. However, he likely
-  meant to write 4487 [Sackcloth].
+issue:
 insertion_xref:
 order: '0703'
 layout: index_item

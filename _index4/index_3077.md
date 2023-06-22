@@ -2,25 +2,25 @@
 pid: index_3077
 volume: Volume 3
 image_number: '36'
-head: preaching
-entry: "<a href='/digital-beehive/alpha4/alpha_0730/'>a</a>|<a href='/digital-beehive/num3/num_0644/'>512
-  [Preaching]</a>|<a href='/digital-beehive/num8/num_2892/'>1967 [Preaching]</a>"
+head: pork
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1852/'>hog</a>"
 index:
-item: "#item-b38545441"
+item: "#item-c4ff263ac"
 unparsed:
-line: 'Head: preaching|Entry: a|Entry: 512 [Preaching]|Entry: 1967 [Preaching]|#item-b38545441'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1884,1456,685,139/full/0/default.jpg
+line: 'Head: pork|See: hog|#item-c4ff263ac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1197,1134,466,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440217986
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438519516
+sort_value: '303621134'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1884,1456,685,139/150,/0/default.jpg
-label: preaching
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1197,1134,466,155/150,/0/default.jpg
+label: pork
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

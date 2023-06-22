@@ -2,28 +2,29 @@
 pid: index_4681
 volume: Volume 3
 image_number: '54'
-head: "·ºÄŒΩŒ¥œÅœâœÄŒøœÄŒ±Œ¥·ø∂œÇ"
-entry: "<a href='/digital-beehive/num3/num_1077/'>725 [Catachresis]</a>"
+head: calamity
+entry:
 topic:
 first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2538/'>misery</a>"
 index:
-item: "#item-fa717f87e"
-unparsed: Type Index|Insertion [:30.]
-line: 'Type: Index|Insertion: [:30.]|Head: ·ºÄŒΩŒ¥œÅœâœÄŒøœÄŒ±Œ¥·ø∂œÇ|Entry: 725 [Catachresis]|#item-fa717f87e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1060,1011,727,158/full/0/default.jpg
+item: "#item-47531e746"
+unparsed: Type Index|Insertion [:17.]
+line: 'Type: Index|Insertion: [:17.]|Head: calamity|See: misery|#item-47531e746'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/454,2645,552,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560954192616
-insertion: "[:30.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1060,1011,727,158/150,/0/default.jpg
-label: "·ºÄŒΩŒ¥œÅœâœÄŒøœÄŒ±Œ¥·ø∂œÇ"
+annotation_uri: http://dev.llgc.org.uk/annotation/1560884948643
+sort_value: '305412645'
+insertion: "[:17.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/454,2645,552,109/150,/0/default.jpg
+label: calamity
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '644'
+order: '643'
 layout: index_item
 collection: index5
 ---

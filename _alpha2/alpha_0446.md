@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index2/index_1826/'>husk</a>"
+index: "<a href='/digital-beehive/index2/index_1912/'>husk</a>"
 item: "#item-ebebddc38"
 unparsed:
 line: 'Entry: Husk|Topic: Husk|Index: husk|#item-ebebddc38'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/741,3607,834,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1509734137740
+sort_value: '202013607'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/741,3607,600,180/250,/0/default.jpg
 label: Husk

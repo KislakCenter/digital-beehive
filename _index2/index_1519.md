@@ -2,9 +2,9 @@
 pid: index_1519
 volume: Volume 3
 image_number: '21'
-head: further
-entry: "<a href='/digital-beehive/num3/num_0808/'>609 [Further]</a>|<a href='/digital-beehive/num6/num_2055/'>1420
-  [Secondly]</a>"
+head: fort
+entry: "<a href='/digital-beehive/alpha2/alpha_0345/'>a</a>|<a href='/digital-beehive/num2/num_0338/'>298
+  [Fortress]</a>"
 topic:
 first_letter: F
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1d105e62f"
+item: "#item-e56a26260"
 unparsed:
-line: 'Head: further|Entry: 609 [Further]|Entry: 1420 [Secondly]|#item-1d105e62f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1546,1391,659,152/full/0/default.jpg
+line: 'Head: fort|Entry: a|Entry: 298 [Fortress]|#item-e56a26260'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/171,3482,468,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786198212
+annotation_uri: http://dev.llgc.org.uk/annotation/1531762744756
+sort_value: '302113482'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1546,1391,659,152/150,/0/default.jpg
-label: further
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/171,3482,468,142/150,/0/default.jpg
+label: fort
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

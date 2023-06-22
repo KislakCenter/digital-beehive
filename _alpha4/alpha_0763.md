@@ -14,7 +14,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0764/'>Punishment, continued</a>|<
   [Impunity]</a>|<a href='/digital-beehive/alpha1/alpha_0120/'>Capital Offence</a>|1113
   [Punishment]"
 see:
-index: "<a href='/digital-beehive/index4/index_3257/'>punishmt</a>"
+index: "<a href='/digital-beehive/index4/index_3228/'>punishmt</a>"
 item: "#item-79ffc5944"
 unparsed:
 line: 'Entry: Punishment|Topic: Punishment|Xref: Punishment, continued|Xref: Discipline|Xref:
@@ -23,6 +23,7 @@ line: 'Entry: Punishment|Topic: Punishment|Xref: Punishment, continued|Xref: Dis
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/728,4385,3038,699/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565102296284
+sort_value: '204414385'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/728,4385,600,180/250,/0/default.jpg
 label: Punishment

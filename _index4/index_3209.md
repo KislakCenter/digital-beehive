@@ -2,24 +2,25 @@
 pid: index_3209
 volume: Volume 3
 image_number: '37'
-head: to prune
-entry: "<a href='/digital-beehive/num3/num_0906/'>659 [Purge]</a>"
+head: proud
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3151/'>pride</a>"
 index:
-item: "#item-2c930b0ba"
+item: "#item-92bcf0e17"
 unparsed:
-line: 'Head: to prune|Entry: 659 [Purge]|#item-2c930b0ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1464,3033,479,130/full/0/default.jpg
+line: 'Head: proud|See: pride|#item-92bcf0e17'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1476,2297,525,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869757186
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869546668
+sort_value: '303732297'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1464,3033,479,130/150,/0/default.jpg
-label: to prune
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1476,2297,525,119/150,/0/default.jpg
+label: proud
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

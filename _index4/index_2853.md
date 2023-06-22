@@ -2,25 +2,25 @@
 pid: index_2853
 volume: Volume 3
 image_number: '34'
-head: passion of Xst
-entry: "<a href='/digital-beehive/alpha4/alpha_0691/'>a</a>|<a href='/digital-beehive/num4/num_1330/'>998
-  [Passion or Suffering of Xst]</a>"
+head: Pacification
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2930/'>peace</a>"
 index:
-item: "#item-8d8b0c045"
+item: "#item-7b6f7e476"
 unparsed:
-line: 'Head: passion of Xst|Entry: a|Entry: 998 [Passion or Suffering of Xst]|#item-8d8b0c045'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1838,686,711,159/full/0/default.jpg
+line: 'Head: Pacification|See: peace|#item-7b6f7e476'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/442,2332,742,197/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495037926
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425770718
+sort_value: '303412332'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1838,686,711,159/150,/0/default.jpg
-label: passion of Xst
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/442,2332,742,197/150,/0/default.jpg
+label: Pacification
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

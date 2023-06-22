@@ -2,8 +2,8 @@
 pid: index_4536
 volume: Volume 3
 image_number: '52'
-head: will with a wisp
-entry: "<a href='/digital-beehive/num7/num_2385/'>1589 [Ignis fatuus]</a>"
+head: to whisper
+entry: "<a href='/digital-beehive/num4/num_1112/'>876 [to Whisper]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-d71671646"
+item: "#item-48251c378"
 unparsed:
-line: 'Head: will with a wisp|Entry: 1589 [Ignis fatuus]|#item-d71671646'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1744,2472,627,142/full/0/default.jpg
+line: 'Head: to whisper|Entry: 876 [to Whisper]|#item-48251c378'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1776,507,526,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972280366
+annotation_uri: http://dev.llgc.org.uk/annotation/1560971476907
+sort_value: '305230507'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1744,2472,627,142/150,/0/default.jpg
-label: will with a wisp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1776,507,526,138/150,/0/default.jpg
+label: to whisper
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '499'
+order: '498'
 layout: index_item
 collection: index5
 ---

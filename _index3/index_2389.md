@@ -2,24 +2,25 @@
 pid: index_2389
 volume: Volume 3
 image_number: '29'
-head: love of money
-entry:
+head: Rabbi Maimony
+entry: "<a href='/digital-beehive/num7/num_2315/'>1553 [Rabbies]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0888/'>Covetousness</a>"
+see:
 index:
-item: "#item-227f351c8"
+item: "#item-c63bbf304"
 unparsed:
-line: 'Head: love of money|See: Covetousness|#item-227f351c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/161,2365,648,138/full/0/default.jpg
+line: 'Head: Rabbi Maimony|Entry: 1553 [Rabbies]|#item-c63bbf304'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/811,3557,667,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179670621
+annotation_uri: http://dev.llgc.org.uk/annotation/1560191777008
+sort_value: '302923557'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/161,2365,648,138/150,/0/default.jpg
-label: love of money
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/811,3557,667,164/150,/0/default.jpg
+label: Rabbi Maimony
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

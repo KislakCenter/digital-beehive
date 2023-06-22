@@ -2,24 +2,25 @@
 pid: index_3487
 volume: Volume 3
 image_number: '40'
-head: to sail
-entry: "<a href='/digital-beehive/num10/num_3219/'>2266 [To Sail]</a>"
+head: safe conduct
+entry: 726 [PAGE_MISSING]
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-77132ecd1"
+item: "#item-c0c071d98"
 unparsed:
-line: 'Head: to sail|Page: p.39 [Image 1.99]|Entry: 2266 [To Sail]|#item-77132ecd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1764,2782,588,113/full/0/default.jpg
+line: 'Head: safe conduct|Entry: 726 [PAGE_MISSING]|#item-c0c071d98'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1819,2109,604,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235194579
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234921882
+sort_value: '304032109'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1764,2782,588,113/150,/0/default.jpg
-label: to sail
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1819,2109,604,148/150,/0/default.jpg
+label: safe conduct
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

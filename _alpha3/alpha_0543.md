@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/num7/num_2346/'>1567 [Likeness]</a>|<a href='/d
   [Probability]</a>|<a href='/digital-beehive/alpha4/alpha_0879/'>Similitude</a>|758
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2249/'>likelyhood</a>|<a href='/digital-beehive/index3/index_2252/'>likeness</a>"
+index: "<a href='/digital-beehive/index3/index_2292/'>likelyhood</a>|<a href='/digital-beehive/index3/index_2293/'>likeness</a>"
 item: "#item-a7c6cbcff"
 unparsed:
 line: 'Entry: Likelihood|Topic: Likelihood|Xref: 1567 [Likeness]|Xref: 246 [Probability]|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Likelihood|Topic: Likelihood|Xref: 1567 [Likeness]|Xref: 246 [Prob
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/723,2650,2999,573/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564769445754
+sort_value: '202812650'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/723,2650,600,180/250,/0/default.jpg
 label: Likelihood

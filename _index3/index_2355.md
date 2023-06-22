@@ -2,24 +2,25 @@
 pid: index_2355
 volume: Volume 3
 image_number: '29'
-head: Mamut
-entry: "<a href='/digital-beehive/num6/num_1840/'>1317 [Mamut]</a>"
+head: lowd
+entry: 4578 [PAGE_MISSING]
 topic:
-first_letter: M
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-94133a51f"
+item: "#item-948156e7e"
 unparsed:
-line: 'Head: Mamut|Entry: 1317 [Mamut]|#item-94133a51f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/full/0/default.jpg
+line: 'Head: lowd|Entry: 4578 [PAGE_MISSING]|#item-948156e7e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,3050,331,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194354143
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180352089
+sort_value: '302913050'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/150,/0/default.jpg
-label: Mamut
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,3050,331,118/150,/0/default.jpg
+label: lowd
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

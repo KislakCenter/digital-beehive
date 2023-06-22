@@ -2,8 +2,8 @@
 pid: index_3801
 volume: Volume 3
 image_number: '44'
-head: a sore
-entry: "<a href='/digital-beehive/num4/num_1210/'>916 [Sore]</a>"
+head: sophistry
+entry: "<a href='/digital-beehive/num2/num_0312/'>277 [Sophistry]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-321cf3772"
+item: "#item-eea01b965"
 unparsed:
-line: 'Head: a sore|Entry: 916 [Sore]|#item-321cf3772'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/567,1750,352,128/full/0/default.jpg
+line: 'Heads: sophistry|Entry: 277 [Sophistry]|#item-eea01b965'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/577,1346,467,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529704100394
+annotation_uri: http://dev.llgc.org.uk/annotation/1529703958948
+sort_value: '304411346'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/567,1750,352,128/150,/0/default.jpg
-label: a sore
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/577,1346,467,126/150,/0/default.jpg
+label: sophistry
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

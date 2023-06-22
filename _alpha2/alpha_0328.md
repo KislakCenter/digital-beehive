@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num2/num_0442/'>369 [Incendiary]</a>|<a href='/digital-beehive/num5/num_1541/'>1134
   [Coal]</a>|<a href='/digital-beehive/num5/num_1569/'>1152 [Fire]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1407/'>fire</a>"
+index: "<a href='/digital-beehive/index2/index_1453/'>fire</a>"
 item: "#item-c2d913b30"
 unparsed:
 line: 'Entry: Fire|Topic: Fire|Xref: 369 [Incendiary]|Xref: 1134 [Coal]|Xref: 1152
@@ -19,6 +19,7 @@ line: 'Entry: Fire|Topic: Fire|Xref: 369 [Incendiary]|Xref: 1134 [Coal]|Xref: 11
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/416,2731,3033,426/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1474833755734
+sort_value: '201112731'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/416,2731,600,180/250,/0/default.jpg
 label: Fire

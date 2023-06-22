@@ -2,27 +2,26 @@
 pid: index_1397
 volume: Volume 3
 image_number: '20'
-head: failings of Saints
-entry: "<a href='/digital-beehive/num4/num_1275/'>956 [Failings of good men]</a>|<a
-  href='/digital-beehive/num5/num_1641/'>1203 [Fault]</a>|<a href='/digital-beehive/num9/num_3194/'>2248
-  [Church of England]</a>"
+head: famine
+entry: "<a href='/digital-beehive/num3/num_1035/'>710 [Hunger]</a>|<a href='/digital-beehive/num9/num_3031/'>2095
+  [Hunger]</a>"
 topic:
 first_letter: F
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1905/'>hunger</a>"
 index:
-item: "#item-9cb741fc4"
+item: "#item-bcf36dddd"
 unparsed:
-line: 'Head: failings of Saints|Entry: 956 [Failings of good men]|Entry: 1203 [Fault]|Entry:
-  2248 [Church of England]|#item-9cb741fc4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/364,485,834,167/full/0/default.jpg
+line: 'Head: famine|See: hunger|Entry: 710 [Hunger]|Entry: 2095 [Hunger]|#item-bcf36dddd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/381,2515,756,194/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561399680699
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658293462
+sort_value: '302012515'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/364,485,834,167/150,/0/default.jpg
-label: failings of Saints
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/381,2515,756,194/150,/0/default.jpg
+label: famine
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

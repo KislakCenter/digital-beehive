@@ -2,9 +2,9 @@
 pid: index_3120
 volume: Volume 3
 image_number: '36'
-head: politick
-entry: "<a href='/digital-beehive/alpha4/alpha_0720/'>a</a>|<a href='/digital-beehive/num5/num_1333/'>1001
-  [Politick]</a>|<a href='/digital-beehive/num7/num_2672/'>1744 [Politick]</a>"
+head: predestination
+entry: "<a href='/digital-beehive/alpha4/alpha_0732/'>a</a>|<a href='/digital-beehive/num1/num_0243/'>228
+  [Predestination]</a>|<a href='/digital-beehive/num9/num_3175/'>2230 [Predestination]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e67bd475c"
+item: "#item-ce5e783d9"
 unparsed:
-line: 'Head: politick|Entry: a|Entry: 1001 [Politick]|Entry: 1744 [Politick]|#item-e67bd475c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/410,3072,752,139/full/0/default.jpg
+line: 'Head: predestination|Entry: a|Entry: 228 [Predestination]|Entry: 2230 [Predestination]|#item-ce5e783d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1871,2006,690,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438057776
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440543597
+sort_value: '303632006'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/410,3072,752,139/150,/0/default.jpg
-label: politick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1871,2006,690,160/150,/0/default.jpg
+label: predestination
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,28 +2,28 @@
 pid: index_1485
 volume: Volume 3
 image_number: '21'
-head: "[:2.]"
+head: flood
 entry:
 topic:
 first_letter: F
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1003/'>deluge</a>"
 index:
-item: "#item-4d2888e14"
-unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-4d2888e14'
-line: 'Type: Index|Insertion Xref: [:2.]|#item-4d2888e14'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1354,2764,185,102/full/0/default.jpg
+item: "#item-d0f12adf9"
+unparsed:
+line: 'Head: flood|See: deluge|#item-d0f12adf9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/181,186,602,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784223225
+annotation_uri: http://dev.llgc.org.uk/annotation/1531232507643
+sort_value: '302110186'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1354,2764,185,102/150,/0/default.jpg
-label: "[:2.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/181,186,602,140/150,/0/default.jpg
+label: flood
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4670/'>to scare, affright,
-  or fright</a>|<a href='/digital-beehive/index5/index_4673/'>fringes</a>"
+insertion_xref:
 order: '304'
 layout: index_item
 collection: index2

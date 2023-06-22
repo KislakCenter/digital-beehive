@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2536/'>1657 [Jewel]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1994/'>Jewel</a>"
+index: "<a href='/digital-beehive/index3/index_1944/'>Jewel</a>"
 item: "#item-0faa36aaf"
 unparsed:
 line: 'Entry: Jewel|Topic: Jewel|Xref: 1657 [Jewel]|Index: Jewel|#item-0faa36aaf'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/342,1699,3039,460/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564758676767
+sort_value: '202111699'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/342,1699,600,180/250,/0/default.jpg
 label: Jewel

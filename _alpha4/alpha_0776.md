@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2386/'>1590 [Rainbow]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3319/'>rainbow</a>"
+index: "<a href='/digital-beehive/index4/index_3284/'>rainbow</a>"
 item: "#item-4e33af066"
 unparsed:
 line: 'Entry: Rain bow|Topic: Rain bow|Xref: 1590 [Rainbow]|Index: rainbow|#item-4e33af066'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/365,3524,2992,371/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528398735660
+sort_value: '204513524'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/365,3524,600,180/250,/0/default.jpg
 label: Rain bow

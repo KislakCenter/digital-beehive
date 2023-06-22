@@ -2,24 +2,26 @@
 pid: index_3235
 volume: Volume 3
 image_number: '38'
-head: ram
-entry: "<a href='/digital-beehive/num6/num_2180/'>1479 [Ram]</a>"
+head: purity
+entry: "<a href='/digital-beehive/alpha4/alpha_0766/'>a</a>|<a href='/digital-beehive/num4/num_1250/'>936
+  [Purity]</a>"
 topic:
-first_letter: R
+first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2222/'>lamb</a>"
+see:
 index:
-item: "#item-9cba996fe"
+item: "#item-0b3c77f1b"
 unparsed:
-line: 'Head: ram|See: lamb|Entry: 1479 [Ram]|#item-9cba996fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1808,301,757,156/full/0/default.jpg
+line: 'Head: purity|Entry: a|Entry: 936 [Purity]|#item-0b3c77f1b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/406,1886,493,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460310086
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452345569
+sort_value: '303811886'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1808,301,757,156/150,/0/default.jpg
-label: ram
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/406,1886,493,97/150,/0/default.jpg
+label: purity
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

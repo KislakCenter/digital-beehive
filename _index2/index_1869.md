@@ -2,24 +2,25 @@
 pid: index_1869
 volume: Volume 3
 image_number: '24'
-head: hierarchy
-entry: "<a href='/digital-beehive/num8/num_2698/'>1767 [Hierarchy]</a>"
+head: hopeful Children
+entry: "<a href='/digital-beehive/num6/num_2177/'>1477 [hopeful Children]</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1185/'>eccl. discipl</a>"
+see:
 index:
-item: "#item-e91563197"
+item: "#item-cb373d358"
 unparsed:
-line: 'Head: hierarchy|See: eccl. discipl|Entry: 1767 [Hierarchy]|#item-e91563197'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,1806,715,176/full/0/default.jpg
+line: 'Head: hopeful Children|Entry: 1477 [hopeful Children]|#item-cb373d358'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1131,2491,598,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576467701
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583517794
+sort_value: '302422491'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,1806,715,176/150,/0/default.jpg
-label: hierarchy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1131,2491,598,130/150,/0/default.jpg
+label: hopeful Children
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

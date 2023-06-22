@@ -2,8 +2,8 @@
 pid: index_2958
 volume: Volume 3
 image_number: '35'
-head: "[:23.]"
-entry:
+head: peripatetici
+entry: "<a href='/digital-beehive/num5/num_1432/'>1064 [Peripatetick]</a>"
 topic:
 first_letter: P
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-af87e25ee"
-unparsed: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
-line: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2032,965,265,126/full/0/default.jpg
+item: "#item-840a87a8a"
+unparsed:
+line: 'Head: peripatetici|Entry: 1064 [Peripatetick]|#item-840a87a8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/122,2716,639,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277247869
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973166225
+sort_value: '303512716'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2032,965,265,126/150,/0/default.jpg
-label: "[:23.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/122,2716,639,154/150,/0/default.jpg
+label: peripatetici
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4729/'>pike, Hecht</a>"
+insertion_xref:
 order: '0206'
 layout: index_item
 collection: index4

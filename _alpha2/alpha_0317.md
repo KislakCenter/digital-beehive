@@ -10,7 +10,7 @@ page:
 add:
 xref: 1386 [Fashion of the Country]
 see:
-index: "<a href='/digital-beehive/index2/index_1472/'>fashion of the Country</a>"
+index: "<a href='/digital-beehive/index2/index_1407/'>fashion of the Country</a>"
 item: "#item-4be979543"
 unparsed:
 line: 'Entry: Fashion of the Country|Topic: Fashion of the Country|XRef: 1386 [Fashion
@@ -18,6 +18,7 @@ line: 'Entry: Fashion of the Country|Topic: Fashion of the Country|XRef: 1386 [F
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/774,3189,2909,587/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564589208333
+sort_value: '145613189'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/774,3189,600,180/250,/0/default.jpg
 label: Fashion of the Country

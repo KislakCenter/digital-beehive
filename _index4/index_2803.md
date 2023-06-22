@@ -2,24 +2,25 @@
 pid: index_2803
 volume: Volume 3
 image_number: '33'
-head: ordinaries
-entry:
+head: open. openly
+entry: "<a href='/digital-beehive/num3/num_0653/'>521 [Openly]</a>"
 topic:
 first_letter: O
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2112/'>Inns</a>"
+see:
 index:
-item: "#item-1cc221f20"
+item: "#item-dc38b0b49"
 unparsed:
-line: 'Head: ordinaries|See: Inns|#item-1cc221f20'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1498,2458,714,177/full/0/default.jpg
+line: 'Head: open. openly|Entry: 521 [Openly]|#item-dc38b0b49'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1545,386,539,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538163135640
+annotation_uri: http://dev.llgc.org.uk/annotation/1538160741835
+sort_value: '303330386'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1498,2458,714,177/150,/0/default.jpg
-label: ordinaries
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1545,386,539,135/150,/0/default.jpg
+label: open. openly
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

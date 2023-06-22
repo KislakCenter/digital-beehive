@@ -2,8 +2,8 @@
 pid: index_1408
 volume: Volume 3
 image_number: '20'
-head: fairs
-entry: "<a href='/digital-beehive/num5/num_1406/'>1050 [Fairs]</a>"
+head: fast or firm
+entry: "<a href='/digital-beehive/num3/num_0976/'>686 [Firm]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8cc9a993d"
+item: "#item-50986245c"
 unparsed:
-line: 'Head: fairs|Entry: 1050 [Fairs]|#item-8cc9a993d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/373,905,408,121/full/0/default.jpg
+line: 'Head: fast or firm|Entry: 686 [Firm]|#item-50986245c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,3288,549,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561400241760
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660125026
+sort_value: '302013288'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/373,905,408,121/150,/0/default.jpg
-label: fairs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,3288,549,114/150,/0/default.jpg
+label: fast or firm
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

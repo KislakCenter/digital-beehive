@@ -2,24 +2,25 @@
 pid: index_3848
 volume: Volume 3
 image_number: '44'
-head: soveraign
-entry: "<a href='/digital-beehive/num5/num_1693/'>1231 [Independent : Soveraign]</a>"
+head: spiritual
+entry: "<a href='/digital-beehive/alpha4/alpha_0908/'>a</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2005/'>indep</a>"
+see:
 index:
-item: "#item-d1a4b29e6"
+item: "#item-bc39bb807"
 unparsed:
-line: 'Head: soveraign|See: indep|Entry: 1231 [Independent : Soveraign]|#item-d1a4b29e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/542,2183,563,191/full/0/default.jpg
+line: 'Head: spiritual|Entry: a|#item-bc39bb807'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1833,232,423,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529704630275
+annotation_uri: http://dev.llgc.org.uk/annotation/1529943027920
+sort_value: '304430232'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/542,2183,563,191/150,/0/default.jpg
-label: soveraign
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1833,232,423,150/150,/0/default.jpg
+label: spiritual
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

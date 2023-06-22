@@ -2,9 +2,9 @@
 pid: index_0778
 volume: Volume 3
 image_number: '14'
-head: conjuring
-entry: "<a href='/digital-beehive/num7/num_2293/'>1541 [Conjuring]</a>|<a href='/digital-beehive/num11/num_3559/'>4864
-  [Conjuring]</a>"
+head: condemnation
+entry: "<a href='/digital-beehive/alpha1/alpha_0168/'>a</a>|<a href='/digital-beehive/num8/num_2750/'>1817
+  [Damnation]</a>"
 topic:
 first_letter: C
 page:
@@ -12,18 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-802193cdc"
+item: "#item-b7d40955f"
 unparsed:
-line: 'Head: conjuring|Entry: 1541 [Conjuring]|Entry: 4864 [Conjuring]|#item-802193cdc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,744,698,131/full/0/default.jpg
+line: 'Head: condemnation|Entry: a|Entry: 1817 [Damnation]|#item-b7d40955f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/395,2471,738,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541233190
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216680917
+sort_value: '301412471'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,744,698,131/150,/0/default.jpg
-label: conjuring
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/395,2471,738,98/150,/0/default.jpg
+label: condemnation
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: Pastorius appears to have written 1864 under this entry. However, he likely
-  meant to write 4864 [Conjuring].
+issue:
 insertion_xref:
 order: '0777'
 layout: index_item

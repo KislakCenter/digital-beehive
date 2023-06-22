@@ -2,8 +2,8 @@
 pid: index_0313
 volume: Volume 3
 image_number: '9'
-head: Baal
-entry: "<a href='/digital-beehive/num8/num_2823/'>1919 [Baal]</a>"
+head: be gone
+entry: "<a href='/digital-beehive/num5/num_1554/'>1142 [Be gone]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b0c6e8a96"
+item: "#item-e17fb047e"
 unparsed:
-line: 'Head: Baal|Entry: 1919 [Baal]|#item-b0c6e8a96'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/194,2725,375,129/full/0/default.jpg
+line: 'Head: be gone|Entry: 1142 [Be gone]|#item-e17fb047e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1586,1283,430,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504210675155
+annotation_uri: http://dev.llgc.org.uk/annotation/1565018144338
+sort_value: '300931283'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/194,2725,375,129/150,/0/default.jpg
-label: Baal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1586,1283,430,111/150,/0/default.jpg
+label: be gone
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

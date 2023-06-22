@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1962/'>1377 [Great with young]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0369/'>big with child</a>"
+index: "<a href='/digital-beehive/index1/index_0370/'>big with child</a>"
 item: "#item-280551e59"
 unparsed:
 line: 'Entry: Big with child|Topic: Big with child|Xref: 1377 [Great with young]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Big with child|Topic: Big with child|Xref: 1377 [Great with young]
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/799,4281,2941,381/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744284605
+sort_value: '143614281'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/799,4281,600,180/250,/0/default.jpg
 label: Big with child

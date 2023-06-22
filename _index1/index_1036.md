@@ -2,28 +2,30 @@
 pid: index_1036
 volume: Volume 3
 image_number: '16'
-head: degrada[ti]on
-entry:
+head: devotion
+entry: "<a href='/digital-beehive/alpha1/alpha_0233/'>a</a>|<a href='/digital-beehive/num9/num_3166/'>2223
+  [Devotion]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1007/'>deposition</a>"
+see:
 index:
-item: "#item-fe300b0e3"
+item: "#item-a86fe8451"
 unparsed:
-line: 'Head: degrada[ti]on|See: deposition|#item-fe300b0e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/326,2283,785,140/full/0/default.jpg
+line: 'Head: devotion|Entry: a|Entry: 2223 [Devotion]|#item-a86fe8451'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1761,368,703,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572287563
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923332068
+sort_value: '301630368'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/326,2283,785,140/150,/0/default.jpg
-label: degrada[ti]on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1761,368,703,106/150,/0/default.jpg
+label: devotion
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1034'
+order: '1035'
 layout: index_item
 collection: index1
 ---

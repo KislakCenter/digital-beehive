@@ -2,24 +2,25 @@
 pid: index_1303
 volume: Volume 3
 image_number: '19'
-head: event
-entry:
+head: estate
+entry: 732 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1208/'>end</a>"
+see:
 index:
-item: "#item-2377440e4"
+item: "#item-699ff2195"
 unparsed:
-line: 'Head: event|See: end|#item-2377440e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/841,1067,492,136/full/0/default.jpg
+line: 'Head: estate|Entry: 732 [PAGE_MISSING]|#item-699ff2195'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/125,3163,443,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351168039
+annotation_uri: http://dev.llgc.org.uk/annotation/1560348600009
+sort_value: '301913163'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/841,1067,492,136/150,/0/default.jpg
-label: event
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/125,3163,443,131/150,/0/default.jpg
+label: estate
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

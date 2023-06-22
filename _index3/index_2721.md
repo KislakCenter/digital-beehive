@@ -2,8 +2,8 @@
 pid: index_2721
 volume: Volume 3
 image_number: '32'
-head: near
-entry: "<a href='/digital-beehive/num3/num_1020/'>703 [Near]</a>|813 [PAGE_MISSING]"
+head: to nod. wincken
+entry: "<a href='/digital-beehive/num9/num_3145/'>2202 [To Nod : to becken]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8ff969460"
+item: "#item-0dedb6aa8"
 unparsed:
-line: 'Head: near|Entry: 703 [Near]|Entry: 813 [PAGE_MISSING]|#item-8ff969460'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/378,2696,511,85/full/0/default.jpg
+line: 'Head: to nod. wincken|Entry: 2202 [To Nod : to becken]|#item-0dedb6aa8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1836,1109,678,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438803600
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448507727
+sort_value: '303231109'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/378,2696,511,85/150,/0/default.jpg
-label: near
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1836,1109,678,129/150,/0/default.jpg
+label: to nod. wincken
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

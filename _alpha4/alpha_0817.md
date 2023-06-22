@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num4/num_1078/'>866 [Stealing]</a>|<a href='/digital-beehive/num2/num_0628/'>499
   [Robbery]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3431/'>robbery</a>"
+index: "<a href='/digital-beehive/index4/index_3438/'>robbery</a>"
 item: "#item-8f2a11623"
 unparsed:
 line: 'Entry: Robbery|Topic: Robbery|Xref: 866 [Stealing]|Xref: 499 [Robbery]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Robbery|Topic: Robbery|Xref: 866 [Stealing]|Xref: 499 [Robbery]|In
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/240,502,3073,576/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528826807737
+sort_value: '204910502'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/240,502,600,180/250,/0/default.jpg
 label: Robbery

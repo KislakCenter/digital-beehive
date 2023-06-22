@@ -2,8 +2,8 @@
 pid: index_3779
 volume: Volume 3
 image_number: '43'
-head: smallpooks
-entry: "<a href='/digital-beehive/num2/num_0447/'>371 [small pocks]</a>"
+head: Socrates
+entry: "<a href='/digital-beehive/num5/num_1549/'>1140 [Socrates]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-dd1ab936b"
+item: "#item-8e3ea6c29"
 unparsed:
-line: 'Head: smallpooks|Entry: 371 [small pocks]|#item-dd1ab936b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/906,3140,456,118/full/0/default.jpg
+line: 'Head: Socrates|Entry: 1140 [Socrates]|#item-8e3ea6c29'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1597,2235,508,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584884081
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586243745
+sort_value: '304332235'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/906,3140,456,118/150,/0/default.jpg
-label: smallpooks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1597,2235,508,124/150,/0/default.jpg
+label: Socrates
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

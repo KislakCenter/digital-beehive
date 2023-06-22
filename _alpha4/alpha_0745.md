@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0859/'>Self profit</a>|<a href='/d
   href='/digital-beehive/alpha5/alpha_1012/'>Unprofitable</a>|<a href='/digital-beehive/alpha5/alpha_1020/'>Utility</a>|<a
   href='/digital-beehive/num7/num_2607/'>1692 [Gain]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3187/'>profit</a>"
+index: "<a href='/digital-beehive/index4/index_3180/'>profit</a>"
 item: "#item-c82c2327d"
 unparsed:
 line: 'Entry: Profit|Topic: Profit|Xref: Self profit|Xref: Lucre|Xref: Unprofitable|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Profit|Topic: Profit|Xref: Self profit|Xref: Lucre|Xref: Unprofita
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/338,2038,3032,567/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565100446765
+sort_value: '204312038'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/338,2038,600,180/250,/0/default.jpg
 label: Profit

@@ -2,9 +2,8 @@
 pid: index_3582
 volume: Volume 3
 image_number: '41'
-head: seed
-entry: "<a href='/digital-beehive/alpha4/alpha_0850/'>a</a>|<a href='/digital-beehive/num5/num_1424/'>1059
-  [Seed]</a>|<a href='/digital-beehive/num5/num_1425/'>1059 [Sperma]</a>"
+head: secondly
+entry: "<a href='/digital-beehive/num6/num_2055/'>1420 [Secondly]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5711d6340"
+item: "#item-3a8ebb712"
 unparsed:
-line: 'Head: seed|Entry: a|Entry: 1059 [Seed]|Entry: 1059 [Sperma]|#item-5711d6340'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1585,2788,448,135/full/0/default.jpg
+line: 'Head: secondly|Entry: 1420 [Secondly]|#item-3a8ebb712'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1556,1457,539,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243003377
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242530709
+sort_value: '304131457'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1585,2788,448,135/150,/0/default.jpg
-label: seed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1556,1457,539,146/150,/0/default.jpg
+label: secondly
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

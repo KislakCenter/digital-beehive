@@ -2,8 +2,8 @@
 pid: index_2738
 volume: Volume 3
 image_number: '32'
-head: novice
-entry: 811 [PAGE_MISSING]
+head: to give notice
+entry: "<a href='/digital-beehive/num2/num_0381/'>331 [to give Notice]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7e6ba13b1"
+item: "#item-f700ebb18"
 unparsed:
-line: 'Head: novice|Entry: 811 [PAGE_MISSING]|#item-7e6ba13b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1808,3329,414,100/full/0/default.jpg
+line: 'Head: to give notice|Entry: 331 [to give Notice]|#item-f700ebb18'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1806,2754,612,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449998965
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449657697
+sort_value: '303232754'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1808,3329,414,100/150,/0/default.jpg
-label: novice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1806,2754,612,144/150,/0/default.jpg
+label: to give notice
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

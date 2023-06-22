@@ -2,24 +2,25 @@
 pid: index_3229
 volume: Volume 3
 image_number: '38'
-head: rage
-entry: "<a href='/digital-beehive/num2/num_0517/'>417 [Rage]</a>"
+head: punning
+entry: 4569 [PAGE_MISSING]
 topic:
-first_letter: R
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5047e6086"
+item: "#item-146f7f94a"
 unparsed:
-line: 'Head: rage|Entry: 417 [Rage]|#item-5047e6086'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1175,3022,351,161/full/0/default.jpg
+line: 'Head: punning|Entry: 4569 [PAGE_MISSING]|#item-146f7f94a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/424,1255,600,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459570150
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452109875
+sort_value: '303811255'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1175,3022,351,161/150,/0/default.jpg
-label: rage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/424,1255,600,115/150,/0/default.jpg
+label: punning
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

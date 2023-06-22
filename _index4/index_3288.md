@@ -2,9 +2,8 @@
 pid: index_3288
 volume: Volume 3
 image_number: '38'
-head: reason
-entry: "<a href='/digital-beehive/alpha4/alpha_0781/'>a</a>|<a href='/digital-beehive/num6/num_1745/'>1258
-  [Reason]</a>|<a href='/digital-beehive/num7/num_2611/'>1694 [Reason]</a>|4466 [WORD_MISSING]"
+head: ransom
+entry: "<a href='/digital-beehive/num4/num_1218/'>920 [Delivering]</a>"
 topic:
 first_letter: R
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-813035c2a"
+item: "#item-6a1c0876e"
 unparsed:
-line: 'Head: reason|Entry: a|Entry: 1258 [Reason]|Entry: 1694 [Reason]|Entry: 4466
-  [WORD_MISSING]|#item-813035c2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1865,2180,677,172/full/0/default.jpg
+line: 'Head: ransom|Entry: 920 [Delivering]|#item-6a1c0876e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1851,360,498,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461507525
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460334148
+sort_value: '303830360'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1865,2180,677,172/150,/0/default.jpg
-label: reason
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1851,360,498,131/150,/0/default.jpg
+label: ransom
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

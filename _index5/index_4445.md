@@ -2,28 +2,30 @@
 pid: index_4445
 volume: Volume 3
 image_number: '51'
-head: want of punishmt
-entry: "<a href='/digital-beehive/num5/num_1624/'>1192 [Want of Punishmt]</a>"
+head: usurpation
+entry: "<a href='/digital-beehive/num3/num_0848/'>628 [Invasion]</a>|<a href='/digital-beehive/num8/num_2897/'>1970
+  [Usurpation]</a>"
 topic:
-first_letter: W
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-8a1f3bba9"
+item: "#item-a847986ff"
 unparsed:
-line: 'Head: want of punishmt|Entry: 1192 [Want of Punishmt]|#item-8a1f3bba9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1632,1709,643,158/full/0/default.jpg
+line: 'Head: usurpation|Entry: 628 [Invasion]|Entry: 1970 [Usurpation]|#item-a847986ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/951,1608,714,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647948502
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646844597
+sort_value: '305121608'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1632,1709,643,158/150,/0/default.jpg
-label: want of punishmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/951,1608,714,137/150,/0/default.jpg
+label: usurpation
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '408'
+order: '407'
 layout: index_item
 collection: index5
 ---

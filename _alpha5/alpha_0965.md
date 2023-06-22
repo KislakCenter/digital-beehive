@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1248/'>935 [Tobacco]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4181/'>tobacco</a>"
+index: "<a href='/digital-beehive/index5/index_4165/'>tobacco</a>"
 item: "#item-708941700"
 unparsed:
 line: 'Entry: Tobacco|Topic: Tobacco|Xref: 935 [Tobacco]|Index: tobacco|#item-708941700'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/316,1163,3057,522/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565114049056
+sort_value: '205911163'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/316,1163,600,180/250,/0/default.jpg
 label: Tobacco

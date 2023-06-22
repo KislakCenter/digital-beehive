@@ -2,28 +2,29 @@
 pid: index_4472
 volume: Volume 3
 image_number: '51'
-head: Wafers
-entry: "<a href='/digital-beehive/num7/num_2311/'>1551 [Wafers]</a>"
+head: wanton[n]ess
+entry:
 topic:
 first_letter: W
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2202/'>lasciv</a>"
 index:
-item: "#item-34bb597b8"
+item: "#item-2e05ac1c2"
 unparsed:
-line: 'Head: Wafers|Entry: 1551 [Wafers]|#item-34bb597b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/933,3022,463,154/full/0/default.jpg
+line: 'Head: wanton[n]ess|See: lasciv|#item-2e05ac1c2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1656,1890,630,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647189165
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647977811
+sort_value: '305131890'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/933,3022,463,154/150,/0/default.jpg
-label: Wafers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1656,1890,630,143/150,/0/default.jpg
+label: wanton[n]ess
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '435'
+order: '434'
 layout: index_item
 collection: index5
 ---

@@ -2,25 +2,25 @@
 pid: index_1785
 volume: Volume 3
 image_number: '23'
-head: guilt
-entry: "<a href='/digital-beehive/alpha2/alpha_0393/'>a</a>|<a href='/digital-beehive/num7/num_2451/'>1620
-  [Guilt]</a>"
+head: heavenly things
+entry: "<a href='/digital-beehive/alpha2/alpha_0411/'>a</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d6e42b014"
+item: "#item-dbcd5abc2"
 unparsed:
-line: 'Head: guilt|Entry: a|Entry: 1620 [Guilt]|#item-d6e42b014'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/141,2781,455,126/full/0/default.jpg
+line: 'Head: heavenly things|Entry: a|#item-dbcd5abc2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1556,1293,553,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233349172
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244438093
+sort_value: '302331293'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/141,2781,455,126/150,/0/default.jpg
-label: guilt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1556,1293,553,136/150,/0/default.jpg
+label: heavenly things
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -17,13 +17,14 @@ line: 'Head: usury|Entry: a|Entry: 862 [PAGE_MISSING]|#item-ce9fa03d4'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/967,1749,499,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561646870974
+sort_value: '305121749'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/967,1749,499,128/150,/0/default.jpg
 label: usury
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '409'
+order: '408'
 layout: index_item
 collection: index5
 ---

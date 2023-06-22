@@ -2,24 +2,25 @@
 pid: index_0512
 volume: Volume 3
 image_number: '11'
-head: button
-entry: 4718 [PAGE_MISSING]
+head: Callis
+entry: "<a href='/digital-beehive/num6/num_2156/'>1467 [Callis : Calais]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7fb1ef6e9"
+item: "#item-5675efcf0"
 unparsed:
-line: 'Head: button|Entry: 4718 [PAGE_MISSING]|#item-7fb1ef6e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/879,2643,461,95/full/0/default.jpg
+line: 'Head: Callis|Entry: 1467 [Callis : Calais]|#item-5675efcf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1563,708,449,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531422027714
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494571677
+sort_value: '301130708'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/879,2643,461,95/150,/0/default.jpg
-label: button
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1563,708,449,152/150,/0/default.jpg
+label: Callis
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

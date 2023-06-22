@@ -2,8 +2,8 @@
 pid: index_2230
 volume: Volume 3
 image_number: '28'
-head: leaf
-entry: "<a href='/digital-beehive/num5/num_1397/'>1044 [Books]</a>"
+head: laziness
+entry: "<a href='/digital-beehive/alpha3/alpha_0526/'>a</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0ba291921"
+item: "#item-b4eef1984"
 unparsed:
-line: 'Head: leaf|Entry: 1044 [Books]|#item-0ba291921'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/406,1295,381,156/full/0/default.jpg
+line: 'Head: laziness|Entry: a|#item-b4eef1984'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/403,958,399,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841923531
+annotation_uri: http://dev.llgc.org.uk/annotation/1559841548930
+sort_value: '302810958'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/406,1295,381,156/150,/0/default.jpg
-label: leaf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/403,958,399,127/150,/0/default.jpg
+label: laziness
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

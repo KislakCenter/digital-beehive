@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0901/'>654 [Hide]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3735/'>skin</a>"
+index: "<a href='/digital-beehive/index4/index_3741/'>skin</a>"
 item: "#item-4c481d25a"
 unparsed:
 line: 'Entry: Skin|Topic: Skin|Xref: 654 [Hide]|Index: skin|#item-4c481d25a'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/323,3699,3014,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532029388494
+sort_value: '205313699'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/323,3699,600,180/250,/0/default.jpg
 label: Skin

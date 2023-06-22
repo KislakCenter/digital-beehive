@@ -2,24 +2,25 @@
 pid: index_1680
 volume: Volume 3
 image_number: '22'
-head: God's voice
-entry: "<a href='/digital-beehive/num1/num_0187/'>178 [God's Voice]</a>"
+head: gown
+entry: "<a href='/digital-beehive/num4/num_1196/'>912 [Gown]</a>"
 topic:
 first_letter: G
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-0015eccae"
+item: "#item-1169ca412"
 unparsed:
-line: 'Head: God''s voice|Entry: 178 [God''s Voice]|#item-0015eccae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1164,2641,404,99/full/0/default.jpg
+line: 'Head: gown|Page: p.38 [Image 1.98]|Entry: 912 [Gown]|#item-1169ca412'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1860,1376,459,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561048159383
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052639914
+sort_value: '302231376'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1164,2641,404,99/150,/0/default.jpg
-label: God's voice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1860,1376,459,99/150,/0/default.jpg
+label: gown
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

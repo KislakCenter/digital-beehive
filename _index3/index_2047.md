@@ -2,24 +2,25 @@
 pid: index_2047
 volume: Volume 3
 image_number: '26'
-head: invasion
-entry: "<a href='/digital-beehive/num3/num_0848/'>628 [Invasion]</a>"
+head: injury
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4635/'>wrong</a>"
 index:
-item: "#item-da75aea5f"
+item: "#item-e39e03f98"
 unparsed:
-line: 'Head: invasion|Entry: 628 [Invasion]|#item-da75aea5f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1862,891,442,113/full/0/default.jpg
+line: 'Head: injury|See: wrong|#item-e39e03f98'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/421,3014,505,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751167069
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745402543
+sort_value: '302613014'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1862,891,442,113/150,/0/default.jpg
-label: invasion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/421,3014,505,169/150,/0/default.jpg
+label: injury
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

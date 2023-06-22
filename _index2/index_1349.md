@@ -2,8 +2,8 @@
 pid: index_1349
 volume: Volume 3
 image_number: '19'
-head: to extirpate
-entry: 777 [PAGE_MISSING]
+head: exorcism
+entry: "<a href='/digital-beehive/alpha2/alpha_0302/'>a</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-79ec0df3d"
+item: "#item-ac3445f82"
 unparsed:
-line: 'Head: to extirpate|Entry: 777 [PAGE_MISSING]|#item-79ec0df3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1506,2739,584,137/full/0/default.jpg
+line: 'Head: exorcism|Entry: a|#item-ac3445f82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1112,458,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396926897
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043359609
+sort_value: '301931112'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1506,2739,584,137/150,/0/default.jpg
-label: to extirpate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1112,458,128/150,/0/default.jpg
+label: exorcism
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

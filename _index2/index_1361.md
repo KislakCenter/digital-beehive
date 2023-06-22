@@ -2,9 +2,8 @@
 pid: index_1361
 volume: Volume 3
 image_number: '19'
-head: exclamation
-entry: "<a href='/digital-beehive/num2/num_0385/'>333 [Exclam[m]ations or Interjections]</a>|4645
-  [PAGE_MISSING]"
+head: external conversation
+entry: "<a href='/digital-beehive/alpha2/alpha_0305/'>a</a>"
 topic:
 first_letter: E
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c6579c41c"
+item: "#item-3b6c49fb6"
 unparsed:
-line: 'Head: exclamation|Entry: 333 [Exclam[m]ations or Interjections]|Entry: 4645
-  [PAGE_MISSING]|#item-c6579c41c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/825,3224,746,123/full/0/default.jpg
+line: 'Head: external conversation|Entry: a|#item-3b6c49fb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1518,2370,630,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361206469
+annotation_uri: http://dev.llgc.org.uk/annotation/1561396499307
+sort_value: '301932370'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/825,3224,746,123/150,/0/default.jpg
-label: exclamation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1518,2370,630,121/150,/0/default.jpg
+label: external conversation
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

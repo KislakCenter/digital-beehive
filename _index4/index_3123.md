@@ -2,9 +2,9 @@
 pid: index_3123
 volume: Volume 3
 image_number: '36'
-head: polygamy
-entry: "<a href='/digital-beehive/alpha4/alpha_0721/'>a</a>|<a href='/digital-beehive/num4/num_1291/'>969
-  [Polygamy]</a>"
+head: prejudice
+entry: "<a href='/digital-beehive/num3/num_0802/'>607 [Prejudice]</a>|<a href='/digital-beehive/num9/num_3110/'>2168
+  [Prejudice]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1bb371d0f"
+item: "#item-3d09c3281"
 unparsed:
-line: 'Head: polygamy|Entry: a|Entry: 969 [Polygamy]|#item-1bb371d0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/436,3195,600,156/full/0/default.jpg
+line: 'Head: prejudice|Entry: 607 [Prejudice]|Entry: 2168 [Prejudice]|#item-3d09c3281'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1830,2398,682,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438085290
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440692218
+sort_value: '303632398'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/436,3195,600,156/150,/0/default.jpg
-label: polygamy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1830,2398,682,170/150,/0/default.jpg
+label: prejudice
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3389
 volume: Volume 3
 image_number: '39'
-head: to represent
-entry: "<a href='/digital-beehive/num3/num_0755/'>586 [To represent]</a>"
+head: resolution
+entry: "<a href='/digital-beehive/num2/num_0546/'>441 [Resolutions]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5a58f47fa"
+item: "#item-e852969e1"
 unparsed:
-line: 'Head: to represent|Entry: 586 [To represent]|#item-5a58f47fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/795,2762,655,171/full/0/default.jpg
+line: 'Head: resolution|Entry: 441 [Resolutions]|#item-e852969e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1476,1189,614,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469536419
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229155628
+sort_value: '303931189'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/795,2762,655,171/150,/0/default.jpg
-label: to represent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1476,1189,614,140/150,/0/default.jpg
+label: resolution
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

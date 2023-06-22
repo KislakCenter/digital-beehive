@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0527/'>Leader</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0519/'>captain</a>"
+index: "<a href='/digital-beehive/index1/index_0534/'>captain</a>"
 item: "#item-1c5099e20"
 unparsed:
 line: 'Entry: Captain|Topic: Captain|Xref: Leader|Index: captain|#item-1c5099e20'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/358,3102,3045,632/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1496763885884
+sort_value: '143913102'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/358,3102,600,180/250,/0/default.jpg
 label: Captain

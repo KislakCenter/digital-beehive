@@ -2,9 +2,9 @@
 pid: index_0292
 volume: Volume 3
 image_number: '9'
-head: to beat
-entry: "<a href='/digital-beehive/num3/num_1031/'>708 [Beating]</a>|<a href='/digital-beehive/num9/num_3061/'>2122
-  [Beating]</a>"
+head: barber Surgeon
+entry: "<a href='/digital-beehive/alpha1/alpha_0060/'>a</a>|<a href='/digital-beehive/num4/num_1213/'>917
+  [Surgery]</a>"
 topic:
 first_letter: B
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f6bd1cf3c"
+item: "#item-321d6279f"
 unparsed:
-line: 'Head: to beat|Entry: 708 [Beating]|Entry: 2122 [Beating]|#item-f6bd1cf3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1594,2059,586,101/full/0/default.jpg
+line: 'Head: barber Surgeon|Entry: a|Entry: 917 [Surgery]|#item-321d6279f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/905,2586,633,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530891887327
+annotation_uri: http://dev.llgc.org.uk/annotation/1506104371779
+sort_value: '300922586'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1594,2059,586,101/150,/0/default.jpg
-label: to beat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/905,2586,633,135/150,/0/default.jpg
+label: barber Surgeon
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

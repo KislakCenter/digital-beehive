@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0934/'>Superstition</a>|<a href='/digital-beehive/num1/num_0244/'>229
   [Formality]</a>|<a href='/digital-beehive/num2/num_0613/'>490 [Will-worship]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4659/'>will worship</a>"
+index: "<a href='/digital-beehive/index5/index_4624/'>will worship</a>"
 item: "#item-d4a3712ee"
 unparsed:
 line: 'Entry: Will-Worship|Topic: Will-Worship|Xref: Superstition|Xref: 229 [Formality]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Will-Worship|Topic: Will-Worship|Xref: Superstition|Xref: 229 [For
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/322,852,3060,441/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529598252349
+sort_value: '206710852'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/322,852,600,180/250,/0/default.jpg
 label: Will-Worship

@@ -17,6 +17,7 @@ line: 'Head: bankrupt|Entry: a|Entry: 4660 [PAGE_MISSING]|#item-6fd6f0647'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/897,1810,607,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1505404210054
+sort_value: '300921810'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/897,1810,607,162/150,/0/default.jpg
 label: bankrupt

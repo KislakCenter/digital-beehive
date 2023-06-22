@@ -2,24 +2,26 @@
 pid: index_3681
 volume: Volume 3
 image_number: '42'
-head: shrovetide
-entry: "<a href='/digital-beehive/num1/num_0236/'>222 [Shrovetide]</a>"
+head: shoe
+entry: "<a href='/digital-beehive/alpha4/alpha_0872/'>a</a>|<a href='/digital-beehive/num6/num_2159/'>1469
+  [Shoe]</a>"
 topic:
 first_letter: S
 page:
-add: bacchanals
+add:
 xref:
 see:
 index:
-item: "#item-ab72e1229"
+item: "#item-4bdc4a5b0"
 unparsed:
-line: 'Head: shrovetide|Entry: 222 [Shrovetide]|Add: bacchanals|#item-ab72e1229'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1789,2877,630,193/full/0/default.jpg
+line: 'Head: shoe|Entry: a|Entry: 1469 [Shoe]|#item-4bdc4a5b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1799,1826,483,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576573915
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576222379
+sort_value: '304231826'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1789,2877,630,193/150,/0/default.jpg
-label: shrovetide
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1799,1826,483,128/150,/0/default.jpg
+label: shoe
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

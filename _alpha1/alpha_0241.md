@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha2/alpha_0277/'>ecclesiastical disc</a>|<a 
   discipl</a>|<a href='/digital-beehive/alpha4/alpha_0763/'>punishmt</a>|[WORD_ILLEGIBLE]|<a
   href='/digital-beehive/alpha4/alpha_0798/'>Reproof</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1058/'>discipline</a>"
+index: "<a href='/digital-beehive/index1/index_1066/'>discipline</a>"
 item: "#item-a12735979"
 unparsed:
 line: 'Entry: Discipline|Topic: Discipline|Xref: ecclesiastical disc|Xref: martial
@@ -20,6 +20,7 @@ line: 'Entry: Discipline|Topic: Discipline|Xref: ecclesiastical disc|Xref: marti
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/807,985,2972,520/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508174677987
+sort_value: '145010985'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/807,985,600,180/250,/0/default.jpg
 label: Discipline

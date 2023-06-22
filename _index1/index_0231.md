@@ -2,8 +2,8 @@
 pid: index_0231
 volume: Volume 3
 image_number: '8'
-head: antiquary
-entry: "<a href='/digital-beehive/num1/num_0085/'>84 [Antiquary]</a>"
+head: at first
+entry: "<a href='/digital-beehive/num2/num_0624/'>497 [At the first]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3f7b723cf"
+item: "#item-2d84d625c"
 unparsed:
-line: 'Head: antiquary|Entry: 84 [Antiquary]|#item-3f7b723cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/384,3427,521,158/full/0/default.jpg
+line: 'Head: at first|Entry: 497 [At the first]|#item-2d84d625c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1800,3375,448,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759349610
+annotation_uri: http://dev.llgc.org.uk/annotation/1565632069519
+sort_value: '300833375'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/384,3427,521,158/150,/0/default.jpg
-label: antiquary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1800,3375,448,134/150,/0/default.jpg
+label: at first
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

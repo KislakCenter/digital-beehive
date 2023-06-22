@@ -2,28 +2,29 @@
 pid: index_1127
 volume: Volume 3
 image_number: '17'
-head: disown
-entry:
+head: dolus bonus
+entry: "<a href='/digital-beehive/num6/num_2125/'>1452 [good Guile]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1000/'>denial</a>|<a href='/digital-beehive/index2/index_1364/'>excom[m]unication</a>"
+see:
 index:
-item: "#item-14dfbaf46"
+item: "#item-b8a616199"
 unparsed:
-line: 'Head: disown|See: denial|See: excom[m]unication|#item-14dfbaf46'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/145,2171,623,169/full/0/default.jpg
+line: 'Head: dolus bonus|Entry: 1452 [good Guile]|#item-b8a616199'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/809,3088,595,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804305331
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367277487
+sort_value: '301723088'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/145,2171,623,169/150,/0/default.jpg
-label: disown
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/809,3088,595,113/150,/0/default.jpg
+label: dolus bonus
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1125'
+order: '1126'
 layout: index_item
 collection: index1
 ---

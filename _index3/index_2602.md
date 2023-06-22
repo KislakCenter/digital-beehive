@@ -2,8 +2,8 @@
 pid: index_2602
 volume: Volume 3
 image_number: '31'
-head: mortar
-entry: "<a href='/digital-beehive/num7/num_2670/'>1743 [Pounded]</a>"
+head: mouldy
+entry: "<a href='/digital-beehive/num3/num_0760/'>587 [mouldy]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-02b702b75"
+item: "#item-d58ad5b28"
 unparsed:
-line: 'Head: mortar|Entry: 1743 [Pounded]|#item-02b702b75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/838,2395,438,100/full/0/default.jpg
+line: 'Head: mouldy|Entry: 587 [mouldy]|#item-d58ad5b28'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1583,318,390,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356465332
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360359701
+sort_value: '303130318'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/838,2395,438,100/150,/0/default.jpg
-label: mortar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1583,318,390,143/150,/0/default.jpg
+label: mouldy
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

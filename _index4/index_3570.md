@@ -2,24 +2,25 @@
 pid: index_3570
 volume: Volume 3
 image_number: '41'
-head: sedition
-entry: "<a href='/digital-beehive/num5/num_1633/'>1197 [Rebellion]</a>"
+head: Sea books
+entry:
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-3b9935ca1"
+item: "#item-a8d284cf7"
 unparsed:
-line: 'Head: sedition|Entry: 1197 [Rebellion]|#item-3b9935ca1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1590,2399,532,159/full/0/default.jpg
+line: 'Head: Sea books|Page: p.379 [Image 2.201]|#item-a8d284cf7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1584,342,466,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242915179
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241950699
+sort_value: '304130342'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1590,2399,532,159/150,/0/default.jpg
-label: sedition
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1584,342,466,117/150,/0/default.jpg
+label: Sea books
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

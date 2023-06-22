@@ -2,24 +2,25 @@
 pid: index_2654
 volume: Volume 3
 image_number: '32'
-head: neck
-entry: "<a href='/digital-beehive/num3/num_0955/'>681 [Neck]</a>"
+head: natural light
+entry:
 topic:
 first_letter: N
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3310/'>reason</a>"
 index:
-item: "#item-f5e04fd40"
+item: "#item-a6fabe136"
 unparsed:
-line: 'Head: neck|Entry: 681 [Neck]|#item-f5e04fd40'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/375,3007,333,109/full/0/default.jpg
+line: 'Head: natural light|See: reason|#item-a6fabe136'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/389,1713,673,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439188474
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437986580
+sort_value: '303211713'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/375,3007,333,109/150,/0/default.jpg
-label: neck
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/389,1713,673,106/150,/0/default.jpg
+label: natural light
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

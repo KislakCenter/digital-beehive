@@ -2,8 +2,10 @@
 pid: index_3742
 volume: Volume 3
 image_number: '43'
-head: slate
-entry: "<a href='/digital-beehive/num4/num_1105/'>873 [Paper]</a>"
+head: slander
+entry: "<a href='/digital-beehive/alpha4/alpha_0889/'>a</a>|<a href='/digital-beehive/num5/num_1640/'>1202
+  [Slander]</a>|<a href='/digital-beehive/num9/num_2984/'>2050 [Slander]</a>|<a href='/digital-beehive/num11/num_3588/'>4915
+  [Slander]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +13,17 @@ add:
 xref:
 see:
 index:
-item: "#item-c8e732559"
+item: "#item-0c9ba1de5"
 unparsed:
-line: 'Head: slate|Entry: 873 [Paper]|#item-c8e732559'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/885,1828,464,125/full/0/default.jpg
+line: 'Head: slander|Entry: a|Entry: 1202 [Slander]|Entry: 2050 [Slander]|Entry: 4915
+  [Slander]|#item-0c9ba1de5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/892,1706,740,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583493541
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583465323
+sort_value: '304321706'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/885,1828,464,125/150,/0/default.jpg
-label: slate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/892,1706,740,143/150,/0/default.jpg
+label: slander
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

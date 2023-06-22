@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num3/num_0667/'>532 [letter]</a>|<a href='/digital-beehive/num5/num_1661/'>1214
   [Letters]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2262/'>letters</a>"
+index: "<a href='/digital-beehive/index3/index_2265/'>letters</a>"
 item: "#item-96d8869ae"
 unparsed:
 line: 'Entry: Letters|Topic: Letters|Xref: 532 [letter]|Xref: 1214 [Letters]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Letters|Topic: Letters|Xref: 532 [letter]|Xref: 1214 [Letters]|Ind
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/341,3352,3051,505/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564768836619
+sort_value: '202713352'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/341,3352,600,180/250,/0/default.jpg
 label: Letters

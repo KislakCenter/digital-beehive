@@ -2,8 +2,8 @@
 pid: index_1032
 volume: Volume 3
 image_number: '16'
-head: dimm sighted
-entry: "<a href='/digital-beehive/num9/num_3143/'>2200 [Blindness]</a>"
+head: devastation
+entry: 1880 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-47e42fded"
+item: "#item-574b8966c"
 unparsed:
-line: 'Head: dimm sighted|Entry: 2200 [Blindness]|#item-47e42fded'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1779,2098,619,102/full/0/default.jpg
+line: 'Head: devastation|Entry: 1880 [PAGE_MISSING]|#item-574b8966c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1096,3509,567,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783915816
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605327922
+sort_value: '301623509'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1779,2098,619,102/150,/0/default.jpg
-label: dimm sighted
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1096,3509,567,84/150,/0/default.jpg
+label: devastation
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1030'
+order: '1031'
 layout: index_item
 collection: index1
 ---

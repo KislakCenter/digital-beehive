@@ -2,10 +2,8 @@
 pid: index_1617
 volume: Volume 3
 image_number: '22'
-head: gloss
-entry: "<a href='/digital-beehive/alpha2/alpha_0366/'>a</a>|<a href='/digital-beehive/num1/num_0125/'>121
-  [Gloss]</a>|<a href='/digital-beehive/num2/num_0339/'>299 [idle fancies]</a>|<a
-  href='/digital-beehive/num9/num_2980/'>2046 [Gloss]</a>"
+head: Glaucha hospital
+entry: "<a href='/digital-beehive/num6/num_2042/'>1415 [Hospital]</a>"
 topic:
 first_letter: G
 page:
@@ -13,18 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ae6d2ad39"
+item: "#item-d2e6eff2d"
 unparsed:
-line: 'Head: gloss|Entry: a|Entry: 121 [Gloss]|Entry: 299 [idle fancies]|Entry: 2046
-  [Gloss]|#item-ae6d2ad39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1157,269,705,163/full/0/default.jpg
+line: 'Head: Glaucha hospital|Entry: 1415 [Hospital]|#item-d2e6eff2d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/433,2742,681,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561045606923
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043947767
+sort_value: '302212742'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1157,269,705,163/150,/0/default.jpg
-label: gloss
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/433,2742,681,134/150,/0/default.jpg
+label: Glaucha hospital
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: The intended entry for 299 is unclear.
+issue:
 insertion_xref:
 order: '436'
 layout: index_item

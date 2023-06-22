@@ -2,24 +2,25 @@
 pid: index_0781
 volume: Volume 3
 image_number: '14'
-head: complaint of the damned
-entry: "<a href='/digital-beehive/num8/num_2850/'>1936 [Complaint]</a>"
+head: condition
+entry: "<a href='/digital-beehive/alpha1/alpha_0169/'>a</a>"
 topic:
 first_letter: C
 page:
-add:
+add: State
 xref:
 see:
 index:
-item: "#item-32379d007"
+item: "#item-11b241d21"
 unparsed:
-line: 'Head: complaint of the damned|Entry: 1936 [Complaint]|#item-32379d007'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/441,842,710,92/full/0/default.jpg
+line: 'Head: condition|Entry: a|Add: State|#item-11b241d21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/400,2685,463,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215267406
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216781446
+sort_value: '301412685'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/441,842,710,92/150,/0/default.jpg
-label: complaint of the damned
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/400,2685,463,176/150,/0/default.jpg
+label: condition
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

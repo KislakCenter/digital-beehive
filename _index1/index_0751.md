@@ -2,8 +2,8 @@
 pid: index_0751
 volume: Volume 3
 image_number: '13'
-head: cole
-entry: "<a href='/digital-beehive/num5/num_1541/'>1134 [Coal]</a>"
+head: common wives
+entry: 1843 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b95dcb372"
+item: "#item-54823f3a0"
 unparsed:
-line: 'Head: cole|Entry: 1134 [Coal]|#item-b95dcb372'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/847,3437,324,134/full/0/default.jpg
+line: 'Head: common wives|Entry: 1843 [PAGE_MISSING]|#item-54823f3a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1539,2914,495,71/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536609167222
+annotation_uri: http://dev.llgc.org.uk/annotation/1537163750921
+sort_value: '301332914'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/847,3437,324,134/150,/0/default.jpg
-label: cole
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1539,2914,495,71/150,/0/default.jpg
+label: common wives
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

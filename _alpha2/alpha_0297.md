@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0751/'>proof</a>|<a href='/digital
   [Try & Prove all things]</a>|<a href='/digital-beehive/num1/num_0121/'>117 [Self-examination]</a>|<a
   href='/digital-beehive/num6/num_2044/'>1416 [To Examine]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1338/'>examination</a>"
+index: "<a href='/digital-beehive/index2/index_1327/'>examination</a>"
 item: "#item-3baec17f6"
 unparsed:
 line: 'Entry: Examination|Topic: Examination|Xref: proof|Xref: 47 [Try & Prove all
@@ -20,6 +20,7 @@ line: 'Entry: Examination|Topic: Examination|Xref: proof|Xref: 47 [Try & Prove a
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/781,3298,2978,676/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564586422391
+sort_value: '145413298'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/781,3298,600,180/250,/0/default.jpg
 label: Examination

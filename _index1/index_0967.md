@@ -2,28 +2,29 @@
 pid: index_0967
 volume: Volume 3
 image_number: '15'
-head: cupping
+head: great death
 entry:
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0422/'>bloodletting</a>"
+see:
 index:
-item: "#item-f5291bdbf"
+item: "#item-a7e32b244"
 unparsed:
-line: 'Head: cupping|See: bloodletting|#item-f5291bdbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/842,3459,626,121/full/0/default.jpg
+line: 'Head: great death|#item-a7e32b244'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1650,3095,361,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538578089593
+annotation_uri: http://dev.llgc.org.uk/annotation/1565629717948
+sort_value: '301533095'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/842,3459,626,121/150,/0/default.jpg
-label: cupping
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1650,3095,361,130/150,/0/default.jpg
+label: great death
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0965'
+order: '0966'
 layout: index_item
 collection: index1
 ---

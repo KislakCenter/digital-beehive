@@ -2,8 +2,9 @@
 pid: index_3524
 volume: Volume 3
 image_number: '41'
-head: seamster
-entry: 861 [PAGE_MISSING]
+head: Satyre
+entry: "<a href='/digital-beehive/alpha4/alpha_0835/'>a</a>|<a href='/digital-beehive/num6/num_1979/'>1384
+  [Satyr]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e8d9ffebd"
+item: "#item-b70c8e91a"
 unparsed:
-line: 'Head: seamster|Entry: 861 [PAGE_MISSING]|#item-e8d9ffebd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1558,865,427,125/full/0/default.jpg
+line: 'Head: Satyre|Entry: a|Entry: 1384 [Satyr]|#item-b70c8e91a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,2041,553,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242300642
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239197288
+sort_value: '304112041'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1558,865,427,125/150,/0/default.jpg
-label: seamster
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,2041,553,130/150,/0/default.jpg
+label: Satyre
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

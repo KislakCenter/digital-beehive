@@ -2,9 +2,9 @@
 pid: index_1517
 volume: Volume 3
 image_number: '21'
-head: fool & folly
-entry: "<a href='/digital-beehive/alpha2/alpha_0339/'>a</a>|<a href='/digital-beehive/num5/num_1579/'>1159
-  [Folly]</a>"
+head: forsake all
+entry: "<a href='/digital-beehive/num4/num_1255/'>938 [Forsake all for Christ's sake]</a>|<a
+  href='/digital-beehive/num9/num_2969/'>2035 [Forsake all]</a>"
 topic:
 first_letter: F
 page:
@@ -12,17 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4969482b4"
+item: "#item-470136d89"
 unparsed:
-line: 'Head: fool & folly|Entry: a|Entry: 1159 [Folly]|#item-4969482b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/170,1290,585,128/full/0/default.jpg
+line: 'Head: forsake all|Entry: 938 [Forsake all for Christ''s sake]|Entry: 2035 [Forsake
+  all]|#item-470136d89'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/164,3269,597,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560781962569
+annotation_uri: http://dev.llgc.org.uk/annotation/1565622708493
+sort_value: '302113269'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/170,1290,585,128/150,/0/default.jpg
-label: fool & folly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/164,3269,597,153/150,/0/default.jpg
+label: forsake all
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue:
+issue: It is unclear if "all" is part of this entry, the following entry, or both.
 insertion_xref:
 order: '336'
 layout: index_item

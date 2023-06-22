@@ -2,9 +2,8 @@
 pid: index_0263
 volume: Volume 3
 image_number: '9'
-head: baudry
-entry: "<a href='/digital-beehive/alpha1/alpha_0065/'>a</a>|765 [PAGE_MISSING]|<a
-  href='/digital-beehive/num9/num_3002/'>2068 [Bawdry]</a>"
+head: Bacchus
+entry: "<a href='/digital-beehive/num9/num_3023/'>2087 [Drunckenness]</a>"
 topic:
 first_letter: B
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d0dbf82cc"
+item: "#item-7935ee5df"
 unparsed:
-line: 'Head: baudry|Entry: a|Entry: 765 [PAGE_MISSING]|Entry: 2068 [Bawdry]|#item-d0dbf82cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1585,1084,667,167/full/0/default.jpg
+line: 'Head: Bacchus|Entry: 2087 [Drunckenness]|#item-7935ee5df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/155,3123,501,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018049041
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016589381
+sort_value: '300913123'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1585,1084,667,167/150,/0/default.jpg
-label: baudry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/155,3123,501,105/150,/0/default.jpg
+label: Bacchus
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

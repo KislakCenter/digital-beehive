@@ -10,7 +10,7 @@ page:
 add:
 xref: 1623 [Love potions]
 see:
-index: "<a href='/digital-beehive/index3/index_2406/'>love potion</a>"
+index: "<a href='/digital-beehive/index3/index_2353/'>love potion</a>"
 item: "#item-ef0dc7445"
 unparsed:
 line: 'Entry: Love potions|Topic: Love potions|Xref: 1623 [Love potions]|Index: love
@@ -18,6 +18,7 @@ line: 'Entry: Love potions|Topic: Love potions|Xref: 1623 [Love potions]|Index: 
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/714,1621,3051,542/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564771770616
+sort_value: '203011621'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/714,1621,600,180/250,/0/default.jpg
 label: Love potions

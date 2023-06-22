@@ -15,7 +15,7 @@ page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/d
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0290/'>epitaph</a>|<a href='/digital-beehive/alpha3/alpha_0615/'>motto</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2042/'>inscriptions</a>"
+index: "<a href='/digital-beehive/index3/index_2058/'>inscriptions</a>"
 item: "#item-454cfd666"
 unparsed:
 line: 'Entry: Inscription|Topic: Inscription|Xref: epitaph|Xref: motto|Page: p.2 [Image
@@ -25,6 +25,7 @@ line: 'Entry: Inscription|Topic: Inscription|Xref: epitaph|Xref: motto|Page: p.2
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/337,3666,3000,541/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564760992756
+sort_value: '202313666'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/337,3666,600,180/250,/0/default.jpg
 label: Inscription

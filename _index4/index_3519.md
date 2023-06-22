@@ -2,8 +2,8 @@
 pid: index_3519
 volume: Volume 3
 image_number: '41'
-head: scepticism
-entry: "<a href='/digital-beehive/num6/num_1739/'>1254 [Scepticism]</a>"
+head: sand
+entry: 776 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5fcc01c1b"
+item: "#item-782d5c8ce"
 unparsed:
-line: 'Head: scepticism|Entry: 1254 [Scepticism]|#item-5fcc01c1b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/846,633,546,139/full/0/default.jpg
+line: 'Head: sand|Entry: 776 [PAGE_MISSING]|#item-782d5c8ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,1686,331,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240329694
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238998487
+sort_value: '304111686'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/846,633,546,139/150,/0/default.jpg
-label: scepticism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,1686,331,95/150,/0/default.jpg
+label: sand
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_4687
 volume: Volume 3
 image_number: '54'
-head: pin money
-entry: 4791 [WORD_MISSING]
+head: Chalk
+entry: "<a href='/digital-beehive/num9/num_3017/'>2083 [Chalk]</a>"
 topic:
 first_letter: insertion
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-b50f2098e"
-unparsed: Type Index|Insertion [:31.]
-line: 'Type: Index|Insertion: [:31.]|Head: pin money|Entry: 4791 [WORD_MISSING]|#item-b50f2098e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1127,1240,659,133/full/0/default.jpg
+item: "#item-dae7cfa90"
+unparsed: Type Index|Insertion [:22.]
+line: 'Type: Index|Insertion: [:22.]|Head: Chalk|Entry: 2083 [Chalk]|#item-dae7cfa90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/426,3227,494,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560954529370
-insertion: "[:31.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1127,1240,659,133/150,/0/default.jpg
-label: pin money
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885834582
+sort_value: '305413227'
+insertion: "[:22.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/426,3227,494,115/150,/0/default.jpg
+label: Chalk
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '650'
+order: '649'
 layout: index_item
 collection: index5
 ---

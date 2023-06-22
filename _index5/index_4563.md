@@ -2,9 +2,8 @@
 pid: index_4563
 volume: Volume 3
 image_number: '53'
-head: wine
-entry: "<a href='/digital-beehive/alpha5/alpha_1043/'>a</a>|<a href='/digital-beehive/num3/num_0765/'>590
-  [artificial Wines]</a>|<a href='/digital-beehive/num8/num_2681/'>1752 [Wine]</a>"
+head: wink
+entry: "<a href='/digital-beehive/num11/num_3517/'>4822 [a Winking]</a>"
 topic:
 first_letter: W
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-667df83a1"
+item: "#item-55f00d338"
 unparsed:
-line: 'Head: wine|Entry: a|Entry: 590 [artificial Wines]|Entry: 1752 [Wine]|#item-667df83a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/179,307,600,101/full/0/default.jpg
+line: 'Head: wink|Entry: 4822 [a Winking]|#item-55f00d338'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/195,579,377,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791209538
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791360129
+sort_value: '305310579'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/179,307,600,101/150,/0/default.jpg
-label: wine
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/195,579,377,88/150,/0/default.jpg
+label: wink
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '526'
+order: '525'
 layout: index_item
 collection: index5
 ---

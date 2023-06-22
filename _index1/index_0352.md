@@ -2,8 +2,8 @@
 pid: index_0352
 volume: Volume 3
 image_number: '10'
-head: besides
-entry: "<a href='/digital-beehive/num6/num_2055/'>1420 [Secondly]</a>"
+head: bench
+entry: 838 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6104fdd92"
+item: "#item-7c487eec6"
 unparsed:
-line: 'Head: besides|Entry: 1420 [Secondly]|#item-6104fdd92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/370,2232,387,101/full/0/default.jpg
+line: 'Head: bench|Entry: 838 [PAGE_MISSING]|#item-7c487eec6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/383,1527,382,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531148084101
+annotation_uri: http://dev.llgc.org.uk/annotation/1565019364619
+sort_value: '301011527'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/370,2232,387,101/150,/0/default.jpg
-label: besides
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/383,1527,382,119/150,/0/default.jpg
+label: bench
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

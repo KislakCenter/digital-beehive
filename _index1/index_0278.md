@@ -2,24 +2,25 @@
 pid: index_0278
 volume: Volume 3
 image_number: '9'
-head: austere
-entry: 760 [PAGE_MISSING]
+head: ball
+entry: "<a href='/digital-beehive/num2/num_0334/'>295 [Ball playing]</a>"
 topic:
-first_letter: A
+first_letter: B
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7d0a7b790"
+item: "#item-ad7fb16cc"
 unparsed:
-line: 'Head: austere|Entry: 760 [PAGE_MISSING]|#item-7d0a7b790'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,1486,475,108/full/0/default.jpg
+line: 'Head: ball|Entry: 295 [Ball playing]|#item-ad7fb16cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,1076,303,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015486663
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403392015
+sort_value: '300921076'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,1486,475,108/150,/0/default.jpg
-label: austere
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,1076,303,107/150,/0/default.jpg
+label: ball
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

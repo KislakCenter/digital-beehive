@@ -2,25 +2,25 @@
 pid: index_3472
 volume: Volume 3
 image_number: '40'
-head: sadness
-entry: "<a href='/digital-beehive/alpha4/alpha_0827/'>a</a>|<a href='/digital-beehive/num5/num_1610/'>1181
-  [Sadness]</a>|<a href='/digital-beehive/num9/num_3107/'>2165 [Sorrow]</a>"
+head: ruptures
+entry: "<a href='/digital-beehive/num3/num_0769/'>593 [Ruptures]</a>"
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7364926c2"
+item: "#item-f076b1043"
 unparsed:
-line: 'Head: sadness|Entry: a|Entry: 1181 [Sadness]|Entry: 2165 [Sorrow]|#item-7364926c2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1803,1974,689,152/full/0/default.jpg
+line: 'Head: ruptures|Entry: 593 [Ruptures]|#item-f076b1043'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,481,481,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234899366
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234410066
+sort_value: '304030481'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1803,1974,689,152/150,/0/default.jpg
-label: sadness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,481,481,138/150,/0/default.jpg
+label: ruptures
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_1990
 volume: Volume 3
 image_number: '25'
-head: incredible
-entry: 774 [PAGE_MISSING]
+head: in any wise
+entry: "<a href='/digital-beehive/num6/num_1981/'>1385 [Howsoever]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-593b3b7f7"
+item: "#item-e0b99fe3a"
 unparsed:
-line: 'Head: incredible|Entry: 774 [PAGE_MISSING]|#item-593b3b7f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1565,2474,520,90/full/0/default.jpg
+line: 'Head: in any wise|Entry: 1385 [Howsoever]|#item-e0b99fe3a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1586,484,500,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672175272
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669663782
+sort_value: '302530484'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1565,2474,520,90/150,/0/default.jpg
-label: incredible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1586,484,500,92/150,/0/default.jpg
+label: in any wise
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

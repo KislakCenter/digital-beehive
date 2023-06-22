@@ -2,8 +2,8 @@
 pid: index_3481
 volume: Volume 3
 image_number: '40'
-head: saffron
-entry: "<a href='/digital-beehive/num7/num_2511/'>1646 [Saffron]</a>"
+head: sack cloath
+entry: "<a href='/digital-beehive/num10/num_3474/'>4487 [Sackcloth]</a>"
 topic:
 first_letter: S
 page:
@@ -11,17 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1e0b6d8d8"
+item: "#item-5347cee38"
 unparsed:
-line: 'Head: saffron|Entry: 1646 [Saffron]|#item-1e0b6d8d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1828,2393,432,103/full/0/default.jpg
+line: 'Head: sack cloath|Entry: 4487 [Sackcloth]|#item-5347cee38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1793,1454,674,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235120350
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234723858
+sort_value: '304031454'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1828,2393,432,103/150,/0/default.jpg
-label: saffron
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1793,1454,674,105/150,/0/default.jpg
+label: sack cloath
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue:
+issue: Pastorius appears to have written 1487 under this entry. However, he likely
+  meant to write 4487 [Sackcloth].
 insertion_xref:
 order: '0729'
 layout: index_item

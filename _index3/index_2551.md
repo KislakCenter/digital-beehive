@@ -2,24 +2,25 @@
 pid: index_2551
 volume: Volume 3
 image_number: '31'
-head: monkey
-entry: 802 [PAGE_MISSING]
+head: mock
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3554/'>scorn</a>"
 index:
-item: "#item-ce7d258c1"
+item: "#item-8ffe8d422"
 unparsed:
-line: 'Head: monkey|Entry: 802 [PAGE_MISSING]|#item-ce7d258c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/868,819,478,157/full/0/default.jpg
+line: 'Head: mock|See: scorn|#item-8ffe8d422'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/168,2198,475,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355024441
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352283535
+sort_value: '303112198'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/868,819,478,157/150,/0/default.jpg
-label: monkey
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/168,2198,475,159/150,/0/default.jpg
+label: mock
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

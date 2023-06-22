@@ -2,8 +2,8 @@
 pid: index_3719
 volume: Volume 3
 image_number: '43'
-head: sign posts
-entry: "<a href='/digital-beehive/num4/num_1154/'>892 [Mark]</a>"
+head: sin agt. h. Ghost
+entry: "<a href='/digital-beehive/num2/num_0369/'>320 [Sin agt. the holy Ghost]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8d1ef2515"
+item: "#item-a4bd234e9"
 unparsed:
-line: 'Head: sign posts|Entry: 892 [Mark]|#item-8d1ef2515'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/196,1044,477,93/full/0/default.jpg
+line: 'Head: sin agt. h. Ghost|Entry: 320 [Sin agt. the holy Ghost]|#item-a4bd234e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/188,2843,679,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581897732
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582500329
+sort_value: '304312843'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/196,1044,477,93/150,/0/default.jpg
-label: sign posts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/188,2843,679,160/150,/0/default.jpg
+label: sin agt. h. Ghost
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

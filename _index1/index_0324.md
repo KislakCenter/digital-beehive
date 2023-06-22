@@ -2,8 +2,8 @@
 pid: index_0324
 volume: Volume 3
 image_number: '9'
-head: barley
-entry: "<a href='/digital-beehive/num3/num_0918/'>664 [Barley]</a>"
+head: beautifying
+entry: 4520 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-873b97e4a"
+item: "#item-1f028a607"
 unparsed:
-line: 'Head: barley|Entry: 664 [Barley]|#item-873b97e4a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/895,3069,359,119/full/0/default.jpg
+line: 'Head: beautifying|Entry: 4520 [PAGE_MISSING]|#item-1f028a607'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1598,2224,390,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506105472055
+annotation_uri: http://dev.llgc.org.uk/annotation/1530892178558
+sort_value: '300932224'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/895,3069,359,119/150,/0/default.jpg
-label: barley
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1598,2224,390,94/150,/0/default.jpg
+label: beautifying
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

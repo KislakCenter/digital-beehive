@@ -2,8 +2,8 @@
 pid: index_3748
 volume: Volume 3
 image_number: '43'
-head: slaughter
-entry: "<a href='/digital-beehive/num1/num_0253/'>235 [Battel]</a>"
+head: Sleeve
+entry: 4542 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ec46f97dd"
+item: "#item-c1b9fbe5c"
 unparsed:
-line: 'Head: slaughter|Entry: 235 [Battel]|#item-ec46f97dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,2056,592,144/full/0/default.jpg
+line: 'Head: Sleeve|Entry: 4542 [PAGE_MISSING]|#item-c1b9fbe5c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/878,2357,502,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583547375
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584571361
+sort_value: '304322357'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,2056,592,144/150,/0/default.jpg
-label: slaughter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/878,2357,502,112/150,/0/default.jpg
+label: Sleeve
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

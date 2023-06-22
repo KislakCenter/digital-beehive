@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_2921/'>peach</a>"
+index: "<a href='/digital-beehive/index4/index_2932/'>peach</a>"
 item: "#item-c3ca7d5f7"
 unparsed:
 line: 'Entry: Peach|Topic: Peach|Index: peach|#item-c3ca7d5f7'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/337,3371,2932,237/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565022211627
+sort_value: '203913371'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/337,3371,600,180/250,/0/default.jpg
 label: Peach

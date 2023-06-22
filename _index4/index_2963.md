@@ -2,9 +2,8 @@
 pid: index_2963
 volume: Volume 3
 image_number: '35'
-head: to pill
-entry: "<a href='/digital-beehive/num3/num_0907/'>659 [to shale, decorticare, potior,
-  to shell]</a>"
+head: with permission
+entry: "<a href='/digital-beehive/num6/num_2102/'>1441 [With permission]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ba0c6d8b5"
+item: "#item-0597fac86"
 unparsed:
-line: 'Head: to pill|Entry: 659 [to shale, decorticare, potior, to shell]|#item-ba0c6d8b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1511,1146,410,149/full/0/default.jpg
+line: 'Head: with permission|Entry: 1441 [With permission]|#item-0597fac86'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/123,3309,582,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976285095
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973831974
+sort_value: '303513309'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1511,1146,410,149/150,/0/default.jpg
-label: to pill
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/123,3309,582,123/150,/0/default.jpg
+label: with permission
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

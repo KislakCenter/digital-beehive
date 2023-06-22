@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index1/index_0277/'>bean</a>"
+index: "<a href='/digital-beehive/index1/index_0315/'>bean</a>"
 item: "#item-fd8d3d952"
 unparsed:
 line: 'Entry: Bean|Topic: Bean|Index: bean|#item-fd8d3d952'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/407,4309,3006,260/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558809980656
+sort_value: '143514309'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/407,4309,600,180/250,/0/default.jpg
 label: Bean

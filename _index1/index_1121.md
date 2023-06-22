@@ -2,8 +2,9 @@
 pid: index_1121
 volume: Volume 3
 image_number: '17'
-head: to drieshave
-entry: "<a href='/digital-beehive/num3/num_1047/'>714 [to rid one of his money]</a>"
+head: doctor
+entry: "<a href='/digital-beehive/alpha1/alpha_0258/'>a</a>|<a href='/digital-beehive/num4/num_1285/'>964
+  [Doctor]</a>|4643 [PAGE_MISSING]"
 topic:
 first_letter: D
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-32157ee40"
+item: "#item-94a54d92d"
 unparsed:
-line: 'Head: to drieshave|Entry: 714 [to rid one of his money]|#item-32157ee40'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1507,2011,600,126/full/0/default.jpg
+line: 'Head: doctor|Entry: a|Entry: 964 [Doctor]|Entry: 4643 [PAGE_MISSING]|#item-94a54d92d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/747,2418,710,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452565433
+annotation_uri: http://dev.llgc.org.uk/annotation/1560366899972
+sort_value: '301722418'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1507,2011,600,126/150,/0/default.jpg
-label: to drieshave
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/747,2418,710,130/150,/0/default.jpg
+label: doctor
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1119'
+order: '1120'
 layout: index_item
 collection: index1
 ---

@@ -11,13 +11,14 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0329/'>first</a>|<a href='/digital-beehive/num3/num_0694/'>550
   [Beginn]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0368/'>beginning</a>"
+index: "<a href='/digital-beehive/index1/index_0339/'>beginning</a>"
 item: "#item-bb591305c"
 unparsed:
 line: 'Entry: Beginning|Topic: Beginning|Xref: first|Xref: 550 [Beginn]|Index: beginning|#item-bb591305c'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/872,1989,2901,556/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744185975
+sort_value: '143611989'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/872,1989,600,180/250,/0/default.jpg
 label: Beginning

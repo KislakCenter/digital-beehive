@@ -2,8 +2,8 @@
 pid: index_3806
 volume: Volume 3
 image_number: '44'
-head: spaniards
-entry: "<a href='/digital-beehive/num5/num_1435/'>1066 [Spaniard]</a>"
+head: sort
+entry: "<a href='/digital-beehive/num9/num_2975/'>2041 [Sort : genus & Species]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-239400fa2"
+item: "#item-08388e5e1"
 unparsed:
-line: 'Head: spaniards|Entry: 1066 [Spaniard]|#item-239400fa2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1129,255,543,108/full/0/default.jpg
+line: 'Head: sort|Entry: 2041 [Sort : genus & Species]|#item-08388e5e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/560,2047,414,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529788251747
+annotation_uri: http://dev.llgc.org.uk/annotation/1529704488360
+sort_value: '304412047'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1129,255,543,108/150,/0/default.jpg
-label: spaniards
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/560,2047,414,125/150,/0/default.jpg
+label: sort
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

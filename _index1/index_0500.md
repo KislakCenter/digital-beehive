@@ -2,24 +2,25 @@
 pid: index_0500
 volume: Volume 3
 image_number: '11'
-head: bridle
-entry: 846 [PAGE_MISSING]
+head: by little
+entry:
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2008/'>Increase</a>"
 index:
-item: "#item-66ca139b6"
+item: "#item-da10710b7"
 unparsed:
-line: 'Head: bridle|Page: p.38 [Image 1.98]|Entry: 846 [PAGE_MISSING]|#item-66ca139b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/171,2292,537,164/full/0/default.jpg
+line: 'Head: by little|See: Increase|#item-da10710b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/867,3156,759,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419297798
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493620384
+sort_value: '301123156'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/171,2292,537,164/150,/0/default.jpg
-label: bridle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/867,3156,759,154/150,/0/default.jpg
+label: by little
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

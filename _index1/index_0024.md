@@ -2,8 +2,9 @@
 pid: index_0024
 volume: Volume 3
 image_number: '7'
-head: Albertus M
-entry: "<a href='/digital-beehive/num9/num_3016/'>2082 [Albertus M]</a>"
+head: accessary
+entry: "<a href='/digital-beehive/num6/num_1977/'>1384 [Alliance]</a>|<a href='/digital-beehive/num6/num_1978/'>1384
+  [Assistant]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-159438925"
+item: "#item-98fb0cd50"
 unparsed:
-line: 'Head: Albertus M|Entry: 2082 [Albertus M]|#item-159438925'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1608,680,570,102/full/0/default.jpg
+line: 'Head: accessary|Entry: 1384 [Alliance]|Entry: 1384 [Assistant]|#item-98fb0cd50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/185,2091,594,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768039991
+annotation_uri: http://dev.llgc.org.uk/annotation/1491191366719
+sort_value: '300712091'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1608,680,570,102/150,/0/default.jpg
-label: Albertus M
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/185,2091,594,106/150,/0/default.jpg
+label: accessary
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

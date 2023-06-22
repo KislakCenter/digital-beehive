@@ -2,9 +2,9 @@
 pid: index_4067
 volume: Volume 3
 image_number: '46'
-head: tax
-entry: "<a href='/digital-beehive/alpha5/alpha_0943/'>a</a>|<a href='/digital-beehive/num6/num_1928/'>1359
-  [Taxes]</a>|<a href='/digital-beehive/num9/num_3108/'>2166 [Tribute]</a>"
+head: tautology
+entry: "<a href='/digital-beehive/alpha5/alpha_0942/'>a</a>|<a href='/digital-beehive/num5/num_1485/'>1097
+  [Tautology]</a>"
 topic:
 first_letter: T
 page:
@@ -12,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-ee6696dd1"
+item: "#item-170679ed3"
 unparsed:
-line: 'Head: tax|Entry: a|Entry: 1359 [Taxes]|Entry: 2166 [Tribute]|#item-ee6696dd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1792,3347,662,136/full/0/default.jpg
+line: 'Head: tautology|Entry: a|Entry: 1097 [Tautology]|#item-170679ed3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1784,3243,593,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528920853073
+annotation_uri: http://dev.llgc.org.uk/annotation/1528984784363
+sort_value: '304633243'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1792,3347,662,136/150,/0/default.jpg
-label: tax
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1784,3243,593,130/150,/0/default.jpg
+label: tautology
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '032'
+order: '029'
 layout: index_item
 collection: index5
 ---

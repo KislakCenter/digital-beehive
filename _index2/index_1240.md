@@ -2,8 +2,8 @@
 pid: index_1240
 volume: Volume 3
 image_number: '18'
-head: enjoymt
-entry: "<a href='/digital-beehive/num3/num_0812/'>611 [Enjoyment]</a>"
+head: empire
+entry: "<a href='/digital-beehive/alpha2/alpha_0284/'>a</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5f988fc3d"
+item: "#item-a3b4bc93e"
 unparsed:
-line: 'Head: enjoymt|Entry: 611 [Enjoyment]|#item-5f988fc3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1836,2263,441,121/full/0/default.jpg
+line: 'Head: empire|Entry: a|#item-a3b4bc93e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1873,265,377,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835110730
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745014362
+sort_value: '301830265'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1836,2263,441,121/150,/0/default.jpg
-label: enjoymt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1873,265,377,149/150,/0/default.jpg
+label: empire
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:

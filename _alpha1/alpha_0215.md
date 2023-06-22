@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0857/'>Self-murther</a>|<a href='/digital-beehive/num2/num_0526/'>424
   [Fear of death]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0963/'>fear of Death</a>"
+index: "<a href='/digital-beehive/index1/index_0970/'>fear of Death</a>"
 item: "#item-802c3c09e"
 unparsed:
 line: 'Entry: Fear of Death|Topic: Fear of Death|Xref: Self-murther|Xref: 424 [Fear
@@ -19,6 +19,7 @@ line: 'Entry: Fear of Death|Topic: Fear of Death|Xref: Self-murther|Xref: 424 [F
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/720,740,3054,566/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563996839533
+sort_value: '144810740'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/720,740,600,180/250,/0/default.jpg
 label: Fear of Death

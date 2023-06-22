@@ -2,29 +2,29 @@
 pid: index_4107
 volume: Volume 3
 image_number: '47'
-head: tempests
-entry: "<a href='/digital-beehive/num6/num_1901/'>1346 [Thunder & Lightning]</a>|<a
-  href='/digital-beehive/num6/num_1902/'>1346 [Hailstones]</a>"
+head: thee & thou
+entry: "<a href='/digital-beehive/num7/num_2235/'>1512 [Thee & thou]</a>"
 topic:
 first_letter: T
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4128/'>thouing</a>"
 index:
-item: "#item-4f37bb72c"
+item: "#item-d670cb381"
 unparsed:
-line: 'Head: tempests|Entry: 1346 [Thunder & Lightning]|Entry: 1346 [Hailstones]|#item-4f37bb72c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/187,1512,467,125/full/0/default.jpg
+line: 'Head: thee & thou|See: thouing|Entry: 1512 [Thee & thou]|#item-d670cb381'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/885,774,744,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532049560407
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294327005
+sort_value: '304720774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/187,1512,467,125/150,/0/default.jpg
-label: tempests
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/885,774,744,165/150,/0/default.jpg
+label: thee & thou
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '070'
+order: '069'
 layout: index_item
 collection: index5
 ---

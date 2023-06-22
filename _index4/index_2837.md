@@ -2,24 +2,25 @@
 pid: index_2837
 volume: Volume 3
 image_number: '34'
-head: pear
-entry: "<a href='/digital-beehive/alpha4/alpha_0699/'>a</a>"
+head: to overcome
+entry:
 topic:
-first_letter: P
+first_letter: O
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4325/'>victory</a>"
 index:
-item: "#item-57376df37"
+item: "#item-b731aac05"
 unparsed:
-line: 'Head: pear|Entry: a|#item-57376df37'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1788,3272,388,173/full/0/default.jpg
+line: 'Head: to overcome|See: victory|#item-b731aac05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/439,727,819,197/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538496019412
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425071468
+sort_value: '303410727'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1788,3272,388,173/150,/0/default.jpg
-label: pear
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/439,727,819,197/150,/0/default.jpg
+label: to overcome
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

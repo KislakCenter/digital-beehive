@@ -2,24 +2,25 @@
 pid: index_0517
 volume: Volume 3
 image_number: '11'
-head: brimstone
-entry: "<a href='/digital-beehive/num4/num_1193/'>911 [Brimstone]</a>"
+head: camphire
+entry: 740 [PAGE_MISSING]
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e1a6ba41e"
+item: "#item-8495960fb"
 unparsed:
-line: 'Head: brimstone|Entry: 911 [Brimstone]|#item-e1a6ba41e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/170,2723,449,151/full/0/default.jpg
+line: 'Head: camphire|Entry: 740 [PAGE_MISSING]|#item-8495960fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1572,1240,523,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419774010
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494837299
+sort_value: '301131240'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/170,2723,449,151/150,/0/default.jpg
-label: brimstone
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1572,1240,523,135/150,/0/default.jpg
+label: camphire
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

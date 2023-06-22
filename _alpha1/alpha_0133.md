@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index1/index_0564/'>cause of Sin</a>"
+index: "<a href='/digital-beehive/index1/index_0571/'>cause of Sin</a>"
 item: "#item-bc4d70036"
 unparsed:
 line: 'Entry: Cause of Sin|Topic: Cause of Sin|Index: cause of Sin|#item-bc4d70036'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/824,3330,2960,429/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499370264755
+sort_value: '144013330'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/824,3330,600,180/250,/0/default.jpg
 label: Cause of Sin

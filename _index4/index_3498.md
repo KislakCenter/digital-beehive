@@ -2,26 +2,25 @@
 pid: index_3498
 volume: Volume 3
 image_number: '40'
-head: rules for young merchants
-entry: "<a href='/digital-beehive/num6/num_2148/'>1463 [One friend Counsel the other
-  who newly begun to Merchandize]</a>"
+head: salamander
+entry: "<a href='/digital-beehive/num5/num_1720/'>1245 [Salamander]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b586608f7"
+item: "#item-5fe2f6efe"
 unparsed:
-line: 'Head: rules for young merchants|Entry: 1463 [One friend Counsel the other who
-  newly begun to Merchandize]|#item-b586608f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1146,3190,734,181/full/0/default.jpg
+line: 'Head: salamander|Entry: 1245 [Salamander]|#item-5fe2f6efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234182812
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235309496
+sort_value: '304033098'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1146,3190,734,181/150,/0/default.jpg
-label: rules for young merchants
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/150,/0/default.jpg
+label: salamander
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

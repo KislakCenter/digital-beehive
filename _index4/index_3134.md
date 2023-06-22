@@ -2,9 +2,8 @@
 pid: index_3134
 volume: Volume 3
 image_number: '37'
-head: proof, or trial
-entry: "<a href='/digital-beehive/alpha4/alpha_0751/'>a</a>|<a href='/digital-beehive/num2/num_0609/'>487
-  [Proof, Try all]</a>"
+head: presence of Christ
+entry: "<a href='/digital-beehive/num2/num_0289/'>261 [Absence & Presence of Xst]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9c5efa0ad"
+item: "#item-772ab6bc1"
 unparsed:
-line: 'Head: proof, or trial|Entry: a|Entry: 487 [Proof, Try all]|#item-9c5efa0ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1489,260,671,130/full/0/default.jpg
+line: 'Head: presence of Christ|Entry: 261 [Absence & Presence of Xst]|#item-772ab6bc1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/98,354,593,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868779645
+annotation_uri: http://dev.llgc.org.uk/annotation/1550865893640
+sort_value: '303710354'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1489,260,671,130/150,/0/default.jpg
-label: proof, or trial
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/98,354,593,126/150,/0/default.jpg
+label: presence of Christ
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

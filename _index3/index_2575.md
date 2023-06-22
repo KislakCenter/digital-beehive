@@ -2,8 +2,8 @@
 pid: index_2575
 volume: Volume 3
 image_number: '31'
-head: moose
-entry: "<a href='/digital-beehive/num7/num_2269/'>1529 [Moose : Elk]</a>"
+head: moor
+entry: "<a href='/digital-beehive/num2/num_0461/'>382 [Neger or Negro]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-724f0aac4"
+item: "#item-c8739f3ee"
 unparsed:
-line: 'Head: moose|Entry: 1529 [Moose : Elk]|#item-724f0aac4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/876,1560,395,134/full/0/default.jpg
+line: 'Head: moor|Entry: 382 [Neger or Negro]|#item-c8739f3ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/887,1456,346,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355670477
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355608571
+sort_value: '303121456'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/876,1560,395,134/150,/0/default.jpg
-label: moose
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/887,1456,346,100/150,/0/default.jpg
+label: moor
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

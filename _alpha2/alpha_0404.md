@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0287/'>enmity</a>|747 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index2/index_1786/'>hatred</a>"
+index: "<a href='/digital-beehive/index2/index_1767/'>hatred</a>"
 item: "#item-703cad630"
 unparsed:
 line: 'Entry: Hatred|Topic: Hatred|Xref: enmity|Xref: 747 [PAGE_MISSING]|Index: hatred|#item-703cad630'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/375,1372,3043,580/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564605161158
+sort_value: '201711372'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/375,1372,600,180/250,/0/default.jpg
 label: Hatred

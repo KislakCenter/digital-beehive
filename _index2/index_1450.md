@@ -2,8 +2,8 @@
 pid: index_1450
 volume: Volume 3
 image_number: '20'
-head: family duties
-entry: "<a href='/digital-beehive/num4/num_1134/'>885 [Family Duties]</a>"
+head: to finish
+entry: "<a href='/digital-beehive/num4/num_1114/'>878 [To Finish]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e78134c01"
+item: "#item-01c764938"
 unparsed:
-line: 'Head: family duties|Entry: 885 [Family Duties]|#item-e78134c01'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/382,2358,657,154/full/0/default.jpg
+line: 'Head: to finish|Entry: 878 [To Finish]|#item-01c764938'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1781,521,530,203/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657887928
+annotation_uri: http://dev.llgc.org.uk/annotation/1562600778282
+sort_value: '302030521'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/382,2358,657,154/150,/0/default.jpg
-label: family duties
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1781,521,530,203/150,/0/default.jpg
+label: to finish
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0777/'>Rarity</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1459/'>fewness</a>"
+index: "<a href='/digital-beehive/index2/index_1437/'>fewness</a>"
 item: "#item-5113dc0b5"
 unparsed:
 line: 'Entry: Fewness|Topic: Fewness|Xref: Rarity|Index: fewness|#item-5113dc0b5'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/394,2242,2993,476/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1474833674901
+sort_value: '201112242'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/394,2242,600,180/250,/0/default.jpg
 label: Fewness

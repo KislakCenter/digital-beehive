@@ -2,8 +2,9 @@
 pid: index_3142
 volume: Volume 3
 image_number: '37'
-head: prop
-entry: "<a href='/digital-beehive/num3/num_0900/'>654 [a Prop]</a>"
+head: pretender to learning
+entry: "<a href='/digital-beehive/num1/num_0109/'>105 [a Pretender to learning]</a>|<a
+  href='/digital-beehive/num9/num_3155/'>2212 [Pretender to Learning]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +12,17 @@ add:
 xref:
 see:
 index:
-item: "#item-bd171737e"
+item: "#item-228d43914"
 unparsed:
-line: 'Head: prop|Entry: 654 [a Prop]|#item-bd171737e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1492,598,337,84/full/0/default.jpg
+line: 'Head: pretender to learning|Entry: 105 [a Pretender to learning]|Entry: 2212
+  [Pretender to Learning]|#item-228d43914'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/106,1129,706,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869039401
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866266669
+sort_value: '303711129'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1492,598,337,84/150,/0/default.jpg
-label: prop
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/106,1129,706,168/150,/0/default.jpg
+label: pretender to learning
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

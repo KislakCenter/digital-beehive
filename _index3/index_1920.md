@@ -2,8 +2,8 @@
 pid: index_1920
 volume: Volume 3
 image_number: '25'
-head: incest
-entry: "<a href='/digital-beehive/num3/num_0726/'>570 [Incest]</a>"
+head: James 3d
+entry: "<a href='/digital-beehive/num9/num_3129/'>2186 [the Pretender James 3d]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-cee0fc442"
+item: "#item-f0f03a072"
 unparsed:
-line: 'Head: incest|Entry: 570 [Incest]|#item-cee0fc442'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,806,1,1/full/0/default.jpg
+line: 'Head: James 3d|Entry: 2186 [the Pretender James 3d]|#item-f0f03a072'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/168,285,616,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559670442840
+annotation_uri: http://dev.llgc.org.uk/annotation/1559658677810
+sort_value: '302510285'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,806,1,1/150,/0/default.jpg
-label: incest
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/168,285,616,135/150,/0/default.jpg
+label: James 3d
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

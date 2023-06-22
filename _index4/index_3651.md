@@ -17,6 +17,7 @@ line: 'Head: to sew|Entry: 624 [To Sew]|#item-aa9d854f7'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1096,1708,448,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559574302112
+sort_value: '304221708'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1096,1708,448,130/150,/0/default.jpg
 label: to sew

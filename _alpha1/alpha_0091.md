@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0735/'>Pride</a>|728 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0366/'>boasting</a>"
+index: "<a href='/digital-beehive/index1/index_0400/'>boasting</a>"
 item: "#item-71c386bdf"
 unparsed:
 line: 'Entry: Boasting|Topic: Boasting|Xref: Pride|Xref: 728 [PAGE_MISSING]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Boasting|Topic: Boasting|Xref: Pride|Xref: 728 [PAGE_MISSING]|Inde
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/377,2611,3027,412/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558732687125
+sort_value: '143712611'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/377,2611,600,180/250,/0/default.jpg
 label: Boasting

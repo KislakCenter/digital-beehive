@@ -2,9 +2,8 @@
 pid: index_3185
 volume: Volume 3
 image_number: '37'
-head: protoplasts
-entry: "<a href='/digital-beehive/num2/num_0472/'>389 [Adam]</a>|<a href='/digital-beehive/num9/num_3064/'>2125
-  [Adam]</a>"
+head: project
+entry: "<a href='/digital-beehive/num3/num_0805/'>608 [Undertaking]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-cc4da48b9"
+item: "#item-a3bc22e6d"
 unparsed:
-line: 'Head: protoplasts|Entry: 389 [Adam]|Entry: 2125 [Adam]|#item-cc4da48b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,2166,735,137/full/0/default.jpg
+line: 'Head: project|Entry: 608 [Undertaking]|#item-a3bc22e6d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/780,2739,429,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869529673
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868523716
+sort_value: '303722739'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,2166,735,137/150,/0/default.jpg
-label: protoplasts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/780,2739,429,104/150,/0/default.jpg
+label: project
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

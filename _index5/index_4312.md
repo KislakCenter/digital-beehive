@@ -2,28 +2,29 @@
 pid: index_4312
 volume: Volume 3
 image_number: '49'
-head: turn sole
-entry:
+head: Venus
+entry: "<a href='/digital-beehive/num6/num_2014/'>1402 [Lasciviousness]</a>"
 topic:
-first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+first_letter: U/V
+page:
 add:
 xref:
 see:
 index:
-item: "#item-2d80c3ef9"
+item: "#item-8d3bb4984"
 unparsed:
-line: 'Head: turn sole|Page: p.33 [Image 1.93]|#item-2d80c3ef9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/211,2198,452,140/full/0/default.jpg
+line: 'Head: Venus|Entry: 1402 [Lasciviousness]|#item-8d3bb4984'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/929,2810,398,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656872836
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658785372
+sort_value: '304922810'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/211,2198,452,140/150,/0/default.jpg
-label: turn sole
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/929,2810,398,111/150,/0/default.jpg
+label: Venus
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '275'
+order: '274'
 layout: index_item
 collection: index5
 ---

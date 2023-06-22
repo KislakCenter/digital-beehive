@@ -2,8 +2,8 @@
 pid: index_4340
 volume: Volume 3
 image_number: '49'
-head: verses
-entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>"
+head: Virginia
+entry: "<a href='/digital-beehive/num7/num_2254/'>1521 [Virginia]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-878554fc2"
+item: "#item-606867e5f"
 unparsed:
-line: 'Head: verses|Entry: 1585 [Verses]|#item-878554fc2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/956,3197,393,152/full/0/default.jpg
+line: 'Head: Virginia|Entry: 1521 [Virginia]|#item-606867e5f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1632,2333,446,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658970231
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661059857
+sort_value: '304932333'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/956,3197,393,152/150,/0/default.jpg
-label: verses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1632,2333,446,150/150,/0/default.jpg
+label: Virginia
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '303'
+order: '302'
 layout: index_item
 collection: index5
 ---

@@ -2,25 +2,25 @@
 pid: index_3706
 volume: Volume 3
 image_number: '43'
-head: sighs
-entry: "<a href='/digital-beehive/alpha4/alpha_0875/'>a</a>|<a href='/digital-beehive/num7/num_2667/'>1740
-  [Sighe]</a>"
+head: significa[ti]on
+entry: 798 [PAGE_MISSING]
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a8263e53e"
+item: "#item-49b7df76c"
 unparsed:
-line: 'Head: sighs|Page: p.42 [Image 1.102]|Entry: a|Entry: 1740 [Sighe]|#item-a8263e53e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/187,538,632,170/full/0/default.jpg
+line: 'Head: significa[ti]on|Entry: 798 [PAGE_MISSING]|#item-49b7df76c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/175,1183,575,197/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577578496
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581961952
+sort_value: '304311183'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/187,538,632,170/150,/0/default.jpg
-label: sighs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/175,1183,575,197/150,/0/default.jpg
+label: significa[ti]on
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

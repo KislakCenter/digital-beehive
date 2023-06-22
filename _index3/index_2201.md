@@ -2,9 +2,9 @@
 pid: index_2201
 volume: Volume 3
 image_number: '27'
-head: latin
-entry: "<a href='/digital-beehive/alpha3/alpha_0520/'>a</a>|<a href='/digital-beehive/num11/num_3520/'>4825
-  [Latin]</a>"
+head: large
+entry: "<a href='/digital-beehive/num3/num_0860/'>635 [Great, rich & eminent Persons]</a>|800
+  [PAGE_MISSING]"
 topic:
 first_letter: L
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-229c00e23"
+item: "#item-9d0ceed6a"
 unparsed:
-line: 'Head: latin|Entry: a|Entry: 4825 [Latin]|#item-229c00e23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1528,2825,495,119/full/0/default.jpg
+line: 'Head: large|Entry: 635 [Great, rich & eminent Persons]|Entry: 800 [PAGE_MISSING]|#item-9d0ceed6a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1572,1283,469,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836664349
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835569557
+sort_value: '302731283'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1528,2825,495,119/150,/0/default.jpg
-label: latin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1572,1283,469,145/150,/0/default.jpg
+label: large
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

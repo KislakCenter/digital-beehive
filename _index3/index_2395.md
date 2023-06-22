@@ -2,24 +2,25 @@
 pid: index_2395
 volume: Volume 3
 image_number: '29'
-head: manner
-entry:
+head: malabaria
+entry: "<a href='/digital-beehive/num6/num_2152/'>1465 [Malabarians]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1571/'>form</a>|<a href='/digital-beehive/index1/index_0870/'>custom</a>"
+see:
 index:
-item: "#item-31de29b16"
+item: "#item-b95e73c64"
 unparsed:
-line: 'Head: manner|See: form|See: custom|#item-31de29b16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2600,696,125/full/0/default.jpg
+line: 'Head: malabaria|Entry: 1465 [Malabarians]|#item-b95e73c64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1546,710,513,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196222265
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194050155
+sort_value: '302930710'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2600,696,125/150,/0/default.jpg
-label: manner
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1546,710,513,114/150,/0/default.jpg
+label: malabaria
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

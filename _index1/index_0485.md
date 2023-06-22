@@ -2,24 +2,25 @@
 pid: index_0485
 volume: Volume 3
 image_number: '11'
-head: to cancel
-entry: 861 [PAGE_MISSING]
+head: burnt offering
+entry: "<a href='/digital-beehive/num8/num_2826/'>1920 [Burnt offering]</a>"
 topic:
-first_letter: C
+first_letter: B
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9fad98617"
+item: "#item-22dbb397f"
 unparsed:
-line: 'Head: to cancel|Entry: 861 [PAGE_MISSING]|#item-9fad98617'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1566,1707,555,109/full/0/default.jpg
+line: 'Head: burnt offering|Entry: 1920 [Burnt offering]|#item-22dbb397f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/889,1723,540,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531495157769
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421383420
+sort_value: '301121723'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1566,1707,555,109/150,/0/default.jpg
-label: to cancel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/889,1723,540,91/150,/0/default.jpg
+label: burnt offering
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

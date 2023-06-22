@@ -2,25 +2,25 @@
 pid: index_3458
 volume: Volume 3
 image_number: '40'
-head: Sacrifice
-entry: "<a href='/digital-beehive/alpha4/alpha_0826/'>a</a>|<a href='/digital-beehive/num5/num_1717/'>1244
-  [Sacrifices]</a>"
+head: royalists
+entry: "<a href='/digital-beehive/num8/num_2697/'>1766 [High Church]</a>"
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2e9949e70"
+item: "#item-b704034f3"
 unparsed:
-line: 'Head: Sacrifice|Entry: a|Entry: 1244 [Sacrifices]|#item-2e9949e70'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1797,1510,598,136/full/0/default.jpg
+line: 'Head: royalists|Entry: 1766 [High Church]|#item-b704034f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2264,486,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234756783
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233786077
+sort_value: '304022264'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1797,1510,598,136/150,/0/default.jpg
-label: Sacrifice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2264,486,125/150,/0/default.jpg
+label: royalists
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

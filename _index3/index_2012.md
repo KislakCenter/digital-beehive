@@ -2,8 +2,8 @@
 pid: index_2012
 volume: Volume 3
 image_number: '25'
-head: Indians
-entry: 768 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2259/'>1524 [Indians]</a>
+head: indecent
+entry: "<a href='/digital-beehive/num3/num_1032/'>709 [Unseemly]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-18961b52b"
+item: "#item-fa31a575b"
 unparsed:
-line: 'Head: Indians|Entry: 768 [PAGE_MISSING]|Entry: 1524 [Indians]|#item-18961b52b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1525,3169,602,195/full/0/default.jpg
+line: 'Head: indecent|Entry: 709 [Unseemly]|#item-fa31a575b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1584,2648,449,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672892597
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672549694
+sort_value: '302532648'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1525,3169,602,195/150,/0/default.jpg
-label: Indians
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1584,2648,449,102/150,/0/default.jpg
+label: indecent
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_3047
 volume: Volume 3
 image_number: '36'
-head: platonical love
-entry: "<a href='/digital-beehive/num7/num_2327/'>1559 [Platonical Love]</a>"
+head: plough
+entry: "<a href='/digital-beehive/num5/num_1534/'>1130 [Agriculture]</a>"
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-c9b5fd987"
+item: "#item-9c902355c"
 unparsed:
-line: 'Head: platonical love|Entry: 1559 [Platonical Love]|#item-c9b5fd987'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/484,490,687,133/full/0/default.jpg
+line: 'Head: plough|Page: p.38 [Image 1.98]|Entry: 1130 [Agriculture]|#item-9c902355c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/463,1371,624,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1542052810249
+annotation_uri: http://dev.llgc.org.uk/annotation/1544207968355
+sort_value: '303611371'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/484,490,687,133/150,/0/default.jpg
-label: platonical love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/463,1371,624,189/150,/0/default.jpg
+label: plough
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

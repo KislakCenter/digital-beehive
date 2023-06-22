@@ -2,28 +2,30 @@
 pid: index_0941
 volume: Volume 3
 image_number: '15'
-head: courtesie
-entry:
+head: dam[m]age
+entry: "<a href='/digital-beehive/alpha1/alpha_0207/'>a</a>|<a href='/digital-beehive/num6/num_2058/'>1422
+  [Dam[m]age]</a>"
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0738/'>civility</a>"
+see:
 index:
-item: "#item-f7044a5ed"
+item: "#item-588ddfb8a"
 unparsed:
-line: 'Head: courtesie|See: civility|#item-f7044a5ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/149,2581,709,142/full/0/default.jpg
+line: 'Head: dam[m]age|Entry: a|Entry: 1422 [Dam[m]age]|#item-588ddfb8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1486,1064,671,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974965472
+annotation_uri: http://dev.llgc.org.uk/annotation/1506976621639
+sort_value: '301531064'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/149,2581,709,142/150,/0/default.jpg
-label: courtesie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1486,1064,671,131/150,/0/default.jpg
+label: dam[m]age
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0939'
+order: '0940'
 layout: index_item
 collection: index1
 ---

@@ -2,8 +2,9 @@
 pid: index_2208
 volume: Volume 3
 image_number: '27'
-head: latin English
-entry: "<a href='/digital-beehive/num5/num_1355/'>1015 [Some English Latin]</a>"
+head: last words
+entry: "<a href='/digital-beehive/alpha3/alpha_0519/'>a</a>|<a href='/digital-beehive/num10/num_3262/'>2298
+  [Last Words]</a>|<a href='/digital-beehive/num10/num_3264/'>2300 [Last Words]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7b42a65fe"
+item: "#item-09e22e725"
 unparsed:
-line: 'Head: latin English|Entry: 1015 [Some English Latin]|#item-7b42a65fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1507,3020,491,134/full/0/default.jpg
+line: 'Head: last words|Entry: a|Entry: 2298 [Last Words]|Entry: 2300 [Last Words]|#item-09e22e725'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1524,2008,723,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836790573
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836046913
+sort_value: '302732008'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1507,3020,491,134/150,/0/default.jpg
-label: latin English
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1524,2008,723,142/150,/0/default.jpg
+label: last words
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

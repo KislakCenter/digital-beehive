@@ -2,24 +2,25 @@
 pid: index_2544
 volume: Volume 3
 image_number: '31'
-head: love of money
-entry:
+head: mist
+entry: "<a href='/digital-beehive/num2/num_0464/'>383 [A mist]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0888/'>Covetousness</a>"
+see:
 index:
-item: "#item-7f99b8d6d"
+item: "#item-f10b024e3"
 unparsed:
-line: 'Head: love of money|See: Covetousness|#item-7f99b8d6d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/857,525,765,151/full/0/default.jpg
+line: 'Head: mist|Entry: 383 [A mist]|#item-f10b024e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/146,1321,366,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560354656751
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351848796
+sort_value: '303111321'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/857,525,765,151/150,/0/default.jpg
-label: love of money
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/146,1321,366,111/150,/0/default.jpg
+label: mist
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

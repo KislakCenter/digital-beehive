@@ -2,9 +2,9 @@
 pid: index_0225
 volume: Volume 3
 image_number: '8'
-head: antipathy
-entry: "<a href='/digital-beehive/alpha1/alpha_0034/'>a</a>|<a href='/digital-beehive/num3/num_0927/'>670
-  [Antipathy]</a>"
+head: assault
+entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1883/''>1338 [To Assault
+  : besiege]</a>|<a href=''/digital-beehive/num9/num_3009/''>2075 [Attack]</a>'
 topic:
 first_letter: A
 page:
@@ -12,15 +12,17 @@ add:
 xref:
 see:
 index:
-item: "#item-afd65e371"
+item: "#item-cc62b5fe4"
 unparsed:
-line: 'Head: antipathy|Entry: a|Entry: 670 [Antipathy]|#item-afd65e371'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/369,3186,592,149/full/0/default.jpg
+line: 'Head: assault|Entry: 742 [PAGE_MISSING]|Entry: 1338 [To Assault : besiege]|Entry:
+  2075 [Attack]|#item-cc62b5fe4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1764,2573,784,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759280263
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631802107
+sort_value: '300832573'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/369,3186,592,149/150,/0/default.jpg
-label: antipathy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1764,2573,784,162/150,/0/default.jpg
+label: assault
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

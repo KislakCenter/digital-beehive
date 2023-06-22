@@ -2,9 +2,8 @@
 pid: index_2290
 volume: Volume 3
 image_number: '28'
-head: little talk
-entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/num5/num_1594/'>1169
-  [Laconism]</a>"
+head: "[:62.]"
+entry:
 topic:
 first_letter: L
 page:
@@ -12,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-47e9ba329"
-unparsed:
-line: 'Head: little talk|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-47e9ba329'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1814,2101,438,137/full/0/default.jpg
+item: "#item-6a37d515c"
+unparsed: 'Type: Index|Insertion Xref: [:62.]|#item-6a37d515c'
+line: 'Type: Index|Insertion Xref: [:62.]|#item-6a37d515c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/2403,379,140,195/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849396978
+annotation_uri: http://dev.llgc.org.uk/annotation/1560199514613
+sort_value: '302830379'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1814,2101,438,137/150,/0/default.jpg
-label: little talk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/2403,379,140,195/150,/0/default.jpg
+label: "[:62.]"
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4731/'>to like</a>"
 order: '372'
 layout: index_item
 collection: index3

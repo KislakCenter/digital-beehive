@@ -2,8 +2,8 @@
 pid: index_2338
 volume: Volume 3
 image_number: '29'
-head: Lully
-entry: "<a href='/digital-beehive/num11/num_3488/'>4796 [Lully's]</a>"
+head: lotteries
+entry: "<a href='/digital-beehive/num1/num_0091/'>89 [Lotteries (Gl√ºckshafen)]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-50cf47264"
+item: "#item-27746065d"
 unparsed:
-line: 'Head: Lully|Entry: 4796 [Lully''s]|#item-50cf47264'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/889,658,413,118/full/0/default.jpg
+line: 'Head: lotteries|Entry: 89 [Lotteries (Gl√ºckshafen)]|#item-27746065d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185340795
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178684866
+sort_value: '302911900'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/889,658,413,118/150,/0/default.jpg
-label: Lully
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/150,/0/default.jpg
+label: lotteries
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

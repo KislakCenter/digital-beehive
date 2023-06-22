@@ -2,28 +2,29 @@
 pid: index_4448
 volume: Volume 3
 image_number: '51'
-head: utensils
+head: utensils of war
 entry:
 topic:
 first_letter: U/V
-page:
-add:
+page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
+add: weapons
 xref:
-see: "<a href='/digital-beehive/index3/index_2078/'>instrumts</a>"
+see:
 index:
-item: "#item-58983f705"
+item: "#item-34fdc1ae0"
 unparsed:
-line: 'Head: utensils|See: instrumts|#item-58983f705'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/959,1868,679,121/full/0/default.jpg
+line: 'Head: utensils of war|Page: p.6 [Image 1.66]|Add: weapons|#item-34fdc1ae0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/955,1983,838,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646898817
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646970779
+sort_value: '305121983'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/959,1868,679,121/150,/0/default.jpg
-label: utensils
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/955,1983,838,132/150,/0/default.jpg
+label: utensils of war
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '411'
+order: '410'
 layout: index_item
 collection: index5
 ---

@@ -2,25 +2,26 @@
 pid: index_0539
 volume: Volume 3
 image_number: '11'
-head: careless
-entry:
+head: care
+entry: "<a href='/digital-beehive/alpha1/alpha_0124/'>a</a>|<a href='/digital-beehive/num3/num_0899/'>654
+  [Care]</a>|<a href='/digital-beehive/num10/num_3370/'>2398 [Care]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2663/'>negligent</a>|<a href='/digital-beehive/index4/index_3335/'>remiss</a>|<a
-  href='/digital-beehive/index4/index_3564/'>Security</a>"
+see:
 index:
-item: "#item-ab9188038"
+item: "#item-9ee87b862"
 unparsed:
-line: 'Head: careless|See: negligent|See: remiss|See: Security|#item-ab9188038'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1561,3566,730,188/full/0/default.jpg
+line: 'Head: care|Entry: a|Entry: 654 [Care]|Entry: 2398 [Care]|#item-9ee87b862'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1568,3478,628,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531496460309
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496314000
+sort_value: '301133478'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1561,3566,730,188/150,/0/default.jpg
-label: careless
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1568,3478,628,84/150,/0/default.jpg
+label: care
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_0414
 volume: Volume 3
 image_number: '10'
-head: besom
-entry: 842 [PAGE_MISSING]
+head: border
+entry: 749 [PAGE_MISSING]
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-11c933cea"
+item: "#item-19ee2bfe5"
 unparsed:
-line: 'Head: besom|Page: p.38 [Image 1.98]|Entry: 842 [PAGE_MISSING]|#item-11c933cea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/360,2558,536,144/full/0/default.jpg
+line: 'Head: border|Entry: 749 [PAGE_MISSING]|#item-19ee2bfe5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1792,1871,417,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531148378646
+annotation_uri: http://dev.llgc.org.uk/annotation/1531416065760
+sort_value: '301031871'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/360,2558,536,144/150,/0/default.jpg
-label: besom
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1792,1871,417,136/150,/0/default.jpg
+label: border
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

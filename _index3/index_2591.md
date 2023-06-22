@@ -2,26 +2,25 @@
 pid: index_2591
 volume: Volume 3
 image_number: '31'
-head: morning
-entry: "<a href='/digital-beehive/alpha3/alpha_0610/'>a</a>|<a href='/digital-beehive/num4/num_1290/'>969
-  [morning]</a>|4540 [PAGE_MISSING]"
+head: Moscovy
+entry: "<a href='/digital-beehive/num5/num_1529/'>1127 [Moscovy]</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_077/'>p.27 [Image 1.87]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-198556c22"
+item: "#item-0c3329c2e"
 unparsed:
-line: 'Head: morning|Page: p.27 [Image 1.87]|Entry: a|Entry: 969 [morning]|Entry:
-  4540 [PAGE_MISSING]|#item-198556c22'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/855,2053,844,132/full/0/default.jpg
+line: 'Head: Moscovy|Entry: 1127 [Moscovy]|#item-0c3329c2e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/834,2814,435,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356264923
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356639019
+sort_value: '303122814'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/855,2053,844,132/150,/0/default.jpg
-label: morning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/834,2814,435,163/150,/0/default.jpg
+label: Moscovy
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

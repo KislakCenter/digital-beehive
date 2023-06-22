@@ -2,8 +2,8 @@
 pid: index_1267
 volume: Volume 3
 image_number: '18'
-head: To embrace
-entry: "<a href='/digital-beehive/num8/num_2856/'>1938 [Embracing]</a>"
+head: enquiry
+entry: "<a href='/digital-beehive/num1/num_0118/'>114 [Seeking]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-22d5e0850"
+item: "#item-fb57c1c7a"
 unparsed:
-line: 'Head: To embrace|Entry: 1938 [Embracing]|#item-22d5e0850'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1120,3281,751,98/full/0/default.jpg
+line: 'Head: enquiry|Entry: 114 [Seeking]|#item-fb57c1c7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1870,2705,407,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744575635
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835502748
+sort_value: '301832705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1120,3281,751,98/150,/0/default.jpg
-label: To embrace
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1870,2705,407,148/150,/0/default.jpg
+label: enquiry
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:

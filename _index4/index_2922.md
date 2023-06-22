@@ -2,25 +2,25 @@
 pid: index_2922
 volume: Volume 3
 image_number: '34'
-head: palaces
-entry: "<a href='/digital-beehive/num8/num_2837/'>1926 [Palace]</a>"
+head: patriarchs
+entry: "<a href='/digital-beehive/num11/num_3534/'>4839 [Patriarchs]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>|<a href='/digital-beehive/toc/toc1_087/'>p.37
-  [Image 1.97]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-3b0909e82"
+item: "#item-dfb7ba6a6"
 unparsed:
-line: 'Head: palaces|Page: p.7 [Image 1.67]|Page: p.37 [Image 1.97]|Entry: 1926 [Palace]|#item-3b0909e82'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/432,2989,803,153/full/0/default.jpg
+line: 'Head: patriarchs|Entry: 4839 [Patriarchs]|#item-dfb7ba6a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1830,2078,599,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425970237
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495604199
+sort_value: '303432078'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/432,2989,803,153/150,/0/default.jpg
-label: palaces
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1830,2078,599,167/150,/0/default.jpg
+label: patriarchs
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

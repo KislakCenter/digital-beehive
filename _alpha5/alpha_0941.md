@@ -11,7 +11,7 @@ add:
 xref: 861 [Seamster]|604 [To sell]|<a href='/digital-beehive/num7/num_2659/'>1733
   [Tailor]</a>
 see:
-index: "<a href='/digital-beehive/index5/index_4013/'>tailor</a>"
+index: "<a href='/digital-beehive/index5/index_4046/'>tailor</a>"
 item: "#item-5ba038f11"
 unparsed:
 line: 'Entry: Tailor|Topic: Tailor|Xref: 861 [Seamster]|Xref: 604 [To sell]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Tailor|Topic: Tailor|Xref: 861 [Seamster]|Xref: 604 [To sell]|Xref
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/334,2009,3118,397/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528917520882
+sort_value: '205712009'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/334,2009,600,180/250,/0/default.jpg
 label: Tailor

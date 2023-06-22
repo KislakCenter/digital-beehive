@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0525/'>423 [Self-murder]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3658/'>Self murder</a>"
+index: "<a href='/digital-beehive/index4/index_3622/'>Self murder</a>"
 item: "#item-477bae7df"
 unparsed:
 line: 'Entry: Self murder|Topic: Self murder|Xref: 423 [Self-murder]|Index: Self murder|#item-477bae7df'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/302,3243,3020,288/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530201237111
+sort_value: '205113243'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/302,3243,600,180/250,/0/default.jpg
 label: Self murder

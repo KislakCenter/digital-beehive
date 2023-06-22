@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num3/num_0775/'>596 [The Stone Gravel of the Kidneys]</a>|1284
   [Whetstone]"
 see:
-index: "<a href='/digital-beehive/index4/index_3970/'>stones</a>"
+index: "<a href='/digital-beehive/index4/index_3911/'>stones</a>"
 item: "#item-e9d5e9a7f"
 unparsed:
 line: 'Entry: Stone|Topic: Stone|Xref: 596 [The Stone Gravel of the Kidneys]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Stone|Topic: Stone|Xref: 596 [The Stone Gravel of the Kidneys]|Xre
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/274,3448,3112,391/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/full/full/0/default.jpg
 annotation_uri: http://beehive-anno.library.upenn.edu/annotation/1686083785076
+sort_value: '205513448'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/274,3448,600,180/250,/0/default.jpg
 label: Stone

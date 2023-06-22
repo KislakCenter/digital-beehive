@@ -2,25 +2,25 @@
 pid: index_1574
 volume: Volume 3
 image_number: '21'
-head: formality
-entry: "<a href='/digital-beehive/num1/num_0244/'>229 [Formality]</a>|<a href='/digital-beehive/num6/num_2162/'>1470
-  [Form without Power]</a>"
+head: Galenus
+entry: "<a href='/digital-beehive/num9/num_3172/'>2228 [Noia Medicorum]</a>"
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-026640b39"
+item: "#item-e4f0eda64"
 unparsed:
-line: 'Head: formality|Entry: 229 [Formality]|Entry: 1470 [Form without Power]|#item-026640b39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/172,3023,689,137/full/0/default.jpg
+line: 'Head: Galenus|Entry: 2228 [Noia Medicorum]|#item-e4f0eda64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1556,2054,430,79/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762378339
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786520040
+sort_value: '302132054'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/172,3023,689,137/150,/0/default.jpg
-label: formality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1556,2054,430,79/150,/0/default.jpg
+label: Galenus
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

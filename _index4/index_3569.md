@@ -2,8 +2,9 @@
 pid: index_3569
 volume: Volume 3
 image_number: '41'
-head: a saw
-entry: "<a href='/digital-beehive/num3/num_0747/'>581 [To Saw]</a>"
+head: Sea
+entry: "<a href='/digital-beehive/alpha4/alpha_0842/'>a</a>|<a href='/digital-beehive/num6/num_2161/'>1470
+  [Sea]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6bad285b1"
+item: "#item-d0282e415"
 unparsed:
-line: 'Head: a saw|Entry: 581 [To Saw]|#item-6bad285b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,2385,353,116/full/0/default.jpg
+line: 'Head: Sea|Entry: a|Entry: 1470 [Sea]|#item-d0282e415'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1582,255,453,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239417589
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241908063
+sort_value: '304130255'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,2385,353,116/150,/0/default.jpg
-label: a saw
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1582,255,453,137/150,/0/default.jpg
+label: Sea
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

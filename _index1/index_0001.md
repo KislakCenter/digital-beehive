@@ -2,8 +2,8 @@
 pid: index_0001
 volume: Volume 3
 image_number: '7'
-head: "[:41.]"
-entry:
+head: to abase
+entry: "<a href='/digital-beehive/num6/num_1862/'>1326 [debase]</a>"
 topic:
 first_letter: A
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-85db7c9d8"
-unparsed: 'Type: Index|Insertion Xref: [:41.]|#item-85db7c9d8'
-line: 'Type: Index|Insertion Xref: [:41.]|#item-85db7c9d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/2196,675,157,78/full/0/default.jpg
+item: "#item-d4ea70e61"
+unparsed:
+line: 'Head: to abase|Entry: 1326 [debase]|#item-d4ea70e61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/594,240,377,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558897929890
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757542775
+sort_value: '300710240'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/2196,675,157,78/150,/0/default.jpg
-label: "[:41.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/594,240,377,147/150,/0/default.jpg
+label: to abase
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4718/'>Albigenses</a>"
+insertion_xref:
 order: '0000'
 layout: index_item
 collection: index1

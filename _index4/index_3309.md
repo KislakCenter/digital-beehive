@@ -2,8 +2,8 @@
 pid: index_3309
 volume: Volume 3
 image_number: '38'
-head: recom[m]endation
-entry: "<a href='/digital-beehive/alpha4/alpha_0783/'>a</a>|4716 [PAGE_MISSING]"
+head: to reap
+entry: "<a href='/digital-beehive/num3/num_0708/'>556 [To Reap]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a0103b59a"
+item: "#item-d822060ac"
 unparsed:
-line: 'Head: recom[m]endation|Entry: a|Entry: 4716 [PAGE_MISSING]|#item-a0103b59a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1817,3046,734,181/full/0/default.jpg
+line: 'Head: to reap|Entry: 556 [To Reap]|#item-d822060ac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1824,2031,506,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558462026120
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461394745
+sort_value: '303832031'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1817,3046,734,181/150,/0/default.jpg
-label: recom[m]endation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1824,2031,506,138/150,/0/default.jpg
+label: to reap
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

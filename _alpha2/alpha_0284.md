@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1176/'>906 [Kingdom]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1164/'>empire</a>"
+index: "<a href='/digital-beehive/index2/index_1240/'>empire</a>"
 item: "#item-3af6ee29e"
 unparsed:
 line: 'Entry: Empire|Topic: Empire|Xref: 906 [Kingdom]|Index: empire|#item-3af6ee29e'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/375,1887,3094,307/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564518529825
+sort_value: '145311887'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/375,1887,600,180/250,/0/default.jpg
 label: Empire

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0311/'>276 [Original Sin]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2812/'>original Sin</a>"
+index: "<a href='/digital-beehive/index4/index_2826/'>original Sin</a>"
 item: "#item-9576f643d"
 unparsed:
 line: 'Entry: Original Sin|Topic: Original Sin|Xref: 276 [Original Sin]|Index: original
@@ -18,6 +18,7 @@ line: 'Entry: Original Sin|Topic: Original Sin|Xref: 276 [Original Sin]|Index: o
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/766,499,3052,453/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565018677993
+sort_value: '203810499'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/766,499,600,180/250,/0/default.jpg
 label: Original Sin

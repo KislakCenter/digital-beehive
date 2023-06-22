@@ -2,25 +2,25 @@
 pid: index_3025
 volume: Volume 3
 image_number: '35'
-head: permission
-entry: "<a href='/digital-beehive/num3/num_0719/'>565 [License]</a>|<a href='/digital-beehive/num10/num_3476/'>4489
-  [License]</a>"
+head: pitiful
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2538/'>miserable</a>"
 index:
-item: "#item-1ead4f898"
+item: "#item-fcc5adf6f"
 unparsed:
-line: 'Head: permission|Entry: 565 [License]|Entry: 4489 [License]|#item-1ead4f898'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/131,3224,714,132/full/0/default.jpg
+line: 'Head: pitiful|See: miserable|#item-fcc5adf6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1525,2600,751,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973802545
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977053228
+sort_value: '303532600'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/131,3224,714,132/150,/0/default.jpg
-label: permission
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1525,2600,751,161/150,/0/default.jpg
+label: pitiful
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

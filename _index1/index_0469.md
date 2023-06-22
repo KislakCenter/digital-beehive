@@ -2,8 +2,8 @@
 pid: index_0469
 volume: Volume 3
 image_number: '11'
-head: breakfast
-entry: "<a href='/digital-beehive/num5/num_1668/'>1218 [Break-fast]</a>"
+head: to bruise
+entry: "<a href='/digital-beehive/num3/num_1058/'>718 [Piece]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0c79b54fb"
+item: "#item-eae0eba53"
 unparsed:
-line: 'Head: breakfast|Entry: 1218 [Break-fast]|#item-0c79b54fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1292,519,139/full/0/default.jpg
+line: 'Head: to bruise|Entry: 718 [Piece]|#item-eae0eba53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,373,467,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531418149449
+annotation_uri: http://dev.llgc.org.uk/annotation/1531420210131
+sort_value: '301120373'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1292,519,139/150,/0/default.jpg
-label: breakfast
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,373,467,116/150,/0/default.jpg
+label: to bruise
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

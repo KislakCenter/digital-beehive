@@ -2,25 +2,25 @@
 pid: index_3493
 volume: Volume 3
 image_number: '40'
-head: rules
-entry: "<a href='/digital-beehive/alpha4/alpha_0823/'>a</a>|<a href='/digital-beehive/num5/num_1460/'>1083
-  [Rules]</a>|<a href='/digital-beehive/num7/num_2352/'>1570 [Rules]</a>"
+head: the said
+entry: "<a href='/digital-beehive/num2/num_0294/'>263 [the said]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f4721411f"
+item: "#item-e751ce9c1"
 unparsed:
-line: 'Head: rules|Entry: a|Entry: 1083 [Rules]|Entry: 1570 [Rules]|#item-f4721411f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1142,3047,608,125/full/0/default.jpg
+line: 'Head: the said|Entry: 263 [the said]|#item-e751ce9c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1818,2652,436,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234103592
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235168850
+sort_value: '304032652'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1142,3047,608,125/150,/0/default.jpg
-label: rules
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1818,2652,436,120/150,/0/default.jpg
+label: the said
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

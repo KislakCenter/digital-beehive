@@ -2,8 +2,9 @@
 pid: index_2588
 volume: Volume 3
 image_number: '31'
-head: muses
-entry: 4543 [PAGE_MISSING]
+head: mortifying
+entry: "<a href='/digital-beehive/alpha3/alpha_0613/'>a</a>|<a href='/digital-beehive/num6/num_1743/'>1257
+  [Mortification]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-57f492656"
+item: "#item-3ab03c1de"
 unparsed:
-line: 'Head: muses|Entry: 4543 [PAGE_MISSING]|#item-57f492656'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1544,1933,399,106/full/0/default.jpg
+line: 'Head: mortifying|Entry: a|Entry: 1257 [Mortification]|#item-3ab03c1de'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/838,2491,588,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362043490
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356518884
+sort_value: '303122491'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1544,1933,399,106/150,/0/default.jpg
-label: muses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/838,2491,588,135/150,/0/default.jpg
+label: mortifying
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

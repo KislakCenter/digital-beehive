@@ -2,8 +2,8 @@
 pid: index_4466
 volume: Volume 3
 image_number: '51'
-head: wares
-entry: "<a href='/digital-beehive/num3/num_1045/'>714 [Wares]</a>"
+head: wall
+entry: "<a href='/digital-beehive/num3/num_0941/'>676 [Wall]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-0c2e49089"
+item: "#item-bbb170296"
 unparsed:
-line: 'Head: wares|Entry: 714 [Wares]|#item-0c2e49089'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1618,2638,386,123/full/0/default.jpg
+line: 'Head: wall|Entry: 676 [Wall]|#item-bbb170296'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,1233,382,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648425875
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647782200
+sort_value: '305131233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1618,2638,386,123/150,/0/default.jpg
-label: wares
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,1233,382,120/150,/0/default.jpg
+label: wall
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '429'
+order: '428'
 layout: index_item
 collection: index5
 ---

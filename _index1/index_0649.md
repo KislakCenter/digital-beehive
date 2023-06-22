@@ -18,6 +18,7 @@ line: 'Head: false Christs|Entry: 1300 [False Christs]|Entry: 2352 [False Christ
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/140,223,729,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532617894889
+sort_value: '301310223'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/140,223,729,150/150,/0/default.jpg
 label: false Christs

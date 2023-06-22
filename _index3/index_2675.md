@@ -2,8 +2,8 @@
 pid: index_2675
 volume: Volume 3
 image_number: '32'
-head: netherlands
-entry: "<a href='/digital-beehive/num2/num_0410/'>351 [Holland]</a>"
+head: needless
+entry: "<a href='/digital-beehive/num5/num_1719/'>1245 [Superfluous : Needless]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-fe0436282"
+item: "#item-1b1a88398"
 unparsed:
-line: 'Head: netherlands|Entry: 351 [Holland]|#item-fe0436282'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1188,988,491,97/full/0/default.jpg
+line: 'Head: needless|Entry: 1245 [Superfluous : Needless]|#item-1b1a88398'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/372,3304,510,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441685164
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439427357
+sort_value: '303213304'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1188,988,491,97/150,/0/default.jpg
-label: netherlands
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/372,3304,510,142/150,/0/default.jpg
+label: needless
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

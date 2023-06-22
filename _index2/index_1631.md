@@ -2,10 +2,8 @@
 pid: index_1631
 volume: Volume 3
 image_number: '22'
-head: church governmt
-entry: "<a href='/digital-beehive/num2/num_0493/'>402 [Order & Discipline in the Church]</a>|<a
-  href='/digital-beehive/num7/num_2408/'>1600 [Church-Discipline]</a>|<a href='/digital-beehive/num8/num_2741/'>1808
-  [Church Governmt]</a>"
+head: "[:29.]"
+entry:
 topic:
 first_letter: G
 page:
@@ -13,19 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-244d864ac"
-unparsed:
-line: 'Head: church governmt|Entry: 402 [Order & Discipline in the Church]|Entry:
-  1600 [Church-Discipline]|Entry: 1808 [Church Governmt]|#item-244d864ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1720,842,838,94/full/0/default.jpg
+item: "#item-bb7022dd5"
+unparsed: 'Type: Index|Insertion Xref: [:29.]|#item-bb7022dd5'
+line: 'Type: Index|Insertion Xref: [:29.]|#item-bb7022dd5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1704,765,180,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052165286
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046062431
+sort_value: '302220765'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1720,842,838,94/150,/0/default.jpg
-label: church governmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1704,765,180,120/150,/0/default.jpg
+label: "[:29.]"
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4694/'>gnashing of t.</a>"
 order: '450'
 layout: index_item
 collection: index2

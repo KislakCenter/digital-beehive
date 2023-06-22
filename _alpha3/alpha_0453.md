@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0718/'>564 [Jews]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1985/'>Jews</a>"
+index: "<a href='/digital-beehive/index3/index_1942/'>Jews</a>"
 item: "#item-1155bf4a8"
 unparsed:
 line: 'Entry: Jew|Topic: Jew|Xref: 564 [Jews]|Index: Jews|#item-1155bf4a8'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/336,1349,3039,474/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564758617526
+sort_value: '202111349'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/336,1349,600,180/250,/0/default.jpg
 label: Jew

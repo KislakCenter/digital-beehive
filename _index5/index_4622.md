@@ -2,8 +2,9 @@
 pid: index_4622
 volume: Volume 3
 image_number: '53'
-head: Gods Work
-entry: "<a href='/digital-beehive/num5/num_1420/'>1057 [God's work]</a>"
+head: worse & worst
+entry: "<a href='/digital-beehive/num3/num_0730/'>573 [Worse]</a>|<a href='/digital-beehive/num7/num_2477/'>1632
+  [Worse]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-4fe048e48"
+item: "#item-f4af7e24f"
 unparsed:
-line: 'Head: Gods Work|Entry: 1057 [God''s work]|#item-4fe048e48'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/865,2334,478,130/full/0/default.jpg
+line: 'Head: worse & worst|Entry: 573 [Worse]|Entry: 1632 [Worse]|#item-f4af7e24f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3346,692,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797099869
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797627649
+sort_value: '305323346'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/865,2334,478,130/150,/0/default.jpg
-label: Gods Work
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3346,692,129/150,/0/default.jpg
+label: worse & worst
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '585'
+order: '584'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,29 @@
 pid: index_0992
 volume: Volume 3
 image_number: '16'
-head: decalogue
-entry: "<a href='/digital-beehive/num2/num_0550/'>444 [Decalogue]</a>"
+head: degrada[ti]on
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1012/'>deposition</a>"
 index:
-item: "#item-b17b171a4"
+item: "#item-fe300b0e3"
 unparsed:
-line: 'Head: decalogue|Entry: 444 [Decalogue]|#item-b17b171a4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/342,435,516,134/full/0/default.jpg
+line: 'Head: degrada[ti]on|See: deposition|#item-fe300b0e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/326,2283,785,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540570003035
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572287563
+sort_value: '301612283'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/342,435,516,134/150,/0/default.jpg
-label: decalogue
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/326,2283,785,140/150,/0/default.jpg
+label: degrada[ti]on
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0990'
+order: '0991'
 layout: index_item
 collection: index1
 ---

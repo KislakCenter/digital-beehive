@@ -2,30 +2,29 @@
 pid: index_2769
 volume: Volume 3
 image_number: '33'
-head: oppression
-entry: "<a href='/digital-beehive/num1/num_0206/'>197 [Oppression]</a>|<a href='/digital-beehive/num2/num_0592/'>474
-  [Oppression]</a>|<a href='/digital-beehive/num10/num_3247/'>2287 [Oppressions]</a>"
+head: oeconomical books
+entry:
 topic:
 first_letter: O
-page:
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-80c2dc60e"
+item: "#item-3accecf63"
 unparsed:
-line: 'Head: oppression|Entry: 197 [Oppression]|Entry: 474 [Oppression]|Entry: 2287
-  [Oppressions]|#item-80c2dc60e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1479,1143,734,156/full/0/default.jpg
+line: 'Head: oeconomical books|Page: p.379 [Image 2.201]|#item-3accecf63'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/77,3390,791,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161687452
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347797850
+sort_value: '303313390'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1479,1143,734,156/150,/0/default.jpg
-label: oppression
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/77,3390,791,163/150,/0/default.jpg
+label: oeconomical books
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0018'
+order: '0017'
 layout: index_item
 collection: index4
 ---

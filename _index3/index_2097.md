@@ -2,8 +2,8 @@
 pid: index_2097
 volume: Volume 3
 image_number: '26'
-head: iniquity
-entry: "<a href='/digital-beehive/num8/num_2793/'>1904 [Iniquity]</a>"
+head: invocation of Saints
+entry: "<a href='/digital-beehive/num8/num_2798/'>1906 [Invocation of Saints]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-706f05303"
+item: "#item-4ef806d6f"
 unparsed:
-line: 'Head: iniquity|Entry: 1904 [Iniquity]|#item-706f05303'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/405,2833,477,117/full/0/default.jpg
+line: 'Head: invocation of Saints|Entry: 1906 [Invocation of Saints]|#item-4ef806d6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1729,669,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745345927
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751692486
+sort_value: '302631729'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/405,2833,477,117/150,/0/default.jpg
-label: iniquity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1729,669,135/150,/0/default.jpg
+label: invocation of Saints
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

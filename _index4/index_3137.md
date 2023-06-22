@@ -2,9 +2,8 @@
 pid: index_3137
 volume: Volume 3
 image_number: '37'
-head: proof or evidence
-entry: "<a href='/digital-beehive/alpha4/alpha_0752/'>a</a>|<a href='/digital-beehive/num4/num_1199/'>913
-  [Proof]</a>|<a href='/digital-beehive/num9/num_2962/'>2028 [Proof]</a>"
+head: press
+entry: "<a href='/digital-beehive/num2/num_0478/'>392 [Press]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4ce1fc4af"
+item: "#item-bbadabb72"
 unparsed:
-line: 'Head: proof or evidence|Entry: a|Entry: 913 [Proof]|Entry: 2028 [Proof]|#item-4ce1fc4af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1470,386,809,103/full/0/default.jpg
+line: 'Head: press|Entry: 392 [Press]|#item-bbadabb72'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/101,743,379,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868801742
+annotation_uri: http://dev.llgc.org.uk/annotation/1565204382778
+sort_value: '303710743'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1470,386,809,103/150,/0/default.jpg
-label: proof or evidence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/101,743,379,135/150,/0/default.jpg
+label: press
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

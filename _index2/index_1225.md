@@ -2,24 +2,25 @@
 pid: index_1225
 volume: Volume 3
 image_number: '18'
-head: Eagle
-entry: "<a href='/digital-beehive/alpha2/alpha_0272/'>a</a>"
+head: elixir
+entry: "<a href='/digital-beehive/num7/num_2400/'>1596 [Quintessence]</a>"
 topic:
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-217e863ee"
+item: "#item-16fc37e1c"
 unparsed:
-line: 'Head: Eagle|Page: p.35 [Image 1.95]|Entry: a|#item-217e863ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/439,1695,442,147/full/0/default.jpg
+line: 'Head: elixir|Entry: 1596 [Quintessence]|#item-16fc37e1c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1135,2488,434,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666451994
+annotation_uri: http://dev.llgc.org.uk/annotation/1559679810041
+sort_value: '301822488'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/439,1695,442,147/150,/0/default.jpg
-label: Eagle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1135,2488,434,89/150,/0/default.jpg
+label: elixir
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:

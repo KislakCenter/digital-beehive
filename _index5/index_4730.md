@@ -2,28 +2,30 @@
 pid: index_4730
 volume: Volume 3
 image_number: '54'
-head: to gild
-entry:
+head: angling
+entry: "<a href='/digital-beehive/num11/num_3569/'>4874 [Angling]</a>"
 topic:
 first_letter: insertion
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1696/'>gold</a>"
+see:
 index:
-item: "#item-d62bc63a0"
-unparsed: Type Index|Insertion [:46.]
-line: 'Type: Index|Insertion: [:46.]|Head: to gild|See: gold|#item-d62bc63a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1059,3327,614,160/full/0/default.jpg
+item: "#item-f60b6b63f"
+unparsed: Type Index|Insertion [:61.]
+line: 'Type: Index|Insertion: [:61.]|Head: angling|Entry: 4874 [Angling]|#item-f60b6b63f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1771,2108,648,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955966736
-insertion: "[:46.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1059,3327,614,160/150,/0/default.jpg
-label: to gild
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957452767
+sort_value: '305432108'
+insertion: "[:61.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1771,2108,648,180/150,/0/default.jpg
+label: angling
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue:
+issue: Pastorius appears to have written 1874 under this entry. However, he likely
+  meant to write 4874 [Angling].
 insertion_xref:
-order: '693'
+order: '692'
 layout: index_item
 collection: index5
 ---

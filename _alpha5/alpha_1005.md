@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>faith</a>|2070 [unbelief]"
 see:
-index: "<a href='/digital-beehive/index5/index_4372/'>unbelief</a>"
+index: "<a href='/digital-beehive/index5/index_4359/'>unbelief</a>"
 item: "#item-4cd97847c"
 unparsed:
 line: 'Entry: Unbelief|Topic: Unbelief|Xref: faith|Xref: 2070 [unbelief]|Index: unbelief|#item-4cd97847c'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/846,572,2940,503/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528911634757
+sort_value: '206210572'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/846,572,600,180/250,/0/default.jpg
 label: Unbelief

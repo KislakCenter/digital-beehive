@@ -2,8 +2,8 @@
 pid: index_2562
 volume: Volume 3
 image_number: '31'
-head: to miss
-entry: "<a href='/digital-beehive/num3/num_0829/'>618 [To Miss]</a>"
+head: moment
+entry: "<a href='/digital-beehive/num7/num_2350/'>1569 [Prescience]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-850697179"
+item: "#item-38304b919"
 unparsed:
-line: 'Head: to miss|Entry: 618 [To Miss]|#item-850697179'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/173,1076,415,143/full/0/default.jpg
+line: 'Head: moment|Entry: 1569 [Prescience]|#item-38304b919'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/158,3366,539,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351712840
+annotation_uri: http://dev.llgc.org.uk/annotation/1560353602310
+sort_value: '303113366'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/173,1076,415,143/150,/0/default.jpg
-label: to miss
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/158,3366,539,167/150,/0/default.jpg
+label: moment
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

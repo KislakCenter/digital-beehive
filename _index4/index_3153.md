@@ -2,9 +2,9 @@
 pid: index_3153
 volume: Volume 3
 image_number: '37'
-head: prophets
-entry: "<a href='/digital-beehive/alpha4/alpha_0755/'>a</a>|<a href='/digital-beehive/num4/num_1332/'>1000
-  [Prophets]</a>"
+head: priestcraft
+entry: "<a href='/digital-beehive/num8/num_2699/'>1768 [Ecclesiastical Tyran[n]y &
+  Priestcraft]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-18936ccab"
+item: "#item-ed27c70a9"
 unparsed:
-line: 'Head: prophets|Entry: a|Entry: 1000 [Prophets]|#item-18936ccab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1498,903,580,175/full/0/default.jpg
+line: 'Head: priestcraft|Entry: 1768 [Ecclesiastical Tyran[n]y & Priestcraft]|#item-ed27c70a9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/135,2605,597,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869156410
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866939788
+sort_value: '303712605'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1498,903,580,175/150,/0/default.jpg
-label: prophets
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/135,2605,597,120/150,/0/default.jpg
+label: priestcraft
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

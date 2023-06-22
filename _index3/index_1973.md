@@ -2,24 +2,25 @@
 pid: index_1973
 volume: Volume 3
 image_number: '25'
-head: jocular books
-entry:
+head: of importance
+entry: 855 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3477/'>4490 [Considerable]</a>
 topic:
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-d24ee1f81"
+item: "#item-2b67f7bd7"
 unparsed:
-line: 'Head: jocular books|Page: p.62 [Image 1.129]|#item-d24ee1f81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/185,1873,563,135/full/0/default.jpg
+line: 'Head: of importance|Entry: 855 [PAGE_MISSING]|Entry: 4490 [Considerable]|#item-2b67f7bd7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/861,1973,715,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561650838955
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666360688
+sort_value: '302521973'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/185,1873,563,135/150,/0/default.jpg
-label: jocular books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/861,1973,715,122/150,/0/default.jpg
+label: of importance
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

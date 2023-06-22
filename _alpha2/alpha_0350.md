@@ -18,6 +18,7 @@ line: 'Entry: Free will|Topic: Free will|Xref: Resistance|Xref: 1052 [Free will]
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/328,1963,3092,302/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564590318481
+sort_value: '201311963'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/328,1963,600,180/250,/0/default.jpg
 label: Free will

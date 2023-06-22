@@ -2,24 +2,25 @@
 pid: index_1960
 volume: Volume 3
 image_number: '25'
-head: incompatible
-entry: 4476 [WORD_MISSING]
+head: incest
+entry: "<a href='/digital-beehive/num3/num_0726/'>570 [Incest]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0225/'>antipathy</a>"
+see:
 index:
-item: "#item-e8a55ed2c"
+item: "#item-cee0fc442"
 unparsed:
-line: 'Head: incompatible|See: antipathy|Entry: 4476 [WORD_MISSING]|#item-e8a55ed2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1570,1485,763,162/full/0/default.jpg
+line: 'Head: incest|Entry: 570 [Incest]|#item-cee0fc442'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,806,1,1/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671226803
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670442840
+sort_value: '302520806'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1570,1485,763,162/150,/0/default.jpg
-label: incompatible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,806,1,1/150,/0/default.jpg
+label: incest
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

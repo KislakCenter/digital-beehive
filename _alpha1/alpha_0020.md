@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1977/'>1384 [Alliance]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0058/'>alliance</a>"
+index: "<a href='/digital-beehive/index1/index_0099/'>alliance</a>"
 item: "#item-cc0c50e71"
 unparsed:
 line: 'Entry: Alliance|Topic: Alliance|Index: alliance|Xref: 1384 [Alliance]|#item-cc0c50e71'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/785,3052,3007,505/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490638655540
+sort_value: '143213052'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/785,3052,600,180/250,/0/default.jpg
 label: Alliance

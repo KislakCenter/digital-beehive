@@ -2,8 +2,8 @@
 pid: index_0852
 volume: Volume 3
 image_number: '14'
-head: to confiscate
-entry: 754 [PAGE_MISSING]
+head: corns
+entry: "<a href='/digital-beehive/num6/num_1882/'>1337 [Corns : Warts]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-67a94f560"
+item: "#item-893730b5e"
 unparsed:
-line: 'Head: to confiscate|Entry: 754 [PAGE_MISSING]|#item-67a94f560'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/383,3353,642,142/full/0/default.jpg
+line: 'Head: corns|Entry: 1337 [Corns : Warts]|#item-893730b5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1821,2993,411,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216940444
+annotation_uri: http://dev.llgc.org.uk/annotation/1537560146779
+sort_value: '301432993'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/383,3353,642,142/150,/0/default.jpg
-label: to confiscate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1821,2993,411,88/150,/0/default.jpg
+label: corns
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

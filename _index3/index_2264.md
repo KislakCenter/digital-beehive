@@ -2,8 +2,8 @@
 pid: index_2264
 volume: Volume 3
 image_number: '28'
-head: limit
-entry: 749 [PAGE_MISSING]|<a href='/digital-beehive/num8/num_2735/'>1802 [Limit]</a>
+head: letter droppers
+entry: "<a href='/digital-beehive/num11/num_3524/'>4829 [Letter droppers]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1e252a19c"
+item: "#item-f3b855df1"
 unparsed:
-line: 'Head: limit|Entry: 749 [PAGE_MISSING]|Entry: 1802 [Limit]|#item-1e252a19c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1837,999,578,146/full/0/default.jpg
+line: 'Head: letter droppers|Entry: 4829 [Letter droppers]|#item-f3b855df1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1129,830,548,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848655641
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844627882
+sort_value: '302820830'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1837,999,578,146/150,/0/default.jpg
-label: limit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1129,830,548,116/150,/0/default.jpg
+label: letter droppers
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

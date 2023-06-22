@@ -2,9 +2,8 @@
 pid: index_4198
 volume: Volume 3
 image_number: '48'
-head: tribulation
-entry: "<a href='/digital-beehive/num2/num_0364/'>316 [Affliction]</a>|<a href='/digital-beehive/num6/num_1942/'>1367
-  [Afflictions]</a>|<a href='/digital-beehive/num6/num_1906/'>1349 [Affliction]</a>"
+head: torturing
+entry: "<a href='/digital-beehive/num2/num_0520/'>419 [Torturing]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-376f4b490"
+item: "#item-6cb85a76d"
 unparsed:
-line: 'Head: tribulation|Entry: 316 [Affliction]|Entry: 1367 [Afflictions]|Entry:
-  1349 [Affliction]|#item-376f4b490'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1822,1069,694,193/full/0/default.jpg
+line: 'Head: torturing|Entry: 419 [Torturing]|#item-6cb85a76d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,3592,577,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088358286
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278370090
+sort_value: '304813592'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1822,1069,694,193/150,/0/default.jpg
-label: tribulation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,3592,577,160/150,/0/default.jpg
+label: torturing
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '161'
+order: '160'
 layout: index_item
 collection: index5
 ---

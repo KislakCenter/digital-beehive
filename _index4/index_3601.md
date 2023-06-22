@@ -2,24 +2,25 @@
 pid: index_3601
 volume: Volume 3
 image_number: '42'
-head: Sentinel
+head: seldom
 entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3292/'>rarity</a>"
 index:
-item: "#item-8570bcde1"
+item: "#item-38df66372"
 unparsed:
-line: 'Head: Sentinel|#item-8570bcde1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1129,225,376,150/full/0/default.jpg
+line: 'Head: seldom|See: rarity|#item-38df66372'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/460,240,597,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571836651
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243755673
+sort_value: '304210240'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1129,225,376,150/150,/0/default.jpg
-label: Sentinel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/460,240,597,137/150,/0/default.jpg
+label: seldom
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

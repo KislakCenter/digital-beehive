@@ -2,25 +2,25 @@
 pid: index_2630
 volume: Volume 3
 image_number: '31'
-head: motion
-entry: "<a href='/digital-beehive/alpha3/alpha_0614/'>a</a>|<a href='/digital-beehive/num4/num_1277/'>958
-  [Motions]</a>"
+head: Nadir
+entry: 809 [PAGE_MISSING]
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-75b9383e0"
+item: "#item-525b16c27"
 unparsed:
-line: 'Head: motion|Entry: a|Entry: 958 [Motions]|#item-75b9383e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/831,3318,502,127/full/0/default.jpg
+line: 'Head: Nadir|Entry: 809 [PAGE_MISSING]|#item-525b16c27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3029,391,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356975334
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362621818
+sort_value: '303133029'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/831,3318,502,127/150,/0/default.jpg
-label: motion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3029,391,169/150,/0/default.jpg
+label: Nadir
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

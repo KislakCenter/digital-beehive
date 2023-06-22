@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num8/num_2791/'>1903 [Honey]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1878/'>honey</a>"
+index: "<a href='/digital-beehive/index2/index_1865/'>honey</a>"
 item: "#item-f1c857c69"
 unparsed:
 line: 'Entry: Honey|Topic: Honey|Xref: 1903 [Honey]|Index: honey|#item-f1c857c69'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/277,1512,3124,469/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1509732068077
+sort_value: '201911512'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/277,1512,600,180/250,/0/default.jpg
 label: Honey

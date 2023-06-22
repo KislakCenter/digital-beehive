@@ -2,8 +2,9 @@
 pid: index_0752
 volume: Volume 3
 image_number: '13'
-head: cleanness
-entry: "<a href='/digital-beehive/num3/num_0781/'>598 [Cleanliness]</a>"
+head: communion
+entry: "<a href='/digital-beehive/alpha1/alpha_0163/'>a</a>|<a href='/digital-beehive/num8/num_2723/'>1790
+  [Communion]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2c4db7c99"
+item: "#item-a611b07de"
 unparsed:
-line: 'Head: cleanness|Entry: 598 [Cleanliness]|#item-2c4db7c99'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,3442,492,135/full/0/default.jpg
+line: 'Head: communion|Entry: a|Entry: 1790 [Communion]|#item-a611b07de'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1534,3067,652,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536333786206
+annotation_uri: http://dev.llgc.org.uk/annotation/1537163814858
+sort_value: '301333067'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,3442,492,135/150,/0/default.jpg
-label: cleanness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1534,3067,652,121/150,/0/default.jpg
+label: communion
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_2090
 volume: Volume 3
 image_number: '26'
-head: inhabitants
-entry: "<a href='/digital-beehive/num10/num_3228/'>2270 [Inhabitants]</a>"
+head: invasion
+entry: "<a href='/digital-beehive/num3/num_0848/'>628 [Invasion]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8de7a682e"
+item: "#item-da75aea5f"
 unparsed:
-line: 'Head: inhabitants|Entry: 2270 [Inhabitants]|#item-8de7a682e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/418,2569,548,104/full/0/default.jpg
+line: 'Head: invasion|Entry: 628 [Invasion]|#item-da75aea5f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1862,891,442,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745107097
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751167069
+sort_value: '302630891'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/418,2569,548,104/150,/0/default.jpg
-label: inhabitants
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1862,891,442,113/150,/0/default.jpg
+label: invasion
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

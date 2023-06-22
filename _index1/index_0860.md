@@ -2,8 +2,8 @@
 pid: index_0860
 volume: Volume 3
 image_number: '14'
-head: context
-entry: "<a href='/digital-beehive/num4/num_1087/'>867 [Context]</a>"
+head: correspondence
+entry: "<a href='/digital-beehive/num5/num_1661/'>1214 [Letters]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9ae233cd7"
+item: "#item-1aa490de5"
 unparsed:
-line: 'Head: context|Entry: 867 [Context]|#item-9ae233cd7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1134,3559,459,147/full/0/default.jpg
+line: 'Head: correspondence|Entry: 1214 [Letters]|#item-1aa490de5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1820,3501,679,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542365549
+annotation_uri: http://dev.llgc.org.uk/annotation/1537560361931
+sort_value: '301433501'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1134,3559,459,147/150,/0/default.jpg
-label: context
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1820,3501,679,146/150,/0/default.jpg
+label: correspondence
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,9 @@
 pid: index_3550
 volume: Volume 3
 image_number: '41'
-head: Sarah
-entry: "<a href='/digital-beehive/num8/num_2772/'>1892 [Sarah]</a>"
+head: scholars
+entry: "<a href='/digital-beehive/num4/num_1303/'>975 [Disciples]</a>|<a href='/digital-beehive/num7/num_2340/'>1564
+  [Scholars]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-67b2763e4"
+item: "#item-d8c98522f"
 unparsed:
-line: 'Head: Sarah|Entry: 1892 [Sarah]|#item-67b2763e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/174,1728,371,100/full/0/default.jpg
+line: 'Head: scholars|Entry: 975 [Disciples]|Entry: 1564 [Scholars]|#item-d8c98522f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/873,1405,621,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239020652
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240641007
+sort_value: '304121405'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/174,1728,371,100/150,/0/default.jpg
-label: Sarah
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/873,1405,621,143/150,/0/default.jpg
+label: scholars
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

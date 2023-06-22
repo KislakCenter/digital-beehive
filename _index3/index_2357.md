@@ -2,24 +2,25 @@
 pid: index_2357
 volume: Volume 3
 image_number: '29'
-head: Mamut his valet
-entry: "<a href='/digital-beehive/num6/num_1852/'>1322 [Mamuts Valet]</a>"
+head: lowngers
+entry: 4588 [PAGE_MISSING]
 topic:
-first_letter: M
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-00362f6b2"
+item: "#item-b33c99d1a"
 unparsed:
-line: 'Head: Mamut his valet|Entry: 1322 [Mamuts Valet]|#item-00362f6b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,1276,492,104/full/0/default.jpg
+line: 'Head: lowngers|Entry: 4588 [PAGE_MISSING]|#item-b33c99d1a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/166,3209,546,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194427690
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180557725
+sort_value: '302913209'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,1276,492,104/150,/0/default.jpg
-label: Mamut his valet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/166,3209,546,116/150,/0/default.jpg
+label: lowngers
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

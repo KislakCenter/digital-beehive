@@ -2,8 +2,8 @@
 pid: index_4434
 volume: Volume 3
 image_number: '51'
-head: unseen
-entry: "<a href='/digital-beehive/num4/num_1119/'>879 [unseen]</a>"
+head: voyage
+entry: "<a href='/digital-beehive/num5/num_1566/'>1149 [Travelling]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-e61465d54"
+item: "#item-accb1cd4c"
 unparsed:
-line: 'Head: unseen|Entry: 879 [unseen]|#item-e61465d54'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/226,1245,369,149/full/0/default.jpg
+line: 'Head: voyage|Entry: 1149 [Travelling]|#item-accb1cd4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/958,437,480,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645544288
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646468318
+sort_value: '305120437'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/226,1245,369,149/150,/0/default.jpg
-label: unseen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/958,437,480,135/150,/0/default.jpg
+label: voyage
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '397'
+order: '396'
 layout: index_item
 collection: index5
 ---

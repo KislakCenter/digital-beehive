@@ -2,8 +2,8 @@
 pid: index_1306
 volume: Volume 3
 image_number: '19'
-head: evening
-entry: "<a href='/digital-beehive/num7/num_2302/'>1546 [Evening]</a>"
+head: etching
+entry: 4529 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-04846ce35"
+item: "#item-39ebeb1ec"
 unparsed:
-line: 'Head: evening|Entry: 1546 [Evening]|#item-04846ce35'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/864,1179,476,145/full/0/default.jpg
+line: 'Head: etching|Entry: 4529 [PAGE_MISSING]|#item-39ebeb1ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/110,3563,518,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351384234
+annotation_uri: http://dev.llgc.org.uk/annotation/1560348940529
+sort_value: '301913563'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/864,1179,476,145/150,/0/default.jpg
-label: evening
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/110,3563,518,171/150,/0/default.jpg
+label: etching
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

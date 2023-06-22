@@ -2,8 +2,8 @@
 pid: index_4678
 volume: Volume 3
 image_number: '54'
-head: Lord Major
-entry: "<a href='/digital-beehive/num3/num_0703/'>555 [Lord Major]</a>"
+head: holiness of places and times
+entry: "<a href='/digital-beehive/num8/num_2846/'>1932 [Holiness of Places & Times]</a>"
 topic:
 first_letter: insertion
 page:
@@ -11,19 +11,21 @@ add:
 xref:
 see:
 index:
-item: "#item-d24866172"
-unparsed: Type Index|Insertion [:4.]
-line: 'Type: Index|Insertion: [:4.]|Head: Lord Major|Entry: 555 [Lord Major]|#item-d24866172'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/378,871,581,153/full/0/default.jpg
+item: "#item-069e1aadb"
+unparsed: Type Index|Insertion [:15.]
+line: 'Type: Index|Insertion: [:15.]|Head: holiness of places and times|Entry: 1932
+  [Holiness of Places & Times]|#item-069e1aadb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/394,2319,647,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560867543100
-insertion: "[:4.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/378,871,581,153/150,/0/default.jpg
-label: Lord Major
+annotation_uri: http://dev.llgc.org.uk/annotation/1560868970057
+sort_value: '305412319'
+insertion: "[:15.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/394,2319,647,158/150,/0/default.jpg
+label: holiness of places and times
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '641'
+order: '640'
 layout: index_item
 collection: index5
 ---

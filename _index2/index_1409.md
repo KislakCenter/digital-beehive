@@ -2,24 +2,25 @@
 pid: index_1409
 volume: Volume 3
 image_number: '20'
-head: favorite
-entry: 796 [PAGE_MISSING]|1870 [PAGE_MISSING]
+head: to fasten
+entry: 816 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0906/'>Darling</a>"
+see:
 index:
-item: "#item-8bf586100"
+item: "#item-474ed2e97"
 unparsed:
-line: 'Head: favorite|See: Darling|Entry: 796 [PAGE_MISSING]|Entry: 1870 [PAGE_MISSING]|#item-8bf586100'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1136,905,759,148/full/0/default.jpg
+line: 'Head: to fasten|Entry: 816 [PAGE_MISSING]|#item-474ed2e97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/324,3336,484,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661722756
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660337819
+sort_value: '302013336'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1136,905,759,148/150,/0/default.jpg
-label: favorite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/324,3336,484,127/150,/0/default.jpg
+label: to fasten
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

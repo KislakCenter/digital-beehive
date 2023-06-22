@@ -2,8 +2,8 @@
 pid: index_0187
 volume: Volume 3
 image_number: '8'
-head: appetite
-entry: "<a href='/digital-beehive/num3/num_1002/'>697 [Appetite]</a>"
+head: apprentice
+entry: 811 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0b8021720"
+item: "#item-0ad244d78"
 unparsed:
-line: 'Head: appetite|Entry: 697 [Appetite]|#item-0b8021720'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1116,1798,467,120/full/0/default.jpg
+line: 'Head: apprentice|Entry: 811 [PAGE_MISSING]|#item-0ad244d78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1092,2355,500,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760575061
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760897860
+sort_value: '300822355'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1116,1798,467,120/150,/0/default.jpg
-label: appetite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1092,2355,500,156/150,/0/default.jpg
+label: apprentice
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

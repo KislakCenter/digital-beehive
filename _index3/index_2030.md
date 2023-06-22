@@ -2,8 +2,8 @@
 pid: index_2030
 volume: Volume 3
 image_number: '26'
-head: intractable
-entry: "<a href='/digital-beehive/num9/num_3010/'>2076 [Intractable]</a>"
+head: infant baptism
+entry: "<a href='/digital-beehive/num2/num_0511/'>413 [Infant baptism]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-32ee7fa69"
+item: "#item-50d6d9719"
 unparsed:
-line: 'Head: intractable|Entry: 2076 [Intractable]|#item-32ee7fa69'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,351,623,109/full/0/default.jpg
+line: 'Head: infant baptism|Entry: 413 [Infant baptism]|#item-50d6d9719'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/464,1205,620,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750572362
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744137484
+sort_value: '302611205'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,351,623,109/150,/0/default.jpg
-label: intractable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/464,1205,620,134/150,/0/default.jpg
+label: infant baptism
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

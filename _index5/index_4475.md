@@ -2,28 +2,31 @@
 pid: index_4475
 volume: Volume 3
 image_number: '51'
-head: vomit
-entry: "<a href='/digital-beehive/num2/num_0341/'>301 [Vomit]</a>"
+head: wars miseries
+entry: "<a href='/digital-beehive/alpha5/alpha_1025/'>a</a>|<a href='/digital-beehive/num6/num_2043/'>1416
+  [Evils of war]</a>|<a href='/digital-beehive/num10/num_3384/'>2411 [War's Miseries]</a>"
 topic:
-first_letter: U/V
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+first_letter: W
+page:
 add:
 xref:
 see:
 index:
-item: "#item-52bb0bf8e"
+item: "#item-e9af68efd"
 unparsed:
-line: 'Head: vomit|Page: p.42 [Image 1.102]|Entry: 301 [Vomit]|#item-52bb0bf8e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/224,3180,506,185/full/0/default.jpg
+line: 'Head: wars miseries|Entry: a|Entry: 1416 [Evils of war]|Entry: 2411 [War''s
+  Miseries]|#item-e9af68efd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1642,2310,706,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646052903
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648377690
+sort_value: '305132310'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/224,3180,506,185/150,/0/default.jpg
-label: vomit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1642,2310,706,155/150,/0/default.jpg
+label: wars miseries
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '438'
+order: '437'
 layout: index_item
 collection: index5
 ---

@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2165/'>last things</a>"
+index: "<a href='/digital-beehive/index3/index_2205/'>last things</a>"
 item: "#item-1933cda88"
 unparsed:
 line: 'Entry: Last things|Topic: Last things|Index: last things|#item-1933cda88'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/754,2510,3006,343/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564766586696
+sort_value: '202612510'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/754,2510,600,180/250,/0/default.jpg
 label: Last things

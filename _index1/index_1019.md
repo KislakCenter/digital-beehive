@@ -2,28 +2,29 @@
 pid: index_1019
 volume: Volume 3
 image_number: '16'
-head: deputy
-entry: 752 [PAGE_MISSING]
+head: to descend
+entry: 837 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
-add:
+add: "<a href='/digital-beehive/index2/index_1794/'>hell</a>"
 xref:
 see:
 index:
-item: "#item-6cb392e1f"
+item: "#item-cc05679a8"
 unparsed:
-line: 'Head: deputy|Entry: 752 [PAGE_MISSING]|#item-6cb392e1f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1061,1606,485,115/full/0/default.jpg
+line: 'Head: to descend|Entry: 837 [PAGE_MISSING]|Add: hell|#item-cc05679a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1091,1938,559,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541604845309
+annotation_uri: http://dev.llgc.org.uk/annotation/1565623999599
+sort_value: '301621938'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1061,1606,485,115/150,/0/default.jpg
-label: deputy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1091,1938,559,152/150,/0/default.jpg
+label: to descend
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1017'
+order: '1018'
 layout: index_item
 collection: index1
 ---

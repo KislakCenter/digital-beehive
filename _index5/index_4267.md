@@ -2,28 +2,29 @@
 pid: index_4267
 volume: Volume 3
 image_number: '49'
-head: vail
-entry: "<a href='/digital-beehive/num6/num_2116/'>1448 [Vail]</a>"
+head: to turn
+entry: "<a href='/digital-beehive/num4/num_1146/'>889 [To Turn]</a>"
 topic:
-first_letter: U/V
+first_letter: T
 page:
 add:
 xref:
 see:
 index:
-item: "#item-be9e66e2b"
+item: "#item-dbfdf33d1"
 unparsed:
-line: 'Head: vail|Entry: 1448 [Vail]|#item-be9e66e2b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/933,570,378,96/full/0/default.jpg
+line: 'Head: to turn|Entry: 889 [To Turn]|#item-dbfdf33d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/199,1688,419,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657577184
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656588027
+sort_value: '304911688'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/933,570,378,96/150,/0/default.jpg
-label: vail
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/199,1688,419,123/150,/0/default.jpg
+label: to turn
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '230'
+order: '229'
 layout: index_item
 collection: index5
 ---

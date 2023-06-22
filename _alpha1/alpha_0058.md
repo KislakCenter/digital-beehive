@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0077/'>76 [Dainty meats]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0291/'>banquetting stuff</a>"
+index: "<a href='/digital-beehive/index1/index_0287/'>banquetting stuff</a>"
 item: "#item-680b110e2"
 unparsed:
 line: 'Entry: Banquetting Stuff|Topic: Banquetting Stuff|Xref: 76 [Dainty meats]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Banquetting Stuff|Topic: Banquetting Stuff|Xref: 76 [Dainty meats]
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/322,1382,3091,375/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558807668402
+sort_value: '143511382'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/322,1382,600,180/250,/0/default.jpg
 label: Banquetting Stuff

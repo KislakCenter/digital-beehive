@@ -2,25 +2,25 @@
 pid: index_2415
 volume: Volume 3
 image_number: '29'
-head: maid
-entry: "<a href='/digital-beehive/alpha3/alpha_0569/'>a</a>|<a href='/digital-beehive/num6/num_2068/'>1425
-  [Maid]</a>"
+head: manner
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1512/'>form</a>|<a href='/digital-beehive/index1/index_0932/'>custom</a>"
 index:
-item: "#item-df1adfb77"
+item: "#item-31de29b16"
 unparsed:
-line: 'Head: maid|Entry: a|Entry: 1425 [Maid]|#item-df1adfb77'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/816,3204,491,108/full/0/default.jpg
+line: 'Head: manner|See: form|See: custom|#item-31de29b16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2600,696,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560189559084
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196222265
+sort_value: '302932600'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/816,3204,491,108/150,/0/default.jpg
-label: maid
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2600,696,125/150,/0/default.jpg
+label: manner
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

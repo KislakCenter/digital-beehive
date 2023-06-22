@@ -2,8 +2,8 @@
 pid: index_2593
 volume: Volume 3
 image_number: '31'
-head: must
-entry: "<a href='/digital-beehive/alpha3/alpha_0624/'>a</a>"
+head: moss
+entry: "<a href='/digital-beehive/num9/num_3022/'>2086 [Moss]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e8be93a82"
+item: "#item-9b1dc0544"
 unparsed:
-line: 'Head: must|Entry: a|#item-e8be93a82'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1549,2147,324,107/full/0/default.jpg
+line: 'Head: moss|Entry: 2086 [Moss]|#item-9b1dc0544'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/850,3029,399,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362281220
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356790729
+sort_value: '303123029'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1549,2147,324,107/150,/0/default.jpg
-label: must
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/850,3029,399,120/150,/0/default.jpg
+label: moss
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

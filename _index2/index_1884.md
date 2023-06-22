@@ -2,9 +2,9 @@
 pid: index_1884
 volume: Volume 3
 image_number: '24'
-head: highness
-entry: "<a href='/digital-beehive/alpha2/alpha_0423/'>a</a>|<a href='/digital-beehive/num4/num_1131/'>883
-  [highness]</a>"
+head: hotchpotch
+entry: "<a href='/digital-beehive/alpha2/alpha_0437/'>a</a>|<a href='/digital-beehive/num5/num_1396/'>1043
+  [Hotch-potch]</a>"
 topic:
 first_letter: H
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e5434cd1e"
+item: "#item-2e94f4295"
 unparsed:
-line: 'Head: highness|Entry: a|Entry: 883 [highness]|#item-e5434cd1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,2338,547,160/full/0/default.jpg
+line: 'Head: hotchpotch|Entry: a|Entry: 1043 [Hotch-potch]|#item-2e94f4295'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1862,337,605,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576928557
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586039405
+sort_value: '302430337'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,2338,547,160/150,/0/default.jpg
-label: highness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1862,337,605,151/150,/0/default.jpg
+label: hotchpotch
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

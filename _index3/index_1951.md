@@ -2,9 +2,8 @@
 pid: index_1951
 volume: Volume 3
 image_number: '25'
-head: idolatry
-entry: "<a href='/digital-beehive/alpha3/alpha_0448/'>a</a>|<a href='/digital-beehive/num3/num_0809/'>610
-  [Idolatry]</a>|1887 [PAGE_MISSING]"
+head: iliack passion
+entry: "<a href='/digital-beehive/num5/num_1558/'>1144 [Iliack passion]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d331e930c"
+item: "#item-78083b3b7"
 unparsed:
-line: 'Head: idolatry|Entry: a|Entry: 610 [Idolatry]|Entry: 1887 [PAGE_MISSING]|#item-d331e930c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,1125,660,161/full/0/default.jpg
+line: 'Head: iliack passion|Entry: 1144 [Iliack passion]|#item-78083b3b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/158,3229,572,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559660402401
+annotation_uri: http://dev.llgc.org.uk/annotation/1559662473573
+sort_value: '302513229'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,1125,660,161/150,/0/default.jpg
-label: idolatry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/158,3229,572,168/150,/0/default.jpg
+label: iliack passion
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

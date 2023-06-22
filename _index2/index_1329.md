@@ -2,8 +2,8 @@
 pid: index_1329
 volume: Volume 3
 image_number: '19'
-head: exactness
-entry: "<a href='/digital-beehive/num1/num_0153/'>147 [Exactness]</a>|4582 [PAGE_MISSING]"
+head: ex. gr.
+entry: "<a href='/digital-beehive/num6/num_2060/'>1422 [Ex. gr.]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a706686e9"
+item: "#item-e4adea14b"
 unparsed:
-line: 'Head: exactness|Entry: 147 [Exactness]|Entry: 4582 [PAGE_MISSING]|#item-a706686e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/853,1945,667,152/full/0/default.jpg
+line: 'Head: ex. gr.|Entry: 1422 [Ex. gr.]|#item-e4adea14b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/833,2607,449,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352463014
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355403257
+sort_value: '301922607'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/853,1945,667,152/150,/0/default.jpg
-label: exactness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/833,2607,449,120/150,/0/default.jpg
+label: ex. gr.
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

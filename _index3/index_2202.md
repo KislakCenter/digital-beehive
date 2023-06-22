@@ -2,24 +2,26 @@
 pid: index_2202
 volume: Volume 3
 image_number: '27'
-head: justs
-entry: "<a href='/digital-beehive/num6/num_1861/'>1325 [a Tournament]</a>"
+head: lascivious
+entry: "<a href='/digital-beehive/alpha3/alpha_0512/'>a</a>|<a href='/digital-beehive/num6/num_2014/'>1402
+  [Lasciviousness]</a>|4646 [PAGE_MISSING]"
 topic:
-first_letter: I/J
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4478bd418"
+item: "#item-9d68ce6c6"
 unparsed:
-line: 'Head: justs|Entry: 1325 [a Tournament]|#item-4478bd418'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,2849,353,128/full/0/default.jpg
+line: 'Head: lascivious|Entry: a|Entry: 1402 [Lasciviousness]|Entry: 4646 [PAGE_MISSING]|#item-9d68ce6c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1558,1411,763,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759377341
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835703862
+sort_value: '302731411'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,2849,353,128/150,/0/default.jpg
-label: justs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1558,1411,763,162/150,/0/default.jpg
+label: lascivious
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

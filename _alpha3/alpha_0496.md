@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2525/'>1652 [Judge]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2158/'>judge</a>"
+index: "<a href='/digital-beehive/index3/index_2131/'>judge</a>"
 item: "#item-af0b7a605"
 unparsed:
 line: 'Entry: Judge|Topic: Judge|Xref: 1652 [Judge]|Index: judge|#item-af0b7a605'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/722,4093,2976,535/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564762279999
+sort_value: '202414093'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/722,4093,600,180/250,/0/default.jpg
 label: Judge

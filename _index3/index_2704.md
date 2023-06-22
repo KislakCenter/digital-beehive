@@ -2,8 +2,8 @@
 pid: index_2704
 volume: Volume 3
 image_number: '32'
-head: new inventions
-entry: "<a href='/digital-beehive/num2/num_0310/'>275 [New Inventions]</a>"
+head: niceness
+entry: "<a href='/digital-beehive/num6/num_1912/'>1352 [Niceness]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e96a3e5b8"
+item: "#item-ab9988fdb"
 unparsed:
-line: 'Head: new inventions|Entry: 275 [New Inventions]|#item-e96a3e5b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1119,2038,617,100/full/0/default.jpg
+line: 'Head: niceness|Entry: 1352 [Niceness]|#item-ab9988fdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1150,2860,511,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442536199
+annotation_uri: http://dev.llgc.org.uk/annotation/1560443289286
+sort_value: '303222860'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1119,2038,617,100/150,/0/default.jpg
-label: new inventions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1150,2860,511,121/150,/0/default.jpg
+label: niceness
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

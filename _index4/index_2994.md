@@ -2,24 +2,25 @@
 pid: index_2994
 volume: Volume 3
 image_number: '35'
-head: phenomenon
-entry: "<a href='/digital-beehive/num7/num_2455/'>1621 [Phenomena's or Apparitions]</a>"
+head: physical books
+entry:
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-008d95207"
+item: "#item-321dae27f"
 unparsed:
-line: 'Head: phenomenon|Entry: 1621 [Phenomena''s or Apparitions]|#item-008d95207'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/854,2089,644,185/full/0/default.jpg
+line: 'Head: physical books|Page: p.379 [Image 2.201]|#item-321dae27f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/855,3415,602,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974555506
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975665557
+sort_value: '303523415'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/854,2089,644,185/150,/0/default.jpg
-label: phenomenon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/855,3415,602,120/150,/0/default.jpg
+label: physical books
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

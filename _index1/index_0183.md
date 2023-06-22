@@ -2,25 +2,26 @@
 pid: index_0183
 volume: Volume 3
 image_number: '8'
-head: angel
-entry: "<a href='/digital-beehive/alpha1/alpha_0029/'>a</a>|<a href='/digital-beehive/num2/num_0363/'>315
-  [Angels]</a>"
+head: apples. appletree
+entry: "<a href='/digital-beehive/alpha1/alpha_0043/'>a</a>|<a href='/digital-beehive/num8/num_2863/'>1940
+  [Apple-Tree]</a>"
 topic:
 first_letter: A
 page:
-add: guardian angels
+add:
 xref:
 see:
 index:
-item: "#item-158477302"
+item: "#item-bc4519632"
 unparsed:
-line: 'Head: angel|Entry: a|Entry: 315 [Angels]|Add: guardian angels|#item-158477302'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/363,1677,570,155/full/0/default.jpg
+line: 'Head: apples. appletree|Entry: a|Entry: 1940 [Apple-Tree]|#item-bc4519632'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1107,1901,448,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758547567
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761593619
+sort_value: '300821901'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/363,1677,570,155/150,/0/default.jpg
-label: angel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1107,1901,448,150/150,/0/default.jpg
+label: apples. appletree
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

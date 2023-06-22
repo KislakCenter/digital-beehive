@@ -2,24 +2,25 @@
 pid: index_3111
 volume: Volume 3
 image_number: '36'
-head: potter
-entry: "<a href='/digital-beehive/num4/num_1162/'>897 [Pottersshop]</a>"
+head: prayers for the dead
+entry: "<a href='/digital-beehive/num2/num_0501/'>408 [Prayers for the Dead]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-b965c8066"
+item: "#item-b1293121b"
 unparsed:
-line: 'Head: potter|Page: p.42 [Image 1.102]|Entry: 897 [Pottersshop]|#item-b965c8066'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1149,2772,601,146/full/0/default.jpg
+line: 'Head: prayers for the dead|Entry: 408 [Prayers for the Dead]|#item-b1293121b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1850,1147,602,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439135497
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440103552
+sort_value: '303631147'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1149,2772,601,146/150,/0/default.jpg
-label: potter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1850,1147,602,150/150,/0/default.jpg
+label: prayers for the dead
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

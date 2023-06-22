@@ -2,24 +2,25 @@
 pid: index_0061
 volume: Volume 3
 image_number: '7'
-head: allure
-entry:
+head: Quakers affirmation
+entry: "<a href='/digital-beehive/num9/num_3118/'>2175 [Quakers Affirmation]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1269/'>enticing</a>"
+see:
 index:
-item: "#item-7cbcc64d4"
+item: "#item-031b620ea"
 unparsed:
-line: 'Head: allure|See: enticing|#item-7cbcc64d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1715,501,144/full/0/default.jpg
+line: 'Head: Quakers affirmation|Entry: 2175 [Quakers Affirmation]|#item-031b620ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/892,1779,531,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769857812
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766417079
+sort_value: '300721779'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1715,501,144/150,/0/default.jpg
-label: allure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/892,1779,531,86/150,/0/default.jpg
+label: Quakers affirmation
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

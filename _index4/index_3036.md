@@ -2,8 +2,8 @@
 pid: index_3036
 volume: Volume 3
 image_number: '36'
-head: plums
-entry: "<a href='/digital-beehive/num3/num_0987/'>691 [Plums]</a>"
+head: plants
+entry: "<a href='/digital-beehive/num7/num_2508/'>1645 [Plants]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e2ec2476c"
+item: "#item-73eb0c3a9"
 unparsed:
-line: 'Head: plums|Entry: 691 [Plums]|#item-e2ec2476c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/472,1684,393,96/full/0/default.jpg
+line: 'Head: plants|Entry: 1645 [Plants]|#item-73eb0c3a9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/487,369,453,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208054382
+annotation_uri: http://dev.llgc.org.uk/annotation/1542052787184
+sort_value: '303610369'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/472,1684,393,96/150,/0/default.jpg
-label: plums
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/487,369,453,128/150,/0/default.jpg
+label: plants
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

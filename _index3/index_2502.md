@@ -2,27 +2,25 @@
 pid: index_2502
 volume: Volume 3
 image_number: '30'
-head: merchants
-entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1048/'>714
-  [a haggler]</a>|<a href='/digital-beehive/num6/num_2149/'>1464 [Merchant]</a>|4610
-  [PAGE_MISSING]"
+head: metempsychosis
+entry: "<a href='/digital-beehive/num1/num_0055/'>55 [Metempsychosis]</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-f1c5cab53"
+item: "#item-aee5ef7fd"
 unparsed:
-line: 'Head: merchants|Page: p.42 [Image 1.102]|Entry: 109 [A Shop keeper]|Entry:
-  714 [a haggler]|Entry: 1464 [Merchant]|Entry: 4610 [PAGE_MISSING]|#item-f1c5cab53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1134,2315,1075,138/full/0/default.jpg
+line: 'Head: metempsychosis|Entry: 55 [Metempsychosis]|#item-aee5ef7fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1841,664,575,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269058881
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273536464
+sort_value: '303030664'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1134,2315,1075,138/150,/0/default.jpg
-label: merchants
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1841,664,575,131/150,/0/default.jpg
+label: metempsychosis
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

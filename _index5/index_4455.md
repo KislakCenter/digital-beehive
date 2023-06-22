@@ -2,31 +2,29 @@
 pid: index_4455
 volume: Volume 3
 image_number: '51'
-head: war
-entry: "<a href='/digital-beehive/alpha5/alpha_1024/'>a</a>|<a href='/digital-beehive/num5/num_1643/'>1204
-  [War]</a>|<a href='/digital-beehive/num6/num_2200/'>1492 [Warfare]</a>|<a href='/digital-beehive/num9/num_3163/'>2220
-  [War]</a>|<a href='/digital-beehive/num11/num_3586/'>4913 [War]</a>"
+head: Wafers
+entry: "<a href='/digital-beehive/num7/num_2311/'>1551 [Wafers]</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-7a874acb5"
+item: "#item-34bb597b8"
 unparsed:
-line: 'Head: war|Page: p.40 [Image 1.100]|Entry: a|Entry: 1204 [War]|Entry: 1492 [Warfare]|Entry:
-  2220 [War]|Entry: 4913 [War]|#item-7a874acb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,2202,610,158/full/0/default.jpg
+line: 'Head: Wafers|Entry: 1551 [Wafers]|#item-34bb597b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/933,3022,463,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648177200
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647189165
+sort_value: '305123022'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,2202,610,158/150,/0/default.jpg
-label: war
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/933,3022,463,154/150,/0/default.jpg
+label: Wafers
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '418'
+order: '417'
 layout: index_item
 collection: index5
 ---

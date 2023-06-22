@@ -2,8 +2,8 @@
 pid: index_1055
 volume: Volume 3
 image_number: '16'
-head: disciples
-entry: "<a href='/digital-beehive/num4/num_1303/'>975 [Disciples]</a>"
+head: "[:63.]"
+entry:
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-89a80aa3f"
-unparsed:
-line: 'Head: disciples|Entry: 975 [Disciples]|#item-89a80aa3f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1768,3038,476,122/full/0/default.jpg
+item: "#item-b38c1d5b6"
+unparsed: 'Type: Index|Insertion Xref: [:63.]|#item-b38c1d5b6'
+line: 'Type: Index|Insertion Xref: [:63.]|#item-b38c1d5b6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/2333,2126,201,199/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784344424
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276104118
+sort_value: '301632126'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1768,3038,476,122/150,/0/default.jpg
-label: disciples
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/2333,2126,201,199/150,/0/default.jpg
+label: "[:63.]"
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1053'
+insertion_xref: "<a href='/digital-beehive/index5/index_4732/'>Dinah</a>"
+order: '1054'
 layout: index_item
 collection: index1
 ---

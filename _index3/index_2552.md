@@ -2,24 +2,25 @@
 pid: index_2552
 volume: Volume 3
 image_number: '31'
-head: mouth
-entry: "<a href='/digital-beehive/alpha3/alpha_0619/'>a</a>|4522 [PAGE_MISSING]"
+head: mode
+entry:
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0085/'>alamode</a>"
 index:
-item: "#item-556088ab6"
+item: "#item-9f270ccb1"
 unparsed:
-line: 'Head: mouth|Page: p.43 [Image 1.103]|Entry: a|Entry: 4522 [PAGE_MISSING]|#item-556088ab6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1562,834,660,148/full/0/default.jpg
+line: 'Head: mode|See: alamode|#item-9f270ccb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/179,2305,605,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360773621
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352303792
+sort_value: '303112305'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1562,834,660,148/150,/0/default.jpg
-label: mouth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/179,2305,605,111/150,/0/default.jpg
+label: mode
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

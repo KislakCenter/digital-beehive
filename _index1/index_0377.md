@@ -2,8 +2,8 @@
 pid: index_0377
 volume: Volume 3
 image_number: '10'
-head: behemoth
-entry: "<a href='/digital-beehive/alpha1/alpha_0075/'>a</a>"
+head: birthright
+entry: "<a href='/digital-beehive/num9/num_3104/'>2163 [Birth-right]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3041bd8a3"
+item: "#item-4144ba1f7"
 unparsed:
-line: 'Head: behemoth|Entry: a|#item-3041bd8a3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/391,694,450,127/full/0/default.jpg
+line: 'Head: birthright|Entry: 2163 [Birth-right]|#item-4144ba1f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1095,1079,452,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531146771783
+annotation_uri: http://dev.llgc.org.uk/annotation/1531150129093
+sort_value: '301021079'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/391,694,450,127/150,/0/default.jpg
-label: behemoth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1095,1079,452,127/150,/0/default.jpg
+label: birthright
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

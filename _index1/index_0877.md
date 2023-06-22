@@ -2,24 +2,25 @@
 pid: index_0877
 volume: Volume 3
 image_number: '15'
-head: to cut off
-entry: "<a href='/digital-beehive/num3/num_0909/'>659 [to lop]</a>"
+head: Country life
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0082/'>agricult</a>"
 index:
-item: "#item-663ad8c42"
+item: "#item-07ba599ea"
 unparsed:
-line: 'Head: to cut off|Entry: 659 [to lop]|#item-663ad8c42'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1569,659,481,101/full/0/default.jpg
+line: 'Head: Country life|See: agricult|#item-07ba599ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/157,2009,652,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390806974
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974651182
+sort_value: '301512009'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1569,659,481,101/150,/0/default.jpg
-label: to cut off
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/157,2009,652,115/150,/0/default.jpg
+label: Country life
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

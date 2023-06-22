@@ -2,9 +2,8 @@
 pid: index_4364
 volume: Volume 3
 image_number: '50'
-head: Uniformity
-entry: "<a href='/digital-beehive/num2/num_0617/'>492 [Dissenters]</a>|<a href='/digital-beehive/num10/num_3386/'>2413
-  [forced Uniformity]</a>"
+head: to uncloath
+entry: "<a href='/digital-beehive/num9/num_2996/'>2062 [To uncloath]</a>"
 topic:
 first_letter: U/V
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-f6430c683"
+item: "#item-c2df1ceed"
 unparsed:
-line: 'Head: Uniformity|Entry: 492 [Dissenters]|Entry: 2413 [forced Uniformity]|#item-f6430c683'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1135,911,689,138/full/0/default.jpg
+line: 'Head: to uncloath|Entry: 2062 [To uncloath]|#item-c2df1ceed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/434,2025,583,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560878643251
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872737067
+sort_value: '305012025'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1135,911,689,138/150,/0/default.jpg
-label: Uniformity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/434,2025,583,110/150,/0/default.jpg
+label: to uncloath
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '327'
+order: '326'
 layout: index_item
 collection: index5
 ---

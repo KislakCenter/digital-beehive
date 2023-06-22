@@ -2,8 +2,8 @@
 pid: index_2915
 volume: Volume 3
 image_number: '34'
-head: parsnip
-entry: "<a href='/digital-beehive/num3/num_0983/'>689 [Parsnip]</a>"
+head: to patch
+entry: "<a href='/digital-beehive/num3/num_1009/'>699 [Repair]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6b7640f32"
+item: "#item-f0208108c"
 unparsed:
-line: 'Head: parsnip|Entry: 689 [Parsnip]|#item-6b7640f32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1141,2753,488,166/full/0/default.jpg
+line: 'Head: to patch|Entry: 699 [Repair]|#item-f0208108c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1818,1502,529,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494535102
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495292150
+sort_value: '303431502'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1141,2753,488,166/150,/0/default.jpg
-label: parsnip
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1818,1502,529,154/150,/0/default.jpg
+label: to patch
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index1/index_1147/'>dog-days</a>"
+index: "<a href='/digital-beehive/index1/index_1126/'>dog-days</a>"
 item: "#item-7c551681e"
 unparsed:
 line: 'Entry: Dog-dayes|Topic: Dog-days|Index: dog-days|#item-7c551681e'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/435,3240,2936,219/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508178209764
+sort_value: '145113240'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/435,3240,600,180/250,/0/default.jpg
 label: Dog-dayes

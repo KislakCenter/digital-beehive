@@ -2,9 +2,8 @@
 pid: index_4118
 volume: Volume 3
 image_number: '47'
-head: temptation
-entry: "<a href='/digital-beehive/num3/num_0658/'>525 [Temptation]</a>|<a href='/digital-beehive/num6/num_2092/'>1435
-  [Temptation]</a>|<a href='/digital-beehive/num10/num_3243/'>2283 [Temptation]</a>"
+head: I think
+entry: 4743 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
@@ -12,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-f8aba4513"
+item: "#item-bc55a7e2e"
 unparsed:
-line: 'Head: temptation|Entry: 525 [Temptation]|Entry: 1435 [Temptation]|Entry: 2283
-  [Temptation]|#item-f8aba4513'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/159,2001,772,112/full/0/default.jpg
+line: 'Head: I think|Entry: 4743 [PAGE_MISSING]|#item-bc55a7e2e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/897,1847,462,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294099270
+annotation_uri: http://dev.llgc.org.uk/annotation/1532721102534
+sort_value: '304721847'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/159,2001,772,112/150,/0/default.jpg
-label: temptation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/897,1847,462,98/150,/0/default.jpg
+label: I think
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '081'
+order: '080'
 layout: index_item
 collection: index5
 ---

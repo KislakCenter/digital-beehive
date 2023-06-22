@@ -2,24 +2,25 @@
 pid: index_2063
 volume: Volume 3
 image_number: '26'
-head: insolvent
-entry:
+head: to insist
+entry: "<a href='/digital-beehive/num5/num_1414/'>1054 [To Urge]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0286/'>bankrupt</a>"
+see:
 index:
-item: "#item-0b2dfa6b0"
+item: "#item-1424b2219"
 unparsed:
-line: 'Head: insolvent|See: bankrupt|#item-0b2dfa6b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1151,1525,710,156/full/0/default.jpg
+line: 'Head: to insist|Entry: 1054 [To Urge]|#item-1424b2219'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1127,1413,457,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747799102
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747762756
+sort_value: '302621413'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1151,1525,710,156/150,/0/default.jpg
-label: insolvent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1127,1413,457,134/150,/0/default.jpg
+label: to insist
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

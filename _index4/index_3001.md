@@ -2,24 +2,25 @@
 pid: index_3001
 volume: Volume 3
 image_number: '35'
-head: perfume
-entry: 4548 [PAGE_MISSING]
+head: to pierce
+entry: "<a href='/digital-beehive/num4/num_1123/'>881 [To Pierce]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3786/'>smell</a>"
+see:
 index:
-item: "#item-a64462e26"
+item: "#item-b1de50d50"
 unparsed:
-line: 'Head: perfume|See: smell|Entry: 4548 [PAGE_MISSING]|#item-a64462e26'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/87,2414,798,184/full/0/default.jpg
+line: 'Head: to pierce|Entry: 881 [To Pierce]|#item-b1de50d50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1497,616,454,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973112084
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975963558
+sort_value: '303530616'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/87,2414,798,184/150,/0/default.jpg
-label: perfume
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1497,616,454,176/150,/0/default.jpg
+label: to pierce
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2358/'>Lord</a>"
+index: "<a href='/digital-beehive/index3/index_2333/'>Lord</a>"
 item: "#item-e3affb3e0"
 unparsed:
 line: 'Entry: Lord|Topic: Lord|Index: Lord|#item-e3affb3e0'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/306,1006,3100,660/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770347301
+sort_value: '202911006'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/306,1006,600,180/250,/0/default.jpg
 label: Lord

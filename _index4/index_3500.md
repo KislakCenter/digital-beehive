@@ -2,24 +2,25 @@
 pid: index_3500
 volume: Volume 3
 image_number: '40'
-head: river
-entry: "<a href='/digital-beehive/alpha4/alpha_0816/'>a</a>|4551 [WORD_MISSING]"
+head: salary
+entry: "<a href='/digital-beehive/alpha4/alpha_0831/'>a</a>"
 topic:
-first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+first_letter: S
+page:
 add:
 xref:
 see:
 index:
-item: "#item-ecccc25af"
+item: "#item-1038174c7"
 unparsed:
-line: 'Head: river|Page: p.30 [Image 1.90]|Entry: a|Entry: 4551 [WORD_MISSING]|#item-ecccc25af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/448,3354,639,140/full/0/default.jpg
+line: 'Head: salary|Entry: a|#item-1038174c7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,3307,384,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232701316
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235428691
+sort_value: '304033307'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/448,3354,639,140/150,/0/default.jpg
-label: river
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,3307,384,159/150,/0/default.jpg
+label: salary
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

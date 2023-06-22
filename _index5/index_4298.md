@@ -2,8 +2,8 @@
 pid: index_4298
 volume: Volume 3
 image_number: '49'
-head: Vaudois
-entry: "<a href='/digital-beehive/num1/num_0063/'>62 [Waldenses or Lyonists]</a>"
+head: variety
+entry: "<a href='/digital-beehive/alpha5/alpha_0993/'>a</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-b207bb74e"
+item: "#item-50ca3bd51"
 unparsed:
-line: 'Head: Vaudois|Entry: 62 [Waldenses or Lyonists]|#item-b207bb74e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/930,1756,405,121/full/0/default.jpg
+line: 'Head: variety|Entry: a|#item-50ca3bd51'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/931,1545,362,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658360950
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657899995
+sort_value: '304921545'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/930,1756,405,121/150,/0/default.jpg
-label: Vaudois
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/931,1545,362,86/150,/0/default.jpg
+label: variety
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '261'
+order: '260'
 layout: index_item
 collection: index5
 ---

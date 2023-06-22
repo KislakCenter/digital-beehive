@@ -2,26 +2,25 @@
 pid: index_2347
 volume: Volume 3
 image_number: '29'
-head: lust
-entry: "<a href='/digital-beehive/num6/num_2014/'>1402 [Lasciviousness]</a>"
+head: love of the world
+entry: "<a href='/digital-beehive/alpha3/alpha_0563/'>a</a>"
 topic:
 first_letter: L
 page:
-add: "<a href='/digital-beehive/index1/index_0822/'>Concup</a>|<a href='/digital-beehive/index3/index_2155/'>lasciv</a>|<a
-  href='/digital-beehive/index4/index_3060/'>pleasure</a>|<a href='/digital-beehive/index2/index_1370/'>eye</a>"
+add:
 xref:
 see:
 index:
-item: "#item-510e75603"
+item: "#item-1dc095897"
 unparsed:
-line: 'Head: lust|Entry: 1402 [Lasciviousness]|Add: Concup|Add: lasciv|Add: pleasure|Add:
-  eye|#item-510e75603'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/851,924,646,184/full/0/default.jpg
+line: 'Head: love of the world|Entry: a|#item-1dc095897'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/153,2515,484,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185535453
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179729749
+sort_value: '302912515'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/851,924,646,184/150,/0/default.jpg
-label: lust
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/153,2515,484,104/150,/0/default.jpg
+label: love of the world
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

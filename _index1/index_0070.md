@@ -2,26 +2,27 @@
 pid: index_0070
 volume: Volume 3
 image_number: '7'
-head: affront
-entry:
+head: against
+entry: "<a href='/digital-beehive/num7/num_2467/'>1627 [Against]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1052/'>despight</a>"
+see:
 index:
-item: "#item-6c4b312b5"
+item: "#item-f6d6b7094"
 unparsed:
-line: 'Head: affront|See: despight|#item-6c4b312b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/890,1915,649,245/full/0/default.jpg
+line: 'Head: against|Entry: 1627 [Against]|#item-f6d6b7094'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,2618,447,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766626017
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766964109
+sort_value: '300722618'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/890,1915,649,245/150,/0/default.jpg
-label: affront
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,2618,447,110/150,/0/default.jpg
+label: against
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: The meaning of "it. contumely" cannot be determined.
+issue:
 insertion_xref:
 order: '0069'
 layout: index_item

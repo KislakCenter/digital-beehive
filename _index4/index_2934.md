@@ -2,24 +2,25 @@
 pid: index_2934
 volume: Volume 3
 image_number: '34'
-head: pearl
-entry: "<a href='/digital-beehive/num9/num_3048/'>2111 [Pearls]</a>"
+head: pear
+entry: "<a href='/digital-beehive/alpha4/alpha_0699/'>a</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
-add: Jewel
+page:
+add:
 xref:
 see:
 index:
-item: "#item-5b5c4a140"
+item: "#item-57376df37"
 unparsed:
-line: 'Head: pearl|Page: p.32 [Image 1.92]|Entry: 2111 [Pearls]|Add: Jewel|#item-5b5c4a140'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1808,3381,707,208/full/0/default.jpg
+line: 'Head: pear|Entry: a|#item-57376df37'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1788,3272,388,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538496055792
+annotation_uri: http://dev.llgc.org.uk/annotation/1538496019412
+sort_value: '303433272'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1808,3381,707,208/150,/0/default.jpg
-label: pearl
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1788,3272,388,173/150,/0/default.jpg
+label: pear
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

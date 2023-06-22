@@ -2,24 +2,25 @@
 pid: index_1791
 volume: Volume 3
 image_number: '23'
-head: to have
-entry: 863 [PAGE_MISSING]
+head: hedgehog
+entry: "<a href='/digital-beehive/num7/num_2410/'>1601 [Hedghogs]</a>"
 topic:
 first_letter: H
-page:
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-83da0dc1d"
+item: "#item-e4369e458"
 unparsed:
-line: 'Head: to have|Entry: 863 [PAGE_MISSING]|#item-83da0dc1d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/817,2947,419,99/full/0/default.jpg
+line: 'Head: hedgehog|Page: p.34 [Image 1.94]|Entry: 1601 [Hedghogs]|#item-e4369e458'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1519,1891,457,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241000099
+annotation_uri: http://dev.llgc.org.uk/annotation/1559245278142
+sort_value: '302331891'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/817,2947,419,99/150,/0/default.jpg
-label: to have
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1519,1891,457,105/150,/0/default.jpg
+label: hedgehog
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

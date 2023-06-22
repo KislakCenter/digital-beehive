@@ -10,13 +10,14 @@ page:
 add:
 xref: 1049 [Persecution]
 see:
-index: "<a href='/digital-beehive/index2/index_1536/'>force</a>"
+index: "<a href='/digital-beehive/index2/index_1501/'>force</a>"
 item: "#item-05b93e1d2"
 unparsed:
 line: 'Entry: Force|Topic: Force|Xref: 1049 [Persecution]|Index: force|#item-05b93e1d2'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/674,4146,3109,526/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563206742118
+sort_value: '201214146'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/674,4146,600,180/250,/0/default.jpg
 label: Force

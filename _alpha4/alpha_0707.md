@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2660/'>1734 [Pestilence]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2964/'>pestilence</a>"
+index: "<a href='/digital-beehive/index4/index_2973/'>pestilence</a>"
 item: "#item-1b9e3beb0"
 unparsed:
 line: 'Entry: Pestilence|Topic: Pestilence|Xref: 1734 [Pestilence]|Index: pestilence|#item-1b9e3beb0'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/816,1598,3009,482/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565023023917
+sort_value: '204011598'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/816,1598,600,180/250,/0/default.jpg
 label: Pestilence

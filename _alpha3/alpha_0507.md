@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Ignorance</a>|<a href='/dig
   href='/digital-beehive/alpha5/alpha_1010/'>Unknown</a>|<a href='/digital-beehive/num1/num_0194/'>185
   [Knowledge]</a>|<a href='/digital-beehive/num2/num_0566/'>455 [Self-profit]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2192/'>knowledge</a>"
+index: "<a href='/digital-beehive/index3/index_2177/'>knowledge</a>"
 item: "#item-90ec2f469"
 unparsed:
 line: 'Entry: Knowledge|Topic: Knowledge|Xref: Ignorance|Xref: Skill|Xref: Unknown|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Knowledge|Topic: Knowledge|Xref: Ignorance|Xref: Skill|Xref: Unkno
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0492/356,4384,3036,729/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0492/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564765827492
+sort_value: '202514384'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0492/356,4384,600,180/250,/0/default.jpg
 label: Knowledge

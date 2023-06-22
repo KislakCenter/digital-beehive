@@ -2,9 +2,8 @@
 pid: index_4493
 volume: Volume 3
 image_number: '52'
-head: whimsies
-entry: "<a href='/digital-beehive/num2/num_0339/'>299 [idle fancies]</a>|<a href='/digital-beehive/num10/num_3468/'>4481
-  [Whimsies]</a>"
+head: waves
+entry: "<a href='/digital-beehive/num2/num_0445/'>370 [Storm]</a>"
 topic:
 first_letter: W
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-d75959fe0"
+item: "#item-ec3d7f650"
 unparsed:
-line: 'Head: whimsies|Entry: 299 [idle fancies]|Entry: 4481 [Whimsies]|#item-d75959fe0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1780,247,695,132/full/0/default.jpg
+line: 'Head: waves|Entry: 370 [Storm]|#item-ec3d7f650'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/495,1608,459,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560970965038
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960675285
+sort_value: '305211608'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1780,247,695,132/150,/0/default.jpg
-label: whimsies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/495,1608,459,101/150,/0/default.jpg
+label: waves
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '456'
+order: '455'
 layout: index_item
 collection: index5
 ---

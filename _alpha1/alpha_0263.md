@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/num3/num_0912/'>661 [Perplexity]</a>|<a href='/
   [Pinch]</a>|<a href='/digital-beehive/num6/num_1739/'>1254 [Scepticism]</a>|<a href='/digital-beehive/num3/num_1024/'>705
   [Doubtfulness]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1084/'>doubt</a>"
+index: "<a href='/digital-beehive/index1/index_1135/'>doubt</a>"
 item: "#item-5f6348a67"
 unparsed:
 line: 'Entry: Doubt|Topic: Doubt|Xref: 661 [Perplexity]|Xref: 645 [Pinch]|Xref: 1254
@@ -20,6 +20,7 @@ line: 'Entry: Doubt|Topic: Doubt|Xref: 661 [Perplexity]|Xref: 645 [Pinch]|Xref: 
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/420,3618,3018,592/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508178528772
+sort_value: '145113618'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/420,3618,600,180/250,/0/default.jpg
 label: Doubt

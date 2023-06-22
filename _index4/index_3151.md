@@ -2,24 +2,28 @@
 pid: index_3151
 volume: Volume 3
 image_number: '37'
-head: privy house
-entry: "<a href='/digital-beehive/num3/num_0803/'>607 [Privy house]</a>"
+head: pride
+entry: "<a href='/digital-beehive/alpha4/alpha_0735/'>a</a>|819 [PAGE_MISSING]|<a
+  href='/digital-beehive/num7/num_2636/'>1712 [Pride]</a>|<a href='/digital-beehive/num11/num_3513/'>4818
+  [Pride]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-6f7a85233"
+item: "#item-53fb33826"
 unparsed:
-line: 'Head: privy house|Page: p.10 [Image 1.70]|Entry: 607 [Privy house]|#item-6f7a85233'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/742,823,671,169/full/0/default.jpg
+line: 'Head: pride|Entry: a|Entry: 819 [PAGE_MISSING]|Entry: 1712 [Pride]|Entry: 4818
+  [Pride]|#item-53fb33826'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/109,2319,697,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867626843
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866745540
+sort_value: '303712319'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/742,823,671,169/150,/0/default.jpg
-label: privy house
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/109,2319,697,158/150,/0/default.jpg
+label: pride
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -17,6 +17,7 @@ line: 'Entry: Drunkeness|Topic: Drunkeness|Xref: 161 [Drunkeness]|Index: drunken
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/778,559,2971,663/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508782548572
+sort_value: '145210559'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/778,559,600,180/250,/0/default.jpg
 label: Drunkeness

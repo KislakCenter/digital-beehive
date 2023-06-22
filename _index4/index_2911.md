@@ -2,9 +2,8 @@
 pid: index_2911
 volume: Volume 3
 image_number: '34'
-head: paymt
-entry: "<a href='/digital-beehive/alpha4/alpha_0695/'>a</a>|<a href='/digital-beehive/num5/num_1536/'>1131
-  [Payment]</a>"
+head: past danger
+entry: "<a href='/digital-beehive/num2/num_0509/'>411 [Past all Danger]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d26755afc"
+item: "#item-0c953c4c5"
 unparsed:
-line: 'Head: paymt|Entry: a|Entry: 1131 [Payment]|#item-d26755afc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1772,2538,566,210/full/0/default.jpg
+line: 'Head: past danger|Entry: 411 [Past all Danger]|#item-0c953c4c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1813,1147,618,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495837650
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495160388
+sort_value: '303431147'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1772,2538,566,210/150,/0/default.jpg
-label: paymt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1813,1147,618,166/150,/0/default.jpg
+label: past danger
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

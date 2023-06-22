@@ -2,9 +2,8 @@
 pid: index_2673
 volume: Volume 3
 image_number: '32'
-head: nobility
-entry: "<a href='/digital-beehive/alpha3/alpha_0646/'>a</a>|<a href='/digital-beehive/num5/num_1683/'>1226
-  [Nobility]</a>|4710 [PAGE_MISSING]"
+head: necromancy
+entry: "<a href='/digital-beehive/num8/num_2806/'>1912 [Necromancy]</a>"
 topic:
 first_letter: N
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2da568296"
+item: "#item-e6a6a4d43"
 unparsed:
-line: 'Head: nobility|Entry: a|Entry: 1226 [Nobility]|Entry: 4710 [PAGE_MISSING]|#item-2da568296'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1830,937,696,161/full/0/default.jpg
+line: 'Head: necromancy|Entry: 1912 [Necromancy]|#item-e6a6a4d43'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/368,3172,538,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448120065
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439293582
+sort_value: '303213172'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1830,937,696,161/150,/0/default.jpg
-label: nobility
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/368,3172,538,107/150,/0/default.jpg
+label: necromancy
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

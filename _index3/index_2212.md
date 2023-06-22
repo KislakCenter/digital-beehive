@@ -2,24 +2,25 @@
 pid: index_2212
 volume: Volume 3
 image_number: '27'
-head: Geo. Keith
-entry: "<a href='/digital-beehive/num5/num_1394/'>1042 [George Keith]</a>"
+head: lasting
+entry: "<a href='/digital-beehive/num9/num_2936/'>2002 [Lasting]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4c77a0a5a"
+item: "#item-8b5a4b3c3"
 unparsed:
-line: 'Head: Geo. Keith|Entry: 1042 [George Keith]|#item-4c77a0a5a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/100,3202,551,158/full/0/default.jpg
+line: 'Head: lasting|Entry: 2002 [Lasting]|#item-8b5a4b3c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1545,2393,455,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759525539
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836411883
+sort_value: '302732393'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/100,3202,551,158/150,/0/default.jpg
-label: Geo. Keith
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1545,2393,455,128/150,/0/default.jpg
+label: lasting
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,25 +2,25 @@
 pid: index_0581
 volume: Volume 3
 image_number: '12'
-head: carriage
-entry: "<a href='/digital-beehive/alpha1/alpha_0125/'>a</a>|<a href='/digital-beehive/num5/num_1583/'>1162
-  [Carriage]</a>"
+head: censure
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4658/'>Zoilus</a>"
 index:
-item: "#item-49305dce5"
+item: "#item-5b42a131b"
 unparsed:
-line: 'Head: carriage|Entry: a|Entry: 1162 [Carriage]|#item-49305dce5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/402,1029,613,165/full/0/default.jpg
+line: 'Head: censure|See: Zoilus|#item-5b42a131b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1139,1451,541,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532097608228
+annotation_uri: http://dev.llgc.org.uk/annotation/1532099374868
+sort_value: '301221451'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/402,1029,613,165/150,/0/default.jpg
-label: carriage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1139,1451,541,131/150,/0/default.jpg
+label: censure
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

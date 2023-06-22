@@ -2,9 +2,9 @@
 pid: index_2680
 volume: Volume 3
 image_number: '32'
-head: noise
-entry: "<a href='/digital-beehive/num1/num_0154/'>148 [Noise]</a>|<a href='/digital-beehive/num7/num_2497/'>1640
-  [Sound]</a>|<a href='/digital-beehive/num8/num_2899/'>1971 [Noise]</a>"
+head: negligence
+entry: "<a href='/digital-beehive/alpha3/alpha_0640/'>a</a>|<a href='/digital-beehive/num7/num_2324/'>1558
+  [To Neglect]</a>"
 topic:
 first_letter: N
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8810fad6f"
+item: "#item-1ae717a1d"
 unparsed:
-line: 'Head: noise|Entry: 148 [Noise]|Entry: 1640 [Sound]|Entry: 1971 [Noise]|#item-8810fad6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1839,1201,650,123/full/0/default.jpg
+line: 'Head: negligence|Entry: a|Entry: 1558 [To Neglect]|#item-1ae717a1d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1167,448,661,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448639600
+annotation_uri: http://dev.llgc.org.uk/annotation/1560440981400
+sort_value: '303220448'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1839,1201,650,123/150,/0/default.jpg
-label: noise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1167,448,661,168/150,/0/default.jpg
+label: negligence
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

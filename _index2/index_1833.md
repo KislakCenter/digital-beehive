@@ -2,24 +2,26 @@
 pid: index_1833
 volume: Volume 3
 image_number: '24'
-head: histories prophane
-entry:
+head: highness
+entry: "<a href='/digital-beehive/alpha2/alpha_0423/'>a</a>|<a href='/digital-beehive/num4/num_1131/'>883
+  [highness]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_097/'>p.47 [Image 1.107]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-cf949cc50"
+item: "#item-e5434cd1e"
 unparsed:
-line: 'Head: histories prophane|Page: p.47 [Image 1.107]|#item-cf949cc50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,351,537,105/full/0/default.jpg
+line: 'Head: highness|Entry: a|Entry: 883 [highness]|#item-e5434cd1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,2338,547,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580913047
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576928557
+sort_value: '302412338'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,351,537,105/150,/0/default.jpg
-label: histories prophane
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,2338,547,160/150,/0/default.jpg
+label: highness
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

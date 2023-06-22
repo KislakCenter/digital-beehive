@@ -2,24 +2,25 @@
 pid: index_3504
 volume: Volume 3
 image_number: '41'
-head: Scare Crow
-entry:
+head: to sally
+entry: "<a href='/digital-beehive/num3/num_0849/'>628 [To sally]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-695a913cc"
+item: "#item-a1087d897"
 unparsed:
-line: 'Head: Scare Crow|Page: p.39 [Image 1.99]|#item-695a913cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/847,241,523,155/full/0/default.jpg
+line: 'Head: to sally|Entry: 628 [To sally]|#item-a1087d897'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/154,382,405,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240189993
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238268136
+sort_value: '304110382'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/847,241,523,155/150,/0/default.jpg
-label: Scare Crow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/154,382,405,131/150,/0/default.jpg
+label: to sally
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

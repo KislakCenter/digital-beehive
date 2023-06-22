@@ -2,24 +2,25 @@
 pid: index_2838
 volume: Volume 3
 image_number: '34'
-head: pasquil
-entry: "<a href='/digital-beehive/alpha4/alpha_0690/'>a</a>|1836 [PAGE_MISSING]"
+head: overhasty
+entry:
 topic:
-first_letter: P
+first_letter: O
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4176/'>too hasty</a>"
 index:
-item: "#item-5c0052cf0"
+item: "#item-ce8f3b5c9"
 unparsed:
-line: 'Head: pasquil|Entry: a|Entry: 1836 [PAGE_MISSING]|#item-5c0052cf0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1841,221,614,184/full/0/default.jpg
+line: 'Head: overhasty|See: too hasty|#item-ce8f3b5c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,864,794,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494905676
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425098161
+sort_value: '303410864'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1841,221,614,184/150,/0/default.jpg
-label: pasquil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,864,794,186/150,/0/default.jpg
+label: overhasty
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

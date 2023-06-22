@@ -2,24 +2,25 @@
 pid: index_3772
 volume: Volume 3
 image_number: '43'
-head: sloven
-entry: "<a href='/digital-beehive/num9/num_3192/'>2246 [Slovenry or Slovenliness]</a>"
+head: snuffers
+entry:
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-f7fc39c70"
+item: "#item-6902a5bf0"
 unparsed:
-line: 'Head: sloven|Entry: 2246 [Slovenry or Slovenliness]|#item-f7fc39c70'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/906,2849,471,122/full/0/default.jpg
+line: 'Head: snuffers|Page: p.38 [Image 1.98]|#item-6902a5bf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1594,1533,459,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584800377
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585995416
+sort_value: '304331533'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/906,2849,471,122/150,/0/default.jpg
-label: sloven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1594,1533,459,109/150,/0/default.jpg
+label: snuffers
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

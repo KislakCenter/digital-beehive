@@ -2,8 +2,8 @@
 pid: index_2374
 volume: Volume 3
 image_number: '29'
-head: lotteries
-entry: "<a href='/digital-beehive/num1/num_0091/'>89 [Lotteries (Gl√ºckshafen)]</a>"
+head: lycanthropia
+entry: "<a href='/digital-beehive/num7/num_2284/'>1535 [Lycanthrapia]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-27746065d"
+item: "#item-5b3c8598b"
 unparsed:
-line: 'Head: lotteries|Entry: 89 [Lotteries (Gl√ºckshafen)]|#item-27746065d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/full/0/default.jpg
+line: 'Head: lycanthropia|Entry: 1535 [Lycanthrapia]|#item-5b3c8598b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,1753,540,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178684866
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186238272
+sort_value: '302921753'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/150,/0/default.jpg
-label: lotteries
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,1753,540,142/150,/0/default.jpg
+label: lycanthropia
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

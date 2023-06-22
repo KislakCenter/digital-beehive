@@ -2,8 +2,8 @@
 pid: index_0845
 volume: Volume 3
 image_number: '14'
-head: confidence
-entry: "<a href='/digital-beehive/num3/num_1062/'>719 [Confidence]</a>"
+head: coquets
+entry: "<a href='/digital-beehive/num11/num_3500/'>4806 [Coquets]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-27bbb030c"
+item: "#item-21985aa7a"
 unparsed:
-line: 'Head: confidence|Entry: 719 [Confidence]|#item-27bbb030c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/389,3065,534,160/full/0/default.jpg
+line: 'Head: coquets|Entry: 4806 [Coquets]|#item-21985aa7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1828,2463,488,82/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216878536
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559912654
+sort_value: '301432463'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/389,3065,534,160/150,/0/default.jpg
-label: confidence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1828,2463,488,82/150,/0/default.jpg
+label: coquets
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

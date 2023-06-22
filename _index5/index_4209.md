@@ -2,28 +2,30 @@
 pid: index_4209
 volume: Volume 3
 image_number: '48'
-head: too many
-entry:
+head: tradition
+entry: "<a href='/digital-beehive/alpha5/alpha_0978/'>a</a>|<a href='/digital-beehive/num2/num_0605/'>484
+  [Tradition]</a>|<a href='/digital-beehive/num6/num_1960/'>1376 [Tradition]</a>"
 topic:
 first_letter: T
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0519/'>captains</a>"
+see:
 index:
-item: "#item-2510843f6"
+item: "#item-fa9ea301a"
 unparsed:
-line: 'Head: too many|See: captains|#item-2510843f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/449,1492,673,142/full/0/default.jpg
+line: 'Head: tradition|Entry: a|Entry: 484 [Tradition]|Entry: 1376 [Tradition]|#item-fa9ea301a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1112,1391,724,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274616409
+annotation_uri: http://dev.llgc.org.uk/annotation/1561485074220
+sort_value: '304821391'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/449,1492,673,142/150,/0/default.jpg
-label: too many
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1112,1391,724,121/150,/0/default.jpg
+label: tradition
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '172'
+order: '171'
 layout: index_item
 collection: index5
 ---

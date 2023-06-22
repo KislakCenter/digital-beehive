@@ -2,10 +2,8 @@
 pid: index_0007
 volume: Volume 3
 image_number: '7'
-head: agriculture
-entry: "<a href='/digital-beehive/alpha1/alpha_0016/'>a</a>|<a href='/digital-beehive/num5/num_1534/'>1130
-  [Agriculture]</a>|<a href='/digital-beehive/num11/num_3558/'>4863 [Agriculture &
-  Country life]</a>"
+head: abiding
+entry: "<a href='/digital-beehive/num4/num_1133/'>884 [to abide]</a>"
 topic:
 first_letter: A
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-41b808974"
+item: "#item-d235fec0a"
 unparsed:
-line: 'Head: agriculture|Entry: a|Entry: 1130 [Agriculture]|Entry: 4863 [Agriculture
-  & Country life]|#item-41b808974'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1610,254,683,139/full/0/default.jpg
+line: 'Head: abiding|Entry: 884 [to abide]|#item-d235fec0a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/177,615,405,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767789045
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758489382
+sort_value: '300710615'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1610,254,683,139/150,/0/default.jpg
-label: agriculture
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/177,615,405,156/150,/0/default.jpg
+label: abiding
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0128
 volume: Volume 3
 image_number: '8'
-head: arse
-entry: "<a href='/digital-beehive/num2/num_0570/'>458 [Privy parts]</a>"
+head: amnestia
+entry: "<a href='/digital-beehive/num3/num_1003/'>697 [Forgetfulness]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0f21bb5b2"
+item: "#item-3fd44c235"
 unparsed:
-line: 'Head: arse|Entry: 458 [Privy parts]|#item-0f21bb5b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,1519,345,126/full/0/default.jpg
+line: 'Head: amnestia|Entry: 697 [Forgetfulness]|#item-3fd44c235'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/391,580,503,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565711599399
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757658465
+sort_value: '300810580'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,1519,345,126/150,/0/default.jpg
-label: arse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/391,580,503,158/150,/0/default.jpg
+label: amnestia
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,28 +2,29 @@
 pid: index_4279
 volume: Volume 3
 image_number: '49'
-head: vigilance
-entry: 4655 [PAGE_MISSING]
+head: two masters
+entry: "<a href='/digital-beehive/num10/num_3360/'>2388 [Two Masters]</a>"
 topic:
-first_letter: U/V
+first_letter: T
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3193/'>providence</a>"
+see:
 index:
-item: "#item-c8efae733"
+item: "#item-b589f6a63"
 unparsed:
-line: 'Head: vigilance|See: providence|Entry: 4655 [PAGE_MISSING]|#item-c8efae733'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1631,1006,714,127/full/0/default.jpg
+line: 'Head: two masters|Entry: 2388 [Two Masters]|#item-b589f6a63'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/215,2860,524,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659992552
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657186150
+sort_value: '304912860'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1631,1006,714,127/150,/0/default.jpg
-label: vigilance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/215,2860,524,99/150,/0/default.jpg
+label: two masters
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '242'
+order: '241'
 layout: index_item
 collection: index5
 ---

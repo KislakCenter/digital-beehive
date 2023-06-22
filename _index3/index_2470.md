@@ -2,24 +2,25 @@
 pid: index_2470
 volume: Volume 3
 image_number: '30'
-head: martyrologies
+head: medlar
 entry:
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a9963fa83"
+item: "#item-2b344cb4e"
 unparsed:
-line: 'Head: martyrologies|Page: p.379 [Image 2.201]|#item-a9963fa83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/400,1088,648,140/full/0/default.jpg
+line: 'Head: medlar|Page: p.33 [Image 1.93]|#item-2b344cb4e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1110,601,425,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263521929
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267755970
+sort_value: '303020601'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/400,1088,648,140/150,/0/default.jpg
-label: martyrologies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1110,601,425,136/150,/0/default.jpg
+label: medlar
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

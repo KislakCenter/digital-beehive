@@ -2,25 +2,25 @@
 pid: index_0507
 volume: Volume 3
 image_number: '11'
-head: briefly
-entry: "<a href='/digital-beehive/num4/num_1243/'>932 [Brevity]</a>|<a href='/digital-beehive/num9/num_3136/'>2193
-  [Briefly]</a>"
+head: cake
+entry: 726 [PAGE_MISSING]
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-a774256b8"
+item: "#item-9c2a5b2f3"
 unparsed:
-line: 'Head: briefly|Entry: 932 [Brevity]|Entry: 2193 [Briefly]|#item-a774256b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/175,2530,581,117/full/0/default.jpg
+line: 'Head: cake|Entry: 726 [PAGE_MISSING]|#item-9c2a5b2f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1572,353,381,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419563657
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494105755
+sort_value: '301130353'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/175,2530,581,117/150,/0/default.jpg
-label: briefly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1572,353,381,113/150,/0/default.jpg
+label: cake
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

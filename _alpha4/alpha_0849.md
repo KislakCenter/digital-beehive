@@ -17,6 +17,7 @@ line: 'Entry: Sedition|Topic: Sedition|Xref: Rebellion|Index: [NOT_IN_INDEX]|#it
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/288,774,694,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530214040663
+sort_value: '205110774'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/288,774,600,180/250,/0/default.jpg
 label: Sedition

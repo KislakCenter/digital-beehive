@@ -2,8 +2,8 @@
 pid: index_0294
 volume: Volume 3
 image_number: '9'
-head: a beau
-entry: 4851 [WORD_MISSING]
+head: "[:18.]"
+entry:
 topic:
 first_letter: B
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-705c20365"
-unparsed:
-line: 'Head: a beau|Entry: 4851 [WORD_MISSING]|#item-705c20365'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1597,2119,380,72/full/0/default.jpg
+item: "#item-e054b74df"
+unparsed: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
+line: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1410,2729,170,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530891961242
+annotation_uri: http://dev.llgc.org.uk/annotation/1559591394306
+sort_value: '300922729'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1597,2119,380,72/150,/0/default.jpg
-label: a beau
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1410,2729,170,121/150,/0/default.jpg
+label: "[:18.]"
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4682/'>Barclay</a>"
 order: '0293'
 layout: index_item
 collection: index1

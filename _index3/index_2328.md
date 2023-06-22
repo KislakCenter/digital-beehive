@@ -2,25 +2,26 @@
 pid: index_2328
 volume: Volume 3
 image_number: '29'
-head: Ludov. XIV
-entry: "<a href='/digital-beehive/num6/num_1847/'>1319 [Ludovicus XIV]</a>|<a href='/digital-beehive/num8/num_2915/'>1984
-  [Ludovicus XIV]</a>"
+head: lookingglass
+entry: "<a href='/digital-beehive/alpha3/alpha_0551/'>a</a>|<a href='/digital-beehive/num9/num_3036/'>2100
+  [Lookingglass]</a>"
 topic:
 first_letter: L
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-2985c963e"
+item: "#item-417e3b4fa"
 unparsed:
-line: 'Head: Ludov. XIV|Entry: 1319 [Ludovicus XIV]|Entry: 1984 [Ludovicus XIV]|#item-2985c963e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/860,372,593,144/full/0/default.jpg
+line: 'Head: lookingglass|Page: p.38 [Image 1.98]|Entry: a|Entry: 2100 [Lookingglass]|#item-417e3b4fa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,752,696,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560184879704
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177800842
+sort_value: '302910752'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/860,372,593,144/150,/0/default.jpg
-label: Ludov. XIV
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,752,696,142/150,/0/default.jpg
+label: lookingglass
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

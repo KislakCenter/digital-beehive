@@ -2,24 +2,27 @@
 pid: index_2872
 volume: Volume 3
 image_number: '34'
-head: out
-entry: "<a href='/digital-beehive/num3/num_0981/'>688 [Out]</a>"
+head: parable
+entry: "<a href='/digital-beehive/num6/num_1947/'>1370 [Parables & Similitudes which
+  Christ spake]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3712/'>similitude</a>"
 index:
-item: "#item-dfd2e1cdb"
+item: "#item-60b17c5c6"
 unparsed:
-line: 'Head: out|Entry: 688 [Out]|#item-dfd2e1cdb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,1397,481,141/full/0/default.jpg
+line: 'Head: parable|See: similitude|Entry: 1370 [Parables & Similitudes which Christ
+  spake]|#item-60b17c5c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1168,871,752,187/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425337953
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492730190
+sort_value: '303420871'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,1397,481,141/150,/0/default.jpg
-label: out
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1168,871,752,187/150,/0/default.jpg
+label: parable
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

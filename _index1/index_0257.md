@@ -2,24 +2,25 @@
 pid: index_0257
 volume: Volume 3
 image_number: '9'
-head: attonemt
-entry:
+head: awaking
+entry: 793 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3314/'>reconcil</a>"
+see:
 index:
-item: "#item-82e2f57d6"
+item: "#item-ff6985a92"
 unparsed:
-line: 'Head: attonemt|See: reconcil|#item-82e2f57d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/179,919,614,119/full/0/default.jpg
+line: 'Head: awaking|Entry: 793 [PAGE_MISSING]|#item-ff6985a92'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/166,2381,509,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015015408
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016135609
+sort_value: '300912381'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/179,919,614,119/150,/0/default.jpg
-label: attonemt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/166,2381,509,207/150,/0/default.jpg
+label: awaking
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

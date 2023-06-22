@@ -2,9 +2,8 @@
 pid: index_1963
 volume: Volume 3
 image_number: '25'
-head: imperfection
-entry: "<a href='/digital-beehive/alpha3/alpha_0466/'>a</a>|<a href='/digital-beehive/num6/num_1908/'>1350
-  [Imperfection]</a>"
+head: im[m]ortal
+entry: "<a href='/digital-beehive/num2/num_0591/'>474 [Immortal]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1a808b792"
+item: "#item-efdb43bed"
 unparsed:
-line: 'Head: imperfection|Entry: a|Entry: 1350 [Imperfection]|#item-1a808b792'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/862,1584,708,126/full/0/default.jpg
+line: 'Head: im[m]ortal|Entry: 474 [Immortal]|#item-efdb43bed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/864,1087,477,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665937796
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665471376
+sort_value: '302521087'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/862,1584,708,126/150,/0/default.jpg
-label: imperfection
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/864,1087,477,102/150,/0/default.jpg
+label: im[m]ortal
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

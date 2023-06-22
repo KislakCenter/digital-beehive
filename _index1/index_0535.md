@@ -2,24 +2,25 @@
 pid: index_0535
 volume: Volume 3
 image_number: '11'
-head: brother
-entry: "<a href='/digital-beehive/alpha1/alpha_0105/'>a</a>"
+head: captivity
+entry: "<a href='/digital-beehive/num2/num_0412/'>351 [Captivity]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2375/'>Love</a>"
+see:
 index:
-item: "#item-70e28330f"
+item: "#item-210fcdadb"
 unparsed:
-line: 'Head: brother|Entry: a|See: Love|#item-70e28330f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/149,3398,419,192/full/0/default.jpg
+line: 'Head: captivity|Entry: 351 [Captivity]|#item-210fcdadb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1578,2969,446,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420044011
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496131666
+sort_value: '301132969'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/149,3398,419,192/150,/0/default.jpg
-label: brother
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1578,2969,446,133/150,/0/default.jpg
+label: captivity
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

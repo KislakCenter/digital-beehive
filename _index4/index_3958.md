@@ -2,8 +2,8 @@
 pid: index_3958
 volume: Volume 3
 image_number: '45'
-head: stocks
-entry: "<a href='/digital-beehive/num3/num_0856/'>632 [Stock]</a>"
+head: subscriptions in lett
+entry: "<a href='/digital-beehive/num7/num_2365/'>1576 [II. Common Subscriptions]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-451225f10"
+item: "#item-f291b2f18"
 unparsed:
-line: 'Head: stocks|Entry: 632 [Stock]|#item-451225f10'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/203,2900,405,101/full/0/default.jpg
+line: 'Head: subscriptions in lett|Entry: 1576 [II. Common Subscriptions]|#item-f291b2f18'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,1382,687,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530448352184
+annotation_uri: http://dev.llgc.org.uk/annotation/1530468470917
+sort_value: '304531382'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/203,2900,405,101/150,/0/default.jpg
-label: stocks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,1382,687,153/150,/0/default.jpg
+label: subscriptions in lett
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

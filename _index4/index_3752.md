@@ -2,8 +2,8 @@
 pid: index_3752
 volume: Volume 3
 image_number: '43'
-head: simony
-entry: "<a href='/digital-beehive/alpha4/alpha_0880/'>a</a>"
+head: slippery
+entry: 821 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-13b708162"
+item: "#item-ec978f1cd"
 unparsed:
-line: 'Head: simony|Entry: a|#item-13b708162'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/172,2204,415,135/full/0/default.jpg
+line: 'Head: slippery|Entry: 821 [PAGE_MISSING]|#item-ec978f1cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/898,2562,556,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582329163
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584705593
+sort_value: '304322562'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/172,2204,415,135/150,/0/default.jpg
-label: simony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/898,2562,556,123/150,/0/default.jpg
+label: slippery
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

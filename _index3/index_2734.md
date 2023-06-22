@@ -2,8 +2,8 @@
 pid: index_2734
 volume: Volume 3
 image_number: '32'
-head: necromancy
-entry: "<a href='/digital-beehive/num8/num_2806/'>1912 [Necromancy]</a>"
+head: notary
+entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e6a6a4d43"
+item: "#item-8d448ea85"
 unparsed:
-line: 'Head: necromancy|Entry: 1912 [Necromancy]|#item-e6a6a4d43'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/368,3172,538,107/full/0/default.jpg
+line: 'Head: notary|Entry: 260 [Scribe or publick Notary]|#item-8d448ea85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2256,419,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439293582
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449359856
+sort_value: '303232256'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/368,3172,538,107/150,/0/default.jpg
-label: necromancy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2256,419,129/150,/0/default.jpg
+label: notary
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

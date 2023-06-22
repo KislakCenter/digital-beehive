@@ -2,8 +2,8 @@
 pid: index_0611
 volume: Volume 3
 image_number: '12'
-head: catachresis
-entry: "<a href='/digital-beehive/num3/num_1077/'>725 [Catachresis]</a>"
+head: "[:50.]"
+entry:
 topic:
 first_letter: C
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-19becdf3e"
-unparsed:
-line: 'Head: catachresis|Entry: 725 [Catachresis]|#item-19becdf3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/408,2204,599,140/full/0/default.jpg
+item: "#item-f368c1523"
+unparsed: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
+line: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/2363,526,209,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098341962
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275599750
+sort_value: '301230526'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/408,2204,599,140/150,/0/default.jpg
-label: catachresis
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/2363,526,209,118/150,/0/default.jpg
+label: "[:50.]"
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4718/'>Charon</a>"
 order: '0610'
 layout: index_item
 collection: index1

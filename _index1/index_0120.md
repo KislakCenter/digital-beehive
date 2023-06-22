@@ -2,8 +2,8 @@
 pid: index_0120
 volume: Volume 3
 image_number: '7'
-head: action
-entry: "<a href='/digital-beehive/num11/num_3485/'>4793 [Action]</a>"
+head: ambassage
+entry: "<a href='/digital-beehive/alpha1/alpha_0023/'>a</a>|1876 [PAGE_MISSING]"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4dabfa3ff"
+item: "#item-a3878782b"
 unparsed:
-line: 'Head: action|Entry: 4793 [Action]|#item-4dabfa3ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/179,3409,489,117/full/0/default.jpg
+line: 'Head: ambassage|Entry: a|Entry: 1876 [PAGE_MISSING]|#item-a3878782b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1585,3221,624,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760382090
+annotation_uri: http://dev.llgc.org.uk/annotation/1564771158367
+sort_value: '300733221'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/179,3409,489,117/150,/0/default.jpg
-label: action
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1585,3221,624,149/150,/0/default.jpg
+label: ambassage
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

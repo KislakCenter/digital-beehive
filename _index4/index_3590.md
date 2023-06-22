@@ -2,8 +2,8 @@
 pid: index_3590
 volume: Volume 3
 image_number: '41'
-head: scandal
-entry: "<a href='/digital-beehive/alpha4/alpha_0838/'>a</a>"
+head: seducing
+entry: "<a href='/digital-beehive/num5/num_1570/'>1152 [Seducing]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b18891a25"
+item: "#item-a949b081a"
 unparsed:
-line: 'Head: scandal|Entry: a|#item-b18891a25'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,3139,387,113/full/0/default.jpg
+line: 'Head: seducing|Entry: 1152 [Seducing]|#item-a949b081a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1585,2531,566,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240096299
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242946180
+sort_value: '304132531'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,3139,387,113/150,/0/default.jpg
-label: scandal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1585,2531,566,177/150,/0/default.jpg
+label: seducing
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,28 +2,29 @@
 pid: index_4517
 volume: Volume 3
 image_number: '52'
-head: well
-entry:
+head: welfare
+entry: "<a href='/digital-beehive/num4/num_1201/'>913 [Welfare]</a>"
 topic:
 first_letter: W
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3839/'>spring</a>"
+see:
 index:
-item: "#item-a1f645f75"
+item: "#item-a7f83eeee"
 unparsed:
-line: 'Head: well|See: spring|#item-a1f645f75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1108,1438,450,189/full/0/default.jpg
+line: 'Head: welfare|Entry: 913 [Welfare]|#item-a7f83eeee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1099,1314,446,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968902228
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968837534
+sort_value: '305221314'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1108,1438,450,189/150,/0/default.jpg
-label: well
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1099,1314,446,145/150,/0/default.jpg
+label: welfare
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '480'
+order: '479'
 layout: index_item
 collection: index5
 ---

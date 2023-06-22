@@ -2,8 +2,9 @@
 pid: index_1412
 volume: Volume 3
 image_number: '20'
-head: bonefire
-entry: "<a href='/digital-beehive/num5/num_1423/'>1058 [Bonfires]</a>"
+head: fate
+entry: "<a href='/digital-beehive/alpha2/alpha_0319/'>a</a>|<a href='/digital-beehive/num5/num_1716/'>1243
+  [Fate]</a>|<a href='/digital-beehive/num7/num_2424/'>1608 [Fate]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-733dd30b6"
+item: "#item-676343de2"
 unparsed:
-line: 'Head: bonefire|Entry: 1058 [Bonfires]|#item-733dd30b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1819,1028,516,232/full/0/default.jpg
+line: 'Head: fate|Entry: a|Entry: 1243 [Fate]|Entry: 1608 [Fate]|#item-676343de2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1146,232,602,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613471042
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660707378
+sort_value: '302020232'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1819,1028,516,232/150,/0/default.jpg
-label: bonefire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1146,232,602,111/150,/0/default.jpg
+label: fate
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

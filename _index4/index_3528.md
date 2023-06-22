@@ -2,26 +2,25 @@
 pid: index_3528
 volume: Volume 3
 image_number: '41'
-head: schole
-entry: "<a href='/digital-beehive/alpha4/alpha_0839/'>a</a>|839 [PAGE_MISSING]|<a
-  href='/digital-beehive/num10/num_3325/'>2354 [Schools]</a>"
+head: saucidge
+entry:
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3221/'>pudding</a>"
 index:
-item: "#item-a59e4a28d"
+item: "#item-585f2a74f"
 unparsed:
-line: 'Head: schole|Page: p.5 [Image 1.65]|Entry: a|Entry: 839 [PAGE_MISSING]|Entry:
-  2354 [Schools]|#item-a59e4a28d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/875,1023,731,136/full/0/default.jpg
+line: 'Head: saucidge|See: pudding|#item-585f2a74f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/171,2258,655,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240472942
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239381989
+sort_value: '304112258'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/875,1023,731,136/150,/0/default.jpg
-label: schole
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/171,2258,655,174/150,/0/default.jpg
+label: saucidge
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

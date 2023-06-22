@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0180/'>Conversion</a>|<a href='/di
   [After high floods (: come :) low ebbs]</a>|<a href='/digital-beehive/num6/num_1757/'>1268
   [Change]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0629/'>change</a>"
+index: "<a href='/digital-beehive/index1/index_0597/'>change</a>"
 item: "#item-d276aa007"
 unparsed:
 line: 'Entry: Change|Topic: Change|Xref: Conversion|Xref: Mutation|Xref: 4 [After
@@ -22,6 +22,7 @@ line: 'Entry: Change|Topic: Change|Xref: Conversion|Xref: Mutation|Xref: 4 [Afte
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/333,958,3165,540/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499437726742
+sort_value: '144110958'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/333,958,600,180/250,/0/default.jpg
 label: Change

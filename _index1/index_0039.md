@@ -2,24 +2,26 @@
 pid: index_0039
 volume: Volume 3
 image_number: '7'
-head: about
-entry: 825 [PAGE_MISSING]
+head: Adam
+entry: "<a href='/digital-beehive/num2/num_0472/'>389 [Adam]</a>|<a href='/digital-beehive/num9/num_3064/'>2125
+  [Adam]</a>"
 topic:
 first_letter: A
 page:
-add:
+add: "<a href='/digital-beehive/index4/index_2783/'>Old</a>"
 xref:
 see:
 index:
-item: "#item-81e87df73"
+item: "#item-c16b7ec8c"
 unparsed:
-line: 'Head: about|Entry: 825 [PAGE_MISSING]|#item-81e87df73'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/184,1060,410,97/full/0/default.jpg
+line: 'Head: Adam|Entry: 389 [Adam]|Entry: 2125 [Adam]|Add: Old|#item-c16b7ec8c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/161,3443,624,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758883386
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760426332
+sort_value: '300713443'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/184,1060,410,97/150,/0/default.jpg
-label: about
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/161,3443,624,169/150,/0/default.jpg
+label: Adam
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

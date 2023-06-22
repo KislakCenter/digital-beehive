@@ -2,25 +2,25 @@
 pid: index_3316
 volume: Volume 3
 image_number: '38'
-head: rain
-entry: "<a href='/digital-beehive/alpha4/alpha_0775/'>a</a>|<a href='/digital-beehive/num7/num_2383/'>1588
-  [Rain]</a>"
+head: reckon[n]ing
+entry: "<a href='/digital-beehive/num1/num_0255/'>237 [Reckoning]</a>"
 topic:
 first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-783b3f148"
+item: "#item-68dac7c38"
 unparsed:
-line: 'Head: rain|Page: p.29 [Image 1.89]|Entry: a|Entry: 1588 [Rain]|#item-783b3f148'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1178,3392,582,152/full/0/default.jpg
+line: 'Head: reckon[n]ing|Entry: 237 [Reckoning]|#item-68dac7c38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1837,2903,582,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459687910
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461998570
+sort_value: '303832903'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1178,3392,582,152/150,/0/default.jpg
-label: rain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1837,2903,582,190/150,/0/default.jpg
+label: reckon[n]ing
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

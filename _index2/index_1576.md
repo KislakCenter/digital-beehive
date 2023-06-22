@@ -2,24 +2,25 @@
 pid: index_1576
 volume: Volume 3
 image_number: '21'
-head: formerly
-entry: "<a href='/digital-beehive/num5/num_1721/'>1245 [Formerly]</a>"
+head: gallant
+entry: 4568 [PAGE_MISSING]
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-edc2303bc"
+item: "#item-44a94d6e3"
 unparsed:
-line: 'Head: formerly|Entry: 1245 [Formerly]|#item-edc2303bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/147,3136,554,172/full/0/default.jpg
+line: 'Head: gallant|Entry: 4568 [PAGE_MISSING]|#item-44a94d6e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1527,2153,483,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560782450478
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786672295
+sort_value: '302132153'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/147,3136,554,172/150,/0/default.jpg
-label: formerly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1527,2153,483,114/150,/0/default.jpg
+label: gallant
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

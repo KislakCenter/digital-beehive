@@ -2,25 +2,25 @@
 pid: index_2333
 volume: Volume 3
 image_number: '29'
-head: womens longing
-entry: "<a href='/digital-beehive/num3/num_0980/'>688 [Womens Longings]</a>|<a href='/digital-beehive/num5/num_1684/'>1226
-  [Womens Longing]</a>"
+head: Lord
+entry: "<a href='/digital-beehive/alpha3/alpha_0553/'>a</a>"
 topic:
 first_letter: L
 page:
-add:
+add: "<a href='/digital-beehive/index4/index_3110/'>prayer</a>"
 xref:
 see:
 index:
-item: "#item-e8fdd4ebd"
+item: "#item-20ce408c8"
 unparsed:
-line: 'Head: womens longing|Entry: 688 [Womens Longings]|Entry: 1226 [Womens Longing]|#item-e8fdd4ebd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,512,622,148/full/0/default.jpg
+line: 'Head: Lord|Entry: a|Add: prayer|#item-20ce408c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/175,1310,344,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560177508090
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178124372
+sort_value: '302911310'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,512,622,148/150,/0/default.jpg
-label: womens longing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/175,1310,344,184/150,/0/default.jpg
+label: Lord
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

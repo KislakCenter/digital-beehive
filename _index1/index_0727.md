@@ -2,8 +2,8 @@
 pid: index_0727
 volume: Volume 3
 image_number: '13'
-head: city
-entry: "<a href='/digital-beehive/num1/num_0170/'>162 [City]</a>|1878 [PAGE_MISSING]"
+head: comb
+entry: "<a href='/digital-beehive/num3/num_0916/'>663 [Comb]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-63917c56f"
+item: "#item-f875a16fe"
 unparsed:
-line: 'Head: city|Entry: 162 [City]|Entry: 1878 [PAGE_MISSING]|#item-63917c56f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/159,2687,465,128/full/0/default.jpg
+line: 'Head: comb|Entry: 663 [Comb]|#item-f875a16fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,956,357,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536332999308
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610409517
+sort_value: '301330956'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/159,2687,465,128/150,/0/default.jpg
-label: city
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,956,357,108/150,/0/default.jpg
+label: comb
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

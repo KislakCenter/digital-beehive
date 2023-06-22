@@ -2,8 +2,8 @@
 pid: index_3359
 volume: Volume 3
 image_number: '39'
-head: renouncing
-entry: "<a href='/digital-beehive/num2/num_0519/'>418 [Renouncing]</a>"
+head: to remit
+entry: "<a href='/digital-beehive/num6/num_2051/'>1418 [To Remit]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f94e60949"
+item: "#item-490182416"
 unparsed:
-line: 'Head: renouncing|Entry: 418 [Renouncing]|#item-f94e60949'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/792,1588,595,122/full/0/default.jpg
+line: 'Head: to remit|Entry: 1418 [To Remit]|#item-490182416'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/801,926,470,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469139652
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468979777
+sort_value: '303920926'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/792,1588,595,122/150,/0/default.jpg
-label: renouncing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/801,926,470,189/150,/0/default.jpg
+label: to remit
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

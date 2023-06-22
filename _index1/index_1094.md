@@ -2,8 +2,10 @@
 pid: index_1094
 volume: Volume 3
 image_number: '17'
-head: ditto
-entry: "<a href='/digital-beehive/num2/num_0294/'>263 [the said]</a>"
+head: disputation
+entry: "<a href='/digital-beehive/alpha1/alpha_0248/'>a</a>|803 [PAGE_MISSING]|<a
+  href='/digital-beehive/num6/num_1819/'>1302 [Disputation]</a>|<a href='/digital-beehive/num7/num_2503/'>1643
+  [Disputing]</a>|4750 [PAGE_MISSING]"
 topic:
 first_letter: D
 page:
@@ -11,19 +13,21 @@ add:
 xref:
 see:
 index:
-item: "#item-08043b43a"
+item: "#item-128357b7e"
 unparsed:
-line: 'Head: ditto|Entry: 263 [the said]|#item-08043b43a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/817,1158,398,104/full/0/default.jpg
+line: 'Head: disputation|Entry: a|Entry: 803 [PAGE_MISSING]|Entry: 1302 [Disputation]|Entry:
+  1643 [Disputing]|Entry: 4750 [PAGE_MISSING]|#item-128357b7e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/131,2899,655,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849161512
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175715947
+sort_value: '301712899'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/817,1158,398,104/150,/0/default.jpg
-label: ditto
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/131,2899,655,137/150,/0/default.jpg
+label: disputation
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1092'
+order: '1093'
 layout: index_item
 collection: index1
 ---

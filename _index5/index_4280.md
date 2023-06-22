@@ -2,28 +2,29 @@
 pid: index_4280
 volume: Volume 3
 image_number: '49'
-head: Vandals
-entry: "<a href='/digital-beehive/num7/num_2215/'>1502 [Vandals]</a>"
+head: to ty
+entry: "<a href='/digital-beehive/num3/num_0799/'>605 [To tye]</a>"
 topic:
-first_letter: U/V
+first_letter: T
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d5157bfe5"
+item: "#item-b013fb7fe"
 unparsed:
-line: 'Head: Vandals|Entry: 1502 [Vandals]|#item-d5157bfe5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/927,1037,450,104/full/0/default.jpg
+line: 'Head: to ty|Entry: 605 [To tye]|#item-b013fb7fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2942,344,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657769070
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657254918
+sort_value: '304912942'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/927,1037,450,104/150,/0/default.jpg
-label: Vandals
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2942,344,142/150,/0/default.jpg
+label: to ty
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '243'
+order: '242'
 layout: index_item
 collection: index5
 ---

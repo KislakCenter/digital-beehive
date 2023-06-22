@@ -2,28 +2,29 @@
 pid: index_4722
 volume: Volume 3
 image_number: '54'
-head: forrest
+head: tomb
 entry:
 topic:
 first_letter: insertion
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4591/'>wood</a>"
+see: "<a href='/digital-beehive/index2/index_1699/'>grave</a>"
 index:
-item: "#item-355b318ec"
-unparsed: Type Index|Insertion [:19.]
-line: 'Type: Index|Insertion: [:19.]|Head: forrest|See: wood|#item-355b318ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/400,2812,671,138/full/0/default.jpg
+item: "#item-e99bf76e6"
+unparsed: Type Index|Insertion [:54.]
+line: 'Type: Index|Insertion: [:54.]|Head: tomb|See: grave|#item-e99bf76e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1771,1166,706,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560885069116
-insertion: "[:19.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/400,2812,671,138/150,/0/default.jpg
-label: forrest
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956597941
+sort_value: '305431166'
+insertion: "[:54.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1771,1166,706,142/150,/0/default.jpg
+label: tomb
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '685'
+order: '684'
 layout: index_item
 collection: index5
 ---

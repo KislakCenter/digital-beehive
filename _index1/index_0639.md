@@ -2,8 +2,8 @@
 pid: index_0639
 volume: Volume 3
 image_number: '12'
-head: chapters
-entry: "<a href='/digital-beehive/num10/num_3348/'>2376 [Chapters & Verses]</a>"
+head: chiromancy
+entry: "<a href='/digital-beehive/num7/num_2276/'>1531 [Chiromancy]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ad3e9328b"
+item: "#item-3513d5b27"
 unparsed:
-line: 'Head: chapters|Entry: 2376 [Chapters & Verses]|#item-ad3e9328b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,3259,487,119/full/0/default.jpg
+line: 'Head: chiromancy|Entry: 1531 [Chiromancy]|#item-3513d5b27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1819,2844,605,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443056910
+annotation_uri: http://dev.llgc.org.uk/annotation/1532461285808
+sort_value: '301232844'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,3259,487,119/150,/0/default.jpg
-label: chapters
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1819,2844,605,125/150,/0/default.jpg
+label: chiromancy
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

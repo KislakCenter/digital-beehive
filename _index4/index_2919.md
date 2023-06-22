@@ -2,8 +2,8 @@
 pid: index_2919
 volume: Volume 3
 image_number: '34'
-head: part
-entry: 772 [PAGE_MISSING]|<a href='/digital-beehive/num4/num_1325/'>993 [Part]</a>
+head: patres
+entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-75b809916"
+item: "#item-adf4d9f87"
 unparsed:
-line: 'Head: part|Entry: 772 [PAGE_MISSING]|Entry: 993 [Part]|#item-75b809916'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1116,2920,609,113/full/0/default.jpg
+line: 'Head: patres|Entry: 73 [the Fathers]|#item-adf4d9f87'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1812,1907,558,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494595413
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495553454
+sort_value: '303431907'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1116,2920,609,113/150,/0/default.jpg
-label: part
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1812,1907,558,139/150,/0/default.jpg
+label: patres
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

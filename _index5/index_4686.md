@@ -2,8 +2,8 @@
 pid: index_4686
 volume: Volume 3
 image_number: '54'
-head: pindar
-entry: 4653 [PAGE_MISSING]
+head: abyss
+entry: "<a href='/digital-beehive/num7/num_2230/'>1509 [Treasure]</a>"
 topic:
 first_letter: insertion
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-27f2f0b77"
-unparsed: Type Index|Insertion [:31.]
-line: 'Type: Index|Insertion: [:31.]|Head: pindar|Entry: 4653 [PAGE_MISSING]|#item-27f2f0b77'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1068,1230,417,109/full/0/default.jpg
+item: "#item-ef3738884"
+unparsed: Type Index|Insertion [:21.]
+line: 'Type: Index|Insertion: [:21.]|Head: abyss|Entry: 1509 [Treasure]|#item-ef3738884'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/448,3146,398,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560954273637
-insertion: "[:31.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1068,1230,417,109/150,/0/default.jpg
-label: pindar
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885344521
+sort_value: '305413146'
+insertion: "[:21.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/448,3146,398,113/150,/0/default.jpg
+label: abyss
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '649'
+order: '648'
 layout: index_item
 collection: index5
 ---

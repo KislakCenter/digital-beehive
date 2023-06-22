@@ -11,13 +11,14 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0418/'>Heresy</a>|<a href='/digital-beehive/num1/num_0071/'>70
   [Sect]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3559/'>sect</a>"
+index: "<a href='/digital-beehive/index4/index_3587/'>sect</a>"
 item: "#item-7e7c690e4"
 unparsed:
 line: 'Entry: Sect|Topic: Sect|Xref: Heresy|Xref: 70 [Sect]|Index: sect|#item-7e7c690e4'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0517/764,4648,2978,464/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0517/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528924784797
+sort_value: '205014648'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0517/764,4648,600,180/250,/0/default.jpg
 label: Sect

@@ -2,28 +2,29 @@
 pid: index_4310
 volume: Volume 3
 image_number: '49'
-head: "[:26.]"
-entry:
+head: venison
+entry: "<a href='/digital-beehive/num9/num_3043/'>2106 [Venison]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2203475c8"
-unparsed: 'Type: Index|Insertion Xref: [:26.]|#item-2203475c8'
-line: 'Type: Index|Insertion Xref: [:26.]|#item-2203475c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/713,2154,265,200/full/0/default.jpg
+item: "#item-5da01a2be"
+unparsed:
+line: 'Head: venison|Entry: 2106 [Venison]|#item-5da01a2be'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/962,2643,465,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661662765
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658715679
+sort_value: '304922643'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/713,2154,265,200/150,/0/default.jpg
-label: "[:26.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/962,2643,465,95/150,/0/default.jpg
+label: venison
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>Turpentine</a>"
-order: '273'
+insertion_xref:
+order: '272'
 layout: index_item
 collection: index5
 ---

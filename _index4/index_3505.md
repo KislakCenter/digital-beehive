@@ -2,9 +2,10 @@
 pid: index_3505
 volume: Volume 3
 image_number: '41'
-head: Sea
-entry: "<a href='/digital-beehive/alpha4/alpha_0842/'>a</a>|<a href='/digital-beehive/num6/num_2161/'>1470
-  [Sea]</a>"
+head: salt
+entry: "<a href='/digital-beehive/alpha4/alpha_0832/'>a</a>|<a href='/digital-beehive/num7/num_2496/'>1640
+  [Salt]</a>|<a href='/digital-beehive/num8/num_2870/'>1946 [Salt]</a>|<a href='/digital-beehive/num9/num_3063/'>2124
+  [Salt]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +13,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d0282e415"
+item: "#item-a1ffb83f0"
 unparsed:
-line: 'Head: Sea|Entry: a|Entry: 1470 [Sea]|#item-d0282e415'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1582,255,453,137/full/0/default.jpg
+line: 'Head: salt|Entry: a|Entry: 1640 [Salt]|Entry: 1946 [Salt]|Entry: 2124 [Salt]|#item-a1ffb83f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/153,482,734,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241908063
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238329892
+sort_value: '304110482'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1582,255,453,137/150,/0/default.jpg
-label: Sea
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/153,482,734,132/150,/0/default.jpg
+label: salt
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

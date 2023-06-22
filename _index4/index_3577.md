@@ -2,8 +2,8 @@
 pid: index_3577
 volume: Volume 3
 image_number: '41'
-head: scab
-entry: "<a href='/digital-beehive/alpha4/alpha_0836/'>a</a>"
+head: to search
+entry: "<a href='/digital-beehive/num3/num_0844/'>625 [Inquiry]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-99de27c07"
+item: "#item-e0d32688c"
 unparsed:
-line: 'Head: scab|Entry: a|#item-99de27c07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/158,2660,286,123/full/0/default.jpg
+line: 'Head: to search|Entry: 625 [Inquiry]|#item-e0d32688c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1569,986,456,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240023767
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242338731
+sort_value: '304130986'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/158,2660,286,123/150,/0/default.jpg
-label: scab
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1569,986,456,148/150,/0/default.jpg
+label: to search
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

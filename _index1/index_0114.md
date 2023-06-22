@@ -2,9 +2,8 @@
 pid: index_0114
 volume: Volume 3
 image_number: '7'
-head: agreable
-entry: "<a href='/digital-beehive/alpha1/alpha_0014/'>a</a>|<a href='/digital-beehive/num4/num_1144/'>889
-  [Agreable]</a>"
+head: although
+entry: "<a href='/digital-beehive/num2/num_0304/'>270 [Although]</a>"
 topic:
 first_letter: A
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-616635647"
+item: "#item-26ec413fc"
 unparsed:
-line: 'Head: agreable|Entry: a|Entry: 889 [Agreable]|#item-616635647'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,3265,520,138/full/0/default.jpg
+line: 'Head: although|Entry: 270 [Although]|#item-26ec413fc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1583,2590,476,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767606139
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770797609
+sort_value: '300732590'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,3265,520,138/150,/0/default.jpg
-label: agreable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1583,2590,476,167/150,/0/default.jpg
+label: although
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

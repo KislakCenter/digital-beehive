@@ -2,29 +2,29 @@
 pid: index_1134
 volume: Volume 3
 image_number: '17'
-head: doctor of divinity
-entry:
+head: dotage
+entry: 804 [PAGE_MISSING]
 topic:
 first_letter: D
-page: "<a href='/digital-beehive/toc/toc1_127/'>p.66.2 [Image 1.138]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-51a8ecea4"
+item: "#item-91c8b9d13"
 unparsed:
-line: 'Head: doctor of divinity|Page: p.66.2 [Image 1.138]|#item-51a8ecea4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/824,2488,685,156/full/0/default.jpg
+line: 'Head: dotage|Entry: 804 [PAGE_MISSING]|#item-91c8b9d13'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1400,648,548,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560366927363
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367616169
+sort_value: '301730648'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/824,2488,685,156/150,/0/default.jpg
-label: doctor of divinity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1400,648,548,130/150,/0/default.jpg
+label: dotage
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: Pastorius links to section 47 on page 66. There is currently no protocol for
-  specifying a specific item on a page reference.
+issue:
 insertion_xref:
-order: '1132'
+order: '1133'
 layout: index_item
 collection: index1
 ---

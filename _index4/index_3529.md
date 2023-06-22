@@ -2,9 +2,8 @@
 pid: index_3529
 volume: Volume 3
 image_number: '41'
-head: Salutation
-entry: "<a href='/digital-beehive/num1/num_0079/'>78 [Salutations]</a>|<a href='/digital-beehive/num6/num_2196/'>1489
-  [Salutation]</a>"
+head: a saw
+entry: "<a href='/digital-beehive/num3/num_0747/'>581 [To Saw]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6181a1f6d"
+item: "#item-6bad285b1"
 unparsed:
-line: 'Head: Salutation|Entry: 78 [Salutations]|Entry: 1489 [Salutation]|#item-6181a1f6d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/144,1025,635,157/full/0/default.jpg
+line: 'Head: a saw|Entry: 581 [To Saw]|#item-6bad285b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,2385,353,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238507551
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239417589
+sort_value: '304112385'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/144,1025,635,157/150,/0/default.jpg
-label: Salutation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,2385,353,116/150,/0/default.jpg
+label: a saw
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

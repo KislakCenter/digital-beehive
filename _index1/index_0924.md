@@ -2,24 +2,25 @@
 pid: index_0924
 volume: Volume 3
 image_number: '15'
-head: first day
-entry: "<a href='/digital-beehive/num3/num_0643/'>511 [First day of the Week]</a>"
+head: cunning
+entry:
 topic:
-first_letter: D
+first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0893/'>craftiness</a>"
 index:
-item: "#item-5e96bfd68"
+item: "#item-00b1f85ec"
 unparsed:
-line: 'Head: first day|Entry: 511 [First day of the Week]|#item-5e96bfd68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1528,2153,472,96/full/0/default.jpg
+line: 'Head: cunning|See: craftiness|#item-00b1f85ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/844,3268,649,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391656745
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578032042
+sort_value: '301523268'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1528,2153,472,96/150,/0/default.jpg
-label: first day
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/844,3268,649,137/150,/0/default.jpg
+label: cunning
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

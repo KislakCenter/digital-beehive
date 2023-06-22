@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0639/'>Necessity</a>|<a href='/dig
   href='/digital-beehive/num2/num_0387/'>334 [Impotency]</a>|<a href='/digital-beehive/num6/num_1909/'>1350
   [Want]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4439/'>want</a>"
+index: "<a href='/digital-beehive/index5/index_4468/'>want</a>"
 item: "#item-fb74e9d20"
 unparsed:
 line: 'Entry: Want|Topic: Want|Xref: Necessity|Xref: Poverty|Xref: 334 [Impotency]|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Want|Topic: Want|Xref: Necessity|Xref: Poverty|Xref: 334 [Impotenc
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/353,2573,2982,424/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529521627053
+sort_value: '206312573'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/353,2573,600,180/250,/0/default.jpg
 label: Want

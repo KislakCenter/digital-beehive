@@ -2,27 +2,27 @@
 pid: index_2017
 volume: Volume 3
 image_number: '25'
-head: Indies
-entry:
+head: Indians
+entry: 768 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2259/'>1524 [Indians]</a>
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: East & West Indies
+see:
 index:
-item: "#item-7f7e7dcbf"
+item: "#item-18961b52b"
 unparsed:
-line: 'Head: Indies|See: East & West Indies|#item-7f7e7dcbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1542,3388,659,198/full/0/default.jpg
+line: 'Head: Indians|Entry: 768 [PAGE_MISSING]|Entry: 1524 [Indians]|#item-18961b52b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1525,3169,602,195/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673024990
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672892597
+sort_value: '302533169'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1542,3388,659,198/150,/0/default.jpg
-label: Indies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1525,3169,602,195/150,/0/default.jpg
+label: Indians
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: The cross-reference "East & West Indies" refers to two separate index headers.
-  There is currently no protocol to link to two different items.
+issue:
 insertion_xref:
 order: '099'
 layout: index_item

@@ -2,8 +2,8 @@
 pid: index_2391
 volume: Volume 3
 image_number: '29'
-head: magna Charta
-entry: "<a href='/digital-beehive/num3/num_0861/'>635 [Great Charter of England]</a>"
+head: "[:4.]"
+entry:
 topic:
 first_letter: M
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bd6ad6f2e"
-unparsed:
-line: 'Head: magna Charta|Entry: 635 [Great Charter of England]|#item-bd6ad6f2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2482,610,163/full/0/default.jpg
+item: "#item-9a06bbb61"
+unparsed: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
+line: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/2139,370,183,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186860898
+annotation_uri: http://dev.llgc.org.uk/annotation/1560199596809
+sort_value: '302930370'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2482,610,163/150,/0/default.jpg
-label: magna Charta
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/2139,370,183,131/150,/0/default.jpg
+label: "[:4.]"
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4667/'>Lord Major</a>"
 order: '473'
 layout: index_item
 collection: index3

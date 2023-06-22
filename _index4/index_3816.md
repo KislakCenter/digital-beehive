@@ -2,9 +2,8 @@
 pid: index_3816
 volume: Volume 3
 image_number: '44'
-head: 'Son: sonship'
-entry: "<a href='/digital-beehive/alpha4/alpha_0898/'>a</a>|<a href='/digital-beehive/num2/num_0356/'>311
-  [Sonship]</a>"
+head: Andr. Sowle
+entry: "<a href='/digital-beehive/num8/num_2916/'>1985 [Andrew Sowle]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-df652d3fd"
+item: "#item-7ae0d5a55"
 unparsed:
-line: 'Head: Son: sonship|Entry: a|Entry: 311 [Sonship]|#item-df652d3fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/466,594,599,89/full/0/default.jpg
+line: 'Head: Andr. Sowle|Entry: 1985 [Andrew Sowle]|#item-7ae0d5a55'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/595,3467,512,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529702862386
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288526893
+sort_value: '304413467'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/466,594,599,89/150,/0/default.jpg
-label: 'Son: sonship'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/595,3467,512,146/150,/0/default.jpg
+label: Andr. Sowle
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

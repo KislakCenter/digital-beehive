@@ -2,9 +2,9 @@
 pid: index_0946
 volume: Volume 3
 image_number: '15'
-head: dearth
-entry: "<a href='/digital-beehive/alpha1/alpha_0212/'>a</a>|<a href='/digital-beehive/num3/num_0717/'>563
-  [Dearth]</a>"
+head: darkness
+entry: "<a href='/digital-beehive/alpha1/alpha_0210/'>a</a>|<a href='/digital-beehive/num5/num_1671/'>1220
+  [Darkness]</a>"
 topic:
 first_letter: D
 page:
@@ -12,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-efc11280e"
+item: "#item-b468baa05"
 unparsed:
-line: 'Head: dearth|Entry: a|Entry: 563 [Dearth]|#item-efc11280e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1537,2750,552,87/full/0/default.jpg
+line: 'Head: darkness|Entry: a|Entry: 1220 [Darkness]|#item-b468baa05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1514,1474,619,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507322160923
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391199497
+sort_value: '301531474'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1537,2750,552,87/150,/0/default.jpg
-label: dearth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1514,1474,619,124/150,/0/default.jpg
+label: darkness
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0944'
+order: '0945'
 layout: index_item
 collection: index1
 ---

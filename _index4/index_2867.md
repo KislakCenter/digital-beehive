@@ -2,9 +2,8 @@
 pid: index_2867
 volume: Volume 3
 image_number: '34'
-head: paradox
-entry: "<a href='/digital-beehive/alpha4/alpha_0679/'>a</a>|<a href='/digital-beehive/num1/num_0210/'>201
-  [Orthodox Paradoxes]</a>"
+head: to pant
+entry: "<a href='/digital-beehive/num3/num_0982/'>688 [Breathing with difficulty]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f8e4ae233"
+item: "#item-d07576602"
 unparsed:
-line: 'Head: paradox|Entry: a|Entry: 201 [Orthodox Paradoxes]|#item-f8e4ae233'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1165,1219,559,167/full/0/default.jpg
+line: 'Head: to pant|Entry: 688 [Breathing with difficulty]|#item-d07576602'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1168,425,527,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492881900
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276685110
+sort_value: '303420425'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1165,1219,559,167/150,/0/default.jpg
-label: paradox
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1168,425,527,127/150,/0/default.jpg
+label: to pant
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

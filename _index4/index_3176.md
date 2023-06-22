@@ -18,6 +18,7 @@ line: 'Head: prodigality|Entry: a|Entry: 753 [PAGE_MISSING]|Entry: 2072 [Prodiga
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/797,1761,769,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1550868117767
+sort_value: '303721761'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/797,1761,769,132/150,/0/default.jpg
 label: prodigality

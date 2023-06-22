@@ -2,25 +2,25 @@
 pid: index_2027
 volume: Volume 3
 image_number: '26'
-head: indifferency
-entry: "<a href='/digital-beehive/num1/num_0184/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
+head: infallibility
+entry: "<a href='/digital-beehive/num1/num_0032/'>32 [Infallibility]</a>"
 topic:
 first_letter: I/J
 page:
-add: "<a href='/digital-beehive/index1/index_0010/'>adiaph</a>"
+add:
 xref:
 see:
 index:
-item: "#item-b6ea78923"
+item: "#item-e1c3937d9"
 unparsed:
-line: 'Head: indifferency|Entry: 176 [Indifferency]|Entry: 1850 [PAGE_MISSING]|Add:
-  adiaph|#item-b6ea78923'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/439,229,825,179/full/0/default.jpg
+line: 'Head: infallibility|Entry: 32 [Infallibility]|#item-e1c3937d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/457,822,531,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674225380
+annotation_uri: http://dev.llgc.org.uk/annotation/1559743941001
+sort_value: '302610822'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/439,229,825,179/150,/0/default.jpg
-label: indifferency
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/457,822,531,160/150,/0/default.jpg
+label: infallibility
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

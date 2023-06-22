@@ -2,8 +2,8 @@
 pid: index_3485
 volume: Volume 3
 image_number: '40'
-head: the said
-entry: "<a href='/digital-beehive/num2/num_0294/'>263 [the said]</a>"
+head: sadduces
+entry: "<a href='/digital-beehive/num6/num_2188/'>1483 [Sadduces]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e751ce9c1"
+item: "#item-bdb90dfff"
 unparsed:
-line: 'Head: the said|Entry: 263 [the said]|#item-e751ce9c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1818,2652,436,120/full/0/default.jpg
+line: 'Head: sadduces|Entry: 1483 [Sadduces]|#item-bdb90dfff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1775,1845,549,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235168850
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234844484
+sort_value: '304031845'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1818,2652,436,120/150,/0/default.jpg
-label: the said
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1775,1845,549,138/150,/0/default.jpg
+label: sadduces
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

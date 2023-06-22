@@ -2,24 +2,25 @@
 pid: index_0673
 volume: Volume 3
 image_number: '13'
-head: come on!
-entry: 4560 [PAGE_MISSING]
+head: circumspect
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0809/'>considerate</a>"
 index:
-item: "#item-949460883"
+item: "#item-41878201f"
 unparsed:
-line: 'Head: come on!|Entry: 4560 [PAGE_MISSING]|#item-949460883'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1656,1004,512,110/full/0/default.jpg
+line: 'Head: circumspect|See: considerate|#item-41878201f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/143,2294,753,187/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610452369
+annotation_uri: http://dev.llgc.org.uk/annotation/1536332355104
+sort_value: '301312294'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1656,1004,512,110/150,/0/default.jpg
-label: come on!
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/143,2294,753,187/150,/0/default.jpg
+label: circumspect
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

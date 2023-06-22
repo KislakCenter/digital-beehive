@@ -2,8 +2,8 @@
 pid: index_3122
 volume: Volume 3
 image_number: '36'
-head: poverty parts friendship
-entry: "<a href='/digital-beehive/num1/num_0016/'>16 [Poverty parts good fellowship]</a>"
+head: prefermt
+entry: "<a href='/digital-beehive/num7/num_2650/'>1726 [Preferment]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-449929ffe"
+item: "#item-338130616"
 unparsed:
-line: 'Head: poverty parts friendship|Entry: 16 [Poverty parts good fellowship]|#item-449929ffe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1162,3173,654,154/full/0/default.jpg
+line: 'Head: prefermt|Entry: 1726 [Preferment]|#item-338130616'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1859,2269,534,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439230333
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440662961
+sort_value: '303632269'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1162,3173,654,154/150,/0/default.jpg
-label: poverty parts friendship
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1859,2269,534,138/150,/0/default.jpg
+label: prefermt
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

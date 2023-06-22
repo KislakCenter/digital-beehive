@@ -2,24 +2,25 @@
 pid: index_2619
 volume: Volume 3
 image_number: '31'
-head: Nadir
-entry: 809 [PAGE_MISSING]
+head: mushroom
+entry: "<a href='/digital-beehive/alpha3/alpha_0622/'>a</a>"
 topic:
-first_letter: N
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-525b16c27"
+item: "#item-665224971"
 unparsed:
-line: 'Head: Nadir|Entry: 809 [PAGE_MISSING]|#item-525b16c27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3029,391,169/full/0/default.jpg
+line: 'Head: mushroom|Entry: a|#item-665224971'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1558,1852,465,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362621818
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361985267
+sort_value: '303131852'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3029,391,169/150,/0/default.jpg
-label: Nadir
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1558,1852,465,135/150,/0/default.jpg
+label: mushroom
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3554
 volume: Volume 3
 image_number: '41'
-head: satisfaction
-entry: "<a href='/digital-beehive/num3/num_0690/'>547 [Satisfaction]</a>"
+head: scorn
+entry: "<a href='/digital-beehive/alpha4/alpha_0840/'>a</a>|814 [PAGE_MISSING]"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7a662a885"
+item: "#item-22ba831e8"
 unparsed:
-line: 'Head: satisfaction|Entry: 547 [Satisfaction]|#item-7a662a885'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,1904,552,133/full/0/default.jpg
+line: 'Head: scorn|Entry: a|Entry: 814 [PAGE_MISSING]|#item-22ba831e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/851,1953,491,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239121796
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240998582
+sort_value: '304121953'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,1904,552,133/150,/0/default.jpg
-label: satisfaction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/851,1953,491,120/150,/0/default.jpg
+label: scorn
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

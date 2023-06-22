@@ -2,9 +2,9 @@
 pid: index_3206
 volume: Volume 3
 image_number: '37'
-head: prudence
-entry: "<a href='/digital-beehive/alpha4/alpha_0760/'>a</a>|<a href='/digital-beehive/num8/num_2878/'>1954
-  [Prudence]</a>"
+head: protestants
+entry: "<a href='/digital-beehive/num1/num_0084/'>83 [Protestant]</a>|<a href='/digital-beehive/num7/num_2232/'>1511
+  [Protestant Religion]</a>|<a href='/digital-beehive/num10/num_3217/'>2264 [Protestants]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +12,17 @@ add:
 xref:
 see:
 index:
-item: "#item-b357fa7e6"
+item: "#item-f84e26f79"
 unparsed:
-line: 'Head: prudence|Entry: a|Entry: 1954 [Prudence]|#item-b357fa7e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1468,2888,637,195/full/0/default.jpg
+line: 'Head: protestants|Entry: 83 [Protestant]|Entry: 1511 [Protestant Religion]|Entry:
+  2264 [Protestants]|#item-f84e26f79'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,1927,792,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869741067
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869472203
+sort_value: '303731927'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1468,2888,637,195/150,/0/default.jpg
-label: prudence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,1927,792,135/150,/0/default.jpg
+label: protestants
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

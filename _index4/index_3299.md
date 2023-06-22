@@ -2,24 +2,25 @@
 pid: index_3299
 volume: Volume 3
 image_number: '38'
-head: pyramid
-entry: 861 [PAGE_MISSING]
+head: rattle
+entry: 4727 [PAGE_MISSING]
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1d1fd790d"
+item: "#item-807f957dc"
 unparsed:
-line: 'Head: pyramid|Entry: 861 [PAGE_MISSING]|#item-1d1fd790d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/403,2564,450,106/full/0/default.jpg
+line: 'Head: rattle|Entry: 4727 [PAGE_MISSING]|#item-807f957dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1842,1225,504,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452630070
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460822522
+sort_value: '303831225'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/403,2564,450,106/150,/0/default.jpg
-label: pyramid
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1842,1225,504,103/150,/0/default.jpg
+label: rattle
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

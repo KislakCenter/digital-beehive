@@ -2,24 +2,26 @@
 pid: index_3302
 volume: Volume 3
 image_number: '38'
-head: rachel
-entry: "<a href='/digital-beehive/num8/num_2906/'>1976 [Rachel]</a>"
+head: raven
+entry: "<a href='/digital-beehive/alpha4/alpha_0778/'>a</a>|<a href='/digital-beehive/num6/num_1911/'>1351
+  [a Kite : a Hawk]</a>"
 topic:
 first_letter: R
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a5a821fc4"
+item: "#item-c85beeec7"
 unparsed:
-line: 'Head: rachel|Entry: 1976 [Rachel]|#item-a5a821fc4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1187,2691,481,124/full/0/default.jpg
+line: 'Head: raven|Page: p.35 [Image 1.95]|Entry: a|Entry: 1351 [a Kite : a Hawk]|#item-c85beeec7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,1380,678,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459434241
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461023830
+sort_value: '303831380'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1187,2691,481,124/150,/0/default.jpg
-label: rachel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,1380,678,113/150,/0/default.jpg
+label: raven
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

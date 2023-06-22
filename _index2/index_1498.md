@@ -2,8 +2,9 @@
 pid: index_1498
 volume: Volume 3
 image_number: '21'
-head: fuel
-entry: 4614 [PAGE_MISSING]
+head: forbearance
+entry: "<a href='/digital-beehive/alpha2/alpha_0341/'>a</a>|<a href='/digital-beehive/num7/num_2561/'>1669
+  [Forbearance]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-eca5969cf"
+item: "#item-da9c660ec"
 unparsed:
-line: 'Head: fuel|Entry: 4614 [PAGE_MISSING]|#item-eca5969cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1566,625,401,111/full/0/default.jpg
+line: 'Head: forbearance|Entry: a|Entry: 1669 [Forbearance]|#item-da9c660ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/160,1626,681,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560785443588
+annotation_uri: http://dev.llgc.org.uk/annotation/1508355105878
+sort_value: '302111626'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1566,625,401,111/150,/0/default.jpg
-label: fuel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/160,1626,681,131/150,/0/default.jpg
+label: forbearance
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

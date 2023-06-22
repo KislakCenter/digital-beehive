@@ -2,24 +2,27 @@
 pid: index_1346
 volume: Volume 3
 image_number: '19'
-head: ex. gr.
-entry: "<a href='/digital-beehive/num6/num_2060/'>1422 [Ex. gr.]</a>"
+head: exhortation
+entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1426/'>1060 [Admonishing
+  & Warning]</a>
 topic:
 first_letter: E
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0045/'>admonishing</a>"
 index:
-item: "#item-e4adea14b"
+item: "#item-d278815d8"
 unparsed:
-line: 'Head: ex. gr.|Entry: 1422 [Ex. gr.]|#item-e4adea14b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/833,2607,449,120/full/0/default.jpg
+line: 'Head: exhortation|See: admonishing|Entry: 843 [PAGE_MISSING]|Entry: 1060 [Admonishing
+  & Warning]|#item-d278815d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1527,750,845,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355403257
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042568283
+sort_value: '301930750'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/833,2607,449,120/150,/0/default.jpg
-label: ex. gr.
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1527,750,845,171/150,/0/default.jpg
+label: exhortation
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_2857
 volume: Volume 3
 image_number: '34'
-head: overhasty
-entry:
+head: a pair
+entry: "<a href='/digital-beehive/num2/num_0383/'>332 [a Pair]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4201/'>too hasty</a>"
+see:
 index:
-item: "#item-ce8f3b5c9"
+item: "#item-9285bcba9"
 unparsed:
-line: 'Head: overhasty|See: too hasty|#item-ce8f3b5c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,864,794,186/full/0/default.jpg
+line: 'Head: a pair|Entry: 332 [a Pair]|#item-9285bcba9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/421,2830,528,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425098161
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425885188
+sort_value: '303412830'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,864,794,186/150,/0/default.jpg
-label: overhasty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/421,2830,528,164/150,/0/default.jpg
+label: a pair
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

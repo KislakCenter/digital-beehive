@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0152/'>Civility</a>|<a href='/digi
   href='/digital-beehive/num1/num_0021/'>21 [Moderate]</a>|<a href='/digital-beehive/num5/num_1645/'>1206
   [Gentleness]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1629/'>gentleness</a>"
+index: "<a href='/digital-beehive/index2/index_1597/'>gentleness</a>"
 item: "#item-271a74ff6"
 unparsed:
 line: 'Entry: Gentleness|Topic: Gentleness|Xref: Civility|Xref: Humanity|Xref: 21
@@ -20,6 +20,7 @@ line: 'Entry: Gentleness|Topic: Gentleness|Xref: Civility|Xref: Humanity|Xref: 2
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/784,655,2985,582/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564601289798
+sort_value: '201410655'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/784,655,600,180/250,/0/default.jpg
 label: Gentleness

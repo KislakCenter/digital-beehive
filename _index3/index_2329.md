@@ -2,24 +2,25 @@
 pid: index_2329
 volume: Volume 3
 image_number: '29'
-head: maiz
-entry: "<a href='/digital-beehive/num7/num_2625/'>1702 [Maiz]</a>"
+head: to loose
+entry: 786 [PAGE_MISSING]
 topic:
-first_letter: M
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9a1f831e6"
+item: "#item-d6a01d508"
 unparsed:
-line: 'Head: maiz|Entry: 1702 [Maiz]|#item-9a1f831e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1559,383,377,98/full/0/default.jpg
+line: 'Head: to loose|Entry: 786 [PAGE_MISSING]|#item-d6a01d508'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/154,883,382,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560193918566
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177825332
+sort_value: '302910883'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1559,383,377,98/150,/0/default.jpg
-label: maiz
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/154,883,382,101/150,/0/default.jpg
+label: to loose
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

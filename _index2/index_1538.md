@@ -2,24 +2,25 @@
 pid: index_1538
 volume: Volume 3
 image_number: '21'
-head: Gainsaying
-entry: 823 [PAGE_MISSING]
+head: free thinkers
+entry: 4725 [PAGE_MISSING]
 topic:
-first_letter: G
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9f12c071e"
+item: "#item-bb7a3e6c2"
 unparsed:
-line: 'Head: Gainsaying|Entry: 823 [PAGE_MISSING]|#item-9f12c071e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1552,1932,569,118/full/0/default.jpg
+line: 'Head: free thinkers|Entry: 4725 [PAGE_MISSING]|#item-bb7a3e6c2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/872,1970,596,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786441739
+annotation_uri: http://dev.llgc.org.uk/annotation/1560783132945
+sort_value: '302121970'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1552,1932,569,118/150,/0/default.jpg
-label: Gainsaying
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/872,1970,596,109/150,/0/default.jpg
+label: free thinkers
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

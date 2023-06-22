@@ -2,24 +2,25 @@
 pid: index_0157
 volume: Volume 3
 image_number: '8'
-head: arms. wappen o waffen
-entry: "<a href='/digital-beehive/num2/num_0282/'>257 [Arms]</a>"
+head: antidote
+entry: "<a href='/digital-beehive/num1/num_0169/'>162 [Antidote]</a>"
 topic:
 first_letter: A
-page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
-add: Weapons
+page:
+add:
 xref:
 see:
 index:
-item: "#item-3795465ac"
+item: "#item-99c59e1dc"
 unparsed:
-line: 'Head: arms. wappen o waffen|Page: p.5 [Image 1.65]|Entry: 257 [Arms]|Add: Weapons|#item-3795465ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1811,808,529,187/full/0/default.jpg
+line: 'Head: antidote|Entry: 162 [Antidote]|#item-99c59e1dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/343,2820,528,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631294469
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759189887
+sort_value: '300812820'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1811,808,529,187/150,/0/default.jpg
-label: arms. wappen o waffen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/343,2820,528,150/150,/0/default.jpg
+label: antidote
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

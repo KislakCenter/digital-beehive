@@ -2,25 +2,26 @@
 pid: index_2070
 volume: Volume 3
 image_number: '26'
-head: inward
-entry: "<a href='/digital-beehive/num2/num_0611/'>489 [Turn in!]</a>|<a href='/digital-beehive/num10/num_3241/'>2281
-  [Turn in : Inward]</a>"
+head: instrumt
+entry: "<a href='/digital-beehive/alpha3/alpha_0484/'>a</a>|<a href='/digital-beehive/num10/num_3350/'>2378
+  [Instruments]</a>"
 topic:
 first_letter: I/J
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-af7c595b4"
+item: "#item-810d2e997"
 unparsed:
-line: 'Head: inward|Entry: 489 [Turn in!]|Entry: 2281 [Turn in : Inward]|#item-af7c595b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1869,1787,556,136/full/0/default.jpg
+line: 'Head: instrumt|Page: p.38 [Image 1.98]|Entry: a|Entry: 2378 [Instruments]|#item-810d2e997'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1165,2143,692,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751844981
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748381620
+sort_value: '302622143'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1869,1787,556,136/150,/0/default.jpg
-label: inward
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1165,2143,692,177/150,/0/default.jpg
+label: instrumt
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

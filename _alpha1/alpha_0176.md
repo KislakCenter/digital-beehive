@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>Derision</a>|<a href='/digital-beehive/num2/num_0585/'>470
   [Disregard]</a>|<a href='/digital-beehive/num2/num_0302/'>269 [Contempt]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0849/'>contempt</a>"
+index: "<a href='/digital-beehive/index1/index_0820/'>contempt</a>"
 item: "#item-05f1df571"
 unparsed:
 line: 'Entry: Contempt|Topic: Contempt|Xref: Derision|Xref: 470 [Disregard]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Contempt|Topic: Contempt|Xref: Derision|Xref: 470 [Disregard]|Xref
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/790,2776,3063,568/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499784729323
+sort_value: '144412776'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/790,2776,600,180/250,/0/default.jpg
 label: Contempt

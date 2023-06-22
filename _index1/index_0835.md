@@ -2,24 +2,25 @@
 pid: index_0835
 volume: Volume 3
 image_number: '14'
-head: construction
-entry: 844 [PAGE_MISSING]
+head: conventicle
+entry: 863 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3232/'>2273 [Conventicles]</a>
 topic:
 first_letter: C
 page:
-add: "<a href='/digital-beehive/index1/index_0560/'>charitable</a>"
+add:
 xref:
 see:
 index:
-item: "#item-0ed39de38"
+item: "#item-898969370"
 unparsed:
-line: 'Head: construction|Entry: 844 [PAGE_MISSING]|Add: charitable|#item-0ed39de38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1125,2761,651,152/full/0/default.jpg
+line: 'Head: conventicle|Entry: 863 [PAGE_MISSING]|Entry: 2273 [Conventicles]|#item-898969370'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1845,1572,720,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542062705
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559537488
+sort_value: '301431572'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1125,2761,651,152/150,/0/default.jpg
-label: construction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1845,1572,720,134/150,/0/default.jpg
+label: conventicle
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

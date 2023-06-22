@@ -2,9 +2,8 @@
 pid: index_2959
 volume: Volume 3
 image_number: '35'
-head: pilgrimage
-entry: "<a href='/digital-beehive/num1/num_0030/'>30 [Pilgrimage]</a>|<a href='/digital-beehive/num3/num_0685/'>543
-  [Pilgrimage]</a>|4545 [PAGE_MISSING]"
+head: to perish
+entry: 852 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d00fd8377"
+item: "#item-97c45dc60"
 unparsed:
-line: 'Head: pilgrimage|Entry: 30 [Pilgrimage]|Entry: 543 [Pilgrimage]|Entry: 4545
-  [PAGE_MISSING]|#item-d00fd8377'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1496,1014,767,175/full/0/default.jpg
+line: 'Head: to perish|Entry: 852 [PAGE_MISSING]|#item-97c45dc60'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/133,2825,540,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976199833
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973189139
+sort_value: '303512825'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1496,1014,767,175/150,/0/default.jpg
-label: pilgrimage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/133,2825,540,167/150,/0/default.jpg
+label: to perish
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

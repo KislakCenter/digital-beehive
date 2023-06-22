@@ -2,24 +2,25 @@
 pid: index_2478
 volume: Volume 3
 image_number: '30'
-head: might
-entry:
+head: to melt
+entry: "<a href='/digital-beehive/num3/num_1052/'>716 [to Melt]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3042/'>power</a>"
+see:
 index:
-item: "#item-02aef911f"
+item: "#item-416d53cb5"
 unparsed:
-line: 'Head: might|See: power|#item-02aef911f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,1468,522,160/full/0/default.jpg
+line: 'Head: to melt|Entry: 716 [to Melt]|#item-416d53cb5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1103,1485,496,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273872894
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268242535
+sort_value: '303021485'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,1468,522,160/150,/0/default.jpg
-label: might
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1103,1485,496,180/150,/0/default.jpg
+label: to melt
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

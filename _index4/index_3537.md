@@ -2,24 +2,25 @@
 pid: index_3537
 volume: Volume 3
 image_number: '41'
-head: seat
-entry: 838 [PAGE_MISSING]
+head: scar
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4626/'>wound</a>"
 index:
-item: "#item-352f020a8"
+item: "#item-3fa9f6b5e"
 unparsed:
-line: 'Head: seat|Entry: 838 [PAGE_MISSING]|#item-352f020a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1573,1297,346,122/full/0/default.jpg
+line: 'Head: scar|See: wound|#item-3fa9f6b5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,3252,497,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242473484
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240083713
+sort_value: '304113252'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1573,1297,346,122/150,/0/default.jpg
-label: seat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,3252,497,166/150,/0/default.jpg
+label: scar
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

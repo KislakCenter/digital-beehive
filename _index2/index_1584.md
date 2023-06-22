@@ -2,24 +2,25 @@
 pid: index_1584
 volume: Volume 3
 image_number: '21'
-head: frowardness
-entry: 735 [PAGE_MISSING]
+head: gates
+entry: "<a href='/digital-beehive/num3/num_0833/'>621 [Door]</a>"
 topic:
-first_letter: F
-page:
+first_letter: G
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-3f0b063d9"
+item: "#item-eff871d32"
 unparsed:
-line: 'Head: frowardness|Entry: 735 [PAGE_MISSING]|#item-3f0b063d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/821,3348,573,169/full/0/default.jpg
+line: 'Head: gates|Page: p.8 [Image 1.68]|Entry: 621 [Door]|#item-eff871d32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1500,3012,586,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784612952
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787469688
+sort_value: '302133012'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/821,3348,573,169/150,/0/default.jpg
-label: frowardness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1500,3012,586,132/150,/0/default.jpg
+label: gates
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

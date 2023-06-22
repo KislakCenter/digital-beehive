@@ -2,28 +2,29 @@
 pid: index_4631
 volume: Volume 3
 image_number: '53'
-head: the young of beasts
-entry: "<a href='/digital-beehive/num5/num_1428/'>1061 [Chickens]</a>"
+head: wrestling
+entry: "<a href='/digital-beehive/num3/num_1066/'>721 [Wrastling]</a>"
 topic:
-first_letter: Y
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-384aa512d"
+item: "#item-02b96fdb1"
 unparsed:
-line: 'Head: the young of beasts|Entry: 1061 [Chickens]|#item-384aa512d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1578,2693,694,136/full/0/default.jpg
+line: 'Head: wrestling|Entry: 721 [Wrastling]|#item-02b96fdb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1607,810,463,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799474919
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798559152
+sort_value: '305330810'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1578,2693,694,136/150,/0/default.jpg
-label: the young of beasts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1607,810,463,170/150,/0/default.jpg
+label: wrestling
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '594'
+order: '593'
 layout: index_item
 collection: index5
 ---

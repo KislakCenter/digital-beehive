@@ -2,8 +2,9 @@
 pid: index_2651
 volume: Volume 3
 image_number: '32'
-head: navy
-entry: "<a href='/digital-beehive/num7/num_2565/'>1671 [Fleet]</a>"
+head: natural
+entry: "<a href='/digital-beehive/alpha3/alpha_0634/'>a</a>|<a href='/digital-beehive/num5/num_1464/'>1086
+  [Natural]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-565fffc52"
+item: "#item-a56b210cc"
 unparsed:
-line: 'Head: navy|Entry: 1671 [Fleet]|#item-565fffc52'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2538,374,129/full/0/default.jpg
+line: 'Head: natural|Entry: a|Entry: 1086 [Natural]|#item-a56b210cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,1583,609,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438687014
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437836268
+sort_value: '303211583'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2538,374,129/150,/0/default.jpg
-label: navy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,1583,609,93/150,/0/default.jpg
+label: natural
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

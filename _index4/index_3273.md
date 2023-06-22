@@ -2,24 +2,28 @@
 pid: index_3273
 volume: Volume 3
 image_number: '38'
-head: to purge
-entry: "<a href='/digital-beehive/num3/num_0906/'>659 [Purge]</a>"
+head: quotations
+entry: "<a href='/digital-beehive/num2/num_0547/'>442 [Quotation]</a>|<a href='/digital-beehive/num4/num_1331/'>999
+  [Quotations]</a>|<a href='/digital-beehive/num7/num_2563/'>1670 [Quotations]</a>|<a
+  href='/digital-beehive/num10/num_3207/'>2257 [Quotation]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2801bcee8"
+item: "#item-dce956498"
 unparsed:
-line: 'Head: to purge|Entry: 659 [Purge]|#item-2801bcee8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/402,1617,478,164/full/0/default.jpg
+line: 'Head: quotations|Entry: 442 [Quotation]|Entry: 999 [Quotations]|Entry: 1670
+  [Quotations]|Entry: 2257 [Quotation]|#item-dce956498'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1178,2277,644,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452272046
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455868547
+sort_value: '303822277'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/402,1617,478,164/150,/0/default.jpg
-label: to purge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1178,2277,644,148/150,/0/default.jpg
+label: quotations
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,7 +2,7 @@
 pid: index_3340
 volume: Volume 3
 image_number: '39'
-head: reserved
+head: to regulate
 entry:
 topic:
 first_letter: R
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-dd9ecc4e1"
+item: "#item-acc33cc9f"
 unparsed:
-line: 'Head: reserved|#item-dd9ecc4e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1498,845,373,124/full/0/default.jpg
+line: 'Head: to regulate|#item-acc33cc9f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/112,2383,454,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1575398429225
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464928410
+sort_value: '303912383'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1498,845,373,124/150,/0/default.jpg
-label: reserved
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/112,2383,454,154/150,/0/default.jpg
+label: to regulate
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

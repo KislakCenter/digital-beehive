@@ -2,8 +2,8 @@
 pid: index_4044
 volume: Volume 3
 image_number: '46'
-head: tarantula
-entry: "<a href='/digital-beehive/num2/num_0569/'>458 [Spider]</a>"
+head: table cloth
+entry: 4729 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-e0f957054"
+item: "#item-fa28577e0"
 unparsed:
-line: 'Head: tarantula|Entry: 458 [Spider]|#item-e0f957054'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1828,2563,525,103/full/0/default.jpg
+line: 'Head: table cloth|Entry: 4729 [PAGE_MISSING]|#item-fa28577e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1836,846,464,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743401289
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742452219
+sort_value: '304630846'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1828,2563,525,103/150,/0/default.jpg
-label: tarantula
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1836,846,464,109/150,/0/default.jpg
+label: table cloth
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '025'
+order: '006'
 layout: index_item
 collection: index5
 ---

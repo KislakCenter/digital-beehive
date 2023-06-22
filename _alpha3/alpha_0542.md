@@ -11,13 +11,14 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0457/'>illumination</a>|<a href='/digital-beehive/num3/num_0715/'>562
   [Light]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2315/'>light</a>"
+index: "<a href='/digital-beehive/index3/index_2286/'>light</a>"
 item: "#item-8228fcea3"
 unparsed:
 line: 'Entry: Light|Topic: Light|Xref: illumination|Xref: 562 [Light]|Index: light|#item-8228fcea3'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/716,2064,3024,755/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564769285748
+sort_value: '202812064'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/716,2064,600,180/250,/0/default.jpg
 label: Light

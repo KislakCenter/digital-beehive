@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|<a href='/digital-beehive/num5/num_1340/'>1005
   [Self will]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3673/'>Self will</a>"
+index: "<a href='/digital-beehive/index4/index_3629/'>Self will</a>"
 item: "#item-ef0ac887c"
 unparsed:
 line: 'Entry: Selfwilledness|Topic: Selfwilledness|Xref: Obstinacy|Xref: 1005 [Self
@@ -19,6 +19,7 @@ line: 'Entry: Selfwilledness|Topic: Selfwilledness|Xref: Obstinacy|Xref: 1005 [S
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/315,4124,3022,366/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530201434479
+sort_value: '205114124'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/315,4124,600,180/250,/0/default.jpg
 label: Selfwilledness

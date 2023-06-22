@@ -2,8 +2,8 @@
 pid: index_2089
 volume: Volume 3
 image_number: '26'
-head: intemperance
-entry: "<a href='/digital-beehive/alpha3/alpha_0485/'>a</a>"
+head: invalid
+entry: "<a href='/digital-beehive/num8/num_2720/'>1788 [Invalidity]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7a3972b47"
+item: "#item-953ec8416"
 unparsed:
-line: 'Head: intemperance|Entry: a|#item-7a3972b47'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1160,2551,543,156/full/0/default.jpg
+line: 'Head: invalid|Entry: 1788 [Invalidity]|#item-953ec8416'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1855,779,445,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748812836
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751114348
+sort_value: '302630779'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1160,2551,543,156/150,/0/default.jpg
-label: intemperance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1855,779,445,130/150,/0/default.jpg
+label: invalid
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0408
 volume: Volume 3
 image_number: '10'
-head: to bleach
-entry: "<a href='/digital-beehive/num3/num_1071/'>723 [To Bleach]</a>"
+head: bonfire
+entry: "<a href='/digital-beehive/num5/num_1423/'>1058 [Bonfires]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0c8445698"
+item: "#item-b744bf8c9"
 unparsed:
-line: 'Head: to bleach|Entry: 723 [To Bleach]|#item-0c8445698'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2205,531,136/full/0/default.jpg
+line: 'Head: bonfire|Entry: 1058 [Bonfires]|#item-b744bf8c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1804,1145,407,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531150830723
+annotation_uri: http://dev.llgc.org.uk/annotation/1531152735874
+sort_value: '301031145'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2205,531,136/150,/0/default.jpg
-label: to bleach
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1804,1145,407,119/150,/0/default.jpg
+label: bonfire
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_0772
 volume: Volume 3
 image_number: '14'
-head: contract
-entry:
+head: concerning
+entry: "<a href='/digital-beehive/num5/num_1617/'>1185 [Concerning]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0123/'>agreemt</a>"
+see:
 index:
-item: "#item-f5743bc2e"
+item: "#item-c02db9fea"
 unparsed:
-line: 'Head: contract|See: agreemt|#item-f5743bc2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1853,549,686,152/full/0/default.jpg
+line: 'Head: concerning|Entry: 1185 [Concerning]|#item-c02db9fea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/417,1784,558,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559256587
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216517211
+sort_value: '301411784'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1853,549,686,152/150,/0/default.jpg
-label: contract
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/417,1784,558,124/150,/0/default.jpg
+label: concerning
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

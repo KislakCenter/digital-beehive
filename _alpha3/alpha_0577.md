@@ -10,13 +10,14 @@ page:
 add:
 xref: Vespers|<a href='/digital-beehive/num7/num_2558/'>1668 [Mass]</a>
 see:
-index: "<a href='/digital-beehive/index3/index_2482/'>mass</a>"
+index: "<a href='/digital-beehive/index3/index_2444/'>mass</a>"
 item: "#item-596cbe576"
 unparsed:
 line: 'Entry: Mass|Topic: Mass|Xref: Vespers|Xref: 1668 [Mass]|Index: mass|#item-596cbe576'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/331,3328,3077,346/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564772815743
+sort_value: '203113328'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/331,3328,600,180/250,/0/default.jpg
 label: Mass

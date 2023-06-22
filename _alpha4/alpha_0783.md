@@ -10,7 +10,7 @@ page:
 add:
 xref: 4716 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index4/index_3309/'>recom[m]endation</a>"
+index: "<a href='/digital-beehive/index4/index_3317/'>recom[m]endation</a>"
 item: "#item-404bc8a22"
 unparsed:
 line: 'Entry: Recommendation|Topic: Recommendation|Xref: 4716 [PAGE_MISSING]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Recommendation|Topic: Recommendation|Xref: 4716 [PAGE_MISSING]|Ind
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/851,1055,2942,617/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1523301245086
+sort_value: '204611055'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/851,1055,600,180/250,/0/default.jpg
 label: Recommendation

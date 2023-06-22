@@ -2,29 +2,29 @@
 pid: index_1191
 volume: Volume 3
 image_number: '18'
-head: echo
-entry: "<a href='/digital-beehive/alpha2/alpha_0278/'>a</a>|<a href='/digital-beehive/num7/num_2444/'>1616
-  [Eccho]</a>"
+head: earthlyminded
+entry:
 topic:
 first_letter: E
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4619/'>worldly</a>"
 index:
-item: "#item-2c501e5dc"
+item: "#item-7424f8fb2"
 unparsed:
-line: 'Head: echo|Entry: a|Entry: 1616 [Eccho]|#item-2c501e5dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1160,461,439,130/full/0/default.jpg
+line: 'Head: earthlyminded|See: worldly|#item-7424f8fb2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/400,2556,746,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671232492
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667439938
+sort_value: '301812556'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1160,461,439,130/150,/0/default.jpg
-label: echo
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/400,2556,746,126/150,/0/default.jpg
+label: earthlyminded
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '020'
+order: '010'
 layout: index_item
 collection: index2
 ---

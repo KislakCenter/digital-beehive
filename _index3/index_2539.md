@@ -2,24 +2,26 @@
 pid: index_2539
 volume: Volume 3
 image_number: '31'
-head: mischief
-entry: "<a href='/digital-beehive/num6/num_2058/'>1422 [Dam[m]age]</a>"
+head: misfortune
+entry: "<a href='/digital-beehive/alpha3/alpha_0601/'>a</a>|<a href='/digital-beehive/num7/num_2638/'>1714
+  [Misfortune]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2351/'>malignity</a>"
+see:
 index:
-item: "#item-a0fd3b583"
+item: "#item-688743da9"
 unparsed:
-line: 'Head: mischief|See: malignity|Entry: 1422 [Dam[m]age]|#item-a0fd3b583'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/163,334,704,199/full/0/default.jpg
+line: 'Head: misfortune|Entry: a|Entry: 1714 [Misfortune]|#item-688743da9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,837,620,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350588141
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351130669
+sort_value: '303110837'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/163,334,704,199/150,/0/default.jpg
-label: mischief
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,837,620,111/150,/0/default.jpg
+label: misfortune
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

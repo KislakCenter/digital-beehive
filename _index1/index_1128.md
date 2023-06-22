@@ -2,28 +2,29 @@
 pid: index_1128
 volume: Volume 3
 image_number: '17'
-head: do as thou would be done
-entry: "<a href='/digital-beehive/num5/num_1639/'>1202 [Do as thou w. be done by]</a>"
+head: dolphin
+entry:
 topic:
 first_letter: D
-page:
+page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-08f9853a8"
+item: "#item-1e64b6899"
 unparsed:
-line: 'Head: do as thou would be done|Entry: 1202 [Do as thou w. be done by]|#item-08f9853a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/768,2266,831,121/full/0/default.jpg
+line: 'Head: dolphin|Page: p.36 [Image 1.96]|#item-1e64b6899'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/766,3220,512,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560366780104
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367315905
+sort_value: '301723220'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/768,2266,831,121/150,/0/default.jpg
-label: do as thou would be done
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/766,3220,512,161/150,/0/default.jpg
+label: dolphin
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1126'
+order: '1127'
 layout: index_item
 collection: index1
 ---

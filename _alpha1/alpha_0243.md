@@ -18,6 +18,7 @@ line: 'Entry: Discord|Topic: Discord|Xref: Unanimity|Xref: 840 [PAGE_MISSING]|In
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/711,1957,3093,725/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1486053269083
+sort_value: '145011957'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/711,1957,600,180/250,/0/default.jpg
 label: Discord

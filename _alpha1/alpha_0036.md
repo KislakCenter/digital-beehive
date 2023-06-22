@@ -10,13 +10,14 @@ page:
 add:
 xref: 802 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index1/index_0143/'>ape</a>"
+index: "<a href='/digital-beehive/index1/index_0165/'>ape</a>"
 item: "#item-218629065"
 unparsed:
 line: 'Entry: Ape|Topic: Ape|Xref: 802 [PAGE_MISSING]|Index: ape|#item-218629065'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/342,3628,3101,320/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490642530691
+sort_value: '143313628'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/342,3628,600,180/250,/0/default.jpg
 label: Ape

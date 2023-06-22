@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num8/num_2894/'>1969 [Hospital]</a>|1415 [Hospital
   at Glaucha]|<a href='/digital-beehive/alpha4/alpha_0673/'>Oprhan house</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1911/'>hospital</a>"
+index: "<a href='/digital-beehive/index2/index_1878/'>hospital</a>"
 item: "#item-8c5bbd263"
 unparsed:
 line: 'Entry: Hospital|Topic: Hospital|Xref: 1969 [Hospital]|Xref: 1415 [Hospital
@@ -19,6 +19,7 @@ line: 'Entry: Hospital|Topic: Hospital|Xref: 1969 [Hospital]|Xref: 1415 [Hospita
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/354,4044,3015,335/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1509733052074
+sort_value: '201914044'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/354,4044,600,180/250,/0/default.jpg
 label: Hospital

@@ -2,9 +2,8 @@
 pid: index_2980
 volume: Volume 3
 image_number: '35'
-head: Pen[n]silvania
-entry: "<a href='/digital-beehive/num6/num_2012/'>1399 [Pen[n]silvania]</a>|<a href='/digital-beehive/num6/num_2013/'>1399
-  [Pen[n]silvania, continued]</a>"
+head: phanatick
+entry: "<a href='/digital-beehive/num3/num_0824/'>616 [Fanatick]</a>"
 topic:
 first_letter: P
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c75112755"
+item: "#item-b5955eb3c"
 unparsed:
-line: 'Head: Pen[n]silvania|Entry: 1399 [Pen[n]silvania]|Entry: 1399 [Pen[n]silvania,
-  continued]|#item-c75112755'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/105,1680,655,158/full/0/default.jpg
+line: 'Head: phanatick|Entry: 616 [Fanatick]|#item-b5955eb3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/838,1837,577,195/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972658171
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974497485
+sort_value: '303521837'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/105,1680,655,158/150,/0/default.jpg
-label: Pen[n]silvania
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/838,1837,577,195/150,/0/default.jpg
+label: phanatick
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

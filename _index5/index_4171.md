@@ -2,8 +2,8 @@
 pid: index_4171
 volume: Volume 3
 image_number: '48'
-head: train
-entry: "<a href='/digital-beehive/num4/num_1080/'>866 [Train]</a>"
+head: toleration
+entry: "<a href='/digital-beehive/num3/num_0719/'>565 [License]</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-0601934cb"
+item: "#item-933235288"
 unparsed:
-line: 'Head: train|Entry: 866 [Train]|#item-0601934cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1111,1671,401,123/full/0/default.jpg
+line: 'Head: toleration|Entry: 565 [License]|#item-933235288'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/486,848,509,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561485417111
+annotation_uri: http://dev.llgc.org.uk/annotation/1559852426052
+sort_value: '304810848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1111,1671,401,123/150,/0/default.jpg
-label: train
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/486,848,509,100/150,/0/default.jpg
+label: toleration
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '134'
+order: '133'
 layout: index_item
 collection: index5
 ---

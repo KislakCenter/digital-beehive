@@ -2,8 +2,8 @@
 pid: index_0342
 volume: Volume 3
 image_number: '10'
-head: to boil
-entry: 769 [PAGE_MISSING]
+head: beheading
+entry: "<a href='/digital-beehive/num3/num_1034/'>709 [To Behead]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f42329d6a"
+item: "#item-6293efdfa"
 unparsed:
-line: 'Head: to boil|Entry: 769 [PAGE_MISSING]|#item-f42329d6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1801,783,389,129/full/0/default.jpg
+line: 'Head: beheading|Entry: 709 [To Behead]|#item-6293efdfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/399,560,502,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531152601144
+annotation_uri: http://dev.llgc.org.uk/annotation/1531146750330
+sort_value: '301010560'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1801,783,389,129/150,/0/default.jpg
-label: to boil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/399,560,502,155/150,/0/default.jpg
+label: beheading
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

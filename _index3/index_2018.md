@@ -2,9 +2,8 @@
 pid: index_2018
 volume: Volume 3
 image_number: '25'
-head: imputation
-entry: "<a href='/digital-beehive/alpha3/alpha_0468/'>a</a>|<a href='/digital-beehive/num3/num_0691/'>548
-  [Imputation]</a>"
+head: Indian Corn
+entry: "<a href='/digital-beehive/num7/num_2625/'>1702 [Maiz]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-171be3dea"
+item: "#item-b71098526"
 unparsed:
-line: 'Head: imputation|Entry: a|Entry: 548 [Imputation]|#item-171be3dea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/850,3439,657,133/full/0/default.jpg
+line: 'Head: Indian Corn|Entry: 1702 [Maiz]|#item-b71098526'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1513,3268,394,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668408703
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672985712
+sort_value: '302533268'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/850,3439,657,133/150,/0/default.jpg
-label: imputation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1513,3268,394,137/150,/0/default.jpg
+label: Indian Corn
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_4527
 volume: Volume 3
 image_number: '52'
-head: West
-entry: 864 [PAGE_MISSING]
+head: whelp
+entry: "<a href='/digital-beehive/num5/num_1428/'>1061 [Chickens]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-35a8bb021"
+item: "#item-91399dfcb"
 unparsed:
-line: 'Head: West|Entry: 864 [PAGE_MISSING]|#item-35a8bb021'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1073,1905,410,119/full/0/default.jpg
+line: 'Head: whelp|Entry: 1061 [Chickens]|#item-91399dfcb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1082,2760,422,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969116745
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969929507
+sort_value: '305222760'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1073,1905,410,119/150,/0/default.jpg
-label: West
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1082,2760,422,174/150,/0/default.jpg
+label: whelp
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '490'
+order: '489'
 layout: index_item
 collection: index5
 ---

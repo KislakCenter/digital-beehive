@@ -2,8 +2,8 @@
 pid: index_1367
 volume: Volume 3
 image_number: '19'
-head: eye bright
-entry: "<a href='/digital-beehive/num3/num_0961/'>682 [Eye-bright]</a>"
+head: extremity
+entry: 749 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1595/'>1169 [Extremity]</a>
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-469080892"
+item: "#item-14699a671"
 unparsed:
-line: 'Head: eye bright|Entry: 682 [Eye-bright]|#item-469080892'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1496,3431,515,142/full/0/default.jpg
+line: 'Head: extremity|Entry: 749 [PAGE_MISSING]|Entry: 1169 [Extremity]|#item-14699a671'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1510,3095,645,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561398031091
+annotation_uri: http://dev.llgc.org.uk/annotation/1561397297784
+sort_value: '301933095'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1496,3431,515,142/150,/0/default.jpg
-label: eye bright
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1510,3095,645,135/150,/0/default.jpg
+label: extremity
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

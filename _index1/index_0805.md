@@ -18,6 +18,7 @@ line: 'Head: consequence|Entry: a|Entry: 1447 [Consequence]|#item-ca79788b6'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1155,1714,684,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537541566922
+sort_value: '301421714'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1155,1714,684,118/150,/0/default.jpg
 label: consequence

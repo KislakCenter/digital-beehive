@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0047/'>Ass</a>|<a href='/digital-b
   [Peasant]</a>|<a href='/digital-beehive/num3/num_1037/'>711 [Stupidity]</a>|750
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0416/'>blockhead</a>"
+index: "<a href='/digital-beehive/index1/index_0392/'>blockhead</a>"
 item: "#item-f7569668d"
 unparsed:
 line: 'Entry: Blockhead|Topic: Blockhead|Xref: Ass|Xref: Stockfish|Xref: 181 [Nickname]|Xref:
@@ -22,6 +22,7 @@ line: 'Entry: Blockhead|Topic: Blockhead|Xref: Ass|Xref: Stockfish|Xref: 181 [Ni
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/342,1627,3066,335/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558664849243
+sort_value: '143711627'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/342,1627,600,180/250,/0/default.jpg
 label: Blockhead

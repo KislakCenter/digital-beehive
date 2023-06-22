@@ -2,9 +2,10 @@
 pid: index_2918
 volume: Volume 3
 image_number: '34'
-head: peacemaker
-entry: "<a href='/digital-beehive/alpha4/alpha_0697/'>a</a>|<a href='/digital-beehive/num5/num_1562/'>1146
-  [Peacemak.]</a>|<a href='/digital-beehive/num8/num_2782/'>1900 [Peacemak]</a>"
+head: patience
+entry: "<a href='/digital-beehive/alpha4/alpha_0693/'>a</a>|<a href='/digital-beehive/num3/num_0640/'>509
+  [Patience]</a>|<a href='/digital-beehive/num6/num_2087/'>1433 [Patience]</a>|<a
+  href='/digital-beehive/num7/num_2624/'>1701 [Patience]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +13,17 @@ add:
 xref:
 see:
 index:
-item: "#item-6008dd51e"
+item: "#item-1fce6256d"
 unparsed:
-line: 'Head: peacemaker|Entry: a|Entry: 1146 [Peacemak.]|Entry: 1900 [Peacemak]|#item-6008dd51e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1766,2853,783,200/full/0/default.jpg
+line: 'Head: patience|Entry: a|Entry: 509 [Patience]|Entry: 1433 [Patience]|Entry:
+  1701 [Patience]|#item-1fce6256d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1809,1785,729,203/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495932137
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495527488
+sort_value: '303431785'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1766,2853,783,200/150,/0/default.jpg
-label: peacemaker
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1809,1785,729,203/150,/0/default.jpg
+label: patience
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

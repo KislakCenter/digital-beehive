@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0542/'>438 [Love]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2375/'>love</a>"
+index: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
 item: "#item-bb39d6d23"
 unparsed:
 line: 'Entry: Love|Topic: Love|Xref: 438 [Love]|Index: love|#item-bb39d6d23'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/354,2397,3021,853/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770593497
+sort_value: '202912397'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/354,2397,600,180/250,/0/default.jpg
 label: Love

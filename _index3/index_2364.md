@@ -2,27 +2,25 @@
 pid: index_2364
 volume: Volume 3
 image_number: '29'
-head: brave man
-entry: "<a href='/digital-beehive/num1/num_0209/'>200 [A man of admirable (: extraordinary
-  :) Qualities]</a>|<a href='/digital-beehive/num8/num_2690/'>1760 [Gallant]</a>|<a
-  href='/digital-beehive/num10/num_3324/'>2353 [Brave men]</a>"
+head: lump
+entry: "<a href='/digital-beehive/num3/num_0815/'>612 [Shoe Clout]</a>"
 topic:
-first_letter: M
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ef196b1c4"
+item: "#item-7513bc93c"
 unparsed:
-line: 'Head: brave man|Entry: 200 [A man of admirable (: extraordinary :) Qualities]|Entry:
-  1760 [Gallant]|Entry: 2353 [Brave men]|#item-ef196b1c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1526,1599,812,156/full/0/default.jpg
+line: 'Head: lump|Entry: 612 [Shoe Clout]|#item-7513bc93c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/861,616,291,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195053513
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185227863
+sort_value: '302920616'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1526,1599,812,156/150,/0/default.jpg
-label: brave man
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/861,616,291,99/150,/0/default.jpg
+label: lump
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>Baseness</a>|<a href='/digital-beehive/alpha5/alpha_0968/'>Too
   little</a>|767 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2284/'>little</a>"
+index: "<a href='/digital-beehive/index3/index_2306/'>little</a>"
 item: "#item-f81ed4510"
 unparsed:
 line: 'Entry: Littleness|Topic: Littleness|Xref: Baseness|Xref: Too little|Xref: 767
@@ -19,6 +19,7 @@ line: 'Entry: Littleness|Topic: Littleness|Xref: Baseness|Xref: Too little|Xref:
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/735,3321,3016,765/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564769542830
+sort_value: '202813321'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/735,3321,600,180/250,/0/default.jpg
 label: Littleness

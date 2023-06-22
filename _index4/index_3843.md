@@ -2,10 +2,9 @@
 pid: index_3843
 volume: Volume 3
 image_number: '44'
-head: sorrow
-entry: "<a href='/digital-beehive/num3/num_0905/'>658 [Grief]</a>|<a href='/digital-beehive/num5/num_1609/'>1181
-  [Mourning]</a>|<a href='/digital-beehive/num5/num_1610/'>1181 [Sadness]</a>|<a href='/digital-beehive/num9/num_3107/'>2165
-  [Sorrow]</a>"
+head: to spin
+entry: "<a href='/digital-beehive/num3/num_1028/'>706 [To Spin]</a>|<a href='/digital-beehive/num5/num_1361/'>1019
+  [Spinning]</a>"
 topic:
 first_letter: S
 page:
@@ -13,16 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bca3b259b"
+item: "#item-85f37a183"
 unparsed:
-line: 'Head: sorrow|Entry: 658 [Grief]|Entry: 1181 [Mourning]|Entry: 1181 [Sadness]|Entry:
-  2165 [Sorrow]|#item-bca3b259b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/578,1911,500,128/full/0/default.jpg
+line: 'Head: to spin|Entry: 706 [To Spin]|Entry: 1019 [Spinning]|#item-85f37a183'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1087,2965,591,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529704419201
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942741499
+sort_value: '304422965'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/578,1911,500,128/150,/0/default.jpg
-label: sorrow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1087,2965,591,107/150,/0/default.jpg
+label: to spin
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

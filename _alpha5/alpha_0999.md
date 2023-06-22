@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1298/'>973 [Grapes]</a>|1990 [Vineyards]"
 see:
-index: "<a href='/digital-beehive/index5/index_4294/'>vineyard</a>"
+index: "<a href='/digital-beehive/index5/index_4333/'>vineyard</a>"
 item: "#item-fc758dd02"
 unparsed:
 line: 'Entry: Vineyard|Topic: Vineyard|Xref: 973 [Grapes]|Xref: 1990 [Vineyards]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Vineyard|Topic: Vineyard|Xref: 973 [Grapes]|Xref: 1990 [Vineyards]
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/340,3871,2969,276/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529003787011
+sort_value: '206113871'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/340,3871,600,180/250,/0/default.jpg
 label: Vineyard

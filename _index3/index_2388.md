@@ -2,9 +2,8 @@
 pid: index_2388
 volume: Volume 3
 image_number: '29'
-head: manifest
-entry: "<a href='/digital-beehive/num1/num_0195/'>186 [Manifest]</a>|<a href='/digital-beehive/num5/num_1402/'>1047
-  [Manifest]</a>|<a href='/digital-beehive/num10/num_3465/'>4478 [Manifest]</a>"
+head: maimed
+entry: "<a href='/digital-beehive/alpha3/alpha_0570/'>a</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8450f7168"
+item: "#item-9e8a1ad57"
 unparsed:
-line: 'Head: manifest|Entry: 186 [Manifest]|Entry: 1047 [Manifest]|Entry: 4478 [Manifest]|#item-8450f7168'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1530,2361,798,151/full/0/default.jpg
+line: 'Head: maimed|Entry: a|#item-9e8a1ad57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/787,3441,463,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196141525
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189783980
+sort_value: '302923441'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1530,2361,798,151/150,/0/default.jpg
-label: manifest
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/787,3441,463,145/150,/0/default.jpg
+label: maimed
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

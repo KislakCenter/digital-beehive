@@ -2,8 +2,8 @@
 pid: index_3904
 volume: Volume 3
 image_number: '45'
-head: to Strain a gnat
-entry: "<a href='/digital-beehive/num1/num_0185/'>177 [Strain a gnat]</a>"
+head: stillness
+entry: "<a href='/digital-beehive/num2/num_0540/'>436 [Silence]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-cbc71dafe"
+item: "#item-dba696037"
 unparsed:
-line: 'Head: to Strain a gnat|Entry: 177 [Strain a gnat]|#item-cbc71dafe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/890,1050,540,80/full/0/default.jpg
+line: 'Head: stillness|Entry: 436 [Silence]|#item-dba696037'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,2536,411,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290625063
+annotation_uri: http://dev.llgc.org.uk/annotation/1530448228016
+sort_value: '304512536'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/890,1050,540,80/150,/0/default.jpg
-label: to Strain a gnat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,2536,411,96/150,/0/default.jpg
+label: stillness
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

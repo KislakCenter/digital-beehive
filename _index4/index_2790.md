@@ -2,26 +2,28 @@
 pid: index_2790
 volume: Volume 3
 image_number: '33'
-head: orchard
-entry: 1890 [[PAGE_MISSING]]
+head: omnipotency
+entry: "<a href='/digital-beehive/alpha4/alpha_0666/'>a</a>|<a href='/digital-beehive/num7/num_2473/'>1630
+  [Altar]</a>"
 topic:
 first_letter: O
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1561/'>garden</a>"
+see:
 index:
-item: "#item-680260008"
+item: "#item-3051daf53"
 unparsed:
-line: 'Head: orchard|See: garden|Entry: 1890 [[PAGE_MISSING]]|#item-680260008'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1525,1990,766,182/full/0/default.jpg
+line: 'Head: omnipotency|Entry: a|Entry: 1630 [Altar]|#item-3051daf53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/836,2374,693,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538162774541
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348543797
+sort_value: '303322374'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1525,1990,766,182/150,/0/default.jpg
-label: orchard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/836,2374,693,181/150,/0/default.jpg
+label: omnipotency
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: The meaning of "it. paradise" cannot be determined.
+issue:
 insertion_xref:
 order: '0038'
 layout: index_item

@@ -17,6 +17,7 @@ line: 'Head: kneeling|Entry: a|#item-200c176ca'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/841,1895,411,182/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559762401416
+sort_value: '302721895'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/841,1895,411,182/150,/0/default.jpg
 label: kneeling

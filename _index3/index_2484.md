@@ -2,8 +2,8 @@
 pid: index_2484
 volume: Volume 3
 image_number: '30'
-head: master
-entry: "<a href='/digital-beehive/alpha3/alpha_0579/'>a</a>|1323 [Master's]|4618 [PAGE_MISSING]"
+head: menonists
+entry: "<a href='/digital-beehive/num1/num_0164/'>157 [Anabaptist]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-05922491b"
+item: "#item-77589c900"
 unparsed:
-line: 'Head: master|Entry: a|Entry: 1323 [Master''s]|Entry: 4618 [PAGE_MISSING]|#item-05922491b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,1768,675,96/full/0/default.jpg
+line: 'Head: menonists|Entry: 157 [Anabaptist]|#item-77589c900'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1120,2119,480,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560264057767
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268603139
+sort_value: '303022119'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,1768,675,96/150,/0/default.jpg
-label: master
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1120,2119,480,95/150,/0/default.jpg
+label: menonists
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

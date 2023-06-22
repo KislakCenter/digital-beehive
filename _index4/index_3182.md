@@ -2,24 +2,26 @@
 pid: index_3182
 volume: Volume 3
 image_number: '37'
-head: protestation
-entry: "<a href='/digital-beehive/num10/num_3478/'>4491 [Protestation]</a>"
+head: progress
+entry: "<a href='/digital-beehive/alpha4/alpha_0747/'>a</a>|<a href='/digital-beehive/num6/num_1985/'>1387
+  [Progress]</a>|4740 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1000/'>denial</a>"
+see:
 index:
-item: "#item-82138d250"
+item: "#item-c1a681a26"
 unparsed:
-line: 'Head: protestation|See: denial|Entry: 4491 [Protestation]|#item-82138d250'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1495,2043,752,150/full/0/default.jpg
+line: 'Head: progress|Entry: a|Entry: 1387 [Progress]|Entry: 4740 [PAGE_MISSING]|#item-c1a681a26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/771,2475,716,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869501978
+annotation_uri: http://dev.llgc.org.uk/annotation/1564084280593
+sort_value: '303722475'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1495,2043,752,150/150,/0/default.jpg
-label: protestation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/771,2475,716,148/150,/0/default.jpg
+label: progress
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

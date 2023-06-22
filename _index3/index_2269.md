@@ -17,6 +17,7 @@ line: 'Head: Levites|Entry: 1909 [Levites]|#item-d4dd6e044'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1140,1171,476,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559845522027
+sort_value: '302821171'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1140,1171,476,128/150,/0/default.jpg
 label: Levites

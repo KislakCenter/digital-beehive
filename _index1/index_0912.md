@@ -2,8 +2,8 @@
 pid: index_0912
 volume: Volume 3
 image_number: '15'
-head: crocodile
-entry: "<a href='/digital-beehive/num3/num_1021/'>704 [Crocodile]</a>|4730 [PAGE_MISSING]"
+head: crooked
+entry: 857 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4e8549f08"
+item: "#item-c57b2e01d"
 unparsed:
-line: 'Head: crocodile|Entry: 704 [Crocodile]|Entry: 4730 [PAGE_MISSING]|#item-4e8549f08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/884,1736,655,106/full/0/default.jpg
+line: 'Head: crooked|Entry: 857 [PAGE_MISSING]|#item-c57b2e01d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/853,1953,464,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577536770
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577611227
+sort_value: '301521953'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/884,1736,655,106/150,/0/default.jpg
-label: crocodile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/853,1953,464,126/150,/0/default.jpg
+label: crooked
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

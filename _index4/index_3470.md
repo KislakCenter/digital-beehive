@@ -2,8 +2,8 @@
 pid: index_3470
 volume: Volume 3
 image_number: '40'
-head: riddle
-entry: "<a href='/digital-beehive/num9/num_3167/'>2224 [Riddle]</a>"
+head: to run
+entry: 771 [PAGE_MISSING]
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6db15d4f0"
+item: "#item-983dbc461"
 unparsed:
-line: 'Head: riddle|Entry: 2224 [Riddle]|#item-6db15d4f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/410,1933,583,140/full/0/default.jpg
+line: 'Head: to run|Entry: 771 [PAGE_MISSING]|#item-983dbc461'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,267,398,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231873094
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234310718
+sort_value: '304030267'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/410,1933,583,140/150,/0/default.jpg
-label: riddle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,267,398,96/150,/0/default.jpg
+label: to run
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

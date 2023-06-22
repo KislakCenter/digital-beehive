@@ -2,9 +2,8 @@
 pid: index_3660
 volume: Volume 3
 image_number: '42'
-head: shooting
-entry: "<a href='/digital-beehive/alpha4/alpha_0873/'>a</a>|<a href='/digital-beehive/num7/num_2263/'>1526
-  [Shooting]</a>"
+head: shamefaced
+entry: "<a href='/digital-beehive/alpha4/alpha_0868/'>a</a>|789 [PAGE_MISSING]"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2480e53da"
+item: "#item-79b25ad59"
 unparsed:
-line: 'Head: shooting|Entry: a|Entry: 1526 [Shooting]|#item-2480e53da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1805,2063,598,130/full/0/default.jpg
+line: 'Head: shamefaced|Entry: a|Entry: 789 [PAGE_MISSING]|#item-79b25ad59'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1066,2785,601,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576294122
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574904405
+sort_value: '304222785'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1805,2063,598,130/150,/0/default.jpg
-label: shooting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1066,2785,601,158/150,/0/default.jpg
+label: shamefaced
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

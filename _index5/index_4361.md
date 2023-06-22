@@ -2,28 +2,29 @@
 pid: index_4361
 volume: Volume 3
 image_number: '50'
-head: unheard of
-entry: "<a href='/digital-beehive/num6/num_1844/'>1318 [Unheard of]</a>"
+head: unchangeable
+entry:
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4354/'>unalt</a>"
 index:
-item: "#item-ec04b957c"
+item: "#item-edf576c4c"
 unparsed:
-line: 'Head: unheard of|Entry: 1318 [Unheard of]|#item-ec04b957c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1144,785,506,138/full/0/default.jpg
+line: 'Head: unchangeable|See: unalt|#item-edf576c4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/483,1595,685,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560878219886
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872545875
+sort_value: '305011595'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1144,785,506,138/150,/0/default.jpg
-label: unheard of
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/483,1595,685,161/150,/0/default.jpg
+label: unchangeable
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '324'
+order: '323'
 layout: index_item
 collection: index5
 ---

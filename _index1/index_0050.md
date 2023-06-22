@@ -2,9 +2,8 @@
 pid: index_0050
 volume: Volume 3
 image_number: '7'
-head: allegiance
-entry: "<a href='/digital-beehive/num2/num_0477/'>392 [Allegiance]</a>|<a href='/digital-beehive/num10/num_3253/'>2290
-  [Allegiance]</a>"
+head: advertisemts
+entry: "<a href='/digital-beehive/num11/num_3490/'>4797 [Advertisemts]</a>"
 topic:
 first_letter: A
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6c0ce0d94"
+item: "#item-ee1cb18d2"
 unparsed:
-line: 'Head: allegiance|Entry: 392 [Allegiance]|Entry: 2290 [Allegiance]|#item-6c0ce0d94'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1596,1407,655,129/full/0/default.jpg
+line: 'Head: advertisemts|Entry: 4797 [Advertisemts]|#item-ee1cb18d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/893,916,598,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768719049
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761176461
+sort_value: '300720916'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1596,1407,655,129/150,/0/default.jpg
-label: allegiance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/893,916,598,106/150,/0/default.jpg
+label: advertisemts
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3015
 volume: Volume 3
 image_number: '35'
-head: plagiary
-entry: "<a href='/digital-beehive/num3/num_0788/'>600 [Plagiarius]</a>"
+head: "[:31.]"
+entry:
 topic:
 first_letter: P
 page:
@@ -11,18 +11,21 @@ add:
 xref:
 see:
 index:
-item: "#item-9e2016152"
-unparsed:
-line: 'Head: plagiary|Entry: 600 [Plagiarius]|#item-9e2016152'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1511,2932,499,189/full/0/default.jpg
+item: "#item-d81cc2858"
+unparsed: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
+line: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2093,1724,217,196/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977143134
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277282189
+sort_value: '303531724'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1511,2932,499,189/150,/0/default.jpg
-label: plagiary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2093,1724,217,196/150,/0/default.jpg
+label: "[:31.]"
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4696/'>pink. gillifl.</a>|<a
+  href='/digital-beehive/index5/index_4697/'>pindar</a>|<a href='/digital-beehive/index5/index_4698/'>pin
+  money</a>"
 order: '0263'
 layout: index_item
 collection: index4

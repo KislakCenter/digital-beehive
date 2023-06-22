@@ -2,8 +2,8 @@
 pid: index_0326
 volume: Volume 3
 image_number: '9'
-head: barn
-entry: 4614 [PAGE_MISSING]
+head: because of
+entry: "<a href='/digital-beehive/num8/num_2760/'>1825 [Sake]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9ace3e520"
+item: "#item-0bd7f1059"
 unparsed:
-line: 'Head: barn|Entry: 4614 [PAGE_MISSING]|#item-9ace3e520'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/900,3145,388,94/full/0/default.jpg
+line: 'Head: because of|Entry: 1825 [Sake]|#item-0bd7f1059'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1594,2350,352,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506105570287
+annotation_uri: http://dev.llgc.org.uk/annotation/1530892362061
+sort_value: '300932350'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/900,3145,388,94/150,/0/default.jpg
-label: barn
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1594,2350,352,86/150,/0/default.jpg
+label: because of
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

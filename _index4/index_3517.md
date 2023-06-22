@@ -2,24 +2,25 @@
 pid: index_3517
 volume: Volume 3
 image_number: '41'
-head: saltpetre
-entry: "<a href='/digital-beehive/num7/num_2494/'>1639 [Nitre or Saltpetre]</a>"
+head: sanctification
+entry: "<a href='/digital-beehive/num4/num_1321/'>990 [Holiness]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1854/'>holiness</a>"
 index:
-item: "#item-3c7b2b27e"
+item: "#item-5a4a0f290"
 unparsed:
-line: 'Head: saltpetre|Entry: 1639 [Nitre or Saltpetre]|#item-3c7b2b27e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,567,391,146/full/0/default.jpg
+line: 'Head: sanctification|See: holiness|Entry: 990 [Holiness]|#item-5a4a0f290'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/156,1556,746,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238357222
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238976500
+sort_value: '304111556'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,567,391,146/150,/0/default.jpg
-label: saltpetre
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/156,1556,746,158/150,/0/default.jpg
+label: sanctification
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

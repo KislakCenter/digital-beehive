@@ -2,24 +2,25 @@
 pid: index_3689
 volume: Volume 3
 image_number: '42'
-head: shy
-entry:
+head: shout
+entry: "<a href='/digital-beehive/num8/num_2836/'>1925 [to Shout]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1411/'>fear</a>"
+see:
 index:
-item: "#item-d0f77249a"
+item: "#item-0eba24752"
 unparsed:
-line: 'Head: shy|See: fear|#item-d0f77249a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1802,3222,469,157/full/0/default.jpg
+line: 'Head: shout|Entry: 1925 [to Shout]|#item-0eba24752'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1786,2824,370,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576648896
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576491601
+sort_value: '304232824'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1802,3222,469,157/150,/0/default.jpg
-label: shy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1786,2824,370,113/150,/0/default.jpg
+label: shout
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

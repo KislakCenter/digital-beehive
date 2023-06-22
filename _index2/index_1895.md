@@ -2,27 +2,27 @@
 pid: index_1895
 volume: Volume 3
 image_number: '24'
-head: horn
-entry: 774 [PAGE_MISSING]
+head: howsoever
+entry: "<a href='/digital-beehive/num6/num_1981/'>1385 [Howsoever]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-14aba5e74"
+item: "#item-74eec6601"
 unparsed:
-line: 'Head: horn|Page: p.10 [Image 1.70]|Entry: 774 [PAGE_MISSING]|#item-14aba5e74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1129,2662,407,171/full/0/default.jpg
+line: 'Head: howsoever|Entry: 1385 [Howsoever]|#item-74eec6601'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1826,1353,477,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583645346
+annotation_uri: http://dev.llgc.org.uk/annotation/1559587055758
+sort_value: '302431353'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1129,2662,407,171/150,/0/default.jpg
-label: horn
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1826,1353,477,100/150,/0/default.jpg
+label: howsoever
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: Pastorius links to section 32 on page ten. There is currently no protocol for
-  specifying a specific item on a page reference.
+issue:
 insertion_xref:
 order: '714'
 layout: index_item

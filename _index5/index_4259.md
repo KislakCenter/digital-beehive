@@ -2,28 +2,31 @@
 pid: index_4259
 volume: Volume 3
 image_number: '49'
-head: Vacancy
-entry: "<a href='/digital-beehive/num5/num_1729/'>1249 [Vacancy]</a>"
+head: try all things
+entry: "<a href='/digital-beehive/num1/num_0047/'>47 [Try & Prove all things]</a>|<a
+  href='/digital-beehive/num4/num_1185/'>908 [Try all things]</a>"
 topic:
-first_letter: U/V
+first_letter: T
 page:
 add:
 xref:
 see:
 index:
-item: "#item-34c811d9b"
+item: "#item-4a38fbe2a"
 unparsed:
-line: 'Head: Vacancy|Entry: 1249 [Vacancy]|#item-34c811d9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/941,234,458,210/full/0/default.jpg
+line: 'Head: try all things|Entry: 47 [Try & Prove all things]|Entry: 908 [Try all
+  things]|#item-4a38fbe2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,665,657,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657515866
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655359846
+sort_value: '304910665'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/941,234,458,210/150,/0/default.jpg
-label: Vacancy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,665,657,147/150,/0/default.jpg
+label: try all things
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '222'
+order: '221'
 layout: index_item
 collection: index5
 ---

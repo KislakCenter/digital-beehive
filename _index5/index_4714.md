@@ -2,28 +2,29 @@
 pid: index_4714
 volume: Volume 3
 image_number: '54'
-head: Dinah
-entry: "<a href='/digital-beehive/num11/num_3584/'>4889 [Dinah]</a>"
+head: to gild
+entry:
 topic:
 first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1664/'>gold</a>"
 index:
-item: "#item-8cc7abe2e"
-unparsed: Type Index|Insertion [:63.]
-line: 'Type: Index|Insertion: [:63.]|Head: Dinah|Entry: 4889 [Dinah]|#item-8cc7abe2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1760,2395,559,189/full/0/default.jpg
+item: "#item-d62bc63a0"
+unparsed: Type Index|Insertion [:46.]
+line: 'Type: Index|Insertion: [:46.]|Head: to gild|See: gold|#item-d62bc63a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1059,3327,614,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560957569023
-insertion: "[:63.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1760,2395,559,189/150,/0/default.jpg
-label: Dinah
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955966736
+sort_value: '305423327'
+insertion: "[:46.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1059,3327,614,160/150,/0/default.jpg
+label: to gild
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '677'
+order: '676'
 layout: index_item
 collection: index5
 ---

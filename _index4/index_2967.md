@@ -2,24 +2,25 @@
 pid: index_2967
 volume: Volume 3
 image_number: '35'
-head: pillar
-entry: 861 [PAGE_MISSING]
+head: perseverance
+entry: "<a href='/digital-beehive/num3/num_0633/'>503 [Perseverance]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-b1571d568"
+item: "#item-490c1fddb"
 unparsed:
-line: 'Head: pillar|Page: p.37 [Image 1.97]|Entry: 861 [PAGE_MISSING]|#item-b1571d568'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1510,1280,547,134/full/0/default.jpg
+line: 'Head: perseverance|Entry: 503 [Perseverance]|#item-490c1fddb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/818,387,666,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976356087
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973997530
+sort_value: '303520387'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1510,1280,547,134/150,/0/default.jpg
-label: pillar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/818,387,666,186/150,/0/default.jpg
+label: perseverance
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

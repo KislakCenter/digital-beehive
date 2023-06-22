@@ -2,24 +2,25 @@
 pid: index_1728
 volume: Volume 3
 image_number: '23'
-head: greediness
-entry:
+head: good Guile
+entry: "<a href='/digital-beehive/num6/num_2125/'>1452 [good Guile]</a>"
 topic:
 first_letter: G
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4478/'>voracity</a>"
+see:
 index:
-item: "#item-1dcfaf667"
+item: "#item-51ef4d07d"
 unparsed:
-line: 'Head: greediness|See: voracity|#item-1dcfaf667'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,1003,614,142/full/0/default.jpg
+line: 'Head: good Guile|Entry: 1452 [good Guile]|#item-51ef4d07d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,2619,539,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230342660
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233240605
+sort_value: '302312619'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,1003,614,142/150,/0/default.jpg
-label: greediness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,2619,539,155/150,/0/default.jpg
+label: good Guile
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

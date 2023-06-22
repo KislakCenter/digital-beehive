@@ -2,24 +2,25 @@
 pid: index_0723
 volume: Volume 3
 image_number: '13'
-head: cockatrice
-entry: "<a href='/digital-beehive/num6/num_1918/'>1353 [a Basilisk or Cockatrice]</a>"
+head: collusion
+entry: "<a href='/digital-beehive/num2/num_0488/'>398 [Prevarication]</a>"
 topic:
 first_letter: C
 page:
-add:
+add: treachery
 xref:
 see:
 index:
-item: "#item-7055bf863"
+item: "#item-c33fe3c23"
 unparsed:
-line: 'Head: cockatrice|Entry: 1353 [a Basilisk or Cockatrice]|#item-7055bf863'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/849,2563,616,101/full/0/default.jpg
+line: 'Head: collusion|Entry: 398 [Prevarication]|Add: treachery|#item-c33fe3c23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1510,452,546,206/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608217433
+annotation_uri: http://dev.llgc.org.uk/annotation/1565637146893
+sort_value: '301330452'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/849,2563,616,101/150,/0/default.jpg
-label: cockatrice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1510,452,546,206/150,/0/default.jpg
+label: collusion
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

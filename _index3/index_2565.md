@@ -2,24 +2,25 @@
 pid: index_2565
 volume: Volume 3
 image_number: '31'
-head: to mumble
-entry: "<a href='/digital-beehive/num4/num_1112/'>876 [to Whisper]</a>"
+head: love of money
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0868/'>Covetousness</a>"
 index:
-item: "#item-618f16dcd"
+item: "#item-7f99b8d6d"
 unparsed:
-line: 'Head: to mumble|Entry: 876 [to Whisper]|#item-618f16dcd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,1167,496,112/full/0/default.jpg
+line: 'Head: love of money|See: Covetousness|#item-7f99b8d6d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/857,525,765,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361084483
+annotation_uri: http://dev.llgc.org.uk/annotation/1560354656751
+sort_value: '303120525'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,1167,496,112/150,/0/default.jpg
-label: to mumble
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/857,525,765,151/150,/0/default.jpg
+label: love of money
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

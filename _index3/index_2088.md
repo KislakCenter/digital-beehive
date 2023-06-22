@@ -2,24 +2,26 @@
 pid: index_2088
 volume: Volume 3
 image_number: '26'
-head: ingenuous
-entry:
+head: in vain
+entry: "<a href='/digital-beehive/num3/num_0923/'>666 [In vain]</a>|<a href='/digital-beehive/num7/num_2316/'>1553
+  [In vain]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3784/'>sincerity</a>"
+see:
 index:
-item: "#item-8eada7410"
+item: "#item-abc8a6b6b"
 unparsed:
-line: 'Head: ingenuous|See: sincerity|#item-8eada7410'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,2502,657,157/full/0/default.jpg
+line: 'Head: in vain|Entry: 666 [In vain]|Entry: 1553 [In vain]|#item-abc8a6b6b|'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1858,766,556,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745027802
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750990240
+sort_value: '302630766'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,2502,657,157/150,/0/default.jpg
-label: ingenuous
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1858,766,556,113/150,/0/default.jpg
+label: in vain
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

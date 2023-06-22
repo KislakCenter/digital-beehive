@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0338/'>298 [Fortress]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1588/'>fort</a>"
+index: "<a href='/digital-beehive/index2/index_1519/'>fort</a>"
 item: "#item-6e4f34fff"
 unparsed:
 line: 'Entry: Fort|Topic: Fort|Xref: 298 [Fortress]|Index: fort|#item-6e4f34fff'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/381,193,3064,390/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564589931525
+sort_value: '201310193'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/381,193,600,180/250,/0/default.jpg
 label: Fort

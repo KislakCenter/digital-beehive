@@ -11,7 +11,7 @@ add:
 xref: 361 [Giant]|<a href='/digital-beehive/num3/num_0860/'>635 [Great, rich & eminent
   Persons]</a>
 see:
-index: "<a href='/digital-beehive/index2/index_1719/'>great</a>"
+index: "<a href='/digital-beehive/index2/index_1706/'>great</a>"
 item: "#item-6c7cdca09"
 unparsed:
 line: 'Entry: Greatness|Topic: Greatness|Xref: 361 [Giant]|Xref: 635 [Great, rich
@@ -19,6 +19,7 @@ line: 'Entry: Greatness|Topic: Greatness|Xref: 361 [Giant]|Xref: 635 [Great, ric
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/773,1684,2955,627/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564603729285
+sort_value: '201611684'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/773,1684,600,180/250,/0/default.jpg
 label: Greatness

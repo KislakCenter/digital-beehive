@@ -2,24 +2,25 @@
 pid: index_3737
 volume: Volume 3
 image_number: '43'
-head: so
-entry:
+head: sketch
+entry: 807 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4093/'>thus</a>"
+see:
 index:
-item: "#item-70621c3a4"
+item: "#item-88c51b444"
 unparsed:
-line: 'Head: so|See: thus|#item-70621c3a4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,1616,322,98/full/0/default.jpg
+line: 'Head: sketch|Entry: 807 [PAGE_MISSING]|#item-88c51b444'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/870,1258,415,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586020760
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583275331
+sort_value: '304321258'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,1616,322,98/150,/0/default.jpg
-label: so
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/870,1258,415,127/150,/0/default.jpg
+label: sketch
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,10 +2,8 @@
 pid: index_2103
 volume: Volume 3
 image_number: '26'
-head: joy
-entry: "<a href='/digital-beehive/alpha3/alpha_0491/'>a</a>|832 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_1994/'>1392 [Joy]</a>|<a href='/digital-beehive/num8/num_2864/'>1940
-  [Joy]</a>"
+head: John Evang
+entry: "<a href='/digital-beehive/num10/num_3379/'>2406 [John the Evangelist]</a>"
 topic:
 first_letter: I/J
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-02f6aa1ec"
+item: "#item-9d69593d5"
 unparsed:
-line: 'Head: joy|Entry: a|Entry: 832 [PAGE_MISSING]|Entry: 1392 [Joy]|Entry: 1940
-  [Joy]|#item-02f6aa1ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1841,3036,657,121/full/0/default.jpg
+line: 'Head: John Evang|Entry: 2406 [John the Evangelist]|#item-9d69593d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1844,2219,524,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754627695
+annotation_uri: http://dev.llgc.org.uk/annotation/1559752062527
+sort_value: '302632219'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1841,3036,657,121/150,/0/default.jpg
-label: joy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1844,2219,524,128/150,/0/default.jpg
+label: John Evang
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

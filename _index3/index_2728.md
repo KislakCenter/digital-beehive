@@ -2,24 +2,25 @@
 pid: index_2728
 volume: Volume 3
 image_number: '32'
-head: nicodemus's gospel
+head: none
 entry:
 topic:
 first_letter: N
-page: "<a href='/digital-beehive/toc/toc1_074/'>p.24 [Image 1.84]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2732/'>not</a>"
 index:
-item: "#item-c7b7d274b"
+item: "#item-32ddfd80a"
 unparsed:
-line: 'Head: nicodemus''s gospel|Page: p.24 [Image 1.84]|#item-c7b7d274b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1139,2906,715,158/full/0/default.jpg
+line: 'Head: none|See: not|#item-32ddfd80a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1827,1674,357,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560443354154
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448962399
+sort_value: '303231674'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1139,2906,715,158/150,/0/default.jpg
-label: nicodemus's gospel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1827,1674,357,114/150,/0/default.jpg
+label: none
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

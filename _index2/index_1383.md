@@ -2,8 +2,8 @@
 pid: index_1383
 volume: Volume 3
 image_number: '20'
-head: fees
-entry: "<a href='/digital-beehive/num7/num_2578/'>1677 [Fees]</a>"
+head: Faith & Patience
+entry: "<a href='/digital-beehive/num1/num_0137/'>132 [Faith & Patience]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-228ea6f01"
+item: "#item-eaf07262a"
 unparsed:
-line: 'Head: fees|Entry: 1677 [Fees]|#item-228ea6f01'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1124,1773,362,183/full/0/default.jpg
+line: 'Head: Faith & Patience|Entry: 132 [Faith & Patience]|#item-eaf07262a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/356,1231,642,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562184255097
+annotation_uri: http://dev.llgc.org.uk/annotation/1561401283900
+sort_value: '302011231'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1124,1773,362,183/150,/0/default.jpg
-label: fees
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/356,1231,642,168/150,/0/default.jpg
+label: Faith & Patience
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

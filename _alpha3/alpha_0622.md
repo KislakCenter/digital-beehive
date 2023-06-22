@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2586/'>mushroom</a>"
+index: "<a href='/digital-beehive/index3/index_2619/'>mushroom</a>"
 item: "#item-39a678c89"
 unparsed:
 line: 'Entry: Mushroom|Topic: Mushroom|Index: mushroom|#item-39a678c89'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/716,3588,3051,319/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564777831419
+sort_value: '203413588'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/716,3588,600,180/250,/0/default.jpg
 label: Mushroom

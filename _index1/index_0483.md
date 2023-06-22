@@ -2,8 +2,8 @@
 pid: index_0483
 volume: Volume 3
 image_number: '11'
-head: I can not
-entry: 4597 [PAGE_MISSING]
+head: "[:27.]"
+entry:
 topic:
 first_letter: C
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7c30b188a"
-unparsed:
-line: 'Head: I can not|Entry: 4597 [PAGE_MISSING]|#item-7c30b188a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1577,1651,459,98/full/0/default.jpg
+item: "#item-dc183efb8"
+unparsed: 'Type: Index|Insertion Xref: [:27.]|#item-dc183efb8'
+line: 'Type: Index|Insertion Xref: [:27.]|#item-dc183efb8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1413,1596,152,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531495123983
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275409261
+sort_value: '301121596'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1577,1651,459,98/150,/0/default.jpg
-label: I can not
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1413,1596,152,88/150,/0/default.jpg
+label: "[:27.]"
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4692/'>Dr. Burnet</a>"
 order: '0482'
 layout: index_item
 collection: index1

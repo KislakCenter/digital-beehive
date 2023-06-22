@@ -2,8 +2,8 @@
 pid: index_2810
 volume: Volume 3
 image_number: '33'
-head: Sin of Onan
-entry: "<a href='/digital-beehive/num2/num_0556/'>447 [Sodomy]</a>"
+head: opposit
+entry: "<a href='/digital-beehive/num3/num_0986/'>690 [Contrariety]</a>"
 topic:
 first_letter: O
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c81c68926"
+item: "#item-84cebb0aa"
 unparsed:
-line: 'Head: Sin of Onan|Entry: 447 [Sodomy]|#item-c81c68926'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/845,2749,587,139/full/0/default.jpg
+line: 'Head: opposit|Entry: 690 [Contrariety]|#item-84cebb0aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1501,1078,509,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538159715322
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161632319
+sort_value: '303331078'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/845,2749,587,139/150,/0/default.jpg
-label: Sin of Onan
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1501,1078,509,124/150,/0/default.jpg
+label: opposit
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

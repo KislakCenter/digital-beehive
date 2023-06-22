@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3556/'>secretary</a>"
+index: "<a href='/digital-beehive/index4/index_3586/'>secretary</a>"
 item: "#item-0ea0eea72"
 unparsed:
 line: 'Entry: Secretary : Secretaryship|Topic: Secretary : Secretaryship|Topic: Secretaryship|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Secretary : Secretaryship|Topic: Secretary : Secretaryship|Topic: 
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0517/743,4409,3009,373/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0517/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528924737888
+sort_value: '205014409'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0517/743,4409,600,180/250,/0/default.jpg
 label: 'Secretary : Secretaryship'

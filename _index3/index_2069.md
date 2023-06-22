@@ -2,8 +2,8 @@
 pid: index_2069
 volume: Volume 3
 image_number: '26'
-head: inspiration
-entry: "<a href='/digital-beehive/num4/num_1158/'>893 [Inspiration]</a>"
+head: instinct
+entry: "<a href='/digital-beehive/num5/num_1680/'>1226 [Instinct]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a34a52a4f"
+item: "#item-f51774283"
 unparsed:
-line: 'Head: inspiration|Entry: 893 [Inspiration]|#item-a34a52a4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1782,521,139/full/0/default.jpg
+line: 'Head: instinct|Entry: 1226 [Instinct]|#item-f51774283'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1172,2041,451,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748084693
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748283072
+sort_value: '302622041'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1782,521,139/150,/0/default.jpg
-label: inspiration
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1172,2041,451,95/150,/0/default.jpg
+label: instinct
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_1925
 volume: Volume 3
 image_number: '25'
-head: James I
-entry: "<a href='/digital-beehive/num6/num_2157/'>1468 [Mole : Müttermal]</a>"
+head: Jansenism
+entry: "<a href='/digital-beehive/num7/num_2228/'>1508 [Jansenism]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-04b2950cf"
+item: "#item-8c88321db"
 unparsed:
-line: 'Head: James IEntry: 1468 [Mole : Müttermal]|#item-04b2950cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,329,470,151/full/0/default.jpg
+line: 'Head: Jansenism|Entry: 1508 [Jansenism]|#item-8c88321db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/161,574,498,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658648355
+annotation_uri: http://dev.llgc.org.uk/annotation/1559658814581
+sort_value: '302510574'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,329,470,151/150,/0/default.jpg
-label: James I
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/161,574,498,114/150,/0/default.jpg
+label: Jansenism
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

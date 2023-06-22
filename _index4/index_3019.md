@@ -2,8 +2,8 @@
 pid: index_3019
 volume: Volume 3
 image_number: '35'
-head: phrase
-entry: "<a href='/digital-beehive/num3/num_0676/'>537 [Terms in didascalia]</a>"
+head: pirate
+entry: "<a href='/digital-beehive/num2/num_0399/'>344 [A Pyrat]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ef576384a"
+item: "#item-abfaeacfb"
 unparsed:
-line: 'Head: phrase|Entry: 537 [Terms in didascalia]|#item-ef576384a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/862,3064,429,154/full/0/default.jpg
+line: 'Head: pirate|Entry: 344 [A Pyrat]|#item-abfaeacfb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1519,2011,494,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974903556
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976752063
+sort_value: '303532011'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/862,3064,429,154/150,/0/default.jpg
-label: phrase
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1519,2011,494,181/150,/0/default.jpg
+label: pirate
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

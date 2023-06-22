@@ -2,8 +2,8 @@
 pid: index_3573
 volume: Volume 3
 image_number: '41'
-head: say so
-entry: "<a href='/digital-beehive/num6/num_2047/'>1417 [Say so]</a>"
+head: Sea man
+entry: 764 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6eca4121c"
+item: "#item-510f587f7"
 unparsed:
-line: 'Head: say so|Entry: 1417 [Say so]|#item-6eca4121c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/165,2527,395,144/full/0/default.jpg
+line: 'Head: Sea man|Entry: 764 [PAGE_MISSING]|#item-510f587f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1549,541,451,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240009251
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242213079
+sort_value: '304130541'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/165,2527,395,144/150,/0/default.jpg
-label: say so
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1549,541,451,94/150,/0/default.jpg
+label: Sea man
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

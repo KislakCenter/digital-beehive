@@ -2,8 +2,8 @@
 pid: index_1647
 volume: Volume 3
 image_number: '22'
-head: God be praised
-entry: "<a href='/digital-beehive/num1/num_0083/'>82 [Praise God]</a>"
+head: God's invitations
+entry: "<a href='/digital-beehive/num2/num_0378/'>329 [Gods Invitations]</a>"
 topic:
 first_letter: G
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0b69c9037"
+item: "#item-fdd0617cb"
 unparsed:
-line: 'Head: God be praised|Entry: 82 [Praise God]|#item-0b69c9037'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1160,1337,479,134/full/0/default.jpg
+line: 'Head: God''s invitations|Entry: 329 [Gods Invitations]|#item-fdd0617cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1173,2080,581,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046924500
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047616755
+sort_value: '302222080'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1160,1337,479,134/150,/0/default.jpg
-label: God be praised
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1173,2080,581,89/150,/0/default.jpg
+label: God's invitations
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

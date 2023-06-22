@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0745/'>581 [Articles of faith]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0181/'>articles of faith</a>"
+index: "<a href='/digital-beehive/index1/index_0215/'>articles of faith</a>"
 item: "#item-4a2192656"
 unparsed:
 line: 'Entry: Articles of faith|Topic: Articles of faith|Xref: 581 [Articles of faith]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Articles of faith|Topic: Articles of faith|Xref: 581 [Articles of 
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/798,2022,3031,671/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490811953429
+sort_value: '143412022'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/798,2022,600,180/250,/0/default.jpg
 label: Articles of faith

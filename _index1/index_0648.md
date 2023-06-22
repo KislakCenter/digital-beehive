@@ -17,6 +17,7 @@ line: 'Head: Christ''s descension|Entry: 1330 [Apostle''s Creed]|#item-e92d6ff08
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1815,3631,590,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532462228213
+sort_value: '301233631'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1815,3631,590,110/150,/0/default.jpg
 label: Christ's descension

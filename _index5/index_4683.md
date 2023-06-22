@@ -2,29 +2,29 @@
 pid: index_4683
 volume: Volume 3
 image_number: '54'
-head: pink. gillifl.
-entry: "<a href='/digital-beehive/num10/num_3266/'>2302 [Pincks : Gilli flowers]</a>"
+head: forrest
+entry:
 topic:
 first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4602/'>wood</a>"
 index:
-item: "#item-946c74a5a"
-unparsed: Type Index|Insertion [:31.]
-line: 'Type: Index|Insertion: [:31.]|Head: pink. gillifl. |Entry: 2302 [Pincks : Gilli
-  flowers]|#item-946c74a5a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1080,1151,707,176/full/0/default.jpg
+item: "#item-355b318ec"
+unparsed: Type Index|Insertion [:19.]
+line: 'Type: Index|Insertion: [:19.]|Head: forrest|See: wood|#item-355b318ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/400,2812,671,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560954441481
-insertion: "[:31.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1080,1151,707,176/150,/0/default.jpg
-label: pink. gillifl.
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885069116
+sort_value: '305412812'
+insertion: "[:19.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/400,2812,671,138/150,/0/default.jpg
+label: forrest
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '646'
+order: '645'
 layout: index_item
 collection: index5
 ---

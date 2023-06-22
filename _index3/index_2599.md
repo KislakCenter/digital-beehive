@@ -2,24 +2,25 @@
 pid: index_2599
 volume: Volume 3
 image_number: '31'
-head: mode
-entry:
+head: motions involuntary
+entry: "<a href='/digital-beehive/num5/num_1518/'>1122 [Involuntary Motions]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0020/'>alamode</a>"
+see:
 index:
-item: "#item-9f270ccb1"
+item: "#item-3891b7f23"
 unparsed:
-line: 'Head: mode|See: alamode|#item-9f270ccb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/179,2305,605,111/full/0/default.jpg
+line: 'Head: motions involuntary|Entry: 1122 [Involuntary Motions]|#item-3891b7f23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/803,3386,546,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352303792
+annotation_uri: http://dev.llgc.org.uk/annotation/1560357021869
+sort_value: '303123386'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/179,2305,605,111/150,/0/default.jpg
-label: mode
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/803,3386,546,139/150,/0/default.jpg
+label: motions involuntary
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

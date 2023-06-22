@@ -2,27 +2,29 @@
 pid: index_0508
 volume: Volume 3
 image_number: '11'
-head: canticles
-entry: 1867 [PAGE_MISSING]
+head: "[:17.]"
+entry:
 topic:
-first_letter: C
+first_letter: B
 page:
 add:
 xref:
 see:
 index:
-item: "#item-450946431"
-unparsed:
-line: 'Head: canticles|Entry: 1867 [PAGE_MISSING]|#item-450946431'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1566,2545,451,81/full/0/default.jpg
+item: "#item-c3d3453fc"
+unparsed: 'Type: Index|Insertion Xref: [:17.]|#item-c3d3453fc'
+line: 'Type: Index|Insertion Xref: [:17.]|#item-c3d3453fc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/2147,423,177,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531495793364
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275337935
+sort_value: '301130423'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1566,2545,451,81/150,/0/default.jpg
-label: canticles
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/2147,423,177,124/150,/0/default.jpg
+label: "[:17.]"
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4680/'>publ. Calam.</a>|<a
+  href='/digital-beehive/index5/index_4681/'>calamity</a>"
 order: '0507'
 layout: index_item
 collection: index1

@@ -2,8 +2,9 @@
 pid: index_3370
 volume: Volume 3
 image_number: '39'
-head: to repell
-entry: 828 [PAGE_MISSING]
+head: repentance late
+entry: "<a href='/digital-beehive/alpha4/alpha_0796/'>a</a>|<a href='/digital-beehive/num2/num_0351/'>307
+  [Repentance]</a>|1885 [PAGE_MISSING]"
 topic:
 first_letter: R
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d6273ec1d"
+item: "#item-db2b5deff"
 unparsed:
-line: 'Head: to repell|Entry: 828 [PAGE_MISSING]|#item-d6273ec1d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/784,2032,560,163/full/0/default.jpg
+line: 'Head: repentance late|Entry: a|Entry: 307 [Repentance]|Entry: 1885 [PAGE_MISSING]|#item-db2b5deff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/799,2274,697,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469284264
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469393253
+sort_value: '303922274'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/784,2032,560,163/150,/0/default.jpg
-label: to repell
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/799,2274,697,156/150,/0/default.jpg
+label: repentance late
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:
