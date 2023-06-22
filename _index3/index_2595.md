@@ -2,24 +2,25 @@
 pid: index_2595
 volume: Volume 3
 image_number: '31'
-head: mock
-entry:
+head: moth
+entry: "<a href='/digital-beehive/num7/num_2390/'>1591 [Moth]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3555/'>scorn</a>"
+see:
 index:
-item: "#item-8ffe8d422"
+item: "#item-e8be112e7"
 unparsed:
-line: 'Head: mock|See: scorn|#item-8ffe8d422'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/168,2198,475,159/full/0/default.jpg
+line: 'Head: moth|Entry: 1591 [Moth]|#item-e8be112e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/856,3148,373,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352283535
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356859853
+sort_value: '303123148'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/168,2198,475,159/150,/0/default.jpg
-label: mock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/856,3148,373,106/150,/0/default.jpg
+label: moth
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

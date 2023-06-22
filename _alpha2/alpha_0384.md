@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0735/'>Pride</a>|<a href='/digital
   href='/digital-beehive/alpha3/alpha_0568/'>magnanimity</a>|<a href='/digital-beehive/num4/num_1131/'>883
   [highness]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1610/'>grandeur</a>"
+index: "<a href='/digital-beehive/index2/index_1690/'>grandeur</a>"
 item: "#item-d2c4ae635"
 unparsed:
 line: 'Entry: Grandeur|Topic: Grandeur|Xref: Pride|Xref: highness|Xref: magnanimity|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Grandeur|Topic: Grandeur|Xref: Pride|Xref: highness|Xref: magnanim
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/813,234,2958,507/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508857327200
+sort_value: '201610234'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/813,234,600,180/250,/0/default.jpg
 label: Grandeur

@@ -2,24 +2,25 @@
 pid: index_1309
 volume: Volume 3
 image_number: '19'
-head: every
-entry: "<a href='/digital-beehive/num3/num_1075/'>724 [Each]</a>"
+head: ethicks
+entry:
 topic:
 first_letter: E
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2577/'>moral philosophy</a>"
 index:
-item: "#item-5d925b98b"
+item: "#item-305b045ea"
 unparsed:
-line: 'Head: every|Entry: 724 [Each]|#item-5d925b98b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/858,1309,395,114/full/0/default.jpg
+line: 'Head: ethicks|See: moral philosophy|#item-305b045ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/873,494,771,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351485840
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350338021
+sort_value: '301920494'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/858,1309,395,114/150,/0/default.jpg
-label: every
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/873,494,771,171/150,/0/default.jpg
+label: ethicks
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

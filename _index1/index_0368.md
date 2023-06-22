@@ -2,9 +2,8 @@
 pid: index_0368
 volume: Volume 3
 image_number: '10'
-head: beginning
-entry: "<a href='/digital-beehive/alpha1/alpha_0074/'>a</a>|<a href='/digital-beehive/num3/num_0694/'>550
-  [Beginn]</a>"
+head: beyond
+entry: "<a href='/digital-beehive/num11/num_3583/'>4888 [Beyond]</a>"
 topic:
 first_letter: B
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8a67690a9"
+item: "#item-e5874a2d7"
 unparsed:
-line: 'Head: beginning|Entry: a|Entry: 550 [Beginn]|#item-8a67690a9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/417,244,492,149/full/0/default.jpg
+line: 'Head: beyond|Entry: 4888 [Beyond]|#item-e5874a2d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/338,3434,468,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531146489645
+annotation_uri: http://dev.llgc.org.uk/annotation/1531149083872
+sort_value: '301013434'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/417,244,492,149/150,/0/default.jpg
-label: beginning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/338,3434,468,125/150,/0/default.jpg
+label: beyond
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

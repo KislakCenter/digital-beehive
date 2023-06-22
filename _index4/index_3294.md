@@ -2,26 +2,25 @@
 pid: index_3294
 volume: Volume 3
 image_number: '38'
-head: to put off or on
-entry: "<a href='/digital-beehive/num4/num_1177/'>906 [To put off his Cloths]</a>|<a
-  href='/digital-beehive/num4/num_1178/'>906 [To put on]</a>"
+head: rasor
+entry:
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2171/'>knife</a>"
 index:
-item: "#item-35de1c6e1"
+item: "#item-209630a03"
 unparsed:
-line: 'Head: to put off or on|Entry: 906 [To put off his Cloths]|Entry: 906 [To put
-  on]|#item-35de1c6e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/411,2386,595,143/full/0/default.jpg
+line: 'Head: rasor|See: knife|#item-209630a03'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,922,504,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452564392
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460735423
+sort_value: '303830922'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/411,2386,595,143/150,/0/default.jpg
-label: to put off or on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,922,504,134/150,/0/default.jpg
+label: rasor
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

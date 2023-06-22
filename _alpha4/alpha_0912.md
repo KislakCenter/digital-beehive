@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1646/'>1206 [Ladder]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3863/'>stair</a>"
+index: "<a href='/digital-beehive/index4/index_3874/'>stair</a>"
 item: "#item-cc4fe5a7d"
 unparsed:
 line: 'Entry: Stair|Topic: Stair|Xref: 1206 [Ladder]|Index: stair|#item-cc4fe5a7d'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/278,1964,3083,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532459911182
+sort_value: '205511964'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/278,1964,600,180/250,/0/default.jpg
 label: Stair

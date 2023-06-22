@@ -2,8 +2,8 @@
 pid: index_3790
 volume: Volume 3
 image_number: '44'
-head: spittle
-entry: "<a href='/digital-beehive/num3/num_0834/'>621 [Spittle]</a>"
+head: some good
+entry: "<a href='/digital-beehive/num10/num_3356/'>2384 [Some good]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7a03b1732"
+item: "#item-d6f258309"
 unparsed:
-line: 'Head: spittle|Entry: 621 [Spittle]|#item-7a03b1732'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1839,740,351,137/full/0/default.jpg
+line: 'Head: some good|Entry: 2384 [Some good]|#item-d6f258309'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/567,286,497,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530103691677
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288051546
+sort_value: '304410286'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1839,740,351,137/150,/0/default.jpg
-label: spittle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/567,286,497,119/150,/0/default.jpg
+label: some good
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

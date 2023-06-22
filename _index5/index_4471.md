@@ -2,30 +2,29 @@
 pid: index_4471
 volume: Volume 3
 image_number: '51'
-head: warning
-entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1426/'>1060 [Admonishing
-  & Warning]</a>
+head: want of punishmt
+entry: "<a href='/digital-beehive/num5/num_1624/'>1192 [Want of Punishmt]</a>"
 topic:
 first_letter: W
 page:
-add: caution
+add:
 xref:
 see:
 index:
-item: "#item-064de5392"
+item: "#item-8a1f3bba9"
 unparsed:
-line: 'Head: warning|Entry: 843 [PAGE_MISSING]|Entry: 1060 [Admonishing & Warning]|Add:
-  caution|#item-064de5392'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1643,2944,631,159/full/0/default.jpg
+line: 'Head: want of punishmt|Entry: 1192 [Want of Punishmt]|#item-8a1f3bba9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1632,1709,643,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648523807
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647948502
+sort_value: '305131709'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1643,2944,631,159/150,/0/default.jpg
-label: warning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1632,1709,643,158/150,/0/default.jpg
+label: want of punishmt
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '434'
+order: '433'
 layout: index_item
 collection: index5
 ---

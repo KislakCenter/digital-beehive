@@ -2,9 +2,8 @@
 pid: index_2501
 volume: Volume 3
 image_number: '30'
-head: mine. minerals
-entry: "<a href='/digital-beehive/alpha3/alpha_0598/'>a</a>|<a href='/digital-beehive/num9/num_3095/'>2154
-  [Mineral]</a>"
+head: metaphysicks
+entry: "<a href='/digital-beehive/alpha3/alpha_0593/'>a</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4844f4227"
+item: "#item-37b2da10d"
 unparsed:
-line: 'Head: mine. minerals|Entry: a|Entry: 2154 [Mineral]|#item-4844f4227'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,2248,643,137/full/0/default.jpg
+line: 'Head: metaphysicks|Entry: a|#item-37b2da10d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,539,506,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274415273
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273473683
+sort_value: '303030539'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,2248,643,137/150,/0/default.jpg
-label: mine. minerals
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,539,506,147/150,/0/default.jpg
+label: metaphysicks
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

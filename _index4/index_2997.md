@@ -2,8 +2,8 @@
 pid: index_2997
 volume: Volume 3
 image_number: '35'
-head: Philada
-entry: "<a href='/digital-beehive/num5/num_1479/'>1094 [Philadelphia]</a>"
+head: picture
+entry: "<a href='/digital-beehive/alpha4/alpha_0710/'>a</a>|4516 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c916d825f"
+item: "#item-670ced1e5"
 unparsed:
-line: 'Head: Philada|Entry: 1094 [Philadelphia]|#item-c916d825f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/812,2213,521,171/full/0/default.jpg
+line: 'Head: picture|Entry: a|Entry: 4516 [PAGE_MISSING]|#item-670ced1e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1538,270,586,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974598335
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975873815
+sort_value: '303530270'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/812,2213,521,171/150,/0/default.jpg
-label: Philada
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1538,270,586,180/150,/0/default.jpg
+label: picture
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

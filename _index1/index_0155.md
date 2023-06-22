@@ -2,24 +2,25 @@
 pid: index_0155
 volume: Volume 3
 image_number: '8'
-head: armouries
-entry:
+head: antego
+entry: "<a href='/digital-beehive/num7/num_2247/'>1518 [Antego]</a>"
 topic:
 first_letter: A
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-b4333c702"
+item: "#item-48287515a"
 unparsed:
-line: 'Head: armouries|Page: p.6 [Image 1.66]|#item-b4333c702'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1809,746,514,112/full/0/default.jpg
+line: 'Head: antego|Entry: 1518 [Antego]|#item-48287515a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/386,2650,434,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631235207
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759160447
+sort_value: '300812650'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1809,746,514,112/150,/0/default.jpg
-label: armouries
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/386,2650,434,137/150,/0/default.jpg
+label: antego
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

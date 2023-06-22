@@ -2,8 +2,8 @@
 pid: index_0842
 volume: Volume 3
 image_number: '14'
-head: corns
-entry: "<a href='/digital-beehive/num6/num_1882/'>1337 [Corns : Warts]</a>"
+head: "[:42.]"
+entry:
 topic:
 first_letter: C
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-893730b5e"
-unparsed:
-line: 'Head: corns|Entry: 1337 [Corns : Warts]|#item-893730b5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1821,2993,411,88/full/0/default.jpg
+item: "#item-2fc1a8ebe"
+unparsed: 'Type: Index|Insertion Xref: [:42.]|#item-2fc1a8ebe'
+line: 'Type: Index|Insertion Xref: [:42.]|#item-2fc1a8ebe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/2304,2308,228,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537560146779
+annotation_uri: http://dev.llgc.org.uk/annotation/1565637792171
+sort_value: '301432308'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1821,2993,411,88/150,/0/default.jpg
-label: corns
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/2304,2308,228,114/150,/0/default.jpg
+label: "[:42.]"
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4710/'>copper-Cuts</a>"
 order: '0841'
 layout: index_item
 collection: index1

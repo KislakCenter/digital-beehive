@@ -2,24 +2,25 @@
 pid: index_3896
 volume: Volume 3
 image_number: '45'
-head: stove
-entry: 789 [PAGE_MISSING]
+head: sterility
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0301/'>barren[n]ess</a>"
 index:
-item: "#item-bb97d403c"
+item: "#item-26bd82276"
 unparsed:
-line: 'Head: stove|Entry: 789 [PAGE_MISSING]|#item-bb97d403c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/897,763,371,105/full/0/default.jpg
+line: 'Head: sterility|See: barren[n]ess|#item-26bd82276'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,1689,705,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530449537055
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290050527
+sort_value: '304511689'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/897,763,371,105/150,/0/default.jpg
-label: stove
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,1689,705,149/150,/0/default.jpg
+label: sterility
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

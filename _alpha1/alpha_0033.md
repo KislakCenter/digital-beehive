@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/digital-beehive/num1/num_0041/'>41
   [False Prophets]</a>|<a href='/digital-beehive/num4/num_1175/'>905 [AntiChrist]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0214/'>antiChrist</a>"
+index: "<a href='/digital-beehive/index1/index_0156/'>antiChrist</a>"
 item: "#item-398b608d5"
 unparsed:
 line: 'Entry: AntiChrist|Topic: AntiChrist|Xref: Babylon|Xref: 41 [False Prophets]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: AntiChrist|Topic: AntiChrist|Xref: Babylon|Xref: 41 [False Prophet
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/296,2730,3152,724/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490642317165
+sort_value: '143312730'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/296,2730,600,180/250,/0/default.jpg
 label: AntiChrist

@@ -2,25 +2,25 @@
 pid: index_2889
 volume: Volume 3
 image_number: '34'
-head: own
-entry: "<a href='/digital-beehive/alpha4/alpha_0675/'>a</a>|<a href='/digital-beehive/num8/num_2858/'>1939
-  [Own]</a>"
+head: paronomasia
+entry: "<a href='/digital-beehive/num11/num_3531/'>4835 [Paronomasia]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-71752b70c"
+item: "#item-044f9e31c"
 unparsed:
-line: 'Head: own|Entry: a|Entry: 1939 [Own]|#item-71752b70c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/482,1959,524,158/full/0/default.jpg
+line: 'Head: paronomasia|Entry: 4835 [Paronomasia]|#item-044f9e31c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1131,2326,638,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425601526
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494414862
+sort_value: '303422326'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/482,1959,524,158/150,/0/default.jpg
-label: own
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1131,2326,638,168/150,/0/default.jpg
+label: paronomasia
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

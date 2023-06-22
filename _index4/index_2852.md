@@ -2,8 +2,8 @@
 pid: index_2852
 volume: Volume 3
 image_number: '34'
-head: oven
-entry: "<a href='/digital-beehive/num4/num_1090/'>869 [Oven]</a>"
+head: Oxford
+entry: 4587 [PAGE_MISSING]
 topic:
 first_letter: O
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-02444b30e"
+item: "#item-7d058d9a8"
 unparsed:
-line: 'Head: oven|Entry: 869 [Oven]|#item-02444b30e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/461,646,474,124/full/0/default.jpg
+line: 'Head: Oxford|Entry: 4587 [PAGE_MISSING]|#item-7d058d9a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/467,2239,559,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425043679
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425741692
+sort_value: '303412239'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/461,646,474,124/150,/0/default.jpg
-label: oven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/467,2239,559,150/150,/0/default.jpg
+label: Oxford
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

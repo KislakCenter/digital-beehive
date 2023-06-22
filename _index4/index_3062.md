@@ -2,24 +2,25 @@
 pid: index_3062
 volume: Volume 3
 image_number: '36'
-head: populosity
-entry: "<a href='/digital-beehive/num5/num_1436/'>1067 [Many]</a>"
+head: point
+entry: 739 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2414/'>many</a>"
+see:
 index:
-item: "#item-7d62fa0aa"
+item: "#item-babca6d2a"
 unparsed:
-line: 'Head: populosity|See: many|Entry: 1067 [Many]|#item-7d62fa0aa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1192,948,754,158/full/0/default.jpg
+line: 'Head: point|Entry: 739 [PAGE_MISSING]|#item-babca6d2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/407,2823,463,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438481998
+annotation_uri: http://dev.llgc.org.uk/annotation/1548437958169
+sort_value: '303612823'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1192,948,754,158/150,/0/default.jpg
-label: populosity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/407,2823,463,155/150,/0/default.jpg
+label: point
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

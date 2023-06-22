@@ -2,24 +2,25 @@
 pid: index_2127
 volume: Volume 3
 image_number: '27'
-head: lamp
-entry: "<a href='/digital-beehive/num7/num_2401/'>1597 [Lamps]</a>"
+head: itch
+entry:
 topic:
-first_letter: L
+first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3532/'>scab</a>"
 index:
-item: "#item-49795a895"
+item: "#item-e4083e4d5"
 unparsed:
-line: 'Head: lamp|Entry: 1597 [Lamps]|#item-49795a895'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1573,545,352,139/full/0/default.jpg
+line: 'Head: itch|See: scab|#item-e4083e4d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/142,1137,394,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559834375245
+annotation_uri: http://dev.llgc.org.uk/annotation/1559757035702
+sort_value: '302711137'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1573,545,352,139/150,/0/default.jpg
-label: lamp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/142,1137,394,121/150,/0/default.jpg
+label: itch
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

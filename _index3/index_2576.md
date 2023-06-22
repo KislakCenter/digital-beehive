@@ -2,25 +2,25 @@
 pid: index_2576
 volume: Volume 3
 image_number: '31'
-head: murder
-entry: "<a href='/digital-beehive/alpha3/alpha_0621/'>a</a>|<a href='/digital-beehive/num7/num_2219/'>1504
-  [Murder]</a>"
+head: moose
+entry: "<a href='/digital-beehive/num7/num_2269/'>1529 [Moose : Elk]</a>"
 topic:
 first_letter: M
 page:
-add: "<a href='/digital-beehive/index4/index_3658/'>Self</a>"
+add:
 xref:
 see:
 index:
-item: "#item-7155f3c00"
+item: "#item-724f0aac4"
 unparsed:
-line: 'Head: murder|Entry: a|Entry: 1504 [Murder]|Add: Self|#item-7155f3c00'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1551,1572,557,191/full/0/default.jpg
+line: 'Head: moose|Entry: 1529 [Moose : Elk]|#item-724f0aac4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/876,1560,395,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361517079
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355670477
+sort_value: '303121560'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1551,1572,557,191/150,/0/default.jpg
-label: murder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/876,1560,395,134/150,/0/default.jpg
+label: moose
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

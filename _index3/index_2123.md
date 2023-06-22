@@ -2,24 +2,25 @@
 pid: index_2123
 volume: Volume 3
 image_number: '27'
-head: lamentation
-entry: "<a href='/digital-beehive/num3/num_0678/'>539 [Lamentation]</a>"
+head: island
+entry: "<a href='/digital-beehive/alpha3/alpha_0492/'>a</a>"
 topic:
-first_letter: L
+first_letter: I/J
 page:
 add:
 xref:
 see:
 index:
-item: "#item-bb8d2541a"
+item: "#item-309dc501e"
 unparsed:
-line: 'Head: lamentation|Entry: 539 [Lamentation]|#item-bb8d2541a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1576,420,590,168/full/0/default.jpg
+line: 'Head: island|Entry: a|#item-309dc501e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/139,774,299,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559834277446
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756695581
+sort_value: '302710774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1576,420,590,168/150,/0/default.jpg
-label: lamentation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/139,774,299,86/150,/0/default.jpg
+label: island
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

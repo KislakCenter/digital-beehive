@@ -2,25 +2,25 @@
 pid: index_1732
 volume: Volume 3
 image_number: '23'
-head: heaven
-entry: "<a href='/digital-beehive/alpha2/alpha_0410/'>a</a>|<a href='/digital-beehive/num5/num_1603/'>1176
-  [Heaven]</a>|<a href='/digital-beehive/num7/num_2589/'>1683 [Heaven]</a>"
+head: gum
+entry: "<a href='/digital-beehive/num10/num_3209/'>2259 [Gum]</a>"
 topic:
-first_letter: H
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-df6146150"
+item: "#item-72d3276d2"
 unparsed:
-line: 'Head: heaven|Entry: a|Entry: 1176 [Heaven]|Entry: 1683 [Heaven]|#item-df6146150'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1558,1175,626,108/full/0/default.jpg
+line: 'Head: gum|Entry: 2259 [Gum]|#item-72d3276d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,2988,358,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244391880
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233582306
+sort_value: '302312988'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1558,1175,626,108/150,/0/default.jpg
-label: heaven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,2988,358,101/150,/0/default.jpg
+label: gum
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

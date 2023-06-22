@@ -2,9 +2,9 @@
 pid: index_1765
 volume: Volume 3
 image_number: '23'
-head: hell
-entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>|<a href='/digital-beehive/num5/num_1450/'>1076
-  [Hell]</a>|<a href='/digital-beehive/num8/num_2885/'>1961 [Hell]</a>"
+head: hat
+entry: "<a href='/digital-beehive/alpha2/alpha_0403/'>a</a>|<a href='/digital-beehive/num1/num_0225/'>213
+  [Hat]</a>|785 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3357/'>2385 [Hat]</a>"
 topic:
 first_letter: H
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5d2375bab"
+item: "#item-274c61644"
 unparsed:
-line: 'Head: hell|Entry: a|Entry: 1076 [Hell]|Entry: 1961 [Hell]|#item-5d2375bab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1536,2142,513,133/full/0/default.jpg
+line: 'Head: hat|Entry: a|Entry: 213 [Hat]|Entry: 785 [PAGE_MISSING]|Entry: 2385 [Hat]|#item-274c61644'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,2566,601,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559570824168
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240987791
+sort_value: '302322566'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1536,2142,513,133/150,/0/default.jpg
-label: hell
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,2566,601,132/150,/0/default.jpg
+label: hat
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,26 @@
 pid: index_2625
 volume: Volume 3
 image_number: '31'
-head: mother
-entry:
+head: mutation
+entry: "<a href='/digital-beehive/alpha3/alpha_0628/'>a</a>|<a href='/digital-beehive/num1/num_0263/'>244
+  [Mutation]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2883/'>parents</a>"
+see:
 index:
-item: "#item-c27d57ba5"
+item: "#item-1862ee1e6"
 unparsed:
-line: 'Head: mother|See: parents|#item-c27d57ba5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,3198,551,126/full/0/default.jpg
+line: 'Head: mutation|Entry: a|Entry: 244 [Mutation]|#item-1862ee1e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1548,2489,578,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356878130
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362400924
+sort_value: '303132489'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,3198,551,126/150,/0/default.jpg
-label: mother
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1548,2489,578,104/150,/0/default.jpg
+label: mutation
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

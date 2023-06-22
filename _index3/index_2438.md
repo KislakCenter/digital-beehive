@@ -2,8 +2,8 @@
 pid: index_2438
 volume: Volume 3
 image_number: '30'
-head: mead
-entry: "<a href='/digital-beehive/num5/num_1408/'>1051 [Mead]</a>"
+head: Mary
+entry: "<a href='/digital-beehive/num4/num_1141/'>887 [Mary]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-697a079e7"
+item: "#item-8f62b4742"
 unparsed:
-line: 'Head: mead|Entry: 1051 [Mead]|#item-697a079e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/391,2544,332,71/full/0/default.jpg
+line: 'Head: Mary|Entry: 887 [Mary]|#item-8f62b4742'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/418,1204,345,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265457633
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263600885
+sort_value: '303011204'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/391,2544,332,71/150,/0/default.jpg
-label: mead
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/418,1204,345,105/150,/0/default.jpg
+label: Mary
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

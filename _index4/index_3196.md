@@ -2,11 +2,9 @@
 pid: index_3196
 volume: Volume 3
 image_number: '37'
-head: priests
-entry: "<a href='/digital-beehive/num1/num_0042/'>42 [False ministers]</a>|<a href='/digital-beehive/num4/num_1117/'>879
-  [False Teachers]</a>|<a href='/digital-beehive/num5/num_1368/'>1023 [Clergy]</a>|<a
-  href='/digital-beehive/num8/num_2716/'>1784 [False Teachers]</a>|<a href='/digital-beehive/num10/num_3426/'>4448
-  [False Teachers]</a>"
+head: property
+entry: "<a href='/digital-beehive/alpha4/alpha_0753/'>a</a>|<a href='/digital-beehive/num9/num_2946/'>2012
+  [Propriety]</a>"
 topic:
 first_letter: P
 page:
@@ -14,16 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e112a4601"
+item: "#item-2ae1527c6"
 unparsed:
-line: 'Head: priests|Entry: 42 [False ministers]|Entry: 879 [False Teachers]|Entry:
-  1023 [Clergy]|Entry: 1784 [False Teachers]|Entry: 4448 [False Teachers]|#item-e112a4601'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/58,2526,1221,132/full/0/default.jpg
+line: 'Head: property|Entry: a|Entry: 2012 [Propriety]|#item-2ae1527c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1477,700,632,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866902711
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869110251
+sort_value: '303730700'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/58,2526,1221,132/150,/0/default.jpg
-label: priests
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1477,700,632,127/150,/0/default.jpg
+label: property
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

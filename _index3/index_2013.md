@@ -2,8 +2,8 @@
 pid: index_2013
 volume: Volume 3
 image_number: '25'
-head: iliack passion
-entry: "<a href='/digital-beehive/num5/num_1558/'>1144 [Iliack passion]</a>"
+head: indeed
+entry: "<a href='/digital-beehive/num6/num_2059/'>1422 [In (very) Deed]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-78083b3b7"
+item: "#item-fae32567a"
 unparsed:
-line: 'Head: iliack passion|Entry: 1144 [Iliack passion]|#item-78083b3b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/158,3229,572,168/full/0/default.jpg
+line: 'Head: indeed|Entry: 1422 [In (very) Deed]|#item-fae32567a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1554,2686,430,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559662473573
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672636359
+sort_value: '302532686'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/158,3229,572,168/150,/0/default.jpg
-label: iliack passion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1554,2686,430,94/150,/0/default.jpg
+label: indeed
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

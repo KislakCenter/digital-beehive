@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_0855/'>631
   [Merchants]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2507/'>merchandize</a>"
+index: "<a href='/digital-beehive/index3/index_2487/'>merchandize</a>"
 item: "#item-062123453"
 unparsed:
 line: 'Entry: Merchandize|Topic: Merchandize|Xref: 109 [A Shop keeper]|Xref: 631 [Merchants]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Merchandize|Topic: Merchandize|Xref: 109 [A Shop keeper]|Xref: 631
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/723,2505,2979,574/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564774391506
+sort_value: '203212505'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/723,2505,600,180/250,/0/default.jpg
 label: Merchandize

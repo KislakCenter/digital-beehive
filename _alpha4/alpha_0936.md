@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num4/num_1204/'>914 [Security, he that promises for
   another]</a>|4509 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_4063/'>surity. b√ºrger</a>"
+index: "<a href='/digital-beehive/index4/index_4002/'>surity. b√ºrger</a>"
 item: "#item-b60087f8f"
 unparsed:
 line: 'Entry: Surety|Topic: Surety|Topic: Suretyship|Xref: 914 [Security, he that
@@ -19,6 +19,7 @@ line: 'Entry: Surety|Topic: Surety|Topic: Suretyship|Xref: 914 [Security, he tha
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/282,704,3125,426/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532551883286
+sort_value: '205710704'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/282,704,600,180/250,/0/default.jpg
 label: Surety

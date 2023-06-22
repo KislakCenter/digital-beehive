@@ -2,8 +2,8 @@
 pid: index_2433
 volume: Volume 3
 image_number: '30'
-head: mason
-entry: "<a href='/digital-beehive/num4/num_1182/'>907 [Mason]</a>"
+head: mars
+entry: "<a href='/digital-beehive/num6/num_2043/'>1416 [Evils of war]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1be11d444"
+item: "#item-89378d60f"
 unparsed:
-line: 'Head: mason|Entry: 907 [Mason]|#item-1be11d444'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/408,1541,382,117/full/0/default.jpg
+line: 'Head: mars|Entry: 1416 [Evils of war]|#item-89378d60f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/408,714,436,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263944771
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263285514
+sort_value: '303010714'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/408,1541,382,117/150,/0/default.jpg
-label: mason
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/408,714,436,91/150,/0/default.jpg
+label: mars
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

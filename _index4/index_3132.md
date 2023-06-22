@@ -2,8 +2,8 @@
 pid: index_3132
 volume: Volume 3
 image_number: '36'
-head: powder treason
-entry: 4778 [PAGE_MISSING]
+head: presbyterians
+entry: 798 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3481/'>4494 [Presbyterians]</a>
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b5dff5220"
+item: "#item-3c2f1c737"
 unparsed:
-line: 'Head: powder treason|Entry: 4778 [PAGE_MISSING]|#item-b5dff5220'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1163,3598,666,133/full/0/default.jpg
+line: 'Head: presbyterians|Entry: 798 [PAGE_MISSING]|Entry: 4494 [Presbyterians]|#item-3c2f1c737'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1844,3535,688,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439384097
+annotation_uri: http://dev.llgc.org.uk/annotation/1548441050471
+sort_value: '303633535'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1163,3598,666,133/150,/0/default.jpg
-label: powder treason
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1844,3535,688,172/150,/0/default.jpg
+label: presbyterians
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

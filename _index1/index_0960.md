@@ -2,8 +2,8 @@
 pid: index_0960
 volume: Volume 3
 image_number: '15'
-head: death of bad men
-entry: "<a href='/digital-beehive/num5/num_1725/'>1247 [Death of bad men]</a>"
+head: dead mens candles
+entry: "<a href='/digital-beehive/num7/num_2385/'>1589 [Ignis fatuus]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-e461cadea"
+item: "#item-23246506e"
 unparsed:
-line: 'Head: death of bad men|Entry: 1247 [Death of bad men]|#item-e461cadea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1528,3193,593,95/full/0/default.jpg
+line: 'Head: dead mens candles|Entry: 1589 [Ignis fatuus]|#item-23246506e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1526,2484,590,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540392330881
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391792077
+sort_value: '301532484'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1528,3193,593,95/150,/0/default.jpg
-label: death of bad men
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1526,2484,590,85/150,/0/default.jpg
+label: dead mens candles
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0958'
+order: '0959'
 layout: index_item
 collection: index1
 ---

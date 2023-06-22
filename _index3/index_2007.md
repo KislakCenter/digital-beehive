@@ -2,9 +2,8 @@
 pid: index_2007
 volume: Volume 3
 image_number: '25'
-head: impudence
-entry: "<a href='/digital-beehive/num2/num_0587/'>471 [Impudence]</a>|<a href='/digital-beehive/num3/num_1057/'>718
-  [Shameless]</a>"
+head: incurable
+entry: "<a href='/digital-beehive/num3/num_0832/'>620 [Despair]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-fdf079dbc"
+item: "#item-57a490c46"
 unparsed:
-line: 'Head: impudence|Entry: 471 [Impudence]|Entry: 718 [Shameless]|#item-fdf079dbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/849,3027,650,146/full/0/default.jpg
+line: 'Head: incurable|Entry: 620 [Despair]|#item-57a490c46'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1569,2350,487,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668118328
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672038257
+sort_value: '302532350'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/849,3027,650,146/150,/0/default.jpg
-label: impudence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1569,2350,487,101/150,/0/default.jpg
+label: incurable
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

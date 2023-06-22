@@ -2,8 +2,8 @@
 pid: index_4184
 volume: Volume 3
 image_number: '48'
-head: to treat
-entry: "<a href='/digital-beehive/num2/num_0423/'>358 [to Treat]</a>"
+head: too soon
+entry: "<a href='/digital-beehive/alpha5/alpha_0973/'>a</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-b041249b4"
+item: "#item-e97ee975e"
 unparsed:
-line: 'Head: to treat|Entry: 358 [to Treat]|#item-b041249b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1793,562,477,117/full/0/default.jpg
+line: 'Head: too soon|Entry: a|#item-e97ee975e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/440,2054,420,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562087358607
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275052647
+sort_value: '304812054'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1793,562,477,117/150,/0/default.jpg
-label: to treat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/440,2054,420,106/150,/0/default.jpg
+label: too soon
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '147'
+order: '146'
 layout: index_item
 collection: index5
 ---

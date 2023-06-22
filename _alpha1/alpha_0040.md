@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num11/num_3486/'>4794 [Apothecary]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0163/'>apothecary</a>"
+index: "<a href='/digital-beehive/index1/index_0172/'>apothecary</a>"
 item: "#item-31ae4a109"
 unparsed:
 line: 'Entry: [WORD_MISSING]|Topic: Apothecary|Xref: 4794 [Apothecary]|Index: apothecary|#item-31ae4a109'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/669,194,3191,465/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490811624344
+sort_value: '143410194'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/669,194,600,180/250,/0/default.jpg
 label: "[WORD_MISSING]"

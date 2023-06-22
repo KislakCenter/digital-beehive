@@ -2,8 +2,9 @@
 pid: index_2731
 volume: Volume 3
 image_number: '32'
-head: nicolaitans
-entry: 1843 [PAGE_MISSING]
+head: nose
+entry: "<a href='/digital-beehive/alpha3/alpha_0647/'>a</a>|<a href='/digital-beehive/num9/num_3062/'>2123
+  [Nose]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b141e6e6a"
+item: "#item-a7e8d2105"
 unparsed:
-line: 'Head: nicolaitans|Entry: 1843 [PAGE_MISSING]|#item-b141e6e6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,3053,611,109/full/0/default.jpg
+line: 'Head: nose|Entry: a|Entry: 2123 [Nose]|#item-a7e8d2105'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1833,2005,468,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560445616478
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449157856
+sort_value: '303232005'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,3053,611,109/150,/0/default.jpg
-label: nicolaitans
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1833,2005,468,129/150,/0/default.jpg
+label: nose
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

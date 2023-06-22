@@ -2,9 +2,8 @@
 pid: index_3444
 volume: Volume 3
 image_number: '40'
-head: romance
-entry: "<a href='/digital-beehive/alpha4/alpha_0818/'>a</a>|<a href='/digital-beehive/num6/num_1997/'>1393
-  [Romances]</a>"
+head: Roman Empire
+entry: "<a href='/digital-beehive/num10/num_3211/'>2260 [Roman Empire]</a>"
 topic:
 first_letter: R
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6af490f6b"
+item: "#item-e45f2244e"
 unparsed:
-line: 'Head: romance|Entry: a|Entry: 1393 [Romances]|#item-6af490f6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/full/0/default.jpg
+line: 'Head: Roman Empire|Entry: 2260 [Roman Empire]|#item-e45f2244e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1144,905,677,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233052220
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233301423
+sort_value: '304020905'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/150,/0/default.jpg
-label: romance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1144,905,677,158/150,/0/default.jpg
+label: Roman Empire
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

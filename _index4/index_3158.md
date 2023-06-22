@@ -2,8 +2,9 @@
 pid: index_3158
 volume: Volume 3
 image_number: '37'
-head: the pretender
-entry: "<a href='/digital-beehive/num9/num_3129/'>2186 [the Pretender James 3d]</a>"
+head: prince
+entry: "<a href='/digital-beehive/alpha4/alpha_0737/'>a</a>|<a href='/digital-beehive/num5/num_1618/'>1186
+  [Prince]</a>|<a href='/digital-beehive/num8/num_2688/'>1758 [Prince]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c870dc9ee"
+item: "#item-a70a56eac"
 unparsed:
-line: 'Head: the pretender|Entry: 2186 [the Pretender James 3d]|#item-c870dc9ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/91,1070,717,124/full/0/default.jpg
+line: 'Head: prince|Entry: a|Entry: 1186 [Prince]|Entry: 1758 [Prince]|#item-a70a56eac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/108,3058,646,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866206145
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867164914
+sort_value: '303713058'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/91,1070,717,124/150,/0/default.jpg
-label: the pretender
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/108,3058,646,149/150,/0/default.jpg
+label: prince
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

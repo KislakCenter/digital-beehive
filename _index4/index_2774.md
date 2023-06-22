@@ -2,24 +2,26 @@
 pid: index_2774
 volume: Volume 3
 image_number: '33'
-head: oister
-entry: "<a href='/digital-beehive/num6/num_2010/'>1398 [Oister]</a>"
+head: office
+entry: "<a href='/digital-beehive/alpha4/alpha_0660/'>a</a>|<a href='/digital-beehive/num5/num_1695/'>1232
+  [Offices]</a>"
 topic:
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-0104e7d84"
+item: "#item-8106d4a69"
 unparsed:
-line: 'Head: oister|Page: p.36 [Image 1.96]|Entry: 1398 [Oister]|#item-0104e7d84'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/851,1337,577,133/full/0/default.jpg
+line: 'Head: office|Entry: a|Entry: 1232 [Offices]|#item-8106d4a69'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/808,586,558,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348210030
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347988665
+sort_value: '303320586'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/851,1337,577,133/150,/0/default.jpg
-label: oister
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/808,586,558,142/150,/0/default.jpg
+label: office
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

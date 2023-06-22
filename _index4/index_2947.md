@@ -2,24 +2,27 @@
 pid: index_2947
 volume: Volume 3
 image_number: '35'
-head: to pierce
-entry: "<a href='/digital-beehive/num4/num_1123/'>881 [To Pierce]</a>"
+head: pen[n]
+entry: "<a href='/digital-beehive/num2/num_0505/'>410 [Pen]</a>|<a href='/digital-beehive/num3/num_0631/'>501
+  [Pen]</a>|<a href='/digital-beehive/num8/num_2734/'>1801 [Penn : Tongues]</a>"
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-b1de50d50"
+item: "#item-f2acc26c1"
 unparsed:
-line: 'Head: to pierce|Entry: 881 [To Pierce]|#item-b1de50d50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1497,616,454,176/full/0/default.jpg
+line: 'Head: pen[n]|Page: p.41 [Image 1.101]|Entry: 410 [Pen]|Entry: 501 [Pen]|Entry:
+  1801 [Penn : Tongues]|#item-f2acc26c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/115,1450,735,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975963558
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972610666
+sort_value: '303511450'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1497,616,454,176/150,/0/default.jpg
-label: to pierce
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/115,1450,735,148/150,/0/default.jpg
+label: pen[n]
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

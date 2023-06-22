@@ -2,24 +2,25 @@
 pid: index_3474
 volume: Volume 3
 image_number: '40'
-head: safe conduct
-entry: 726 [PAGE_MISSING]
+head: rust
+entry: "<a href='/digital-beehive/alpha4/alpha_0821/'>a</a>"
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c0c071d98"
+item: "#item-710c706cf"
 unparsed:
-line: 'Head: safe conduct|Entry: 726 [PAGE_MISSING]|#item-c0c071d98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1819,2109,604,148/full/0/default.jpg
+line: 'Head: rust|Entry: a|#item-710c706cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,732,321,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234921882
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234444540
+sort_value: '304030732'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1819,2109,604,148/150,/0/default.jpg
-label: safe conduct
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,732,321,127/150,/0/default.jpg
+label: rust
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_2800
 volume: Volume 3
 image_number: '33'
-head: omnipotency
-entry: "<a href='/digital-beehive/alpha4/alpha_0666/'>a</a>|<a href='/digital-beehive/num7/num_2473/'>1630
-  [Altar]</a>"
+head: on the contrary
+entry: "<a href='/digital-beehive/num6/num_1758/'>1268 [On the Contrary]</a>"
 topic:
 first_letter: O
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3051daf53"
+item: "#item-f556a74b7"
 unparsed:
-line: 'Head: omnipotency|Entry: a|Entry: 1630 [Altar]|#item-3051daf53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/836,2374,693,181/full/0/default.jpg
+line: 'Head: on the contrary|Entry: 1268 [On the Contrary]|#item-f556a74b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/835,3478,729,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348543797
+annotation_uri: http://dev.llgc.org.uk/annotation/1538160217898
+sort_value: '303323478'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/836,2374,693,181/150,/0/default.jpg
-label: omnipotency
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/835,3478,729,102/150,/0/default.jpg
+label: on the contrary
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

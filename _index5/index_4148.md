@@ -2,31 +2,29 @@
 pid: index_4148
 volume: Volume 3
 image_number: '47'
-head: tithes
-entry: "<a href='/digital-beehive/alpha5/alpha_0963/'>a</a>|<a href='/digital-beehive/num3/num_0701/'>554
-  [Tithes]</a>|<a href='/digital-beehive/num7/num_2502/'>1643 [Tithes]</a>|<a href='/digital-beehive/num10/num_3376/'>2404
-  [Tithes]</a>"
+head: tidings
+entry:
 topic:
 first_letter: T
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2702/'>news</a>"
 index:
-item: "#item-6916b9859"
+item: "#item-0b45d8e69"
 unparsed:
-line: 'Head: tithes|Entry: a|Entry: 554 [Tithes]|Entry: 1643 [Tithes]|Entry: 2404
-  [Tithes]|#item-6916b9859'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1590,3027,681,169/full/0/default.jpg
+line: 'Head: tidings|See: news|#item-0b45d8e69'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1580,1485,594,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281324432
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294682080
+sort_value: '304731485'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1590,3027,681,169/150,/0/default.jpg
-label: tithes
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1580,1485,594,170/150,/0/default.jpg
+label: tidings
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '111'
+order: '110'
 layout: index_item
 collection: index5
 ---

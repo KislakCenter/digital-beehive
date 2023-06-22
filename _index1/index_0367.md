@@ -2,25 +2,25 @@
 pid: index_0367
 volume: Volume 3
 image_number: '10'
-head: bible
-entry: "<a href='/digital-beehive/alpha1/alpha_0080/'>a</a>|<a href='/digital-beehive/num2/num_0522/'>421
-  [Bible]</a>"
+head: to beware
+entry:
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0572/'>Caution</a>"
 index:
-item: "#item-4a03c9821"
+item: "#item-4c74143ae"
 unparsed:
-line: 'Head: bible|Page: p.41 [Image 1.101]|Entry: a|Entry: 421 [Bible]|#item-4a03c9821'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1090,234,517,134/full/0/default.jpg
+line: 'Head: to beware|See: Caution|#item-4c74143ae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/346,3319,631,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531149172614
+annotation_uri: http://dev.llgc.org.uk/annotation/1531149003431
+sort_value: '301013319'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1090,234,517,134/150,/0/default.jpg
-label: bible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/346,3319,631,121/150,/0/default.jpg
+label: to beware
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0220
 volume: Volume 3
 image_number: '8'
-head: asthma
-entry: "<a href='/digital-beehive/num2/num_0594/'>475 [Shortness of breath]</a>"
+head: as well as
+entry: 777 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-12afda803"
+item: "#item-8cb5ed646"
 unparsed:
-line: 'Head: asthma|Entry: 475 [Shortness of breath]|#item-12afda803'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1776,2991,431,111/full/0/default.jpg
+line: 'Head: as well as|Entry: 777 [PAGE_MISSING]|#item-8cb5ed646'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1783,2021,508,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631964919
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631645979
+sort_value: '300832021'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1776,2991,431,111/150,/0/default.jpg
-label: asthma
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1783,2021,508,95/150,/0/default.jpg
+label: as well as
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

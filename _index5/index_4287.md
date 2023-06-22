@@ -2,8 +2,9 @@
 pid: index_4287
 volume: Volume 3
 image_number: '49'
-head: St Vincent
-entry: "<a href='/digital-beehive/num7/num_2238/'>1513 [St Vincent]</a>"
+head: vagabonds
+entry: "<a href='/digital-beehive/alpha5/alpha_0991/'>a</a>|<a href='/digital-beehive/num3/num_0840/'>623
+  [Vagabond]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-f5cc99534"
+item: "#item-bec0a5262"
 unparsed:
-line: 'Head: St Vincent|Entry: 1513 [St Vincent]|#item-f5cc99534'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1610,1305,500,135/full/0/default.jpg
+line: 'Head: vagabonds|Entry: a|Entry: 623 [Vagabond]|#item-bec0a5262'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/929,428,593,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660239538
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657551109
+sort_value: '304920428'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1610,1305,500,135/150,/0/default.jpg
-label: St Vincent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/929,428,593,147/150,/0/default.jpg
+label: vagabonds
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '250'
+order: '249'
 layout: index_item
 collection: index5
 ---

@@ -2,25 +2,26 @@
 pid: index_3488
 volume: Volume 3
 image_number: '40'
-head: ring leader
-entry: "<a href='/digital-beehive/alpha4/alpha_0815/'>a</a>|<a href='/digital-beehive/num9/num_3124/'>2181
-  [Ring-leader]</a>"
+head: safety
+entry: "<a href='/digital-beehive/num4/num_1202/'>914 [Security]</a>|<a href='/digital-beehive/num4/num_1205/'>914
+  [Safety]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1d4ef9dba"
+item: "#item-ccf1e9fbc"
 unparsed:
-line: 'Head: ring leader|Entry: a|Entry: 2181 [Ring-leader]|#item-1d4ef9dba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/434,2805,639,144/full/0/default.jpg
+line: 'Head: safety|Entry: 914 [Security]|Entry: 914 [Safety]|#item-ccf1e9fbc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1833,2243,363,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232491647
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234941684
+sort_value: '304032243'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/434,2805,639,144/150,/0/default.jpg
-label: ring leader
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1833,2243,363,113/150,/0/default.jpg
+label: safety
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

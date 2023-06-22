@@ -2,25 +2,28 @@
 pid: index_2342
 volume: Volume 3
 image_number: '29'
-head: lookingglass
-entry: "<a href='/digital-beehive/alpha3/alpha_0551/'>a</a>|<a href='/digital-beehive/num9/num_3036/'>2100
-  [Lookingglass]</a>"
+head: love of ye brethren
+entry: "<a href='/digital-beehive/alpha3/alpha_0559/'>a</a>|<a href='/digital-beehive/num6/num_1830/'>1309
+  [Love to God & the Brethren]</a>|<a href='/digital-beehive/num9/num_2964/'>2030
+  [Love of the Brethren]</a>"
 topic:
 first_letter: L
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-417e3b4fa"
+item: "#item-48b283ca8"
 unparsed:
-line: 'Head: lookingglass|Page: p.38 [Image 1.98]|Entry: a|Entry: 2100 [Lookingglass]|#item-417e3b4fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,752,696,142/full/0/default.jpg
+line: 'Head: love of ye brethren|Entry: a|Entry: 1309 [Love to God & the Brethren]|Entry:
+  2030 [Love of the Brethren]|#item-48b283ca8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,2158,809,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560177800842
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179267697
+sort_value: '302912158'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,752,696,142/150,/0/default.jpg
-label: lookingglass
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,2158,809,104/150,/0/default.jpg
+label: love of ye brethren
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

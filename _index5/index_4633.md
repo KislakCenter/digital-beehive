@@ -2,8 +2,9 @@
 pid: index_4633
 volume: Volume 3
 image_number: '53'
-head: workhouse
-entry: 793 [PAGE_MISSING]
+head: writing
+entry: "<a href='/digital-beehive/alpha5/alpha_1072/'>a</a>|<a href='/digital-beehive/num6/num_1961/'>1376
+  [Writing]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-12b572f1c"
+item: "#item-c3dc78ea7"
 unparsed:
-line: 'Head: workhouse|Entry: 793 [PAGE_MISSING]|#item-12b572f1c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2739,587,137/full/0/default.jpg
+line: 'Head: writing|Entry: a|Entry: 1376 [Writing]|#item-c3dc78ea7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1581,1069,579,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797250784
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798648853
+sort_value: '305331069'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2739,587,137/150,/0/default.jpg
-label: workhouse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1581,1069,579,124/150,/0/default.jpg
+label: writing
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '596'
+order: '595'
 layout: index_item
 collection: index5
 ---

@@ -2,10 +2,8 @@
 pid: index_2076
 volume: Volume 3
 image_number: '26'
-head: influence
-entry: "<a href='/digital-beehive/num6/num_2143/'>1460 [Influence of the Planets]</a>|<a
-  href='/digital-beehive/num7/num_2392/'>1593 [Influence]</a>|<a href='/digital-beehive/num9/num_3089/'>2148
-  [Influence]</a>"
+head: interjections
+entry: "<a href='/digital-beehive/num2/num_0385/'>333 [Exclam[m]ations or Interjections]</a>"
 topic:
 first_letter: I/J
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d636e54e0"
+item: "#item-b3ffe88a4"
 unparsed:
-line: 'Head: influence|Entry: 1460 [Influence of the Planets]|Entry: 1593 [Influence]|Entry:
-  2148 [Influence]|#item-d636e54e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/423,2053,776,140/full/0/default.jpg
+line: 'Head: interjections|Entry: 333 [Exclam[m]ations or Interjections]|#item-b3ffe88a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1150,2983,551,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744757556
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749084434
+sort_value: '302622983'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/423,2053,776,140/150,/0/default.jpg
-label: influence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1150,2983,551,113/150,/0/default.jpg
+label: interjections
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

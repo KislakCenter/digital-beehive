@@ -2,9 +2,8 @@
 pid: index_0787
 volume: Volume 3
 image_number: '14'
-head: complexions
-entry: 1696 [WORD_ILLEGIBLE]|<a href='/digital-beehive/num6/num_2041/'>1414 [Seven
-  Planets]</a>|1889 [PAGE_MISSING]
+head: confirmation
+entry: 852 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3453e9738"
+item: "#item-f8412aecc"
 unparsed:
-line: 'Head: complexions|Entry: 1696 [WORD_ILLEGIBLE]|Entry: 1414 [Seven Planets]|Entry:
-  1889 [PAGE_MISSING]|#item-3453e9738'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/431,1045,735,135/full/0/default.jpg
+line: 'Head: confirmation|Entry: 852 [PAGE_MISSING]|#item-f8412aecc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/383,3223,653,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215383914
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216905808
+sort_value: '301413223'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/431,1045,735,135/150,/0/default.jpg
-label: complexions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/383,3223,653,134/150,/0/default.jpg
+label: confirmation
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

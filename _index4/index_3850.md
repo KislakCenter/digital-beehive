@@ -2,9 +2,8 @@
 pid: index_3850
 volume: Volume 3
 image_number: '44'
-head: spices
-entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>|<a href='/digital-beehive/num8/num_2854/'>1937
-  [Spices]</a>"
+head: spiritual iniquities
+entry: "<a href='/digital-beehive/num4/num_1318/'>989 [Spiritual Iniquities]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-730c04aab"
+item: "#item-a84debf16"
 unparsed:
-line: 'Head: spices|Entry: a|Entry: 1937 [Spices]|#item-730c04aab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1118,2272,476,112/full/0/default.jpg
+line: 'Head: spiritual iniquities|Entry: 989 [Spiritual Iniquities]|#item-a84debf16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1790,490,570,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942166942
+annotation_uri: http://dev.llgc.org.uk/annotation/1529943278893
+sort_value: '304430490'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1118,2272,476,112/150,/0/default.jpg
-label: spices
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1790,490,570,132/150,/0/default.jpg
+label: spiritual iniquities
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

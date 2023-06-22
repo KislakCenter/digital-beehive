@@ -2,8 +2,8 @@
 pid: index_1370
 volume: Volume 3
 image_number: '19'
-head: eye lust
-entry: "<a href='/digital-beehive/alpha2/alpha_0308/'>a</a>"
+head: eye salve
+entry: 4538 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-79fb27907"
+item: "#item-e82ddb28a"
 unparsed:
-line: 'Head: eye lust|Entry: a|#item-79fb27907'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1474,3535,418,120/full/0/default.jpg
+line: 'Head: eye salve|Entry: 4538 [PAGE_MISSING]|#item-e82ddb28a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1519,3396,511,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561398213504
+annotation_uri: http://dev.llgc.org.uk/annotation/1561398169429
+sort_value: '301933396'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1474,3535,418,120/150,/0/default.jpg
-label: eye lust
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1519,3396,511,95/150,/0/default.jpg
+label: eye salve
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

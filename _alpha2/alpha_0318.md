@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1110/'>876 [Fasting]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1480/'>fasting</a>"
+index: "<a href='/digital-beehive/index2/index_1410/'>fasting</a>"
 item: "#item-00a250c48"
 unparsed:
 line: 'Entry: Fasting|Topic: Fasting|Topic: Fasting days|XRef: 876 [Fasting]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Fasting|Topic: Fasting|Topic: Fasting days|XRef: 876 [Fasting]|Ind
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/775,3724,2998,427/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564589269813
+sort_value: '145613724'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/775,3724,600,180/250,/0/default.jpg
 label: Fasting

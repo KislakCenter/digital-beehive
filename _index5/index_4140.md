@@ -2,9 +2,8 @@
 pid: index_4140
 volume: Volume 3
 image_number: '47'
-head: thoughts
-entry: "<a href='/digital-beehive/alpha5/alpha_0957/'>a</a>|<a href='/digital-beehive/num4/num_1310/'>982
-  [Thoughts]</a>|<a href='/digital-beehive/num10/num_3369/'>2397 [Thoughts]</a>"
+head: to thrust
+entry: "<a href='/digital-beehive/alpha5/alpha_0959/'>a</a>"
 topic:
 first_letter: T
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-ee456466d"
+item: "#item-823482aea"
 unparsed:
-line: 'Head: thoughts |Entry: a|Entry: 982 [Thoughts]|Entry: 2397 [Thoughts]|#item-ee456466d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/910,2653,651,140/full/0/default.jpg
+line: 'Head: to thrust|Entry: a|#item-823482aea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1613,669,364,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529517605337
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517895562
+sort_value: '304730669'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/910,2653,651,140/150,/0/default.jpg
-label: thoughts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1613,669,364,105/150,/0/default.jpg
+label: to thrust
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '103'
+order: '102'
 layout: index_item
 collection: index5
 ---

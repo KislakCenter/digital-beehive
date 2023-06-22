@@ -2,8 +2,8 @@
 pid: index_1220
 volume: Volume 3
 image_number: '18'
-head: efficacy
-entry: "<a href='/digital-beehive/num3/num_0813/'>611 [with Efficacy]</a>"
+head: election
+entry: "<a href='/digital-beehive/num2/num_0335/'>296 [Election]</a>"
 topic:
 first_letter: E
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-e8dc67cc5"
+item: "#item-03abd63b4"
 unparsed:
-line: 'Head: efficacy|Entry: 611 [with Efficacy]|#item-e8dc67cc5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1144,1458,411,147/full/0/default.jpg
+line: 'Head: election|Entry: 296 [Election]|#item-03abd63b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1147,2147,436,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673428530
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674528113
+sort_value: '301822147'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1144,1458,411,147/150,/0/default.jpg
-label: efficacy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1147,2147,436,145/150,/0/default.jpg
+label: election
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '041'
+order: '039'
 layout: index_item
 collection: index2
 ---

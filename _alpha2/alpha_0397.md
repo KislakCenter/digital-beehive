@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num4/num_1224/'>923 [Blessings of God are upon the
   wicked]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1733/'>happiness of the wicked</a>"
+index: "<a href='/digital-beehive/index2/index_1750/'>happiness of the wicked</a>"
 item: "#item-7b5ae19be"
 unparsed:
 line: 'Entry: Happiness of the Wicked|Topic: Happiness of the Wicked|Xref: 923 [Blessings
@@ -19,6 +19,7 @@ line: 'Entry: Happiness of the Wicked|Topic: Happiness of the Wicked|Xref: 923 [
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/789,4224,2919,442/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564604483907
+sort_value: '201614224'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/789,4224,600,180/250,/0/default.jpg
 label: Happiness of the Wicked

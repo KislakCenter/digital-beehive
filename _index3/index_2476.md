@@ -2,8 +2,8 @@
 pid: index_2476
 volume: Volume 3
 image_number: '30'
-head: midwife
-entry: "<a href='/digital-beehive/num3/num_0786/'>600 [Midwifery]</a>"
+head: melancholy
+entry: "<a href='/digital-beehive/alpha3/alpha_0586/'>a</a>|1847 [PAGE_MISSING]"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e9b69a22f"
+item: "#item-54cd1ee27"
 unparsed:
-line: 'Head: midwife|Entry: 600 [Midwifery]|#item-e9b69a22f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,1344,470,138/full/0/default.jpg
+line: 'Head: melancholy|Entry: a|Entry: 1847 [PAGE_MISSING]|#item-54cd1ee27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,1253,676,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273852381
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268130690
+sort_value: '303021253'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,1344,470,138/150,/0/default.jpg
-label: midwife
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,1253,676,153/150,/0/default.jpg
+label: melancholy
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

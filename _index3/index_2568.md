@@ -2,8 +2,8 @@
 pid: index_2568
 volume: Volume 3
 image_number: '31'
-head: mist
-entry: "<a href='/digital-beehive/num2/num_0464/'>383 [A mist]</a>"
+head: monkey
+entry: 802 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f10b024e3"
+item: "#item-ce7d258c1"
 unparsed:
-line: 'Head: mist|Entry: 383 [A mist]|#item-f10b024e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/146,1321,366,111/full/0/default.jpg
+line: 'Head: monkey|Entry: 802 [PAGE_MISSING]|#item-ce7d258c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/868,819,478,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351848796
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355024441
+sort_value: '303120819'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/146,1321,366,111/150,/0/default.jpg
-label: mist
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/868,819,478,157/150,/0/default.jpg
+label: monkey
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

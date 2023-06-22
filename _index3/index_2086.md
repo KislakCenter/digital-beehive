@@ -2,8 +2,8 @@
 pid: index_2086
 volume: Volume 3
 image_number: '26'
-head: integrity
-entry: "<a href='/digital-beehive/num6/num_1839/'>1317 [Sincerity]</a>"
+head: to introduce
+entry: "<a href='/digital-beehive/num7/num_2554/'>1666 [To bring in]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1b1f86c83"
+item: "#item-ff05190e9"
 unparsed:
-line: 'Head: integrity|Entry: 1317 [Sincerity]|#item-1b1f86c83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1151,2445,479,124/full/0/default.jpg
+line: 'Head: to introduce|Entry: 1666 [To bring in]|#item-ff05190e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1843,612,549,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748873357
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750856868
+sort_value: '302630612'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1151,2445,479,124/150,/0/default.jpg
-label: integrity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1843,612,549,103/150,/0/default.jpg
+label: to introduce
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

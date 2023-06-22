@@ -2,9 +2,8 @@
 pid: index_1119
 volume: Volume 3
 image_number: '17'
-head: drieness
-entry: "<a href='/digital-beehive/alpha1/alpha_0265/'>a</a>|<a href='/digital-beehive/num7/num_2264/'>1526
-  [Drought or Driness]</a>"
+head: to do
+entry: "<a href='/digital-beehive/num4/num_1128/'>883 [To act]</a>"
 topic:
 first_letter: D
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-f50fae2da"
+item: "#item-cfbc63fa7"
 unparsed:
-line: 'Head: drieness|Entry: a|Entry: 1526 [Drought or Driness]|#item-f50fae2da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1496,1928,575,132/full/0/default.jpg
+line: 'Head: to do|Entry: 883 [To act]|#item-cfbc63fa7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,2167,396,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452325141
+annotation_uri: http://dev.llgc.org.uk/annotation/1560366695818
+sort_value: '301722167'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1496,1928,575,132/150,/0/default.jpg
-label: drieness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,2167,396,140/150,/0/default.jpg
+label: to do
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1117'
+order: '1118'
 layout: index_item
 collection: index1
 ---

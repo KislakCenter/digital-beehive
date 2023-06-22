@@ -2,8 +2,8 @@
 pid: index_3406
 volume: Volume 3
 image_number: '40'
-head: to run
-entry: 771 [PAGE_MISSING]
+head: revenue
+entry: "<a href='/digital-beehive/num3/num_0724/'>568 [Rent or Revenue]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-983dbc461"
+item: "#item-7e259819a"
 unparsed:
-line: 'Head: to run|Entry: 771 [PAGE_MISSING]|#item-983dbc461'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,267,398,96/full/0/default.jpg
+line: 'Head: revenue|Entry: 568 [Rent or Revenue]|#item-7e259819a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/442,248,470,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234310718
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230786594
+sort_value: '304010248'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,267,398,96/150,/0/default.jpg
-label: to run
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/442,248,470,132/150,/0/default.jpg
+label: revenue
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -17,6 +17,7 @@ line: 'Head: to repair|Entry: 699 [Repair]|#item-30b026513'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/776,1915,587,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558469260050
+sort_value: '303921915'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/776,1915,587,140/150,/0/default.jpg
 label: to repair

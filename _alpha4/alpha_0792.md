@@ -10,7 +10,7 @@ page:
 add:
 xref: Old rags|<a href='/digital-beehive/num6/num_1980/'>1385 [Reliques]</a>
 see:
-index: "<a href='/digital-beehive/index4/index_3403/'>reliques</a>"
+index: "<a href='/digital-beehive/index4/index_3350/'>reliques</a>"
 item: "#item-d3ad071e9"
 unparsed:
 line: 'Entry: Reliques|Topic: Reliques|Xref: Old rags|Xref: 1385 [Reliques]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Reliques|Topic: Reliques|Xref: Old rags|Xref: 1385 [Reliques]|Inde
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/270,238,3052,416/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1523300704294
+sort_value: '204710238'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/270,238,600,180/250,/0/default.jpg
 label: Reliques

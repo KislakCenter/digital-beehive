@@ -2,9 +2,8 @@
 pid: index_2970
 volume: Volume 3
 image_number: '35'
-head: petition
-entry: "<a href='/digital-beehive/num3/num_0896/'>652 [Petition, Request]</a>|4767
-  [PAGE_MISSING]"
+head: perspective
+entry: "<a href='/digital-beehive/num7/num_2493/'>1639 [Spectacles]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d81ab7943"
+item: "#item-3fb0c5fbb"
 unparsed:
-line: 'Head: petition|Entry: 652 [Petition, Request]|Entry: 4767 [PAGE_MISSING]|#item-d81ab7943'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/847,1371,636,155/full/0/default.jpg
+line: 'Head: perspective|Entry: 1639 [Spectacles]|#item-3fb0c5fbb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/784,751,686,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974301545
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974121507
+sort_value: '303520751'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/847,1371,636,155/150,/0/default.jpg
-label: petition
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/784,751,686,170/150,/0/default.jpg
+label: perspective
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

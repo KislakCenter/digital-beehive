@@ -2,24 +2,25 @@
 pid: index_1296
 volume: Volume 3
 image_number: '19'
-head: Eva
-entry:
+head: errata in print
+entry: "<a href='/digital-beehive/num7/num_2371/'>1581 [Errata's]</a>"
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0122/'>Adam</a>"
+see:
 index:
-item: "#item-d11c69e4c"
+item: "#item-bfa85327e"
 unparsed:
-line: 'Head: Eva|See: Adam|#item-d11c69e4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/878,802,545,128/full/0/default.jpg
+line: 'Head: errata in print|Entry: 1581 [Errata''s]|#item-bfa85327e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/125,2453,661,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565296916442
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276217279
+sort_value: '301912453'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/878,802,545,128/150,/0/default.jpg
-label: Eva
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/125,2453,661,164/150,/0/default.jpg
+label: errata in print
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

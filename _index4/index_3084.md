@@ -2,8 +2,8 @@
 pid: index_3084
 volume: Volume 3
 image_number: '36'
-head: precedency
-entry: "<a href='/digital-beehive/alpha4/alpha_0731/'>a</a>"
+head: possession
+entry: "<a href='/digital-beehive/num1/num_0257/'>239 [Possession]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e2af07b89"
+item: "#item-73be2b16c"
 unparsed:
-line: 'Head: precedency|Entry: a|#item-e2af07b89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1868,1659,553,96/full/0/default.jpg
+line: 'Head: possession|Entry: 239 [Possession]|#item-73be2b16c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1189,1627,582,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440322576
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438792267
+sort_value: '303621627'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1868,1659,553,96/150,/0/default.jpg
-label: precedency
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1189,1627,582,164/150,/0/default.jpg
+label: possession
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

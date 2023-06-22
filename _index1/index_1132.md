@@ -2,9 +2,8 @@
 pid: index_1132
 volume: Volume 3
 image_number: '17'
-head: doctor
-entry: "<a href='/digital-beehive/alpha1/alpha_0258/'>a</a>|<a href='/digital-beehive/num4/num_1285/'>964
-  [Doctor]</a>|4643 [PAGE_MISSING]"
+head: dormouse
+entry: "<a href='/digital-beehive/alpha1/alpha_0262/'>a</a>"
 topic:
 first_letter: D
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-94a54d92d"
+item: "#item-88fbcb1d3"
 unparsed:
-line: 'Head: doctor|Entry: a|Entry: 964 [Doctor]|Entry: 4643 [PAGE_MISSING]|#item-94a54d92d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/747,2418,710,130/full/0/default.jpg
+line: 'Head: dormouse|Entry: a|#item-88fbcb1d3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1472,396,441,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560366899972
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367562642
+sort_value: '301730396'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/747,2418,710,130/150,/0/default.jpg
-label: doctor
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1472,396,441,135/150,/0/default.jpg
+label: dormouse
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1130'
+order: '1131'
 layout: index_item
 collection: index1
 ---

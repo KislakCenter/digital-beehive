@@ -10,13 +10,14 @@ page:
 add:
 xref: 4551 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index4/index_3500/'>river</a>"
+index: "<a href='/digital-beehive/index4/index_3437/'>river</a>"
 item: "#item-3012057af"
 unparsed:
 line: 'Entry: River|Topic: River|Xref: 4551 [PAGE_MISSING]|Index: river|#item-3012057af'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/242,181,3047,430/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528826516621
+sort_value: '204910181'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/242,181,600,180/250,/0/default.jpg
 label: River

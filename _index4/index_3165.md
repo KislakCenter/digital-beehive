@@ -2,8 +2,8 @@
 pid: index_3165
 volume: Volume 3
 image_number: '37'
-head: to propose
-entry: 742 [PAGE_MISSING]|856 [PAGE_MISSING]
+head: privation
+entry: "<a href='/digital-beehive/num7/num_2438/'>1613 [Privation]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-626d46bb6"
+item: "#item-442983350"
 unparsed:
-line: 'Head: to propose|Entry: 742 [PAGE_MISSING]|Entry: 856 [PAGE_MISSING]|#item-626d46bb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1494,1300,649,113/full/0/default.jpg
+line: 'Head: privation|Entry: 1613 [Privation]|#item-442983350'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/743,603,596,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869268495
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867580151
+sort_value: '303720603'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1494,1300,649,113/150,/0/default.jpg
-label: to propose
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/743,603,596,174/150,/0/default.jpg
+label: privation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

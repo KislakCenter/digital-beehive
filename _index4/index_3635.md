@@ -2,10 +2,9 @@
 pid: index_3635
 volume: Volume 3
 image_number: '42'
-head: servant & service
-entry: "<a href='/digital-beehive/alpha4/alpha_0863/'>a</a>|<a href='/digital-beehive/num5/num_1698/'>1233
-  [Servants]</a>|<a href='/digital-beehive/num5/num_1699/'>1233 [friendliest office]</a>|4553
-  [PAGE_MISSING]"
+head: sense
+entry: "<a href='/digital-beehive/alpha4/alpha_0861/'>a</a>|<a href='/digital-beehive/num4/num_1293/'>971
+  [Senses]</a>|<a href='/digital-beehive/num9/num_2991/'>2057 [Senses]</a>"
 topic:
 first_letter: S
 page:
@@ -13,16 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b3e1eb422"
+item: "#item-beb964c7a"
 unparsed:
-line: 'Head: servant & service|Entry: a|Entry: 1233 [Servants]|Entry: 1233 [friendliest
-  office]|Entry: 4553 [PAGE_MISSING]|#item-b3e1eb422'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1104,1078,747,167/full/0/default.jpg
+line: 'Head: sense|Entry: a|Entry: 971 [Senses]|Entry: 2057 [Senses]|#item-beb964c7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/433,3219,621,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573935178
+annotation_uri: http://dev.llgc.org.uk/annotation/1559245190278
+sort_value: '304213219'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1104,1078,747,167/150,/0/default.jpg
-label: servant & service
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/433,3219,621,154/150,/0/default.jpg
+label: sense
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

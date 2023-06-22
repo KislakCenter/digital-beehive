@@ -2,8 +2,8 @@
 pid: index_1740
 volume: Volume 3
 image_number: '23'
-head: hard
-entry: "<a href='/digital-beehive/num3/num_0794/'>603 [Hard]</a>"
+head: hallelujah
+entry: 791 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4b556dcb4"
+item: "#item-f3ffad451"
 unparsed:
-line: 'Head: hard|Entry: 603 [Hard]|#item-4b556dcb4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,1423,367,91/full/0/default.jpg
+line: 'Head: hallelujah|Entry: 791 [PAGE_MISSING]|#item-f3ffad451'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/833,342,463,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239567340
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238001715
+sort_value: '302320342'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,1423,367,91/150,/0/default.jpg
-label: hard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/833,342,463,125/150,/0/default.jpg
+label: hallelujah
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

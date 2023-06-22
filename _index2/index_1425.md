@@ -2,8 +2,8 @@
 pid: index_1425
 volume: Volume 3
 image_number: '20'
-head: first love
-entry: "<a href='/digital-beehive/num7/num_2411/'>1601 [First Love]</a>"
+head: feeling
+entry: 847 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bb6d06c0d"
+item: "#item-6c814295b"
 unparsed:
-line: 'Head: first love|Entry: 1601 [First Love]|#item-bb6d06c0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1787,1618,470,158/full/0/default.jpg
+line: 'Head: feeling|Entry: 847 [PAGE_MISSING]|#item-6c814295b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1119,1668,429,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562614470957
+annotation_uri: http://dev.llgc.org.uk/annotation/1562184151481
+sort_value: '302021668'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1787,1618,470,158/150,/0/default.jpg
-label: first love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1119,1668,429,175/150,/0/default.jpg
+label: feeling
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

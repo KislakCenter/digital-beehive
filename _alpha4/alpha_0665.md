@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0575/'>461
   [Old age]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2781/'>old age</a>"
+index: "<a href='/digital-beehive/index4/index_2784/'>old age</a>"
 item: "#item-b98f24942"
 unparsed:
 line: 'Entry: Old age|Topic: Old age|Xref: 12 [Old friends]|Xref: 461 [Old age]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Old age|Topic: Old age|Xref: 12 [Old friends]|Xref: 461 [Old age]|
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/346,3222,3037,506/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565017707398
+sort_value: '203713222'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/346,3222,600,180/250,/0/default.jpg
 label: Old age

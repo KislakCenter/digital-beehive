@@ -2,28 +2,29 @@
 pid: index_1047
 volume: Volume 3
 image_number: '16'
-head: desola[ti]on
-entry:
+head: difference
+entry: "<a href='/digital-beehive/alpha1/alpha_0237/'>a</a>|860 [PAGE_MISSING]"
 topic:
 first_letter: D
 page:
-add:
+add: unlike
 xref:
-see: "<a href='/digital-beehive/index1/index_1057/'>destruction</a>"
+see:
 index:
-item: "#item-237faaac9"
+item: "#item-beac25800"
 unparsed:
-line: 'Head: desola[ti]on|See: destruction|#item-237faaac9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1051,2692,774,114/full/0/default.jpg
+line: 'Head: difference|Entry: a|Entry: 860 [PAGE_MISSING]|Add: unlike|#item-beac25800'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1842,1363,533,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605109139
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923781395
+sort_value: '301631363'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1051,2692,774,114/150,/0/default.jpg
-label: desola[ti]on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1842,1363,533,155/150,/0/default.jpg
+label: difference
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1045'
+order: '1046'
 layout: index_item
 collection: index1
 ---

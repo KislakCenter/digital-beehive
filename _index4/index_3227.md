@@ -2,24 +2,25 @@
 pid: index_3227
 volume: Volume 3
 image_number: '38'
-head: quince
-entry: "<a href='/digital-beehive/num8/num_2707/'>1776 [Quince]</a>"
+head: punctilio
+entry: "<a href='/digital-beehive/num3/num_0689/'>546 [Punctilio]</a>"
 topic:
-first_letter: Q
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-fba8a7d9b"
+item: "#item-07c616c6f"
 unparsed:
-line: 'Head: quince|Entry: 1776 [Quince]|#item-fba8a7d9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1184,1681,363,113/full/0/default.jpg
+line: 'Head: punctilio|Entry: 546 [Punctilio]|#item-07c616c6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/423,1033,509,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455320537
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452046104
+sort_value: '303811033'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1184,1681,363,113/150,/0/default.jpg
-label: quince
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/423,1033,509,139/150,/0/default.jpg
+label: punctilio
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

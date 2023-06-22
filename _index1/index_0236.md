@@ -2,10 +2,8 @@
 pid: index_0236
 volume: Volume 3
 image_number: '9'
-head: atheism
-entry: "<a href='/digital-beehive/alpha1/alpha_0048/'>a</a>|<a href='/digital-beehive/num1/num_0258/'>240
-  [Atheism]</a>|<a href='/digital-beehive/num6/num_2056/'>1421 [Atheism]</a>|<a href='/digital-beehive/num8/num_2914/'>1983
-  [Atheism]</a>"
+head: atom
+entry: 838 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b46aeff13"
+item: "#item-b36e68baa"
 unparsed:
-line: 'Head: atheism|Entry: a|Entry: 240 [Atheism]|Entry: 1421 [Atheism]|Entry: 1983
-  [Atheism]|#item-b46aeff13'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/174,238,708,186/full/0/default.jpg
+line: 'Head: atom|Entry: 838 [PAGE_MISSING]|#item-b36e68baa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/174,488,401,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564771698884
+annotation_uri: http://dev.llgc.org.uk/annotation/1565014763518
+sort_value: '300910488'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/174,238,708,186/150,/0/default.jpg
-label: atheism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/174,488,401,106/150,/0/default.jpg
+label: atom
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_2248
 volume: Volume 3
 image_number: '28'
-head: like as
-entry: 4773 [PAGE_MISSING]
+head: leek
+entry:
 topic:
 first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2796/'>onions</a>"
 index:
-item: "#item-2ead3e852"
+item: "#item-8cd5de5d0"
 unparsed:
-line: 'Head: like as |Entry: 4773 [PAGE_MISSING]|#item-2ead3e852'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1812,405,521,124/full/0/default.jpg
+line: 'Head: leek|See: onions|#item-8cd5de5d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/385,3115,532,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848243411
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842739941
+sort_value: '302813115'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1812,405,521,124/150,/0/default.jpg
-label: like as
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/385,3115,532,157/150,/0/default.jpg
+label: leek
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

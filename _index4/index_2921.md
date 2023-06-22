@@ -2,8 +2,8 @@
 pid: index_2921
 volume: Volume 3
 image_number: '34'
-head: peach
-entry: "<a href='/digital-beehive/alpha4/alpha_0698/'>a</a>"
+head: patrimony
+entry: "<a href='/digital-beehive/num6/num_1963/'>1377 [Patrimony]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-491d0f22c"
+item: "#item-96af25382"
 unparsed:
-line: 'Head: peach|Entry: a|#item-491d0f22c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1798,2989,514,161/full/0/default.jpg
+line: 'Head: patrimony|Entry: 1377 [Patrimony]|#item-96af25382'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1828,2034,549,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495944996
+annotation_uri: http://dev.llgc.org.uk/annotation/1565192571919
+sort_value: '303432034'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1798,2989,514,161/150,/0/default.jpg
-label: peach
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1828,2034,549,115/150,/0/default.jpg
+label: patrimony
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

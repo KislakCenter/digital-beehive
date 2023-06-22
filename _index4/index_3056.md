@@ -2,9 +2,8 @@
 pid: index_3056
 volume: Volume 3
 image_number: '36'
-head: praised be God!
-entry: "<a href='/digital-beehive/num1/num_0083/'>82 [Praise God]</a>|<a href='/digital-beehive/num6/num_2189/'>1484
-  [Soli Deo gloria]</a>"
+head: pocks small
+entry: "<a href='/digital-beehive/num2/num_0447/'>371 [small pocks]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a758144da"
+item: "#item-67b4151f5"
 unparsed:
-line: 'Head: praised be God!|Entry: 82 [Praise God]|Entry: 1484 [Soli Deo gloria]|#item-a758144da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1893,740,703,132/full/0/default.jpg
+line: 'Head: pocks small|Entry: 371 [small pocks]|#item-67b4151f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/390,2109,636,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439923294
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208203581
+sort_value: '303612109'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1893,740,703,132/150,/0/default.jpg
-label: praised be God!
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/390,2109,636,119/150,/0/default.jpg
+label: pocks small
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

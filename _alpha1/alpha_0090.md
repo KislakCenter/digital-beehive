@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3099/'>2158 [Blood-letting]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0422/'>bloodletting</a>"
+index: "<a href='/digital-beehive/index1/index_0395/'>bloodletting</a>"
 item: "#item-dd06ebe15"
 unparsed:
 line: 'Entry: Blood-letting|Topic: Blood-letting|Xref: 2158 [Blood-letting]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Blood-letting|Topic: Blood-letting|Xref: 2158 [Blood-letting]|Inde
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/384,2325,3029,314/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558732489041
+sort_value: '143712325'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/384,2325,600,180/250,/0/default.jpg
 label: Blood-letting

@@ -2,9 +2,8 @@
 pid: index_1761
 volume: Volume 3
 image_number: '23'
-head: harp
-entry: "<a href='/digital-beehive/num8/num_2745/'>1812 [Musick]</a>|<a href='/digital-beehive/num10/num_3311/'>2341
-  [Harp]</a>"
+head: harpocrates
+entry: "<a href='/digital-beehive/num6/num_1813/'>1299 [Silence & Reservedness]</a>"
 topic:
 first_letter: H
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f24768f98"
+item: "#item-c7f24aeb2"
 unparsed:
-line: 'Head: harp|Entry: 1812 [Musick]|Entry: 2341 [Harp]|#item-f24768f98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/836,2042,502,121/full/0/default.jpg
+line: 'Head: harpocrates|Entry: 1299 [Silence & Reservedness]|#item-c7f24aeb2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,2148,585,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240190762
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240490965
+sort_value: '302322148'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/836,2042,502,121/150,/0/default.jpg
-label: harp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,2148,585,99/150,/0/default.jpg
+label: harpocrates
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

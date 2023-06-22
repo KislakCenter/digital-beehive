@@ -10,13 +10,14 @@ page:
 add:
 xref: 848 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index3/index_2716/'>navigation</a>"
+index: "<a href='/digital-beehive/index3/index_2663/'>navigation</a>"
 item: "#item-6aee1c497"
 unparsed:
 line: 'Entry: Navigation|Topic: Navigation|Xref: 848 [PAGE_MISSING]|Index: navigation|#item-6aee1c497'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/346,3633,2967,400/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1510169756053
+sort_value: '203513633'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/346,3633,600,180/250,/0/default.jpg
 label: Navigation

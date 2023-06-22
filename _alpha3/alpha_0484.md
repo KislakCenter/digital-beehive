@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0132/'>Cause</a>|<a href='/digital-beehive/num1/num_0180/'>172
   [Means]</a>|<a href='/digital-beehive/num10/num_3350/'>2378 [Instruments]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2078/'>instrumt</a>"
+index: "<a href='/digital-beehive/index3/index_2070/'>instrumt</a>"
 item: "#item-4818d98ae"
 unparsed:
 line: 'Entry: Instrument|Topic: Instrument|Xref: Cause|Xref: 172 [Means]|Xref: 2378
@@ -19,6 +19,7 @@ line: 'Entry: Instrument|Topic: Instrument|Xref: Cause|Xref: 172 [Means]|Xref: 2
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/352,4472,3028,593/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564761121433
+sort_value: '202314472'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/352,4472,600,180/250,/0/default.jpg
 label: Instrument

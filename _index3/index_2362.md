@@ -2,8 +2,9 @@
 pid: index_2362
 volume: Volume 3
 image_number: '29'
-head: Loretto
-entry: "<a href='/digital-beehive/num6/num_1845/'>1319 [Loretto]</a>"
+head: lukewarm
+entry: "<a href='/digital-beehive/num1/num_0027/'>27 [Lukewarmness]</a>|<a href='/digital-beehive/num8/num_2867/'>1943
+  [Lukewarmness]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7f07a3bfe"
+item: "#item-a0c08400e"
 unparsed:
-line: 'Head: Loretto|Entry: 1319 [Loretto]|#item-7f07a3bfe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/180,1483,387,143/full/0/default.jpg
+line: 'Head: lukewarm|Entry: 27 [Lukewarmness]|Entry: 1943 [Lukewarmness]|#item-a0c08400e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,470,580,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178277556
+annotation_uri: http://dev.llgc.org.uk/annotation/1560184996286
+sort_value: '302920470'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/180,1483,387,143/150,/0/default.jpg
-label: Loretto
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,470,580,133/150,/0/default.jpg
+label: lukewarm
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

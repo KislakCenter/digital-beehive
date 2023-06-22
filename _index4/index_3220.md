@@ -17,6 +17,7 @@ line: 'Head: to publish|Entry: 500 [Publish abroad]|#item-70b7cb4a5'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1480,3455,587,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1550869853356
+sort_value: '303733455'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1480,3455,587,153/150,/0/default.jpg
 label: to publish

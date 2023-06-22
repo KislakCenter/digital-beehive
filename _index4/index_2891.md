@@ -2,24 +2,25 @@
 pid: index_2891
 volume: Volume 3
 image_number: '34'
-head: park
-entry: "<a href='/digital-beehive/num4/num_1231/'>927 [Pond]</a>"
+head: John Parrot
+entry: "<a href='/digital-beehive/num8/num_2705/'>1774 [John Parrot]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-637f2d0f4"
+item: "#item-364377856"
 unparsed:
-line: 'Head: park|Page: p.8 [Image 1.68]|Entry: 927 [Pond]|#item-637f2d0f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1127,2008,606,215/full/0/default.jpg
+line: 'Head: John Parrot|Entry: 1774 [John Parrot]|#item-364377856'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1103,2440,732,210/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494288475
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494474483
+sort_value: '303422440'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1127,2008,606,215/150,/0/default.jpg
-label: park
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1103,2440,732,210/150,/0/default.jpg
+label: John Parrot
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

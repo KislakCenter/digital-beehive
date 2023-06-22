@@ -2,24 +2,25 @@
 pid: index_1978
 volume: Volume 3
 image_number: '25'
-head: Jesus
-entry: "<a href='/digital-beehive/alpha3/alpha_0452/'>a</a>"
+head: imprisonmt
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3162/'>prison</a>"
 index:
-item: "#item-f7f96b109"
+item: "#item-45948aa65"
 unparsed:
-line: 'Head: Jesus|Entry: a|#item-f7f96b109'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/162,2081,296,176/full/0/default.jpg
+line: 'Head: imprisonmt|See: prison|#item-45948aa65'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661112556
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667079955
+sort_value: '302522460'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/162,2081,296,176/150,/0/default.jpg
-label: Jesus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/150,/0/default.jpg
+label: imprisonmt
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

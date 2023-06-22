@@ -11,13 +11,14 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>Alms</a>|<a href='/digital-beehive/num6/num_1877/'>1335
   [Begging]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0335/'>begging</a>"
+index: "<a href='/digital-beehive/index1/index_0337/'>begging</a>"
 item: "#item-19e50b10a"
 unparsed:
 line: 'Entry: Begging|Topic: Begging|Xref: Alms|Xref: 1335 [Begging]|Index: begging|#item-19e50b10a'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/875,1618,2901,509/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744171252
+sort_value: '143611618'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/875,1618,600,180/250,/0/default.jpg
 label: Begging

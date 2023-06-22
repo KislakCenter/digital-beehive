@@ -2,9 +2,8 @@
 pid: index_3373
 volume: Volume 3
 image_number: '39'
-head: retaliation
-entry: "<a href='/digital-beehive/num1/num_0156/'>150 [Retaliation]</a>|<a href='/digital-beehive/num4/num_1137/'>886
-  [Retaliation]</a>"
+head: to replevy
+entry: "<a href='/digital-beehive/num2/num_0554/'>445 [To replevy]</a>"
 topic:
 first_letter: R
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-cd90bc6fe"
+item: "#item-dcddd05a0"
 unparsed:
-line: 'Head: retaliation|Entry: 150 [Retaliation]|Entry: 886 [Retaliation]|#item-cd90bc6fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1516,2152,670,147/full/0/default.jpg
+line: 'Head: to replevy|Entry: 445 [To replevy]|#item-dcddd05a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/811,2639,612,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230026170
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469508634
+sort_value: '303922639'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1516,2152,670,147/150,/0/default.jpg
-label: retaliation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/811,2639,612,158/150,/0/default.jpg
+label: to replevy
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

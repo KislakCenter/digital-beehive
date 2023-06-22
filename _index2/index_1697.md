@@ -2,8 +2,8 @@
 pid: index_1697
 volume: Volume 3
 image_number: '22'
-head: golds worth
-entry: "<a href='/digital-beehive/num7/num_2275/'>1530 [Gold's worth]</a>"
+head: gratis
+entry: 737 [PAGE_MISSING]
 topic:
 first_letter: G
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5df97672d"
+item: "#item-77e7c5d31"
 unparsed:
-line: 'Head: golds worth|Entry: 1530 [Gold''s worth]|#item-5df97672d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1166,3486,514,112/full/0/default.jpg
+line: 'Head: gratis|Entry: 737 [PAGE_MISSING]|#item-77e7c5d31'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,3226,415,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050932734
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053651990
+sort_value: '302233226'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1166,3486,514,112/150,/0/default.jpg
-label: golds worth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,3226,415,144/150,/0/default.jpg
+label: gratis
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_4366
 volume: Volume 3
 image_number: '50'
-head: unarmed
-entry: "<a href='/digital-beehive/num8/num_2706/'>1775 [Unarmed]</a>"
+head: uncredible
+entry: "<a href='/digital-beehive/num1/num_0266/'>246 [Probability]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-9fce19fd1"
+item: "#item-255507723"
 unparsed:
-line: 'Head: unarmed|Entry: 1775 [Unarmed]|#item-9fce19fd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/439,1013,532,82/full/0/default.jpg
+line: 'Head: uncredible|Entry: 246 [Probability]|#item-255507723'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/434,2198,497,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872182365
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872820013
+sort_value: '305012198'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/439,1013,532,82/150,/0/default.jpg
-label: unarmed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/434,2198,497,120/150,/0/default.jpg
+label: uncredible
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '329'
+order: '328'
 layout: index_item
 collection: index5
 ---

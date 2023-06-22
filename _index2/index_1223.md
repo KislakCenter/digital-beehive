@@ -2,8 +2,8 @@
 pid: index_1223
 volume: Volume 3
 image_number: '18'
-head: England new
-entry: 766 [PAGE_MISSING]
+head: elephant
+entry: "<a href='/digital-beehive/num8/num_2911/'>1980 [Elephant]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ef0f60d21"
+item: "#item-e2d550d75"
 unparsed:
-line: 'Head: England new|Entry: 766 [PAGE_MISSING]|#item-ef0f60d21'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1823,1568,403,94/full/0/default.jpg
+line: 'Head: elephant|Entry: 1980 [Elephant]|#item-e2d550d75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,2376,475,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756254114
+annotation_uri: http://dev.llgc.org.uk/annotation/1559680123778
+sort_value: '301822376'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1823,1568,403,94/150,/0/default.jpg
-label: England new
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,2376,475,92/150,/0/default.jpg
+label: elephant
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:

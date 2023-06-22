@@ -2,9 +2,8 @@
 pid: index_2840
 volume: Volume 3
 image_number: '34'
-head: orthodox
-entry: "<a href='/digital-beehive/num1/num_0046/'>46 [Orthodox]</a>|<a href='/digital-beehive/num7/num_2570/'>1673
-  [Orthodox]</a>"
+head: overmeasure
+entry: "<a href='/digital-beehive/num6/num_2126/'>1452 [An Over measure]</a>"
 topic:
 first_letter: O
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bd7dbc53d"
+item: "#item-7990ad9cd"
 unparsed:
-line: 'Head: orthodox|Entry: 46 [Orthodox]|Entry: 1673 [Orthodox]|#item-bd7dbc53d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/499,250,631,126/full/0/default.jpg
+line: 'Head: overmeasure|Entry: 1452 [An Over measure]|#item-7990ad9cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/482,1142,676,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538424890211
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276838616
+sort_value: '303411142'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/499,250,631,126/150,/0/default.jpg
-label: orthodox
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/482,1142,676,103/150,/0/default.jpg
+label: overmeasure
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

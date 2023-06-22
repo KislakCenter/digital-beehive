@@ -2,24 +2,25 @@
 pid: index_2402
 volume: Volume 3
 image_number: '29'
-head: loveless
-entry: "<a href='/digital-beehive/num5/num_1337/'>1003 [Want of Love]</a>"
+head: Mamut
+entry: "<a href='/digital-beehive/num6/num_1840/'>1317 [Mamut]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4ff319242"
+item: "#item-94133a51f"
 unparsed:
-line: 'Head: loveless|Entry: 1003 [Want of Love]|#item-4ff319242'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,2781,402,126/full/0/default.jpg
+line: 'Head: Mamut|Entry: 1317 [Mamut]|#item-94133a51f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180127045
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194354143
+sort_value: '302931232'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,2781,402,126/150,/0/default.jpg
-label: loveless
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/150,/0/default.jpg
+label: Mamut
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

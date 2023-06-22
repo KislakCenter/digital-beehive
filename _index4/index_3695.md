@@ -20,6 +20,7 @@ line: 'Head: sickness|Entry: a|Entry: 1287 [Distemper]|Entry: 1626 [Distemper]|E
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,3496,761,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559576756624
+sort_value: '304233496'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,3496,761,192/150,/0/default.jpg
 label: sickness

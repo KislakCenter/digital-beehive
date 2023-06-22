@@ -2,26 +2,28 @@
 pid: index_2309
 volume: Volume 3
 image_number: '28'
-head: to live well
-entry: "<a href='/digital-beehive/num7/num_2223/'>1506 [To Live well]</a>"
+head: liturgy
+entry: "<a href='/digital-beehive/num2/num_0285/'>259 [Book Prayers]</a>|<a href='/digital-beehive/num2/num_0286/'>259
+  [Com[m]on Prayer Book]</a>"
 topic:
 first_letter: L
 page:
-add: "<a href='/digital-beehive/index5/index_4134/'>term</a>"
+add:
 xref:
 see:
 index:
-item: "#item-c21643520"
+item: "#item-4d2d66327"
 unparsed:
-line: 'Head: to live well|Entry: 1506 [To Live well]|Add: term|#item-c21643520'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1142,2868,541,175/full/0/default.jpg
+line: 'Head: liturgy|Entry: 259 [Book Prayers]|Entry: 259 [Com[m]on Prayer Book]|#item-4d2d66327'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1811,2182,436,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847033745
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849559392
+sort_value: '302832182'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1142,2868,541,175/150,/0/default.jpg
-label: to live well
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1811,2182,436,134/150,/0/default.jpg
+label: liturgy
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue:
+issue: The correct entry for 249 is ambiguous.
 insertion_xref:
 order: '391'
 layout: index_item

@@ -10,13 +10,14 @@ page:
 add:
 xref: 723 [Cock]|791 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index2/index_1784/'>hen</a>"
+index: "<a href='/digital-beehive/index2/index_1801/'>hen</a>"
 item: "#item-4f384ce52"
 unparsed:
 line: 'Entry: Hen|Topic: Hen|Xref: 723 [Cock]|Xref: 791 [PAGE_MISSING]|Index: hen|#item-4f384ce52'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/800,1401,2974,200/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508962728284
+sort_value: '201811401'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/800,1401,600,180/250,/0/default.jpg
 label: Hen

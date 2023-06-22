@@ -2,8 +2,10 @@
 pid: index_2432
 volume: Volume 3
 image_number: '30'
-head: mask
-entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
+head: marriage
+entry: "<a href='/digital-beehive/alpha3/alpha_0575/'>a</a>|<a href='/digital-beehive/num6/num_2106/'>1443
+  [Marriage]</a>|<a href='/digital-beehive/num7/num_2450/'>1619 [Marriage]</a>|4647
+  [PAGE_MISSING]"
 topic:
 first_letter: M
 page:
@@ -11,15 +13,17 @@ add:
 xref:
 see:
 index:
-item: "#item-4e05dfe54"
+item: "#item-f0eb8480f"
 unparsed:
-line: 'Head: mask|Entry: 129 [Vizard]|#item-4e05dfe54'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/404,1429,352,130/full/0/default.jpg
+line: 'Head: marriage|Entry: a|Entry: 1443 [Marriage]|Entry: 1619 [Marriage]|Entry:
+  4647 [PAGE_MISSING]|#item-f0eb8480f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/409,643,724,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263839380
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263160865
+sort_value: '303010643'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/404,1429,352,130/150,/0/default.jpg
-label: mask
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/409,643,724,119/150,/0/default.jpg
+label: marriage
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0899/'>654 [Care]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0537/'>care</a>"
+index: "<a href='/digital-beehive/index1/index_0539/'>care</a>"
 item: "#item-51c02b046"
 unparsed:
 line: 'Entry: Care|Topic: Care|Xref: 654 [Care]|Index: care|#item-51c02b046'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/273,4365,3151,734/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499369893401
+sort_value: '143914365'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/273,4365,600,180/250,/0/default.jpg
 label: Care

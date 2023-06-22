@@ -2,25 +2,25 @@
 pid: index_0463
 volume: Volume 3
 image_number: '11'
-head: calumny
-entry: "<a href='/digital-beehive/num3/num_0897/'>653 [Slander]</a>|<a href='/digital-beehive/num9/num_2984/'>2050
-  [Slander]</a>"
+head: brokers
+entry:
 topic:
-first_letter: C
+first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2928/'>pawn</a>"
 index:
-item: "#item-d3e723fa6"
+item: "#item-458cc1dbf"
 unparsed:
-line: 'Head: calumny|Entry: 653 [Slander]|Entry: 2050 [Slander]|#item-d3e723fa6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1560,1099,679,132/full/0/default.jpg
+line: 'Head: brokers|See: pawn|#item-458cc1dbf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/164,3196,523,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494771488
+annotation_uri: http://dev.llgc.org.uk/annotation/1531419921173
+sort_value: '301113196'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1560,1099,679,132/150,/0/default.jpg
-label: calumny
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/164,3196,523,121/150,/0/default.jpg
+label: brokers
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

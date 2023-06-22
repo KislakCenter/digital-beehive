@@ -2,26 +2,27 @@
 pid: index_2179
 volume: Volume 3
 image_number: '27'
-head: juice
-entry: "<a href='/digital-beehive/num5/num_1711/'>1240 [Juice]</a>"
+head: Korb
+entry:
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1009/'>denial</a>"
 index:
-item: "#item-7a1ecdf79"
+item: "#item-bf8c26ff0"
 unparsed:
-line: 'Head: juice|Entry: 1240 [Juice]|#item-7a1ecdf79'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/154,2174,353,97/full/0/default.jpg
+line: 'Head: Korb|See: denial|#item-bf8c26ff0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,2762,439,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758496571
+annotation_uri: http://dev.llgc.org.uk/annotation/1559831720844
+sort_value: '302722762'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/154,2174,353,97/150,/0/default.jpg
-label: juice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,2762,439,98/150,/0/default.jpg
+label: Korb
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue:
+issue: It is unclear why Pastorius links "Korb" with "denial."
 insertion_xref:
 order: '261'
 layout: index_item

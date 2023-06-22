@@ -2,8 +2,8 @@
 pid: index_2122
 volume: Volume 3
 image_number: '27'
-head: irrecuperable
-entry: "<a href='/digital-beehive/num3/num_0832/'>620 [Despair]</a>"
+head: irresolution
+entry: "<a href='/digital-beehive/num10/num_3259/'>2295 [Irresolution]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a049b842d"
+item: "#item-87af2b04f"
 unparsed:
-line: 'Head: irrecuperable|Entry: 620 [Despair]|#item-a049b842d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,399,566,136/full/0/default.jpg
+line: 'Head: irresolution|Entry: 2295 [Irresolution]|#item-87af2b04f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/156,705,568,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756365442
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756657097
+sort_value: '302710705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,399,566,136/150,/0/default.jpg
-label: irrecuperable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/156,705,568,113/150,/0/default.jpg
+label: irresolution
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

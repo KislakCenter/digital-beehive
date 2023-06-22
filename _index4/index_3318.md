@@ -2,25 +2,25 @@
 pid: index_3318
 volume: Volume 3
 image_number: '38'
-head: quarrel
-entry: "<a href='/digital-beehive/num2/num_0414/'>352 [Strife]</a>|<a href='/digital-beehive/num9/num_3109/'>2167
-  [Strife]</a>"
+head: recompense
+entry: 733 [PAGE_MISSING]
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3953/'>strife</a>"
+see:
 index:
-item: "#item-8d4b26071"
+item: "#item-62dce0cae"
 unparsed:
-line: 'Head: quarrel|See: strife|Entry: 352 [Strife]|Entry: 2167 [Strife]|#item-8d4b26071'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/371,3466,870,129/full/0/default.jpg
+line: 'Head: recompense|Entry: 733 [PAGE_MISSING]|#item-62dce0cae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1838,3177,591,197/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454829727
+annotation_uri: http://dev.llgc.org.uk/annotation/1558462057436
+sort_value: '303833177'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/371,3466,870,129/150,/0/default.jpg
-label: quarrel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1838,3177,591,197/150,/0/default.jpg
+label: recompense
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

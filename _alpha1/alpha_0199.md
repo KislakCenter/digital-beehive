@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0010/'>Adversity</a>|<a href='/dig
   [Crucifixes]</a>|<a href='/digital-beehive/num2/num_0626/'>498 [Sufferings]</a>|<a
   href='/digital-beehive/num7/num_2220/'>1505 [Cross]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0923/'>cross</a>"
+index: "<a href='/digital-beehive/index1/index_0913/'>cross</a>"
 item: "#item-7dd51f4f8"
 unparsed:
 line: 'Entry: Cross|Topic: Cross|Xref: Adversity|Xref: 184 [Crucifixes]|Xref: 498
@@ -20,6 +20,7 @@ line: 'Entry: Cross|Topic: Cross|Xref: Adversity|Xref: 184 [Crucifixes]|Xref: 49
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/876,3352,2907,583/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499786125530
+sort_value: '144613352'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/876,3352,600,180/250,/0/default.jpg
 label: Cross

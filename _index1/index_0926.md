@@ -2,25 +2,25 @@
 pid: index_0926
 volume: Volume 3
 image_number: '15'
-head: couple
-entry: "<a href='/digital-beehive/num1/num_0196/'>187 [Two]</a>|<a href='/digital-beehive/num2/num_0382/'>332
-  [Two]</a>"
+head: cupping
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0395/'>bloodletting</a>"
 index:
-item: "#item-304f06720"
+item: "#item-f5291bdbf"
 unparsed:
-line: 'Head: couple|Entry: 187 [Two]|Entry: 332 [Two]|#item-304f06720'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/154,2196,483,105/full/0/default.jpg
+line: 'Head: cupping|See: bloodletting|#item-f5291bdbf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/842,3459,626,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974712276
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578089593
+sort_value: '301523459'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/154,2196,483,105/150,/0/default.jpg
-label: couple
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/842,3459,626,121/150,/0/default.jpg
+label: cupping
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

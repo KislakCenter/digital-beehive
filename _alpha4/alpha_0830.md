@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3507/'>sallet</a>"
+index: "<a href='/digital-beehive/index4/index_3503/'>sallet</a>"
 item: "#item-a3ed6fe98"
 unparsed:
 line: 'Entry: Sallet|Topic: Sallet|Index: sallet|#item-a3ed6fe98'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/343,4670,3001,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528917901257
+sort_value: '204914670'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/343,4670,600,180/250,/0/default.jpg
 label: Sallet

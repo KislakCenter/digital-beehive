@@ -2,8 +2,9 @@
 pid: index_4620
 volume: Volume 3
 image_number: '53'
-head: without Christ
-entry: "<a href='/digital-beehive/num2/num_0320/'>284 [Without Xst]</a>"
+head: worms
+entry: "<a href='/digital-beehive/num1/num_0166/'>159 [Worm]</a>|<a href='/digital-beehive/num6/num_1894/'>1343
+  [Worms]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-2ed880806"
+item: "#item-8a3ec3796"
 unparsed:
-line: 'Head: without Christ|Entry: 284 [Without Xst]|#item-2ed880806'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/186,2283,452,118/full/0/default.jpg
+line: 'Head: worms|Entry: 159 [Worm]|Entry: 1343 [Worms]|#item-8a3ec3796'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3228,551,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792762311
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797543912
+sort_value: '305323228'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/186,2283,452,118/150,/0/default.jpg
-label: without Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3228,551,100/150,/0/default.jpg
+label: worms
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '583'
+order: '582'
 layout: index_item
 collection: index5
 ---

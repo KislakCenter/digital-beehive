@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0590/'>Mercy</a>|2251 [unmerciful]"
 see:
-index: "<a href='/digital-beehive/index5/index_4401/'>unmerciful</a>"
+index: "<a href='/digital-beehive/index5/index_4405/'>unmerciful</a>"
 item: "#item-2e68f38de"
 unparsed:
 line: 'Entry: Unmercifullness|Topic: Unmercifullness|Xref: Mercy|Xref: 2251 [unmerciful]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Unmercifullness|Topic: Unmercifullness|Xref: Mercy|Xref: 2251 [unm
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/792,2906,2955,625/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528912925107
+sort_value: '206212906'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/792,2906,600,180/250,/0/default.jpg
 label: Unmercifullness

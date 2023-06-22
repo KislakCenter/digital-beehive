@@ -2,8 +2,8 @@
 pid: index_0322
 volume: Volume 3
 image_number: '9'
-head: beetles
-entry: "<a href='/digital-beehive/num5/num_1336/'>1002 [Flies]</a>"
+head: a beau
+entry: 4851 [WORD_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2fb4d1f4d"
+item: "#item-705c20365"
 unparsed:
-line: 'Head: beetles|Entry: 1002 [Flies]|#item-2fb4d1f4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1587,3011,439,140/full/0/default.jpg
+line: 'Head: a beau|Entry: 4851 [WORD_MISSING]|#item-705c20365'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1597,2119,380,72/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531145957524
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891961242
+sort_value: '300932119'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1587,3011,439,140/150,/0/default.jpg
-label: beetles
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1597,2119,380,72/150,/0/default.jpg
+label: a beau
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

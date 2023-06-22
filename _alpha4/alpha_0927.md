@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num2/num_0477/'>392 [Allegiance]</a>|<a href='/digital-beehive/num6/num_1944/'>1368
   [the duties of Subjects]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3897/'>subjects</a>"
+index: "<a href='/digital-beehive/index4/index_3953/'>subjects</a>"
 item: "#item-da31c4125"
 unparsed:
 line: 'Entry: Subjects|Topic: Subjects|Xref: 392 [Allegiance]|Xref: 1368 [the duties
@@ -19,6 +19,7 @@ line: 'Entry: Subjects|Topic: Subjects|Xref: 392 [Allegiance]|Xref: 1368 [the du
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/740,1759,3021,599/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532550978082
+sort_value: '205611759'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/740,1759,600,180/250,/0/default.jpg
 label: Subjects

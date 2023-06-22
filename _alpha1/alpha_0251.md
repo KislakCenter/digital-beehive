@@ -17,6 +17,7 @@ line: 'Entry: Theologia ethnicorum|Topic: Theologia ethnicorum |Index: [NOT_IN_I
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/394,511,3049,314/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558625374070
+sort_value: '145110511'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/394,511,600,180/250,/0/default.jpg
 label: Theologia ethnicorum

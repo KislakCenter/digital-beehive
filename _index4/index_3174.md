@@ -2,8 +2,8 @@
 pid: index_3174
 volume: Volume 3
 image_number: '37'
-head: to prevail
-entry: "<a href='/digital-beehive/num5/num_1365/'>1021 [Prevail]</a>"
+head: procrastination
+entry: 851 [PAGE_MISSING]|<a href='/digital-beehive/num11/num_3562/'>4867 [Procrastination]</a>
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a18169dcf"
+item: "#item-6ecead3bf"
 unparsed:
-line: 'Head: to prevail|Entry: 1021 [Prevail]|#item-a18169dcf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/92,1668,600,161/full/0/default.jpg
+line: 'Head: procrastination|Entry: 851 [PAGE_MISSING]|Entry: 4867 [Procrastination]|#item-6ecead3bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/776,1509,707,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866450482
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868020662
+sort_value: '303721509'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/92,1668,600,161/150,/0/default.jpg
-label: to prevail
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/776,1509,707,159/150,/0/default.jpg
+label: procrastination
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

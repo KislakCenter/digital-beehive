@@ -2,24 +2,25 @@
 pid: index_3018
 volume: Volume 3
 image_number: '35'
-head: plague
-entry:
+head: pipe
+entry: 768 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2964/'>pest</a>"
+see:
 index:
-item: "#item-e91fc13a1"
+item: "#item-25a2b555a"
 unparsed:
-line: 'Head: plague|See: pest|#item-e91fc13a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1482,3039,619,121/full/0/default.jpg
+line: 'Head: pipe|Entry: 768 [PAGE_MISSING]|#item-25a2b555a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1527,1920,432,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977169601
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976729314
+sort_value: '303531920'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1482,3039,619,121/150,/0/default.jpg
-label: plague
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1527,1920,432,116/150,/0/default.jpg
+label: pipe
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

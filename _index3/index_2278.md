@@ -2,8 +2,9 @@
 pid: index_2278
 volume: Volume 3
 image_number: '28'
-head: to lean on
-entry: 825 [PAGE_MISSING]
+head: license
+entry: "<a href='/digital-beehive/num3/num_0719/'>565 [License]</a>|<a href='/digital-beehive/num10/num_3476/'>4489
+  [License]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-295755682"
+item: "#item-a0086caf9"
 unparsed:
-line: 'Head: to lean on|Entry: 825 [PAGE_MISSING]|#item-295755682'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/389,1531,557,97/full/0/default.jpg
+line: 'Head: license|Entry: 565 [License]|Entry: 4489 [License]|#item-a0086caf9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1137,2346,556,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842012711
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846281618
+sort_value: '302822346'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/389,1531,557,97/150,/0/default.jpg
-label: to lean on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1137,2346,556,149/150,/0/default.jpg
+label: license
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_1320
 volume: Volume 3
 image_number: '19'
-head: eunuch
-entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Eunuch]</a>"
+head: evildoers
+entry: "<a href='/digital-beehive/num2/num_0615/'>491 [Evildoers]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b422abbad"
+item: "#item-4f001be21"
 unparsed:
-line: 'Head: eunuch|Entry: 333 [Eunuch]|#item-b422abbad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/844,1590,437,133/full/0/default.jpg
+line: 'Head: evildoers|Entry: 491 [Evildoers]|#item-4f001be21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/822,1493,506,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352113503
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351907489
+sort_value: '301921493'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/844,1590,437,133/150,/0/default.jpg
-label: eunuch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/822,1493,506,138/150,/0/default.jpg
+label: evildoers
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

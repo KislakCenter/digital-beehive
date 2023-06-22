@@ -2,24 +2,25 @@
 pid: index_2288
 volume: Volume 3
 image_number: '28'
-head: learning of beasts
-entry: "<a href='/digital-beehive/num5/num_1341/'>1006 [Learn]</a>"
+head: lightness
+entry: 758 [PAGE_MISSING]
 topic:
 first_letter: L
-page: "<a href='/digital-beehive/toc/toc1_051/'>p.1 [Image 1.61]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1787/'>heaviness</a>"
 index:
-item: "#item-88f6c0d8a"
+item: "#item-e90ef265d"
 unparsed:
-line: 'Head: learning of beasts|Page: p.1 [Image 1.61]|Entry: 1006 [Learn]|#item-88f6c0d8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/360,2056,736,160/full/0/default.jpg
+line: 'Head: lightness|See: heaviness|Entry: 758 [PAGE_MISSING]|#item-e90ef265d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,3379,741,218/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842322796
+annotation_uri: http://dev.llgc.org.uk/annotation/1559847542973
+sort_value: '302823379'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/360,2056,736,160/150,/0/default.jpg
-label: learning of beasts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,3379,741,218/150,/0/default.jpg
+label: lightness
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3704
 volume: Volume 3
 image_number: '43'
-head: singularity
-entry: "<a href='/digital-beehive/num5/num_1515/'>1121 [Singularity]</a>"
+head: sign posts
+entry: "<a href='/digital-beehive/num4/num_1154/'>892 [Mark]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1bd112643"
+item: "#item-8d1ef2515"
 unparsed:
-line: 'Head: singularity|Entry: 1121 [Singularity]|#item-1bd112643'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/825,475,466,113/full/0/default.jpg
+line: 'Head: sign posts|Entry: 892 [Mark]|#item-8d1ef2515'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/196,1044,477,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582876784
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581897732
+sort_value: '304311044'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/825,475,466,113/150,/0/default.jpg
-label: singularity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/196,1044,477,93/150,/0/default.jpg
+label: sign posts
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

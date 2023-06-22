@@ -2,24 +2,25 @@
 pid: index_3287
 volume: Volume 3
 image_number: '38'
-head: purposely
-entry: "<a href='/digital-beehive/num4/num_1183/'>907 [Purposely]</a>"
+head: ram
+entry: "<a href='/digital-beehive/num6/num_2180/'>1479 [Ram]</a>"
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2188/'>lamb</a>"
 index:
-item: "#item-c4ae76f71"
+item: "#item-9cba996fe"
 unparsed:
-line: 'Head: purposely|Entry: 907 [Purposely]|#item-c4ae76f71'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/412,2101,487,169/full/0/default.jpg
+line: 'Head: ram|See: lamb|Entry: 1479 [Ram]|#item-9cba996fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1808,301,757,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452410214
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460310086
+sort_value: '303830301'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/412,2101,487,169/150,/0/default.jpg
-label: purposely
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1808,301,757,156/150,/0/default.jpg
+label: ram
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

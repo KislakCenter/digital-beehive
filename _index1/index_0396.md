@@ -2,8 +2,8 @@
 pid: index_0396
 volume: Volume 3
 image_number: '10'
-head: bladder
-entry: "<a href='/digital-beehive/num3/num_1072/'>723 [Bladder]</a>"
+head: to blot out
+entry: "<a href='/digital-beehive/num3/num_1056/'>717 [To Blot out]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-18473c6ad"
+item: "#item-941390479"
 unparsed:
-line: 'Head: bladder|Entry: 723 [Bladder]|#item-18473c6ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1095,1628,475,114/full/0/default.jpg
+line: 'Head: to blot out|Entry: 717 [To Blot out]|#item-941390479'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1072,3172,506,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531150482426
+annotation_uri: http://dev.llgc.org.uk/annotation/1531151794220
+sort_value: '301023172'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1095,1628,475,114/150,/0/default.jpg
-label: bladder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1072,3172,506,137/150,/0/default.jpg
+label: to blot out
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,26 @@
 pid: index_1843
 volume: Volume 3
 image_number: '24'
-head: hourglass
-entry: "<a href='/digital-beehive/num4/num_1116/'>878 [Hourglass]</a>"
+head: history
+entry: "<a href='/digital-beehive/num1/num_0031/'>31 [History]</a>|<a href='/digital-beehive/num4/num_1329/'>997
+  [History]</a>|<a href='/digital-beehive/num7/num_2674/'>1746 [Chroniclers]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-26ec7f273"
+item: "#item-db16112d7"
 unparsed:
-line: 'Head: hourglass|Page: p.2 [Image 1.62]|Entry: 878 [Hourglass]|#item-26ec7f273'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1837,776,612,156/full/0/default.jpg
+line: 'Head: history|Entry: 31 [History]|Entry: 997 [History]|Entry: 1746 [Chroniclers]|#item-db16112d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/409,3392,621,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586444317
+annotation_uri: http://dev.llgc.org.uk/annotation/1559579953415
+sort_value: '302413392'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1837,776,612,156/150,/0/default.jpg
-label: hourglass
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/409,3392,621,173/150,/0/default.jpg
+label: history
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

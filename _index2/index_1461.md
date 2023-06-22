@@ -2,8 +2,8 @@
 pid: index_1461
 volume: Volume 3
 image_number: '20'
-head: fiction
-entry: "<a href='/digital-beehive/num6/num_2022/'>1405 [Fable]</a>"
+head: first fruits
+entry: "<a href='/digital-beehive/num8/num_2787/'>1902 [First fruits]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ee1bf07b5"
+item: "#item-2a46e9e12"
 unparsed:
-line: 'Head: fiction|Entry: 1405 [Fable]|#item-ee1bf07b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1108,2877,469,146/full/0/default.jpg
+line: 'Head: first fruits|Entry: 1902 [First fruits]|#item-2a46e9e12'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/2180,1526,362,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562598728609
+annotation_uri: http://dev.llgc.org.uk/annotation/1562614399322
+sort_value: '302031526'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1108,2877,469,146/150,/0/default.jpg
-label: fiction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/2180,1526,362,181/150,/0/default.jpg
+label: first fruits
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

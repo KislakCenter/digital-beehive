@@ -2,10 +2,8 @@
 pid: index_2443
 volume: Volume 3
 image_number: '30'
-head: medicine
-entry: "<a href='/digital-beehive/alpha3/alpha_0583/'>a</a>|<a href='/digital-beehive/num3/num_0922/'>665
-  [Medicines]</a>|<a href='/digital-beehive/num7/num_2500/'>1642 [Medicines]</a>|4513
-  [PAGE_MISSING]"
+head: mason
+entry: "<a href='/digital-beehive/num4/num_1182/'>907 [Mason]</a>"
 topic:
 first_letter: M
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-73c833bc9"
+item: "#item-1be11d444"
 unparsed:
-line: 'Head: medicine|Entry: a|Entry: 665 [Medicines]|Entry: 1642 [Medicines]|Entry:
-  4513 [PAGE_MISSING]|#item-73c833bc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1131,205,705,126/full/0/default.jpg
+line: 'Head: mason|Entry: 907 [Mason]|#item-1be11d444'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/408,1541,382,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267222445
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263944771
+sort_value: '303011541'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1131,205,705,126/150,/0/default.jpg
-label: medicine
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/408,1541,382,117/150,/0/default.jpg
+label: mason
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

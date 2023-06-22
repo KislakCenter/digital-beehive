@@ -2,28 +2,29 @@
 pid: index_1131
 volume: Volume 3
 image_number: '17'
-head: drink artificial
-entry: "<a href='/digital-beehive/num3/num_0765/'>590 [artificial Wines]</a>"
+head: door
+entry: "<a href='/digital-beehive/num3/num_0833/'>621 [Door]</a>"
 topic:
 first_letter: D
-page:
-add: "<a href='/digital-beehive/index2/index_1709/'>health</a>"
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+add:
 xref:
 see:
 index:
-item: "#item-882827ccb"
+item: "#item-f12cabe5a"
 unparsed:
-line: 'Head: drink artificial|Entry: 590 [artificial Wines]|Add: health|#item-882827ccb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1460,2379,605,159/full/0/default.jpg
+line: 'Head: door|Page: p.8 [Image 1.68]|Entry: 621 [Door]|#item-f12cabe5a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1459,279,480,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452754384
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367542413
+sort_value: '301730279'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1460,2379,605,159/150,/0/default.jpg
-label: drink artificial
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1459,279,480,139/150,/0/default.jpg
+label: door
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1129'
+order: '1130'
 layout: index_item
 collection: index1
 ---

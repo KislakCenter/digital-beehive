@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0790/'>Regeneration</a>|<a href='/
   href='/digital-beehive/num2/num_0511/'>413 [Infant baptism]</a>|<a href='/digital-beehive/num2/num_0308/'>273
   [Baptism]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0296/'>baptism</a>"
+index: "<a href='/digital-beehive/index1/index_0289/'>baptism</a>"
 item: "#item-b6dca95d2"
 unparsed:
 line: 'Entry: Baptism|Topic: Baptism|Xref: Regeneration|Xref: Washing|Xref: 413 [Infant
@@ -20,6 +20,7 @@ line: 'Entry: Baptism|Topic: Baptism|Xref: Regeneration|Xref: Washing|Xref: 413 
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/355,1655,3066,697/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558807924997
+sort_value: '143511655'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/355,1655,600,180/250,/0/default.jpg
 label: Baptism

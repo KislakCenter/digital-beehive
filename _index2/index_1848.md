@@ -2,26 +2,28 @@
 pid: index_1848
 volume: Volume 3
 image_number: '24'
-head: house of office
-entry: "<a href='/digital-beehive/num3/num_0803/'>607 [Privy house]</a>"
+head: to hit
+entry: "<a href='/digital-beehive/num10/num_3421/'>2444 [To hit]</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0794/'>Conjecture</a>|<a href='/digital-beehive/index4/index_3683/'>Shooting</a>"
 index:
-item: "#item-56a9246b5"
+item: "#item-b288981d0"
 unparsed:
-line: 'Head: house of office|Entry: 607 [Privy house]|#item-56a9246b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1836,969,467,93/full/0/default.jpg
+line: 'Head: to hit|See: Conjecture|See: Shooting|Entry: 2444 [To hit]|#item-b288981d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,438,857,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586630335
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581247857
+sort_value: '302420438'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1836,969,467,93/150,/0/default.jpg
-label: house of office
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,438,857,186/150,/0/default.jpg
+label: to hit
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue:
+issue: Pastorius appears to have written 2244 under this entry. However, he likely
+  meant to write 2444 [To hit].
 insertion_xref:
 order: '667'
 layout: index_item

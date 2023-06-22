@@ -2,9 +2,10 @@
 pid: index_3645
 volume: Volume 3
 image_number: '42'
-head: Self hatred
-entry: "<a href='/digital-beehive/alpha4/alpha_0854/'>a</a>|<a href='/digital-beehive/num4/num_1108/'>874
-  [Self hatred]</a>"
+head: servant & service
+entry: "<a href='/digital-beehive/alpha4/alpha_0863/'>a</a>|<a href='/digital-beehive/num5/num_1698/'>1233
+  [Servants]</a>|<a href='/digital-beehive/num5/num_1699/'>1233 [friendliest office]</a>|4553
+  [PAGE_MISSING]"
 topic:
 first_letter: S
 page:
@@ -12,15 +13,17 @@ add:
 xref:
 see:
 index:
-item: "#item-4c8f5fdf2"
+item: "#item-b3e1eb422"
 unparsed:
-line: 'Head: Self hatred|Entry: a|Entry: 874 [Self hatred]|#item-4c8f5fdf2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/376,1484,695,116/full/0/default.jpg
+line: 'Head: servant & service|Entry: a|Entry: 1233 [Servants]|Entry: 1233 [friendliest
+  office]|Entry: 4553 [PAGE_MISSING]|#item-b3e1eb422'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1104,1078,747,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244498317
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573935178
+sort_value: '304221078'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/376,1484,695,116/150,/0/default.jpg
-label: Self hatred
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1104,1078,747,167/150,/0/default.jpg
+label: servant & service
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

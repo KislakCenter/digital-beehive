@@ -2,24 +2,25 @@
 pid: index_2843
 volume: Volume 3
 image_number: '34'
-head: passage
-entry: "<a href='/digital-beehive/num4/num_1232/'>927 [Passage]</a>"
+head: Ovidius
+entry: 4590 [PAGE_MISSING]
 topic:
-first_letter: P
+first_letter: O
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b86599391"
+item: "#item-23e037706"
 unparsed:
-line: 'Head: passage|Entry: 927 [Passage]|#item-b86599391'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1827,367,505,150/full/0/default.jpg
+line: 'Head: Ovidius|Entry: 4590 [PAGE_MISSING]|#item-23e037706'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/469,1332,534,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494933805
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425319464
+sort_value: '303411332'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1827,367,505,150/150,/0/default.jpg
-label: passage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/469,1332,534,149/150,/0/default.jpg
+label: Ovidius
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

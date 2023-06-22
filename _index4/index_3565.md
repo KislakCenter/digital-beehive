@@ -2,8 +2,8 @@
 pid: index_3565
 volume: Volume 3
 image_number: '41'
-head: sauce
-entry: 4713 [PAGE_MISSING]
+head: scrupulous
+entry: "<a href='/digital-beehive/num4/num_1216/'>918 [Doubtful]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5e9fe7524"
+item: "#item-7c7e33ba9"
 unparsed:
-line: 'Head: sauce|Entry: 4713 [PAGE_MISSING]|#item-5e9fe7524'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/174,2217,452,121/full/0/default.jpg
+line: 'Head: scrupulous|Entry: 918 [Doubtful]|#item-7c7e33ba9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/887,3059,567,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239338378
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241717729
+sort_value: '304123059'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/174,2217,452,121/150,/0/default.jpg
-label: sauce
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/887,3059,567,137/150,/0/default.jpg
+label: scrupulous
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

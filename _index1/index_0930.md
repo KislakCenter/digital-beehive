@@ -2,24 +2,26 @@
 pid: index_0930
 volume: Volume 3
 image_number: '15'
-head: dead
-entry: "<a href='/digital-beehive/num6/num_2141/'>1459 [Dead]</a>"
+head: curse
+entry: "<a href='/digital-beehive/num1/num_0029/'>29 [Curse]</a>|<a href='/digital-beehive/num5/num_1454/'>1078
+  [Curse]</a>"
 topic:
-first_letter: D
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ed6c12c13"
+item: "#item-1e80fb090"
 unparsed:
-line: 'Head: dead|Entry: 1459 [Dead]|#item-ed6c12c13'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1469,2309,405,154/full/0/default.jpg
+line: 'Head: curse|Entry: 29 [Curse]|Entry: 1078 [Curse]|#item-1e80fb090'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1571,260,529,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391716489
+annotation_uri: http://dev.llgc.org.uk/annotation/1539810782980
+sort_value: '301530260'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1469,2309,405,154/150,/0/default.jpg
-label: dead
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1571,260,529,129/150,/0/default.jpg
+label: curse
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,28 @@
 pid: index_2343
 volume: Volume 3
 image_number: '29'
-head: malediction
-entry: "<a href='/digital-beehive/alpha3/alpha_0571/'>a</a>"
+head: love of our neighbour
+entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>|<a href='/digital-beehive/num5/num_1456/'>1079
+  [Love of Neighbours]</a>|<a href='/digital-beehive/num10/num_3425/'>4447 [Love of
+  Neighbours]</a>"
 topic:
-first_letter: M
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-733efa96c"
+item: "#item-ec9e131c5"
 unparsed:
-line: 'Head: malediction|Entry: a|#item-733efa96c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1546,802,491,99/full/0/default.jpg
+line: 'Head: love of our neighbour|Entry: a|Entry: 1079 [Love of Neighbours]|Entry:
+  4447 [Love of Neighbours]|#item-ec9e131c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/174,2226,673,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194090884
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179385665
+sort_value: '302912226'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1546,802,491,99/150,/0/default.jpg
-label: malediction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/174,2226,673,133/150,/0/default.jpg
+label: love of our neighbour
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,9 @@
 pid: index_3345
 volume: Volume 3
 image_number: '39'
-head: remora
-entry: "<a href='/digital-beehive/num7/num_2282/'>1534 [Remora]</a>"
+head: rejuvenescency
+entry: "<a href='/digital-beehive/num6/num_1741/'>1255 [To grow young again]</a>|<a
+  href='/digital-beehive/num9/num_3091/'>2150 [To grow young again]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +12,17 @@ add:
 xref:
 see:
 index:
-item: "#item-d94179e6a"
+item: "#item-fc4cfd34e"
 unparsed:
-line: 'Head: remora|Entry: 1534 [Remora]|#item-d94179e6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/767,1050,562,149/full/0/default.jpg
+line: 'Head: rejuvenescency|Entry: 1255 [To grow young again]|Entry: 2150 [To grow
+  young again]|#item-fc4cfd34e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/117,2663,731,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469002263
+annotation_uri: http://dev.llgc.org.uk/annotation/1558465164622
+sort_value: '303912663'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/767,1050,562,149/150,/0/default.jpg
-label: remora
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/117,2663,731,129/150,/0/default.jpg
+label: rejuvenescency
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

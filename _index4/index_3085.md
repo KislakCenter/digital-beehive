@@ -17,6 +17,7 @@ line: 'Head: possibility|Entry: a|Entry: 1862 [PAGE_MISSING]|#item-f70e07457'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1157,1727,674,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1548438829668
+sort_value: '303621727'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1157,1727,674,190/150,/0/default.jpg
 label: possibility

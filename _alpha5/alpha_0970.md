@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0003/'>abundance</a>|<a href='/digital-beehive/alpha4/alpha_0933/'>Superfluity</a>|815
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index5/index_4212/'>too much</a>"
+index: "<a href='/digital-beehive/index5/index_4181/'>too much</a>"
 item: "#item-5b4f65a9f"
 unparsed:
 line: 'Entry: Too much|Topic: Too much|Xref: abundance|Xref: Superfluity|Xref: 815
@@ -19,6 +19,7 @@ line: 'Entry: Too much|Topic: Too much|Xref: abundance|Xref: Superfluity|Xref: 8
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/344,2948,3001,585/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529521320309
+sort_value: '205912948'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/344,2948,600,180/250,/0/default.jpg
 label: Too much

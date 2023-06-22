@@ -2,8 +2,8 @@
 pid: index_2113
 volume: Volume 3
 image_number: '26'
-head: Ireland
-entry: "<a href='/digital-beehive/num7/num_2216/'>1502 [Ireland]</a>"
+head: joy after sorrow
+entry: "<a href='/digital-beehive/num1/num_0004/'>4 [After Sowre comes the Sweet]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6223b1816"
+item: "#item-7e0aa4c3f"
 unparsed:
-line: 'Head: Ireland|Entry: 1502 [Ireland]|#item-6223b1816'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,3379,454,121/full/0/default.jpg
+line: 'Head: joy after sorrow|Entry: 4 [After Sowre comes the Sweet]|#item-7e0aa4c3f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1837,3125,521,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754861021
+annotation_uri: http://dev.llgc.org.uk/annotation/1559754720433
+sort_value: '302633125'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,3379,454,121/150,/0/default.jpg
-label: Ireland
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1837,3125,521,143/150,/0/default.jpg
+label: joy after sorrow
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

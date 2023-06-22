@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/num1/num_0047/'>47 [Try & Prove all things]</a>
   [PAGE_MISSING; argument]|783 [[PAGE_MISSING], Argument, trial or essay]|essay|<a
   href='/digital-beehive/num2/num_0609/'>487 [Proof, Try all]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3134/'>proof, or trial</a>"
+index: "<a href='/digital-beehive/index4/index_3191/'>proof, or trial</a>"
 item: "#item-46d52871a"
 unparsed:
 line: 'Entry: Proof|Topic: Proof|Xref: 47 [Try & Prove all things]|Xref: 783 [PAGE_MISSING;
@@ -21,6 +21,7 @@ line: 'Entry: Proof|Topic: Proof|Xref: 47 [Try & Prove all things]|Xref: 783 [PA
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/319,4555,3077,536/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565100973642
+sort_value: '204314555'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/319,4555,600,180/250,/0/default.jpg
 label: Proof

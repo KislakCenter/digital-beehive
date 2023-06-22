@@ -2,8 +2,8 @@
 pid: index_2440
 volume: Volume 3
 image_number: '30'
-head: mint
-entry: "<a href='/digital-beehive/num3/num_0964/'>683 [Mint]</a>"
+head: Maryland
+entry: "<a href='/digital-beehive/num7/num_2253/'>1521 [Maryland]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b1748491c"
+item: "#item-f58ffa3ec"
 unparsed:
-line: 'Head: mint|Entry: 683 [Mint]|#item-b1748491c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,3095,328,94/full/0/default.jpg
+line: 'Head: Maryland|Entry: 1521 [Maryland]|#item-f58ffa3ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/413,1313,492,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274880582
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263756470
+sort_value: '303011313'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,3095,328,94/150,/0/default.jpg
-label: mint
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/413,1313,492,132/150,/0/default.jpg
+label: Maryland
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

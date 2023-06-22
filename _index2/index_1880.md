@@ -2,24 +2,25 @@
 pid: index_1880
 volume: Volume 3
 image_number: '24'
-head: highminded
-entry: "<a href='/digital-beehive/num5/num_1677/'>1224 [Insolence]</a>"
+head: hospitality
+entry: "<a href='/digital-beehive/alpha2/alpha_0436/'>a</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1798/'>haughty</a>"
+see:
 index:
-item: "#item-5f895a4c7"
+item: "#item-a0f35d184"
 unparsed:
-line: 'Head: highminded|See: haughty|Entry: 1224 [Insolence]|#item-5f895a4c7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,2185,719,189/full/0/default.jpg
+line: 'Head: hospitality|Entry: a|#item-a0f35d184'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,3522,468,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576820697
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584684762
+sort_value: '302423522'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,2185,719,189/150,/0/default.jpg
-label: highminded
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,3522,468,173/150,/0/default.jpg
+label: hospitality
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

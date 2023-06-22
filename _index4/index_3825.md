@@ -2,8 +2,8 @@
 pid: index_3825
 volume: Volume 3
 image_number: '44'
-head: spleen
-entry: "<a href='/digital-beehive/num3/num_0773/'>595 [Liver]</a>"
+head: species
+entry: "<a href='/digital-beehive/num9/num_2975/'>2041 [Sort : genus & Species]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-384cf85f8"
+item: "#item-469ae18ae"
 unparsed:
-line: 'Head: spleen|Entry: 595 [Liver]|#item-384cf85f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1830,882,404,102/full/0/default.jpg
+line: 'Head: species|Entry: 2041 [Sort : genus & Species]|#item-469ae18ae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1115,774,405,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530104492005
+annotation_uri: http://dev.llgc.org.uk/annotation/1529788736820
+sort_value: '304420774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1830,882,404,102/150,/0/default.jpg
-label: spleen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1115,774,405,76/150,/0/default.jpg
+label: species
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

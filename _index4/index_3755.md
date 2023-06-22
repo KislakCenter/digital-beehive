@@ -2,8 +2,8 @@
 pid: index_3755
 volume: Volume 3
 image_number: '43'
-head: simples
-entry: "<a href='/digital-beehive/num3/num_0999/'>695 [Simples]</a>"
+head: sloven
+entry: "<a href='/digital-beehive/num9/num_3192/'>2246 [Slovenry or Slovenliness]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f95d97397"
+item: "#item-f7fc39c70"
 unparsed:
-line: 'Head: simples|Entry: 695 [Simples]|#item-f95d97397'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,2328,457,144/full/0/default.jpg
+line: 'Head: sloven|Entry: 2246 [Slovenry or Slovenliness]|#item-f7fc39c70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/906,2849,471,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582354044
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584800377
+sort_value: '304322849'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,2328,457,144/150,/0/default.jpg
-label: simples
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/906,2849,471,122/150,/0/default.jpg
+label: sloven
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

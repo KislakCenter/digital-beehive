@@ -2,28 +2,29 @@
 pid: index_4429
 volume: Volume 3
 image_number: '51'
-head: walks. spatzieren
-entry: "<a href='/digital-beehive/num6/num_2104/'>1441 [Walks : walking places]</a>"
+head: voluptuousness
+entry: "<a href='/digital-beehive/num1/num_0198/'>189 [Luxury]</a>"
 topic:
-first_letter: W
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-13176ba53"
+item: "#item-72163b60d"
 unparsed:
-line: 'Head: walks. spatzieren|Entry: 1441 [Walks : walking places]|#item-13176ba53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1636,1055,670,170/full/0/default.jpg
+line: 'Head: voluptuousness|Entry: 189 [Luxury]|#item-72163b60d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/214,3042,652,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647744045
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645974335
+sort_value: '305113042'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1636,1055,670,170/150,/0/default.jpg
-label: walks. spatzieren
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/214,3042,652,180/150,/0/default.jpg
+label: voluptuousness
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '392'
+order: '391'
 layout: index_item
 collection: index5
 ---

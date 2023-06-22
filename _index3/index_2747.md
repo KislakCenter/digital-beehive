@@ -2,8 +2,8 @@
 pid: index_2747
 volume: Volume 3
 image_number: '33'
-head: now & then
-entry: "<a href='/digital-beehive/num4/num_1085/'>867 [Sometimes]</a>"
+head: number
+entry: "<a href='/digital-beehive/num2/num_0292/'>262 [Number]</a>"
 topic:
 first_letter: N
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-9f4251c8f"
+item: "#item-c9e611391"
 unparsed:
-line: 'Head: now & then|Entry: 867 [Sometimes]|#item-9f4251c8f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/139,307,580,173/full/0/default.jpg
+line: 'Head: number|Entry: 262 [Number]|#item-c9e611391'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/158,620,545,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536346349127
+annotation_uri: http://dev.llgc.org.uk/annotation/1536346407531
+sort_value: '303310620'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/139,307,580,173/150,/0/default.jpg
-label: now & then
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/158,620,545,152/150,/0/default.jpg
+label: number
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '827'
+order: '829'
 layout: index_item
 collection: index3
 ---

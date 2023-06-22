@@ -2,8 +2,8 @@
 pid: index_2695
 volume: Volume 3
 image_number: '32'
-head: new England
-entry: 766 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2257/'>1523 [New England]</a>
+head: newfoundland
+entry: "<a href='/digital-beehive/num7/num_2255/'>1522 [Newfound-land]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-29744158d"
+item: "#item-90032e7a0"
 unparsed:
-line: 'Head: new England|Entry: 766 [PAGE_MISSING]|Entry: 1523 [New England]|#item-29744158d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,1715,647,142/full/0/default.jpg
+line: 'Head: newfoundland|Entry: 1522 [Newfound-land]|#item-90032e7a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1135,1828,577,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442425031
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442479976
+sort_value: '303221828'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,1715,647,142/150,/0/default.jpg
-label: new England
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1135,1828,577,128/150,/0/default.jpg
+label: newfoundland
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

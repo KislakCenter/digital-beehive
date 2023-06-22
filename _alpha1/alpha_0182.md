@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0951/'>Old Testamt</a>|<a href='/digital-beehive/alpha5/alpha_0952/'>New
   Testamt</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0881/'>covenant</a>"
+index: "<a href='/digital-beehive/index1/index_0866/'>covenant</a>"
 item: "#item-4506d1ee4"
 unparsed:
 line: 'Entry: Covenant|Topic: Covenant|Xref: Old Testamt|Xref: New Testamt|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Covenant|Topic: Covenant|Xref: Old Testamt|Xref: New Testamt|Index
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0444/341,936,3065,236/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0444/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563906423848
+sort_value: '144510936'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0444/341,936,600,180/250,/0/default.jpg
 label: Covenant

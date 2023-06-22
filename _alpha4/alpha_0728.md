@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0353/'>309 [Prayers]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3064/'>prayers & Lords prayer</a>"
+index: "<a href='/digital-beehive/index4/index_3110/'>prayers & Lords prayer</a>"
 item: "#item-b22d5204b"
 unparsed:
 line: 'Entry: Prayers|Topic: Prayers|Xref: 309 [Prayers]|Index: prayers & Lords prayer|#item-b22d5204b'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/860,221,2969,501/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528375657664
+sort_value: '204210221'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/860,221,600,180/250,/0/default.jpg
 label: Prayers

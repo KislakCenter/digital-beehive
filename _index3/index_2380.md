@@ -2,8 +2,8 @@
 pid: index_2380
 volume: Volume 3
 image_number: '29'
-head: manstealing
-entry: "<a href='/digital-beehive/num3/num_0787/'>600 [Manstealing]</a>"
+head: magna Charta
+entry: "<a href='/digital-beehive/num3/num_0861/'>635 [Great Charter of England]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7564d5b3c"
+item: "#item-bd6ad6f2e"
 unparsed:
-line: 'Head: manstealing|Entry: 600 [Manstealing]|#item-7564d5b3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,2092,565,144/full/0/default.jpg
+line: 'Head: magna Charta|Entry: 635 [Great Charter of England]|#item-bd6ad6f2e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2482,610,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195802411
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186860898
+sort_value: '302922482'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,2092,565,144/150,/0/default.jpg
-label: manstealing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2482,610,163/150,/0/default.jpg
+label: magna Charta
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

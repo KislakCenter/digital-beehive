@@ -2,8 +2,8 @@
 pid: index_0202
 volume: Volume 3
 image_number: '8'
-head: anonymous
-entry: "<a href='/digital-beehive/num2/num_0291/'>262 [Anonymous or Nameless]</a>"
+head: aristaenetus
+entry: "<a href='/digital-beehive/num11/num_3499/'>4805 [Arist[ae]netus]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-de81dd212"
+item: "#item-09d66c045"
 unparsed:
-line: 'Head: anonymous|Entry: 262 [Anonymous or Nameless]|#item-de81dd212'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/373,2306,526,110/full/0/default.jpg
+line: 'Head: aristaenetus|Entry: 4805 [Arist[ae]netus]|#item-09d66c045'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1816,440,605,74/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758994814
+annotation_uri: http://dev.llgc.org.uk/annotation/1491248304075
+sort_value: '300830440'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/373,2306,526,110/150,/0/default.jpg
-label: anonymous
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1816,440,605,74/150,/0/default.jpg
+label: aristaenetus
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

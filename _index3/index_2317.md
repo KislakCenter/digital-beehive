@@ -2,24 +2,25 @@
 pid: index_2317
 volume: Volume 3
 image_number: '28'
-head: lightness
-entry: 758 [PAGE_MISSING]
+head: loathing
+entry: 779 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1743/'>heaviness</a>"
+see:
 index:
-item: "#item-e90ef265d"
+item: "#item-326382182"
 unparsed:
-line: 'Head: lightness|See: heaviness|Entry: 758 [PAGE_MISSING]|#item-e90ef265d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,3379,741,218/full/0/default.jpg
+line: 'Head: loathing|Entry: 779 [PAGE_MISSING]|#item-326382182'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1806,2892,480,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847542973
+annotation_uri: http://dev.llgc.org.uk/annotation/1559850111967
+sort_value: '302832892'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,3379,741,218/150,/0/default.jpg
-label: lightness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1806,2892,480,177/150,/0/default.jpg
+label: loathing
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

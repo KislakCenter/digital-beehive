@@ -2,24 +2,26 @@
 pid: index_2021
 volume: Volume 3
 image_number: '26'
-head: insects
-entry: 792 [PAGE_MISSING]
+head: indifferency
+entry: "<a href='/digital-beehive/num1/num_0184/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
 topic:
 first_letter: I/J
 page:
-add:
+add: "<a href='/digital-beehive/index1/index_0042/'>adiaph</a>"
 xref:
 see:
 index:
-item: "#item-10d020022"
+item: "#item-b6ea78923"
 unparsed:
-line: 'Head: insects|Entry: 792 [PAGE_MISSING]|#item-10d020022'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,896,384,135/full/0/default.jpg
+line: 'Head: indifferency|Entry: 176 [Indifferency]|Entry: 1850 [PAGE_MISSING]|Add:
+  adiaph|#item-b6ea78923'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/439,229,825,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747407769
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674225380
+sort_value: '302610229'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,896,384,135/150,/0/default.jpg
-label: insects
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/439,229,825,179/150,/0/default.jpg
+label: indifferency
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

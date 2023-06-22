@@ -2,24 +2,25 @@
 pid: index_1366
 volume: Volume 3
 image_number: '19'
-head: estrich
-entry:
+head: extraordinary
+entry: "<a href='/digital-beehive/num4/num_1155/'>893 [Extraordinary]</a>"
 topic:
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0380/'>Birds</a>"
+see:
 index:
-item: "#item-91c8116df"
+item: "#item-ed6e953a1"
 unparsed:
-line: 'Head: estrich|Page: p.35 [Image 1.95]|See: Birds|#item-91c8116df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/118,3424,692,162/full/0/default.jpg
+line: 'Head: extraordinary|Entry: 893 [Extraordinary]|#item-ed6e953a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1525,2975,588,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560348725465
+annotation_uri: http://dev.llgc.org.uk/annotation/1561397120235
+sort_value: '301932975'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/118,3424,692,162/150,/0/default.jpg
-label: estrich
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1525,2975,588,135/150,/0/default.jpg
+label: extraordinary
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

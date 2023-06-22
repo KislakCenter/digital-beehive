@@ -2,27 +2,28 @@
 pid: index_0590
 volume: Volume 3
 image_number: '12'
-head: censure
+head: "[:22.]"
 entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4653/'>Zoilus</a>"
+see:
 index:
-item: "#item-5b42a131b"
-unparsed:
-line: 'Head: censure|See: Zoilus|#item-5b42a131b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1139,1451,541,131/full/0/default.jpg
+item: "#item-6e8c2ccdb"
+unparsed: 'Type: Index|Insertion Xref: [:22.]|#item-6e8c2ccdb'
+line: 'Type: Index|Insertion Xref: [:22.]|#item-6e8c2ccdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1637,2394,178,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532099374868
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275549500
+sort_value: '301222394'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1139,1451,541,131/150,/0/default.jpg
-label: censure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1637,2394,178,157/150,/0/default.jpg
+label: "[:22.]"
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4687/'>Chalk</a>"
 order: '0589'
 layout: index_item
 collection: index1

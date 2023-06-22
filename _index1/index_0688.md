@@ -2,8 +2,8 @@
 pid: index_0688
 volume: Volume 3
 image_number: '13'
-head: church yard
-entry: "<a href='/digital-beehive/num11/num_3503/'>4809 [Church yard]</a>"
+head: to cleave
+entry: 842 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-556b5479c"
+item: "#item-539e45529"
 unparsed:
-line: 'Head: church yard|Entry: 4809 [Church yard]|#item-556b5479c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/142,1513,449,114/full/0/default.jpg
+line: 'Head: to cleave|Entry: 842 [PAGE_MISSING]|#item-539e45529'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/843,231,565,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619915780
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333876352
+sort_value: '301320231'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/142,1513,449,114/150,/0/default.jpg
-label: church yard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/843,231,565,109/150,/0/default.jpg
+label: to cleave
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

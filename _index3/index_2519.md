@@ -2,24 +2,26 @@
 pid: index_2519
 volume: Volume 3
 image_number: '30'
-head: minority
-entry: "<a href='/digital-beehive/num4/num_1279/'>959 [Guardian]</a>"
+head: mind
+entry: "<a href='/digital-beehive/alpha3/alpha_0597/'>a</a>|<a href='/digital-beehive/num7/num_2452/'>1620
+  [Mind]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1763/'>guardians</a>"
+see:
 index:
-item: "#item-ad4e76e35"
+item: "#item-4e54db0a0"
 unparsed:
-line: 'Head: minority|See: guardians|Entry: 959 [Guardian]|#item-ad4e76e35'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1832,2951,657,184/full/0/default.jpg
+line: 'Head: mind|Entry: a|Entry: 1620 [Mind]|#item-4e54db0a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1810,2149,500,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274832070
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274271545
+sort_value: '303032149'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1832,2951,657,184/150,/0/default.jpg
-label: minority
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1810,2149,500,109/150,/0/default.jpg
+label: mind
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

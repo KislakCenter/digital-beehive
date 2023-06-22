@@ -2,8 +2,9 @@
 pid: index_3326
 volume: Volume 3
 image_number: '39'
-head: remark
-entry: "<a href='/digital-beehive/num6/num_2166/'>1472 [Remarkable]</a>"
+head: red
+entry: "<a href='/digital-beehive/alpha5/num_1893/'>a</a>|<a href='/digital-beehive/num6/num_1893/'>1343
+  [Red-(:hair:)face]</a>"
 topic:
 first_letter: R
 page:
@@ -11,17 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ecd8cc9bc"
+item: "#item-b4d6d5268"
 unparsed:
-line: 'Head: remark|Entry: 1472 [Remarkable]|#item-ecd8cc9bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/769,386,611,140/full/0/default.jpg
+line: 'Head: red|Entry: a|Entry: 1343 [Red-(:hair:)face]|#item-b4d6d5268'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/154,778,426,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468851053
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463321815
+sort_value: '303910778'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/769,386,611,140/150,/0/default.jpg
-label: remark
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/154,778,426,124/150,/0/default.jpg
+label: red
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue:
+issue: Pastorius lists "a" but no alphabetical entry can be identified.
 insertion_xref:
 order: '0574'
 layout: index_item

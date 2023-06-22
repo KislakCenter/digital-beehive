@@ -2,24 +2,26 @@
 pid: index_3126
 volume: Volume 3
 image_number: '36'
-head: pomegranate
-entry: 4667 [PAGE_MISSING]
+head: preparation
+entry: "<a href='/digital-beehive/num3/num_0862/'>636 [Preparation]</a>|<a href='/digital-beehive/num5/num_1637/'>1201
+  [Preparation]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-7655f7350"
+item: "#item-7966d1100"
 unparsed:
-line: 'Head: pomegranate|Page: p.33 [Image 1.93]|Entry: 4667 [PAGE_MISSING]|#item-7655f7350'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/405,3336,787,138/full/0/default.jpg
+line: 'Head: preparation|Entry: 636 [Preparation]|Entry: 1201 [Preparation]|#item-7966d1100'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1848,2774,721,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438113398
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440792953
+sort_value: '303632774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/405,3336,787,138/150,/0/default.jpg
-label: pomegranate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1848,2774,721,137/150,/0/default.jpg
+label: preparation
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_1899
 volume: Volume 3
 image_number: '24'
-head: hinges
-entry: "<a href='/digital-beehive/num7/num_2676/'>1748 [Hinges]</a>"
+head: to humble
+entry: "<a href='/digital-beehive/num6/num_1862/'>1326 [debase]</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8bab85db1"
+item: "#item-1761e56ed"
 unparsed:
-line: 'Head: hinges|Entry: 1748 [Hinges]|#item-8bab85db1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/406,2849,447,178/full/0/default.jpg
+line: 'Head: to humble|Entry: 1326 [debase]|#item-1761e56ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1820,1720,567,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577474176
+annotation_uri: http://dev.llgc.org.uk/annotation/1559587304273
+sort_value: '302431720'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/406,2849,447,178/150,/0/default.jpg
-label: hinges
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1820,1720,567,109/150,/0/default.jpg
+label: to humble
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

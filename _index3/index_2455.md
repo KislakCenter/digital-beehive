@@ -2,26 +2,27 @@
 pid: index_2455
 volume: Volume 3
 image_number: '30'
-head: metaphysicks
-entry: "<a href='/digital-beehive/alpha3/alpha_0593/'>a</a>"
+head: meadow
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2914/'>pasture</a>"
 index:
-item: "#item-37b2da10d"
+item: "#item-dcfece0f8"
 unparsed:
-line: 'Head: metaphysicks|Entry: a|#item-37b2da10d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,539,506,147/full/0/default.jpg
+line: 'Head: meadow|See: pasture|#item-dcfece0f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/387,2613,760,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273473683
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265579534
+sort_value: '303012613'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,539,506,147/150,/0/default.jpg
-label: metaphysicks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/387,2613,760,165/150,/0/default.jpg
+label: meadow
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue:
+issue: The meaning of "It. field" cannot be determined.
 insertion_xref:
 order: '537'
 layout: index_item

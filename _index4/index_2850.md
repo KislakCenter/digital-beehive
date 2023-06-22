@@ -2,24 +2,25 @@
 pid: index_2850
 volume: Volume 3
 image_number: '34'
-head: ostentation
-entry:
+head: to own
+entry: "<a href='/digital-beehive/num2/num_0321/'>284 [To own]</a>"
 topic:
 first_letter: O
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3054/'>praise</a>"
+see:
 index:
-item: "#item-1cea55a91"
+item: "#item-074920651"
 unparsed:
-line: 'Head: ostentation|See: praise|#item-1cea55a91'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/458,540,791,193/full/0/default.jpg
+line: 'Head: to own|Entry: 284 [To own]|#item-074920651'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/456,2060,518,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425021091
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425625090
+sort_value: '303412060'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/458,540,791,193/150,/0/default.jpg
-label: ostentation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/456,2060,518,136/150,/0/default.jpg
+label: to own
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

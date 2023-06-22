@@ -2,24 +2,25 @@
 pid: index_1264
 volume: Volume 3
 image_number: '18'
-head: embl. Recreations
-entry:
+head: to enlarge
+entry: "<a href='/digital-beehive/num3/num_1041/'>712 [To Enlarge]</a>"
 topic:
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_075/'>p.25 [Image 1.85]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-7c4a27ae8"
+item: "#item-adde9e7a4"
 unparsed:
-line: 'Head: embl. Recreations|Page: p.25 [Image 1.85]|#item-7c4a27ae8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1138,3200,760,127/full/0/default.jpg
+line: 'Head: to enlarge|Entry: 712 [To Enlarge]|#item-adde9e7a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1826,2349,528,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559743932805
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835163461
+sort_value: '301832349'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1138,3200,760,127/150,/0/default.jpg
-label: embl. Recreations
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1826,2349,528,151/150,/0/default.jpg
+label: to enlarge
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0340
 volume: Volume 3
 image_number: '10'
-head: bile
-entry: "<a href='/digital-beehive/num3/num_0784/'>599 [Bile]</a>"
+head: behalf
+entry: "<a href='/digital-beehive/num6/num_2131/'>1454 [In my Behalf]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5e827e4af"
+item: "#item-c253864f9"
 unparsed:
-line: 'Head: bile|Entry: 599 [Bile]|#item-5e827e4af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1084,635,329,125/full/0/default.jpg
+line: 'Head: behalf|Entry: 1454 [In my Behalf]|#item-c253864f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/398,356,390,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531149370542
+annotation_uri: http://dev.llgc.org.uk/annotation/1531146594442
+sort_value: '301010356'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1084,635,329,125/150,/0/default.jpg
-label: bile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/398,356,390,126/150,/0/default.jpg
+label: behalf
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

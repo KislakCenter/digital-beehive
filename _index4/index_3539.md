@@ -2,24 +2,25 @@
 pid: index_3539
 volume: Volume 3
 image_number: '41'
-head: Samson
-entry: "<a href='/digital-beehive/num7/num_2341/'>1565 [Samson]</a>"
+head: Scare Crow
+entry:
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-afa828d60"
+item: "#item-695a913cc"
 unparsed:
-line: 'Head: Samson|Entry: 1565 [Samson]|#item-afa828d60'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/133,1367,461,129/full/0/default.jpg
+line: 'Head: Scare Crow|Page: p.39 [Image 1.99]|#item-695a913cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/847,241,523,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238922101
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240189993
+sort_value: '304120241'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/133,1367,461,129/150,/0/default.jpg
-label: Samson
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/847,241,523,155/150,/0/default.jpg
+label: Scare Crow
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

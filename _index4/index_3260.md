@@ -2,24 +2,25 @@
 pid: index_3260
 volume: Volume 3
 image_number: '38'
-head: punning
-entry: 4569 [PAGE_MISSING]
+head: quickly
+entry: 843 [PAGE_MISSING]
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-146f7f94a"
+item: "#item-37d142e04"
 unparsed:
-line: 'Head: punning|Entry: 4569 [PAGE_MISSING]|#item-146f7f94a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/424,1255,600,115/full/0/default.jpg
+line: 'Head: quickly|Entry: 843 [PAGE_MISSING]|#item-37d142e04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1163,855,429,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452109875
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455124959
+sort_value: '303820855'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/424,1255,600,115/150,/0/default.jpg
-label: punning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1163,855,429,144/150,/0/default.jpg
+label: quickly
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

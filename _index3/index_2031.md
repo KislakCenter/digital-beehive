@@ -2,8 +2,8 @@
 pid: index_2031
 volume: Volume 3
 image_number: '26'
-head: indued
-entry: "<a href='/digital-beehive/num2/num_0544/'>440 [Qualities]</a>"
+head: infant killing
+entry: "<a href='/digital-beehive/alpha3/alpha_0474/'>a</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-61c23b957"
+item: "#item-a73f077c1"
 unparsed:
-line: 'Head: indued|Entry: 440 [Qualities]|#item-61c23b957'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/404,354,488,120/full/0/default.jpg
+line: 'Head: infant killing|Entry: a|#item-a73f077c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/440,1275,469,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674327846
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744168230
+sort_value: '302611275'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/404,354,488,120/150,/0/default.jpg
-label: indued
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/440,1275,469,173/150,/0/default.jpg
+label: infant killing
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

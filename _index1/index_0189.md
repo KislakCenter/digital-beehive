@@ -2,8 +2,8 @@
 pid: index_0189
 volume: Volume 3
 image_number: '8'
-head: anguilla
-entry: "<a href='/digital-beehive/num7/num_2241/'>1515 [Anguilla]</a>"
+head: approaching to God
+entry: "<a href='/digital-beehive/num10/num_3366/'>2394 [Coming to God]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e432c03ce"
+item: "#item-f97218aec"
 unparsed:
-line: 'Head: anguilla|Entry: 1515 [Anguilla]|#item-e432c03ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/376,1881,500,125/full/0/default.jpg
+line: 'Head: approaching to God|Entry: 2394 [Coming to God]|#item-f97218aec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1104,2583,545,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758623187
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760955645
+sort_value: '300822583'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/376,1881,500,125/150,/0/default.jpg
-label: anguilla
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1104,2583,545,110/150,/0/default.jpg
+label: approaching to God
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

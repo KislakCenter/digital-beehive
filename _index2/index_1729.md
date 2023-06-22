@@ -2,24 +2,26 @@
 pid: index_1729
 volume: Volume 3
 image_number: '23'
-head: heathens moderation
-entry: "<a href='/digital-beehive/num6/num_1870/'>1331 [Moderation]</a>"
+head: guilt
+entry: "<a href='/digital-beehive/alpha2/alpha_0393/'>a</a>|<a href='/digital-beehive/num7/num_2451/'>1620
+  [Guilt]</a>"
 topic:
-first_letter: H
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-cd713d5ad"
+item: "#item-d6e42b014"
 unparsed:
-line: 'Head: heathens moderation|Entry: 1331 [Moderation]|#item-cd713d5ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1540,1056,614,85/full/0/default.jpg
+line: 'Head: guilt|Entry: a|Entry: 1620 [Guilt]|#item-d6e42b014'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/141,2781,455,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244247654
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233349172
+sort_value: '302312781'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1540,1056,614,85/150,/0/default.jpg
-label: heathens moderation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/141,2781,455,126/150,/0/default.jpg
+label: guilt
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

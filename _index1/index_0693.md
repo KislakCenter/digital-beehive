@@ -2,9 +2,8 @@
 pid: index_0693
 volume: Volume 3
 image_number: '13'
-head: coming of Christ
-entry: "<a href='/digital-beehive/alpha1/alpha_0160/'>a</a>|<a href='/digital-beehive/num5/num_1401/'>1047
-  [Coming of God and Christ]</a>"
+head: clerk
+entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
 topic:
 first_letter: C
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2bc6e46cc"
+item: "#item-b6f5abb5c"
 unparsed:
-line: 'Head: coming of Christ|Entry: a|Entry: 1047 [Coming of God and Christ]|#item-2bc6e46cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1546,1660,729,116/full/0/default.jpg
+line: 'Head: clerk|Entry: 260 [Scribe or publick Notary]|#item-b6f5abb5c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/850,805,416,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610988826
+annotation_uri: http://dev.llgc.org.uk/annotation/1536334214371
+sort_value: '301320805'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1546,1660,729,116/150,/0/default.jpg
-label: coming of Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/850,805,416,123/150,/0/default.jpg
+label: clerk
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

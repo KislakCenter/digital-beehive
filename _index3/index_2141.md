@@ -2,24 +2,25 @@
 pid: index_2141
 volume: Volume 3
 image_number: '27'
-head: issue
-entry:
+head: jury
+entry: "<a href='/digital-beehive/num3/num_0699/'>552 [Juries]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1514/'>fontanell</a>"
+see:
 index:
-item: "#item-9bf1f7ca7"
+item: "#item-3913f6251"
 unparsed:
-line: 'Head: issue|See: fontanell|#item-9bf1f7ca7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/141,900,550,120/full/0/default.jpg
+line: 'Head: jury|Entry: 552 [Juries]|#item-3913f6251'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/141,2423,347,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756799204
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758753039
+sort_value: '302712423'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/141,900,550,120/150,/0/default.jpg
-label: issue
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/141,2423,347,116/150,/0/default.jpg
+label: jury
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

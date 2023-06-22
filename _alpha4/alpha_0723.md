@@ -18,6 +18,7 @@ line: 'Entry: Possibility|Topic: Possibility|Xref: Imposs|Xref: 1862 [PAGE_MISSI
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/337,2950,3042,478/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528373999122
+sort_value: '204112950'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/337,2950,600,180/250,/0/default.jpg
 label: Possibility

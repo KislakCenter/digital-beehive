@@ -2,24 +2,26 @@
 pid: index_0395
 volume: Volume 3
 image_number: '10'
-head: books for the fire
-entry: "<a href='/digital-beehive/num11/num_3539/'>4844 [Vain Books]</a>"
+head: bloodletting
+entry: "<a href='/digital-beehive/alpha1/alpha_0090/'>a</a>|<a href='/digital-beehive/num9/num_3099/'>2158
+  [Blood-letting]</a>"
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-3418a1272"
+item: "#item-a3b318268"
 unparsed:
-line: 'Head: books for the fire|Page: p.62 [Image 1.129]|Entry: 4844 [Vain Books]|#item-3418a1272'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1797,1625,691,135/full/0/default.jpg
+line: 'Head: bloodletting|Entry: a|Entry: 2158 [Blood-letting]|#item-a3b318268'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1091,3010,659,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531154558434
+annotation_uri: http://dev.llgc.org.uk/annotation/1531151727886
+sort_value: '301023010'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1797,1625,691,135/150,/0/default.jpg
-label: books for the fire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1091,3010,659,189/150,/0/default.jpg
+label: bloodletting
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_2813
 volume: Volume 3
 image_number: '33'
-head: once
-entry: "<a href='/digital-beehive/num10/num_3455/'>4470 [Once]</a>"
+head: optick
+entry: "<a href='/digital-beehive/num7/num_2493/'>1639 [Spectacles]</a>"
 topic:
 first_letter: O
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-702b4b0f0"
+item: "#item-7fa1520e9"
 unparsed:
-line: 'Head: once|Entry: 4470 [Once]|#item-702b4b0f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/840,2838,491,118/full/0/default.jpg
+line: 'Head: optick|Entry: 1639 [Spectacles]|#item-7fa1520e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1511,1396,500,197/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538159777947
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161851071
+sort_value: '303331396'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/840,2838,491,118/150,/0/default.jpg
-label: once
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1511,1396,500,197/150,/0/default.jpg
+label: optick
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

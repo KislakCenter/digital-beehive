@@ -2,24 +2,25 @@
 pid: index_2130
 volume: Volume 3
 image_number: '27'
-head: lampoon
-entry: 1836 [PAGE_MISSING]
+head: Judith
+entry: "<a href='/digital-beehive/num11/num_3555/'>4860 [Judith]</a>"
 topic:
-first_letter: L
+first_letter: I/J
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b660b3906"
+item: "#item-ea4e7a53d"
 unparsed:
-line: 'Head: lampoon|Entry: 1836 [PAGE_MISSING]|#item-b660b3906'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1567,626,586,129/full/0/default.jpg
+line: 'Head: Judith|Entry: 4860 [Judith]|#item-ea4e7a53d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/164,1432,452,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559834419778
+annotation_uri: http://dev.llgc.org.uk/annotation/1559757375639
+sort_value: '302711432'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1567,626,586,129/150,/0/default.jpg
-label: lampoon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/164,1432,452,112/150,/0/default.jpg
+label: Judith
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

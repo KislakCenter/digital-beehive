@@ -2,30 +2,29 @@
 pid: index_4373
 volume: Volume 3
 image_number: '50'
-head: uncertain
-entry: a|<a href='/digital-beehive/num4/num_1216/'>918 [Doubtful]</a>|<a href='/digital-beehive/num9/num_2995/'>2061
-  [Doubt]</a>
+head: to undervalue
+entry: "<a href='/digital-beehive/num2/num_0302/'>269 [Contempt]</a>"
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1084/'>doubt</a>"
+see:
 index:
-item: "#item-c6bfce10c"
+item: "#item-fe83e1671"
 unparsed:
-line: 'Head: uncertain|See: doubt|Entry: a|Entry: 918 [Doubtful]|Entry: 2061 [Doubt]|#item-c6bfce10c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/461,1473,672,150/full/0/default.jpg
+line: 'Head: to undervalue|Entry: 269 [Contempt]|#item-fe83e1671'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/407,2960,659,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872515845
+annotation_uri: http://dev.llgc.org.uk/annotation/1560873648440
+sort_value: '305012960'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/461,1473,672,150/150,/0/default.jpg
-label: uncertain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/407,2960,659,148/150,/0/default.jpg
+label: to undervalue
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified. It is likely
-  he means to direct the reader to the alphabetical entry "Doubt."
+issue:
 insertion_xref:
-order: '336'
+order: '335'
 layout: index_item
 collection: index5
 ---

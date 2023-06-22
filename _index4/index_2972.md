@@ -2,26 +2,28 @@
 pid: index_2972
 volume: Volume 3
 image_number: '35'
-head: pen[n]
-entry: "<a href='/digital-beehive/num2/num_0505/'>410 [Pen]</a>|<a href='/digital-beehive/num3/num_0631/'>501
-  [Pen]</a>|<a href='/digital-beehive/num8/num_2734/'>1801 [Penn : Tongues]</a>"
+head: perverting
+entry: "<a href='/digital-beehive/num1/num_0126/'>122 [Perverting]</a>|<a href='/digital-beehive/num2/num_0314/'>279
+  [Perverting]</a>|<a href='/digital-beehive/num6/num_1774/'>1278 [Perverting]</a>|<a
+  href='/digital-beehive/num10/num_3403/'>2429 [Perverting]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-f2acc26c1"
+item: "#item-3be3127fa"
 unparsed:
-line: 'Head: pen[n]|Page: p.41 [Image 1.101]|Entry: 410 [Pen]|Entry: 501 [Pen]|Entry:
-  1801 [Penn : Tongues]|#item-f2acc26c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/115,1450,735,148/full/0/default.jpg
+line: 'Head: perverting|Entry: 122 [Perverting]|Entry: 279 [Perverting]|Entry: 1278
+  [Perverting]|Entry: 2429 [Perverting]|#item-3be3127fa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/823,1041,698,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972610666
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974206088
+sort_value: '303521041'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/115,1450,735,148/150,/0/default.jpg
-label: pen[n]
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/823,1041,698,159/150,/0/default.jpg
+label: perverting
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

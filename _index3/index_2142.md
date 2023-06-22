@@ -2,25 +2,26 @@
 pid: index_2142
 volume: Volume 3
 image_number: '27'
-head: language
-entry: "<a href='/digital-beehive/alpha3/alpha_0511/'>a</a>|<a href='/digital-beehive/num6/num_2040/'>1413
-  [Languages]</a>|4755 [PAGE_MISSING]"
+head: justice
+entry: "<a href='/digital-beehive/alpha3/alpha_0499/'>a</a>|<a href='/digital-beehive/num6/num_1940/'>1366
+  [Justice]</a>"
 topic:
-first_letter: L
+first_letter: I/J
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6fc916d2f"
+item: "#item-1f8706f72"
 unparsed:
-line: 'Head: language|Entry: a|Entry: 1413 [Languages]|Entry: 4755 [PAGE_MISSING]|#item-6fc916d2f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1559,915,713,131/full/0/default.jpg
+line: 'Head: justice|Entry: a|Entry: 1366 [Justice]|#item-1f8706f72'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/134,2565,487,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835072604
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758819991
+sort_value: '302712565'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1559,915,713,131/150,/0/default.jpg
-label: language
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/134,2565,487,133/150,/0/default.jpg
+label: justice
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

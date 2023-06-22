@@ -2,9 +2,8 @@
 pid: index_1977
 volume: Volume 3
 image_number: '25'
-head: impossible
-entry: "<a href='/digital-beehive/alpha3/alpha_0467/'>a</a>|<a href='/digital-beehive/num5/num_1631/'>1196
-  [Impossibilities]</a>"
+head: imprecation
+entry: "<a href='/digital-beehive/num5/num_1454/'>1078 [Curse]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a978268a5"
+item: "#item-cc259d673"
 unparsed:
-line: 'Head: impossible|Entry: a|Entry: 1196 [Impossibilities]|#item-a978268a5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/855,2060,571,155/full/0/default.jpg
+line: 'Head: imprecation|Entry: 1078 [Curse]|#item-cc259d673'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/866,2412,544,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666491873
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667055440
+sort_value: '302522412'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/855,2060,571,155/150,/0/default.jpg
-label: impossible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/866,2412,544,119/150,/0/default.jpg
+label: imprecation
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

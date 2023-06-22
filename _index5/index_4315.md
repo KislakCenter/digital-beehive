@@ -2,28 +2,29 @@
 pid: index_4315
 volume: Volume 3
 image_number: '49'
-head: turtledoves
-entry: "<a href='/digital-beehive/num3/num_0761/'>588 [Dove]</a>"
+head: verbatim
+entry: "<a href='/digital-beehive/num3/num_0674/'>536 [Verbatim]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-facd25a1e"
+item: "#item-002398d2d"
 unparsed:
-line: 'Head: turtledoves|Entry: 588 [Dove]|#item-facd25a1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/234,2283,528,118/full/0/default.jpg
+line: 'Head: verbatim|Entry: 536 [Verbatim]|#item-002398d2d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/937,3066,453,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656905871
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658844569
+sort_value: '304923066'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/234,2283,528,118/150,/0/default.jpg
-label: turtledoves
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/937,3066,453,112/150,/0/default.jpg
+label: verbatim
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '278'
+order: '277'
 layout: index_item
 collection: index5
 ---

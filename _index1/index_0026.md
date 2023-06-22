@@ -2,9 +2,8 @@
 pid: index_0026
 volume: Volume 3
 image_number: '7'
-head: ability
-entry: "<a href='/digital-beehive/num2/num_0284/'>258 [Ability]</a>|<a href='/digital-beehive/num6/num_2069/'>1426
-  [Abilities]</a>|<a href='/digital-beehive/num10/num_3335/'>2363 [Able & unable]</a>"
+head: according
+entry: "<a href='/digital-beehive/num6/num_1952/'>1372 [According]</a>"
 topic:
 first_letter: A
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-88a40cd33"
+item: "#item-732d0f725"
 unparsed:
-line: 'Head: ability|Entry: 258 [Ability]|Entry: 1426 [Abilities]|Entry: 2363 [Able
-  & unable]|#item-88a40cd33'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/178,696,720,158/full/0/default.jpg
+line: 'Head: according|Entry: 1372 [According]|#item-732d0f725'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/177,2274,529,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758544855
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759759395
+sort_value: '300712274'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/178,696,720,158/150,/0/default.jpg
-label: ability
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/177,2274,529,165/150,/0/default.jpg
+label: according
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

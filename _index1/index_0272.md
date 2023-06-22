@@ -2,25 +2,25 @@
 pid: index_0272
 volume: Volume 3
 image_number: '9'
-head: bands
-entry: "<a href='/digital-beehive/num2/num_0406/'>348 [a Band]</a>|773 [PAGE_MISSING]|<a
-  href='/digital-beehive/num8/num_2824/'>1919 [Bands]</a>"
+head: bail
+entry:
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3998/'>surety</a>"
 index:
-item: "#item-953bbbb39"
+item: "#item-636920845"
 unparsed:
-line: 'Head: bands|Entry: 348 [a Band]|Entry: 773 [PAGE_MISSING]|Entry: 1919 [Bands]|#item-953bbbb39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1314,668,138/full/0/default.jpg
+line: 'Head: bail|See: surety|#item-636920845'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/891,459,481,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403846905
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403306784
+sort_value: '300920459'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1314,668,138/150,/0/default.jpg
-label: bands
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/891,459,481,126/150,/0/default.jpg
+label: bail
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

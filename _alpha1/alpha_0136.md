@@ -10,7 +10,7 @@ page:
 add:
 xref: "[WORD_ILLEGIBLE]|<a href='/digital-beehive/num5/num_1525/'>1125 [Ceremonies]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0596/'>ceremony</a>"
+index: "<a href='/digital-beehive/index1/index_0583/'>ceremony</a>"
 item: "#item-56a80e6d3"
 unparsed:
 line: 'Entry: Ceremony|Topic: Ceremony|Xref: [WORD_ILLEGIBLE]|Xref: 1125 [Ceremonies]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Ceremony|Topic: Ceremony|Xref: [WORD_ILLEGIBLE]|Xref: 1125 [Ceremo
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/312,218,3280,452/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499372055674
+sort_value: '144110218'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/312,218,600,180/250,/0/default.jpg
 label: Ceremony

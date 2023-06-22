@@ -2,8 +2,9 @@
 pid: index_4186
 volume: Volume 3
 image_number: '48'
-head: towardliness
-entry: "<a href='/digital-beehive/num6/num_2177/'>1477 [hopeful Children]</a>"
+head: too wise
+entry: "<a href='/digital-beehive/num2/num_0549/'>444 [Too Wise]</a>|<a href='/digital-beehive/num6/num_1953/'>1372
+  [Too wise]</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-e58c14885"
+item: "#item-6bdafed90"
 unparsed:
-line: 'Head: towardliness|Entry: 1477 [hopeful Children]|#item-e58c14885'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1098,665,583,165/full/0/default.jpg
+line: 'Head: too wise|Entry: 444 [Too Wise]|Entry: 1372 [Too wise]|#item-6bdafed90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/454,2242,560,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561483605681
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275323916
+sort_value: '304812242'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1098,665,583,165/150,/0/default.jpg
-label: towardliness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/454,2242,560,160/150,/0/default.jpg
+label: too wise
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '149'
+order: '148'
 layout: index_item
 collection: index5
 ---

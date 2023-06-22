@@ -2,8 +2,8 @@
 pid: index_2690
 volume: Volume 3
 image_number: '32'
-head: nonsense
-entry: "<a href='/digital-beehive/num3/num_0763/'>589 [Nonsense]</a>"
+head: nevertheless
+entry: 857 [PAGE_MISSING]|<a href='/digital-beehive/num4/num_1296/'>973 [Not withstanding]</a>
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c4dd49dc4"
+item: "#item-3d22f323f"
 unparsed:
-line: 'Head: nonsense|Entry: 589 [Nonsense]|#item-c4dd49dc4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,1589,473,128/full/0/default.jpg
+line: 'Head: nevertheless|Entry: 857 [PAGE_MISSING]|Entry: 973 [Not withstanding]|#item-3d22f323f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1145,1256,645,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448940377
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442162372
+sort_value: '303221256'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,1589,473,128/150,/0/default.jpg
-label: nonsense
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1145,1256,645,137/150,/0/default.jpg
+label: nevertheless
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

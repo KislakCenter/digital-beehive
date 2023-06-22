@@ -2,9 +2,9 @@
 pid: index_1427
 volume: Volume 3
 image_number: '20'
-head: fall
-entry: "<a href='/digital-beehive/alpha2/alpha_0314/'>a</a>|<a href='/digital-beehive/num4/num_1311/'>983
-  [Fall]</a>|<a href='/digital-beehive/num10/num_3351/'>2379 [Fall]</a>"
+head: fellowship
+entry: "<a href='/digital-beehive/num2/num_0319/'>283 [Company]</a>|<a href='/digital-beehive/num8/num_2888/'>1964
+  [Company]</a>"
 topic:
 first_letter: F
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f8fb359a2"
+item: "#item-de35f7fe9"
 unparsed:
-line: 'Head: fall|Entry: a|Entry: 983 [Fall]|Entry: 2379 [Fall]|#item-f8fb359a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/384,1680,616,144/full/0/default.jpg
+line: 'Head: fellowship|Entry: 283 [Company]|Entry: 1964 [Company]|#item-de35f7fe9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1131,1900,717,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561401743275
+annotation_uri: http://dev.llgc.org.uk/annotation/1565620693734
+sort_value: '302021900'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/384,1680,616,144/150,/0/default.jpg
-label: fall
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1131,1900,717,154/150,/0/default.jpg
+label: fellowship
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

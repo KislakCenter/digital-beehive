@@ -2,24 +2,25 @@
 pid: index_3088
 volume: Volume 3
 image_number: '36'
-head: precipitation
-entry:
+head: posterity
+entry: "<a href='/digital-beehive/alpha4/alpha_0724/'>a</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4201/'>too hasty</a>"
+see:
 index:
-item: "#item-9616bc4eb"
+item: "#item-cd0e8a50a"
 unparsed:
-line: 'Head: precipitation|See: too hasty|#item-9616bc4eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1860,1834,705,132/full/0/default.jpg
+line: 'Head: posterity|Entry: a|#item-cd0e8a50a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1155,2073,483,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440480682
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438899071
+sort_value: '303622073'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1860,1834,705,132/150,/0/default.jpg
-label: precipitation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1155,2073,483,113/150,/0/default.jpg
+label: posterity
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

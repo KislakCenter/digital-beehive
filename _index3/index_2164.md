@@ -2,27 +2,26 @@
 pid: index_2164
 volume: Volume 3
 image_number: '27'
-head: judge who can
-entry: "<a href='/digital-beehive/num2/num_0622/'>496 [Judge who can]</a>|<a href='/digital-beehive/num7/num_2331/'>1561
-  [Let heaven & earth Judge]</a>|<a href='/digital-beehive/num10/num_3320/'>2350 [Judge
-  who can!]</a>"
+head: kings Evil
+entry: "<a href='/digital-beehive/alpha3/alpha_0504/'>a</a>|<a href='/digital-beehive/num9/num_3144/'>2201
+  [King's evil]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-91c5c6702"
+item: "#item-13492d5e4"
 unparsed:
-line: 'Head: judge who can|Entry: 496 [Judge who can]|Entry: 1561 [Let heaven & earth
-  Judge]|Entry: 2350 [Judge who can!]|#item-91c5c6702'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,1683,741,107/full/0/default.jpg
+line: 'Head: kings Evil|Entry: a|Entry: 2201 [King''s evil]|#item-13492d5e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/822,1318,591,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758039471
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761944005
+sort_value: '302721318'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,1683,741,107/150,/0/default.jpg
-label: judge who can
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/822,1318,591,101/150,/0/default.jpg
+label: kings Evil
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

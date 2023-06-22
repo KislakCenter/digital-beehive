@@ -2,24 +2,25 @@
 pid: index_2061
 volume: Volume 3
 image_number: '26'
-head: invitation
-entry: 804 [PAGE_MISSING]
+head: inseparable
+entry: "<a href='/digital-beehive/num3/num_0652/'>521 [Inseparable]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_4004/'>Sum[m]ons</a>"
+see:
 index:
-item: "#item-d80324991"
+item: "#item-a4bfbc2ba"
 unparsed:
-line: 'Head: invitation|See: Sum[m]ons|Entry: 804 [PAGE_MISSING]|#item-d80324991'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1501,632,138/full/0/default.jpg
+line: 'Head: inseparable|Entry: 521 [Inseparable]|#item-a4bfbc2ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1166,482,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751466838
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747613735
+sort_value: '302621166'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1501,632,138/150,/0/default.jpg
-label: invitation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1166,482,140/150,/0/default.jpg
+label: inseparable
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

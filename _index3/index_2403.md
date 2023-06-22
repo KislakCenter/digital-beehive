@@ -2,9 +2,8 @@
 pid: index_2403
 volume: Volume 3
 image_number: '29'
-head: manufactures
-entry: "<a href='/digital-beehive/num3/num_1045/'>714 [Wares]</a>|<a href='/digital-beehive/num8/num_2922/'>1991
-  [Manufactures]</a>"
+head: Mamut his valet
+entry: "<a href='/digital-beehive/num6/num_1852/'>1322 [Mamuts Valet]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f55637a3d"
+item: "#item-00362f6b2"
 unparsed:
-line: 'Head: manufactures|Entry: 714 [Wares]|Entry: 1991 [Manufactures]|#item-f55637a3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,2810,640,125/full/0/default.jpg
+line: 'Head: Mamut his valet|Entry: 1322 [Mamuts Valet]|#item-00362f6b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,1276,492,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196583044
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194427690
+sort_value: '302931276'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,2810,640,125/150,/0/default.jpg
-label: manufactures
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,1276,492,104/150,/0/default.jpg
+label: Mamut his valet
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,9 @@
 pid: index_3451
 volume: Volume 3
 image_number: '40'
-head: rhine
-entry: "<a href='/digital-beehive/num5/num_1347/'>1008 [Rhine]</a>"
+head: rose
+entry: "<a href='/digital-beehive/alpha4/alpha_0820/'>a</a>|<a href='/digital-beehive/num8/num_2841/'>1928
+  [Rose]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-65d50b9b4"
+item: "#item-98def931e"
 unparsed:
-line: 'Head: rhine|Entry: 1008 [Rhine]|#item-65d50b9b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/448,1237,411,105/full/0/default.jpg
+line: 'Head: rose|Entry: a|Entry: 1928 [Rose]|#item-98def931e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1170,1670,404,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231692829
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233578457
+sort_value: '304021670'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/448,1237,411,105/150,/0/default.jpg
-label: rhine
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1170,1670,404,123/150,/0/default.jpg
+label: rose
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

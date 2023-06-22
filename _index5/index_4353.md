@@ -2,28 +2,29 @@
 pid: index_4353
 volume: Volume 3
 image_number: '50'
-head: ulcer
-entry: "<a href='/digital-beehive/num4/num_1210/'>916 [Sore]</a>|4550 [PAGE_MISSING]"
+head: unadvisedly
+entry:
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2003/'>inconsider</a>"
 index:
-item: "#item-b03961790"
+item: "#item-8593df465"
 unparsed:
-line: 'Head: ulcer|Entry: 916 [Sore]|Entry: 4550 [PAGE_MISSING]|#item-b03961790'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/494,278,485,123/full/0/default.jpg
+line: 'Head: unadvisedly|See: inconsider|#item-8593df465'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/473,728,700,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560871625491
+annotation_uri: http://dev.llgc.org.uk/annotation/1560871912057
+sort_value: '305010728'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/494,278,485,123/150,/0/default.jpg
-label: ulcer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/473,728,700,129/150,/0/default.jpg
+label: unadvisedly
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '316'
+order: '315'
 layout: index_item
 collection: index5
 ---

@@ -2,25 +2,25 @@
 pid: index_2805
 volume: Volume 3
 image_number: '33'
-head: obsolete
-entry: "<a href='/digital-beehive/num2/num_0419/'>355 [Old and Obsolete]</a>|4507
-  [PAGE_MISSING]"
+head: Opera
+entry:
 topic:
 first_letter: O
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0729/'>Comedy</a>"
 index:
-item: "#item-0d0af025a"
+item: "#item-70cfce8d7"
 unparsed:
-line: 'Head: obsolete|Entry: 355 [Old and Obsolete]|Entry: 4507 [PAGE_MISSING]|#item-0d0af025a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/98,2538,766,206/full/0/default.jpg
+line: 'Head: Opera|See: Comedy|#item-70cfce8d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1487,487,631,188/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347442871
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161220768
+sort_value: '303330487'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/98,2538,766,206/150,/0/default.jpg
-label: obsolete
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1487,487,631,188/150,/0/default.jpg
+label: Opera
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

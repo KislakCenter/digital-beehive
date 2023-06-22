@@ -2,25 +2,25 @@
 pid: index_1841
 volume: Volume 3
 image_number: '24'
-head: hermit
-entry: "<a href='/digital-beehive/alpha2/alpha_0421/'>a</a>|<a href='/digital-beehive/num9/num_3029/'>2093
-  [Hermit]</a>"
+head: to hire
+entry: "<a href='/digital-beehive/num3/num_0692/'>549 [Hirelings]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-9d676a8bb"
+item: "#item-cebeaffb1"
 unparsed:
-line: 'Head: hermit|Page: p.37 [Image 1.97]|Entry: a|Entry: 2093 [Hermit]|#item-9d676a8bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/435,689,652,150/full/0/default.jpg
+line: 'Head: to hire|Entry: 549 [Hirelings]|#item-cebeaffb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/411,3150,412,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574923454
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577675232
+sort_value: '302413150'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/435,689,652,150/150,/0/default.jpg
-label: hermit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/411,3150,412,174/150,/0/default.jpg
+label: to hire
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

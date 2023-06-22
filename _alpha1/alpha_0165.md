@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0590/'>Mercy</a>|<a href='/digital
   href='/digital-beehive/alpha1/alpha_0158/'>Comfort</a>|<a href='/digital-beehive/num6/num_2094/'>1436
   [Commiseration]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0771/'>compassion</a>"
+index: "<a href='/digital-beehive/index1/index_0758/'>compassion</a>"
 item: "#item-69f0cc6f4"
 unparsed:
 line: 'Entry: Compassion|Topic: Compassion|Xref: Mercy|Xref: Quarter|Xref: misery|Xref:
@@ -21,6 +21,7 @@ line: 'Entry: Compassion|Topic: Compassion|Xref: Mercy|Xref: Quarter|Xref: miser
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/335,2231,3106,598/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499700516864
+sort_value: '144312231'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/335,2231,600,180/250,/0/default.jpg
 label: Compassion

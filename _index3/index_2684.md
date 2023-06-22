@@ -2,8 +2,8 @@
 pid: index_2684
 volume: Volume 3
 image_number: '32'
-head: nonconformity
-entry: "<a href='/digital-beehive/num2/num_0617/'>492 [Dissenters]</a>"
+head: Nero
+entry: "<a href='/digital-beehive/num4/num_1282/'>961 [Nero]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b006175a5"
+item: "#item-c6f9f6b34"
 unparsed:
-line: 'Head: nonconformity|Entry: 492 [Dissenters]|#item-b006175a5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1843,1393,667,123/full/0/default.jpg
+line: 'Head: Nero|Entry: 961 [Nero]|#item-c6f9f6b34'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1188,775,308,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448766758
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441356161
+sort_value: '303220775'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1843,1393,667,123/150,/0/default.jpg
-label: nonconformity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1188,775,308,93/150,/0/default.jpg
+label: Nero
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

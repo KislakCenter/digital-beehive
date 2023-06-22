@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0283/'>eloquence</a>|<a href='/digital-beehive/num10/num_3342/'>2370
   [Fair Words]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1405/'>fair words</a>"
+index: "<a href='/digital-beehive/index2/index_1380/'>fair words</a>"
 item: "#item-a3c193e9f"
 unparsed:
 line: 'Entry: Fair words|Topic: Fair words|Xref: eloquence|Xref: 2370 [Fair Words]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Fair words|Topic: Fair words|Xref: eloquence|Xref: 2370 [Fair Word
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/745,218,3024,574/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564588412993
+sort_value: '145610218'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/745,218,600,180/250,/0/default.jpg
 label: Fair words

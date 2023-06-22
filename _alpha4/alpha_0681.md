@@ -18,6 +18,7 @@ line: 'Entry: Pardon|Topic: Pardon|Xref: Remission|Xref: 420 [Absolute Forgivene
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/738,3175,3044,481/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565020004069
+sort_value: '203813175'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/738,3175,600,180/250,/0/default.jpg
 label: Pardon

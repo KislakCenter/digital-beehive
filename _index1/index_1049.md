@@ -2,29 +2,29 @@
 pid: index_1049
 volume: Volume 3
 image_number: '16'
-head: desperation
-entry: "<a href='/digital-beehive/num1/num_0008/'>8 [Desperation]</a>|<a href='/digital-beehive/num3/num_0832/'>620
-  [Despair]</a>|<a href='/digital-beehive/num7/num_2601/'>1689 [Despair]</a>"
+head: diffidence
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1107/'>distrust</a>"
 index:
-item: "#item-36a237e6b"
+item: "#item-8dac9212c"
 unparsed:
-line: 'Head: desperation|Entry: 8 [Desperation]|Entry: 620 [Despair]|Entry: 1689 [Despair]|#item-36a237e6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1065,2767,804,105/full/0/default.jpg
+line: 'Head: diffidence|See: distrust|#item-8dac9212c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1858,1599,612,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605159611
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783766709
+sort_value: '301631599'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1065,2767,804,105/150,/0/default.jpg
-label: desperation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1858,1599,612,109/150,/0/default.jpg
+label: diffidence
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1047'
+order: '1048'
 layout: index_item
 collection: index1
 ---

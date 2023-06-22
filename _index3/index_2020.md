@@ -17,6 +17,7 @@ line: 'Head: indictment|Entry: 1163 [Indictment]|#item-26282b5bb'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1543,3550,577,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559673132872
+sort_value: '302533550'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1543,3550,577,87/150,/0/default.jpg
 label: indictment

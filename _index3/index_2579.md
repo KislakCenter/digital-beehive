@@ -2,8 +2,8 @@
 pid: index_2579
 volume: Volume 3
 image_number: '31'
-head: moral law
-entry: "<a href='/digital-beehive/num8/num_2748/'>1815 [Moral]</a>"
+head: more than
+entry: "<a href='/digital-beehive/num6/num_2124/'>1451 [More]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1e2e54727"
+item: "#item-c03674f0e"
 unparsed:
-line: 'Head: moral law|Entry: 1815 [Moral]|#item-1e2e54727'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/851,1729,416,74/full/0/default.jpg
+line: 'Head: more than|Entry: 1451 [More]|#item-c03674f0e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1126,1758,360,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355836700
+annotation_uri: http://dev.llgc.org.uk/annotation/1565796172110
+sort_value: '303121758'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/851,1729,416,74/150,/0/default.jpg
-label: moral law
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1126,1758,360,133/150,/0/default.jpg
+label: more than
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

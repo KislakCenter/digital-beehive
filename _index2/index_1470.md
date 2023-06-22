@@ -2,25 +2,25 @@
 pid: index_1470
 volume: Volume 3
 image_number: '20'
-head: flie
-entry: "<a href='/digital-beehive/alpha2/alpha_0335/'>a</a>|<a href='/digital-beehive/num5/num_1336/'>1002
-  [Flies]</a>"
+head: flagging
+entry: "<a href='/digital-beehive/num3/num_0795/'>603 [Flaccid]</a>"
 topic:
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-d81bbe2a3"
+item: "#item-484856cff"
 unparsed:
-line: 'Head: flie|Page: p.36 [Image 1.96]|Entry: a|Entry: 1002 [Flies]|#item-d81bbe2a3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1804,3150,570,181/full/0/default.jpg
+line: 'Head: flagging|Entry: 603 [Flaccid]|#item-484856cff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1789,2113,493,200/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562617576536
+annotation_uri: http://dev.llgc.org.uk/annotation/1562615980442
+sort_value: '302032113'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1804,3150,570,181/150,/0/default.jpg
-label: flie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1789,2113,493,200/150,/0/default.jpg
+label: flagging
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_4665
 volume: Volume 3
 image_number: '54'
-head: Neapolis
-entry: "<a href='/digital-beehive/num9/num_3081/'>2142 [Neapolis]</a>"
+head: fringes
+entry: "<a href='/digital-beehive/num8/num_2788/'>1902 [Fringes]</a>"
 topic:
 first_letter: insertion
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-92e1241dd"
-unparsed: Type Index|Insertion [:25.]
-line: 'Type: Index|Insertion: [:25.]|Head: Neapolis|Entry: 2142 [Neapolis]|#item-92e1241dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1052,314,636,129/full/0/default.jpg
+item: "#item-3c74e2113"
+unparsed: Type Index|Insertion [:2.]
+line: 'Type: Index|Insertion: [:2.]|Head: fringes|Entry: 1902 [Fringes]|#item-3c74e2113'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/361,679,563,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560953596127
-insertion: "[:25.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1052,314,636,129/150,/0/default.jpg
-label: Neapolis
+annotation_uri: http://dev.llgc.org.uk/annotation/1560867263218
+sort_value: '305410679'
+insertion: "[:2.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/361,679,563,100/150,/0/default.jpg
+label: fringes
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '628'
+order: '627'
 layout: index_item
 collection: index5
 ---

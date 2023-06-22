@@ -2,8 +2,8 @@
 pid: index_4656
 volume: Volume 3
 image_number: '53'
-head: Zuz
-entry: "<a href='/digital-beehive/num8/num_2819/'>1917 [Zuz]</a>"
+head: Zion
+entry: 833 [PAGE_MISSING]
 topic:
 first_letter: Z
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-ea5895bcc"
+item: "#item-5a5028093"
 unparsed:
-line: 'Head: Zuz|Entry: 1917 [Zuz]|#item-ea5895bcc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/2039,3496,281,121/full/0/default.jpg
+line: 'Head: Zion|Entry: 833 [PAGE_MISSING]|#item-5a5028093'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1545,3236,368,69/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560870289974
+annotation_uri: http://dev.llgc.org.uk/annotation/1560869752821
+sort_value: '305333236'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/2039,3496,281,121/150,/0/default.jpg
-label: Zuz
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1545,3236,368,69/150,/0/default.jpg
+label: Zion
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '619'
+order: '618'
 layout: index_item
 collection: index5
 ---

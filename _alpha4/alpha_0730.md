@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0042/'>42 [False ministers]</a>|<a href='/digital-beehive/num3/num_0644/'>512
   [Preaching]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3077/'>preaching</a>"
+index: "<a href='/digital-beehive/index4/index_3114/'>preaching</a>"
 item: "#item-fc19f9c29"
 unparsed:
 line: 'Entry: Preaching|Topic: Preaching|Xref: 42 [False ministers]|Xref: 512 [Preaching]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Preaching|Topic: Preaching|Xref: 42 [False ministers]|Xref: 512 [P
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/839,949,2983,543/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528375772329
+sort_value: '204210949'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/839,949,600,180/250,/0/default.jpg
 label: Preaching

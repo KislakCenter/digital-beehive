@@ -2,8 +2,9 @@
 pid: index_0216
 volume: Volume 3
 image_number: '8'
-head: antidote
-entry: "<a href='/digital-beehive/num1/num_0169/'>162 [Antidote]</a>"
+head: arts & artificial
+entry: "<a href='/digital-beehive/num1/num_0177/'>169 [Art]</a>|<a href='/digital-beehive/num7/num_2523/'>1651
+  [Arts and Sciences]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-99c59e1dc"
+item: "#item-5da931a52"
 unparsed:
-line: 'Head: antidote|Entry: 162 [Antidote]|#item-99c59e1dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/343,2820,528,150/full/0/default.jpg
+line: 'Head: arts & artificial|Entry: 169 [Art]|Entry: 1651 [Arts and Sciences]|#item-5da931a52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1792,1761,699,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759189887
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631578054
+sort_value: '300831761'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/343,2820,528,150/150,/0/default.jpg
-label: antidote
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1792,1761,699,162/150,/0/default.jpg
+label: arts & artificial
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

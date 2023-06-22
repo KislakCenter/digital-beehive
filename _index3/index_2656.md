@@ -2,8 +2,8 @@
 pid: index_2656
 volume: Volume 3
 image_number: '32'
-head: Nile
-entry: "<a href='/digital-beehive/num7/num_2361/'>1574 [Nile]</a>"
+head: natural defect
+entry: "<a href='/digital-beehive/num7/num_2486/'>1635 [Natural Defect]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-911955e07"
+item: "#item-bec38205b"
 unparsed:
-line: 'Head: Nile|Entry: 1574 [Nile]|#item-911955e07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1137,3457,386,119/full/0/default.jpg
+line: 'Head: natural defect|Entry: 1635 [Natural Defect]|#item-bec38205b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/380,1794,499,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560446330105
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438133315
+sort_value: '303211794'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1137,3457,386,119/150,/0/default.jpg
-label: Nile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/380,1794,499,95/150,/0/default.jpg
+label: natural defect
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

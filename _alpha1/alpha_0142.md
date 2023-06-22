@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/num1/num_0014/'>14 [Degenerating]</a>|1061 [Whe
   href='/digital-beehive/num1/num_0009/'>9 [Education]</a>|<a href='/digital-beehive/num2/num_0352/'>308
   [Children]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0606/'>child</a>"
+index: "<a href='/digital-beehive/index1/index_0630/'>child</a>"
 item: "#item-7c39126da"
 unparsed:
 line: 'Entry: Child|Topic: Child|Xref: 14 [Degenerating]|Xref: 1061 [Whelp]|Xref:
@@ -21,6 +21,7 @@ line: 'Entry: Child|Topic: Child|Xref: 14 [Degenerating]|Xref: 1061 [Whelp]|Xref
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/333,2136,3110,693/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499438742340
+sort_value: '144112136'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/333,2136,600,180/250,/0/default.jpg
 label: Child

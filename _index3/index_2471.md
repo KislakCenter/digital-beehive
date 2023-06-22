@@ -2,8 +2,8 @@
 pid: index_2471
 volume: Volume 3
 image_number: '30'
-head: meeting houses
-entry: "<a href='/digital-beehive/num1/num_0232/'>220 [Meeting houses]</a>"
+head: meekness
+entry: "<a href='/digital-beehive/num6/num_2005/'>1397 [Meekness]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d41296294"
+item: "#item-263a3ba0d"
 unparsed:
-line: 'Head: meeting houses|Entry: 220 [Meeting houses]|#item-d41296294'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,1112,602,176/full/0/default.jpg
+line: 'Head: meekness|Entry: 1397 [Meekness]|#item-263a3ba0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,698,556,194/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268098905
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267833593
+sort_value: '303020698'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,1112,602,176/150,/0/default.jpg
-label: meeting houses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,698,556,194/150,/0/default.jpg
+label: meekness
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

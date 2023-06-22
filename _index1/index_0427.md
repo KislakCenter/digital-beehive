@@ -2,24 +2,25 @@
 pid: index_0427
 volume: Volume 3
 image_number: '10'
-head: to blow
-entry: "<a href='/digital-beehive/num2/num_0498/'>406 [To Blow]</a>"
+head: bowels
+entry:
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: 802 [PAGE_MISSING]
 index:
-item: "#item-b40a7a264"
+item: "#item-2e56261dc"
 unparsed:
-line: 'Head: to blow|Entry: 406 [To Blow]|#item-b40a7a264'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1083,3306,418,104/full/0/default.jpg
+line: 'Head: bowels|See: 802 [PAGE_MISSING]|#item-2e56261dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3064,464,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531151876875
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417083596
+sort_value: '301033064'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1083,3306,418,104/150,/0/default.jpg
-label: to blow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3064,464,125/150,/0/default.jpg
+label: bowels
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,9 @@
 pid: index_3546
 volume: Volume 3
 image_number: '41'
-head: "[:56.]"
-entry:
+head: schism
+entry: "<a href='/digital-beehive/num3/num_0635/'>505 [Sect]</a>|<a href='/digital-beehive/num6/num_1954/'>1373
+  [Sects]</a>"
 topic:
 first_letter: S
 page:
@@ -11,18 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-201d9fb20"
-unparsed: 'Type: Index|Insertion Xref: [:56.]|#item-201d9fb20'
-line: 'Type: Index|Insertion Xref: [:56.]|#item-201d9fb20'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/694,1652,226,144/full/0/default.jpg
+item: "#item-d4b71e864"
+unparsed:
+line: 'Head: schism|Entry: 505 [Sect]|Entry: 1373 [Sects]|#item-d4b71e864'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/837,894,633,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277936699
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240409266
+sort_value: '304120894'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/694,1652,226,144/150,/0/default.jpg
-label: "[:56.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/837,894,633,132/150,/0/default.jpg
+label: schism
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4662/'>Sappho</a>|<a href='/digital-beehive/index5/index_4692/'>Sap</a>"
+insertion_xref:
 order: '0794'
 layout: index_item
 collection: index4

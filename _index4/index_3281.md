@@ -2,24 +2,25 @@
 pid: index_3281
 volume: Volume 3
 image_number: '38'
-head: purple
-entry: "<a href='/digital-beehive/num8/num_2807/'>1913 [Purple]</a>"
+head: ragg
+entry: "<a href='/digital-beehive/num1/num_0128/'>123 [Raggs]</a>"
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-87c0f7550"
+item: "#item-fff176480"
 unparsed:
-line: 'Head: purple|Entry: 1913 [Purple]|#item-87c0f7550'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/382,1951,500,98/full/0/default.jpg
+line: 'Head: ragg|Entry: 123 [Raggs]|#item-fff176480'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1172,3133,363,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452367910
+annotation_uri: http://dev.llgc.org.uk/annotation/1558459627234
+sort_value: '303823133'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/382,1951,500,98/150,/0/default.jpg
-label: purple
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1172,3133,363,160/150,/0/default.jpg
+label: ragg
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

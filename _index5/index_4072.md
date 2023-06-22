@@ -2,8 +2,10 @@
 pid: index_4072
 volume: Volume 3
 image_number: '47'
-head: to teach
-entry: "<a href='/digital-beehive/num10/num_3416/'>2440 [To Teach]</a>"
+head: teachers
+entry: "<a href='/digital-beehive/alpha5/alpha_0944/'>a</a>|<a href='/digital-beehive/num2/num_0479/'>393
+  [Teacher]</a>|<a href='/digital-beehive/num5/num_1378/'>1031 [Teachers]</a>|<a href='/digital-beehive/num7/num_2391/'>1592
+  [Teachers]</a>|<a href='/digital-beehive/num10/num_3402/'>2428 [Teachers]</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +13,21 @@ add:
 xref:
 see:
 index:
-item: "#item-392e1f869"
+item: "#item-da27e8461"
 unparsed:
-line: 'Head: to teach|Entry: 2440 [To Teach]|#item-392e1f869'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/170,295,510,116/full/0/default.jpg
+line: 'Head: teachers|Entry: a|Entry: 393 [Teacher]|Entry: 1031 [Teachers]|Entry:
+  1592 [Teachers]|Entry: 2428 [Teachers]|#item-da27e8461'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/183,530,641,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565293978285
+annotation_uri: http://dev.llgc.org.uk/annotation/1528920975915
+sort_value: '304710530'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/170,295,510,116/150,/0/default.jpg
-label: to teach
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/183,530,641,159/150,/0/default.jpg
+label: teachers
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '035'
+order: '034'
 layout: index_item
 collection: index5
 ---

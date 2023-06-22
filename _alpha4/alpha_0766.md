@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0139/'>Chastity</a>|<a href='/digi
   href='/digital-beehive/num3/num_0781/'>598 [Cleanliness]</a>|<a href='/digital-beehive/alpha5/alpha_1027/'>Washing</a>|<a
   href='/digital-beehive/num4/num_1250/'>936 [Purity]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3279/'>purity</a>"
+index: "<a href='/digital-beehive/index4/index_3235/'>purity</a>"
 item: "#item-1853bb2f8"
 unparsed:
 line: 'Entry: Purity|Topic: Purity|Xref: Chastity|Xref: Holiness|Xref: 598 [Cleanliness]|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Purity|Topic: Purity|Xref: Chastity|Xref: Holiness|Xref: 598 [Clea
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/298,624,3079,392/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565103176612
+sort_value: '204510624'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/298,624,600,180/250,/0/default.jpg
 label: Purity

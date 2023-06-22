@@ -2,25 +2,25 @@
 pid: index_0448
 volume: Volume 3
 image_number: '11'
-head: buffoon
-entry: "<a href='/digital-beehive/alpha1/alpha_0107/'>a</a>|<a href='/digital-beehive/num6/num_2093/'>1436
-  [Buffoons : Obscenity]</a>"
+head: breed
+entry: "<a href='/digital-beehive/num8/num_2926/'>1994 [good Breed]</a>"
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-5d5257f83"
+item: "#item-c86a82836"
 unparsed:
-line: 'Head: buffoon|Page: p.42 [Image 1.102]|Entry: a|Entry: 1436 [Buffoons : Obscenity]|#item-5d5257f83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/883,566,687,148/full/0/default.jpg
+line: 'Head: breed|Entry: 1994 [good Breed]|#item-c86a82836'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/158,1631,387,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420396542
+annotation_uri: http://dev.llgc.org.uk/annotation/1531418485037
+sort_value: '301111631'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/883,566,687,148/150,/0/default.jpg
-label: buffoon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/158,1631,387,92/150,/0/default.jpg
+label: breed
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

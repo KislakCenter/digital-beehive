@@ -11,13 +11,14 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0890/'>Sleep</a>|<a href='/digital-beehive/num3/num_0656/'>523
   [Bed]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0307/'>bed</a>"
+index: "<a href='/digital-beehive/index1/index_0329/'>bed</a>"
 item: "#item-384c11b92"
 unparsed:
 line: 'Entry: Bed|Topic: Bed|Xref: Sleep|Xref: 523 [Bed]|Index: bed|#item-384c11b92'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/709,713,3126,430/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563204919319
+sort_value: '143610713'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/709,713,600,180/250,/0/default.jpg
 label: Bed

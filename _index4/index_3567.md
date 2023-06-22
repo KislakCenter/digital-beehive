@@ -2,24 +2,25 @@
 pid: index_3567
 volume: Volume 3
 image_number: '41'
-head: Scots
-entry: "<a href='/digital-beehive/num6/num_1967/'>1379 [Scots]</a>"
+head: scurrility
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0471/'>buffoonry</a>"
 index:
-item: "#item-a7b6e32cc"
+item: "#item-26e0f5347"
 unparsed:
-line: 'Head: Scots|Entry: 1379 [Scots]|#item-a7b6e32cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/893,2305,400,118/full/0/default.jpg
+line: 'Head: scurrility|See: buffoonry|#item-26e0f5347'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/886,3281,723,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240968133
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241806571
+sort_value: '304123281'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/893,2305,400,118/150,/0/default.jpg
-label: Scots
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/886,3281,723,172/150,/0/default.jpg
+label: scurrility
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

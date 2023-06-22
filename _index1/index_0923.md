@@ -2,9 +2,8 @@
 pid: index_0923
 volume: Volume 3
 image_number: '15'
-head: cross
-entry: "<a href='/digital-beehive/alpha1/alpha_0199/'>a</a>|<a href='/digital-beehive/num7/num_2220/'>1505
-  [Cross]</a>"
+head: cucumers
+entry: "<a href='/digital-beehive/num3/num_0948/'>678 [Cucumers]</a>"
 topic:
 first_letter: C
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-89f3f519c"
+item: "#item-074579e96"
 unparsed:
-line: 'Head: cross|Entry: a|Entry: 1505 [Cross]|#item-89f3f519c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/864,2096,432,114/full/0/default.jpg
+line: 'Head: cucumers|Entry: 678 [Cucumers]|#item-074579e96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/833,3171,466,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577644409
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578015354
+sort_value: '301523171'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/864,2096,432,114/150,/0/default.jpg
-label: cross
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/833,3171,466,113/150,/0/default.jpg
+label: cucumers
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

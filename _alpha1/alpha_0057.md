@@ -18,6 +18,7 @@ line: 'Entry: Bancrupt|Topic: Bancrupt|Xref: 237 [Reckoning]|Xref: 4660 [PAGE_MI
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/315,1036,3083,451/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558807591961
+sort_value: '143511036'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/315,1036,600,180/250,/0/default.jpg
 label: Bancrupt

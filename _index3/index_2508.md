@@ -2,9 +2,8 @@
 pid: index_2508
 volume: Volume 3
 image_number: '30'
-head: ministers of State
-entry: "<a href='/digital-beehive/num1/num_0182/'>174 [Ministers of State]</a>|1843
-  [PAGE_MISSING]"
+head: middle
+entry: "<a href='/digital-beehive/alpha3/alpha_0594/'>a</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1d57a4335"
+item: "#item-5e55a96cf"
 unparsed:
-line: 'Head: ministers of State|Entry: 174 [Ministers of State]|Entry: 1843 [PAGE_MISSING]|#item-1d57a4335'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1838,2530,617,145/full/0/default.jpg
+line: 'Head: middle|Entry: a|#item-5e55a96cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1828,1080,395,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274512102
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273756413
+sort_value: '303031080'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1838,2530,617,145/150,/0/default.jpg
-label: ministers of State
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1828,1080,395,121/150,/0/default.jpg
+label: middle
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

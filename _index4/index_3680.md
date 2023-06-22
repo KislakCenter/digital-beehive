@@ -2,24 +2,25 @@
 pid: index_3680
 volume: Volume 3
 image_number: '42'
-head: senatehouse
-entry:
+head: to shite
+entry: 805 [PAGE_MISSING]
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e529251be"
+item: "#item-27f5531b7"
 unparsed:
-line: 'Head: senatehouse|Page: p.5 [Image 1.65]|#item-e529251be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/413,2859,644,141/full/0/default.jpg
+line: 'Head: to shite|Entry: 805 [PAGE_MISSING]|#item-27f5531b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1810,1701,455,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245050912
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576195068
+sort_value: '304231701'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/413,2859,644,141/150,/0/default.jpg
-label: senatehouse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1810,1701,455,117/150,/0/default.jpg
+label: to shite
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

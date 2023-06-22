@@ -2,8 +2,8 @@
 pid: index_0759
 volume: Volume 3
 image_number: '14'
-head: cork
-entry: "<a href='/digital-beehive/num3/num_0753/'>585 [the Cork tree]</a>"
+head: compendium
+entry: "<a href='/digital-beehive/num2/num_0453/'>374 [Brevity]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-726cd8667"
+item: "#item-2d8a8395b"
 unparsed:
-line: 'Head: cork|Entry: 585 [the Cork tree]|#item-726cd8667'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1818,2743,361,107/full/0/default.jpg
+line: 'Head: compendium|Entry: 374 [Brevity]|#item-2d8a8395b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/439,593,579,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537560078718
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215156742
+sort_value: '301410593'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1818,2743,361,107/150,/0/default.jpg
-label: cork
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/439,593,579,146/150,/0/default.jpg
+label: compendium
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

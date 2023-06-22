@@ -2,26 +2,25 @@
 pid: index_0092
 volume: Volume 3
 image_number: '7'
-head: accusation
-entry: "<a href='/digital-beehive/num2/num_0313/'>278 [Accusation]</a>|<a href='/digital-beehive/num4/num_1206/'>915
-  [Accusation]</a>|<a href='/digital-beehive/num7/num_2542/'>1660 [Accuses]</a>"
+head: ale
+entry:
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0333/'>beer</a>"
 index:
-item: "#item-6c1b72b6c"
+item: "#item-075736695"
 unparsed:
-line: 'Head: accusation|Entry: 278 [Accusation]|Entry: 915 [Accusation]|Entry: 1660
-  [Accuses]|#item-6c1b72b6c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/167,2606,766,137/full/0/default.jpg
+line: 'Head: ale|See: beer|#item-075736695'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1000,353,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759857732
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768572306
+sort_value: '300731000'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/167,2606,766,137/150,/0/default.jpg
-label: accusation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1000,353,136/150,/0/default.jpg
+label: ale
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

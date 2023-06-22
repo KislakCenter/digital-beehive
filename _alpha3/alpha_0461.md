@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0298/'>Example</a>|[WORD_ILLEGIBLE]"
 see:
-index: "<a href='/digital-beehive/index3/index_1940/'>imitation</a>"
+index: "<a href='/digital-beehive/index3/index_1959/'>imitation</a>"
 item: "#item-4bce0df37"
 unparsed:
 line: 'Entry: Imitation|Topic: Imitation|Xref: Example|Xref: [WORD_ILLEGIBLE]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Imitation|Topic: Imitation|Xref: Example|Xref: [WORD_ILLEGIBLE]|In
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/376,4608,2987,419/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759202166
+sort_value: '202114608'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/376,4608,600,180/250,/0/default.jpg
 label: Imitation

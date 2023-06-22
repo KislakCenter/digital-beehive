@@ -2,8 +2,8 @@
 pid: index_3750
 volume: Volume 3
 image_number: '43'
-head: Socinians
-entry: "<a href='/digital-beehive/num1/num_0048/'>48 [Socinians]</a>"
+head: slime
+entry: "<a href='/digital-beehive/num10/num_3215/'>2262 [Phlegm or Flegm]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3f020460b"
+item: "#item-3b60bdf70"
 unparsed:
-line: 'Head: Socinians|Entry: 48 [Socinians]|#item-3f020460b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,2126,519,133/full/0/default.jpg
+line: 'Head: slime|Entry: 2262 [Phlegm or Flegm]|#item-3b60bdf70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1301,2469,362,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586216942
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584628949
+sort_value: '304322469'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,2126,519,133/150,/0/default.jpg
-label: Socinians
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1301,2469,362,96/150,/0/default.jpg
+label: slime
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

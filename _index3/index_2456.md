@@ -2,24 +2,25 @@
 pid: index_2456
 volume: Volume 3
 image_number: '30'
-head: medlar
-entry:
+head: meal
+entry: 797 [PAGE_MISSING]
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-2b344cb4e"
+item: "#item-ceb916181"
 unparsed:
-line: 'Head: medlar|Page: p.33 [Image 1.93]|#item-2b344cb4e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1110,601,425,136/full/0/default.jpg
+line: 'Head: meal|Entry: 797 [PAGE_MISSING]|#item-ceb916181'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,2736,330,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267755970
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265638017
+sort_value: '303012736'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1110,601,425,136/150,/0/default.jpg
-label: medlar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,2736,330,144/150,/0/default.jpg
+label: meal
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

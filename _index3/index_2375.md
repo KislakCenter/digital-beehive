@@ -2,26 +2,25 @@
 pid: index_2375
 volume: Volume 3
 image_number: '29'
-head: love
-entry: "<a href='/digital-beehive/alpha3/alpha_0556/'>a</a>|<a href='/digital-beehive/num2/num_0542/'>438
-  [Love]</a>|<a href='/digital-beehive/num5/num_1453/'>1077 [Love]</a>|<a href='/digital-beehive/num10/num_3432/'>4452
-  [Love]</a>"
+head: Machiavellus
+entry: "<a href='/digital-beehive/num3/num_0706/'>556 [Machiavellus]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-678ef107c"
+item: "#item-2b56f0fd1"
 unparsed:
-line: 'Head: love|Entry: a|Entry: 438 [Love]|Entry: 1077 [Love]|Entry: 4452 [Love]|#item-678ef107c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1944,713,104/full/0/default.jpg
+line: 'Head: Machiavellus|Entry: 556 [Machiavellus]|#item-2b56f0fd1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/836,1897,555,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178876145
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186314831
+sort_value: '302921897'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1944,713,104/150,/0/default.jpg
-label: love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/836,1897,555,113/150,/0/default.jpg
+label: Machiavellus
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

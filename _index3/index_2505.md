@@ -2,9 +2,8 @@
 pid: index_2505
 volume: Volume 3
 image_number: '30'
-head: merchants rules
-entry: "<a href='/digital-beehive/num6/num_2148/'>1463 [One friend Counsel the other
-  who newly begun to Merchandize]</a>"
+head: metonymy
+entry: 841 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-11c4111c8"
+item: "#item-cbcc1f54f"
 unparsed:
-line: 'Head: merchants rules|Entry: 1463 [One friend Counsel the other who newly begun
-  to Merchandize]|#item-11c4111c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,2415,506,108/full/0/default.jpg
+line: 'Head: metonymy|Entry: 841 [PAGE_MISSING]|#item-cbcc1f54f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,891,507,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268838907
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273649078
+sort_value: '303030891'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,2415,506,108/150,/0/default.jpg
-label: merchants rules
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,891,507,118/150,/0/default.jpg
+label: metonymy
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

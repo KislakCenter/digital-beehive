@@ -2,24 +2,25 @@
 pid: index_0883
 volume: Volume 3
 image_number: '15'
-head: Dainty meats
-entry: "<a href='/digital-beehive/num3/num_1000/'>696 [Dainty meats]</a>"
+head: court
+entry: "<a href='/digital-beehive/alpha1/alpha_0189/'>a</a>|1879 [PAGE_MISSING]"
 topic:
-first_letter: D
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5f95bfd5d"
+item: "#item-70d5a59aa"
 unparsed:
-line: 'Head: Dainty meats|Entry: 696 [Dainty meats]|#item-5f95bfd5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1563,859,630,105/full/0/default.jpg
+line: 'Head: court|Entry: a|Entry: 1879 [PAGE_MISSING]|#item-70d5a59aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/162,2396,480,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390904986
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974868601
+sort_value: '301512396'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1563,859,630,105/150,/0/default.jpg
-label: Dainty meats
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/162,2396,480,95/150,/0/default.jpg
+label: court
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

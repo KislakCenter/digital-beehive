@@ -2,8 +2,8 @@
 pid: index_3421
 volume: Volume 3
 image_number: '40'
-head: rude
-entry: 801 [PAGE_MISSING]
+head: Richelieu
+entry: "<a href='/digital-beehive/num6/num_1856/'>1323 [Richelieu]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b3ceb3939"
+item: "#item-261370816"
 unparsed:
-line: 'Head: rude|Entry: 801 [PAGE_MISSING]|#item-b3ceb3939'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1145,2456,327,116/full/0/default.jpg
+line: 'Head: Richelieu|Entry: 1323 [Richelieu]|#item-261370816'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/415,1699,523,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233848843
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231821645
+sort_value: '304011699'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1145,2456,327,116/150,/0/default.jpg
-label: rude
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/415,1699,523,158/150,/0/default.jpg
+label: Richelieu
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

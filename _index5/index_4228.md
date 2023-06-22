@@ -2,8 +2,8 @@
 pid: index_4228
 volume: Volume 3
 image_number: '48'
-head: a troop
-entry: "<a href='/digital-beehive/num7/num_2620/'>1699 [a Troop]</a>"
+head: treasurer
+entry: "<a href='/digital-beehive/num7/num_2551/'>1665 [Treasureship]</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-43fc171c5"
+item: "#item-6126ce174"
 unparsed:
-line: 'Head: a troop|Entry: 1699 [a Troop]|#item-43fc171c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1806,2327,504,177/full/0/default.jpg
+line: 'Head: treasurer|Entry: 1665 [Treasureship]|#item-6126ce174'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1798,449,492,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089522440
+annotation_uri: http://dev.llgc.org.uk/annotation/1561490678940
+sort_value: '304830449'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1806,2327,504,177/150,/0/default.jpg
-label: a troop
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1798,449,492,125/150,/0/default.jpg
+label: treasurer
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '191'
+order: '190'
 layout: index_item
 collection: index5
 ---

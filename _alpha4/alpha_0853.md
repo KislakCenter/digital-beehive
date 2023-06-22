@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1254/'>938 [Self denial]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3636/'>Self denial</a>"
+index: "<a href='/digital-beehive/index4/index_3613/'>Self denial</a>"
 item: "#item-e12c96c89"
 unparsed:
 line: 'Entry: Self denial|Topic: Self denial|Xref: 938 [Self denial]|Index: Self denial|#item-e12c96c89'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/313,2041,3034,343/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530200966858
+sort_value: '205112041'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/313,2041,600,180/250,/0/default.jpg
 label: Self denial

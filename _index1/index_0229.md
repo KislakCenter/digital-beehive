@@ -2,24 +2,25 @@
 pid: index_0229
 volume: Volume 3
 image_number: '8'
-head: at first
-entry: "<a href='/digital-beehive/num2/num_0624/'>497 [At the first]</a>"
+head: astonishmt
+entry: 4776 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4600/'>wonder</a>"
 index:
-item: "#item-2d84d625c"
+item: "#item-9ea3bc39c"
 unparsed:
-line: 'Head: at first|Entry: 497 [At the first]|#item-2d84d625c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1800,3375,448,134/full/0/default.jpg
+line: 'Head: astonishmt|See: wonder|Entry: 4776 [PAGE_MISSING]|#item-9ea3bc39c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1804,3095,663,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565632069519
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631990948
+sort_value: '300833095'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1800,3375,448,134/150,/0/default.jpg
-label: at first
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1804,3095,663,179/150,/0/default.jpg
+label: astonishmt
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_4201
 volume: Volume 3
 image_number: '48'
-head: too hasty
-entry: "<a href='/digital-beehive/alpha5/alpha_0967/'>a</a>|<a href='/digital-beehive/num4/num_1281/'>961
-  [Too hasty]</a>"
+head: tough
+entry: "<a href='/digital-beehive/num10/num_3353/'>2381 [Tough : flexible]</a>"
 topic:
 first_letter: T
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-58d6b0f09"
+item: "#item-c8010eafd"
 unparsed:
-line: 'Head: too hasty|Entry: a |Entry: 961 [Too hasty]|#item-58d6b0f09'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/478,1152,481,150/full/0/default.jpg
+line: 'Head: tough|Entry: 2381 [Tough : flexible]|#item-c8010eafd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1109,432,320,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273552660
+annotation_uri: http://dev.llgc.org.uk/annotation/1560285427185
+sort_value: '304820432'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/478,1152,481,150/150,/0/default.jpg
-label: too hasty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1109,432,320,147/150,/0/default.jpg
+label: tough
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '164'
+order: '163'
 layout: index_item
 collection: index5
 ---

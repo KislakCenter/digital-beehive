@@ -2,8 +2,9 @@
 pid: index_2741
 volume: Volume 3
 image_number: '32'
-head: needle
-entry: "<a href='/digital-beehive/num7/num_2339/'>1564 [Needle]</a>"
+head: novelty
+entry: "<a href='/digital-beehive/alpha3/alpha_0649/'>a</a>|<a href='/digital-beehive/num3/num_0657/'>524
+  [Novelty]</a>|4705 [PAGE_MISSING]"
 topic:
 first_letter: N
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e6ea78f08"
+item: "#item-a9e449c0a"
 unparsed:
-line: 'Head: needle|Entry: 1564 [Needle]|#item-e6ea78f08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/370,3417,495,124/full/0/default.jpg
+line: 'Head: novelty|Entry: a|Entry: 524 [Novelty]|Entry: 4705 [PAGE_MISSING]|#item-a9e449c0a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1807,3174,654,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439518846
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449961672
+sort_value: '303233174'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/370,3417,495,124/150,/0/default.jpg
-label: needle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1807,3174,654,153/150,/0/default.jpg
+label: novelty
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

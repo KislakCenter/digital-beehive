@@ -2,9 +2,8 @@
 pid: index_1401
 volume: Volume 3
 image_number: '20'
-head: fainthearted
-entry: "<a href='/digital-beehive/alpha2/alpha_0310/'>a</a>|<a href='/digital-beehive/num10/num_3338/'>2366
-  [Fainthearted]</a>"
+head: far
+entry: 748 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2e82ccbca"
+item: "#item-3b14395a6"
 unparsed:
-line: 'Head: fainthearted|Entry: a|Entry: 2366 [Fainthearted]|#item-2e82ccbca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/352,615,778,152/full/0/default.jpg
+line: 'Head: far|Entry: 748 [PAGE_MISSING]|#item-3b14395a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/392,2803,325,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561399881364
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659161193
+sort_value: '302012803'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/352,615,778,152/150,/0/default.jpg
-label: fainthearted
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/392,2803,325,131/150,/0/default.jpg
+label: far
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

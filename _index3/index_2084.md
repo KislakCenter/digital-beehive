@@ -2,8 +2,8 @@
 pid: index_2084
 volume: Volume 3
 image_number: '26'
-head: joinery
-entry: "<a href='/digital-beehive/num4/num_1229/'>927 [Joinery]</a>"
+head: intricate
+entry: "<a href='/digital-beehive/num6/num_1760/'>1269 [Entangle & disentangle]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-86e5572cf"
+item: "#item-cbf48ccb1"
 unparsed:
-line: 'Head: joinery|Entry: 927 [Joinery]|#item-86e5572cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1846,2380,432,120/full/0/default.jpg
+line: 'Head: intricate|Entry: 1269 [Entangle & disentangle]|#item-cbf48ccb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1857,419,477,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559752151983
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750664051
+sort_value: '302630419'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1846,2380,432,120/150,/0/default.jpg
-label: joinery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1857,419,477,117/150,/0/default.jpg
+label: intricate
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

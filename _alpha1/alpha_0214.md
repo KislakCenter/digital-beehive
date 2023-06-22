@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0213/'>Death</a>|<a href='/digital-beehive/num3/num_0638/'>507
   [Death passed upon all men]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0948/'>death</a>"
+index: "<a href='/digital-beehive/index1/index_0965/'>death</a>"
 item: "#item-0f8d9dba5"
 unparsed:
 line: 'Entry: Death, continued|Topic: Death, continued|Xref: Death|Xref: 507 [Death
@@ -19,6 +19,7 @@ line: 'Entry: Death, continued|Topic: Death, continued|Xref: Death|Xref: 507 [De
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/721,201,3104,726/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1573245086403
+sort_value: '144810201'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/721,201,600,180/250,/0/default.jpg
 label: Death, continued

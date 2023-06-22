@@ -2,8 +2,8 @@
 pid: index_1476
 volume: Volume 3
 image_number: '20'
-head: to fasten
-entry: 816 [PAGE_MISSING]
+head: fleet
+entry: "<a href='/digital-beehive/num7/num_2565/'>1671 [Fleet]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-474ed2e97"
+item: "#item-cc45e850d"
 unparsed:
-line: 'Head: to fasten|Entry: 816 [PAGE_MISSING]|#item-474ed2e97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/324,3336,484,127/full/0/default.jpg
+line: 'Head: fleet|Entry: 1671 [Fleet]|#item-cc45e850d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,2763,392,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660337819
+annotation_uri: http://dev.llgc.org.uk/annotation/1562617150088
+sort_value: '302032763'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/324,3336,484,127/150,/0/default.jpg
-label: to fasten
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,2763,392,157/150,/0/default.jpg
+label: fleet
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

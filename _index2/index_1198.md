@@ -2,8 +2,8 @@
 pid: index_1198
 volume: Volume 3
 image_number: '18'
-head: to encompass
-entry: 739 [PAGE_MISSING]
+head: great Eaters, and to eat
+entry: 823 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-5fa62318c"
+item: "#item-e27c96a34"
 unparsed:
-line: 'Head: to encompass|Entry: 739 [PAGE_MISSING]|#item-5fa62318c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1846,718,569,180/full/0/default.jpg
+line: 'Head: great Eaters, and to eat|Entry: 823 [PAGE_MISSING]|#item-e27c96a34'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/380,3243,621,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754088858
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668280438
+sort_value: '301813243'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1846,718,569,180/150,/0/default.jpg
-label: to encompass
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/380,3243,621,180/150,/0/default.jpg
+label: great Eaters, and to eat
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '026'
+order: '017'
 layout: index_item
 collection: index2
 ---

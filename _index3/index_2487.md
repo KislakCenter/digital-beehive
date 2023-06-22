@@ -2,9 +2,9 @@
 pid: index_2487
 volume: Volume 3
 image_number: '30'
-head: master of arts
-entry: "<a href='/digital-beehive/alpha3/alpha_0578/'>a</a>|<a href='/digital-beehive/num2/num_0601/'>480
-  [Master of arts]</a>"
+head: merchandize
+entry: "<a href='/digital-beehive/alpha3/alpha_0589/'>a</a>|<a href='/digital-beehive/num1/num_0113/'>109
+  [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1044/'>714 [Market]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-37fdcd214"
+item: "#item-630404bd4"
 unparsed:
-line: 'Head: master of arts|Entry: a|Entry: 480 [Master of arts]|#item-37fdcd214'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/404,1851,567,88/full/0/default.jpg
+line: 'Head: merchandize|Entry: a|Entry: 109 [A Shop keeper]|Entry: 714 [Market]|#item-630404bd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,2507,728,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560264120078
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269101651
+sort_value: '303022507'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/404,1851,567,88/150,/0/default.jpg
-label: master of arts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,2507,728,153/150,/0/default.jpg
+label: merchandize
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

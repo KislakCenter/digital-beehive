@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0453/'>374 [Brevity]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0484/'>brevity</a>"
+index: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>"
 item: "#item-e1f315cb4"
 unparsed:
 line: 'Entry: Brevity|Topic: Brevity|Xref: 374 [Brevity]|Index: brevity|#item-e1f315cb4'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/839,1346,2976,452/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563207650584
+sort_value: '143811346'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/839,1346,600,180/250,/0/default.jpg
 label: Brevity

@@ -2,24 +2,25 @@
 pid: index_1830
 volume: Volume 3
 image_number: '24'
-head: histories Biblical
-entry:
+head: hieroglyphicks
+entry: "<a href='/digital-beehive/alpha2/alpha_0422/'>a</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_095/'>p.45 [Image 1.105]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-78747142d"
+item: "#item-9de07e679"
 unparsed:
-line: 'Head: histories Biblical|Page: p.45 [Image 1.105]|#item-78747142d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1166,234,646,160/full/0/default.jpg
+line: 'Head: hieroglyphicks|Entry: a|#item-9de07e679'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/434,1948,551,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580871327
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576502178
+sort_value: '302411948'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1166,234,646,160/150,/0/default.jpg
-label: histories Biblical
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/434,1948,551,148/150,/0/default.jpg
+label: hieroglyphicks
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

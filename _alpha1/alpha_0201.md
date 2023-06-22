@@ -10,13 +10,14 @@ page:
 add:
 xref: 4544 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index1/index_0929/'>crown</a>"
+index: "<a href='/digital-beehive/index1/index_0915/'>crown</a>"
 item: "#item-dbc28f448"
 unparsed:
 line: 'Entry: Crown|Topic: Crown|Xref: 4544 [PAGE_MISSING]|Index: crown|#item-dbc28f448'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/817,4378,2912,632/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563911846231
+sort_value: '144614378'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/817,4378,600,180/250,/0/default.jpg
 label: Crown

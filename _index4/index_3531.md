@@ -2,8 +2,8 @@
 pid: index_3531
 volume: Volume 3
 image_number: '41'
-head: schole fellows
-entry: "<a href='/digital-beehive/num6/num_2045/'>1416 [Schoolfellow]</a>"
+head: say so
+entry: "<a href='/digital-beehive/num6/num_2047/'>1417 [Say so]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-106e9a67c"
+item: "#item-6eca4121c"
 unparsed:
-line: 'Head: schole fellows|Entry: 1416 [Schoolfellow]|#item-106e9a67c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,1117,547,146/full/0/default.jpg
+line: 'Head: say so|Entry: 1417 [Say so]|#item-6eca4121c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/165,2527,395,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240513597
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240009251
+sort_value: '304112527'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,1117,547,146/150,/0/default.jpg
-label: schole fellows
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/165,2527,395,144/150,/0/default.jpg
+label: say so
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

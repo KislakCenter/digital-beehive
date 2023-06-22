@@ -2,8 +2,8 @@
 pid: index_3384
 volume: Volume 3
 image_number: '39'
-head: reins
-entry: 1841 [PAGE_MISSING]
+head: requisite
+entry: 823 [PAGE_MISSING]
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-91e581c0d"
+item: "#item-82f15752b"
 unparsed:
-line: 'Head: reins|Entry: 1841 [PAGE_MISSING]|#item-91e581c0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/121,2599,444,119/full/0/default.jpg
+line: 'Head: requisite|Entry: 823 [PAGE_MISSING]|#item-82f15752b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1481,686,563,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558465026765
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469770795
+sort_value: '303930686'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/121,2599,444,119/150,/0/default.jpg
-label: reins
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1481,686,563,154/150,/0/default.jpg
+label: requisite
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

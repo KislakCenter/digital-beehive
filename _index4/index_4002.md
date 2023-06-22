@@ -2,8 +2,8 @@
 pid: index_4002
 volume: Volume 3
 image_number: '46'
-head: surveyor
-entry: "<a href='/digital-beehive/num2/num_0500/'>407 [Surveyors]</a>"
+head: surity. b√ºrger
+entry: "<a href='/digital-beehive/alpha4/alpha_0936/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-68528daf6"
+item: "#item-ad9433e98"
 unparsed:
-line: 'Head: surveyor|Entry: 407 [Surveyors]|#item-68528daf6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1094,697,431,108/full/0/default.jpg
+line: 'Head: surity. b√ºrger|Entry: a|#item-ad9433e98'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/462,3203,549,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531684341017
+annotation_uri: http://dev.llgc.org.uk/annotation/1531683834456
+sort_value: '304613203'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1094,697,431,108/150,/0/default.jpg
-label: surveyor
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/462,3203,549,138/150,/0/default.jpg
+label: surity. b√ºrger
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1238'
+order: '1250'
 layout: index_item
 collection: index4
 ---

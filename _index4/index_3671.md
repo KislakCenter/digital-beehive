@@ -2,25 +2,25 @@
 pid: index_3671
 volume: Volume 3
 image_number: '42'
-head: short
-entry:
+head: a shew
+entry: 781 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0484/'>brevity</a>|<a href='/digital-beehive/index1/index_1171/'>dwarf</a>|<a
-  href='/digital-beehive/index5/index_4226/'>transitory</a>"
+see:
 index:
-item: "#item-de2a7d9a5"
+item: "#item-53d55f8e7"
 unparsed:
-line: 'Head: short|See: brevity|See: dwarf|See: transitory|#item-de2a7d9a5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1809,2454,699,193/full/0/default.jpg
+line: 'Head: a shew|Entry: 781 [PAGE_MISSING]|#item-53d55f8e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1830,581,407,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576420141
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575712602
+sort_value: '304230581'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1809,2454,699,193/150,/0/default.jpg
-label: short
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1830,581,407,104/150,/0/default.jpg
+label: a shew
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

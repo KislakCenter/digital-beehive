@@ -2,8 +2,8 @@
 pid: index_2235
 volume: Volume 3
 image_number: '28'
-head: leaven
-entry: "<a href='/digital-beehive/num1/num_0111/'>107 [Leaven]</a>"
+head: to lean on
+entry: 825 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-45298e76d"
+item: "#item-295755682"
 unparsed:
-line: 'Head: leaven|Entry: 107 [Leaven]|#item-45298e76d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/382,2733,402,112/full/0/default.jpg
+line: 'Head: to lean on|Entry: 825 [PAGE_MISSING]|#item-295755682'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/389,1531,557,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842556613
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842012711
+sort_value: '302811531'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/382,2733,402,112/150,/0/default.jpg
-label: leaven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/389,1531,557,97/150,/0/default.jpg
+label: to lean on
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

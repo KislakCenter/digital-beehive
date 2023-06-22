@@ -2,9 +2,9 @@
 pid: index_2203
 volume: Volume 3
 image_number: '27'
-head: Labour
-entry: "<a href='/digital-beehive/alpha3/alpha_0508/'>a</a>|<a href='/digital-beehive/num4/num_1265/'>948
-  [Labour]</a>|4725 [PAGE_MISSING]"
+head: last
+entry: "<a href='/digital-beehive/alpha3/alpha_0513/'>a</a>|<a href='/digital-beehive/num4/num_1234/'>928
+  [Last]</a>|<a href='/digital-beehive/num4/num_1235/'>928 [Finally]</a>"
 topic:
 first_letter: L
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9e1081349"
+item: "#item-a951d6020"
 unparsed:
-line: 'Head: Labour|Entry: a|Entry: 948 [Labour]|Entry: 4725 [PAGE_MISSING]|#item-9e1081349'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/819,2865,655,158/full/0/default.jpg
+line: 'Head: last|Entry: a|Entry: 928 [Last]|Entry: 928 [Finally]|#item-a951d6020'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1557,1550,422,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832004205
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835843926
+sort_value: '302731550'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/819,2865,655,158/150,/0/default.jpg
-label: Labour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1557,1550,422,139/150,/0/default.jpg
+label: last
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

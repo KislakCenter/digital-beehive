@@ -2,9 +2,8 @@
 pid: index_2010
 volume: Volume 3
 image_number: '25'
-head: impunity
-entry: "<a href='/digital-beehive/num2/num_0379/'>330 [Impunity]</a>|<a href='/digital-beehive/num5/num_1624/'>1192
-  [Want of Punishmt]</a>"
+head: incredulous
+entry: "<a href='/digital-beehive/num6/num_1739/'>1254 [Scepticism]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3d428a399"
+item: "#item-a713609f8"
 unparsed:
-line: 'Head: impunity|Entry: 330 [Impunity]|Entry: 1192 [Want of Punishmt]|#item-3d428a399'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/854,3149,628,137/full/0/default.jpg
+line: 'Head: incredulous|Entry: 1254 [Scepticism]|#item-a713609f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1566,2525,571,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668282463
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672281312
+sort_value: '302532525'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/854,3149,628,137/150,/0/default.jpg
-label: impunity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1566,2525,571,106/150,/0/default.jpg
+label: incredulous
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

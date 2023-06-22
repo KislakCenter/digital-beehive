@@ -2,8 +2,8 @@
 pid: index_4603
 volume: Volume 3
 image_number: '53'
-head: witchcraft natural
-entry: "<a href='/digital-beehive/num7/num_2296/'>1543 [Fascination]</a>"
+head: wooll
+entry: 851 [PAGE_MISSING]
 topic:
 first_letter: W
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-1ae98fbe1"
+item: "#item-6c4685bbc"
 unparsed:
-line: 'Head: witchcraft natural|Entry: 1543 [Fascination]|#item-1ae98fbe1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/171,1764,537,106/full/0/default.jpg
+line: 'Head: wooll|Entry: 851 [PAGE_MISSING]|#item-6c4685bbc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/871,1433,422,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792385732
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796293229
+sort_value: '305321433'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/171,1764,537,106/150,/0/default.jpg
-label: witchcraft natural
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/871,1433,422,99/150,/0/default.jpg
+label: wooll
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '566'
+order: '565'
 layout: index_item
 collection: index5
 ---

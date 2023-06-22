@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0924/'>Strife</a>|<a href='/digital-beehive/num1/num_0178/'>170
   [Disputation]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1145/'>disputation</a>"
+index: "<a href='/digital-beehive/index1/index_1094/'>disputation</a>"
 item: "#item-8b68258ba"
 unparsed:
 line: 'Entry: Disputation|Topic: Disputation|Xref: Strife|Xref: 170 [Disputation]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Disputation|Topic: Disputation|Xref: Strife|Xref: 170 [Disputation
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/792,3899,2939,651/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508175751529
+sort_value: '145013899'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/792,3899,600,180/250,/0/default.jpg
 label: Disputation

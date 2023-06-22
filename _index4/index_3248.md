@@ -2,25 +2,25 @@
 pid: index_3248
 volume: Volume 3
 image_number: '38'
-head: rarity
-entry: "<a href='/digital-beehive/alpha4/alpha_0777/'>a</a>|<a href='/digital-beehive/num6/num_2078/'>1429
-  [Rarity]</a>"
+head: to quake
+entry: "<a href='/digital-beehive/num3/num_0851/'>629 [To Quake]</a>"
 topic:
-first_letter: R
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-167d2b58d"
+item: "#item-b14a0629c"
 unparsed:
-line: 'Head: rarity|Entry: a|Entry: 1429 [Rarity]|#item-167d2b58d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1855,800,504,111/full/0/default.jpg
+line: 'Head: to quake|Entry: 629 [To Quake]|#item-b14a0629c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/375,3072,571,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460456007
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454708780
+sort_value: '303813072'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1855,800,504,111/150,/0/default.jpg
-label: rarity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/375,3072,571,156/150,/0/default.jpg
+label: to quake
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

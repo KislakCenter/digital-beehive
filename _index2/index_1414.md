@@ -2,8 +2,8 @@
 pid: index_1414
 volume: Volume 3
 image_number: '20'
-head: fear of god
-entry: 1888 [PAGE_MISSING]
+head: fathers
+entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c0aa3d1ec"
+item: "#item-505e358ce"
 unparsed:
-line: 'Head: fear of god|Entry: 1888 [PAGE_MISSING]|#item-c0aa3d1ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1120,1124,672,123/full/0/default.jpg
+line: 'Head: fathers|Entry: 73 [the Fathers]|#item-505e358ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1161,428,368,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562183357275
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660864534
+sort_value: '302020428'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1120,1124,672,123/150,/0/default.jpg
-label: fear of god
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1161,428,368,112/150,/0/default.jpg
+label: fathers
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

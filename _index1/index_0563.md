@@ -2,9 +2,8 @@
 pid: index_0563
 volume: Volume 3
 image_number: '12'
-head: Charles I
-entry: "<a href='/digital-beehive/num6/num_2194/'>1488 [K. Charles I]</a>|<a href='/digital-beehive/num6/num_2193/'>1488
-  [Stuart]</a>|<a href='/digital-beehive/num6/num_2195/'>1488 [K. Charles II]</a>"
+head: caterpillars
+entry: "<a href='/digital-beehive/num5/num_1533/'>1129 [Caterpillers]</a>"
 topic:
 first_letter: C
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5c1463806"
+item: "#item-22ee3e9a8"
 unparsed:
-line: 'Head: Charles I|Entry: 1488 [K. Charles I]|Entry: 1488 [Stuart]|Entry: 1488
-  [K. Charles II]|#item-5c1463806'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1820,362,582,116/full/0/default.jpg
+line: 'Head: caterpillars|Entry: 1129 [Caterpillers]|#item-22ee3e9a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,2759,625,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443815808
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098537057
+sort_value: '301212759'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1820,362,582,116/150,/0/default.jpg
-label: Charles I
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,2759,625,164/150,/0/default.jpg
+label: caterpillars
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

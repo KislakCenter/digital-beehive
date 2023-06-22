@@ -2,24 +2,25 @@
 pid: index_2743
 volume: Volume 3
 image_number: '32'
-head: neesing
-entry:
+head: nourishmt
+entry: "<a href='/digital-beehive/num7/num_2488/'>1637 [Nourishmt]</a>"
 topic:
 first_letter: N
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3716/'>Sneez</a>"
+see:
 index:
-item: "#item-a9e91958e"
+item: "#item-4efbea16d"
 unparsed:
-line: 'Head: neesing|See: Sneez|#item-a9e91958e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/373,3510,582,148/full/0/default.jpg
+line: 'Head: nourishmt|Entry: 1637 [Nourishmt]|#item-4efbea16d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1807,3449,562,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439550512
+annotation_uri: http://dev.llgc.org.uk/annotation/1560450137310
+sort_value: '303233449'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/373,3510,582,148/150,/0/default.jpg
-label: neesing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1807,3449,562,139/150,/0/default.jpg
+label: nourishmt
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

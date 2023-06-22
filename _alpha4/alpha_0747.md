@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0472/'>Increase</a>|<a href='/digital-beehive/alpha1/alpha_0222/'>Degree</a>|778
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3194/'>progress</a>"
+index: "<a href='/digital-beehive/index4/index_3182/'>progress</a>"
 item: "#item-e5e9e75fd"
 unparsed:
 line: 'Entry: Progress|Topic: Progress|Xref: Increase|Xref: Degree|Xref: 778 [PAGE_MISSING]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Progress|Topic: Progress|Xref: Increase|Xref: Degree|Xref: 778 [PA
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/330,3059,3017,504/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565100581952
+sort_value: '204313059'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/330,3059,600,180/250,/0/default.jpg
 label: Progress

@@ -2,8 +2,8 @@
 pid: index_2408
 volume: Volume 3
 image_number: '29'
-head: magnitude
-entry: 856 [PAGE_MISSING]
+head: mandrakes
+entry: "<a href='/digital-beehive/num8/num_2860/'>1939 [Mandrakes]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-acd320fb6"
+item: "#item-99d7d1566"
 unparsed:
-line: 'Head: magnitude|Entry: 856 [PAGE_MISSING]|#item-acd320fb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/827,2964,526,132/full/0/default.jpg
+line: 'Head: mandrakes|Entry: 1939 [Mandrakes]|#item-99d7d1566'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1548,1821,551,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560187187032
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195450838
+sort_value: '302931821'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/827,2964,526,132/150,/0/default.jpg
-label: magnitude
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1548,1821,551,121/150,/0/default.jpg
+label: mandrakes
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0990
 volume: Volume 3
 image_number: '16'
-head: Demetrius
-entry: "<a href='/digital-beehive/num5/num_1581/'>1161 [Cynicks]</a>"
+head: deformity
+entry: 4571 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-2c2092023"
+item: "#item-99fefb682"
 unparsed:
-line: 'Head: Demetrius|Entry: 1161 [Cynicks]|#item-2c2092023'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1107,360,531,82/full/0/default.jpg
+line: 'Head: deformity|Entry: 4571 [PAGE_MISSING]|#item-99fefb682'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/379,2030,627,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541604553616
+annotation_uri: http://dev.llgc.org.uk/annotation/1507576410464
+sort_value: '301612030'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1107,360,531,82/150,/0/default.jpg
-label: Demetrius
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/379,2030,627,128/150,/0/default.jpg
+label: deformity
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0988'
+order: '0989'
 layout: index_item
 collection: index1
 ---

@@ -2,25 +2,26 @@
 pid: index_2616
 volume: Volume 3
 image_number: '31'
-head: Moses
-entry: "<a href='/digital-beehive/num4/num_1171/'>901 [Moses]</a>|<a href='/digital-beehive/num7/num_2375/'>1583
-  [Moses]</a>|<a href='/digital-beehive/num8/num_2830/'>1921 [Moses]</a>"
+head: murder
+entry: "<a href='/digital-beehive/alpha3/alpha_0621/'>a</a>|<a href='/digital-beehive/num7/num_2219/'>1504
+  [Murder]</a>"
 topic:
 first_letter: M
 page:
-add:
+add: "<a href='/digital-beehive/index4/index_3622/'>Self</a>"
 xref:
 see:
 index:
-item: "#item-26d6908d3"
+item: "#item-7155f3c00"
 unparsed:
-line: 'Head: Moses|Entry: 901 [Moses]|Entry: 1583 [Moses]|Entry: 1921 [Moses]|#item-26d6908d3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,2955,649,116/full/0/default.jpg
+line: 'Head: murder|Entry: a|Entry: 1504 [Murder]|Add: Self|#item-7155f3c00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1551,1572,557,191/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356750570
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361517079
+sort_value: '303131572'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,2955,649,116/150,/0/default.jpg
-label: Moses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1551,1572,557,191/150,/0/default.jpg
+label: murder
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

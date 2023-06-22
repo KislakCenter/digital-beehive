@@ -2,8 +2,8 @@
 pid: index_1372
 volume: Volume 3
 image_number: '19'
-head: excursion
-entry: 4504 [PAGE_MISSING]
+head: eye lust
+entry: "<a href='/digital-beehive/alpha2/alpha_0308/'>a</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ce772de52"
+item: "#item-79fb27907"
 unparsed:
-line: 'Head: excursion|Entry: 4504 [PAGE_MISSING]|#item-ce772de52'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/820,3585,546,132/full/0/default.jpg
+line: 'Head: eye lust|Entry: a|#item-79fb27907'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1474,3535,418,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560365700992
+annotation_uri: http://dev.llgc.org.uk/annotation/1561398213504
+sort_value: '301933535'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/820,3585,546,132/150,/0/default.jpg
-label: excursion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1474,3535,418,120/150,/0/default.jpg
+label: eye lust
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_2685
 volume: Volume 3
 image_number: '32'
-head: nativity calculators of
-entry: "<a href='/digital-beehive/num6/num_1785/'>1283 [Calculators of Nativity]</a>"
+head: nerve
+entry: "<a href='/digital-beehive/num7/num_2499/'>1641 [Nerve : Sinew]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bf388e0a2"
+item: "#item-60e483734"
 unparsed:
-line: 'Head: nativity calculators of|Entry: 1283 [Calculators of Nativity]|#item-bf388e0a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/384,1424,690,124/full/0/default.jpg
+line: 'Head: nerve|Entry: 1641 [Nerve : Sinew]|#item-60e483734'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1171,840,394,77/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437771564
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441413268
+sort_value: '303220840'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/384,1424,690,124/150,/0/default.jpg
-label: nativity calculators of
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1171,840,394,77/150,/0/default.jpg
+label: nerve
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

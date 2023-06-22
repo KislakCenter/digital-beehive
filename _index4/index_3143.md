@@ -2,8 +2,8 @@
 pid: index_3143
 volume: Volume 3
 image_number: '37'
-head: privation
-entry: "<a href='/digital-beehive/num7/num_2438/'>1613 [Privation]</a>"
+head: pretention
+entry: "<a href='/digital-beehive/num6/num_1989/'>1389 [Pretension]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-442983350"
+item: "#item-5a9eac838"
 unparsed:
-line: 'Head: privation|Entry: 1613 [Privation]|#item-442983350'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/743,603,596,174/full/0/default.jpg
+line: 'Head: pretention|Entry: 1389 [Pretension]|#item-5a9eac838'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,1250,546,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867580151
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866301153
+sort_value: '303711250'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/743,603,596,174/150,/0/default.jpg
-label: privation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,1250,546,143/150,/0/default.jpg
+label: pretention
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

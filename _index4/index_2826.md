@@ -2,26 +2,29 @@
 pid: index_2826
 volume: Volume 3
 image_number: '33'
-head: onomast. Consid
-entry:
+head: original Sin
+entry: "<a href='/digital-beehive/alpha4/alpha_0671/'>a</a>|<a href='/digital-beehive/num5/num_1727/'>1248
+  [Original Sin]</a>|<a href='/digital-beehive/num10/num_3365/'>2393 [Original Pollution]</a>"
 topic:
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc1_231/'>p.88 [Image 1.241]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-786fc3af1"
+item: "#item-8d09edae6"
 unparsed:
-line: 'Head: onomast. Consid|Page: p.88 [Image 1.241]|#item-786fc3af1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/836,3327,713,151/full/0/default.jpg
+line: 'Head: original Sin|Entry: a|Entry: 1248 [Original Sin]|Entry: 2393 [Original
+  Pollution]|#item-8d09edae6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1484,2824,766,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538159936499
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163705785
+sort_value: '303332824'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/836,3327,713,151/150,/0/default.jpg
-label: onomast. Consid
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1484,2824,766,180/150,/0/default.jpg
+label: original Sin
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: The specific pages intended by "&c." are unclear. 
+issue:
 insertion_xref:
 order: '0074'
 layout: index_item

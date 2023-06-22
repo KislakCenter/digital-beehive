@@ -2,8 +2,8 @@
 pid: index_2504
 volume: Volume 3
 image_number: '30'
-head: Mauritius
-entry: "<a href='/digital-beehive/num6/num_1752/'>1262 [Mauritius]</a>"
+head: methuselah
+entry: "<a href='/digital-beehive/num8/num_2778/'>1897 [Methuselah]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b18fe6fd9"
+item: "#item-e40ac8cd3"
 unparsed:
-line: 'Head: Mauritius|Entry: 1262 [Mauritius]|#item-b18fe6fd9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/382,2392,496,115/full/0/default.jpg
+line: 'Head: methuselah|Entry: 1897 [Methuselah]|#item-e40ac8cd3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1842,836,562,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265338596
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273618397
+sort_value: '303030836'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/382,2392,496,115/150,/0/default.jpg
-label: Mauritius
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1842,836,562,106/150,/0/default.jpg
+label: methuselah
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0174/'>Considerateness</a>|<a href
   href='/digital-beehive/alpha1/alpha_0007/'>Admonishing</a>|<a href='/digital-beehive/num7/num_2233/'>1511
   [Warning]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0543/'>caution</a>"
+index: "<a href='/digital-beehive/index1/index_0572/'>caution</a>"
 item: "#item-d220c7710"
 unparsed:
 line: 'Entry: Caution|Topic: Caution|Xref: Considerateness|Xref: Providence|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Caution|Topic: Caution|Xref: Considerateness|Xref: Providence|Xref
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/861,3712,2949,487/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499370623652
+sort_value: '144013712'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/861,3712,600,180/250,/0/default.jpg
 label: Caution

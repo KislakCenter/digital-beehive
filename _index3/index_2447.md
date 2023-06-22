@@ -2,24 +2,25 @@
 pid: index_2447
 volume: Volume 3
 image_number: '30'
-head: medicine books
-entry:
+head: materia prima
+entry: "<a href='/digital-beehive/num7/num_2584/'>1681 [Creation]</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-72064cf15"
+item: "#item-d19ce408f"
 unparsed:
-line: 'Head: medicine books|Page: p.379 [Image 2.201]|#item-72064cf15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1118,286,457,109/full/0/default.jpg
+line: 'Head: materia prima|Entry: 1681 [Creation]|#item-d19ce408f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/384,1928,652,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267248226
+annotation_uri: http://dev.llgc.org.uk/annotation/1560264328625
+sort_value: '303011928'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1118,286,457,109/150,/0/default.jpg
-label: medicine books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/384,1928,652,91/150,/0/default.jpg
+label: materia prima
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

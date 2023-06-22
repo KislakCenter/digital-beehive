@@ -2,9 +2,8 @@
 pid: index_2105
 volume: Volume 3
 image_number: '26'
-head: interpretation
-entry: "<a href='/digital-beehive/alpha3/alpha_0488/'>a</a>|<a href='/digital-beehive/num4/num_1223/'>923
-  [Interpretation]</a>"
+head: joinery
+entry: "<a href='/digital-beehive/num4/num_1229/'>927 [Joinery]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7be42eb90"
+item: "#item-86e5572cf"
 unparsed:
-line: 'Head: interpretation|Entry: a|Entry: 923 [Interpretation]|#item-7be42eb90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,3102,618,146/full/0/default.jpg
+line: 'Head: joinery|Entry: 927 [Joinery]|#item-86e5572cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1846,2380,432,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559749247048
+annotation_uri: http://dev.llgc.org.uk/annotation/1559752151983
+sort_value: '302632380'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,3102,618,146/150,/0/default.jpg
-label: interpretation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1846,2380,432,120/150,/0/default.jpg
+label: joinery
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

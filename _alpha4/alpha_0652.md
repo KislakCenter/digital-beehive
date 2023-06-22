@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_2780/'>oats</a>"
+index: "<a href='/digital-beehive/index4/index_2754/'>oats</a>"
 item: "#item-3a7c1240f"
 unparsed:
 line: 'Entry: Oats|Topic: Oats|Index: oats|#item-3a7c1240f'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/749,3852,3008,396/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565015731146
+sort_value: '203613852'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/749,3852,600,180/250,/0/default.jpg
 label: Oats

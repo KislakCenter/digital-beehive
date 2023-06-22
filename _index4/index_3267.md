@@ -2,25 +2,25 @@
 pid: index_3267
 volume: Volume 3
 image_number: '38'
-head: purgatory
-entry: "<a href='/digital-beehive/alpha4/alpha_0765/'>a</a>|<a href='/digital-beehive/num7/num_2283/'>1534
-  [Purgatory]</a>"
+head: quill
+entry: "<a href='/digital-beehive/num2/num_0508/'>411 [Quill]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-cb38b29ed"
+item: "#item-2e7c6277e"
 unparsed:
-line: 'Head: purgatory|Entry: a|Entry: 1534 [Purgatory]|#item-cb38b29ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/427,1392,583,137/full/0/default.jpg
+line: 'Head: quill|Entry: 411 [Quill]|#item-2e7c6277e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1182,1605,432,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452156068
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455302103
+sort_value: '303821605'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/427,1392,583,137/150,/0/default.jpg
-label: purgatory
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1182,1605,432,108/150,/0/default.jpg
+label: quill
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

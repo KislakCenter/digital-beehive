@@ -2,9 +2,8 @@
 pid: index_2817
 volume: Volume 3
 image_number: '33'
-head: occasion
-entry: "<a href='/digital-beehive/alpha4/alpha_0658/'>a</a>|<a href='/digital-beehive/num3/num_1026/'>706
-  [Occasion]</a>"
+head: oration
+entry: "<a href='/digital-beehive/num6/num_2031/'>1409 [a Sermon]</a>"
 topic:
 first_letter: O
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-176b912ac"
+item: "#item-ab725b0ee"
 unparsed:
-line: 'Head: occasion|Entry: a|Entry: 706 [Occasion]|#item-176b912ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/121,2985,665,178/full/0/default.jpg
+line: 'Head: oration|Entry: 1409 [a Sermon]|#item-ab725b0ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1538,1880,500,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347595286
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161982834
+sort_value: '303331880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/121,2985,665,178/150,/0/default.jpg
-label: occasion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1538,1880,500,130/150,/0/default.jpg
+label: oration
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

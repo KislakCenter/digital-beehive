@@ -2,8 +2,8 @@
 pid: index_1355
 volume: Volume 3
 image_number: '19'
-head: establishmt
-entry: "<a href='/digital-beehive/num1/num_0148/'>143 [Establishmt]</a>"
+head: explanation
+entry: "<a href='/digital-beehive/num3/num_1042/'>713 [Explanation]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-15c73ba39"
+item: "#item-bf718f5c4"
 unparsed:
-line: 'Head: establishmt|Entry: 143 [Establishmt]|#item-15c73ba39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/123,2995,561,160/full/0/default.jpg
+line: 'Head: explanation|Entry: 713 [Explanation]|#item-bf718f5c4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1524,1596,583,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560282111107
+annotation_uri: http://dev.llgc.org.uk/annotation/1561395583936
+sort_value: '301931596'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/123,2995,561,160/150,/0/default.jpg
-label: establishmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1524,1596,583,163/150,/0/default.jpg
+label: explanation
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

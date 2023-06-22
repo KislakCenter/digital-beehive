@@ -2,28 +2,29 @@
 pid: index_3993
 volume: Volume 3
 image_number: '46'
-head: surprise
-entry:
+head: supposing
+entry: "<a href='/digital-beehive/num2/num_0376/'>327 [Supposing]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3032/'>perplex</a>|<a href='/digital-beehive/index5/index_4368/'>unawares</a>"
+see:
 index:
-item: "#item-9ce5e95f5"
+item: "#item-114f3c059"
 unparsed:
-line: 'Head: surprise|See: perplex|See: unawares|#item-9ce5e95f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1103,258,886,164/full/0/default.jpg
+line: 'Head: supposing|Entry: 327 [Supposing]|#item-114f3c059'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/451,2350,469,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531684103023
+annotation_uri: http://dev.llgc.org.uk/annotation/1530648190732
+sort_value: '304612350'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1103,258,886,164/150,/0/default.jpg
-label: surprise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/451,2350,469,148/150,/0/default.jpg
+label: supposing
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1232'
+order: '1241'
 layout: index_item
 collection: index4
 ---

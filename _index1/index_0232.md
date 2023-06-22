@@ -18,6 +18,7 @@ line: 'Head: At last|Entry: 928 [Last]|Entry: 928 [Finally]|#item-bb862ddd4'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1813,3512,466,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1491249223375
+sort_value: '300833512'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1813,3512,466,114/150,/0/default.jpg
 label: At last

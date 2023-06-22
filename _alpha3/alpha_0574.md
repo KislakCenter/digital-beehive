@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1468/'>1088 [Many men, many minds]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2417/'>many men many minds</a>"
+index: "<a href='/digital-beehive/index3/index_2422/'>many men many minds</a>"
 item: "#item-b18b9fcd1"
 unparsed:
 line: 'Entry: Many men, many minds|Topic: Many men, many minds|Xref: 1088 [Many men,
@@ -18,6 +18,7 @@ line: 'Entry: Many men, many minds|Topic: Many men, many minds|Xref: 1088 [Many 
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/331,964,3095,427/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564772531917
+sort_value: '203110964'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/331,964,600,180/250,/0/default.jpg
 label: Many men, many minds

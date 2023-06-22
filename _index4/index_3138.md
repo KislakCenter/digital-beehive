@@ -2,9 +2,8 @@
 pid: index_3138
 volume: Volume 3
 image_number: '37'
-head: privacy
-entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>|<a href='/digital-beehive/num5/num_1606/'>1178
-  [Privacy]</a>"
+head: to press souldiers
+entry: "<a href='/digital-beehive/num2/num_0614/'>490 [To list souldiers]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bd3a634f6"
+item: "#item-5c7d4ef26"
 unparsed:
-line: 'Head: privacy|Entry: a|Entry: 1178 [Privacy]|#item-bd3a634f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/764,415,598,149/full/0/default.jpg
+line: 'Head: to press souldiers|Entry: 490 [To list souldiers]|#item-5c7d4ef26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/106,809,671,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867539151
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866106434
+sort_value: '303710809'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/764,415,598,149/150,/0/default.jpg
-label: privacy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/106,809,671,108/150,/0/default.jpg
+label: to press souldiers
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

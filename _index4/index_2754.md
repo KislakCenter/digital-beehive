@@ -2,9 +2,8 @@
 pid: index_2754
 volume: Volume 3
 image_number: '33'
-head: office
-entry: "<a href='/digital-beehive/alpha4/alpha_0660/'>a</a>|<a href='/digital-beehive/num5/num_1695/'>1232
-  [Offices]</a>"
+head: oats
+entry: "<a href='/digital-beehive/alpha4/alpha_0652/'>a</a>"
 topic:
 first_letter: O
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-8106d4a69"
+item: "#item-0be4a7bf6"
 unparsed:
-line: 'Head: office|Entry: a|Entry: 1232 [Offices]|#item-8106d4a69'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/808,586,558,142/full/0/default.jpg
+line: 'Head: oats|Entry: a|#item-0be4a7bf6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/175,1574,295,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347988665
+annotation_uri: http://dev.llgc.org.uk/annotation/1510673932593
+sort_value: '303311574'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/808,586,558,142/150,/0/default.jpg
-label: office
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/175,1574,295,96/150,/0/default.jpg
+label: oats
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0007'
+order: '0002'
 layout: index_item
 collection: index4
 ---

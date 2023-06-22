@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0693/'>Patience</a>|<a href='/digital-beehive/num5/num_1563/'>1147
   [Impatience]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1956/'>impatience</a>"
+index: "<a href='/digital-beehive/index3/index_1965/'>impatience</a>"
 item: "#item-267c3ac3f"
 unparsed:
 line: 'Entry: Impatience|Topic: Impatience|Xref: Patience|Xref: 1147 [Impatience]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Impatience|Topic: Impatience|Xref: Patience|Xref: 1147 [Impatience
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/746,1358,2991,758/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759390397
+sort_value: '202211358'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/746,1358,600,180/250,/0/default.jpg
 label: Impatience

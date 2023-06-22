@@ -2,9 +2,8 @@
 pid: index_3648
 volume: Volume 3
 image_number: '42'
-head: Self holiness
-entry: "<a href='/digital-beehive/num2/num_0340/'>300 [Self holiness, Self righteous]</a>|<a
-  href='/digital-beehive/num10/num_3441/'>4459 [Self holiness]</a>"
+head: to settle
+entry: "<a href='/digital-beehive/num1/num_0148/'>143 [Establishmt]</a>"
 topic:
 first_letter: S
 page:
@@ -12,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-055cdeea0"
+item: "#item-3851bc22a"
 unparsed:
-line: 'Head: Self holiness|Entry: 300 [Self holiness, Self righteous]|Entry: 4459
-  [Self holiness]|#item-055cdeea0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/413,1580,753,153/full/0/default.jpg
+line: 'Head: to settle|Entry: 143 [Establishmt]|#item-3851bc22a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1114,1428,600,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244583455
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574120758
+sort_value: '304221428'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/413,1580,753,153/150,/0/default.jpg
-label: Self holiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1114,1428,600,157/150,/0/default.jpg
+label: to settle
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

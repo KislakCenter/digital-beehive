@@ -2,24 +2,25 @@
 pid: index_3412
 volume: Volume 3
 image_number: '40'
-head: sack
-entry: 4637 [PAGE_MISSING]
+head: revolution
+entry:
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2502/'>metempsychosis</a>"
 index:
-item: "#item-5c00da219"
+item: "#item-67585363e"
 unparsed:
-line: 'Head: sack|Entry: 4637 [PAGE_MISSING]|#item-5c00da219'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,1209,353,107/full/0/default.jpg
+line: 'Head: revolution|See: metempsychosis|#item-67585363e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/454,776,721,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234627074
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231488418
+sort_value: '304010776'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,1209,353,107/150,/0/default.jpg
-label: sack
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/454,776,721,164/150,/0/default.jpg
+label: revolution
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

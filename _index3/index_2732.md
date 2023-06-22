@@ -2,8 +2,8 @@
 pid: index_2732
 volume: Volume 3
 image_number: '32'
-head: neck cloth
-entry: "<a href='/digital-beehive/num7/num_2653/'>1729 [Neck cloth]</a>"
+head: not
+entry: "<a href='/digital-beehive/num4/num_1328/'>996 [Not]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6682d301a"
+item: "#item-04251707f"
 unparsed:
-line: 'Head: neck cloth|Entry: 1729 [Neck cloth]|#item-6682d301a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/370,3096,480,140/full/0/default.jpg
+line: 'Head: not|Entry: 996 [Not]|#item-04251707f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2143,279,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439245651
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449229025
+sort_value: '303232143'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/370,3096,480,140/150,/0/default.jpg
-label: neck cloth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2143,279,101/150,/0/default.jpg
+label: not
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

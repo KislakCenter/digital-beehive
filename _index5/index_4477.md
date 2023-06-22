@@ -2,8 +2,8 @@
 pid: index_4477
 volume: Volume 3
 image_number: '51'
-head: wager
-entry: "<a href='/digital-beehive/alpha5/alpha_1022/'>a</a>"
+head: wares
+entry: "<a href='/digital-beehive/num3/num_1045/'>714 [Wares]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-3ca7b2d38"
+item: "#item-0c2e49089"
 unparsed:
-line: 'Head: wager|Entry: a|#item-3ca7b2d38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/966,3332,359,112/full/0/default.jpg
+line: 'Head: wares|Entry: 714 [Wares]|#item-0c2e49089'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1618,2638,386,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647232097
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648425875
+sort_value: '305132638'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/966,3332,359,112/150,/0/default.jpg
-label: wager
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1618,2638,386,123/150,/0/default.jpg
+label: wares
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '440'
+order: '439'
 layout: index_item
 collection: index5
 ---

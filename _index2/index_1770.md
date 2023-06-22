@@ -2,24 +2,25 @@
 pid: index_1770
 volume: Volume 3
 image_number: '23'
-head: Guiana
-entry: "<a href='/digital-beehive/num7/num_2245/'>1517 [Guiana]</a>"
+head: haughtiness
+entry: "<a href='/digital-beehive/num5/num_1677/'>1224 [Insolence]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-950038cde"
+item: "#item-ea505f647"
 unparsed:
-line: 'Head: Guiana|Entry: 1517 [Guiana]|#item-950038cde'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/139,2210,405,124/full/0/default.jpg
+line: 'Head: haughtiness|Entry: 1224 [Insolence]|#item-ea505f647'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/818,3187,551,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232528527
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241414503
+sort_value: '302323187'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/139,2210,405,124/150,/0/default.jpg
-label: Guiana
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/818,3187,551,141/150,/0/default.jpg
+label: haughtiness
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

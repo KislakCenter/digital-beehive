@@ -2,9 +2,8 @@
 pid: index_3727
 volume: Volume 3
 image_number: '43'
-head: snow
-entry: "<a href='/digital-beehive/alpha4/alpha_0895/'>a</a>|<a href='/digital-beehive/num7/num_2568/'>1672
-  [Snow]</a>"
+head: singular
+entry: 755 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6f62af41c"
+item: "#item-d8f26e5c0"
 unparsed:
-line: 'Head: snow|Entry: a|Entry: 1672 [Snow]|#item-6f62af41c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1582,1307,500,104/full/0/default.jpg
+line: 'Head: singular|Entry: 755 [PAGE_MISSING]|#item-d8f26e5c0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/849,379,534,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585453052
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582857225
+sort_value: '304320379'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1582,1307,500,104/150,/0/default.jpg
-label: snow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/849,379,534,128/150,/0/default.jpg
+label: singular
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_4716
 volume: Volume 3
 image_number: '54'
-head: Cures. curable
-entry: "<a href='/digital-beehive/num8/num_2913/'>1982 [Cures]</a>"
+head: Pan
+entry: 4525 [PAGE_MISSING]
 topic:
 first_letter: insertion
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-44350ab74"
-unparsed: Type Index|Insertion [:16.]
-line: 'Type: Index|Insertion: [:16.]|Head: Cures. curable|Entry: 1982 [Cures]|#item-44350ab74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/379,2435,507,162/full/0/default.jpg
+item: "#item-cb86f577c"
+unparsed: Type Index|Insertion [:48.]
+line: 'Type: Index|Insertion: [:48.]|Head: Pan|Entry: 4525 [PAGE_MISSING]|#item-cb86f577c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1774,302,563,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560869044221
-insertion: "[:16.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/379,2435,507,162/150,/0/default.jpg
-label: Cures. curable
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956107621
+sort_value: '305430302'
+insertion: "[:48.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1774,302,563,152/150,/0/default.jpg
+label: Pan
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '679'
+order: '678'
 layout: index_item
 collection: index5
 ---

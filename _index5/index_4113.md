@@ -2,8 +2,8 @@
 pid: index_4113
 volume: Volume 3
 image_number: '47'
-head: till or until
-entry: "<a href='/digital-beehive/num6/num_2007/'>1398 [Till until]</a>"
+head: therefore
+entry: "<a href='/digital-beehive/num4/num_1230/'>927 [Therefore]</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-74a23949e"
+item: "#item-5ba0f0c16"
 unparsed:
-line: 'Head: till or until|Entry: 1398 [Till until]|#item-74a23949e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,1782,573,164/full/0/default.jpg
+line: 'Head: therefore|Entry: 927 [Therefore]|#item-5ba0f0c16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,1263,374,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294707150
+annotation_uri: http://dev.llgc.org.uk/annotation/1532720715396
+sort_value: '304721263'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,1782,573,164/150,/0/default.jpg
-label: till or until
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,1263,374,107/150,/0/default.jpg
+label: therefore
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '076'
+order: '075'
 layout: index_item
 collection: index5
 ---

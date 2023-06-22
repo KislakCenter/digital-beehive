@@ -2,8 +2,9 @@
 pid: index_0981
 volume: Volume 3
 image_number: '16'
-head: "[:63.]"
-entry:
+head: dedication
+entry: "<a href='/digital-beehive/alpha1/alpha_0217/'>a</a>|<a href='/digital-beehive/num6/num_1905/'>1348
+  [Epistle Dedicatory]</a>|4628 [PAGE_MISSING]"
 topic:
 first_letter: D
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-b38c1d5b6"
-unparsed: 'Type: Index|Insertion Xref: [:63.]|#item-b38c1d5b6'
-line: 'Type: Index|Insertion Xref: [:63.]|#item-b38c1d5b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/2333,2126,201,199/full/0/default.jpg
+item: "#item-c1ffbb676"
+unparsed:
+line: 'Head: dedication|Entry: a|Entry: 1348 [Epistle Dedicatory]|Entry: 4628 [PAGE_MISSING]|#item-c1ffbb676'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/365,1066,763,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276104118
+annotation_uri: http://dev.llgc.org.uk/annotation/1507573325859
+sort_value: '301611066'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/2333,2126,201,199/150,/0/default.jpg
-label: "[:63.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/365,1066,763,88/150,/0/default.jpg
+label: dedication
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4714/'>Dinah</a>"
-order: '0979'
+insertion_xref:
+order: '0980'
 layout: index_item
 collection: index1
 ---

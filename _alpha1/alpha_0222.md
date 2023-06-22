@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0702/'>Perfection</a>|<a href='/digital-beehive/alpha4/alpha_0747/'>Progress</a>|<a
   href='/digital-beehive/num6/num_1962/'>1377 [Great with young]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1038/'>degree</a>"
+index: "<a href='/digital-beehive/index1/index_0993/'>degree</a>"
 item: "#item-b4234514f"
 unparsed:
 line: 'Entry: Degree|Topic: Degree|Xref: Perfection|Xref: Progress|Xref: 1377 [Great
@@ -19,6 +19,7 @@ line: 'Entry: Degree|Topic: Degree|Xref: Perfection|Xref: Progress|Xref: 1377 [G
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/799,3740,2968,417/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507576466054
+sort_value: '144813740'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/799,3740,600,180/250,/0/default.jpg
 label: Degree

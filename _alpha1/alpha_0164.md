@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha2/alpha_0298/'>Example</a>|<a href='/digit
   href='/digital-beehive/num3/num_0856/'>632 [Stock]</a>|<a href='/digital-beehive/num4/num_1080/'>866
   [Train]</a>|<a href='/digital-beehive/num2/num_0319/'>283 [Company]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0746/'>company</a>"
+index: "<a href='/digital-beehive/index1/index_0753/'>company</a>"
 item: "#item-ece88d81a"
 unparsed:
 line: 'Entry: Company|Topic: Company|Xref: Example|Xref: Solitude|Xref: 632 [Stock]|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Company|Topic: Company|Xref: Example|Xref: Solitude|Xref: 632 [Sto
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/312,1736,3167,541/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563823827126
+sort_value: '144311736'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/312,1736,600,180/250,/0/default.jpg
 label: Company

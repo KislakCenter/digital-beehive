@@ -2,24 +2,25 @@
 pid: index_1502
 volume: Volume 3
 image_number: '21'
-head: to foster
-entry:
+head: foregoing
+entry: "<a href='/digital-beehive/num8/num_2710/'>1779 [Foregoing]</a>"
 topic:
 first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3951/'>suck</a>"
+see:
 index:
-item: "#item-a6dae9385"
+item: "#item-6de66383b"
 unparsed:
-line: 'Head: to foster|See: suck|#item-a6dae9385'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/893,696,632,99/full/0/default.jpg
+line: 'Head: foregoing|Entry: 1779 [Foregoing]|#item-6de66383b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/154,1950,504,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531763030417
+annotation_uri: http://dev.llgc.org.uk/annotation/1531501943386
+sort_value: '302111950'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/893,696,632,99/150,/0/default.jpg
-label: to foster
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/154,1950,504,85/150,/0/default.jpg
+label: foregoing
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

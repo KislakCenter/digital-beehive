@@ -2,24 +2,26 @@
 pid: index_3443
 volume: Volume 3
 image_number: '40'
-head: revolution
-entry:
+head: romance
+entry: "<a href='/digital-beehive/alpha4/alpha_0818/'>a</a>|<a href='/digital-beehive/num6/num_1997/'>1393
+  [Romances]</a>"
 topic:
 first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2458/'>metempsychosis</a>"
+see:
 index:
-item: "#item-67585363e"
+item: "#item-6af490f6b"
 unparsed:
-line: 'Head: revolution|See: metempsychosis|#item-67585363e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/454,776,721,164/full/0/default.jpg
+line: 'Head: romance|Entry: a|Entry: 1393 [Romances]|#item-6af490f6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231488418
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233052220
+sort_value: '304020819'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/454,776,721,164/150,/0/default.jpg
-label: revolution
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/150,/0/default.jpg
+label: romance
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

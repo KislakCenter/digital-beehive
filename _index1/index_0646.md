@@ -21,6 +21,7 @@ line: 'Head: Christ in us|Entry: 36 [God with - & in men]|Entry: 267 [God is in 
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1822,3514,684,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532462107560
+sort_value: '301233514'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1822,3514,684,141/150,/0/default.jpg
 label: Christ in us

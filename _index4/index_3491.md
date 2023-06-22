@@ -2,24 +2,25 @@
 pid: index_3491
 volume: Volume 3
 image_number: '40'
-head: ripeness
-entry: "<a href='/digital-beehive/num3/num_0814/'>612 [Ripeness]</a>"
+head: sagacity
+entry:
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4571/'>wit</a>"
 index:
-item: "#item-f383a352d"
+item: "#item-0c59a386a"
 unparsed:
-line: 'Head: ripeness|Entry: 612 [Ripeness]|#item-f383a352d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/441,2941,480,152/full/0/default.jpg
+line: 'Head: sagacity|See: wit|#item-0c59a386a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1829,2464,562,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232516956
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235133686
+sort_value: '304032464'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/441,2941,480,152/150,/0/default.jpg
-label: ripeness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1829,2464,562,121/150,/0/default.jpg
+label: sagacity
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

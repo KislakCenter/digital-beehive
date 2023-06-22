@@ -2,9 +2,9 @@
 pid: index_2074
 volume: Volume 3
 image_number: '26'
-head: infirmity
-entry: "<a href='/digital-beehive/alpha3/alpha_0476/'>a</a>|<a href='/digital-beehive/num2/num_0374/'>325
-  [Infirmity]</a>|<a href='/digital-beehive/num7/num_2643/'>1719 [Infirmity]</a>"
+head: intention
+entry: "<a href='/digital-beehive/alpha3/alpha_0486/'>a</a>|<a href='/digital-beehive/num5/num_1501/'>1109
+  [Intention]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5f83acda4"
+item: "#item-5f7b5c547"
 unparsed:
-line: 'Head: infirmity|Entry: a|Entry: 325 [Infirmity]|Entry: 1719 [Infirmity]|#item-5f83acda4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/433,1924,711,151/full/0/default.jpg
+line: 'Head: intention|Entry: a|Entry: 1109 [Intention]|#item-5f7b5c547'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1139,2674,602,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744594058
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748953627
+sort_value: '302622674'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/433,1924,711,151/150,/0/default.jpg
-label: infirmity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1139,2674,602,156/150,/0/default.jpg
+label: intention
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

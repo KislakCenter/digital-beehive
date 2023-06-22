@@ -18,13 +18,14 @@ line: 'Head: strange words|Entry: 536 [Rare words]|Entry: 1629 [Rare words]|#ite
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/885,1947,722,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560796748840
+sort_value: '305321947'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/885,1947,722,148/150,/0/default.jpg
 label: strange words
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '571'
+order: '570'
 layout: index_item
 collection: index5
 ---

@@ -2,8 +2,8 @@
 pid: index_1656
 volume: Volume 3
 image_number: '22'
-head: gradually
-entry: "<a href='/digital-beehive/num4/num_1140/'>887 [Successively]</a>"
+head: God's vengeange
+entry: "<a href='/digital-beehive/num2/num_0581/'>466 [Gods Vengeance]</a>"
 topic:
 first_letter: G
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8f84e24ed"
+item: "#item-989accad8"
 unparsed:
-line: 'Head: gradually|Entry: 887 [Successively]|#item-8f84e24ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1845,1760,477,122/full/0/default.jpg
+line: 'Head: God''s vengeange|Entry: 466 [Gods Vengeance]|#item-989accad8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1163,2551,538,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052936245
+annotation_uri: http://dev.llgc.org.uk/annotation/1561048118856
+sort_value: '302222551'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1845,1760,477,122/150,/0/default.jpg
-label: gradually
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1163,2551,538,124/150,/0/default.jpg
+label: God's vengeange
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_3300
 volume: Volume 3
 image_number: '38'
-head: Pythagoras
-entry: "<a href='/digital-beehive/num5/num_1419/'>1056 [Pythagoras]</a>"
+head: to ratify
+entry: "<a href='/digital-beehive/num3/num_0889/'>649 [Consent]</a>"
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-3e74dcc8c"
+item: "#item-6e80b0927"
 unparsed:
-line: 'Head: Pythagoras|Entry: 1056 [Pythagoras]|#item-3e74dcc8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/415,2638,568,147/full/0/default.jpg
+line: 'Head: to ratify|Entry: 649 [Consent]|#item-6e80b0927'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1871,1261,470,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452656125
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460859596
+sort_value: '303831261'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/415,2638,568,147/150,/0/default.jpg
-label: Pythagoras
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1871,1261,470,145/150,/0/default.jpg
+label: to ratify
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

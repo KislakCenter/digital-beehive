@@ -2,8 +2,8 @@
 pid: index_0475
 volume: Volume 3
 image_number: '11'
-head: breeches
-entry: "<a href='/digital-beehive/num10/num_3439/'>4457 [Breeches]</a>"
+head: bunch
+entry: "<a href='/digital-beehive/num3/num_1055/'>717 [Bossed]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a431389f4"
+item: "#item-aad42078f"
 unparsed:
-line: 'Head: breeches|Entry: 4457 [Breeches]|#item-a431389f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/185,1487,502,97/full/0/default.jpg
+line: 'Head: bunch|Entry: 717 [Bossed]|#item-aad42078f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/887,869,357,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531418241471
+annotation_uri: http://dev.llgc.org.uk/annotation/1531420602948
+sort_value: '301120869'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/185,1487,502,97/150,/0/default.jpg
-label: breeches
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/887,869,357,124/150,/0/default.jpg
+label: bunch
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_2148
 volume: Volume 3
 image_number: '27'
-head: itch
-entry:
+head: Geo. Keith
+entry: "<a href='/digital-beehive/num5/num_1394/'>1042 [George Keith]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3577/'>scab</a>"
+see:
 index:
-item: "#item-e4083e4d5"
+item: "#item-4c77a0a5a"
 unparsed:
-line: 'Head: itch|See: scab|#item-e4083e4d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/142,1137,394,121/full/0/default.jpg
+line: 'Head: Geo. Keith|Entry: 1042 [George Keith]|#item-4c77a0a5a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/100,3202,551,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559757035702
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759525539
+sort_value: '302713202'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/142,1137,394,121/150,/0/default.jpg
-label: itch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/100,3202,551,158/150,/0/default.jpg
+label: Geo. Keith
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -17,6 +17,7 @@ line: 'Head: pewter|Entry: 1650 [Pewter]|#item-1ce131ac2'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/826,1599,543,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1539974436938
+sort_value: '303521599'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/826,1599,543,134/150,/0/default.jpg
 label: pewter

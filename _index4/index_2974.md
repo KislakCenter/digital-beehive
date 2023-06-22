@@ -2,9 +2,8 @@
 pid: index_2974
 volume: Volume 3
 image_number: '35'
-head: pimples
-entry: "<a href='/digital-beehive/num5/num_1613/'>1183 [Pimples, redness & inflam[m]ation
-  in the face]</a>"
+head: Peter
+entry: "<a href='/digital-beehive/num2/num_0377/'>328 [Peter]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-504a0a72a"
+item: "#item-5580c63d8"
 unparsed:
-line: 'Head: pimples|Entry: 1183 [Pimples, redness & inflam[m]ation in the face]|#item-504a0a72a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1517,1527,487,119/full/0/default.jpg
+line: 'Head: Peter|Entry: 328 [Peter]|#item-5580c63d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/810,1279,403,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976434408
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974255948
+sort_value: '303521279'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1517,1527,487,119/150,/0/default.jpg
-label: pimples
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/810,1279,403,115/150,/0/default.jpg
+label: Peter
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

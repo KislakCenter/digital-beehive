@@ -2,8 +2,8 @@
 pid: index_3949
 volume: Volume 3
 image_number: '45'
-head: to stretch
-entry: "<a href='/digital-beehive/num1/num_0149/'>143 [to Stretchout]</a>"
+head: to stumble
+entry: "<a href='/digital-beehive/num3/num_1027/'>706 [to Stumble]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4f9eeb7ec"
+item: "#item-4a25ea1db"
 unparsed:
-line: 'Head: to stretch|Entry: 143 [to Stretchout]|#item-4f9eeb7ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,2590,464,118/full/0/default.jpg
+line: 'Head: to stumble|Entry: 706 [to Stumble]|#item-4a25ea1db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,368,515,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290838021
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467065285
+sort_value: '304530368'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,2590,464,118/150,/0/default.jpg
-label: to stretch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,368,515,123/150,/0/default.jpg
+label: to stumble
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

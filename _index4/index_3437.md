@@ -2,24 +2,25 @@
 pid: index_3437
 volume: Volume 3
 image_number: '40'
-head: ruptures
-entry: "<a href='/digital-beehive/num3/num_0769/'>593 [Ruptures]</a>"
+head: river
+entry: "<a href='/digital-beehive/alpha4/alpha_0816/'>a</a>|4551 [WORD_MISSING]"
 topic:
 first_letter: R
-page:
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-f076b1043"
+item: "#item-ecccc25af"
 unparsed:
-line: 'Head: ruptures|Entry: 593 [Ruptures]|#item-f076b1043'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,481,481,138/full/0/default.jpg
+line: 'Head: river|Page: p.30 [Image 1.90]|Entry: a|Entry: 4551 [WORD_MISSING]|#item-ecccc25af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/448,3354,639,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234410066
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232701316
+sort_value: '304013354'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,481,481,138/150,/0/default.jpg
-label: ruptures
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/448,3354,639,140/150,/0/default.jpg
+label: river
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

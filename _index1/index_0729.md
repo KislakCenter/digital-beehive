@@ -2,25 +2,28 @@
 pid: index_0729
 volume: Volume 3
 image_number: '13'
-head: cock
-entry: "<a href='/digital-beehive/num3/num_1070/'>723 [a Cock]</a>|<a href='/digital-beehive/num8/num_2696/'>1765
-  [Cock]</a>"
+head: comedy
+entry: "<a href='/digital-beehive/alpha1/alpha_0156/'>a</a>|<a href='/digital-beehive/num4/num_1187/'>909
+  [Comedies]</a>|<a href='/digital-beehive/num6/num_1968/'>1380 [Comedie]</a>|4558
+  [PAGE_MISSING]"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-ba6239de5"
+item: "#item-73c5f622f"
 unparsed:
-line: 'Head: cock|Page: p.35 [Image 1.95]|Entry: 723 [a Cock]|Entry: 1765 [Cock]|#item-ba6239de5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/844,2697,658,162/full/0/default.jpg
+line: 'Head: comedy|Page: p.41 [Image 1.101]|Entry: a|Entry: 909 [Comedies]|Entry:
+  1380 [Comedie]|Entry: 4558 [PAGE_MISSING]|#item-73c5f622f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1543,1103,732,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608597793
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610589800
+sort_value: '301331103'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/844,2697,658,162/150,/0/default.jpg
-label: cock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1543,1103,732,160/150,/0/default.jpg
+label: comedy
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

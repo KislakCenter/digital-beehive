@@ -2,8 +2,8 @@
 pid: index_0347
 volume: Volume 3
 image_number: '10'
-head: to bely
-entry: a
+head: Bellarmine
+entry: "<a href='/digital-beehive/num8/num_2737/'>1804 [Bellarmine]</a>"
 topic:
 first_letter: B
 page:
@@ -11,17 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-6eb1f168e"
+item: "#item-c4273e6db"
 unparsed:
-line: 'Head: to bely|Entry: a|#item-6eb1f168e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/387,1364,370,128/full/0/default.jpg
+line: 'Head: Bellarmine|Entry: 1804 [Bellarmine]|#item-c4273e6db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/372,1044,587,81/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531147536040
+annotation_uri: http://dev.llgc.org.uk/annotation/1531147345995
+sort_value: '301011044'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/387,1364,370,128/150,/0/default.jpg
-label: to bely
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/372,1044,587,81/150,/0/default.jpg
+label: Bellarmine
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified.
+issue:
 insertion_xref:
 order: '0346'
 layout: index_item

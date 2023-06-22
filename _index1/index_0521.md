@@ -2,24 +2,25 @@
 pid: index_0521
 volume: Volume 3
 image_number: '11'
-head: by the by
-entry: "<a href='/digital-beehive/num2/num_0403/'>347 [Digression]</a>"
+head: canary bird
+entry: "<a href='/digital-beehive/alpha1/alpha_0118/'>a</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-63090b40f"
+item: "#item-3bcf6fab4"
 unparsed:
-line: 'Head: by the by|Entry: 347 [Digression]|#item-63090b40f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/874,2915,490,102/full/0/default.jpg
+line: 'Head: canary bird|Entry: a|#item-3bcf6fab4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,1560,540,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493558979
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495075763
+sort_value: '301131560'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/874,2915,490,102/150,/0/default.jpg
-label: by the by
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,1560,540,115/150,/0/default.jpg
+label: canary bird
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_4611
 volume: Volume 3
 image_number: '53'
-head: old & new words
-entry: "<a href='/digital-beehive/num11/num_3504/'>4810 [Old & obsolete words : New
-  fangled words]</a>"
+head: work
+entry: "<a href='/digital-beehive/alpha5/alpha_1059/'>a</a>"
 topic:
 first_letter: W
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-6898f208f"
+item: "#item-9777e87db"
 unparsed:
-line: 'Head: old & new words|Entry: 4810 [Old & obsolete words : New fangled words]|#item-6898f208f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/874,2030,555,92/full/0/default.jpg
+line: 'Head: work|Entry: a|#item-9777e87db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/876,2239,360,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796827396
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796989988
+sort_value: '305322239'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/874,2030,555,92/150,/0/default.jpg
-label: old & new words
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/876,2239,360,99/150,/0/default.jpg
+label: work
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '574'
+order: '573'
 layout: index_item
 collection: index5
 ---

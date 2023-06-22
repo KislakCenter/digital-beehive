@@ -2,8 +2,8 @@
 pid: index_0403
 volume: Volume 3
 image_number: '10'
-head: blanc verse
-entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>"
+head: womens bodies
+entry: "<a href='/digital-beehive/num6/num_1916/'>1353 [womens bodies]</a>"
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-42fb60a32"
+item: "#item-cb9e3b4e3"
 unparsed:
-line: 'Head: blanc verse|Entry: 1585 [Verses]|#item-42fb60a32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1090,1930,600,106/full/0/default.jpg
+line: 'Head: womens bodies|Entry: 1353 [womens bodies]|#item-cb9e3b4e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1805,531,609,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531150732751
+annotation_uri: http://dev.llgc.org.uk/annotation/1531152496635
+sort_value: '301030531'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1090,1930,600,106/150,/0/default.jpg
-label: blanc verse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1805,531,609,116/150,/0/default.jpg
+label: womens bodies
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
 insertion_xref:

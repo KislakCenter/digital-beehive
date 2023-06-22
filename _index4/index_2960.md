@@ -2,10 +2,8 @@
 pid: index_2960
 volume: Volume 3
 image_number: '35'
-head: perverting
-entry: "<a href='/digital-beehive/num1/num_0126/'>122 [Perverting]</a>|<a href='/digital-beehive/num2/num_0314/'>279
-  [Perverting]</a>|<a href='/digital-beehive/num6/num_1774/'>1278 [Perverting]</a>|<a
-  href='/digital-beehive/num10/num_3403/'>2429 [Perverting]</a>"
+head: perjury
+entry: "<a href='/digital-beehive/num1/num_0152/'>146 [Perjury]</a>"
 topic:
 first_letter: P
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3be3127fa"
+item: "#item-6f00d94ea"
 unparsed:
-line: 'Head: perverting|Entry: 122 [Perverting]|Entry: 279 [Perverting]|Entry: 1278
-  [Perverting]|Entry: 2429 [Perverting]|#item-3be3127fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/823,1041,698,159/full/0/default.jpg
+line: 'Head: perjury|Entry: 146 [Perjury]|#item-6f00d94ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/128,2959,475,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974206088
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973211172
+sort_value: '303512959'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/823,1041,698,159/150,/0/default.jpg
-label: perverting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/128,2959,475,157/150,/0/default.jpg
+label: perjury
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

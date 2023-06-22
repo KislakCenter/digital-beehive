@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Crime</a>|<a href='/digital
   href='/digital-beehive/num7/num_2451/'>1620 [Guilt]</a>|<a href='/digital-beehive/num2/num_0583/'>468
   [Self-guilty]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1785/'>guilt</a>"
+index: "<a href='/digital-beehive/index2/index_1729/'>guilt</a>"
 item: "#item-0034a0ab2"
 unparsed:
 line: 'Entry: Guilt|Topic: Guilt|Xref: Crime|Xref: fault|Xref: 1620 [Guilt]|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Guilt|Topic: Guilt|Xref: Crime|Xref: fault|Xref: 1620 [Guilt]|Xref
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/780,2960,3013,231/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508858189643
+sort_value: '201612960'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/780,2960,600,180/250,/0/default.jpg
 label: Guilt

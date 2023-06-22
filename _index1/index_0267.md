@@ -2,24 +2,25 @@
 pid: index_0267
 volume: Volume 3
 image_number: '9'
-head: ballance
-entry: "<a href='/digital-beehive/num1/num_0231/'>219 [Balance]</a>"
+head: bacon
+entry:
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1852/'>hog</a>"
 index:
-item: "#item-7140736d4"
+item: "#item-d0129b04a"
 unparsed:
-line: 'Head: ballance|Entry: 219 [Balance]|#item-7140736d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/918,1196,406,91/full/0/default.jpg
+line: 'Head: bacon|See: hog|#item-d0129b04a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/204,3407,500,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403588344
+annotation_uri: http://dev.llgc.org.uk/annotation/1504211086283
+sort_value: '300913407'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/918,1196,406,91/150,/0/default.jpg
-label: ballance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/204,3407,500,160/150,/0/default.jpg
+label: bacon
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

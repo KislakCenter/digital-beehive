@@ -2,9 +2,8 @@
 pid: index_4598
 volume: Volume 3
 image_number: '53'
-head: word of God
-entry: "<a href='/digital-beehive/alpha5/alpha_1058/'>a</a>|<a href='/digital-beehive/num4/num_1169/'>900
-  [Word of God]</a>|<a href='/digital-beehive/num9/num_2994/'>2060 [Word of God]</a>"
+head: "[:24.]"
+entry:
 topic:
 first_letter: W
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-b6aa9c7ed"
-unparsed:
-line: 'Head: word of God|Entry: a|Entry: 900 [Word of God]|Entry: 2060 [Word of God]|#item-b6aa9c7ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/893,1587,789,132/full/0/default.jpg
+item: "#item-dfdae4fc9"
+unparsed: 'Type: Index|Insertion Xref: [:24.]|#item-dfdae4fc9'
+line: 'Type: Index|Insertion Xref: [:24.]|#item-dfdae4fc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1440,894,199,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796471387
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796135530
+sort_value: '305320894'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/893,1587,789,132/150,/0/default.jpg
-label: word of God
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1440,894,199,134/150,/0/default.jpg
+label: "[:24.]"
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '561'
+insertion_xref: "<a href='/digital-beehive/index5/index_4689/'>womb</a>"
+order: '560'
 layout: index_item
 collection: index5
 ---

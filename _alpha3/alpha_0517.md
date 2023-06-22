@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1415/'>1054 [Epictetus]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2172/'>last unction</a>"
+index: "<a href='/digital-beehive/index3/index_2207/'>last unction</a>"
 item: "#item-40e40de28"
 unparsed:
 line: 'Entry: Last unction|Topic: Last unction|Xref: 1054 [Epictetus]|Index: last
@@ -18,6 +18,7 @@ line: 'Entry: Last unction|Topic: Last unction|Xref: 1054 [Epictetus]|Index: las
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/720,3206,3005,319/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564766676967
+sort_value: '202613206'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/720,3206,600,180/250,/0/default.jpg
 label: Last unction

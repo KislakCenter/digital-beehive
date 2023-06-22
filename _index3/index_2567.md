@@ -2,8 +2,9 @@
 pid: index_2567
 volume: Volume 3
 image_number: '31'
-head: mum[m]e
-entry: "<a href='/digital-beehive/num6/num_1896/'>1344 [Mumme]</a>"
+head: monk
+entry: "<a href='/digital-beehive/alpha3/alpha_0606/'>a</a>|<a href='/digital-beehive/num2/num_0576/'>462
+  [Monks]</a>|<a href='/digital-beehive/num7/num_2382/'>1588 [Monk]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1a1874da2"
+item: "#item-4df9892d6"
 unparsed:
-line: 'Head: mum[m]e|Entry: 1344 [Mumme]|#item-1a1874da2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1567,1258,443,116/full/0/default.jpg
+line: 'Head: monk|Entry: a|Entry: 462 [Monks]|Entry: 1588 [Monk]|#item-4df9892d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/871,724,611,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361200763
+annotation_uri: http://dev.llgc.org.uk/annotation/1560354999401
+sort_value: '303120724'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1567,1258,443,116/150,/0/default.jpg
-label: mum[m]e
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/871,724,611,125/150,/0/default.jpg
+label: monk
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

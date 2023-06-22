@@ -2,8 +2,8 @@
 pid: index_2518
 volume: Volume 3
 image_number: '30'
-head: mean men
-entry: 4456 [WORD_MISSING]
+head: milt
+entry: "<a href='/digital-beehive/num3/num_0773/'>595 [Liver]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-48b269d06"
+item: "#item-3bd579263"
 unparsed:
-line: 'Head: mean men|Entry: 4456 [WORD_MISSING]|#item-48b269d06'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/407,2948,487,91/full/0/default.jpg
+line: 'Head: milt|Entry: 595 [Liver]|#item-3bd579263'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1843,2096,300,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265784674
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274181939
+sort_value: '303032096'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/407,2948,487,91/150,/0/default.jpg
-label: mean men
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1843,2096,300,131/150,/0/default.jpg
+label: milt
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

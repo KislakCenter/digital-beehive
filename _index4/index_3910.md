@@ -2,9 +2,9 @@
 pid: index_3910
 volume: Volume 3
 image_number: '45'
-head: stealing
-entry: "<a href='/digital-beehive/num4/num_1078/'>866 [Stealing]</a>|<a href='/digital-beehive/num9/num_3030/'>2094
-  [Theft]</a>"
+head: stomach
+entry: "<a href='/digital-beehive/alpha4/alpha_0917/'>a</a>|<a href='/digital-beehive/num9/num_3083/'>2144
+  [Stomach]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-075aed43c"
+item: "#item-d202ffb1f"
 unparsed:
-line: 'Head: stealing|Entry: 866 [Stealing]|Entry: 2094 [Theft]|#item-075aed43c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/202,1235,614,140/full/0/default.jpg
+line: 'Head: stomach|Entry: a|Entry: 2144 [Stomach]|#item-d202ffb1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/219,3174,592,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530219140983
+annotation_uri: http://dev.llgc.org.uk/annotation/1530448539107
+sort_value: '304513174'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/202,1235,614,140/150,/0/default.jpg
-label: stealing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/219,3174,592,116/150,/0/default.jpg
+label: stomach
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

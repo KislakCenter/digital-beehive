@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0804/'>Resurrection, continued</a>|<a
   href='/digital-beehive/num3/num_0632/'>502 [Resurrection]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3375/'>resurrection</a>"
+index: "<a href='/digital-beehive/index4/index_3397/'>resurrection</a>"
 item: "#item-2ed58825b"
 unparsed:
 line: 'Entry: Resurrection|Topic: Resurrection|Xref: Resurrection, continued|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Resurrection|Topic: Resurrection|Xref: Resurrection, continued|Xre
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/379,4673,2983,372/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528823308223
+sort_value: '204714673'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/379,4673,600,180/250,/0/default.jpg
 label: Resurrection

@@ -2,24 +2,25 @@
 pid: index_0750
 volume: Volume 3
 image_number: '13'
-head: to cleanse
-entry: "<a href='/digital-beehive/num3/num_0906/'>659 [Purge]</a>"
+head: to com[m]unicate
+entry: "<a href='/digital-beehive/num10/num_3336/'>2364 [To Com[m]unicate & partake]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2897/'>partake</a>"
 index:
-item: "#item-829be16b8"
+item: "#item-3fca3bef2"
 unparsed:
-line: 'Head: to cleanse|Entry: 659 [Purge]|#item-829be16b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/full/0/default.jpg
+line: 'Head: to com[m]unicate|See: partake|Entry: 2364 [To Com[m]unicate & partake]|#item-3fca3bef2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1528,2913,776,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536333738126
+annotation_uri: http://dev.llgc.org.uk/annotation/1537163789386
+sort_value: '301332913'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/150,/0/default.jpg
-label: to cleanse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1528,2913,776,170/150,/0/default.jpg
+label: to com[m]unicate
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_1141
 volume: Volume 3
 image_number: '17'
-head: displeasure
-entry: "<a href='/digital-beehive/num3/num_0822/'>615 [Displeasure]</a>|<a href='/digital-beehive/num6/num_2186/'>1482
-  [Displeasure]</a>"
+head: Drawing in picture
+entry: 4523 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-43f22c6f4"
+item: "#item-548596353"
 unparsed:
-line: 'Head: displeasure|Entry: 615 [Displeasure]|Entry: 1482 [Displeasure]|#item-43f22c6f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/120,2742,694,130/full/0/default.jpg
+line: 'Head: Drawing in picture|Entry: 4523 [PAGE_MISSING]|#item-548596353'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1571,1379,680,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804477583
+annotation_uri: http://dev.llgc.org.uk/annotation/1560451649740
+sort_value: '301731379'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/120,2742,694,130/150,/0/default.jpg
-label: displeasure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1571,1379,680,138/150,/0/default.jpg
+label: Drawing in picture
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1139'
+order: '1140'
 layout: index_item
 collection: index1
 ---

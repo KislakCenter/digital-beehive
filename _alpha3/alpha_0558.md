@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2379/'>love of Christ</a>"
+index: "<a href='/digital-beehive/index3/index_2341/'>love of Christ</a>"
 item: "#item-554daa050"
 unparsed:
 line: 'Entry: Love of Christ|Topic: Love of Christ|Index: love of Christ|#item-554daa050'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/343,3753,3028,682/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770839235
+sort_value: '202913753'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/343,3753,600,180/250,/0/default.jpg
 label: Love of Christ

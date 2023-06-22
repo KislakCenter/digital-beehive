@@ -2,28 +2,29 @@
 pid: index_4135
 volume: Volume 3
 image_number: '47'
-head: though
-entry: "<a href='/digital-beehive/num2/num_0304/'>270 [Although]</a>"
+head: throat
+entry: "<a href='/digital-beehive/num3/num_0956/'>681 [Throat]</a>"
 topic:
 first_letter: T
 page:
-add:
+add: neck
 xref:
 see:
 index:
-item: "#item-c1ea790a2"
+item: "#item-7e91cd1f6"
 unparsed:
-line: 'Head: though|Entry: 270 [Although]|#item-c1ea790a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,2524,354,137/full/0/default.jpg
+line: 'Head: throat|Entry: 681 [Throat]|Add: neck |#item-7e91cd1f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/905,3444,353,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532722980499
+annotation_uri: http://dev.llgc.org.uk/annotation/1532878627819
+sort_value: '304723444'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,2524,354,137/150,/0/default.jpg
-label: though
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/905,3444,353,177/150,/0/default.jpg
+label: throat
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '098'
+order: '097'
 layout: index_item
 collection: index5
 ---

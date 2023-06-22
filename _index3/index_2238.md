@@ -2,8 +2,10 @@
 pid: index_2238
 volume: Volume 3
 image_number: '28'
-head: left
-entry: 816 [PAGE_MISSING]
+head: learning
+entry: "<a href='/digital-beehive/alpha3/alpha_0530/'>a</a>|<a href='/digital-beehive/num5/num_1548/'>1139
+  [Learning]</a>|<a href='/digital-beehive/num8/num_2901/'>1973 [Learning]</a>|4747
+  [PAGE_MISSING]"
 topic:
 first_letter: L
 page:
@@ -11,15 +13,17 @@ add:
 xref:
 see:
 index:
-item: "#item-362a57f64"
+item: "#item-da5c0ea19"
 unparsed:
-line: 'Head: left|Entry: 816 [PAGE_MISSING]|#item-362a57f64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/403,3249,314,138/full/0/default.jpg
+line: 'Head: learning|Entry: a|Entry: 1139 [Learning]|Entry: 1973 [Learning]|Entry:
+  4747 [PAGE_MISSING]|#item-da5c0ea19'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/367,1936,770,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842771681
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842209777
+sort_value: '302811936'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/403,3249,314,138/150,/0/default.jpg
-label: left
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/367,1936,770,137/150,/0/default.jpg
+label: learning
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

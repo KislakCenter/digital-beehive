@@ -2,25 +2,25 @@
 pid: index_2154
 volume: Volume 3
 image_number: '27'
-head: Judas
-entry: "<a href='/digital-beehive/alpha3/alpha_0495/'>a</a>|<a href='/digital-beehive/num3/num_0650/'>520
-  [Judas]</a>"
+head: to kick
+entry: "<a href='/digital-beehive/num2/num_0483/'>396 [To Kick]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e8cf8a372"
+item: "#item-94429e71d"
 unparsed:
-line: 'Head: Judas|Entry: a|Entry: 520 [Judas]|#item-e8cf8a372'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/127,1370,397,106/full/0/default.jpg
+line: 'Head: to kick|Entry: 396 [To Kick]|#item-94429e71d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/869,378,411,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559757207711
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761230191
+sort_value: '302720378'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/127,1370,397,106/150,/0/default.jpg
-label: Judas
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/869,378,411,164/150,/0/default.jpg
+label: to kick
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

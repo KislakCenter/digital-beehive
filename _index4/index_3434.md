@@ -2,24 +2,25 @@
 pid: index_3434
 volume: Volume 3
 image_number: '40'
-head: rock
-entry: "<a href='/digital-beehive/num8/num_2810/'>1914 [Rock]</a>"
+head: ripeness
+entry: "<a href='/digital-beehive/num3/num_0814/'>612 [Ripeness]</a>"
 topic:
 first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-02ac0e439"
+item: "#item-f383a352d"
 unparsed:
-line: 'Head: rock|Page: p.32 [Image 1.92]|Entry: 1914 [Rock]|#item-02ac0e439'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1173,361,576,133/full/0/default.jpg
+line: 'Head: ripeness|Entry: 612 [Ripeness]|#item-f383a352d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/441,2941,480,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232840500
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232516956
+sort_value: '304012941'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1173,361,576,133/150,/0/default.jpg
-label: rock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/441,2941,480,152/150,/0/default.jpg
+label: ripeness
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

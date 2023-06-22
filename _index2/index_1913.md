@@ -2,9 +2,8 @@
 pid: index_1913
 volume: Volume 3
 image_number: '24'
-head: history
-entry: "<a href='/digital-beehive/num1/num_0031/'>31 [History]</a>|<a href='/digital-beehive/num4/num_1329/'>997
-  [History]</a>|<a href='/digital-beehive/num7/num_2674/'>1746 [Chroniclers]</a>"
+head: hydra
+entry: "<a href='/digital-beehive/num9/num_3056/'>2119 [Serpents]</a>"
 topic:
 first_letter: H
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-db16112d7"
+item: "#item-f4ed7d78b"
 unparsed:
-line: 'Head: history|Entry: 31 [History]|Entry: 997 [History]|Entry: 1746 [Chroniclers]|#item-db16112d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/409,3392,621,173/full/0/default.jpg
+line: 'Head: hydra|Entry: 2119 [Serpents]|#item-f4ed7d78b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1818,3060,469,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559579953415
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588793984
+sort_value: '302433060'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/409,3392,621,173/150,/0/default.jpg
-label: history
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1818,3060,469,141/150,/0/default.jpg
+label: hydra
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_1888
 volume: Volume 3
 image_number: '24'
-head: high treason
-entry: "<a href='/digital-beehive/num6/num_1851/'>1321 [High treason]</a>"
+head: hourglass
+entry: "<a href='/digital-beehive/num4/num_1116/'>878 [Hourglass]</a>"
 topic:
 first_letter: H
-page:
+page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-0b4b79690"
+item: "#item-26ec7f273"
 unparsed:
-line: 'Head: high treason |Entry: 1321 [High treason]|#item-0b4b79690'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/427,2447,568,110/full/0/default.jpg
+line: 'Head: hourglass|Page: p.2 [Image 1.62]|Entry: 878 [Hourglass]|#item-26ec7f273'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1837,776,612,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577011299
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586444317
+sort_value: '302430776'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/427,2447,568,110/150,/0/default.jpg
-label: high treason
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1837,776,612,156/150,/0/default.jpg
+label: hourglass
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

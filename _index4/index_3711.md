@@ -2,8 +2,8 @@
 pid: index_3711
 volume: Volume 3
 image_number: '43'
-head: Sirach
-entry: "<a href='/digital-beehive/num10/num_3447/'>4464 [Ecclesiasticus]</a>"
+head: silver
+entry: "<a href='/digital-beehive/num4/num_1138/'>887 [Silver]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f4b62ad98"
+item: "#item-ab6ecc19f"
 unparsed:
-line: 'Head: Sirach|Entry: 4464 [Ecclesiasticus]|#item-f4b62ad98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,750,464,119/full/0/default.jpg
+line: 'Head: silver|Entry: 887 [Silver]|#item-ab6ecc19f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/170,1828,445,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582976927
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582252626
+sort_value: '304311828'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,750,464,119/150,/0/default.jpg
-label: Sirach
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/170,1828,445,135/150,/0/default.jpg
+label: silver
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

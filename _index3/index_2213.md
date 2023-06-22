@@ -2,25 +2,25 @@
 pid: index_2213
 volume: Volume 3
 image_number: '27'
-head: laughter
-entry: "<a href='/digital-beehive/alpha3/alpha_0522/'>a</a>|<a href='/digital-beehive/num6/num_1738/'>1254
-  [Laughter]</a>|4557 [PAGE_MISSING]"
+head: late
+entry: "<a href='/digital-beehive/alpha3/alpha_0521/'>a</a>"
 topic:
 first_letter: L
 page:
-add:
+add: "<a href='/digital-beehive/index4/index_3370/'>repentance</a>"
 xref:
 see:
 index:
-item: "#item-6cc37d3b8"
+item: "#item-4294c44c6"
 unparsed:
-line: 'Head: laughter|Entry: a|Entry: 1254 [Laughter]|Entry: 4557 [PAGE_MISSING]|#item-6cc37d3b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1526,3211,700,176/full/0/default.jpg
+line: 'Head: late|Entry: a|Add: repentance|#item-4294c44c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1548,2478,497,204/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837062277
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836429486
+sort_value: '302732478'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1526,3211,700,176/150,/0/default.jpg
-label: laughter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1548,2478,497,204/150,/0/default.jpg
+label: late
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

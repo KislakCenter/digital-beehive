@@ -2,24 +2,25 @@
 pid: index_1575
 volume: Volume 3
 image_number: '21'
-head: front
-entry: "<a href='/digital-beehive/num7/num_2546/'>1662 [Front]</a>"
+head: gall
+entry: "<a href='/digital-beehive/num5/num_1473/'>1090 [Gall]</a>"
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-818b1a642"
+item: "#item-a8d267488"
 unparsed:
-line: 'Head: front|Entry: 1662 [Front]|#item-818b1a642'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/847,3101,393,139/full/0/default.jpg
+line: 'Head: gall|Entry: 1090 [Gall]|#item-a8d267488'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2100,413,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784402958
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786636721
+sort_value: '302132100'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/847,3101,393,139/150,/0/default.jpg
-label: front
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2100,413,137/150,/0/default.jpg
+label: gall
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

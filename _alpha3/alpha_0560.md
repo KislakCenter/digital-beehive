@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1456/'>1079 [Love of Neighbours]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2385/'>love of our neighbour</a>"
+index: "<a href='/digital-beehive/index3/index_2343/'>love of our neighbour</a>"
 item: "#item-404f51cf4"
 unparsed:
 line: 'Entry: Love of our Neighbour|Topic: Love of our Neighbour|Xref: 1079 [Love
@@ -18,6 +18,7 @@ line: 'Entry: Love of our Neighbour|Topic: Love of our Neighbour|Xref: 1079 [Lov
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/733,222,3082,538/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564771077950
+sort_value: '203010222'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/733,222,600,180/250,/0/default.jpg
 label: Love of our Neighbour

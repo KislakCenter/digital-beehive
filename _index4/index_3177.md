@@ -2,24 +2,25 @@
 pid: index_3177
 volume: Volume 3
 image_number: '37'
-head: protection
-entry: "<a href='/digital-beehive/alpha4/alpha_0757/'>a</a>|1855 [PAGE_MISSING]"
+head: to produce
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0460/'>bring</a>"
 index:
-item: "#item-0d901129b"
+item: "#item-43cd0ddd9"
 unparsed:
-line: 'Head: protection|Entry: a|Entry: 1855 [PAGE_MISSING]|#item-0d901129b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1503,1806,581,149/full/0/default.jpg
+line: 'Head: to produce|See: bring|#item-43cd0ddd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/781,1889,643,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869422505
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868144830
+sort_value: '303721889'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1503,1806,581,149/150,/0/default.jpg
-label: protection
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/781,1889,643,149/150,/0/default.jpg
+label: to produce
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

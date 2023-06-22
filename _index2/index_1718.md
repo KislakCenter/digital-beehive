@@ -2,24 +2,25 @@
 pid: index_1718
 volume: Volume 3
 image_number: '23'
-head: hearing
-entry: "<a href='/digital-beehive/num2/num_0400/'>345 [Hear]</a>"
+head: groves
+entry:
 topic:
-first_letter: H
+first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4602/'>wood</a>"
 index:
-item: "#item-257ab1d8d"
+item: "#item-bf0eddd58"
 unparsed:
-line: 'Head: hearing|Entry: 345 [Hear]|#item-257ab1d8d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1562,725,420,160/full/0/default.jpg
+line: 'Head: groves|See: wood|#item-bf0eddd58'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/144,1776,460,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243660659
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231786393
+sort_value: '302311776'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1562,725,420,160/150,/0/default.jpg
-label: hearing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/144,1776,460,112/150,/0/default.jpg
+label: groves
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

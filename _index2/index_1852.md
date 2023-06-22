@@ -2,25 +2,26 @@
 pid: index_1852
 volume: Volume 3
 image_number: '24'
-head: hesitation
-entry:
+head: hog
+entry: "<a href='/digital-beehive/alpha2/alpha_0426/'>a</a>|<a href='/digital-beehive/num7/num_2668/'>1741
+  [Hog]</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3866/'>stam[m]ering</a>|<a href='/digital-beehive/index3/index_2686/'>non
-  plust</a>"
+see:
 index:
-item: "#item-66506926b"
+item: "#item-41b97c51e"
 unparsed:
-line: 'Head: hesitation|See: stam[m]ering|See: non plust|#item-66506926b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/431,1157,728,209/full/0/default.jpg
+line: 'Head: hog|Entry: a|Entry: 1741 [Hog]|#item-41b97c51e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1118,940,421,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575721051
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581853751
+sort_value: '302420940'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/431,1157,728,209/150,/0/default.jpg
-label: hesitation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1118,940,421,185/150,/0/default.jpg
+label: hog
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

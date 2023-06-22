@@ -2,8 +2,8 @@
 pid: index_2865
 volume: Volume 3
 image_number: '34'
-head: past danger
-entry: "<a href='/digital-beehive/num2/num_0509/'>411 [Past all Danger]</a>"
+head: pamphlet
+entry: "<a href='/digital-beehive/num10/num_3222/'>2267 [Pamphlet]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0c953c4c5"
+item: "#item-61db78316"
 unparsed:
-line: 'Head: past danger|Entry: 411 [Past all Danger]|#item-0c953c4c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1813,1147,618,166/full/0/default.jpg
+line: 'Head: pamphlet|Entry: 2267 [Pamphlet]|#item-61db78316'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1165,332,569,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495160388
+annotation_uri: http://dev.llgc.org.uk/annotation/1538491737759
+sort_value: '303420332'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1813,1147,618,166/150,/0/default.jpg
-label: past danger
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1165,332,569,144/150,/0/default.jpg
+label: pamphlet
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

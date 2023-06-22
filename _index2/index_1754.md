@@ -2,24 +2,26 @@
 pid: index_1754
 volume: Volume 3
 image_number: '23'
-head: growth
-entry: "<a href='/digital-beehive/num2/num_0616/'>491 [Growth]</a>"
+head: hardning
+entry: "<a href='/digital-beehive/alpha2/alpha_0398/'>a</a>|<a href='/digital-beehive/num10/num_3346/'>2374
+  [Hardning]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f9bbc285f"
+item: "#item-9e2d9ca8f"
 unparsed:
-line: 'Head: growth|Entry: 491 [Growth]|#item-f9bbc285f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/148,1822,378,136/full/0/default.jpg
+line: 'Head: hardning|Entry: a|Entry: 2374 [Hardning]|#item-9e2d9ca8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,1523,594,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231889652
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239820036
+sort_value: '302321523'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/148,1822,378,136/150,/0/default.jpg
-label: growth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,1523,594,124/150,/0/default.jpg
+label: hardning
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

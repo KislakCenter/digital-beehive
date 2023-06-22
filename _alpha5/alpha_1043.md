@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0765/'>590 [artificial Wines]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4563/'>wine</a>"
+index: "<a href='/digital-beehive/index5/index_4560/'>wine</a>"
 item: "#item-f6c5d1c85"
 unparsed:
 line: 'Entry: Wine|Topic: Wine|Xref: 590 [artificial Wines]|Index: wine|#item-f6c5d1c85'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/336,975,3033,422/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529592011476
+sort_value: '206510975'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/336,975,600,180/250,/0/default.jpg
 label: Wine

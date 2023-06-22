@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0117/'>113 [Plainness]</a>|<a href='/digital-beehive/num6/num_1803/'>1292
   [Obscurity]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2797/'>obscurity</a>"
+index: "<a href='/digital-beehive/index4/index_2760/'>obscurity</a>"
 item: "#item-02122876c"
 unparsed:
 line: 'Entry: Obscurity|Topic: Obscurity|Xref: 113 [Plainness]|Xref: 1292 [Obscurity]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Obscurity|Topic: Obscurity|Xref: 113 [Plainness]|Xref: 1292 [Obscu
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/260,520,3078,389/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565016331903
+sort_value: '203710520'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/260,520,600,180/250,/0/default.jpg
 label: Obscurity

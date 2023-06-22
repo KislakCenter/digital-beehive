@@ -2,28 +2,29 @@
 pid: index_4577
 volume: Volume 3
 image_number: '53'
-head: to wrest
-entry:
+head: within
+entry: "<a href='/digital-beehive/num3/num_0756/'>586 [Within]</a>"
 topic:
 first_letter: W
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2960/'>pervert</a>"
+see:
 index:
-item: "#item-06c382366"
+item: "#item-80c18a1dc"
 unparsed:
-line: 'Head: to wrest|See: pervert|#item-06c382366'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1702,762,619,127/full/0/default.jpg
+line: 'Head: within|Entry: 586 [Within]|#item-80c18a1dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/191,1983,410,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798501150
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792496177
+sort_value: '305311983'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1702,762,619,127/150,/0/default.jpg
-label: to wrest
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/191,1983,410,95/150,/0/default.jpg
+label: within
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '540'
+order: '539'
 layout: index_item
 collection: index5
 ---

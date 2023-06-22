@@ -2,27 +2,25 @@
 pid: index_2382
 volume: Volume 3
 image_number: '29'
-head: love of ye brethren
-entry: "<a href='/digital-beehive/alpha3/alpha_0559/'>a</a>|<a href='/digital-beehive/num6/num_1830/'>1309
-  [Love to God & the Brethren]</a>|<a href='/digital-beehive/num9/num_2964/'>2030
-  [Love of the Brethren]</a>"
+head: magnete
+entry: 826 [PAGE_MISSING]
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-48b283ca8"
+item: "#item-172e1f28f"
 unparsed:
-line: 'Head: love of ye brethren|Entry: a|Entry: 1309 [Love to God & the Brethren]|Entry:
-  2030 [Love of the Brethren]|#item-48b283ca8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,2158,809,104/full/0/default.jpg
+line: 'Head: magnete|Entry: 826 [PAGE_MISSING]|#item-172e1f28f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/831,2750,453,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179267697
+annotation_uri: http://dev.llgc.org.uk/annotation/1560187080475
+sort_value: '302922750'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,2158,809,104/150,/0/default.jpg
-label: love of ye brethren
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/831,2750,453,132/150,/0/default.jpg
+label: magnete
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

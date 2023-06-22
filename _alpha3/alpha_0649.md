@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0204/'>Curiosity</a>|<a href='/dig
   href='/digital-beehive/alpha1/alpha_0017/'>Alamode</a>|<a href='/digital-beehive/num3/num_0657/'>524
   [Novelty]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2735/'>novelty</a>"
+index: "<a href='/digital-beehive/index3/index_2741/'>novelty</a>"
 item: "#item-541931440"
 unparsed:
 line: 'Entry: Novelty|Topic: Novelty|Xref: Curiosity|Xref: Reformation|Xref: Alamode|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Novelty|Topic: Novelty|Xref: Curiosity|Xref: Reformation|Xref: Ala
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/763,3028,3007,494/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565015578621
+sort_value: '203613028'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/763,3028,600,180/250,/0/default.jpg
 label: Novelty

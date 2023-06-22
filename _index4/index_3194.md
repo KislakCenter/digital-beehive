@@ -2,9 +2,8 @@
 pid: index_3194
 volume: Volume 3
 image_number: '37'
-head: progress
-entry: "<a href='/digital-beehive/alpha4/alpha_0747/'>a</a>|<a href='/digital-beehive/num6/num_1985/'>1387
-  [Progress]</a>|4740 [PAGE_MISSING]"
+head: prop
+entry: "<a href='/digital-beehive/num3/num_0900/'>654 [a Prop]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c1a681a26"
+item: "#item-bd171737e"
 unparsed:
-line: 'Head: progress|Entry: a|Entry: 1387 [Progress]|Entry: 4740 [PAGE_MISSING]|#item-c1a681a26'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/771,2475,716,148/full/0/default.jpg
+line: 'Head: prop|Entry: 654 [a Prop]|#item-bd171737e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1492,598,337,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564084280593
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869039401
+sort_value: '303730598'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/771,2475,716,148/150,/0/default.jpg
-label: progress
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1492,598,337,84/150,/0/default.jpg
+label: prop
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

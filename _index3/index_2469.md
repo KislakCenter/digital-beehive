@@ -2,8 +2,9 @@
 pid: index_2469
 volume: Volume 3
 image_number: '30'
-head: meetings silent
-entry: "<a href='/digital-beehive/num2/num_0333/'>295 [Silent meetings]</a>"
+head: meditation
+entry: "<a href='/digital-beehive/alpha3/alpha_0585/'>a</a>|<a href='/digital-beehive/num4/num_1089/'>868
+  [Meditation]</a>|4602 [PAGE_MISSING]"
 topic:
 first_letter: M
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-02ba1974a"
+item: "#item-a553073b1"
 unparsed:
-line: 'Head: meetings silent|Entry: 295 [Silent meetings]|#item-02ba1974a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,1011,436,137/full/0/default.jpg
+line: 'Head: meditation|Entry: a|Entry: 868 [Meditation]|Entry: 4602 [PAGE_MISSING]|#item-a553073b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1098,482,784,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268057069
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267714014
+sort_value: '303020482'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,1011,436,137/150,/0/default.jpg
-label: meetings silent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1098,482,784,107/150,/0/default.jpg
+label: meditation
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

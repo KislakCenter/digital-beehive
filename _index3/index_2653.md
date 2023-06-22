@@ -2,8 +2,9 @@
 pid: index_2653
 volume: Volume 3
 image_number: '32'
-head: neat
-entry: "<a href='/digital-beehive/num1/num_0204/'>195 [Ornament]</a>"
+head: natural man
+entry: "<a href='/digital-beehive/num1/num_0050/'>50 [Natural man]</a>|<a href='/digital-beehive/num9/num_3014/'>2080
+  [Natural man]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6e99e8bc4"
+item: "#item-79594899d"
 unparsed:
-line: 'Head: neat|Entry: 195 [Ornament]|#item-6e99e8bc4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/383,2799,299,113/full/0/default.jpg
+line: 'Head: natural man|Entry: 50 [Natural man]|Entry: 2080 [Natural man]|#item-79594899d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,1691,571,51/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438955237
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437959582
+sort_value: '303211691'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/383,2799,299,113/150,/0/default.jpg
-label: neat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,1691,571,51/150,/0/default.jpg
+label: natural man
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

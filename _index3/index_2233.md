@@ -2,8 +2,8 @@
 pid: index_2233
 volume: Volume 3
 image_number: '28'
-head: least
-entry: 812 [PAGE_MISSING]
+head: leaf
+entry: "<a href='/digital-beehive/num5/num_1397/'>1044 [Books]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-24464ef2c"
+item: "#item-0ba291921"
 unparsed:
-line: 'Head: least|Entry: 812 [PAGE_MISSING]|#item-24464ef2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/390,2247,371,112/full/0/default.jpg
+line: 'Head: leaf|Entry: 1044 [Books]|#item-0ba291921'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/406,1295,381,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842380058
+annotation_uri: http://dev.llgc.org.uk/annotation/1559841923531
+sort_value: '302811295'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/390,2247,371,112/150,/0/default.jpg
-label: least
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/406,1295,381,156/150,/0/default.jpg
+label: leaf
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,27 +2,27 @@
 pid: index_3236
 volume: Volume 3
 image_number: '38'
-head: winter quarter
-entry: a
+head: purple
+entry: "<a href='/digital-beehive/num8/num_2807/'>1913 [Purple]</a>"
 topic:
-first_letter: Q
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-960432a6f"
+item: "#item-87c0f7550"
 unparsed:
-line: 'Head: winter quarter|Entry: a|#item-960432a6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1156,357,512,107/full/0/default.jpg
+line: 'Head: purple|Entry: 1913 [Purple]|#item-87c0f7550'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/382,1951,500,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455013008
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452367910
+sort_value: '303811951'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1156,357,512,107/150,/0/default.jpg
-label: winter quarter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/382,1951,500,98/150,/0/default.jpg
+label: purple
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: The "a" links to an alphabetical entry which is indexed more than once. There
-  is no protocol at this point to handle multiple indexing for alphabetical entries.
+issue:
 insertion_xref:
 order: '0484'
 layout: index_item

@@ -2,28 +2,29 @@
 pid: index_4188
 volume: Volume 3
 image_number: '48'
-head: token
-entry: "<a href='/digital-beehive/num1/num_0165/'>158 [Sign]</a>|4736 [PAGE_MISSING]"
+head: tool
+entry: "<a href='/digital-beehive/num10/num_3350/'>2378 [Instruments]</a>"
 topic:
 first_letter: T
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2070/'>instrument</a>"
 index:
-item: "#item-f7b5a9cdd"
+item: "#item-675e133b8"
 unparsed:
-line: 'Head: token|Entry: 158 [Sign]|Entry: 4736 [PAGE_MISSING]|#item-f7b5a9cdd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/475,709,506,107/full/0/default.jpg
+line: 'Head: tool|See: instrument|Entry: 2378 [Instruments]|#item-675e133b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/468,2539,670,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846780355
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275523479
+sort_value: '304812539'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/475,709,506,107/150,/0/default.jpg
-label: token
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/468,2539,670,143/150,/0/default.jpg
+label: tool
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '151'
+order: '150'
 layout: index_item
 collection: index5
 ---

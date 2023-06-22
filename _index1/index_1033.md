@@ -2,8 +2,11 @@
 pid: index_1033
 volume: Volume 3
 image_number: '16'
-head: degenerating
-entry: "<a href='/digital-beehive/num1/num_0014/'>14 [Degenerating]</a>"
+head: devil
+entry: "<a href='/digital-beehive/alpha1/alpha_0232/'>a</a>|747 [PAGE_MISSING]|<a
+  href='/digital-beehive/num6/num_2021/'>1405 [Devil]</a>|<a href='/digital-beehive/num7/num_2314/'>1552
+  [Devil]</a>|<a href='/digital-beehive/num9/num_2940/'>2006 [Devils]</a>|<a href='/digital-beehive/num10/num_3201/'>2253
+  [Devil]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +14,21 @@ add:
 xref:
 see:
 index:
-item: "#item-44a173dd4"
+item: "#item-463dba131"
 unparsed:
-line: 'Head: degenerating|Entry: 14 [Degenerating]|#item-44a173dd4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/324,2143,570,137/full/0/default.jpg
+line: 'Head: devil|Entry: a|Entry: 747 [PAGE_MISSING]|Entry: 1405 [Devil]|Entry: 1552
+  [Devil]|Entry: 2006 [Devils]|Entry: 2253 [Devil]|#item-463dba131'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1049,3557,756,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572234733
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923205101
+sort_value: '301623557'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/324,2143,570,137/150,/0/default.jpg
-label: degenerating
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1049,3557,756,163/150,/0/default.jpg
+label: devil
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1031'
+order: '1032'
 layout: index_item
 collection: index1
 ---

@@ -2,9 +2,8 @@
 pid: index_2279
 volume: Volume 3
 image_number: '28'
-head: lean[n]ess
-entry: "<a href='/digital-beehive/alpha3/alpha_0528/'>a</a>|<a href='/digital-beehive/num2/num_0355/'>310
-  [Leanness]</a>"
+head: licentiousness
+entry: "<a href='/digital-beehive/num3/num_0720/'>565 [too much liberty]</a>"
 topic:
 first_letter: L
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6a45550ad"
+item: "#item-25e4137ee"
 unparsed:
-line: 'Head: lean[n]ess|Entry: a|Entry: 310 [Leanness]|#item-6a45550ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/396,1644,505,158/full/0/default.jpg
+line: 'Head: licentiousness|Entry: 565 [too much liberty]|#item-25e4137ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1111,2420,585,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842086014
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846310155
+sort_value: '302822420'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/396,1644,505,158/150,/0/default.jpg
-label: lean[n]ess
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1111,2420,585,120/150,/0/default.jpg
+label: licentiousness
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

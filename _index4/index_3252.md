@@ -2,24 +2,25 @@
 pid: index_3252
 volume: Volume 3
 image_number: '38'
-head: rasor
-entry:
+head: quarrelsome
+entry: "<a href='/digital-beehive/num4/num_1168/'>899 [Quarrelsome]</a>"
 topic:
-first_letter: R
+first_letter: Q
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2174/'>knife</a>"
+see:
 index:
-item: "#item-209630a03"
+item: "#item-fb1846ca6"
 unparsed:
-line: 'Head: rasor|See: knife|#item-209630a03'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,922,504,134/full/0/default.jpg
+line: 'Head: quarrelsome|Entry: 899 [Quarrelsome]|#item-fb1846ca6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/409,3566,517,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460735423
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454853715
+sort_value: '303813566'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,922,504,134/150,/0/default.jpg
-label: rasor
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/409,3566,517,110/150,/0/default.jpg
+label: quarrelsome
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

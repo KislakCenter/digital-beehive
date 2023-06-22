@@ -2,8 +2,10 @@
 pid: index_1377
 volume: Volume 3
 image_number: '20'
-head: fathers
-entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
+head: failings of Saints
+entry: "<a href='/digital-beehive/num4/num_1275/'>956 [Failings of good men]</a>|<a
+  href='/digital-beehive/num5/num_1641/'>1203 [Fault]</a>|<a href='/digital-beehive/num9/num_3194/'>2248
+  [Church of England]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +13,17 @@ add:
 xref:
 see:
 index:
-item: "#item-505e358ce"
+item: "#item-9cb741fc4"
 unparsed:
-line: 'Head: fathers|Entry: 73 [the Fathers]|#item-505e358ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1161,428,368,112/full/0/default.jpg
+line: 'Head: failings of Saints|Entry: 956 [Failings of good men]|Entry: 1203 [Fault]|Entry:
+  2248 [Church of England]|#item-9cb741fc4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/364,485,834,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660864534
+annotation_uri: http://dev.llgc.org.uk/annotation/1561399680699
+sort_value: '302010485'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1161,428,368,112/150,/0/default.jpg
-label: fathers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/364,485,834,167/150,/0/default.jpg
+label: failings of Saints
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

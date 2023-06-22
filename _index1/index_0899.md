@@ -2,25 +2,25 @@
 pid: index_0899
 volume: Volume 3
 image_number: '15'
-head: counsel
-entry: "<a href='/digital-beehive/alpha1/alpha_0185/'>a</a>|<a href='/digital-beehive/num5/num_1662/'>1215
-  [Counsel]</a>|4753 [PAGE_MISSING]"
+head: credible
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3169/'>probable</a>"
 index:
-item: "#item-f9b2e8e5c"
+item: "#item-2ddf59b4c"
 unparsed:
-line: 'Head: counsel|Entry: a|Entry: 1215 [Counsel]|Entry: 4753 [PAGE_MISSING]|#item-f9b2e8e5c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/152,1360,705,140/full/0/default.jpg
+line: 'Head: credible|See: probable|#item-2ddf59b4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/860,567,708,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974373622
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577236658
+sort_value: '301520567'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/152,1360,705,140/150,/0/default.jpg
-label: counsel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/860,567,708,135/150,/0/default.jpg
+label: credible
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

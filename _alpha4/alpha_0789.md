@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0689/'>Partiality</a>|<a href='/digital-beehive/num6/num_2037/'>1412
   [Excellent]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3371/'>regarding of persons</a>"
+index: "<a href='/digital-beehive/index4/index_3338/'>regarding of persons</a>"
 item: "#item-5b988b86f"
 unparsed:
 line: 'Entry: Regarding of persons|Topic: Regarding of persons|Xref: Partiality|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Regarding of persons|Topic: Regarding of persons|Xref: Partiality|
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/809,3400,2905,513/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528740570239
+sort_value: '204613400'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/809,3400,600,180/250,/0/default.jpg
 label: Regarding of persons

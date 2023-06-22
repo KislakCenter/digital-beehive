@@ -2,24 +2,26 @@
 pid: index_3381
 volume: Volume 3
 image_number: '39'
-head: to reject
-entry: 806 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3147/'>2204 [Refusal]</a>
+head: repulse
+entry:
 topic:
 first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1009/'>denial</a>|<a href='/digital-beehive/index4/index_3335/'>refusal</a>|<a
+  href='/digital-beehive/index4/index_3375/'>repressing</a>"
 index:
-item: "#item-d70918643"
+item: "#item-04f6e6c6b"
 unparsed:
-line: 'Head: to reject|Entry: 806 [PAGE_MISSING]|Entry: 2204 [Refusal]|#item-d70918643'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/116,2466,652,129/full/0/default.jpg
+line: 'Head: repulse|See: denial|See: refusal|See: repressing|#item-04f6e6c6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1506,247,853,282/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464979097
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469700393
+sort_value: '303930247'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/116,2466,652,129/150,/0/default.jpg
-label: to reject
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1506,247,853,282/150,/0/default.jpg
+label: repulse
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

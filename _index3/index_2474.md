@@ -2,9 +2,8 @@
 pid: index_2474
 volume: Volume 3
 image_number: '30'
-head: Queen Mary
-entry: "<a href='/digital-beehive/num6/num_2154/'>1466 [Queen Mary's]</a>|<a href='/digital-beehive/num9/num_3138/'>2195
-  [Queen Mary]</a>"
+head: meetings silent
+entry: "<a href='/digital-beehive/num2/num_0333/'>295 [Silent meetings]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-964a5eaa4"
+item: "#item-02ba1974a"
 unparsed:
-line: 'Head: Queen Mary|Entry: 1466 [Queen Mary''s]|Entry: 2195 [Queen Mary]|#item-964a5eaa4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/414,1269,727,110/full/0/default.jpg
+line: 'Head: meetings silent|Entry: 295 [Silent meetings]|#item-02ba1974a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,1011,436,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263700245
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268057069
+sort_value: '303021011'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/414,1269,727,110/150,/0/default.jpg
-label: Queen Mary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,1011,436,137/150,/0/default.jpg
+label: meetings silent
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

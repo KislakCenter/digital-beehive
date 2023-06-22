@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/num1/num_0011/'>11 [Ill Name]</a>|<a href='/dig
   href='/digital-beehive/num2/num_0274/'>252 [Surnames]</a>|<a href='/digital-beehive/num2/num_0278/'>254
   [Name]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2633/'>name</a>"
+index: "<a href='/digital-beehive/index3/index_2634/'>name</a>"
 item: "#item-9c1a90cef"
 unparsed:
 line: 'Entry: Name|Topic: Name|Xref: 11 [Ill Name]|Xref: 54 [false Names]|Xref: 181
@@ -21,6 +21,7 @@ line: 'Entry: Name|Topic: Name|Xref: 11 [Ill Name]|Xref: 54 [false Names]|Xref: 
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/275,1081,3135,405/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564778347808
+sort_value: '203511081'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/275,1081,600,180/250,/0/default.jpg
 label: Name

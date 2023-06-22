@@ -2,8 +2,8 @@
 pid: index_3920
 volume: Volume 3
 image_number: '45'
-head: substance
-entry: 732 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3337/'>2365 [Substance]</a>
+head: stove
+entry: 789 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6fbb46545"
+item: "#item-bb97d403c"
 unparsed:
-line: 'Head: substance|Entry: 732 [PAGE_MISSING]|Entry: 2365 [Substance]|#item-6fbb46545'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1598,1537,690,95/full/0/default.jpg
+line: 'Head: stove|Entry: 789 [PAGE_MISSING]|#item-bb97d403c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/897,763,371,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530468633494
+annotation_uri: http://dev.llgc.org.uk/annotation/1530449537055
+sort_value: '304520763'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1598,1537,690,95/150,/0/default.jpg
-label: substance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/897,763,371,105/150,/0/default.jpg
+label: stove
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

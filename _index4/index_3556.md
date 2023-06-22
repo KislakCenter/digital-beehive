@@ -2,24 +2,25 @@
 pid: index_3556
 volume: Volume 3
 image_number: '41'
-head: secretary
-entry: "<a href='/digital-beehive/alpha4/alpha_0845/'>a</a>"
+head: Scorpion
+entry: "<a href='/digital-beehive/num6/num_1917/'>1353 [Scorpion]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-41397788f"
+item: "#item-74a26b16d"
 unparsed:
-line: 'Head: secretary|Entry: a|#item-41397788f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1556,1962,515,106/full/0/default.jpg
+line: 'Head: Scorpion|Page: p.37 [Image 1.97]|Entry: 1353 [Scorpion]|#item-74a26b16d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2159,702,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242683221
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240839013
+sort_value: '304122159'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1556,1962,515,106/150,/0/default.jpg
-label: secretary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2159,702,174/150,/0/default.jpg
+label: Scorpion
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_3193
 volume: Volume 3
 image_number: '37'
-head: providence
-entry: "<a href='/digital-beehive/alpha4/alpha_0759/'>a</a>|<a href='/digital-beehive/num6/num_1991/'>1390
-  [Providence]</a>"
+head: proof of a negative
+entry: "<a href='/digital-beehive/num4/num_1199/'>913 [Proof]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c63407af3"
+item: "#item-4d9887a6c"
 unparsed:
-line: 'Head: providence|Entry: a|Entry: 1390 [Providence]|#item-c63407af3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1471,2443,653,100/full/0/default.jpg
+line: 'Head: proof of a negative|Entry: 913 [Proof]|#item-4d9887a6c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1462,487,708,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869585540
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869010548
+sort_value: '303730487'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1471,2443,653,100/150,/0/default.jpg
-label: providence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1462,487,708,139/150,/0/default.jpg
+label: proof of a negative
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

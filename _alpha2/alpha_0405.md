@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index2/index_1701/'>head</a>"
+index: "<a href='/digital-beehive/index2/index_1774/'>head</a>"
 item: "#item-f59d01783"
 unparsed:
 line: 'Entry: Head|Topic: Head|Index: head|#item-f59d01783'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/394,1932,2998,430/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508785346188
+sort_value: '201711932'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/394,1932,600,180/250,/0/default.jpg
 label: Head

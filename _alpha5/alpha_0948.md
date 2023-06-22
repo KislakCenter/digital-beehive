@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0947/'>Temptation</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4118/'>temptation</a>"
+index: "<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
 item: "#item-2b6eb82d1"
 unparsed:
 line: 'Entry: Temptation, continued|Topic: Temptation, continued|Xref: Temptation|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Temptation, continued|Topic: Temptation, continued|Xref: Temptatio
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/752,194,3061,216/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1573246855240
+sort_value: '205810194'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/752,194,600,180/250,/0/default.jpg
 label: Temptation, continued

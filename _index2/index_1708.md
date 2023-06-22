@@ -2,24 +2,25 @@
 pid: index_1708
 volume: Volume 3
 image_number: '23'
-head: hamelen
-entry: 768 [PAGE_MISSING]
+head: great with young
+entry: "<a href='/digital-beehive/num6/num_1962/'>1377 [Great with young]</a>"
 topic:
-first_letter: H
+first_letter: G
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2989/'>pipe</a>"
+see:
 index:
-item: "#item-39462881d"
+item: "#item-3e5ca0fdb"
 unparsed:
-line: 'Head: hamelen|See: pipe|Entry: 768 [PAGE_MISSING]|#item-39462881d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/858,431,613,104/full/0/default.jpg
+line: 'Head: great with young|Entry: 1377 [Great with young]|#item-3e5ca0fdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,888,597,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238114445
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230252090
+sort_value: '302310888'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/858,431,613,104/150,/0/default.jpg
-label: hamelen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,888,597,96/150,/0/default.jpg
+label: great with young
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

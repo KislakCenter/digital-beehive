@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num3/num_0763/'>589 [Nonsense]</a>|<a href='/digital-beehive/num4/num_1217/'>919
   [Absurd]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0059/'>absurdity</a>"
+index: "<a href='/digital-beehive/index1/index_0018/'>absurdity</a>"
 item: "#item-1e0398189"
 unparsed:
 line: 'Entry: Absurdity|Topic: Absurdity|Xref: 589 [Nonsense]|Xref: 919 [Absurd]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Absurdity|Topic: Absurdity|Xref: 589 [Nonsense]|Xref: 919 [Absurd]
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/275,697,3160,624/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1486415847665
+sort_value: '143110697'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/275,697,600,180/250,/0/default.jpg
 label: Absurdity

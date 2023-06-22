@@ -2,26 +2,29 @@
 pid: index_3616
 volume: Volume 3
 image_number: '42'
-head: separation
-entry:
+head: Self guilty
+entry: "<a href='/digital-beehive/num2/num_0583/'>468 [Self-guilty]</a>|<a href='/digital-beehive/num6/num_1776/'>1279
+  [Self guilty]</a>|<a href='/digital-beehive/num10/num_3274/'>2310 [Self guilty]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3559/'>sect</a>|shirm"
+see:
 index:
-item: "#item-0aa6dfd18"
+item: "#item-0fd8882ff"
 unparsed:
-line: 'Head: separation|See: sect|See: shirm|#item-0aa6dfd18'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1095,474,696,131/full/0/default.jpg
+line: 'Head: Self guilty|Entry: 468 [Self-guilty]|Entry: 1279 [Self guilty]|Entry:
+  2310 [Self guilty]|#item-0fd8882ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/392,1381,794,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573582624
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244463669
+sort_value: '304211381'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1095,474,696,131/150,/0/default.jpg
-label: separation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/392,1381,794,131/150,/0/default.jpg
+label: Self guilty
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: The intended point of reference for "shirm" is unclear.
+issue:
 insertion_xref:
 order: '0864'
 layout: index_item

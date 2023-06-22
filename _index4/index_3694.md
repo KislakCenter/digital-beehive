@@ -2,24 +2,25 @@
 pid: index_3694
 volume: Volume 3
 image_number: '42'
-head: sheep
-entry: "<a href='/digital-beehive/alpha4/alpha_0870/'>a</a>|4525 [PAGE_MISSING]"
+head: Sibijl
+entry: "<a href='/digital-beehive/num5/num_1535/'>1130 [Sibyl]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-6057378fd"
+item: "#item-f0b231baa"
 unparsed:
-line: 'Head: sheep|Page: p.34 [Image 1.94]|Entry: a|Entry: 4525 [PAGE_MISSING]|#item-6057378fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1102,3492,671,127/full/0/default.jpg
+line: 'Head: Sibijl|Entry: 1130 [Sibyl]|#item-f0b231baa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1813,3359,413,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575435325
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576674192
+sort_value: '304233359'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1102,3492,671,127/150,/0/default.jpg
-label: sheep
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1813,3359,413,144/150,/0/default.jpg
+label: Sibijl
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

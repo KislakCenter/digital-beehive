@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0712/'>Piety</a>|<a href='/digital
   href='/digital-beehive/num2/num_0611/'>489 [Turn in!]</a>|<a href='/digital-beehive/num9/num_3166/'>2223
   [Devotion]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0991/'>devotion</a>"
+index: "<a href='/digital-beehive/index1/index_1036/'>devotion</a>"
 item: "#item-19bd7db90"
 unparsed:
 line: 'Entry: Devotion|Topic: Devotion|Xref: Piety|Xref: Zeal|Xref: 489 [Turn in!]|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Devotion|Topic: Devotion|Xref: Piety|Xref: Zeal|Xref: 489 [Turn in
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/389,2913,3038,468/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563999191955
+sort_value: '144912913'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/389,2913,600,180/250,/0/default.jpg
 label: Devotion

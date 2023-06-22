@@ -2,8 +2,8 @@
 pid: index_3408
 volume: Volume 3
 image_number: '40'
-head: rust
-entry: "<a href='/digital-beehive/alpha4/alpha_0821/'>a</a>"
+head: reverenti√¢ salv√¢
+entry: 4560 [PAGE_MISSING]
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-710c706cf"
+item: "#item-3394b47a0"
 unparsed:
-line: 'Head: rust|Entry: a|#item-710c706cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,732,321,127/full/0/default.jpg
+line: 'Head: reverenti√¢ salv√¢|Entry: 4560 [PAGE_MISSING]|#item-3394b47a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/430,404,741,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234444540
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231072294
+sort_value: '304010404'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,732,321,127/150,/0/default.jpg
-label: rust
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/430,404,741,95/150,/0/default.jpg
+label: reverenti√¢ salv√¢
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

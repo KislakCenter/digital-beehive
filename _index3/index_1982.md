@@ -2,9 +2,8 @@
 pid: index_1982
 volume: Volume 3
 image_number: '25'
-head: Jesuite
-entry: "<a href='/digital-beehive/alpha3/alpha_0451/'>a</a>|<a href='/digital-beehive/num6/num_1802/'>1292
-  [Jesuites]</a>"
+head: to improve
+entry: "<a href='/digital-beehive/num1/num_0161/'>155 [Use]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8fb5f6526"
+item: "#item-79b32427a"
 unparsed:
-line: 'Head: Jesuite|Entry: a|Entry: 1292 [Jesuites]|#item-8fb5f6526'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/153,2231,476,137/full/0/default.jpg
+line: 'Head: to improve|Entry: 155 [Use]|#item-79b32427a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/832,2837,530,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661209931
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667898023
+sort_value: '302522837'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/153,2231,476,137/150,/0/default.jpg
-label: Jesuite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/832,2837,530,104/150,/0/default.jpg
+label: to improve
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

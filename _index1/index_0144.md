@@ -2,8 +2,8 @@
 pid: index_0144
 volume: Volume 3
 image_number: '8'
-head: aristaenetus
-entry: "<a href='/digital-beehive/num11/num_3499/'>4805 [Arist[ae]netus]</a>"
+head: "[:61.]"
+entry:
 topic:
 first_letter: A
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-09d66c045"
-unparsed:
-line: 'Head: aristaenetus|Entry: 4805 [Arist[ae]netus]|#item-09d66c045'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1816,440,605,74/full/0/default.jpg
+item: "#item-dddab688a"
+unparsed: 'Type: Index|Insertion Xref: [:61.]|#item-dddab688a'
+line: 'Type: Index|Insertion Xref: [:61.]|#item-dddab688a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/967,1854,151,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491248304075
+annotation_uri: http://dev.llgc.org.uk/annotation/1558980528367
+sort_value: '300811854'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1816,440,605,74/150,/0/default.jpg
-label: aristaenetus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/967,1854,151,99/150,/0/default.jpg
+label: "[:61.]"
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4730/'>angling</a>"
 order: '0143'
 layout: index_item
 collection: index1

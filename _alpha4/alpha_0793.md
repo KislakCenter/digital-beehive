@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0681/'>Pardon</a>|1363 [Pardon and Remission
   of Sins]"
 see:
-index: "<a href='/digital-beehive/index4/index_3339/'>remission</a>"
+index: "<a href='/digital-beehive/index4/index_3358/'>remission</a>"
 item: "#item-891f6fb74"
 unparsed:
 line: 'Entry: Remission of Sins|Topic: Remission of Sins|Xref: Pardon|Xref: 1363 [Pardon
@@ -19,6 +19,7 @@ line: 'Entry: Remission of Sins|Topic: Remission of Sins|Xref: Pardon|Xref: 1363
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/270,562,3084,444/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565105158372
+sort_value: '204710562'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/270,562,600,180/250,/0/default.jpg
 label: Remission of Sins

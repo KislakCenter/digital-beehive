@@ -2,8 +2,8 @@
 pid: index_2896
 volume: Volume 3
 image_number: '34'
-head: parliamt
-entry: "<a href='/digital-beehive/num3/num_0847/'>628 [Parliament]</a>"
+head: parties
+entry: 4601 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-213cd3aa1"
+item: "#item-16749c320"
 unparsed:
-line: 'Head: parliamt|Entry: 628 [Parliament]|#item-213cd3aa1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1102,2165,632,156/full/0/default.jpg
+line: 'Head: parties|Entry: 4601 [PAGE_MISSING]|#item-16749c320'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1198,2975,552,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494330991
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494618339
+sort_value: '303422975'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1102,2165,632,156/150,/0/default.jpg
-label: parliamt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1198,2975,552,160/150,/0/default.jpg
+label: parties
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

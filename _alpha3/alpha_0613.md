@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0200/'>Cross of Xst</a>|<a href='/digital-beehive/alpha5/alpha_1032/'>Small
   Way</a>|<a href='/digital-beehive/num2/num_0558/'>448 [Mortification]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2605/'>mortifying</a>"
+index: "<a href='/digital-beehive/index3/index_2588/'>mortifying</a>"
 item: "#item-bc399a654"
 unparsed:
 line: 'Entry: Mortifying|Topic: Mortifying|Xref: Cross of Xst|Xref: Small Way|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Mortifying|Topic: Mortifying|Xref: Cross of Xst|Xref: Small Way|Xr
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/722,409,3054,546/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564777145993
+sort_value: '203410409'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/722,409,600,180/250,/0/default.jpg
 label: Mortifying

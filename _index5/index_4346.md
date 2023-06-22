@@ -2,29 +2,29 @@
 pid: index_4346
 volume: Volume 3
 image_number: '49'
-head: vertue
-entry: "<a href='/digital-beehive/alpha5/alpha_0995/'>a</a>|<a href='/digital-beehive/num5/num_1547/'>1138
-  [Virtue]</a>|<a href='/digital-beehive/num11/num_3514/'>4819 [Virtue]</a>"
+head: vitious
+entry:
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0269/'>bad</a>|<a href='/digital-beehive/index1/index_0861/'>corrupt</a>"
 index:
-item: "#item-4f3408a5f"
+item: "#item-1dc1368f8"
 unparsed:
-line: 'Head: vertue|Entry: a|Entry: 1138 [Virtue]|Entry: 4819 [Virtue]|#item-4f3408a5f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/945,3459,687,134/full/0/default.jpg
+line: 'Head: vitious|See: bad|See: corrupt|#item-1dc1368f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1654,3188,629,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659161439
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661566898
+sort_value: '304933188'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/945,3459,687,134/150,/0/default.jpg
-label: vertue
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1654,3188,629,146/150,/0/default.jpg
+label: vitious
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '309'
+order: '308'
 layout: index_item
 collection: index5
 ---

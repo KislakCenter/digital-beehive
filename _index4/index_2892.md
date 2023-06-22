@@ -2,8 +2,9 @@
 pid: index_2892
 volume: Volume 3
 image_number: '34'
-head: patrimony
-entry: "<a href='/digital-beehive/num6/num_1963/'>1377 [Patrimony]</a>"
+head: parsimony
+entry: "<a href='/digital-beehive/alpha4/alpha_0686/'>a</a>|<a href='/digital-beehive/num5/num_1509/'>1115
+  [Frugality]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-96af25382"
+item: "#item-2aa38cbc5"
 unparsed:
-line: 'Head: patrimony|Entry: 1377 [Patrimony]|#item-96af25382'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1828,2034,549,115/full/0/default.jpg
+line: 'Head: parsimony|Entry: a|Entry: 1115 [Frugality]|#item-2aa38cbc5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,2536,709,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565192571919
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494502343
+sort_value: '303422536'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1828,2034,549,115/150,/0/default.jpg
-label: patrimony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,2536,709,161/150,/0/default.jpg
+label: parsimony
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/digital-beehive/num4/num_1212/'>917
   [Humility]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1870/'>humility</a>"
+index: "<a href='/digital-beehive/index2/index_1901/'>humility</a>"
 item: "#item-b5702089e"
 unparsed:
 line: 'Entry: Humility|Topic: Humility|Xref: baseness|Xref: 917 [Humility]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Humility|Topic: Humility|Xref: baseness|Xref: 917 [Humility]|Index
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/806,966,2899,638/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1509733594951
+sort_value: '202010966'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/806,966,600,180/250,/0/default.jpg
 label: Humility

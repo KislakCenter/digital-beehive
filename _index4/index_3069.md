@@ -2,8 +2,8 @@
 pid: index_3069
 volume: Volume 3
 image_number: '36'
-head: pleurisie
-entry: "<a href='/digital-beehive/num9/num_3007/'>2073 [Pleurisie]</a>"
+head: pond
+entry: "<a href='/digital-beehive/num4/num_1231/'>927 [Pond]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-cbcfdb236"
+item: "#item-31edf89f1"
 unparsed:
-line: 'Head: pleurisie|Entry: 2073 [Pleurisie]|#item-cbcfdb236'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/475,1208,591,138/full/0/default.jpg
+line: 'Head: pond|Entry: 927 [Pond]|#item-31edf89f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1208,242,412,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544207714992
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438212652
+sort_value: '303620242'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/475,1208,591,138/150,/0/default.jpg
-label: pleurisie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1208,242,412,151/150,/0/default.jpg
+label: pond
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_0905
 volume: Volume 3
 image_number: '15'
-head: to dare
-entry: "<a href='/digital-beehive/num10/num_3448/'>4464 [I dare]</a>"
+head: Crete
+entry: 4739 [PAGE_MISSING]
 topic:
-first_letter: D
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6ea67d9c6"
+item: "#item-d15f3c5b7"
 unparsed:
-line: 'Head: to dare|Entry: 4464 [I dare]|#item-6ea67d9c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1558,1541,448,76/full/0/default.jpg
+line: 'Head: Crete|Entry: 4739 [PAGE_MISSING]|#item-d15f3c5b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/866,1261,384,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391223526
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577414118
+sort_value: '301521261'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1558,1541,448,76/150,/0/default.jpg
-label: to dare
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/866,1261,384,102/150,/0/default.jpg
+label: Crete
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

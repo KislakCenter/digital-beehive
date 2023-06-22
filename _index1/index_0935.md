@@ -2,28 +2,29 @@
 pid: index_0935
 volume: Volume 3
 image_number: '15'
-head: dead men
-entry: "<a href='/digital-beehive/num7/num_2344/'>1566 [Dead people]</a>"
+head: to cut
+entry: 838 [PAGE_MISSING]
 topic:
-first_letter: D
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f9e5f7969"
+item: "#item-4dcd2ab54"
 unparsed:
-line: 'Head: dead men|Entry: 1566 [Dead people]|#item-f9e5f7969'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1530,2419,389,95/full/0/default.jpg
+line: 'Head: to cut|Entry: 838 [PAGE_MISSING]|#item-4dcd2ab54'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1577,608,408,77/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391756219
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390739294
+sort_value: '301530608'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1530,2419,389,95/150,/0/default.jpg
-label: dead men
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1577,608,408,77/150,/0/default.jpg
+label: to cut
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0933'
+order: '0934'
 layout: index_item
 collection: index1
 ---

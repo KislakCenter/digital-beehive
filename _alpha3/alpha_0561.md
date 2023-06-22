@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0240/'>225 [Love of enemies]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2386/'>love of Enemies</a>"
+index: "<a href='/digital-beehive/index3/index_2344/'>love of Enemies</a>"
 item: "#item-2ae1d06b7"
 unparsed:
 line: 'Entry: Love of enemies|Topic: Love of enemies|Xref: 225 [Love of enemies]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Love of enemies|Topic: Love of enemies|Xref: 225 [Love of enemies]
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/767,581,3006,558/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564771218552
+sort_value: '203010581'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/767,581,600,180/250,/0/default.jpg
 label: Love of enemies

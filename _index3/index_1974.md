@@ -2,26 +2,26 @@
 pid: index_1974
 volume: Volume 3
 image_number: '25'
-head: inconstant
-entry: "<a href='/digital-beehive/num4/num_1093/'>870 [Inconstancy]</a>|<a href='/digital-beehive/num7/num_2460/'>1624
-  [Inconstant]</a>|4573 [PAGE_MISSING]"
+head: impossible
+entry: "<a href='/digital-beehive/alpha3/alpha_0467/'>a</a>|<a href='/digital-beehive/num5/num_1631/'>1196
+  [Impossibilities]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4447/'>unstable</a>"
+see:
 index:
-item: "#item-7567faf36"
+item: "#item-a978268a5"
 unparsed:
-line: 'Head: inconstant|See: unstable|Entry: 870 [Inconstancy]|Entry: 1624 [Inconstant]|Entry:
-  4573 [PAGE_MISSING]|#item-7567faf36'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1571,1958,706,178/full/0/default.jpg
+line: 'Head: impossible|Entry: a|Entry: 1196 [Impossibilities]|#item-a978268a5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/855,2060,571,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671848458
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666491873
+sort_value: '302522060'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1571,1958,706,178/150,/0/default.jpg
-label: inconstant
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/855,2060,571,155/150,/0/default.jpg
+label: impossible
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,13 +10,14 @@ page: "<a href='/digital-beehive/toc/toc2_189/'>p.377 [Image 2.199]</a>"
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index5/index_4173/'>toothach</a>"
+index: "<a href='/digital-beehive/index5/index_4190/'>toothach</a>"
 item: "#item-e7678121e"
 unparsed:
 line: 'Entry: Toothach|Topic: Toothach|Page: p.377 [Image 2.199]|Index: toothach|#item-e7678121e'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/371,4516,2924,347/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565114616162
+sort_value: '205914516'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/371,4516,600,180/250,/0/default.jpg
 label: Toothach

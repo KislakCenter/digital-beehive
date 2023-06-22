@@ -2,9 +2,9 @@
 pid: index_3953
 volume: Volume 3
 image_number: '45'
-head: strife
-entry: "<a href='/digital-beehive/alpha4/alpha_0924/'>a</a>|<a href='/digital-beehive/num2/num_0414/'>352
-  [Strife]</a>|<a href='/digital-beehive/num9/num_3109/'>2167 [Strife]</a>"
+head: subjects
+entry: "<a href='/digital-beehive/alpha4/alpha_0927/'>a</a>|<a href='/digital-beehive/num6/num_1944/'>1368
+  [the duties of Subjects]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e4f179706"
+item: "#item-8d02ed39e"
 unparsed:
-line: 'Head: strife|Entry: a|Entry: 352 [Strife]|Entry: 2167 [Strife]|#item-e4f179706'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/896,2749,631,133/full/0/default.jpg
+line: 'Head: subjects|Entry: a|Entry: 1368 [the duties of Subjects]|#item-8d02ed39e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1592,774,527,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290889918
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467501511
+sort_value: '304530774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/896,2749,631,133/150,/0/default.jpg
-label: strife
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1592,774,527,109/150,/0/default.jpg
+label: subjects
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

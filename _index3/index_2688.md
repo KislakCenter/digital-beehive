@@ -2,8 +2,8 @@
 pid: index_2688
 volume: Volume 3
 image_number: '32'
-head: non resistance
-entry: "<a href='/digital-beehive/num9/num_3132/'>2189 [Passive Obedience & non resistance]</a>"
+head: nettles
+entry: "<a href='/digital-beehive/num3/num_0971/'>685 [Nettles]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bf09cb7b8"
+item: "#item-ca4fa8d27"
 unparsed:
-line: 'Head: non resistance|Entry: 2189 [Passive Obedience & non resistance]|#item-bf09cb7b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1840,1538,639,131/full/0/default.jpg
+line: 'Head: nettles|Entry: 685 [Nettles]|#item-ca4fa8d27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1179,1030,386,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448897200
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441900152
+sort_value: '303221030'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1840,1538,639,131/150,/0/default.jpg
-label: non resistance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1179,1030,386,102/150,/0/default.jpg
+label: nettles
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_4269
 volume: Volume 3
 image_number: '49'
-head: try all things
-entry: "<a href='/digital-beehive/num1/num_0047/'>47 [Try & Prove all things]</a>|<a
-  href='/digital-beehive/num4/num_1185/'>908 [Try all things]</a>"
+head: by turns
+entry: 729 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
@@ -12,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-4a38fbe2a"
+item: "#item-0b092da6a"
 unparsed:
-line: 'Head: try all things|Entry: 47 [Try & Prove all things]|Entry: 908 [Try all
-  things]|#item-4a38fbe2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,665,657,147/full/0/default.jpg
+line: 'Head: by turns|Entry: 729 [PAGE_MISSING]|#item-0b092da6a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/188,1895,497,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655359846
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656778269
+sort_value: '304911895'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,665,657,147/150,/0/default.jpg
-label: try all things
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/188,1895,497,184/150,/0/default.jpg
+label: by turns
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '232'
+order: '231'
 layout: index_item
 collection: index5
 ---

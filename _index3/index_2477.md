@@ -17,6 +17,7 @@ line: 'Head: melon|Entry: 828 [PAGE_MISSING]|#item-90ddb83bc'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1133,1381,427,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560268162791
+sort_value: '303021381'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1133,1381,427,118/150,/0/default.jpg
 label: melon

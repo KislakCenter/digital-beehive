@@ -2,8 +2,8 @@
 pid: index_3978
 volume: Volume 3
 image_number: '46'
-head: sum[m]er
-entry: "<a href='/digital-beehive/num6/num_1778/'>1280 [Summer]</a>"
+head: sum[m]arily
+entry: "<a href='/digital-beehive/num4/num_1243/'>932 [Brevity]</a>"
 topic:
 first_letter: S
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-cde07eadd"
+item: "#item-8cd719e1c"
 unparsed:
-line: 'Head: sum[m]er|Entry: 1280 [Summer]|#item-cde07eadd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/465,637,394,93/full/0/default.jpg
+line: 'Head: sum[m]arily|Entry: 932 [Brevity]|#item-8cd719e1c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/458,499,505,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530472475396
+annotation_uri: http://dev.llgc.org.uk/annotation/1565292626677
+sort_value: '304610499'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/465,637,394,93/150,/0/default.jpg
-label: sum[m]er
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/458,499,505,137/150,/0/default.jpg
+label: sum[m]arily
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1225'
+order: '1226'
 layout: index_item
 collection: index4
 ---

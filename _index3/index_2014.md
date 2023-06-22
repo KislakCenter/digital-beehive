@@ -2,24 +2,25 @@
 pid: index_2014
 volume: Volume 3
 image_number: '25'
-head: impurity
-entry:
+head: indemnity
+entry: "<a href='/digital-beehive/num3/num_1065/'>721 [Indemnity]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1039/'>dirt</a>"
+see:
 index:
-item: "#item-22a9b0eab"
+item: "#item-8fd79df16"
 unparsed:
-line: 'Head: impurity|See: dirt|#item-22a9b0eab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/850,3241,582,191/full/0/default.jpg
+line: 'Head: indemnity|Entry: 721 [Indemnity]|#item-8fd79df16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1486,2771,548,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668321351
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672691774
+sort_value: '302532771'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/850,3241,582,191/150,/0/default.jpg
-label: impurity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1486,2771,548,167/150,/0/default.jpg
+label: indemnity
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

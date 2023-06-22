@@ -2,28 +2,29 @@
 pid: index_4347
 volume: Volume 3
 image_number: '49'
-head: Tyrus
-entry: "<a href='/digital-beehive/num8/num_2842/'>1929 [Tyrus]</a>"
+head: vitriol
+entry: "<a href='/digital-beehive/num9/num_3070/'>2131 [Vitriolum]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ebd45413c"
+item: "#item-732c0febb"
 unparsed:
-line: 'Head: Tyrus|Entry: 1929 [Tyrus]|#item-ebd45413c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/238,3499,410,173/full/0/default.jpg
+line: 'Head: vitriol|Entry: 2131 [Vitriolum]|#item-732c0febb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1647,3273,419,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657360139
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661601988
+sort_value: '304933273'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/238,3499,410,173/150,/0/default.jpg
-label: Tyrus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1647,3273,419,109/150,/0/default.jpg
+label: vitriol
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '310'
+order: '309'
 layout: index_item
 collection: index5
 ---

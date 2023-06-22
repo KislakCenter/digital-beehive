@@ -2,28 +2,30 @@
 pid: index_4600
 volume: Volume 3
 image_number: '53'
-head: yawning
-entry: "<a href='/digital-beehive/num3/num_1023/'>704 [to Gape]</a>"
+head: wonder
+entry: "<a href='/digital-beehive/alpha5/alpha_1054/'>a</a>|<a href='/digital-beehive/num6/num_2061/'>1423
+  [Wonder]</a>"
 topic:
-first_letter: Y
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-59c2ad154"
+item: "#item-d8d033f7a"
 unparsed:
-line: 'Head: yawning|Entry: 704 [to Gape]|#item-59c2ad154'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1559,1677,537,124/full/0/default.jpg
+line: 'Head: wonder|Entry: a|Entry: 1423 [Wonder]|#item-d8d033f7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,1037,517,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798827566
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796197843
+sort_value: '305321037'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1559,1677,537,124/150,/0/default.jpg
-label: yawning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,1037,517,109/150,/0/default.jpg
+label: wonder
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '563'
+order: '562'
 layout: index_item
 collection: index5
 ---

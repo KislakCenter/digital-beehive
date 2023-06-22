@@ -2,9 +2,8 @@
 pid: index_4605
 volume: Volume 3
 image_number: '53'
-head: few words
-entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/num5/num_1594/'>1169
-  [Laconism]</a>"
+head: word
+entry: "<a href='/digital-beehive/num6/num_1915/'>1353 [Word]</a>"
 topic:
 first_letter: W
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-7f0da8434"
+item: "#item-429dd2a82"
 unparsed:
-line: 'Head: few words|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-7f0da8434'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,1845,597,132/full/0/default.jpg
+line: 'Head: word|Entry: 1353 [Word]|#item-429dd2a82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/884,1706,380,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796653856
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796508015
+sort_value: '305321706'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,1845,597,132/150,/0/default.jpg
-label: few words
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/884,1706,380,87/150,/0/default.jpg
+label: word
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '568'
+order: '567'
 layout: index_item
 collection: index5
 ---

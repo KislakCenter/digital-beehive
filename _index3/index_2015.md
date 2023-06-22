@@ -2,8 +2,8 @@
 pid: index_2015
 volume: Volume 3
 image_number: '25'
-head: Indian Corn
-entry: "<a href='/digital-beehive/num7/num_2625/'>1702 [Maiz]</a>"
+head: independency
+entry: "<a href='/digital-beehive/num5/num_1693/'>1231 [Independent : Soveraign]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b71098526"
+item: "#item-e706cfe7a"
 unparsed:
-line: 'Head: Indian Corn|Entry: 1702 [Maiz]|#item-b71098526'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1513,3268,394,137/full/0/default.jpg
+line: 'Head: independency|Entry: 1231 [Independent : Soveraign]|#item-e706cfe7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1517,2920,602,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672985712
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672756235
+sort_value: '302532920'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1513,3268,394,137/150,/0/default.jpg
-label: Indian Corn
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1517,2920,602,169/150,/0/default.jpg
+label: independency
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

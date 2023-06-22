@@ -2,24 +2,25 @@
 pid: index_2042
 volume: Volume 3
 image_number: '26'
-head: inscriptions
-entry: "<a href='/digital-beehive/alpha3/alpha_0482/'>a</a>"
+head: inhabitants
+entry: "<a href='/digital-beehive/num10/num_3228/'>2270 [Inhabitants]</a>"
 topic:
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-d99fbd113"
+item: "#item-8de7a682e"
 unparsed:
-line: 'Head: inscriptions|Page: p.2 [Image 1.62]|Entry: a|#item-d99fbd113'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,743,678,183/full/0/default.jpg
+line: 'Head: inhabitants|Entry: 2270 [Inhabitants]|#item-8de7a682e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/418,2569,548,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747359676
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745107097
+sort_value: '302612569'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,743,678,183/150,/0/default.jpg
-label: inscriptions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/418,2569,548,104/150,/0/default.jpg
+label: inhabitants
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0279
 volume: Volume 3
 image_number: '9'
-head: bear
-entry: "<a href='/digital-beehive/num9/num_3103/'>2162 [Bears]</a>"
+head: ballast
+entry: 4708 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d3f1f48ec"
+item: "#item-c6784a24e"
 unparsed:
-line: 'Head: bear|Entry: 2162 [Bears]|#item-d3f1f48ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1604,1539,364,76/full/0/default.jpg
+line: 'Head: ballast|Entry: 4708 [PAGE_MISSING]|#item-c6784a24e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,1149,383,70/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530891459115
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403550057
+sort_value: '300921149'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1604,1539,364,76/150,/0/default.jpg
-label: bear
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,1149,383,70/150,/0/default.jpg
+label: ballast
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

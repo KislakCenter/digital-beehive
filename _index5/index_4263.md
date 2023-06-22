@@ -2,28 +2,29 @@
 pid: index_4263
 volume: Volume 3
 image_number: '49'
-head: to vex
-entry:
+head: tumult
+entry: 726 [PAGE_MISSING]
 topic:
-first_letter: U/V
+first_letter: T
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3032/'>perplex</a>|<a href='/digital-beehive/index5/index_4234/'>trouble</a>"
+see:
 index:
-item: "#item-994d33754"
+item: "#item-c82844f7a"
 unparsed:
-line: 'Head: to vex|See: perplex|See: trouble|#item-994d33754'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,371,740,158/full/0/default.jpg
+line: 'Head: tumult|Entry: 726 [PAGE_MISSING]|#item-c82844f7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/188,1248,426,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659561107
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655896423
+sort_value: '304911248'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,371,740,158/150,/0/default.jpg
-label: to vex
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/188,1248,426,103/150,/0/default.jpg
+label: tumult
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '226'
+order: '225'
 layout: index_item
 collection: index5
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0020/'>20 [Too late]</a>|4786 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2189/'>late</a>"
+index: "<a href='/digital-beehive/index3/index_2213/'>late</a>"
 item: "#item-2bad963b5"
 unparsed:
 line: 'Entry: Late|Topic: Late|Xref: 20 [Too late]|Xref:  4786 [PAGE_MISSING]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Late|Topic: Late|Xref: 20 [Too late]|Xref:  4786 [PAGE_MISSING]|In
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/747,4194,2966,318/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564766849824
+sort_value: '202614194'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/747,4194,600,180/250,/0/default.jpg
 label: Late

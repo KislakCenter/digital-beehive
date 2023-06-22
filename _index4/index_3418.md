@@ -2,27 +2,29 @@
 pid: index_3418
 volume: Volume 3
 image_number: '40'
-head: safety
-entry: "<a href='/digital-beehive/num4/num_1202/'>914 [Security]</a>|<a href='/digital-beehive/num4/num_1205/'>914
-  [Safety]</a>"
+head: "[:70.]"
+entry:
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ccf1e9fbc"
-unparsed:
-line: 'Head: safety|Entry: 914 [Security]|Entry: 914 [Safety]|#item-ccf1e9fbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1833,2243,363,113/full/0/default.jpg
+item: "#item-b8f75527f"
+unparsed: 'Type: Index|Insertion Xref: [:70.]|#item-b8f75527f'
+line: 'Type: Index|Insertion Xref: [:70.]|#item-b8f75527f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1015,1425,172,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234941684
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277683114
+sort_value: '304011425'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1833,2243,363,113/150,/0/default.jpg
-label: safety
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1015,1425,172,104/150,/0/default.jpg
+label: "[:70.]"
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue:
+issue: The crochet refers not to a missing header but instead provides additional
+  information about "ABC rhymes and meeters." There is currently no protocol for connecting
+  the two.
 insertion_xref:
 order: '0666'
 layout: index_item

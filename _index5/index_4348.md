@@ -2,9 +2,8 @@
 pid: index_4348
 volume: Volume 3
 image_number: '49'
-head: very
-entry: "<a href='/digital-beehive/num3/num_0671/'>535 [Excellent]</a>|<a href='/digital-beehive/num6/num_2036/'>1411
-  [Very]</a>"
+head: vizard
+entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
 topic:
 first_letter: U/V
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-6ed84fa31"
+item: "#item-517744a37"
 unparsed:
-line: 'Head: very|Entry: 535 [Excellent]|Entry: 1411 [Very]|#item-6ed84fa31'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/968,3601,483,121/full/0/default.jpg
+line: 'Head: vizard|Entry: 129 [Vizard]|#item-517744a37'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1646,3336,410,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659404701
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661619642
+sort_value: '304933336'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/968,3601,483,121/150,/0/default.jpg
-label: very
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1646,3336,410,161/150,/0/default.jpg
+label: vizard
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: The correct entry for 535 is ambiguous.
+issue:
 insertion_xref:
-order: '311'
+order: '310'
 layout: index_item
 collection: index5
 ---

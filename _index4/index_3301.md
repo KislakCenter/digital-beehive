@@ -2,25 +2,25 @@
 pid: index_3301
 volume: Volume 3
 image_number: '38'
-head: to recant
-entry: "<a href='/digital-beehive/num2/num_0519/'>418 [Renouncing]</a>|<a href='/digital-beehive/num10/num_3234/'>2275
-  [Recantation]</a>"
+head: ratio Statis
+entry:
 topic:
 first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3065/'>politick</a>"
 index:
-item: "#item-6a07605d4"
+item: "#item-dbe9435f7"
 unparsed:
-line: 'Head: to recant|Entry: 418 [Renouncing]|Entry: 2275 [Recantation]|#item-6a07605d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1857,2643,651,229/full/0/default.jpg
+line: 'Head: ratio Statis|See: politick|#item-dbe9435f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1864,1302,704,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461931389
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460989613
+sort_value: '303831302'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1857,2643,651,229/150,/0/default.jpg
-label: to recant
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1864,1302,704,135/150,/0/default.jpg
+label: ratio Statis
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_1024/'>705 [Doubtfulness]</a>|705 [Believe]"
 see:
-index: "<a href='/digital-beehive/index1/index_0383/'>to believe</a>"
+index: "<a href='/digital-beehive/index1/index_0346/'>to believe</a>"
 item: "#item-7737412f6"
 unparsed:
 line: 'Entry: Believe|Topic: Believe|Xref: 705 [Doubtfulness]|Xref: 705 [Believe]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Believe|Topic: Believe|Xref: 705 [Doubtfulness]|Xref: 705 [Believe
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/855,2678,2911,209/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744251961
+sort_value: '143612678'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/855,2678,600,180/250,/0/default.jpg
 label: Believe

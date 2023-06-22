@@ -2,8 +2,9 @@
 pid: index_2808
 volume: Volume 3
 image_number: '33'
-head: Origines
-entry: "<a href='/digital-beehive/num7/num_2354/'>1571 [Origenes]</a>"
+head: opportunity
+entry: "<a href='/digital-beehive/num3/num_0737/'>578 [Seasonable]</a>|<a href='/digital-beehive/num9/num_3146/'>2203
+  [Seasonable Opportunity]</a>"
 topic:
 first_letter: O
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1fa210768"
+item: "#item-05f04fb4c"
 unparsed:
-line: 'Head: Origines|Entry: 1571 [Origenes]|#item-1fa210768'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1477,2687,661,168/full/0/default.jpg
+line: 'Head: opportunity|Entry: 578 [Seasonable]|Entry: 2203 [Seasonable Opportunity]|#item-05f04fb4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1519,878,835,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538163641781
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161571809
+sort_value: '303330878'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1477,2687,661,168/150,/0/default.jpg
-label: Origines
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1519,878,835,157/150,/0/default.jpg
+label: opportunity
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

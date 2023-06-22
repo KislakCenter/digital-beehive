@@ -2,29 +2,28 @@
 pid: index_2499
 volume: Volume 3
 image_number: '30'
-head: matter, eijter
-entry: "<a href='/digital-beehive/num3/num_0758/'>587 [Corruption & Matter, Eijter]</a>"
+head: metamorphosing
+entry: "<a href='/digital-beehive/num3/num_0892/'>650 [Transformation]</a>|<a href='/digital-beehive/num7/num_2520/'>1650
+  [Transmutation]</a>"
 topic:
 first_letter: M
 page:
-add: 831 [PAGE_MISSING; thing]|4592 [PAGE_MISSING; theme]
+add:
 xref:
 see:
 index:
-item: "#item-2dd387dbd"
+item: "#item-5aef9463b"
 unparsed:
-line: 'Head: matter, eijter|Entry: 587 [Corruption & Matter, Eijter]|Add: 831 [PAGE_MISSING;
-  thing]|Add: 4592 [PAGE_MISSING; theme]|#item-2dd387dbd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/394,2209,775,209/full/0/default.jpg
+line: 'Head: metamorphosing|Entry: 650 [Transformation]|Entry: 1650 [Transmutation]|#item-5aef9463b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1841,305,665,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265264338
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273268104
+sort_value: '303030305'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/394,2209,775,209/150,/0/default.jpg
-label: matter, eijter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1841,305,665,150/150,/0/default.jpg
+label: metamorphosing
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: Pastorius appears to create a reference to 1592. However, it is likely that
-  this was an error, and he meant to cross-reference 4592, which is on a missing page
-  of the Alvearium but appears elsewhere in the index under "theme."
+issue:
 insertion_xref:
 order: '581'
 layout: index_item

@@ -2,28 +2,29 @@
 pid: index_4167
 volume: Volume 3
 image_number: '48'
-head: "[:54.]"
+head: toe
 entry:
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-70d4a6a5c"
-unparsed: 'Type: Index|Insertion Xref: [:54.]|#item-70d4a6a5c'
-line: 'Type: Index|Insertion Xref: [:54.]|#item-70d4a6a5c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/999,820,155,130/full/0/default.jpg
+item: "#item-fd0d6b9a0"
+unparsed:
+line: 'Head: toe|Page: p.43 [Image 1.103]|#item-fd0d6b9a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/474,650,320,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562001013347
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846728614
+sort_value: '304810650'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/999,820,155,130/150,/0/default.jpg
-label: "[:54.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/474,650,320,123/150,/0/default.jpg
+label: toe
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4684/'>tomb</a>"
-order: '130'
+insertion_xref:
+order: '129'
 layout: index_item
 collection: index5
 ---

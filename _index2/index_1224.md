@@ -2,9 +2,8 @@
 pid: index_1224
 volume: Volume 3
 image_number: '18'
-head: English Church
-entry: "<a href='/digital-beehive/num6/num_1930/'>1360 [English Church]</a>|<a href='/digital-beehive/num9/num_3194/'>2248
-  [Church of England]</a>"
+head: Elijah
+entry: "<a href='/digital-beehive/num2/num_0325/'>288 [Elijah]</a>"
 topic:
 first_letter: E
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a8b436949"
+item: "#item-9a9bfaf30"
 unparsed:
-line: 'Head: English Church|Entry: 1360 [English Church]|Entry: 2248 [Church of England]|#item-a8b436949'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1814,1651,761,169/full/0/default.jpg
+line: 'Head: Elijah|Entry: 288 [Elijah]|#item-9a9bfaf30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1160,2409,376,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756687598
+annotation_uri: http://dev.llgc.org.uk/annotation/1559678780427
+sort_value: '301822409'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1814,1651,761,169/150,/0/default.jpg
-label: English Church
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1160,2409,376,147/150,/0/default.jpg
+label: Elijah
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:

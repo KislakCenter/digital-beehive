@@ -2,24 +2,25 @@
 pid: index_1717
 volume: Volume 3
 image_number: '23'
-head: handkerchief
-entry: 4578 [PAGE_MISSING]
+head: gripes
+entry: "<a href='/digital-beehive/num2/num_0345/'>303 [Cholick]</a>"
 topic:
-first_letter: H
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1c8ac9f9c"
+item: "#item-166e002f2"
 unparsed:
-line: 'Head: handkerchief|Entry: 4578 [PAGE_MISSING]|#item-1c8ac9f9c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/857,724,594,106/full/0/default.jpg
+line: 'Head: gripes|Entry: 303 [Cholick]|#item-166e002f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/140,1698,357,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238479565
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231744457
+sort_value: '302311698'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/857,724,594,106/150,/0/default.jpg
-label: handkerchief
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/140,1698,357,103/150,/0/default.jpg
+label: gripes
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

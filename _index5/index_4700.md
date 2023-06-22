@@ -2,28 +2,29 @@
 pid: index_4700
 volume: Volume 3
 image_number: '54'
-head: Content or purpose
-entry: "<a href='/digital-beehive/num10/num_3445/'>4463 [Content]</a>"
+head: vigor
+entry:
 topic:
 first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3950/'>stupidity</a>"
 index:
-item: "#item-34b8b0fe8"
-unparsed: Type Index|Insertion [:35.]
-line: 'Type: Index|Insertion: [:35.]|Head: Content or purpose|Entry: 4463 [Content]|#item-34b8b0fe8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1065,1731,687,170/full/0/default.jpg
+item: "#item-ed070c7e3"
+unparsed: Type Index|Insertion [:32.]
+line: 'Type: Index|Insertion: [:32.]|Head: vigor|See: stupidity|#item-ed070c7e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1114,1319,731,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955203039
-insertion: "[:35.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1065,1731,687,170/150,/0/default.jpg
-label: Content or purpose
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954649647
+sort_value: '305421319'
+insertion: "[:32.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1114,1319,731,156/150,/0/default.jpg
+label: vigor
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '663'
+order: '662'
 layout: index_item
 collection: index5
 ---

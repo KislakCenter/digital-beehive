@@ -2,9 +2,8 @@
 pid: index_2453
 volume: Volume 3
 image_number: '30'
-head: meditation
-entry: "<a href='/digital-beehive/alpha3/alpha_0585/'>a</a>|<a href='/digital-beehive/num4/num_1089/'>868
-  [Meditation]</a>|4602 [PAGE_MISSING]"
+head: Maxims
+entry: "<a href='/digital-beehive/num9/num_2982/'>2048 [Maxims]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a553073b1"
+item: "#item-7dd721b2b"
 unparsed:
-line: 'Head: meditation|Entry: a|Entry: 868 [Meditation]|Entry: 4602 [PAGE_MISSING]|#item-a553073b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1098,482,784,107/full/0/default.jpg
+line: 'Head: Maxims|Entry: 2048 [Maxims]|#item-7dd721b2b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,2473,490,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267714014
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265396084
+sort_value: '303012473'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1098,482,784,107/150,/0/default.jpg
-label: meditation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,2473,490,86/150,/0/default.jpg
+label: Maxims
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

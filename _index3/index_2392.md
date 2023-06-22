@@ -2,24 +2,25 @@
 pid: index_2392
 volume: Volume 3
 image_number: '29'
-head: manifesta[ti]on
-entry:
+head: maiz
+entry: "<a href='/digital-beehive/num7/num_2625/'>1702 [Maiz]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3391/'>revelation</a>"
+see:
 index:
-item: "#item-1bea52bca"
+item: "#item-9a1f831e6"
 unparsed:
-line: 'Head: manifesta[ti]on|See: revelation|#item-1bea52bca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2488,709,116/full/0/default.jpg
+line: 'Head: maiz|Entry: 1702 [Maiz]|#item-9a1f831e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1559,383,377,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196193168
+annotation_uri: http://dev.llgc.org.uk/annotation/1560193918566
+sort_value: '302930383'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2488,709,116/150,/0/default.jpg
-label: manifesta[ti]on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1559,383,377,98/150,/0/default.jpg
+label: maiz
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

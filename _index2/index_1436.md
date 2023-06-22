@@ -2,8 +2,9 @@
 pid: index_1436
 volume: Volume 3
 image_number: '20'
-head: a fit
-entry: "<a href='/digital-beehive/num9/num_3055/'>2118 [Fit or Paroxysm]</a>"
+head: few words
+entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/num5/num_1594/'>1169
+  [Laconism]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-74afcdfcc"
+item: "#item-10584058d"
 unparsed:
-line: 'Head: a fit|Entry: 2118 [Fit or Paroxysm]|#item-74afcdfcc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1801,1938,411,159/full/0/default.jpg
+line: 'Head: few words|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-10584058d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1108,2646,571,201/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562615225761
+annotation_uri: http://dev.llgc.org.uk/annotation/1562598583154
+sort_value: '302022646'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1801,1938,411,159/150,/0/default.jpg
-label: a fit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1108,2646,571,201/150,/0/default.jpg
+label: few words
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

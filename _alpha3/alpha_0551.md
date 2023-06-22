@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3036/'>2100 [Lookingglass]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2342/'>lookingglass</a>"
+index: "<a href='/digital-beehive/index3/index_2328/'>lookingglass</a>"
 item: "#item-57db9a5a1"
 unparsed:
 line: 'Entry: Lookingglass|Topic: Lookingglass|Xref: 2100 [Lookingglass]|Index: lookingglass|#item-57db9a5a1'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/309,638,3081,320/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770146381
+sort_value: '202910638'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/309,638,600,180/250,/0/default.jpg
 label: Lookingglass

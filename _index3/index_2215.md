@@ -2,8 +2,8 @@
 pid: index_2215
 volume: Volume 3
 image_number: '27'
-head: ladder
-entry: "<a href='/digital-beehive/num5/num_1646/'>1206 [Ladder]</a>"
+head: latton
+entry: "<a href='/digital-beehive/num8/num_2923/'>1992 [Latton]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e151cccf6"
+item: "#item-92d2ba5a2"
 unparsed:
-line: 'Head: ladder|Entry: 1206 [Ladder]|#item-e151cccf6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/802,3300,400,100/full/0/default.jpg
+line: 'Head: latton|Entry: 1992 [Latton]|#item-92d2ba5a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1546,2783,423,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832406959
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836612193
+sort_value: '302732783'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/802,3300,400,100/150,/0/default.jpg
-label: ladder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1546,2783,423,114/150,/0/default.jpg
+label: latton
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

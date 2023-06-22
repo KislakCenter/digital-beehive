@@ -2,9 +2,8 @@
 pid: index_2944
 volume: Volume 3
 image_number: '35'
-head: pedantery
-entry: "<a href='/digital-beehive/alpha4/alpha_0701/'>a</a>|<a href='/digital-beehive/num5/num_1676/'>1224
-  [Pedantry]</a>"
+head: pencil
+entry: 4532 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-37d5d1b72"
+item: "#item-7e8666a61"
 unparsed:
-line: 'Head: pedantery|Entry: a|Entry: 1224 [Pedantry]|#item-37d5d1b72'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/131,505,622,167/full/0/default.jpg
+line: 'Head: pencil|Entry: 4532 [PAGE_MISSING]|#item-7e8666a61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/130,1120,497,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971578021
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972468885
+sort_value: '303511120'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/131,505,622,167/150,/0/default.jpg
-label: pedantery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/130,1120,497,115/150,/0/default.jpg
+label: pencil
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2056/'>infant killing</a>"
+index: "<a href='/digital-beehive/index3/index_2031/'>infant killing</a>"
 item: "#item-3532e502e"
 unparsed:
 line: 'Entry: Infant Killing|Topic: Infant Killing|Index: infant killing|#item-3532e502e'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/300,783,3027,242/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564760044656
+sort_value: '202310783'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/300,783,600,180/250,/0/default.jpg
 label: Infant Killing

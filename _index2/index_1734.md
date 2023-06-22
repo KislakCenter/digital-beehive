@@ -2,8 +2,8 @@
 pid: index_1734
 volume: Volume 3
 image_number: '23'
-head: green
-entry: "<a href='/digital-beehive/num8/num_2687/'>1757 [Green]</a>"
+head: a gypsie
+entry: "<a href='/digital-beehive/num7/num_2333/'>1561 [[AE]gyptians]</a>"
 topic:
 first_letter: G
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-dc6d17ebd"
+item: "#item-e9eeb26ee"
 unparsed:
-line: 'Head: green|Entry: 1757 [Green]|#item-dc6d17ebd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,1210,398,88/full/0/default.jpg
+line: 'Head: a gypsie|Entry: 1561 [[AE]gyptians]|#item-e9eeb26ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/142,3125,482,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230629707
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233954917
+sort_value: '302313125'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,1210,398,88/150,/0/default.jpg
-label: green
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/142,3125,482,124/150,/0/default.jpg
+label: a gypsie
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

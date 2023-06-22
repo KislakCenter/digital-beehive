@@ -2,8 +2,8 @@
 pid: index_1272
 volume: Volume 3
 image_number: '18'
-head: entrails
-entry: 802 [PAGE_MISSING]
+head: enthusiasm
+entry: "<a href='/digital-beehive/num1/num_0035/'>35 [Enthusiasm]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4edbc92af"
+item: "#item-28943390c"
 unparsed:
-line: 'Head: entrails|Entry: 802 [PAGE_MISSING]|#item-4edbc92af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1840,3452,487,117/full/0/default.jpg
+line: 'Head: enthusiasm|Entry: 35 [Enthusiasm]|#item-28943390c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1834,3214,525,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836855674
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836654071
+sort_value: '301833214'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1840,3452,487,117/150,/0/default.jpg
-label: entrails
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1834,3214,525,172/150,/0/default.jpg
+label: enthusiasm
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:

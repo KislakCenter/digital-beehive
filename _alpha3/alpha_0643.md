@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0649/'>Novelty</a>|1656 [New]"
 see:
-index: "<a href='/digital-beehive/index3/index_2691/'>new</a>"
+index: "<a href='/digital-beehive/index3/index_2693/'>new</a>"
 item: "#item-df0d21a9b"
 unparsed:
 line: 'Entry: New|Topic: New|Xref: Novelty|Xref: 1656 [New]|Index: new|#item-df0d21a9b'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/777,1057,3026,518/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565015207187
+sort_value: '203611057'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/777,1057,600,180/250,/0/default.jpg
 label: New

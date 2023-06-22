@@ -2,25 +2,26 @@
 pid: index_3266
 volume: Volume 3
 image_number: '38'
-head: raven
-entry: "<a href='/digital-beehive/alpha4/alpha_0778/'>a</a>|<a href='/digital-beehive/num6/num_1911/'>1351
-  [a Kite : a Hawk]</a>"
+head: quietness
+entry: "<a href='/digital-beehive/alpha4/alpha_0773/'>a</a>|<a href='/digital-beehive/num4/num_1304/'>976
+  [Quietness]</a>"
 topic:
-first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+first_letter: Q
+page:
 add:
 xref:
 see:
 index:
-item: "#item-c85beeec7"
+item: "#item-5a0db8827"
 unparsed:
-line: 'Head: raven|Page: p.35 [Image 1.95]|Entry: a|Entry: 1351 [a Kite : a Hawk]|#item-c85beeec7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,1380,678,113/full/0/default.jpg
+line: 'Head: quietness|Entry: a|Entry: 976 [Quietness]|#item-5a0db8827'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1195,1441,557,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461023830
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455280232
+sort_value: '303821441'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,1380,678,113/150,/0/default.jpg
-label: raven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1195,1441,557,189/150,/0/default.jpg
+label: quietness
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

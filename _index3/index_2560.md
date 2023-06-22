@@ -2,9 +2,8 @@
 pid: index_2560
 volume: Volume 3
 image_number: '31'
-head: Mugletonians
-entry: "<a href='/digital-beehive/num1/num_0039/'>39 [Muggletonians]</a>|<a href='/digital-beehive/num5/num_1413/'>1054
-  [Muggletonians]</a>"
+head: Molinos
+entry: "<a href='/digital-beehive/num4/num_1256/'>939 [Quietists]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8d6330e61"
+item: "#item-7e4dac028"
 unparsed:
-line: 'Head: Mugletonians|Entry: 39 [Muggletonians]|Entry: 1054 [Muggletonians]|#item-8d6330e61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1571,1052,666,127/full/0/default.jpg
+line: 'Head: Molinos|Entry: 939 [Quietists]|#item-7e4dac028'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/154,3220,422,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360973615
+annotation_uri: http://dev.llgc.org.uk/annotation/1560353174279
+sort_value: '303113220'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1571,1052,666,127/150,/0/default.jpg
-label: Mugletonians
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/154,3220,422,140/150,/0/default.jpg
+label: Molinos
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

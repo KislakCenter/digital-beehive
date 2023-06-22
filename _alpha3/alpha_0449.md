@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1818/'>1301 [Jealous]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1955/'>Jealousie</a>"
+index: "<a href='/digital-beehive/index3/index_1933/'>Jealousie</a>"
 item: "#item-d56a0a1f2"
 unparsed:
 line: 'Entry: Jealousy|Topic: Jealousy|Xref: 1301 [Jealous]|Index: Jealousie|#item-d56a0a1f2'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/731,4517,3020,545/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564758311104
+sort_value: '202014517'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/731,4517,600,180/250,/0/default.jpg
 label: Jealousy

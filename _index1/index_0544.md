@@ -2,27 +2,28 @@
 pid: index_0544
 volume: Volume 3
 image_number: '12'
-head: "[:50.]"
+head: Carnaval
 entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
 index:
-item: "#item-f368c1523"
-unparsed: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
-line: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/2363,526,209,118/full/0/default.jpg
+item: "#item-fe7df6756"
+unparsed:
+line: 'Head: Carnaval|See: bacchanals|#item-fe7df6756'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,436,750,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275599750
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496675405
+sort_value: '301210436'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/2363,526,209,118/150,/0/default.jpg
-label: "[:50.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,436,750,159/150,/0/default.jpg
+label: Carnaval
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4671/'>Charon</a>"
+insertion_xref:
 order: '0543'
 layout: index_item
 collection: index1

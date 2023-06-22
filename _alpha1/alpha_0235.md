@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0716/'>Play</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0978/'>dice</a>"
+index: "<a href='/digital-beehive/index1/index_1042/'>dice</a>"
 item: "#item-0c245cfc1"
 unparsed:
 line: 'Entry: Dice|Topic: Dice|Xref: Play|Index: dice|#item-0c245cfc1'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/440,3631,2994,266/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507923497456
+sort_value: '144913631'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/440,3631,600,180/250,/0/default.jpg
 label: Dice

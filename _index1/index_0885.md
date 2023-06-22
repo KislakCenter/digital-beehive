@@ -2,24 +2,25 @@
 pid: index_0885
 volume: Volume 3
 image_number: '15'
-head: dairy
-entry: "<a href='/digital-beehive/num6/num_2090/'>1434 [Milk]</a>"
+head: courtesie
+entry:
 topic:
-first_letter: D
+first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0680/'>civility</a>"
 index:
-item: "#item-13cb439f6"
+item: "#item-f7044a5ed"
 unparsed:
-line: 'Head: dairy|Entry: 1434 [Milk]|#item-13cb439f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1507,914,409,93/full/0/default.jpg
+line: 'Head: courtesie|See: civility|#item-f7044a5ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/149,2581,709,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390933289
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974965472
+sort_value: '301512581'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1507,914,409,93/150,/0/default.jpg
-label: dairy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/149,2581,709,142/150,/0/default.jpg
+label: courtesie
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

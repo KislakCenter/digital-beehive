@@ -2,8 +2,8 @@
 pid: index_3139
 volume: Volume 3
 image_number: '37'
-head: proof of a negative
-entry: "<a href='/digital-beehive/num4/num_1199/'>913 [Proof]</a>"
+head: prester John
+entry: "<a href='/digital-beehive/num7/num_2456/'>1622 [Prester John]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4d9887a6c"
+item: "#item-9ac7e1c47"
 unparsed:
-line: 'Head: proof of a negative|Entry: 913 [Proof]|#item-4d9887a6c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1462,487,708,139/full/0/default.jpg
+line: 'Head: prester John|Entry: 1622 [Prester John]|#item-9ac7e1c47'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/111,848,591,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869010548
+annotation_uri: http://dev.llgc.org.uk/annotation/1565204422255
+sort_value: '303710848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1462,487,708,139/150,/0/default.jpg
-label: proof of a negative
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/111,848,591,148/150,/0/default.jpg
+label: prester John
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

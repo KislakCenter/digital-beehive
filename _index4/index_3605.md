@@ -2,24 +2,25 @@
 pid: index_3605
 volume: Volume 3
 image_number: '42'
-head: sex
-entry: "<a href='/digital-beehive/num1/num_0175/'>167 [Sexes]</a>"
+head: Self conceited
+entry: "<a href='/digital-beehive/num11/num_3548/'>4853 [Selfopinionated]</a>"
 topic:
 first_letter: S
 page:
-add: "<a href='/digital-beehive/index1/index_0634/'>change</a>"
+add:
 xref:
 see:
 index:
-item: "#item-e88be887b"
+item: "#item-a132e63d9"
 unparsed:
-line: 'Head: sex|Entry: 167 [Sexes]|Add: change|#item-e88be887b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1106,1855,384,143/full/0/default.jpg
+line: 'Head: Self conceited|Entry: 4853 [Selfopinionated]|#item-a132e63d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/431,602,569,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574459469
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243939233
+sort_value: '304210602'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1106,1855,384,143/150,/0/default.jpg
-label: sex
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/431,602,569,88/150,/0/default.jpg
+label: Self conceited
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

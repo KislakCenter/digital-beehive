@@ -2,9 +2,8 @@
 pid: index_4109
 volume: Volume 3
 image_number: '47'
-head: temple
-entry: "<a href='/digital-beehive/num1/num_0192/'>183 [Temple]</a>|<a href='/digital-beehive/num6/num_1750/'>1262
-  [Temple]</a>"
+head: the more
+entry: "<a href='/digital-beehive/num10/num_3354/'>2382 [The more]</a>"
 topic:
 first_letter: T
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-879cefe28"
+item: "#item-2296acd15"
 unparsed:
-line: 'Head: temple|Entry: 183 [Temple]|Entry: 1262 [Temple]|#item-879cefe28'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/180,1643,486,110/full/0/default.jpg
+line: 'Head: the more|Entry: 2382 [The more]|#item-2296acd15'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/898,1023,489,78/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532049884927
+annotation_uri: http://dev.llgc.org.uk/annotation/1532720519622
+sort_value: '304721023'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/180,1643,486,110/150,/0/default.jpg
-label: temple
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/898,1023,489,78/150,/0/default.jpg
+label: the more
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '072'
+order: '071'
 layout: index_item
 collection: index5
 ---

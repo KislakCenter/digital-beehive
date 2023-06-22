@@ -2,9 +2,9 @@
 pid: index_0319
 volume: Volume 3
 image_number: '9'
-head: babylon
-entry: "<a href='/digital-beehive/alpha1/alpha_0051/'>a</a>|<a href='/digital-beehive/num4/num_1270/'>952
-  [Babel]</a>"
+head: beast
+entry: "<a href='/digital-beehive/alpha1/alpha_0068/'>a</a>|<a href='/digital-beehive/num5/num_1616/'>1185
+  [Beasts]</a>"
 topic:
 first_letter: B
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e3e9725cc"
+item: "#item-f8e4353ce"
 unparsed:
-line: 'Head: babylon|Entry: a|Entry: 952 [Babel]|#item-e3e9725cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/151,2911,585,144/full/0/default.jpg
+line: 'Head: beast|Entry: a|Entry: 1185 [Beasts]|#item-f8e4353ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1601,1815,472,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504210797828
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891696035
+sort_value: '300931815'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/151,2911,585,144/150,/0/default.jpg
-label: babylon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1601,1815,472,119/150,/0/default.jpg
+label: beast
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
 insertion_xref:

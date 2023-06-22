@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha2/alpha_0444/'>Hypocrisie</a>|<a href='/di
   Comfort</a>|<a href='/digital-beehive/alpha1/alpha_0194/'>craftiness</a>|<a href='/digital-beehive/alpha4/alpha_0882/'>Simulation</a>|<a
   href='/digital-beehive/num4/num_1306/'>979 [Falsehood]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1435/'>falshood</a>"
+index: "<a href='/digital-beehive/index2/index_1391/'>falshood</a>"
 item: "#item-eeba60407"
 unparsed:
 line: 'Entry: Falshood|Topic: Falshood|Xref: Hypocrisie|Xref: false Comfort|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Falshood|Topic: Falshood|Xref: Hypocrisie|Xref: false Comfort|Xref
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/727,2187,3011,693/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564588962517
+sort_value: '145612187'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/727,2187,600,180/250,/0/default.jpg
 label: Falshood

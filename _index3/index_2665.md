@@ -2,8 +2,8 @@
 pid: index_2665
 volume: Volume 3
 image_number: '32'
-head: neighbour
-entry: "<a href='/digital-beehive/alpha3/alpha_0641/'>a</a>|4617 [PAGE_MISSING]"
+head: nazarites
+entry: "<a href='/digital-beehive/num8/num_2805/'>1912 [Nazarites]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d3ce408aa"
+item: "#item-216199391"
 unparsed:
-line: 'Head: neighbour|Entry: a|Entry: 4617 [PAGE_MISSING]|#item-d3ce408aa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,576,665,156/full/0/default.jpg
+line: 'Head: nazarites|Entry: 1912 [Nazarites]|#item-216199391'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,2622,485,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441019999
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438750684
+sort_value: '303212622'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,576,665,156/150,/0/default.jpg
-label: neighbour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,2622,485,101/150,/0/default.jpg
+label: nazarites
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

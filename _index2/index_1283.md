@@ -2,8 +2,9 @@
 pid: index_1283
 volume: Volume 3
 image_number: '19'
-head: execution
-entry: "<a href='/digital-beehive/alpha2/alpha_0300/'>a</a>"
+head: epistolography
+entry: "<a href='/digital-beehive/num7/num_2364/'>1576 [Having in one of my other
+  Manuscripts composed an Epistolography by itself : I. Vulgar Titles]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +12,17 @@ add:
 xref:
 see:
 index:
-item: "#item-cfda30d0d"
+item: "#item-4dfa8148b"
 unparsed:
-line: 'Head: execution|Entry: a|#item-cfda30d0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1556,424,474,89/full/0/default.jpg
+line: 'Head: epistolography|Entry: 1576 [Having in one of my other Manuscripts composed
+  an Epistolography by itself : I. Vulgar Titles]|#item-4dfa8148b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/138,846,670,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561041906328
+annotation_uri: http://dev.llgc.org.uk/annotation/1559843348033
+sort_value: '301910846'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1556,424,474,89/150,/0/default.jpg
-label: execution
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/138,846,670,167/150,/0/default.jpg
+label: epistolography
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

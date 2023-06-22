@@ -2,8 +2,8 @@
 pid: index_2773
 volume: Volume 3
 image_number: '33'
-head: Oak
-entry: "<a href='/digital-beehive/num3/num_0978/'>687 [Oak]</a>"
+head: offerings
+entry: "<a href='/digital-beehive/num3/num_0636/'>506 [Gift]</a>"
 topic:
 first_letter: O
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-cdc54c43e"
+item: "#item-7d027abbe"
 unparsed:
-line: 'Head: Oak|Entry: 687 [Oak]|#item-cdc54c43e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/184,1283,454,141/full/0/default.jpg
+line: 'Head: offerings|Entry: 506 [Gift]|#item-7d027abbe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/791,449,599,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536346652084
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347943420
+sort_value: '303320449'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/184,1283,454,141/150,/0/default.jpg
-label: Oak
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/791,449,599,184/150,/0/default.jpg
+label: offerings
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

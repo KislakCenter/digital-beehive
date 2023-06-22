@@ -2,8 +2,9 @@
 pid: index_2211
 volume: Volume 3
 image_number: '27'
-head: Laver
-entry: "<a href='/digital-beehive/num8/num_2800/'>1908 [Laver]</a>"
+head: at last
+entry: "<a href='/digital-beehive/num4/num_1234/'>928 [Last]</a>|<a href='/digital-beehive/num4/num_1235/'>928
+  [Finally]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-752427d2d"
+item: "#item-2d1dbdea4"
 unparsed:
-line: 'Head: Laver|Entry: 1908 [Laver]|#item-752427d2d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1524,3156,428,106/full/0/default.jpg
+line: 'Head: at last|Entry: 928 [Last]|Entry: 928 [Finally]|#item-2d1dbdea4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1554,2318,423,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836982167
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836277708
+sort_value: '302732318'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1524,3156,428,106/150,/0/default.jpg
-label: Laver
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1554,2318,423,139/150,/0/default.jpg
+label: at last
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

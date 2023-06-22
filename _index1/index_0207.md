@@ -2,24 +2,25 @@
 pid: index_0207
 volume: Volume 3
 image_number: '8'
-head: answer to books
-entry: "<a href='/digital-beehive/num6/num_2211/'>1500 [Answer to Advers. Books]</a>"
+head: armouries
+entry:
 topic:
 first_letter: A
-page:
+page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-9f41631b3"
+item: "#item-b4333c702"
 unparsed:
-line: 'Head: answer to books|Entry: 1500 [Answer to Advers. Books]|#item-9f41631b3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/393,2458,569,96/full/0/default.jpg
+line: 'Head: armouries|Page: p.6 [Image 1.66]|#item-b4333c702'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1809,746,514,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759089760
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631235207
+sort_value: '300830746'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/393,2458,569,96/150,/0/default.jpg
-label: answer to books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1809,746,514,112/150,/0/default.jpg
+label: armouries
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

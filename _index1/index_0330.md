@@ -2,8 +2,8 @@
 pid: index_0330
 volume: Volume 3
 image_number: '9'
-head: before
-entry: "<a href='/digital-beehive/num5/num_1694/'>1231 [Before]</a>"
+head: bedtime
+entry: 4619 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,17 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d5917eca0"
+item: "#item-2f2758967"
 unparsed:
-line: 'Head: before|Entry: 1231 [Before]|#item-d5917eca0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1587,3288,408,140/full/0/default.jpg
+line: 'Head: bedtime|Entry: 4619 [PAGE_MISSING]|#item-2f2758967'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1588,2573,333,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531146063571
+annotation_uri: http://dev.llgc.org.uk/annotation/1531145303451
+sort_value: '300932573'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1587,3288,408,140/150,/0/default.jpg
-label: before
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1588,2573,333,99/150,/0/default.jpg
+label: bedtime
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue:
+issue: It is unclear how many of the preceding entries Pastorius means to include
+  with "ibid."
 insertion_xref:
 order: '0329'
 layout: index_item

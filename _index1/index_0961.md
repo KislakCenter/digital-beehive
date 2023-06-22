@@ -2,28 +2,30 @@
 pid: index_0961
 volume: Volume 3
 image_number: '15'
-head: cradle
-entry: "<a href='/digital-beehive/alpha1/alpha_0193/'>a</a>"
+head: to speak of dead men
+entry: "<a href='/digital-beehive/num10/num_3252/'>2290 [To speak of them that are
+  dead]</a>"
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
 see:
 index:
-item: "#item-0dd744e7d"
+item: "#item-107679c7e"
 unparsed:
-line: 'Head: cradle|Entry: a|#item-0dd744e7d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/153,3203,385,134/full/0/default.jpg
+line: 'Head: to speak of dead men|Entry: 2290 [To speak of them that are dead]|#item-107679c7e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1520,2536,624,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537975276505
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391840662
+sort_value: '301532536'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/153,3203,385,134/150,/0/default.jpg
-label: cradle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1520,2536,624,95/150,/0/default.jpg
+label: to speak of dead men
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0959'
+order: '0960'
 layout: index_item
 collection: index1
 ---

@@ -2,8 +2,8 @@
 pid: index_3035
 volume: Volume 3
 image_number: '36'
-head: port
-entry: 812 [PAGE_MISSING]
+head: plantation
+entry: 796 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-656a6ed26"
+item: "#item-edf53e8b7"
 unparsed:
-line: 'Head: port|Entry: 812 [PAGE_MISSING]|#item-656a6ed26'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1192,1279,315,118/full/0/default.jpg
+line: 'Head: plantation|Entry: 796 [PAGE_MISSING]|#item-edf53e8b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/467,239,658,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438568011
+annotation_uri: http://dev.llgc.org.uk/annotation/1542052764512
+sort_value: '303610239'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1192,1279,315,118/150,/0/default.jpg
-label: port
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/467,239,658,151/150,/0/default.jpg
+label: plantation
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

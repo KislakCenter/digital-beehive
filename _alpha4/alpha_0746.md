@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0165/'>158 [Sign]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3190/'>prognostica[ti]ons</a>"
+index: "<a href='/digital-beehive/index4/index_3181/'>prognostica[ti]ons</a>"
 item: "#item-46c12529d"
 unparsed:
 line: 'Entry: Prognostications|Topic: Prognostications|Xref: 158 [Sign]|Index: prognostica[ti]ons|#item-46c12529d'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/328,2527,3051,604/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528668373495
+sort_value: '204312527'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/328,2527,600,180/250,/0/default.jpg
 label: Prognostications

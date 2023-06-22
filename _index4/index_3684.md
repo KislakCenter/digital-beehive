@@ -2,25 +2,25 @@
 pid: index_3684
 volume: Volume 3
 image_number: '42'
-head: Seneca
-entry: "<a href='/digital-beehive/num5/num_1488/'>1099 [Seneca]</a>|<a href='/digital-beehive/num5/num_1674/'>1223
-  [Seneca]</a>"
+head: shopkeeper
+entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-84063c76c"
+item: "#item-46f6950b2"
 unparsed:
-line: 'Head: Seneca|Entry: 1099 [Seneca]|Entry: 1223 [Seneca]|#item-84063c76c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/403,3108,653,138/full/0/default.jpg
+line: 'Head: shopkeeper|Page: p.7 [Image 1.67]|Entry: 109 [A Shop keeper]|#item-46f6950b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1794,2187,676,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245154591
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576332407
+sort_value: '304232187'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/403,3108,653,138/150,/0/default.jpg
-label: Seneca
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1794,2187,676,148/150,/0/default.jpg
+label: shopkeeper
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

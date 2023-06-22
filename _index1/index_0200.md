@@ -2,8 +2,8 @@
 pid: index_0200
 volume: Volume 3
 image_number: '8'
-head: appointmt
-entry: "<a href='/digital-beehive/num3/num_1074/'>724 [To Appoint]</a>"
+head: argus
+entry: "<a href='/digital-beehive/num11/num_3487/'>4795 [Argus]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b4f533bf9"
+item: "#item-4d8bac451"
 unparsed:
-line: 'Head: appointmt|Entry: 724 [To Appoint]|#item-b4f533bf9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1099,2187,513,169/full/0/default.jpg
+line: 'Head: argus|Entry: 4795 [Argus]|#item-4d8bac451'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1817,350,329,71/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760874129
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769720758
+sort_value: '300830350'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1099,2187,513,169/150,/0/default.jpg
-label: appointmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1817,350,329,71/150,/0/default.jpg
+label: argus
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

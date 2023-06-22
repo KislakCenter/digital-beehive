@@ -2,8 +2,8 @@
 pid: index_1334
 volume: Volume 3
 image_number: '19'
-head: exalting
-entry: "<a href='/digital-beehive/num1/num_0069/'>68 [Exaltation]</a>"
+head: exchange
+entry: 4526 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-0fb90c56c"
+item: "#item-af16fb8d6"
 unparsed:
-line: 'Head: exalting|Entry: 68 [Exaltation]|#item-0fb90c56c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/834,2209,474,159/full/0/default.jpg
+line: 'Head: exchange|Entry: 4526 [PAGE_MISSING]|#item-af16fb8d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/831,3171,558,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352869220
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360366093
+sort_value: '301923171'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/834,2209,474,159/150,/0/default.jpg
-label: exalting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/831,3171,558,117/150,/0/default.jpg
+label: exchange
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

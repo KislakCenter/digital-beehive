@@ -2,28 +2,29 @@
 pid: index_4231
 volume: Volume 3
 image_number: '48'
-head: trophy
-entry:
+head: to tremble
+entry: "<a href='/digital-beehive/num4/num_1104/'>873 [To Tremble]</a>"
 topic:
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a0491090d"
+item: "#item-960eb9f00"
 unparsed:
-line: 'Head: trophy|Page: p.40 [Image 1.100]|#item-a0491090d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1811,2441,488,168/full/0/default.jpg
+line: 'Head: to tremble|Entry: 873 [To Tremble]|#item-960eb9f00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1781,812,549,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089560519
+annotation_uri: http://dev.llgc.org.uk/annotation/1562087765899
+sort_value: '304830812'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1811,2441,488,168/150,/0/default.jpg
-label: trophy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1781,812,549,122/150,/0/default.jpg
+label: to tremble
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '194'
+order: '193'
 layout: index_item
 collection: index5
 ---

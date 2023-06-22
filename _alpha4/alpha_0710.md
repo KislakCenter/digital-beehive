@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0734/'>575 [Painting]</a>|4516 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_2938/'>picture</a>"
+index: "<a href='/digital-beehive/index4/index_2997/'>picture</a>"
 item: "#item-4aea507cf"
 unparsed:
 line: 'Entry: Picture|Topic: Picture|Xref: 575 [Painting]|Xref: 4516 [PAGE_MISSING]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Picture|Topic: Picture|Xref: 575 [Painting]|Xref: 4516 [PAGE_MISSI
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/794,2968,2960,470/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528333852684
+sort_value: '204012968'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/794,2968,600,180/250,/0/default.jpg
 label: Picture

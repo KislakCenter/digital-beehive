@@ -2,9 +2,8 @@
 pid: index_0991
 volume: Volume 3
 image_number: '16'
-head: devotion
-entry: "<a href='/digital-beehive/alpha1/alpha_0233/'>a</a>|<a href='/digital-beehive/num9/num_3166/'>2223
-  [Devotion]</a>"
+head: degenerating
+entry: "<a href='/digital-beehive/num1/num_0014/'>14 [Degenerating]</a>"
 topic:
 first_letter: D
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-a86fe8451"
+item: "#item-44a173dd4"
 unparsed:
-line: 'Head: devotion|Entry: a|Entry: 2223 [Devotion]|#item-a86fe8451'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1761,368,703,106/full/0/default.jpg
+line: 'Head: degenerating|Entry: 14 [Degenerating]|#item-44a173dd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/324,2143,570,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923332068
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572234733
+sort_value: '301612143'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1761,368,703,106/150,/0/default.jpg
-label: devotion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/324,2143,570,137/150,/0/default.jpg
+label: degenerating
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0989'
+order: '0990'
 layout: index_item
 collection: index1
 ---

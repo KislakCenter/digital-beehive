@@ -2,30 +2,29 @@
 pid: index_4553
 volume: Volume 3
 image_number: '52'
-head: wind
-entry: "<a href='/digital-beehive/alpha5/alpha_1042/'>a</a>|<a href='/digital-beehive/num6/num_1763/'>1271
-  [Wind]</a>|<a href='/digital-beehive/num9/num_3101/'>2160 [Wind]</a>"
+head: willful
+entry: "<a href='/digital-beehive/num2/num_0370/'>321 [Willingness]</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"
-add:
+page:
+add: "<a href='/digital-beehive/index5/index_4624/'>worship</a>"
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3946/'>stubborn</a>"
 index:
-item: "#item-e86a4a246"
+item: "#item-2736a006e"
 unparsed:
-line: 'Head: wind|Page: p.29 [Image 1.89]|Entry: a|Entry: 1271 [Wind]|Entry: 2160
-  [Wind]|#item-e86a4a246'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1786,3263,728,171/full/0/default.jpg
+line: 'Head: willful|Entry: 321 [Willingness]|See: stubborn|Add: worship|#item-2736a006e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1766,2731,732,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972707160
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972480041
+sort_value: '305232731'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1786,3263,728,171/150,/0/default.jpg
-label: wind
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1766,2731,732,207/150,/0/default.jpg
+label: willful
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '516'
+order: '515'
 layout: index_item
 collection: index5
 ---

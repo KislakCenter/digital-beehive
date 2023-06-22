@@ -2,8 +2,9 @@
 pid: index_1905
 volume: Volume 3
 image_number: '24'
-head: hyperbole
-entry: 842 [PAGE_MISSING]
+head: hunger
+entry: "<a href='/digital-beehive/alpha2/alpha_0441/'>a</a>|<a href='/digital-beehive/num3/num_1035/'>710
+  [Hunger]</a>|<a href='/digital-beehive/num9/num_3031/'>2095 [Hunger]</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-41af3acf3"
+item: "#item-26cddac04"
 unparsed:
-line: 'Head: hyperbole|Entry: 842 [PAGE_MISSING]|#item-41af3acf3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1841,3111,527,196/full/0/default.jpg
+line: 'Head: hunger|Entry: a|Entry: 710 [Hunger]|Entry: 2095 [Hunger]|#item-26cddac04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1838,2144,645,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559588829136
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588034657
+sort_value: '302432144'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1841,3111,527,196/150,/0/default.jpg
-label: hyperbole
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1838,2144,645,152/150,/0/default.jpg
+label: hunger
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

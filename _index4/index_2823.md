@@ -2,24 +2,25 @@
 pid: index_2823
 volume: Volume 3
 image_number: '33'
-head: onomantia
-entry: "<a href='/digital-beehive/num2/num_0278/'>254 [Name]</a>"
+head: ordinaries
+entry:
 topic:
 first_letter: O
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2051/'>Inns</a>"
 index:
-item: "#item-63702850f"
+item: "#item-1cc221f20"
 unparsed:
-line: 'Head: onomantia|Entry: 254 [Name]|#item-63702850f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/813,3225,553,141/full/0/default.jpg
+line: 'Head: ordinaries|See: Inns|#item-1cc221f20'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1498,2458,714,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538159901454
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163135640
+sort_value: '303332458'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/813,3225,553,141/150,/0/default.jpg
-label: onomantia
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1498,2458,714,177/150,/0/default.jpg
+label: ordinaries
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

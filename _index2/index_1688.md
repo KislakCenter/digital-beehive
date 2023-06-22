@@ -2,9 +2,8 @@
 pid: index_1688
 volume: Volume 3
 image_number: '22'
-head: gratitude
-entry: "<a href='/digital-beehive/alpha2/alpha_0385/'>a</a>|<a href='/digital-beehive/num5/num_1495/'>1104
-  [Benefits]</a>|<a href='/digital-beehive/num5/num_1538/'>1132 [Gratitude]</a>"
+head: granaries
+entry: "<a href='/digital-beehive/num3/num_0921/'>664 [Granaries]</a>"
 topic:
 first_letter: G
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2226d8ac8"
+item: "#item-588e7cfb6"
 unparsed:
-line: 'Head: gratitude|Entry: a|Entry: 1104 [Benefits]|Entry: 1132 [Gratitude]|#item-2226d8ac8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1838,3008,693,201/full/0/default.jpg
+line: 'Head: granaries|Entry: 664 [Granaries]|#item-588e7cfb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,2221,457,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053628006
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053230535
+sort_value: '302232221'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1838,3008,693,201/150,/0/default.jpg
-label: gratitude
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,2221,457,130/150,/0/default.jpg
+label: granaries
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

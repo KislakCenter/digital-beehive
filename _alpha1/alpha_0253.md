@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index1/index_1112/'>divinity mystica</a>"
+index: "<a href='/digital-beehive/index1/index_1114/'>divinity mystica</a>"
 item: "#item-a42afa50a"
 unparsed:
 line: 'Entry: Theola Mystica|Topic: Theola Mystica|Index: divinity mystica|#item-a42afa50a'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/403,930,3029,237/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558625837937
+sort_value: '145110930'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/403,930,600,180/250,/0/default.jpg
 label: Theola Mystica

@@ -2,28 +2,29 @@
 pid: index_1034
 volume: Volume 3
 image_number: '16'
-head: desertion
-entry: "<a href='/digital-beehive/alpha1/alpha_0231/'>a</a>"
+head: devils to be saved
+entry: "<a href='/digital-beehive/num1/num_0044/'>44 [Unity]</a>"
 topic:
 first_letter: D
 page:
-add: "<a href='/digital-beehive/index4/index_3433/'>run[n] away</a>"
+add:
 xref:
 see:
 index:
-item: "#item-fb2a1c9f4"
+item: "#item-849965ebd"
 unparsed:
-line: 'Head: desertion|Entry: a|Add: run[n] away|#item-fb2a1c9f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1103,2210,538,201/full/0/default.jpg
+line: 'Head: devils to be saved|Entry: 44 [Unity]|#item-849965ebd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1844,211,706,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923086013
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783197931
+sort_value: '301630211'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1103,2210,538,201/150,/0/default.jpg
-label: desertion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1844,211,706,111/150,/0/default.jpg
+label: devils to be saved
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1032'
+order: '1033'
 layout: index_item
 collection: index1
 ---

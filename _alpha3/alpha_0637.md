@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0572/'>Malignity</a>|<a href='/digital-beehive/alpha5/alpha_1037/'>Wickedness</a>|<a
   href='/digital-beehive/num6/num_2086/'>1432 [Naughtiness]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2713/'>naughtiness</a>"
+index: "<a href='/digital-beehive/index3/index_2662/'>naughtiness</a>"
 item: "#item-c20a79fcf"
 unparsed:
 line: 'Entry: Naughtiness|Topic: Naughtiness|Xref: Malignity|Xref: Wickedness|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Naughtiness|Topic: Naughtiness|Xref: Malignity|Xref: Wickedness|Xr
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/337,3223,2979,447/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1510169662283
+sort_value: '203513223'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/337,3223,600,180/250,/0/default.jpg
 label: Naughtiness

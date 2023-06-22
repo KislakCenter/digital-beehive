@@ -2,24 +2,25 @@
 pid: index_2041
 volume: Volume 3
 image_number: '26'
-head: inexorable
-entry: "<a href='/digital-beehive/num6/num_2137/'>1457 [Inexorableness]</a>"
+head: ingenuous
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3724/'>sincerity</a>"
 index:
-item: "#item-7c0607fe5"
+item: "#item-8eada7410"
 unparsed:
-line: 'Head: inexorable|Entry: 1457 [Inexorableness]|#item-7c0607fe5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/452,721,575,86/full/0/default.jpg
+line: 'Head: ingenuous|See: sincerity|#item-8eada7410'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,2502,657,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674705573
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745027802
+sort_value: '302612502'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/452,721,575,86/150,/0/default.jpg
-label: inexorable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,2502,657,157/150,/0/default.jpg
+label: ingenuous
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

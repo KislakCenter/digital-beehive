@@ -2,8 +2,8 @@
 pid: index_1643
 volume: Volume 3
 image_number: '22'
-head: gourmandizing
-entry: 816 [PAGE_MISSING]
+head: God's friends
+entry: "<a href='/digital-beehive/num8/num_2851/'>1936 [God's friends]</a>"
 topic:
 first_letter: G
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-30ec98db0"
+item: "#item-00722bbca"
 unparsed:
-line: 'Head: gourmandizing|Entry: 816 [PAGE_MISSING]|#item-30ec98db0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1856,1180,623,136/full/0/default.jpg
+line: 'Head: God''s friends|Entry: 1936 [God''s friends]|#item-00722bbca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,1848,482,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052510650
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047285569
+sort_value: '302221848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1856,1180,623,136/150,/0/default.jpg
-label: gourmandizing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,1848,482,112/150,/0/default.jpg
+label: God's friends
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

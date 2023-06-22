@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index5/index_4337/'>tyger</a>"
+index: "<a href='/digital-beehive/index5/index_4281/'>tyger</a>"
 item: "#item-0187356dd"
 unparsed:
 line: 'Entry: Tyger|Topic: Tyger|Index: tyger|#item-0187356dd'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/327,568,931,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529611493101
+sort_value: '206110568'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/327,568,600,180/250,/0/default.jpg
 label: Tyger

@@ -2,8 +2,9 @@
 pid: index_2545
 volume: Volume 3
 image_number: '31'
-head: miser
-entry: 727 [PAGE_MISSING]
+head: mistake
+entry: "<a href='/digital-beehive/num1/num_0252/'>234 [Mistake]</a>|<a href='/digital-beehive/num7/num_2328/'>1560
+  [Mistake]</a>|<a href='/digital-beehive/num10/num_3424/'>4446 [Mistake]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-519026337"
+item: "#item-dcaddc345"
 unparsed:
-line: 'Head: miser|Entry: 727 [PAGE_MISSING]|#item-519026337'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,591,376,166/full/0/default.jpg
+line: 'Head: mistake|Entry: 234 [Mistake]|Entry: 1560 [Mistake]|Entry: 4446 [Mistake]|#item-dcaddc345'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,1438,758,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350962230
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351990491
+sort_value: '303111438'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,591,376,166/150,/0/default.jpg
-label: miser
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,1438,758,142/150,/0/default.jpg
+label: mistake
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

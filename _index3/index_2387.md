@@ -2,10 +2,8 @@
 pid: index_2387
 volume: Volume 3
 image_number: '29'
-head: magistrate
-entry: "<a href='/digital-beehive/alpha3/alpha_0567/'>a</a>|<a href='/digital-beehive/num2/num_0366/'>318
-  [Magistrates]</a>|<a href='/digital-beehive/num6/num_1941/'>1366 [Magistracy]</a>|<a
-  href='/digital-beehive/num10/num_3255/'>2292 [Magistrate]</a>"
+head: majesty
+entry: "<a href='/digital-beehive/num1/num_0073/'>72 [Majesty]</a>"
 topic:
 first_letter: M
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-82f3551bc"
+item: "#item-150100733"
 unparsed:
-line: 'Head: magistrate|Entry: a|Entry: 318 [Magistrates]|Entry: 1366 [Magistracy]|Entry:
-  2292 [Magistrate]|#item-82f3551bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/842,2359,705,176/full/0/default.jpg
+line: 'Head: majesty|Entry: 72 [Majesty]|#item-150100733'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/834,3308,401,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186776753
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189676336
+sort_value: '302923308'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/842,2359,705,176/150,/0/default.jpg
-label: magistrate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/834,3308,401,179/150,/0/default.jpg
+label: majesty
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

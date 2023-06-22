@@ -2,24 +2,25 @@
 pid: index_3031
 volume: Volume 3
 image_number: '35'
-head: physical books
+head: plain language
 entry:
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4128/'>thouing</a>"
 index:
-item: "#item-321dae27f"
+item: "#item-5c3f1e8a1"
 unparsed:
-line: 'Head: physical books|Page: p.379 [Image 2.201]|#item-321dae27f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/855,3415,602,120/full/0/default.jpg
+line: 'Head: plain language|See: thouing|#item-5c3f1e8a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1538,3184,800,237/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975665557
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977225497
+sort_value: '303533184'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/855,3415,602,120/150,/0/default.jpg
-label: physical books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1538,3184,800,237/150,/0/default.jpg
+label: plain language
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,26 @@
 pid: index_2890
 volume: Volume 3
 image_number: '34'
-head: patricius
-entry: 1864 [PAGE_MISSING]
+head: parrot
+entry: "<a href='/digital-beehive/alpha4/alpha_0684/'>a</a>|<a href='/digital-beehive/num11/num_3498/'>4804
+  [Parrot]</a>"
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-305867e47"
+item: "#item-2d75457e2"
 unparsed:
-line: 'Head: patricius|Entry: 1864 [PAGE_MISSING]|#item-305867e47'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1814,1967,559,148/full/0/default.jpg
+line: 'Head: parrot|Page: p.35 [Image 1.95]|Entry: a|Entry: 4804 [Parrot]|#item-2d75457e2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1129,2382,726,208/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495575839
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494449615
+sort_value: '303422382'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1814,1967,559,148/150,/0/default.jpg
-label: patricius
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1129,2382,726,208/150,/0/default.jpg
+label: parrot
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

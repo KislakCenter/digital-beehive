@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0135/'>Celibate</a>|<a href='/digital-beehive/alpha1/alpha_0139/'>Chastity</a>|<a
   href='/digital-beehive/num9/num_2942/'>2008 [Virgins]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4321/'>virginity</a>"
+index: "<a href='/digital-beehive/index5/index_4341/'>virginity</a>"
 item: "#item-d23541ad7"
 unparsed:
 line: 'Entry: Virginity|Topic: Virginity|Xref: Celibate|Xref: Chastity|Xref: 2008
@@ -19,6 +19,7 @@ line: 'Entry: Virginity|Topic: Virginity|Xref: Celibate|Xref: Chastity|Xref: 200
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/359,4209,2952,398/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529004218632
+sort_value: '206114209'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/359,4209,600,180/250,/0/default.jpg
 label: Virginity

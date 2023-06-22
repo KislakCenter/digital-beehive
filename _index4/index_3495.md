@@ -2,8 +2,8 @@
 pid: index_3495
 volume: Volume 3
 image_number: '40'
-head: salamander
-entry: "<a href='/digital-beehive/num5/num_1720/'>1245 [Salamander]</a>"
+head: sailer
+entry: 764 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3422/'>2445 [Sailer]</a>
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5fe2f6efe"
+item: "#item-bf995e57c"
 unparsed:
-line: 'Head: salamander|Entry: 1245 [Salamander]|#item-5fe2f6efe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/full/0/default.jpg
+line: 'Head: sailer|Entry: 764 [PAGE_MISSING]|Entry: 2445 [Sailer]|#item-bf995e57c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1835,2860,573,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235309496
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235238850
+sort_value: '304032860'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/150,/0/default.jpg
-label: salamander
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1835,2860,573,132/150,/0/default.jpg
+label: sailer
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

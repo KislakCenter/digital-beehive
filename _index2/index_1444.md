@@ -2,8 +2,8 @@
 pid: index_1444
 volume: Volume 3
 image_number: '20'
-head: fence
-entry: 809 [PAGE_MISSING]
+head: to file
+entry: 4528 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ddc3a9803"
+item: "#item-78af0bbc9"
 unparsed:
-line: 'Head: fence|Entry: 809 [PAGE_MISSING]|#item-ddc3a9803'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1127,2164,407,165/full/0/default.jpg
+line: 'Head: to file|Entry: 4528 [PAGE_MISSING]|#item-78af0bbc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1088,3393,550,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562184917133
+annotation_uri: http://dev.llgc.org.uk/annotation/1562599672441
+sort_value: '302023393'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1127,2164,407,165/150,/0/default.jpg
-label: fence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1088,3393,550,175/150,/0/default.jpg
+label: to file
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0822
 volume: Volume 3
 image_number: '14'
-head: concupiscence
-entry: "<a href='/digital-beehive/alpha1/alpha_0167/'>a</a>"
+head: contempt of the world
+entry: "<a href='/digital-beehive/num8/num_2845/'>1931 [Contempt]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-fc0000069"
+item: "#item-016d13215"
 unparsed:
-line: 'Head: concupiscence|Entry: a|#item-fc0000069'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/405,2358,593,144/full/0/default.jpg
+line: 'Head: contempt of the world|Entry: 1931 [Contempt]|#item-016d13215'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1133,3387,611,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216649964
+annotation_uri: http://dev.llgc.org.uk/annotation/1537542289899
+sort_value: '301423387'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/405,2358,593,144/150,/0/default.jpg
-label: concupiscence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1133,3387,611,85/150,/0/default.jpg
+label: contempt of the world
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

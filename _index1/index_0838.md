@@ -2,9 +2,9 @@
 pid: index_0838
 volume: Volume 3
 image_number: '14'
-head: confession
-entry: "<a href='/digital-beehive/alpha1/alpha_0170/'>a</a>|<a href='/digital-beehive/num8/num_2912/'>1981
-  [Confession]</a>"
+head: conviction
+entry: "<a href='/digital-beehive/num2/num_0430/'>362 [Conviction]</a>|<a href='/digital-beehive/num7/num_2629/'>1706
+  [Conviction]</a>|<a href='/digital-beehive/num9/num_2973/'>2039 [Conviction]</a>"
 topic:
 first_letter: C
 page:
@@ -12,15 +12,17 @@ add:
 xref:
 see:
 index:
-item: "#item-fca40f2eb"
+item: "#item-c4e8535cf"
 unparsed:
-line: 'Head: confession|Entry: a|Entry: 1981 [Confession]|#item-fca40f2eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/386,2886,605,122/full/0/default.jpg
+line: 'Head: conviction|Entry: 362 [Conviction]|Entry: 1706 [Conviction]|Entry: 2039
+  [Conviction]|#item-c4e8535cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1837,1952,705,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216830778
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559700119
+sort_value: '301431952'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/386,2886,605,122/150,/0/default.jpg
-label: confession
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1837,1952,705,154/150,/0/default.jpg
+label: conviction
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

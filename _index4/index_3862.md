@@ -2,8 +2,8 @@
 pid: index_3862
 volume: Volume 3
 image_number: '44'
-head: spikenard
-entry: "<a href='/digital-beehive/num8/num_2857/'>1938 [Lavender]</a>"
+head: spoon
+entry: "<a href='/digital-beehive/num8/num_2752/'>1819 [Spoon]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d69da6fe5"
+item: "#item-3dae3567d"
 unparsed:
-line: 'Head: spikenard|Entry: 1938 [Lavender]|#item-d69da6fe5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1084,2852,541,149/full/0/default.jpg
+line: 'Head: spoon|Entry: 1819 [Spoon]|#item-3dae3567d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1825,1647,381,78/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288820036
+annotation_uri: http://dev.llgc.org.uk/annotation/1530105301406
+sort_value: '304431647'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1084,2852,541,149/150,/0/default.jpg
-label: spikenard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1825,1647,381,78/150,/0/default.jpg
+label: spoon
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

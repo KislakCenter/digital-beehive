@@ -2,8 +2,8 @@
 pid: index_2251
 volume: Volume 3
 image_number: '28'
-head: to lessen
-entry: "<a href='/digital-beehive/num6/num_2179/'>1479 [to Lessen]</a>"
+head: legend
+entry: "<a href='/digital-beehive/num7/num_2309/'>1550 [Legend]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1092fadfd"
+item: "#item-d3abd7c01"
 unparsed:
-line: 'Head: to lessen|Entry: 1479 [to Lessen]|#item-1092fadfd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1135,575,506,123/full/0/default.jpg
+line: 'Head: legend|Entry: 1550 [Legend]|#item-d3abd7c01'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/400,3384,462,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844288078
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842880401
+sort_value: '302813384'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1135,575,506,123/150,/0/default.jpg
-label: to lessen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/400,3384,462,128/150,/0/default.jpg
+label: legend
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

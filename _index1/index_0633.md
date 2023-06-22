@@ -2,9 +2,8 @@
 pid: index_0633
 volume: Volume 3
 image_number: '12'
-head: catholick
-entry: "<a href='/digital-beehive/alpha1/alpha_0129/'>a</a>|<a href='/digital-beehive/num8/num_2747/'>1814
-  [Catholick]</a>"
+head: childhood
+entry: "<a href='/digital-beehive/alpha1/alpha_0143/'>a</a>|1865 [PAGE_MISSING]"
 topic:
 first_letter: C
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-be9f2c171"
+item: "#item-3419f0784"
 unparsed:
-line: 'Head: catholick|Entry: a|Entry: 1814 [Catholick]|#item-be9f2c171'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/412,3013,623,124/full/0/default.jpg
+line: 'Head: childhood|Entry: a|Entry: 1865 [PAGE_MISSING]|#item-3419f0784'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1833,2321,560,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098686443
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460951400
+sort_value: '301232321'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/412,3013,623,124/150,/0/default.jpg
-label: catholick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1833,2321,560,111/150,/0/default.jpg
+label: childhood
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

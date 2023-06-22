@@ -2,8 +2,8 @@
 pid: index_1389
 volume: Volume 3
 image_number: '20'
-head: fleet
-entry: "<a href='/digital-beehive/num7/num_2565/'>1671 [Fleet]</a>"
+head: falling sickness
+entry: "<a href='/digital-beehive/num5/num_1682/'>1226 [Falling Sickness]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-cc45e850d"
+item: "#item-970f05544"
 unparsed:
-line: 'Head: fleet|Entry: 1671 [Fleet]|#item-cc45e850d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,2763,392,157/full/0/default.jpg
+line: 'Head: falling sickness|Entry: 1226 [Falling Sickness]|#item-970f05544'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/373,1773,750,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562617150088
+annotation_uri: http://dev.llgc.org.uk/annotation/1561402457174
+sort_value: '302011773'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,2763,392,157/150,/0/default.jpg
-label: fleet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/373,1773,750,164/150,/0/default.jpg
+label: falling sickness
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

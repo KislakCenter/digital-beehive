@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2418/'>lowse</a>"
+index: "<a href='/digital-beehive/index3/index_2358/'>lowse</a>"
 item: "#item-d6cf9e3b6"
 unparsed:
 line: 'Entry: Lowse|Topic: Lowse|Index: lowse|#item-d6cf9e3b6'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/781,1998,2950,476/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564771832074
+sort_value: '203011998'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/781,1998,600,180/250,/0/default.jpg
 label: Lowse

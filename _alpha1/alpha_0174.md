@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0134/'>Caution</a>|<a href='/digital-beehive/alpha1/alpha_0224/'>deliberation</a>|<a
   href='/digital-beehive/alpha3/alpha_0470/'>Inconsiderancy</a>|751 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0818/'>considerateness</a>"
+index: "<a href='/digital-beehive/index1/index_0809/'>considerateness</a>"
 item: "#item-37fe5c058"
 unparsed:
 line: 'Entry: Considerateness|Topic: Considerateness|Xref: Caution|Xref: deliberation|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Considerateness|Topic: Considerateness|Xref: Caution|Xref: deliber
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/765,1761,3094,535/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563827540419
+sort_value: '144411761'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/765,1761,600,180/250,/0/default.jpg
 label: Considerateness

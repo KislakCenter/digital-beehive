@@ -2,8 +2,8 @@
 pid: index_1029
 volume: Volume 3
 image_number: '16'
-head: diminishing
-entry: 736 [PAGE_MISSING]
+head: destruction
+entry: 744 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-7a50128ba"
+item: "#item-11707f99d"
 unparsed:
-line: 'Head: diminishing|Entry: 736 [PAGE_MISSING]|#item-7a50128ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1813,2026,544,149/full/0/default.jpg
+line: 'Head: destruction|Entry: 744 [PAGE_MISSING]|#item-11707f99d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1062,3131,613,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783887625
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605248959
+sort_value: '301623131'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1813,2026,544,149/150,/0/default.jpg
-label: diminishing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1062,3131,613,148/150,/0/default.jpg
+label: destruction
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1027'
+order: '1028'
 layout: index_item
 collection: index1
 ---

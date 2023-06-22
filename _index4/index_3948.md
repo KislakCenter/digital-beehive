@@ -2,8 +2,8 @@
 pid: index_3948
 volume: Volume 3
 image_number: '45'
-head: stillness
-entry: "<a href='/digital-beehive/num2/num_0540/'>436 [Silence]</a>"
+head: stuffs to wear
+entry: "<a href='/digital-beehive/num6/num_2018/'>1404 [Stuffs to wear]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-dba696037"
+item: "#item-1e57298cd"
 unparsed:
-line: 'Head: stillness|Entry: 436 [Silence]|#item-dba696037'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,2536,411,96/full/0/default.jpg
+line: 'Head: stuffs to wear|Entry: 1404 [Stuffs to wear]|#item-1e57298cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1588,268,634,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530448228016
+annotation_uri: http://dev.llgc.org.uk/annotation/1530466983914
+sort_value: '304530268'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,2536,411,96/150,/0/default.jpg
-label: stillness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1588,268,634,135/150,/0/default.jpg
+label: stuffs to wear
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_0088
 volume: Volume 3
 image_number: '7'
-head: altar
-entry: "<a href='/digital-beehive/num7/num_2473/'>1630 [Altar]</a>"
+head: Albertus M
+entry: "<a href='/digital-beehive/num9/num_3016/'>2082 [Albertus M]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ac53060cb"
+item: "#item-159438925"
 unparsed:
-line: 'Head: altar|Entry: 1630 [Altar]|#item-ac53060cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1591,2514,408,89/full/0/default.jpg
+line: 'Head: Albertus M|Entry: 2082 [Albertus M]|#item-159438925'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1608,680,570,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770641543
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768039991
+sort_value: '300730680'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1591,2514,408,89/150,/0/default.jpg
-label: altar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1608,680,570,102/150,/0/default.jpg
+label: Albertus M
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

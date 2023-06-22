@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/alpha5/alpha_0990/'>Tyranny</a>|<a href='/digit
   [Cruelty used against Quakers]</a>|<a href='/digital-beehive/num3/num_0646/'>514
   [Cruelty]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0940/'>cruelty</a>"
+index: "<a href='/digital-beehive/index1/index_0918/'>cruelty</a>"
 item: "#item-437531419"
 unparsed:
 line: 'Entry: Cruelty|Topic: Cruelty|Xref: Tyranny|Xref: Severity|Xref: Oppression|Index:
@@ -22,6 +22,7 @@ line: 'Entry: Cruelty|Topic: Cruelty|Xref: Tyranny|Xref: Severity|Xref: Oppressi
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/327,208,3104,511/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499786231125
+sort_value: '144710208'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/327,208,600,180/250,/0/default.jpg
 label: Cruelty

@@ -2,24 +2,25 @@
 pid: index_2196
 volume: Volume 3
 image_number: '27'
-head: lately
-entry:
+head: landlord
+entry: "[Erbpacht]"
 topic:
 first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2714/'>newly</a>"
+see:
 index:
-item: "#item-3c7c99b47"
+item: "#item-b177e6074"
 unparsed:
-line: 'Head: lately|See: newly|#item-3c7c99b47'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1538,2672,473,177/full/0/default.jpg
+line: 'Head: landlord|Entry: [Erbpacht]|#item-b177e6074'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1558,836,415,90/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836554306
+annotation_uri: http://dev.llgc.org.uk/annotation/1559834830920
+sort_value: '302730836'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1538,2672,473,177/150,/0/default.jpg
-label: lately
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1558,836,415,90/150,/0/default.jpg
+label: landlord
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,28 +2,29 @@
 pid: index_1091
 volume: Volume 3
 image_number: '17'
-head: ditch
-entry: "<a href='/digital-beehive/num3/num_0942/'>676 [a Ditch]</a>"
+head: disperse
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3543/'>Scatter</a>"
 index:
-item: "#item-40e8271d7"
+item: "#item-2c04fc280"
 unparsed:
-line: 'Head: ditch|Entry: 676 [a Ditch]|#item-40e8271d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,1034,483,152/full/0/default.jpg
+line: 'Head: disperse|See: Scatter|#item-2c04fc280'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/118,2601,661,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849088978
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804432700
+sort_value: '301712601'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,1034,483,152/150,/0/default.jpg
-label: ditch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/118,2601,661,156/150,/0/default.jpg
+label: disperse
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1089'
+order: '1090'
 layout: index_item
 collection: index1
 ---

@@ -2,8 +2,8 @@
 pid: index_0866
 volume: Volume 3
 image_number: '15'
-head: creator
-entry: "<a href='/digital-beehive/num7/num_2628/'>1705 [Creatour]</a>"
+head: covenant
+entry: "<a href='/digital-beehive/alpha1/alpha_0182/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c5d8d60b9"
+item: "#item-acfac2b8f"
 unparsed:
-line: 'Head: creator|Entry: 1705 [Creatour]|#item-c5d8d60b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/860,352,538,103/full/0/default.jpg
+line: 'Head: covenant|Entry: a|#item-acfac2b8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/153,747,463,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577180679
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974102400
+sort_value: '301510747'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/860,352,538,103/150,/0/default.jpg
-label: creator
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/153,747,463,106/150,/0/default.jpg
+label: covenant
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

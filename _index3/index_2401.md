@@ -2,27 +2,28 @@
 pid: index_2401
 volume: Volume 3
 image_number: '29'
-head: manslayer
+head: "[:3.]"
 entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2576/'>murder</a>"
+see:
 index:
-item: "#item-df9a3ab7d"
-unparsed:
-line: 'Head: manslayer|See: murder|#item-df9a3ab7d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,2770,639,105/full/0/default.jpg
+item: "#item-074bb9712"
+unparsed: 'Type: Index|Insertion Xref: [:3.]|#item-074bb9712'
+line: 'Type: Index|Insertion Xref: [:3.]|#item-074bb9712'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/2129,1203,189,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196363779
+annotation_uri: http://dev.llgc.org.uk/annotation/1560199564065
+sort_value: '302931203'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,2770,639,105/150,/0/default.jpg
-label: manslayer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/2129,1203,189,139/150,/0/default.jpg
+label: "[:3.]"
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4666/'>mam[m]on</a>"
 order: '483'
 layout: index_item
 collection: index3

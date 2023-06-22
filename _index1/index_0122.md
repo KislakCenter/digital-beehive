@@ -2,25 +2,26 @@
 pid: index_0122
 volume: Volume 3
 image_number: '7'
-head: Adam
-entry: "<a href='/digital-beehive/num2/num_0472/'>389 [Adam]</a>|<a href='/digital-beehive/num9/num_3064/'>2125
-  [Adam]</a>"
+head: ambition
+entry: "<a href='/digital-beehive/alpha1/alpha_0024/'>a</a>|<a href='/digital-beehive/num5/num_1576/'>1156
+  [Ambition]</a>"
 topic:
 first_letter: A
 page:
-add: "<a href='/digital-beehive/index4/index_2779/'>Old</a>"
+add:
 xref:
 see:
 index:
-item: "#item-c16b7ec8c"
+item: "#item-8cb197381"
 unparsed:
-line: 'Head: Adam|Entry: 389 [Adam]|Entry: 2125 [Adam]|Add: Old|#item-c16b7ec8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/161,3443,624,169/full/0/default.jpg
+line: 'Head: ambition|Entry: a|Entry: 1156 [Ambition]|#item-8cb197381'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1584,3326,543,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760426332
+annotation_uri: http://dev.llgc.org.uk/annotation/1564771239784
+sort_value: '300733326'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/161,3443,624,169/150,/0/default.jpg
-label: Adam
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1584,3326,543,107/150,/0/default.jpg
+label: ambition
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_3540
 volume: Volume 3
 image_number: '41'
-head: scholars
-entry: "<a href='/digital-beehive/num4/num_1303/'>975 [Disciples]</a>|<a href='/digital-beehive/num7/num_2340/'>1564
-  [Scholars]</a>"
+head: "[:2.]"
+entry:
 topic:
 first_letter: S
 page:
@@ -12,18 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-d8c98522f"
-unparsed:
-line: 'Head: scholars|Entry: 975 [Disciples]|Entry: 1564 [Scholars]|#item-d8c98522f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/873,1405,621,143/full/0/default.jpg
+item: "#item-1752b8fad"
+unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
+line: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1413,268,194,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240641007
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277985463
+sort_value: '304120268'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/873,1405,621,143/150,/0/default.jpg
-label: scholars
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1413,268,194,131/150,/0/default.jpg
+label: "[:2.]"
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>to scare, affright,
+  or fright</a>|<a href='/digital-beehive/index5/index_4665/'>fringes</a>"
 order: '0788'
 layout: index_item
 collection: index4

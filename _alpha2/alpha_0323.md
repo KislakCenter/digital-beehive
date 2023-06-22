@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Coward</a>|<a href='/digita
   href='/digital-beehive/alpha5/alpha_0949/'>Terrour</a>|<a href='/digital-beehive/num1/num_0214/'>203
   [Fear]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1411/'>fear</a>"
+index: "<a href='/digital-beehive/index2/index_1419/'>fear</a>"
 item: "#item-c9de27b2b"
 unparsed:
 line: 'Entry: Fear|Topic: Fear|Xref: Coward|Xref: fainthearted|Xref: Terrour|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Fear|Topic: Fear|Xref: Coward|Xref: fainthearted|Xref: Terrour|Xre
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/413,712,3049,495/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1474833182657
+sort_value: '201110712'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/413,712,600,180/250,/0/default.jpg
 label: Fear

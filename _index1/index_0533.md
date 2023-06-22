@@ -2,24 +2,26 @@
 pid: index_0533
 volume: Volume 3
 image_number: '11'
-head: broth
-entry: "<a href='/digital-beehive/num3/num_0680/'>540 [Pottages]</a>"
+head: capital offence
+entry: "<a href='/digital-beehive/alpha1/alpha_0120/'>a</a>|<a href='/digital-beehive/num3/num_0865/'>638
+  [Capital Offences]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-0a8b86851"
+item: "#item-51a813e34"
 unparsed:
-line: 'Head: broth|Entry: 540 [Pottages]|#item-0a8b86851'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/180,3352,344,90/full/0/default.jpg
+line: 'Head: capital offence|Entry: a|Entry: 638 [Capital Offences]|#item-51a813e34'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,2713,718,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420020523
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496060203
+sort_value: '301132713'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/180,3352,344,90/150,/0/default.jpg
-label: broth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,2713,718,143/150,/0/default.jpg
+label: capital offence
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_2862
 volume: Volume 3
 image_number: '34'
-head: past
-entry: "<a href='/digital-beehive/alpha4/alpha_0692/'>a</a>|865 [PAGE_MISSING]"
+head: palmtree
+entry: 1868 [PAGE_MISSING]
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-f5da90474"
+item: "#item-65aa8a001"
 unparsed:
-line: 'Head: past|Entry: a|Entry: 865 [PAGE_MISSING]|#item-f5da90474'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1822,1077,501,137/full/0/default.jpg
+line: 'Head: palmtree|Page: p.32 [Image 1.92]|Entry: 1868 [PAGE_MISSING]|#item-65aa8a001'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/411,3233,723,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495124192
+annotation_uri: http://dev.llgc.org.uk/annotation/1538426371851
+sort_value: '303413233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1822,1077,501,137/150,/0/default.jpg
-label: past
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/411,3233,723,168/150,/0/default.jpg
+label: palmtree
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

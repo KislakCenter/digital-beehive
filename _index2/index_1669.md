@@ -2,24 +2,25 @@
 pid: index_1669
 volume: Volume 3
 image_number: '22'
-head: God's promises
-entry: "<a href='/digital-beehive/num2/num_0623/'>497 [God's promises]</a>"
+head: goose
+entry: "<a href='/digital-beehive/alpha2/alpha_0376/'>a</a>|4620 [PAGE_MISSING]"
 topic:
 first_letter: G
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-5cb99d0fe"
+item: "#item-c3361d414"
 unparsed:
-line: 'Head: God''s promises|Entry: 497 [God''s promises]|#item-5cb99d0fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1150,2253,505,115/full/0/default.jpg
+line: 'Head: goose|Page: p.35 [Image 1.95]|Entry: a|Entry: 4620 [PAGE_MISSING]|#item-c3361d414'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1836,599,606,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047773873
+annotation_uri: http://dev.llgc.org.uk/annotation/1561051945598
+sort_value: '302230599'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1150,2253,505,115/150,/0/default.jpg
-label: God's promises
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1836,599,606,142/150,/0/default.jpg
+label: goose
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

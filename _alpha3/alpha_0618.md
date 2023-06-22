@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2550/'>mouse</a>"
+index: "<a href='/digital-beehive/index3/index_2606/'>mouse</a>"
 item: "#item-f09647abd"
 unparsed:
 line: 'Entry: Mouse|Topic: Mouse|Index: mouse|#item-f09647abd'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/754,2188,2992,395/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564777608415
+sort_value: '203412188'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/754,2188,600,180/250,/0/default.jpg
 label: Mouse

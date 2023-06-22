@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1227/'>926 [New Testament]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4150/'>testament old</a>"
+index: "<a href='/digital-beehive/index5/index_4098/'>testament old</a>"
 item: "#item-d12a4cca7"
 unparsed:
 line: 'Entry: Old Testamt|Topic: Old Testamt|Xref: 926 [New Testament]|Index: testament
@@ -18,6 +18,7 @@ line: 'Entry: Old Testamt|Topic: Old Testamt|Xref: 926 [New Testament]|Index: te
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/807,1138,3029,444/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529088029734
+sort_value: '205811138'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/807,1138,600,180/250,/0/default.jpg
 label: Old Testamt

@@ -2,8 +2,11 @@
 pid: index_3972
 volume: Volume 3
 image_number: '45'
-head: stones of a man
-entry: 816 [PAGE_MISSING]
+head: sufferings
+entry: "<a href='/digital-beehive/alpha4/alpha_0929/'>a</a>|<a href='/digital-beehive/num2/num_0626/'>498
+  [Sufferings]</a>|<a href='/digital-beehive/num6/num_1906/'>1349 [Affliction]</a>|<a
+  href='/digital-beehive/num9/num_2954/'>2020 [Sufferings]</a>|<a href='/digital-beehive/num10/num_3451/'>4467
+  [Sufferings]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +14,17 @@ add:
 xref:
 see:
 index:
-item: "#item-f0e1e5349"
+item: "#item-9813f7809"
 unparsed:
-line: 'Head: stones of a man|Entry: 816 [PAGE_MISSING]|#item-f0e1e5349'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/212,3422,522,91/full/0/default.jpg
+line: 'Head: sufferings|Entry: a|Entry: 498 [Sufferings]|Entry: 1349 [Affliction]|Entry:
+  2020 [Sufferings]|Entry: 4467 [Sufferings]|#item-9813f7809'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1611,3109,842,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530448675966
+annotation_uri: http://dev.llgc.org.uk/annotation/1530470363624
+sort_value: '304533109'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/212,3422,522,91/150,/0/default.jpg
-label: stones of a man
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1611,3109,842,118/150,/0/default.jpg
+label: sufferings
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

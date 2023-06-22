@@ -2,8 +2,9 @@
 pid: index_4359
 volume: Volume 3
 image_number: '50'
-head: unhappy
-entry: "<a href='/digital-beehive/num3/num_1051/'>716 [Unhappiness]</a>"
+head: unbelief
+entry: "<a href='/digital-beehive/alpha5/alpha_1005/'>a</a>|<a href='/digital-beehive/num9/num_3004/'>2070
+  [Unbelief]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-7449cc3fa"
+item: "#item-0e15ccd27"
 unparsed:
-line: 'Head: unhappy|Entry: 716 [Unhappiness]|#item-7449cc3fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1124,663,456,139/full/0/default.jpg
+line: 'Head: unbelief|Entry: a|Entry: 2070 [Unbelief]|#item-0e15ccd27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/468,1321,609,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560878168027
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872390862
+sort_value: '305011321'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1124,663,456,139/150,/0/default.jpg
-label: unhappy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/468,1321,609,152/150,/0/default.jpg
+label: unbelief
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '322'
+order: '321'
 layout: index_item
 collection: index5
 ---

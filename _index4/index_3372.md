@@ -2,10 +2,9 @@
 pid: index_3372
 volume: Volume 3
 image_number: '39'
-head: repentance
-entry: "<a href='/digital-beehive/alpha4/alpha_0795/'>a</a>|<a href='/digital-beehive/num4/num_1261/'>944
-  [Repentance]</a>|<a href='/digital-beehive/num7/num_2396/'>1594 [Repentance]</a>|<a
-  href='/digital-beehive/num10/num_3372/'>2400 [Repentance]</a>"
+head: report
+entry: "<a href='/digital-beehive/alpha4/alpha_0797/'>a</a>|779 [PAGE_MISSING]|<a
+  href='/digital-beehive/num9/num_3187/'>2242 [Report & Hear-say]</a>"
 topic:
 first_letter: R
 page:
@@ -13,16 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-b3c419bfa"
+item: "#item-44e9b761e"
 unparsed:
-line: 'Head: repentance|Entry: a|Entry: 944 [Repentance]|Entry: 1594 [Repentance]|Entry:
-  2400 [Repentance]|#item-b3c419bfa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/781,2130,770,222/full/0/default.jpg
+line: 'Head: report|Entry: a|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & Hear-say]|#item-44e9b761e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/799,2508,719,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469317984
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469484989
+sort_value: '303922508'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/781,2130,770,222/150,/0/default.jpg
-label: repentance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/799,2508,719,153/150,/0/default.jpg
+label: report
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

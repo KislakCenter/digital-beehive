@@ -2,8 +2,8 @@
 pid: index_0670
 volume: Volume 3
 image_number: '13'
-head: chronogram
-entry: 4570 [PAGE_MISSING]
+head: circle
+entry: "<a href='/digital-beehive/num4/num_1086/'>867 [a Circle]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4abd18280"
+item: "#item-da2df8087"
 unparsed:
-line: 'Head: chronogram|Entry: 4570 [PAGE_MISSING]|#item-4abd18280'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/135,953,573,104/full/0/default.jpg
+line: 'Head: circle|Entry: 867 [a Circle]|#item-da2df8087'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/174,2032,346,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619068599
+annotation_uri: http://dev.llgc.org.uk/annotation/1532620708603
+sort_value: '301312032'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/135,953,573,104/150,/0/default.jpg
-label: chronogram
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/174,2032,346,104/150,/0/default.jpg
+label: circle
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

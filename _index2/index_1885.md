@@ -2,10 +2,9 @@
 pid: index_1885
 volume: Volume 3
 image_number: '24'
-head: hope
-entry: "<a href='/digital-beehive/alpha2/alpha_0432/'>a</a>|<a href='/digital-beehive/num5/num_1526/'>1126
-  [Hope]</a>|<a href='/digital-beehive/num9/num_2949/'>2015 [Hope]</a>|<a href='/digital-beehive/num10/num_3371/'>2399
-  [Hope]</a>"
+head: hottentots
+entry: "<a href='/digital-beehive/num6/num_2138/'>1458 [Hottentots : Cape of good
+  hope]</a>"
 topic:
 first_letter: H
 page:
@@ -13,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ae5a1eca8"
+item: "#item-1c7e35d2f"
 unparsed:
-line: 'Head: hope|Entry: a|Entry: 1126 [Hope]|Entry: 2015 [Hope]|Entry: 2399 [Hope]|#item-ae5a1eca8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1140,2382,729,160/full/0/default.jpg
+line: 'Head: hottentots|Entry: 1458 [Hottentots : Cape of good hope]|#item-1c7e35d2f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1843,526,520,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583304927
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586225875
+sort_value: '302430526'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1140,2382,729,160/150,/0/default.jpg
-label: hope
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1843,526,520,103/150,/0/default.jpg
+label: hottentots
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_2200
 volume: Volume 3
 image_number: '27'
-head: latton
-entry: "<a href='/digital-beehive/num8/num_2923/'>1992 [Latton]</a>"
+head: laplanders
+entry: "<a href='/digital-beehive/num6/num_1837/'>1316 [Laplanders]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-92d2ba5a2"
+item: "#item-15c559e4c"
 unparsed:
-line: 'Head: latton|Entry: 1992 [Latton]|#item-92d2ba5a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1546,2783,423,114/full/0/default.jpg
+line: 'Head: laplanders|Entry: 1316 [Laplanders]|#item-15c559e4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1553,1152,478,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836612193
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835474983
+sort_value: '302731152'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1546,2783,423,114/150,/0/default.jpg
-label: latton
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1553,1152,478,150/150,/0/default.jpg
+label: laplanders
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

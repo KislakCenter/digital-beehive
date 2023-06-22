@@ -2,8 +2,9 @@
 pid: index_2312
 volume: Volume 3
 image_number: '28'
-head: to lift
-entry: "<a href='/digital-beehive/num3/num_0962/'>682 [To lift up]</a>"
+head: livelyhood
+entry: "<a href='/digital-beehive/alpha3/alpha_0546/'>a</a>|<a href='/digital-beehive/num7/num_2484/'>1635
+  [Livelyhood]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-eede4bb64"
+item: "#item-777fb0808"
 unparsed:
-line: 'Head: to lift|Entry: 682 [To lift up]|#item-eede4bb64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1137,3001,439,121/full/0/default.jpg
+line: 'Head: livelyhood|Entry: a|Entry: 1635 [Livelyhood]|#item-777fb0808'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1820,2507,590,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847206638
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849774166
+sort_value: '302832507'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1137,3001,439,121/150,/0/default.jpg
-label: to lift
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1820,2507,590,151/150,/0/default.jpg
+label: livelyhood
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3800
 volume: Volume 3
 image_number: '44'
-head: spoon
-entry: "<a href='/digital-beehive/num8/num_2752/'>1819 [Spoon]</a>"
+head: sope
+entry: "<a href='/digital-beehive/num4/num_1233/'>927 [Sope]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3dae3567d"
+item: "#item-d91ae04a8"
 unparsed:
-line: 'Head: spoon|Entry: 1819 [Spoon]|#item-3dae3567d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1825,1647,381,78/full/0/default.jpg
+line: 'Head: sope|Entry: 927 [Sope]|#item-d91ae04a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/579,1233,357,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530105301406
+annotation_uri: http://dev.llgc.org.uk/annotation/1529703812108
+sort_value: '304411233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1825,1647,381,78/150,/0/default.jpg
-label: spoon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/579,1233,357,115/150,/0/default.jpg
+label: sope
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

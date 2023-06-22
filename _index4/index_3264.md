@@ -2,24 +2,25 @@
 pid: index_3264
 volume: Volume 3
 image_number: '38'
-head: purgation
-entry: "<a href='/digital-beehive/num6/num_2146/'>1462 [Purgation]</a>"
+head: to quiet
+entry: 1864 [PAGE_MISSING]
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-be06e69b4"
+item: "#item-92f02a5e3"
 unparsed:
-line: 'Head: purgation|Entry: 1462 [Purgation]|#item-be06e69b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/422,1306,520,119/full/0/default.jpg
+line: 'Head: to quiet|Entry: 1864 [PAGE_MISSING]|#item-92f02a5e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1170,1278,525,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452135708
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455252630
+sort_value: '303821278'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/422,1306,520,119/150,/0/default.jpg
-label: purgation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1170,1278,525,96/150,/0/default.jpg
+label: to quiet
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

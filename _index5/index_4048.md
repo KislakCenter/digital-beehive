@@ -2,28 +2,29 @@
 pid: index_4048
 volume: Volume 3
 image_number: '46'
-head: tares
-entry: 809 [PAGE_MISSING]
+head: to take heed
+entry: "<a href='/digital-beehive/num10/num_3380/'>2407 [to Take heed]</a>"
 topic:
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a5648fdf1"
+item: "#item-70dfc46a1"
 unparsed:
-line: 'Head: tares|Page: p.33 [Image 1.93]|Entry: 809 [PAGE_MISSING]|#item-a5648fdf1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1824,2690,505,105/full/0/default.jpg
+line: 'Head: to take heed|Entry: 2407 [to Take heed]|#item-70dfc46a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1822,1246,496,71/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743434469
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742632320
+sort_value: '304631246'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1824,2690,505,105/150,/0/default.jpg
-label: tares
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1822,1246,496,71/150,/0/default.jpg
+label: to take heed
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '026'
+order: '010'
 layout: index_item
 collection: index5
 ---

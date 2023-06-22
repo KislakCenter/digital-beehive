@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num3/num_0736/'>576 [Hinderance]</a>|<a href='/digital-beehive/num2/num_0586/'>470
   [Disappointmt]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1896/'>hinderance</a>"
+index: "<a href='/digital-beehive/index2/index_1838/'>hinderance</a>"
 item: "#item-526731c25"
 unparsed:
 line: 'Entry: Hindrance|Topic: Hindrance|Xref: 576 [Hinderance]|Xref: 470 [Disappointmt]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Hindrance|Topic: Hindrance|Xref: 576 [Hinderance]|Xref: 470 [Disap
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/706,3720,3032,582/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564756957509
+sort_value: '201813720'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/706,3720,600,180/250,/0/default.jpg
 label: Hindrance

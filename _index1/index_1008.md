@@ -2,28 +2,29 @@
 pid: index_1008
 volume: Volume 3
 image_number: '16'
-head: decline
+head: den
 entry:
 topic:
 first_letter: D
-page:
+page: "<a href='/digital-beehive/toc/toc1_081/'>p.31 [Image 1.91]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3361/'>refusal</a>"
+see:
 index:
-item: "#item-b1735beba"
+item: "#item-30524553b"
 unparsed:
-line: 'Head: decline|See: refusal|#item-b1735beba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/365,1130,641,107/full/0/default.jpg
+line: 'Head: den|Page: p.31 [Image 1.91]|#item-30524553b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1163,677,334,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540570604110
+annotation_uri: http://dev.llgc.org.uk/annotation/1541604617460
+sort_value: '301620677'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/365,1130,641,107/150,/0/default.jpg
-label: decline
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1163,677,334,128/150,/0/default.jpg
+label: den
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1006'
+order: '1007'
 layout: index_item
 collection: index1
 ---

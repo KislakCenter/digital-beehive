@@ -2,9 +2,9 @@
 pid: index_4513
 volume: Volume 3
 image_number: '52'
-head: welcome
-entry: "<a href='/digital-beehive/num1/num_0086/'>85 [Wel- and Unwelcome]</a>|<a href='/digital-beehive/num6/num_1920/'>1354
-  [Welcome]</a>"
+head: weighty
+entry: "<a href='/digital-beehive/num3/num_0641/'>510 [Concern]</a>|<a href='/digital-beehive/num3/num_0642/'>510
+  [So trivial a thing]</a>"
 topic:
 first_letter: W
 page:
@@ -12,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-37540b900"
+item: "#item-e55f99883"
 unparsed:
-line: 'Head: welcome|Entry: 85 [Wel- and Unwelcome]|Entry: 1354 [Welcome]|#item-37540b900'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1082,1193,638,113/full/0/default.jpg
+line: 'Head: weighty|Entry: 510 [Concern]|Entry: 510 [So trivial a thing]|#item-e55f99883'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1101,843,363,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968775737
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968525347
+sort_value: '305220843'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1082,1193,638,113/150,/0/default.jpg
-label: welcome
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1101,843,363,146/150,/0/default.jpg
+label: weighty
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue:
+issue: The correct entry for 510 is unclear.
 insertion_xref:
-order: '476'
+order: '475'
 layout: index_item
 collection: index5
 ---

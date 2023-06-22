@@ -2,10 +2,9 @@
 pid: index_1985
 volume: Volume 3
 image_number: '25'
-head: Jews
-entry: "<a href='/digital-beehive/alpha3/alpha_0453/'>a</a>|<a href='/digital-beehive/num3/num_0718/'>564
-  [Jews]</a>|<a href='/digital-beehive/num6/num_2192/'>1487 [Jews]</a>|<a href='/digital-beehive/num9/num_2961/'>2027
-  [Jew]</a>"
+head: impunity
+entry: "<a href='/digital-beehive/num2/num_0379/'>330 [Impunity]</a>|<a href='/digital-beehive/num5/num_1624/'>1192
+  [Want of Punishmt]</a>"
 topic:
 first_letter: I/J
 page:
@@ -13,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-35a8c43a3"
+item: "#item-3d428a399"
 unparsed:
-line: 'Head: Jews|Entry: a|Entry: 564 [Jews]|Entry: 1487 [Jews]|Entry: 2027 [Jew]|#item-35a8c43a3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/160,2389,675,105/full/0/default.jpg
+line: 'Head: impunity|Entry: 330 [Impunity]|Entry: 1192 [Want of Punishmt]|#item-3d428a399'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/854,3149,628,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661442705
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668282463
+sort_value: '302523149'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/160,2389,675,105/150,/0/default.jpg
-label: Jews
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/854,3149,628,137/150,/0/default.jpg
+label: impunity
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

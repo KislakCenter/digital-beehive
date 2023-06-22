@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2292/'>1540 [Poisoning]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4327/'>venom</a>"
+index: "<a href='/digital-beehive/index5/index_4311/'>venom</a>"
 item: "#item-09994abd8"
 unparsed:
 line: 'Entry: Venom|Topic: Venom|Xref: 1540 [Poisoning]|Index: venom|#item-09994abd8'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/326,2195,2993,452/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529002547521
+sort_value: '206112195'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/326,2195,600,180/250,/0/default.jpg
 label: Venom

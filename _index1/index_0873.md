@@ -2,8 +2,8 @@
 pid: index_0873
 volume: Volume 3
 image_number: '15'
-head: Cuts
-entry: 4526 [PAGE_MISSING]
+head: counterfeit money
+entry: "<a href='/digital-beehive/alpha1/alpha_0186/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a82a4bb93"
+item: "#item-c624a63d3"
 unparsed:
-line: 'Head: Cuts|Entry: 4526 [PAGE_MISSING]|#item-a82a4bb93'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/2025,563,294,136/full/0/default.jpg
+line: 'Head: counterfeit money|Entry: a|#item-c624a63d3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/140,1627,729,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390774680
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974411528
+sort_value: '301511627'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/2025,563,294,136/150,/0/default.jpg
-label: Cuts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/140,1627,729,145/150,/0/default.jpg
+label: counterfeit money
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

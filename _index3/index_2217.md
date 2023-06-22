@@ -2,24 +2,25 @@
 pid: index_2217
 volume: Volume 3
 image_number: '27'
-head: to keep back
-entry: 828 [PAGE_MISSING]
+head: latin chimical
+entry: "<a href='/digital-beehive/num5/num_1363/'>1020 [Chimical Latin]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-701e34976"
+item: "#item-d5adab8ff"
 unparsed:
-line: 'Head: to keep back|Entry: 828 [PAGE_MISSING]|#item-701e34976'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/133,3357,528,148/full/0/default.jpg
+line: 'Head: latin chimical|Entry: 1020 [Chimical Latin]|#item-d5adab8ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1503,2916,548,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759573504
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836739247
+sort_value: '302732916'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/133,3357,528,148/150,/0/default.jpg
-label: to keep back
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1503,2916,548,124/150,/0/default.jpg
+label: latin chimical
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

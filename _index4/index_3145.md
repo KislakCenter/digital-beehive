@@ -2,8 +2,9 @@
 pid: index_3145
 volume: Volume 3
 image_number: '37'
-head: properly
-entry: 4656 [PAGE_MISSING]
+head: pretty
+entry: "<a href='/digital-beehive/num3/num_0670/'>535 [Incomparable]</a>|<a href='/digital-beehive/num3/num_0671/'>535
+  [Excellent]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4862f2657"
+item: "#item-9a32d8a0d"
 unparsed:
-line: 'Head: properly|Entry: 4656 [PAGE_MISSING]|#item-4862f2657'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1486,641,591,107/full/0/default.jpg
+line: 'Head: pretty|Entry: 535 [Incomparable]|Entry: 535 [Excellent]|#item-9a32d8a0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/102,1548,382,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869070962
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866422539
+sort_value: '303711548'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1486,641,591,107/150,/0/default.jpg
-label: properly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/102,1548,382,185/150,/0/default.jpg
+label: pretty
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
 insertion_xref:

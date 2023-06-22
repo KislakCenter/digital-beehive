@@ -2,24 +2,26 @@
 pid: index_3228
 volume: Volume 3
 image_number: '38'
-head: race
-entry: 771 [PAGE_MISSING]
+head: punishmt
+entry: "<a href='/digital-beehive/alpha4/alpha_0763/'>a</a>|<a href='/digital-beehive/num5/num_1653/'>1210
+  [Punishmt]</a>|<a href='/digital-beehive/num9/num_3122/'>2179 [Punishment]</a>"
 topic:
-first_letter: R
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-32c15e422"
+item: "#item-3b464d621"
 unparsed:
-line: 'Head: race|Entry: 771 [PAGE_MISSING]|#item-32c15e422'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,2633,363,121/full/0/default.jpg
+line: 'Head: punishmt|Entry: a|Entry: 1210 [Punishmt]|Entry: 2179 [Punishment]|#item-3b464d621'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/423,1146,763,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459410404
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452088799
+sort_value: '303811146'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,2633,363,121/150,/0/default.jpg
-label: race
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/423,1146,763,135/150,/0/default.jpg
+label: punishmt
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

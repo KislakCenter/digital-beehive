@@ -2,24 +2,25 @@
 pid: index_3509
 volume: Volume 3
 image_number: '41'
-head: scarifying
-entry:
+head: salvo honore
+entry: "<a href='/digital-beehive/num6/num_2102/'>1441 [With permission]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0422/'>bloodletting</a>"
+see:
 index:
-item: "#item-00d400f81"
+item: "#item-7dd8a2e14"
 unparsed:
-line: 'Head: scarifying|See: bloodletting|#item-00d400f81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/864,343,749,187/full/0/default.jpg
+line: 'Head: salvo honore|Entry: 1441 [With permission]|#item-7dd8a2e14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,922,585,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240239660
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238456314
+sort_value: '304110922'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/864,343,749,187/150,/0/default.jpg
-label: scarifying
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,922,585,136/150,/0/default.jpg
+label: salvo honore
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

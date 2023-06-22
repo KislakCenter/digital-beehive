@@ -2,24 +2,28 @@
 pid: index_3332
 volume: Volume 3
 image_number: '39'
-head: remember
-entry: 4771 [PAGE_MISSING]
+head: reformation
+entry: "<a href='/digital-beehive/alpha4/alpha_0787/'>a</a>|<a href='/digital-beehive/num2/num_0608/'>486
+  [Reformation]</a>|<a href='/digital-beehive/num7/num_2613/'>1695 [Reformation]</a>|<a
+  href='/digital-beehive/num8/num_2847/'>1934 [Reformation]</a>"
 topic:
 first_letter: R
-page:
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-8de1f919f"
+item: "#item-c940ff6e6"
 unparsed:
-line: 'Head: remember|Entry: 4771 [PAGE_MISSING]|#item-8de1f919f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/792,613,564,151/full/0/default.jpg
+line: 'Head: reformation|Page: p.37 [Image 1.97]|Entry: a|Entry: 486 [Reformation]|Entry:
+  1695 [Reformation]|Entry: 1934 [Reformation]|#item-c940ff6e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/129,1380,690,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468922314
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464500835
+sort_value: '303911380'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/792,613,564,151/150,/0/default.jpg
-label: remember
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/129,1380,690,136/150,/0/default.jpg
+label: reformation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
 insertion_xref:

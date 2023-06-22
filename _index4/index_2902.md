@@ -2,8 +2,8 @@
 pid: index_2902
 volume: Volume 3
 image_number: '34'
-head: paronomasia
-entry: "<a href='/digital-beehive/num11/num_3531/'>4835 [Paronomasia]</a>"
+head: partridge
+entry: "<a href='/digital-beehive/num7/num_2431/'>1611 [Partridges]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-044f9e31c"
+item: "#item-3db62a19e"
 unparsed:
-line: 'Head: paronomasia|Entry: 4835 [Paronomasia]|#item-044f9e31c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1131,2326,638,168/full/0/default.jpg
+line: 'Head: partridge|Entry: 1611 [Partridges]|#item-3db62a19e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1081,3389,635,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494414862
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494819568
+sort_value: '303423389'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1131,2326,638,168/150,/0/default.jpg
-label: paronomasia
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1081,3389,635,186/150,/0/default.jpg
+label: partridge
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

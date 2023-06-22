@@ -2,9 +2,8 @@
 pid: index_2300
 volume: Volume 3
 image_number: '28'
-head: livelyhood
-entry: "<a href='/digital-beehive/alpha3/alpha_0546/'>a</a>|<a href='/digital-beehive/num7/num_2484/'>1635
-  [Livelyhood]</a>"
+head: linnen
+entry: 806 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-777fb0808"
+item: "#item-886979d15"
 unparsed:
-line: 'Head: livelyhood|Entry: a|Entry: 1635 [Livelyhood]|#item-777fb0808'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1820,2507,590,151/full/0/default.jpg
+line: 'Head: linnen|Entry: 806 [PAGE_MISSING]|#item-886979d15'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1834,1255,434,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849774166
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848753320
+sort_value: '302831255'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1820,2507,590,151/150,/0/default.jpg
-label: livelyhood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1834,1255,434,107/150,/0/default.jpg
+label: linnen
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

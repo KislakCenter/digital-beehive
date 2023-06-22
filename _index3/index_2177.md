@@ -2,26 +2,28 @@
 pid: index_2177
 volume: Volume 3
 image_number: '27'
-head: to last or endure
-entry: "<a href='/digital-beehive/alpha3/alpha_0518/'>a</a>"
+head: knowledge
+entry: "<a href='/digital-beehive/alpha3/alpha_0507/'>a</a>|<a href='/digital-beehive/num9/num_3034/'>2098
+  [Knowledge]</a>|<a href='/digital-beehive/num10/num_3279/'>2315 [Knowledge]</a>"
 topic:
-first_letter: L
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b403e920b"
+item: "#item-a81106176"
 unparsed:
-line: 'Head: to last or endure|Entry: a|#item-b403e920b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,2131,596,133/full/0/default.jpg
+line: 'Head: knowledge|Entry: a|Entry: 2098 [Knowledge]|Entry: 2315 [Knowledge]|#item-a81106176'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/822,2573,899,216/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836068046
+annotation_uri: http://dev.llgc.org.uk/annotation/1559833007029
+sort_value: '302722573'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,2131,596,133/150,/0/default.jpg
-label: to last or endure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/822,2573,899,216/150,/0/default.jpg
+label: knowledge
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue:
+issue: It unclear which entries are for "knowledge" and which for "knowledge of God."
 insertion_xref:
 order: '259'
 layout: index_item

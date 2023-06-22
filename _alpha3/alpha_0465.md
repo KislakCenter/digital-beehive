@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0795/'>repentance</a>|<a href='/digital-beehive/num8/num_2869/'>1945
   [Impenitence]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1959/'>impenitence</a>"
+index: "<a href='/digital-beehive/index3/index_1966/'>impenitence</a>"
 item: "#item-cebd48102"
 unparsed:
 line: 'Entry: Impenitence|Topic: Impenitence|Xref: repentance|Xref: 1945 [Impenitence]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Impenitence|Topic: Impenitence|Xref: repentance|Xref: 1945 [Impeni
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/730,2001,3056,587/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759467511
+sort_value: '202212001'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/730,2001,600,180/250,/0/default.jpg
 label: Impenitence

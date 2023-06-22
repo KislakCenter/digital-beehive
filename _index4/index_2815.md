@@ -2,8 +2,8 @@
 pid: index_2815
 volume: Volume 3
 image_number: '33'
-head: One
-entry: "<a href='/digital-beehive/num1/num_0200/'>191 [One]</a>"
+head: oracle
+entry: "<a href='/digital-beehive/alpha4/alpha_0669/'>a</a>"
 topic:
 first_letter: O
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-863bc6d6a"
+item: "#item-e6bceb474"
 unparsed:
-line: 'Head: One|Entry: 191 [One]|#item-863bc6d6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/833,2917,385,112/full/0/default.jpg
+line: 'Head: oracle|Entry: a|#item-e6bceb474'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1502,1638,369,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538159800086
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161908978
+sort_value: '303331638'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/833,2917,385,112/150,/0/default.jpg
-label: One
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1502,1638,369,138/150,/0/default.jpg
+label: oracle
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

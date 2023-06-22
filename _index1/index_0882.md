@@ -2,8 +2,8 @@
 pid: index_0882
 volume: Volume 3
 image_number: '15'
-head: credulity
-entry: "<a href='/digital-beehive/num2/num_0543/'>439 [Credulity]</a>"
+head: 'wom : Courses'
+entry: 838 [[PAGE_MISSING]]|<a href='/digital-beehive/num7/num_2527/'>1653 [Menstrua]</a>
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4680d38b6"
+item: "#item-84c3ed5f5"
 unparsed:
-line: 'Head: credulity|Entry: 439 [Credulity]|#item-4680d38b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/857,766,589,186/full/0/default.jpg
+line: 'Head: wom : Courses|Entry: 838 [[PAGE_MISSING]]|Entry: 1653 [Menstrua]|#item-84c3ed5f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/144,2332,714,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577285738
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974830692
+sort_value: '301512332'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/857,766,589,186/150,/0/default.jpg
-label: credulity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/144,2332,714,101/150,/0/default.jpg
+label: 'wom : Courses'
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

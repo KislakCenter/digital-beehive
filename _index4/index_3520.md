@@ -2,9 +2,8 @@
 pid: index_3520
 volume: Volume 3
 image_number: '41'
-head: salvation
-entry: "<a href='/digital-beehive/alpha4/alpha_0833/'>a</a>|<a href='/digital-beehive/num1/num_0115/'>111
-  [Salvation]</a>|<a href='/digital-beehive/num7/num_2381/'>1587 [Salvation]</a>"
+head: Sarah
+entry: "<a href='/digital-beehive/num8/num_2772/'>1892 [Sarah]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-30d353573"
+item: "#item-67b2763e4"
 unparsed:
-line: 'Head: salvation|Entry: a|Entry: 111 [Salvation]|Entry: 1587 [Salvation]|#item-30d353573'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/148,702,648,135/full/0/default.jpg
+line: 'Head: Sarah|Entry: 1892 [Sarah]|#item-67b2763e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/174,1728,371,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238402197
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239020652
+sort_value: '304111728'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/148,702,648,135/150,/0/default.jpg
-label: salvation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/174,1728,371,100/150,/0/default.jpg
+label: Sarah
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

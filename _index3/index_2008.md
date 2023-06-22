@@ -2,8 +2,9 @@
 pid: index_2008
 volume: Volume 3
 image_number: '25'
-head: index
-entry: "<a href='/digital-beehive/num4/num_1302/'>975 [Index]</a>"
+head: increase
+entry: "<a href='/digital-beehive/alpha3/alpha_0472/'>a</a>|<a href='/digital-beehive/num3/num_0796/'>604
+  [Increase]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-379def9f7"
+item: "#item-69b819eae"
 unparsed:
-line: 'Head: index|Entry: 975 [Index]|#item-379def9f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1477,3050,452,145/full/0/default.jpg
+line: 'Head: increase|Entry: a|Entry: 604 [Increase]|#item-69b819eae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,2432,565,90/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672824375
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672115621
+sort_value: '302532432'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1477,3050,452,145/150,/0/default.jpg
-label: index
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,2432,565,90/150,/0/default.jpg
+label: increase
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

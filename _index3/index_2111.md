@@ -2,24 +2,25 @@
 pid: index_2111
 volume: Volume 3
 image_number: '26'
-head: in the beginning
-entry: "<a href='/digital-beehive/num2/num_0624/'>497 [At the first]</a>"
+head: journey
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4221/'>travelling</a>"
 index:
-item: "#item-388820b2a"
+item: "#item-35acd4ca8"
 unparsed:
-line: 'Head: in the beginning|Entry: 497 [At the first]|#item-388820b2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1157,3362,645,145/full/0/default.jpg
+line: 'Head: journey|See: travelling|#item-35acd4ca8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1821,2897,677,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559749659069
+annotation_uri: http://dev.llgc.org.uk/annotation/1559754502911
+sort_value: '302632897'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1157,3362,645,145/150,/0/default.jpg
-label: in the beginning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1821,2897,677,153/150,/0/default.jpg
+label: journey
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

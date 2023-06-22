@@ -2,8 +2,8 @@
 pid: index_1339
 volume: Volume 3
 image_number: '19'
-head: external conversation
-entry: "<a href='/digital-beehive/alpha2/alpha_0305/'>a</a>"
+head: excursion
+entry: 4504 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3b6c49fb6"
+item: "#item-ce772de52"
 unparsed:
-line: 'Head: external conversation|Entry: a|#item-3b6c49fb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1518,2370,630,121/full/0/default.jpg
+line: 'Head: excursion|Entry: 4504 [PAGE_MISSING]|#item-ce772de52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/820,3585,546,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396499307
+annotation_uri: http://dev.llgc.org.uk/annotation/1560365700992
+sort_value: '301923585'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1518,2370,630,121/150,/0/default.jpg
-label: external conversation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/820,3585,546,132/150,/0/default.jpg
+label: excursion
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

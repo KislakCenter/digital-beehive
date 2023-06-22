@@ -2,8 +2,8 @@
 pid: index_3457
 volume: Volume 3
 image_number: '40'
-head: riband
-entry: "<a href='/digital-beehive/num2/num_0406/'>348 [a Band]</a>"
+head: roughness
+entry: 861 [PAGE_MISSING]
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3e2b4cbcb"
+item: "#item-5ee5734cf"
 unparsed:
-line: 'Head: riband|Entry: 348 [a Band]|#item-3e2b4cbcb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/447,1481,415,118/full/0/default.jpg
+line: 'Head: roughness|Entry: 861 [PAGE_MISSING]|#item-5ee5734cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1156,2136,473,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231758533
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233752493
+sort_value: '304022136'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/447,1481,415,118/150,/0/default.jpg
-label: riband
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1156,2136,473,152/150,/0/default.jpg
+label: roughness
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

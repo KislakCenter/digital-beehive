@@ -2,24 +2,26 @@
 pid: index_2376
 volume: Volume 3
 image_number: '29'
-head: manhood
-entry:
+head: madness
+entry: 804 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_2129/'>1453 [Mad]</a>|4519
+  [PAGE_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0641/'>Christ</a>"
+see:
 index:
-item: "#item-171409b2c"
+item: "#item-47ae216fe"
 unparsed:
-line: 'Head: manhood|See: Christ|#item-171409b2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,1949,535,157/full/0/default.jpg
+line: 'Head: madness|Entry: 804 [PAGE_MISSING]|Entry: 1453 [Mad]|Entry: 4519 [PAGE_MISSING]|#item-47ae216fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/860,2000,697,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195693402
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186411666
+sort_value: '302922000'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,1949,535,157/150,/0/default.jpg
-label: manhood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/860,2000,697,146/150,/0/default.jpg
+label: madness
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

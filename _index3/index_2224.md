@@ -17,6 +17,7 @@ line: 'Head: Law books|Entry: 1501 [English Lawbooks]|#item-654ee50f7'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,3582,491,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559837416972
+sort_value: '302733582'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,3582,491,114/150,/0/default.jpg
 label: Law books

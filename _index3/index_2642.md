@@ -2,24 +2,25 @@
 pid: index_2642
 volume: Volume 3
 image_number: '32'
-head: nard
-entry: "<a href='/digital-beehive/num8/num_2857/'>1938 [Lavender]</a>"
+head: nickname
+entry: "<a href='/digital-beehive/num1/num_0190/'>181 [Nick-name]</a>"
 topic:
 first_letter: N
 page:
-add:
+add: Indicem Observationu[m] Onomasticarum
 xref:
 see:
 index:
-item: "#item-c25ca52c3"
+item: "#item-0a1f3294e"
 unparsed:
-line: 'Head: nard|Entry: 1938 [Lavender]|#item-c25ca52c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,864,348,97/full/0/default.jpg
+line: 'Head: nickname|Entry: 181 [Nick-name]|Add: Indicem Observationu[m] Onomasticarum|#item-0a1f3294e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/380,645,822,253/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437454693
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437356011
+sort_value: '303210645'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,864,348,97/150,/0/default.jpg
-label: nard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/380,645,822,253/150,/0/default.jpg
+label: nickname
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

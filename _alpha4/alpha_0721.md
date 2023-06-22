@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num2/num_0562/'>452 [Bigamy]</a>|<a href='/digital-beehive/num4/num_1291/'>969
   [Polygamy]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3123/'>polygamy</a>"
+index: "<a href='/digital-beehive/index4/index_3066/'>polygamy</a>"
 item: "#item-1942f2b6c"
 unparsed:
 line: 'Entry: Polygamy|Topic: Polygamy|Xref: 452 [Bigamy]|Xref: 969 [Polygamy]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Polygamy|Topic: Polygamy|Xref: 452 [Bigamy]|Xref: 969 [Polygamy]|I
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/267,2220,3106,385/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528373632715
+sort_value: '204112220'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/267,2220,600,180/250,/0/default.jpg
 label: Polygamy

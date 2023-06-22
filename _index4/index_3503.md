@@ -2,8 +2,8 @@
 pid: index_3503
 volume: Volume 3
 image_number: '41'
-head: "[:36.]"
-entry:
+head: sallet
+entry: "<a href='/digital-beehive/alpha4/alpha_0830/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,19 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-df57c1fe1"
-unparsed: 'Type: Index|Insertion Xref: [:36.]|#item-df57c1fe1'
-line: 'Type: Index|Insertion Xref: [:36.]|#item-df57c1fe1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/783,1105,151,124/full/0/default.jpg
+item: "#item-1d4b0dc78"
+unparsed:
+line: 'Head: sallet|Entry: a|#item-1d4b0dc78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/159,269,347,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277795428
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238242518
+sort_value: '304110269'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/783,1105,151,124/150,/0/default.jpg
-label: "[:36.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/159,269,347,111/150,/0/default.jpg
+label: sallet
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4703/'>Salvation of Children
-  & Idiots</a>"
+insertion_xref:
 order: '0751'
 layout: index_item
 collection: index4

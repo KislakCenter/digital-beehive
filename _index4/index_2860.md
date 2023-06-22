@@ -2,8 +2,8 @@
 pid: index_2860
 volume: Volume 3
 image_number: '34'
-head: Paracelsus
-entry: "<a href='/digital-beehive/num4/num_1300/'>974 [Paracelsus]</a>"
+head: paleness
+entry: 822 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-33517a234"
+item: "#item-fe2dcaaf8"
 unparsed:
-line: 'Head: Paracelsus|Entry: 974 [Paracelsus]|#item-33517a234'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1134,987,622,147/full/0/default.jpg
+line: 'Head: paleness|Entry: 822 [PAGE_MISSING]|#item-fe2dcaaf8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/433,3122,576,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492826620
+annotation_uri: http://dev.llgc.org.uk/annotation/1538426308897
+sort_value: '303413122'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1134,987,622,147/150,/0/default.jpg
-label: Paracelsus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/433,3122,576,159/150,/0/default.jpg
+label: paleness
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_2612
 volume: Volume 3
 image_number: '31'
-head: mystery
-entry: "<a href='/digital-beehive/alpha3/alpha_0629/'>a</a>|<a href='/digital-beehive/num5/num_1342/'>1006
-  [Mystery]</a>"
+head: to mumble
+entry: "<a href='/digital-beehive/num4/num_1112/'>876 [to Whisper]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-569ede8f3"
+item: "#item-618f16dcd"
 unparsed:
-line: 'Head: mystery|Entry: a|Entry: 1006 [Mystery]|#item-569ede8f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2768,568,113/full/0/default.jpg
+line: 'Head: to mumble|Entry: 876 [to Whisper]|#item-618f16dcd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,1167,496,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362568999
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361084483
+sort_value: '303131167'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2768,568,113/150,/0/default.jpg
-label: mystery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,1167,496,112/150,/0/default.jpg
+label: to mumble
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

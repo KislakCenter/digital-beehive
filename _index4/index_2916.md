@@ -2,27 +2,25 @@
 pid: index_2916
 volume: Volume 3
 image_number: '34'
-head: peace
-entry: "<a href='/digital-beehive/alpha4/alpha_0696/'>a</a>|<a href='/digital-beehive/num4/num_1308/'>980
-  [Peace]</a>|<a href='/digital-beehive/num8/num_2891/'>1966 [Peace]</a>|<a href='/digital-beehive/num10/num_3202/'>2254
-  [Peace]</a>"
+head: womens patches
+entry: "<a href='/digital-beehive/num10/num_3423/'>2445 [Patches]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-b681a923a"
+item: "#item-71e9e4bbe"
 unparsed:
-line: 'Head: peace|Page: p.40 [Image 1.100]|Entry: a|Entry: 980 [Peace]|Entry: 1966
-  [Peace]|Entry: 2254 [Peace]|#item-b681a923a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1789,2754,769,179/full/0/default.jpg
+line: 'Head: womens patches|Entry: 2445 [Patches]|#item-71e9e4bbe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1832,1570,726,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495888876
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495347862
+sort_value: '303431570'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1789,2754,769,179/150,/0/default.jpg
-label: peace
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1832,1570,726,123/150,/0/default.jpg
+label: womens patches
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

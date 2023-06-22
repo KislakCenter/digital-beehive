@@ -2,8 +2,8 @@
 pid: index_4693
 volume: Volume 3
 image_number: '54'
-head: Christ's absence
-entry: "<a href='/digital-beehive/num2/num_0289/'>261 [Absence & Presence of Xst]</a>"
+head: Spur
+entry: "<a href='/digital-beehive/num5/num_1709/'>1239 [Spur]</a>"
 topic:
 first_letter: insertion
 page:
@@ -11,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-f94785118"
-unparsed: Type Index|Insertion [:33.]
-line: 'Type: Index|Insertion: [:33.]|Head: Christ''s absence|Entry: 261 [Absence &
-  Presence of Xst]|#item-f94785118'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1055,1445,714,159/full/0/default.jpg
+item: "#item-a061eca78"
+unparsed: Type Index|Insertion [:28.]
+line: 'Type: Index|Insertion: [:28.]|Head: Spur|Entry: 1239 [Spur]|#item-a061eca78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1046,746,590,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955003278
-insertion: "[:33.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1055,1445,714,159/150,/0/default.jpg
-label: Christ's absence
+annotation_uri: http://dev.llgc.org.uk/annotation/1560953874874
+sort_value: '305420746'
+insertion: "[:28.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1046,746,590,137/150,/0/default.jpg
+label: Spur
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '656'
+order: '655'
 layout: index_item
 collection: index5
 ---

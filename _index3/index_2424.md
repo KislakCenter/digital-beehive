@@ -2,8 +2,8 @@
 pid: index_2424
 volume: Volume 3
 image_number: '29'
-head: marigolds
-entry: "<a href='/digital-beehive/num3/num_0975/'>686 [Marigolds]</a>"
+head: margent
+entry: "<a href='/digital-beehive/num7/num_2304/'>1548 [Margent]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4e0711290"
+item: "#item-100ef094d"
 unparsed:
-line: 'Head: marigolds|Entry: 686 [Marigolds]|#item-4e0711290'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,3468,494,157/full/0/default.jpg
+line: 'Head: margent|Entry: 1548 [Margent]|#item-100ef094d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1511,3382,473,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560197230520
+annotation_uri: http://dev.llgc.org.uk/annotation/1560197149545
+sort_value: '302933382'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,3468,494,157/150,/0/default.jpg
-label: marigolds
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1511,3382,473,120/150,/0/default.jpg
+label: margent
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

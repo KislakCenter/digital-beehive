@@ -2,8 +2,8 @@
 pid: index_0829
 volume: Volume 3
 image_number: '14'
-head: condescension
-entry: "<a href='/digital-beehive/num1/num_0059/'>58 [acts of Forbearance or Condescension]</a>"
+head: contrariety. √®contr√†
+entry: "<a href='/digital-beehive/num3/num_0986/'>690 [Contrariety]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-59eae063c"
+item: "#item-1a4f8aca9"
 unparsed:
-line: 'Head: condescension|Entry: 58 [acts of Forbearance or Condescension]|#item-59eae063c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/401,2575,625,124/full/0/default.jpg
+line: 'Head: contrariety. √®contr√†|Entry: 690 [Contrariety]|#item-1a4f8aca9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1846,783,717,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216743595
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559352349
+sort_value: '301430783'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/401,2575,625,124/150,/0/default.jpg
-label: condescension
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1846,783,717,190/150,/0/default.jpg
+label: contrariety. √®contr√†
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

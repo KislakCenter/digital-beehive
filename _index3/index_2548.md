@@ -2,9 +2,8 @@
 pid: index_2548
 volume: Volume 3
 image_number: '31'
-head: monk
-entry: "<a href='/digital-beehive/alpha3/alpha_0606/'>a</a>|<a href='/digital-beehive/num2/num_0576/'>462
-  [Monks]</a>|<a href='/digital-beehive/num7/num_2382/'>1588 [Monk]</a>"
+head: misunderstanding
+entry: "<a href='/digital-beehive/num1/num_0122/'>118 [Misunderstanding]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-4df9892d6"
+item: "#item-15ffd1f96"
 unparsed:
-line: 'Head: monk|Entry: a|Entry: 462 [Monks]|Entry: 1588 [Monk]|#item-4df9892d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/871,724,611,125/full/0/default.jpg
+line: 'Head: misunderstanding|Entry: 118 [Misunderstanding]|#item-15ffd1f96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/167,1797,664,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560354999401
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352116825
+sort_value: '303111797'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/871,724,611,125/150,/0/default.jpg
-label: monk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/167,1797,664,174/150,/0/default.jpg
+label: misunderstanding
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

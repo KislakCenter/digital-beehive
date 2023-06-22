@@ -2,28 +2,31 @@
 pid: index_4491
 volume: Volume 3
 image_number: '52'
-head: wing
-entry: "<a href='/digital-beehive/num2/num_0506/'>410 [Wing]</a>"
+head: water
+entry: "<a href='/digital-beehive/alpha5/alpha_1030/'>a</a>|<a href='/digital-beehive/num7/num_2300/'>1546
+  [Waters]</a>|<a href='/digital-beehive/num9/num_3088/'>2147 [Water]</a>"
 topic:
 first_letter: W
-page:
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a1cb0893c"
+item: "#item-080f2191c"
 unparsed:
-line: 'Head: wing|Entry: 410 [Wing]|#item-a1cb0893c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1795,3557,389,164/full/0/default.jpg
+line: 'Head: water|Page: p.30 [Image 1.90]|Entry: a|Entry: 1546 [Waters]|Entry: 2147
+  [Water]|#item-080f2191c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/508,1325,601,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972772751
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960592647
+sort_value: '305211325'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1795,3557,389,164/150,/0/default.jpg
-label: wing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/508,1325,601,140/150,/0/default.jpg
+label: water
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '454'
+order: '453'
 layout: index_item
 collection: index5
 ---

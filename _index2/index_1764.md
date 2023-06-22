@@ -2,24 +2,26 @@
 pid: index_1764
 volume: Volume 3
 image_number: '23'
-head: guardian angels
-entry: "<a href='/digital-beehive/num9/num_3139/'>2196 [Guardian Angels]</a>"
+head: haste
+entry: "<a href='/digital-beehive/alpha2/alpha_0402/'>a</a>|<a href='/digital-beehive/num4/num_1136/'>886
+  [Haste]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6dd319f91"
+item: "#item-b2255b41b"
 unparsed:
-line: 'Head: guardian angels|Entry: 2196 [Guardian Angels]|#item-6dd319f91'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/182,2120,526,163/full/0/default.jpg
+line: 'Head: haste|Entry: a|Entry: 886 [Haste]|#item-b2255b41b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/839,2427,433,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232291881
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240825725
+sort_value: '302322427'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/182,2120,526,163/150,/0/default.jpg
-label: guardian angels
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/839,2427,433,112/150,/0/default.jpg
+label: haste
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

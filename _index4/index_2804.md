@@ -2,8 +2,9 @@
 pid: index_2804
 volume: Volume 3
 image_number: '33'
-head: omnipresence
-entry: "<a href='/digital-beehive/alpha4/alpha_0667/'>a</a>"
+head: to open
+entry: "<a href='/digital-beehive/num3/num_0654/'>521 [Open. to Open]</a>|<a href='/digital-beehive/num10/num_3212/'>2260
+  [To Open]</a>"
 topic:
 first_letter: O
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7ab956021"
+item: "#item-be1f59eb9"
 unparsed:
-line: 'Head: omnipresence|Entry: a|#item-7ab956021'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/854,2532,495,122/full/0/default.jpg
+line: 'Head: to open|Entry: 521 [Open. to Open]|Entry: 2260 [To Open]|#item-be1f59eb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1526,461,596,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536600948512
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161198648
+sort_value: '303330461'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/854,2532,495,122/150,/0/default.jpg
-label: omnipresence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1526,461,596,100/150,/0/default.jpg
+label: to open
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

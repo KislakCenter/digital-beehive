@@ -2,24 +2,26 @@
 pid: index_1872
 volume: Volume 3
 image_number: '24'
-head: hieroglyphicks
-entry: "<a href='/digital-beehive/alpha2/alpha_0422/'>a</a>"
+head: horse
+entry: "<a href='/digital-beehive/alpha2/alpha_0433/'>a</a>|<a href='/digital-beehive/num4/num_1153/'>892
+  [Horse]</a>"
 topic:
 first_letter: H
-page:
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-9de07e679"
+item: "#item-c97b96213"
 unparsed:
-line: 'Head: hieroglyphicks|Entry: a|#item-9de07e679'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/434,1948,551,148/full/0/default.jpg
+line: 'Head: horse|Page: p.34 [Image 1.94]|Entry: a|Entry: 892 [Horse]|#item-c97b96213'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1141,2817,544,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576502178
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583773304
+sort_value: '302422817'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/434,1948,551,148/150,/0/default.jpg
-label: hieroglyphicks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1141,2817,544,158/150,/0/default.jpg
+label: horse
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

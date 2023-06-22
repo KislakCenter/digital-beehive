@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0143/'>Childhood</a>|934 [Boy]|<a href='/digital-beehive/num2/num_0582/'>467
   [youth]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4638/'>youth</a>"
+index: "<a href='/digital-beehive/index5/index_4652/'>youth</a>"
 item: "#item-c4abd3d9f"
 unparsed:
 line: 'Entry: Youth|Topic: Youth|Xref: Childhood|Xref: 934 [Boy]|Xref: 467 [youth]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Youth|Topic: Youth|Xref: Childhood|Xref: 934 [Boy]|Xref: 467 [yout
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/340,3915,2980,456/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529604517345
+sort_value: '206713915'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/340,3915,600,180/250,/0/default.jpg
 label: Youth

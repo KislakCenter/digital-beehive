@@ -2,8 +2,8 @@
 pid: index_3054
 volume: Volume 3
 image_number: '36'
-head: praise
-entry: 4757 [PAGE_MISSING]
+head: pocket
+entry: "<a href='/digital-beehive/alpha4/alpha_0718/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d1914bf33"
+item: "#item-d6d65b194"
 unparsed:
-line: 'Head: praise|Entry: 4757 [PAGE_MISSING]|#item-d1914bf33'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1893,686,484,79/full/0/default.jpg
+line: 'Head: pocket|Entry: a|#item-d6d65b194'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/458,1943,396,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439889674
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208121710
+sort_value: '303611943'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1893,686,484,79/150,/0/default.jpg
-label: praise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/458,1943,396,117/150,/0/default.jpg
+label: pocket
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

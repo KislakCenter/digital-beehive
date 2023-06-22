@@ -2,24 +2,25 @@
 pid: index_2199
 volume: Volume 3
 image_number: '27'
-head: Kropf
-entry: "<a href='/digital-beehive/num3/num_0957/'>681 [Wen]</a>"
+head: lapidaria
+entry: "<a href='/digital-beehive/num6/num_2024/'>1406 [Lapidaria]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c389406e2"
+item: "#item-ac2b3087d"
 unparsed:
-line: 'Head: Kropf|Entry: 681 [Wen]|#item-c389406e2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/826,2781,326,122/full/0/default.jpg
+line: 'Head: lapidaria|Entry: 1406 [Lapidaria]|#item-ac2b3087d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1552,1025,502,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559831874567
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835265165
+sort_value: '302731025'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/826,2781,326,122/150,/0/default.jpg
-label: Kropf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1552,1025,502,156/150,/0/default.jpg
+label: lapidaria
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

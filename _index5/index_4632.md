@@ -2,9 +2,8 @@
 pid: index_4632
 volume: Volume 3
 image_number: '53'
-head: to woe
-entry: "<a href='/digital-beehive/num4/num_1198/'>912 [To Wooe]</a>|<a href='/digital-beehive/num6/num_1988/'>1389
-  [of Courting women]</a>|<a href='/digital-beehive/num7/num_2439/'>1614 [Courting]</a>"
+head: wrinkle
+entry: "<a href='/digital-beehive/alpha5/alpha_1071/'>a</a>"
 topic:
 first_letter: W
 page:
@@ -12,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-2609c55de"
+item: "#item-88deead0b"
 unparsed:
-line: 'Head: to woe|Entry: 912 [To Wooe]|Entry: 1389 [of Courting women]|Entry: 1614
-  [Courting]|#item-2609c55de'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,2699,685,128/full/0/default.jpg
+line: 'Head: wrinkle|Entry: a|#item-88deead0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1588,930,433,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793308841
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798578784
+sort_value: '305330930'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,2699,685,128/150,/0/default.jpg
-label: to woe
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1588,930,433,117/150,/0/default.jpg
+label: wrinkle
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '595'
+order: '594'
 layout: index_item
 collection: index5
 ---

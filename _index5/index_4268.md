@@ -2,28 +2,31 @@
 pid: index_4268
 volume: Volume 3
 image_number: '49'
-head: vice vers√¢
-entry: "<a href='/digital-beehive/num3/num_0986/'>690 [Contrariety]</a>"
+head: turn in
+entry: "<a href='/digital-beehive/num2/num_0611/'>489 [Turn in!]</a>|<a href='/digital-beehive/num7/num_2564/'>1671
+  [Turn in!]</a>|<a href='/digital-beehive/num10/num_3241/'>2281 [Turn in : Inward]</a>"
 topic:
-first_letter: U/V
+first_letter: T
 page:
 add:
 xref:
 see:
 index:
-item: "#item-959b9a2fa"
+item: "#item-a2800de59"
 unparsed:
-line: 'Head: vice vers√¢|Entry: 690 [Contrariety]|#item-959b9a2fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1636,628,522,139/full/0/default.jpg
+line: 'Head: turn in|Entry: 489 [Turn in!]|Entry: 1671 [Turn in!]|Entry: 2281 [Turn
+  in : Inward]|#item-a2800de59'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/181,1782,711,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659650775
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656631330
+sort_value: '304911782'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1636,628,522,139/150,/0/default.jpg
-label: vice vers√¢
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/181,1782,711,111/150,/0/default.jpg
+label: turn in
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '231'
+order: '230'
 layout: index_item
 collection: index5
 ---

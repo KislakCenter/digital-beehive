@@ -2,28 +2,29 @@
 pid: index_4363
 volume: Volume 3
 image_number: '50'
-head: unicorn
-entry: "<a href='/digital-beehive/num7/num_2272/'>1530 [Unicorn]</a>"
+head: unclean
+entry: "<a href='/digital-beehive/num8/num_2815/'>1916 [Unclean]</a>"
 topic:
 first_letter: U/V
 page:
-add:
+add: dirt
 xref:
 see:
 index:
-item: "#item-ea4103f87"
+item: "#item-ab4fb4b56"
 unparsed:
-line: 'Head: unicorn|Entry: 1530 [Unicorn]|#item-ea4103f87'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1185,868,480,76/full/0/default.jpg
+line: 'Head: unclean|Entry: 1916 [Unclean]|Add: dirt|#item-ab4fb4b56'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/441,1908,514,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560878469799
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872680405
+sort_value: '305011908'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1185,868,480,76/150,/0/default.jpg
-label: unicorn
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/441,1908,514,155/150,/0/default.jpg
+label: unclean
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '326'
+order: '325'
 layout: index_item
 collection: index5
 ---

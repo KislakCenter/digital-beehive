@@ -2,9 +2,8 @@
 pid: index_1994
 volume: Volume 3
 image_number: '25'
-head: Jewel
-entry: "<a href='/digital-beehive/alpha3/alpha_0454/'>a</a>|<a href='/digital-beehive/num7/num_2536/'>1657
-  [Jewel]</a>"
+head: incest
+entry: "<a href='/digital-beehive/num3/num_0726/'>570 [Incest]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3d9f2ca4a"
+item: "#item-27146b0db"
 unparsed:
-line: 'Head: Jewel|Entry: a|Entry: 1657 [Jewel]|#item-3d9f2ca4a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/166,2575,482,141/full/0/default.jpg
+line: 'Head: incest|Entry: 570 [Incest]|#item-27146b0db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,801,360,83/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661627429
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670743143
+sort_value: '302530801'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/166,2575,482,141/150,/0/default.jpg
-label: Jewel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,801,360,83/150,/0/default.jpg
+label: incest
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

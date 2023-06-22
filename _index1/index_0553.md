@@ -2,8 +2,8 @@
 pid: index_0553
 volume: Volume 3
 image_number: '12'
-head: "[:22.]"
-entry:
+head: casting of medals
+entry: 4539 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6e8c2ccdb"
-unparsed: 'Type: Index|Insertion Xref: [:22.]|#item-6e8c2ccdb'
-line: 'Type: Index|Insertion Xref: [:22.]|#item-6e8c2ccdb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1637,2394,178,157/full/0/default.jpg
+item: "#item-c3af32ad1"
+unparsed:
+line: 'Head: casting of medals|Entry: 4539 [PAGE_MISSING]|#item-c3af32ad1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/417,1544,710,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275549500
+annotation_uri: http://dev.llgc.org.uk/annotation/1532097854490
+sort_value: '301211544'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1637,2394,178,157/150,/0/default.jpg
-label: "[:22.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/417,1544,710,111/150,/0/default.jpg
+label: casting of medals
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4728/'>Chalk</a>"
+insertion_xref:
 order: '0552'
 layout: index_item
 collection: index1

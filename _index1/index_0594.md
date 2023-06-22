@@ -2,8 +2,8 @@
 pid: index_0594
 volume: Volume 3
 image_number: '12'
-head: chevy-chase
-entry: "<a href='/digital-beehive/num11/num_3495/'>4802 [Chevy chase]</a>"
+head: chameleon
+entry: "<a href='/digital-beehive/num5/num_1720/'>1245 [Salamander]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7f63fb207"
+item: "#item-7fbb4d36c"
 unparsed:
-line: 'Head: chevy-chase|Entry: 4802 [Chevy chase]|#item-7f63fb207'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1813,1577,627,138/full/0/default.jpg
+line: 'Head: chameleon|Entry: 1245 [Salamander]|#item-7fbb4d36c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,2656,560,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459807427
+annotation_uri: http://dev.llgc.org.uk/annotation/1532102290076
+sort_value: '301222656'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1813,1577,627,138/150,/0/default.jpg
-label: chevy-chase
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,2656,560,117/150,/0/default.jpg
+label: chameleon
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_3419
 volume: Volume 3
 image_number: '40'
-head: round
-entry: "<a href='/digital-beehive/num4/num_1086/'>867 [a Circle]</a>"
+head: riband
+entry: "<a href='/digital-beehive/num2/num_0406/'>348 [a Band]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9625ebc12"
+item: "#item-3e2b4cbcb"
 unparsed:
-line: 'Head: round|Entry: 867 [a Circle]|#item-9625ebc12'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1152,2335,369,84/full/0/default.jpg
+line: 'Head: riband|Entry: 348 [a Band]|#item-3e2b4cbcb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/447,1481,415,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233812014
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231758533
+sort_value: '304011481'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1152,2335,369,84/150,/0/default.jpg
-label: round
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/447,1481,415,118/150,/0/default.jpg
+label: riband
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

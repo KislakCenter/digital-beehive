@@ -2,24 +2,25 @@
 pid: index_2463
 volume: Volume 3
 image_number: '30'
-head: martial discipline
-entry:
+head: medals
+entry: 4539 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4455/'>war</a>"
+see:
 index:
-item: "#item-c8bb7cbb6"
+item: "#item-eeecbaef6"
 unparsed:
-line: 'Head: martial discipline|See: war|#item-c8bb7cbb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/397,836,739,145/full/0/default.jpg
+line: 'Head: medals|Entry: 4539 [PAGE_MISSING]|#item-eeecbaef6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/431,3349,432,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263371644
+annotation_uri: http://dev.llgc.org.uk/annotation/1560266247149
+sort_value: '303013349'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/397,836,739,145/150,/0/default.jpg
-label: martial discipline
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/431,3349,432,141/150,/0/default.jpg
+label: medals
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

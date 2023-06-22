@@ -2,9 +2,8 @@
 pid: index_2383
 volume: Volume 3
 image_number: '29'
-head: manage
-entry: "<a href='/digital-beehive/num1/num_0161/'>155 [Use]</a>|<a href='/digital-beehive/num7/num_2332/'>1561
-  [Manage]</a>"
+head: magnificence
+entry: "<a href='/digital-beehive/num4/num_1195/'>912 [Magnificen(ce:)]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-2a28c435c"
+item: "#item-6b7f20efe"
 unparsed:
-line: 'Head: manage|Entry: 155 [Use]|Entry: 1561 [Manage]|#item-2a28c435c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1522,2216,605,173/full/0/default.jpg
+line: 'Head: magnificence|Entry: 912 [Magnificen(ce:)]|#item-6b7f20efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/819,2826,558,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195923807
+annotation_uri: http://dev.llgc.org.uk/annotation/1560187149848
+sort_value: '302922826'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1522,2216,605,173/150,/0/default.jpg
-label: manage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/819,2826,558,177/150,/0/default.jpg
+label: magnificence
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

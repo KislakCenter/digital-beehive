@@ -2,9 +2,8 @@
 pid: index_2767
 volume: Volume 3
 image_number: '33'
-head: oil
-entry: "<a href='/digital-beehive/alpha4/alpha_0663/'>a</a>|<a href='/digital-beehive/num8/num_2803/'>1910
-  [Oil]</a>"
+head: to occupy
+entry: "<a href='/digital-beehive/num1/num_0257/'>239 [Possession]</a>"
 topic:
 first_letter: O
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-f2f0bedc7"
+item: "#item-c296b4ec9"
 unparsed:
-line: 'Head: oil|Entry: a|Entry: 1910 [Oil]|#item-f2f0bedc7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/822,1092,478,141/full/0/default.jpg
+line: 'Head: to occupy|Entry: 239 [Possession]|#item-c296b4ec9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/102,3130,645,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348138712
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347623287
+sort_value: '303313130'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/822,1092,478,141/150,/0/default.jpg
-label: oil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/102,3130,645,186/150,/0/default.jpg
+label: to occupy
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0017'
+order: '0015'
 layout: index_item
 collection: index4
 ---

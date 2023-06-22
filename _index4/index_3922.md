@@ -2,8 +2,8 @@
 pid: index_3922
 volume: Volume 3
 image_number: '45'
-head: substantial
-entry: "<a href='/digital-beehive/num1/num_0094/'>92 [Substantial]</a>"
+head: to Strain liquor
+entry: "<a href='/digital-beehive/num1/num_0186/'>177 [to Strain liquor]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c48e90069"
+item: "#item-e78c3bdac"
 unparsed:
-line: 'Head: substantial|Entry: 92 [Substantial]|#item-c48e90069'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1606,1637,485,140/full/0/default.jpg
+line: 'Head: to Strain liquor|Entry: 177 [to Strain liquor]|#item-e78c3bdac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,981,458,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530468809311
+annotation_uri: http://dev.llgc.org.uk/annotation/1530461157773
+sort_value: '304520981'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1606,1637,485,140/150,/0/default.jpg
-label: substantial
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,981,458,93/150,/0/default.jpg
+label: to Strain liquor
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

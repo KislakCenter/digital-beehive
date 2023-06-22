@@ -2,8 +2,9 @@
 pid: index_3106
 volume: Volume 3
 image_number: '36'
-head: English poets
-entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>"
+head: praise of men
+entry: "<a href='/digital-beehive/alpha5/num_1505/'>a</a>|<a href='/digital-beehive/num5/num_1505/'>1112
+  [Praise of God or Men]</a>|1871 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,17 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-29db00300"
+item: "#item-0e5a423f4"
 unparsed:
-line: 'Head: English poets|Entry: 1585 [Verses]|#item-29db00300'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/432,2529,596,168/full/0/default.jpg
+line: 'Head: praise of men|Entry: a|Entry: 1112 [Praise of God or Men]|Entry: 1871
+  [PAGE_MISSING]|#item-0e5a423f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1908,619,667,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208644532
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439863205
+sort_value: '303630619'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/432,2529,596,168/150,/0/default.jpg
-label: English poets
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1908,619,667,112/150,/0/default.jpg
+label: praise of men
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue:
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
 insertion_xref:
 order: '0354'
 layout: index_item

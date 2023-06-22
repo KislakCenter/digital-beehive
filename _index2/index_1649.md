@@ -2,24 +2,25 @@
 pid: index_1649
 volume: Volume 3
 image_number: '22'
-head: God be thanks
-entry: "<a href='/digital-beehive/num6/num_2070/'>1426 [Thanks be to God]</a>"
+head: God's love
+entry:
 topic:
 first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
 index:
-item: "#item-a5104d0ff"
+item: "#item-2f34a3bc9"
 unparsed:
-line: 'Head: God be thanks|Entry: 1426 [Thanks be to God]|#item-a5104d0ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1137,1431,609,103/full/0/default.jpg
+line: 'Head: God''s love|See: love|#item-2f34a3bc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,2153,419,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046978615
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047656525
+sort_value: '302222153'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1137,1431,609,103/150,/0/default.jpg
-label: God be thanks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,2153,419,98/150,/0/default.jpg
+label: God's love
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

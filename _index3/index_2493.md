@@ -2,8 +2,9 @@
 pid: index_2493
 volume: Volume 3
 image_number: '30'
-head: mental reserv
-entry: "<a href='/digital-beehive/num4/num_1297/'>973 [Mental Reservations]</a>"
+head: merry
+entry: "<a href='/digital-beehive/num6/num_1994/'>1392 [Joy]</a>|<a href='/digital-beehive/num8/num_2864/'>1940
+  [Joy]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ad2e9d274"
+item: "#item-c8dfa3810"
 unparsed:
-line: 'Head: mental reserv|Entry: 973 [Mental Reservations]|#item-ad2e9d274'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1138,2017,629,163/full/0/default.jpg
+line: 'Head: merry|Entry: 1392 [Joy]|Entry: 1940 [Joy]|#item-c8dfa3810'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1122,3173,593,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268491732
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269649560
+sort_value: '303023173'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1138,2017,629,163/150,/0/default.jpg
-label: mental reserv
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1122,3173,593,140/150,/0/default.jpg
+label: merry
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_2928
 volume: Volume 3
 image_number: '34'
-head: partiality
-entry: "<a href='/digital-beehive/alpha4/alpha_0689/'>a</a>|<a href='/digital-beehive/num4/num_1188/'>910
-  [Partial]</a>|4575 [PAGE_MISSING]"
+head: pawn
+entry: "<a href='/digital-beehive/alpha4/alpha_0694/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-64d406f95"
+item: "#item-39feb8380"
 unparsed:
-line: 'Head: partiality|Entry: a|Entry: 910 [Partial]|Entry: 4575 [PAGE_MISSING]|#item-64d406f95'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1077,3148,897,171/full/0/default.jpg
+line: 'Head: pawn|Entry: a|#item-39feb8380'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1799,2442,492,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494746333
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495814433
+sort_value: '303432442'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1077,3148,897,171/150,/0/default.jpg
-label: partiality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1799,2442,492,181/150,/0/default.jpg
+label: pawn
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

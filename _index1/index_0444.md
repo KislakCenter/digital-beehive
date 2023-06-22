@@ -2,24 +2,25 @@
 pid: index_0444
 volume: Volume 3
 image_number: '11'
-head: calf
-entry: "<a href='/digital-beehive/num9/num_3115/'>2172 [Calf]</a>"
+head: breakfast
+entry: "<a href='/digital-beehive/num5/num_1668/'>1218 [Break-fast]</a>"
 topic:
-first_letter: C
+first_letter: B
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0643/'>cattle</a>"
+see:
 index:
-item: "#item-72ad4b4e4"
+item: "#item-0c79b54fb"
 unparsed:
-line: 'Head: calf|See: cattle|Entry: 2172 [Calf]|#item-72ad4b4e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,449,648,104/full/0/default.jpg
+line: 'Head: breakfast|Entry: 1218 [Break-fast]|#item-0c79b54fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1292,519,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494249871
+annotation_uri: http://dev.llgc.org.uk/annotation/1531418149449
+sort_value: '301111292'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,449,648,104/150,/0/default.jpg
-label: calf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1292,519,139/150,/0/default.jpg
+label: breakfast
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

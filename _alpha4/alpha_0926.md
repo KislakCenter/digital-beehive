@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0530/'>Learning</a>|<a href='/digi
   href='/digital-beehive/num1/num_0109/'>105 [a Pretender to learning]</a>|866 [Retain]|<a
   href='/digital-beehive/num6/num_1891/'>1341 [Student]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3973/'>Student</a>"
+index: "<a href='/digital-beehive/index4/index_3947/'>Student</a>"
 item: "#item-940dd7ef9"
 unparsed:
 line: 'Entry: Student|Topic: Student|Xref: Learning|Xref: Pedantery|Xref: 105 [a Pretender
@@ -20,6 +20,7 @@ line: 'Entry: Student|Topic: Student|Xref: Learning|Xref: Pedantery|Xref: 105 [a
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/686,1366,3083,632/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532550795801
+sort_value: '205611366'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/686,1366,600,180/250,/0/default.jpg
 label: Student

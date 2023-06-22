@@ -2,26 +2,25 @@
 pid: index_3631
 volume: Volume 3
 image_number: '42'
-head: serpent
-entry: "<a href='/digital-beehive/num5/num_1731/'>1250 [Serpent]</a>|<a href='/digital-beehive/num7/num_2290/'>1539
-  [Serpents]</a>|<a href='/digital-beehive/num9/num_3056/'>2119 [Serpents]</a>"
+head: Selling. to sell
+entry: "<a href='/digital-beehive/num3/num_0797/'>604 [to Sell]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3709/'>snake</a>"
+see:
 index:
-item: "#item-4fb75ddf2"
+item: "#item-7b2a60320"
 unparsed:
-line: 'Head: serpent|See: snake|Entry: 1250 [Serpent]|Entry: 1539 [Serpents]|Entry:
-  2119 [Serpents]|#item-4fb75ddf2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1125,916,739,236/full/0/default.jpg
+line: 'Head: Selling. to sell|Entry: 604 [to Sell]|#item-7b2a60320'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/337,2712,559,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573864206
+annotation_uri: http://dev.llgc.org.uk/annotation/1559245015862
+sort_value: '304212712'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1125,916,739,236/150,/0/default.jpg
-label: serpent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/337,2712,559,132/150,/0/default.jpg
+label: Selling. to sell
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

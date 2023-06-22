@@ -2,9 +2,8 @@
 pid: index_3119
 volume: Volume 3
 image_number: '36'
-head: poverty
-entry: "<a href='/digital-beehive/alpha4/alpha_0725/'>a</a>|<a href='/digital-beehive/num5/num_1511/'>1117
-  [Poverty]</a>|<a href='/digital-beehive/num10/num_3332/'>2360 [Poverty]</a>"
+head: precise
+entry: "<a href='/digital-beehive/num1/num_0153/'>147 [Exactness]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bbd440016"
+item: "#item-62c81c7ab"
 unparsed:
-line: 'Head: poverty|Entry: a|Entry: 1117 [Poverty]|Entry: 2360 [Poverty]|#item-bbd440016'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1152,3036,708,169/full/0/default.jpg
+line: 'Head: precise|Entry: 147 [Exactness]|#item-62c81c7ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1882,1898,446,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439195017
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440503966
+sort_value: '303631898'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1152,3036,708,169/150,/0/default.jpg
-label: poverty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1882,1898,446,111/150,/0/default.jpg
+label: precise
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

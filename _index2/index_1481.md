@@ -2,8 +2,9 @@
 pid: index_1481
 volume: Volume 3
 image_number: '20'
-head: to fill
-entry: "<a href='/digital-beehive/num3/num_1014/'>701 [To Fillup]</a>"
+head: flight
+entry: "<a href='/digital-beehive/alpha2/alpha_0336/'>a</a>|<a href='/digital-beehive/num3/num_0911/'>660
+  [Flight]</a>|<a href='/digital-beehive/num6/num_1875/'>1333 [Flight]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ada71777b"
+item: "#item-0eb4770dd"
 unparsed:
-line: 'Head: to fill|Entry: 701 [To Fillup]|#item-ada71777b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1099,3471,443,167/full/0/default.jpg
+line: 'Head: flight|Entry: a|Entry: 660 [Flight]|Entry: 1333 [Flight]|#item-0eb4770dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1802,3244,635,238/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562599765459
+annotation_uri: http://dev.llgc.org.uk/annotation/1562617677469
+sort_value: '302033244'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1099,3471,443,167/150,/0/default.jpg
-label: to fill
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1802,3244,635,238/150,/0/default.jpg
+label: flight
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

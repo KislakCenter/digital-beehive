@@ -2,24 +2,26 @@
 pid: index_0920
 volume: Volume 3
 image_number: '15'
-head: Country life
-entry:
+head: cry
+entry: "<a href='/digital-beehive/num2/num_0437/'>367 [Cry]</a>|<a href='/digital-beehive/num9/num_3157/'>2214
+  [Cry]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0007/'>agricult</a>"
+see:
 index:
-item: "#item-07ba599ea"
+item: "#item-86957c4f4"
 unparsed:
-line: 'Head: Country life|See: agricult|#item-07ba599ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/157,2009,652,115/full/0/default.jpg
+line: 'Head: cry|Entry: 367 [Cry]|Entry: 2214 [Cry]|#item-86957c4f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/848,2807,433,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974651182
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577875832
+sort_value: '301522807'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/157,2009,652,115/150,/0/default.jpg
-label: Country life
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/848,2807,433,120/150,/0/default.jpg
+label: cry
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

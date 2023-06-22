@@ -2,24 +2,26 @@
 pid: index_2870
 volume: Volume 3
 image_number: '34'
-head: paraphrase
-entry:
+head: papists
+entry: "<a href='/digital-beehive/num2/num_0494/'>403 [Papists]</a>|<a href='/digital-beehive/num7/num_2559/'>1668
+  [Papists]</a>|<a href='/digital-beehive/num8/num_2754/'>1821 [Papists]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1617/'>gloss</a>"
+see:
 index:
-item: "#item-e7fe1ad2b"
+item: "#item-31e104bfe"
 unparsed:
-line: 'Head: paraphrase|See: gloss|#item-e7fe1ad2b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1139,1293,714,217/full/0/default.jpg
+line: 'Head: papists|Entry: 403 [Papists]|Entry: 1668 [Papists]|Entry: 1821 [Papists]|#item-31e104bfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1161,638,743,199/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538493690931
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492514004
+sort_value: '303420638'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1139,1293,714,217/150,/0/default.jpg
-label: paraphrase
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1161,638,743,199/150,/0/default.jpg
+label: papists
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

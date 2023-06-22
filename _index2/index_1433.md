@@ -2,24 +2,25 @@
 pid: index_1433
 volume: Volume 3
 image_number: '20'
-head: fish pond
-entry:
+head: fern
+entry: 4502 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3505/'>sea</a>"
+see:
 index:
-item: "#item-c8f89c40f"
+item: "#item-c3f72bb6a"
 unparsed:
-line: 'Head: fish pond|See: sea|#item-c8f89c40f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,1879,556,179/full/0/default.jpg
+line: 'Head: fern|Entry: 4502 [PAGE_MISSING]|#item-c3f72bb6a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1508,2410,388,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562615035307
+annotation_uri: http://dev.llgc.org.uk/annotation/1562185502446
+sort_value: '302022410'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,1879,556,179/150,/0/default.jpg
-label: fish pond
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1508,2410,388,155/150,/0/default.jpg
+label: fern
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,9 +2,8 @@
 pid: index_4234
 volume: Volume 3
 image_number: '48'
-head: trouble
-entry: "<a href='/digital-beehive/num2/num_0318/'>282 [Troublesom fellow]</a>|<a href='/digital-beehive/num3/num_0913/'>661
-  [To trouble]</a>|<a href='/digital-beehive/num6/num_1919/'>1354 [Perplexity]</a>"
+head: "[:6.]"
+entry:
 topic:
 first_letter: T
 page:
@@ -12,20 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-e86f89b59"
-unparsed:
-line: 'Head: trouble|Entry: 282 [Troublesom fellow]|Entry: 661 [To trouble]|Entry:
-  1354 [Perplexity]|#item-e86f89b59'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1796,2588,691,148/full/0/default.jpg
+item: "#item-549c2d359"
+unparsed: 'Type: Index|Insertion Xref: [:6.]|#item-549c2d359'
+line: 'Type: Index|Insertion Xref: [:6.]|#item-549c2d359'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/2366,962,133,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089797078
+annotation_uri: http://dev.llgc.org.uk/annotation/1562001199677
+sort_value: '304830962'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1796,2588,691,148/150,/0/default.jpg
-label: trouble
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/2366,962,133,107/150,/0/default.jpg
+label: "[:6.]"
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '197'
+insertion_xref: "<a href='/digital-beehive/index5/index_4669/'>12 Tribes of Isr</a>"
+order: '196'
 layout: index_item
 collection: index5
 ---

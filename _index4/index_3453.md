@@ -2,8 +2,8 @@
 pid: index_3453
 volume: Volume 3
 image_number: '40'
-head: ABC rhymes & meeters
-entry: "<a href='/digital-beehive/num7/num_2624/'>1701 [Patience]</a>"
+head: rosin
+entry: "<a href='/digital-beehive/num9/num_3084/'>2145 [Turpentine]</a>"
 topic:
 first_letter: R
 page:
@@ -11,17 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-1b5ea7eee"
+item: "#item-14714ac57"
 unparsed:
-line: 'Head: ABC rhymes & meeters|Entry: 1701 [Patience]|#item-1b5ea7eee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/339,1327,802,151/full/0/default.jpg
+line: 'Head: rosin|Entry: 2145 [Turpentine]|#item-14714ac57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,1818,417,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231735864
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233633379
+sort_value: '304021818'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/339,1327,802,151/150,/0/default.jpg
-label: ABC rhymes & meeters
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,1818,417,127/150,/0/default.jpg
+label: rosin
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: The intended point of reference meant by "1701" is unclear.
+issue:
 insertion_xref:
 order: '0701'
 layout: index_item

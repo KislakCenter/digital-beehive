@@ -2,25 +2,25 @@
 pid: index_2270
 volume: Volume 3
 image_number: '28'
-head: leader
-entry: "<a href='/digital-beehive/alpha3/alpha_0527/'>a</a>|<a href='/digital-beehive/num6/num_1779/'>1280
-  [Leader]</a>"
+head: levity
+entry:
 topic:
 first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4420/'>unstable</a>"
 index:
-item: "#item-0eaf4d2ab"
+item: "#item-244d49d3e"
 unparsed:
-line: 'Head: leader|Entry: a|Entry: 1280 [Leader]|#item-0eaf4d2ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/407,1197,517,104/full/0/default.jpg
+line: 'Head: levity|See: unstable|#item-244d49d3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,1233,629,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841845723
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845542601
+sort_value: '302821233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/407,1197,517,104/150,/0/default.jpg
-label: leader
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,1233,629,140/150,/0/default.jpg
+label: levity
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

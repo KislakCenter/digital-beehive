@@ -2,8 +2,8 @@
 pid: index_2842
 volume: Volume 3
 image_number: '34'
-head: orthography
-entry: "<a href='/digital-beehive/num2/num_0595/'>476 [Orthography]</a>"
+head: overthwart
+entry: 735 [PAGE_MISSING]
 topic:
 first_letter: O
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-581025b93"
+item: "#item-7d7cae382"
 unparsed:
-line: 'Head: orthography|Entry: 476 [Orthography]|#item-581025b93'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/512,337,640,180/full/0/default.jpg
+line: 'Head: overthwart|Entry: 735 [PAGE_MISSING]|#item-7d7cae382'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/479,1260,630,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538424955981
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425271193
+sort_value: '303411260'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/512,337,640,180/150,/0/default.jpg
-label: orthography
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/479,1260,630,128/150,/0/default.jpg
+label: overthwart
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

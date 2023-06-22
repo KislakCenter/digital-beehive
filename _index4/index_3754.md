@@ -2,8 +2,8 @@
 pid: index_3754
 volume: Volume 3
 image_number: '43'
-head: sleepwalkers
-entry: "<a href='/digital-beehive/num7/num_2429/'>1610 [Sleeping-Walk(:ing:)ers]</a>"
+head: sloe
+entry: "<a href='/digital-beehive/num3/num_0998/'>695 [Sloe-bush]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7d02a08ad"
+item: "#item-920827042"
 unparsed:
-line: 'Head: sleepwalkers|Entry: 1610 [Sleeping-Walk(:ing:)ers]|#item-7d02a08ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/865,2293,646,139/full/0/default.jpg
+line: 'Head: sloe|Entry: 695 [Sloe-bush]|#item-920827042'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/902,2811,318,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584534606
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584763024
+sort_value: '304322811'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/865,2293,646,139/150,/0/default.jpg
-label: sleepwalkers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/902,2811,318,107/150,/0/default.jpg
+label: sloe
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0774/'>Railing</a>|11 [Ill names]|
   href='/digital-beehive/num1/num_0126/'>122 [Perverting]</a>|<a href='/digital-beehive/num2/num_0313/'>278
   [Accusation]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0092/'>accusation</a>"
+index: "<a href='/digital-beehive/index1/index_0029/'>accusation</a>"
 item: "#item-f602cdcb2"
 unparsed:
 line: 'Entry: Accusation|Topic: Accusation|Xref: Railing|Xref: 11 [Ill names]|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Accusation|Topic: Accusation|Xref: Railing|Xref: 11 [Ill names]|Xr
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/248,2326,3231,551/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490034801392
+sort_value: '143112326'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/248,2326,600,180/250,/0/default.jpg
 label: Accusation

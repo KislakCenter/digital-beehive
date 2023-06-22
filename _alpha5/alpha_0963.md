@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0701/'>554 [Tithes]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4148/'>tithes</a>"
+index: "<a href='/digital-beehive/index5/index_4160/'>tithes</a>"
 item: "#item-a3075b99e"
 unparsed:
 line: 'Entry: Tithes|Topic: Tithes|Xref: 554 [Tithes]|Index: tithes|#item-a3075b99e'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/309,354,3047,510/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565113969601
+sort_value: '205910354'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/309,354,600,180/250,/0/default.jpg
 label: Tithes

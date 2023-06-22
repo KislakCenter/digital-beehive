@@ -2,8 +2,8 @@
 pid: index_2431
 volume: Volume 3
 image_number: '30'
-head: Mary
-entry: "<a href='/digital-beehive/num4/num_1141/'>887 [Mary]</a>"
+head: Marlborough
+entry: "<a href='/digital-beehive/num6/num_1876/'>1334 [Marlborough]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8f62b4742"
+item: "#item-17b6f038f"
 unparsed:
-line: 'Head: Mary|Entry: 887 [Mary]|#item-8f62b4742'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/418,1204,345,105/full/0/default.jpg
+line: 'Head: Marlborough|Entry: 1334 [Marlborough]|#item-17b6f038f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,509,578,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263600885
+annotation_uri: http://dev.llgc.org.uk/annotation/1560262988698
+sort_value: '303010509'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/418,1204,345,105/150,/0/default.jpg
-label: Mary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,509,578,139/150,/0/default.jpg
+label: Marlborough
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

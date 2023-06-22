@@ -2,8 +2,8 @@
 pid: index_2991
 volume: Volume 3
 image_number: '35'
-head: pharisees
-entry: "<a href='/digital-beehive/num2/num_0368/'>319 [Pharisees]</a>"
+head: phylacteries
+entry: "<a href='/digital-beehive/num8/num_2804/'>1911 [Phylacteries]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-fb67585ec"
+item: "#item-c45098871"
 unparsed:
-line: 'Head: pharisees|Entry: 319 [Pharisees]|#item-fb67585ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/859,1981,437,158/full/0/default.jpg
+line: 'Head: phylacteries|Entry: 1911 [Phylacteries]|#item-c45098871'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/870,3128,545,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974525459
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974927689
+sort_value: '303523128'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/859,1981,437,158/150,/0/default.jpg
-label: pharisees
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/870,3128,545,158/150,/0/default.jpg
+label: phylacteries
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_0742
 volume: Volume 3
 image_number: '13'
-head: coins
-entry:
+head: common
+entry: "<a href='/digital-beehive/num1/num_0172/'>164 [Com[m]on]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a7096c539"
+item: "#item-a1ca52818"
 unparsed:
-line: 'Head: coins|Page: p.6 [Image 1.66]|#item-a7096c539'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/863,3075,330,131/full/0/default.jpg
+line: 'Head: common|Entry: 164 [Com[m]on]|#item-a1ca52818'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1536,2349,472,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608930571
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611657984
+sort_value: '301332349'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/863,3075,330,131/150,/0/default.jpg
-label: coins
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1536,2349,472,103/150,/0/default.jpg
+label: common
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

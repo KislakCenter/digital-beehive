@@ -2,9 +2,8 @@
 pid: index_0111
 volume: Volume 3
 image_number: '7'
-head: agony
-entry: "<a href='/digital-beehive/alpha1/alpha_0013/'>a</a>|<a href='/digital-beehive/num5/num_1433/'>1065
-  [Agony]</a>"
+head: alphabetu[m] rhytmicu[m]
+entry: "<a href='/digital-beehive/num7/num_2624/'>1701 [Patience]</a>"
 topic:
 first_letter: A
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-617650a3e"
+item: "#item-763abcbac"
 unparsed:
-line: 'Head: agony|Entry: a|Entry: 1065 [Agony]|#item-617650a3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3173,465,119/full/0/default.jpg
+line: 'Head: alphabetu[m] rhytmicu[m]|Entry: 1701 [Patience]|#item-763abcbac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1589,2397,718,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767567535
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770489922
+sort_value: '300732397'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3173,465,119/150,/0/default.jpg
-label: agony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1589,2397,718,139/150,/0/default.jpg
+label: alphabetu[m] rhytmicu[m]
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

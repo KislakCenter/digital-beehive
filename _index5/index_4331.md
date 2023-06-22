@@ -2,28 +2,29 @@
 pid: index_4331
 volume: Volume 3
 image_number: '49'
-head: two masters
-entry: "<a href='/digital-beehive/num10/num_3360/'>2388 [Two Masters]</a>"
+head: St Vincent
+entry: "<a href='/digital-beehive/num7/num_2238/'>1513 [St Vincent]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b589f6a63"
+item: "#item-f5cc99534"
 unparsed:
-line: 'Head: two masters|Entry: 2388 [Two Masters]|#item-b589f6a63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/215,2860,524,99/full/0/default.jpg
+line: 'Head: St Vincent|Entry: 1513 [St Vincent]|#item-f5cc99534'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1610,1305,500,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657186150
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660239538
+sort_value: '304931305'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/215,2860,524,99/150,/0/default.jpg
-label: two masters
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1610,1305,500,135/150,/0/default.jpg
+label: St Vincent
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '294'
+order: '293'
 layout: index_item
 collection: index5
 ---

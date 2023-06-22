@@ -2,24 +2,25 @@
 pid: index_1511
 volume: Volume 3
 image_number: '21'
-head: following
-entry: 853 [PAGE_MISSING]
+head: a fork
+entry: "<a href='/digital-beehive/num3/num_0931/'>672 [A Fork]</a>"
 topic:
 first_letter: F
 page:
-add: Imitation
+add:
 xref:
 see:
 index:
-item: "#item-c014a9ad1"
+item: "#item-264918112"
 unparsed:
-line: 'Head: following|Entry: 853 [PAGE_MISSING]|Add: Imitation|#item-c014a9ad1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/185,988,533,191/full/0/default.jpg
+line: 'Head: a fork|Entry: 672 [A Fork]|#item-264918112'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/207,2909,373,62/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565622540634
+annotation_uri: http://dev.llgc.org.uk/annotation/1531503224614
+sort_value: '302112909'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/185,988,533,191/150,/0/default.jpg
-label: following
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/207,2909,373,62/150,/0/default.jpg
+label: a fork
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

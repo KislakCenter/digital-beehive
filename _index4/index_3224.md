@@ -2,27 +2,28 @@
 pid: index_3224
 volume: Volume 3
 image_number: '38'
-head: "[:44.]"
-entry:
+head: pulse
+entry: "<a href='/digital-beehive/num6/num_2048/'>1417 [Pulse]</a>"
 topic:
-first_letter: R
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-3c3fc3cf8"
-unparsed: 'Type: Index|Insertion Xref: [:44.]|#item-3c3fc3cf8'
-line: 'Type: Index|Insertion Xref: [:44.]|#item-3c3fc3cf8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/2307,1040,255,148/full/0/default.jpg
+item: "#item-ee68407d8"
+unparsed:
+line: 'Head: pulse|Entry: 1417 [Pulse]|#item-ee68407d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/431,652,404,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558462787077
+annotation_uri: http://dev.llgc.org.uk/annotation/1558451973099
+sort_value: '303810652'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/2307,1040,255,148/150,/0/default.jpg
-label: "[:44.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/431,652,404,112/150,/0/default.jpg
+label: pulse
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4725/'>Rat</a>"
+insertion_xref:
 order: '0472'
 layout: index_item
 collection: index4

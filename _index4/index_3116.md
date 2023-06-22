@@ -2,24 +2,25 @@
 pid: index_3116
 volume: Volume 3
 image_number: '36'
-head: poison
-entry: "<a href='/digital-beehive/num7/num_2292/'>1540 [Poisoning]</a>"
+head: precedency
+entry: "<a href='/digital-beehive/alpha4/alpha_0731/'>a</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4327/'>venom</a>"
+see:
 index:
-item: "#item-96a984c27"
+item: "#item-e2af07b89"
 unparsed:
-line: 'Head: poison|See: venom|Entry: 1540 [Poisoning]|#item-96a984c27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/452,2951,682,144/full/0/default.jpg
+line: 'Head: precedency|Entry: a|#item-e2af07b89'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1868,1659,553,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548437996503
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440322576
+sort_value: '303631659'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/452,2951,682,144/150,/0/default.jpg
-label: poison
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1868,1659,553,96/150,/0/default.jpg
+label: precedency
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -17,6 +17,7 @@ line: 'Head: plantain|Entry: 2143 [Plantain]|#item-281604f01'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1544,3484,585,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1539977307608
+sort_value: '303533484'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1544,3484,585,165/150,/0/default.jpg
 label: plantain

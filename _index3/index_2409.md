@@ -2,24 +2,25 @@
 pid: index_2409
 volume: Volume 3
 image_number: '29'
-head: first love
-entry: "<a href='/digital-beehive/num7/num_2411/'>1601 [First Love]</a>"
+head: maneaters
+entry: "<a href='/digital-beehive/num2/num_0606/'>485 [Canibal]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-55b6f1813"
+item: "#item-357eccd2c"
 unparsed:
-line: 'Head: first love|Entry: 1601 [First Love]|#item-55b6f1813'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/163,2985,437,129/full/0/default.jpg
+line: 'Head: maneaters|Entry: 485 [Canibal]|#item-357eccd2c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,1868,513,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180308485
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195671184
+sort_value: '302931868'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/163,2985,437,129/150,/0/default.jpg
-label: first love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,1868,513,112/150,/0/default.jpg
+label: maneaters
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

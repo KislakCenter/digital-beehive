@@ -2,24 +2,25 @@
 pid: index_0547
 volume: Volume 3
 image_number: '12'
-head: cellar
-entry: 826 [PAGE_MISSING]
+head: carpenters rule
+entry:
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-6cb55557d"
+item: "#item-89a667290"
 unparsed:
-line: 'Head: cellar|Entry: 826 [PAGE_MISSING]|#item-6cb55557d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1121,1108,382,103/full/0/default.jpg
+line: 'Head: carpenters rule|Page: p.39 [Image 1.99]|#item-89a667290'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/422,786,596,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532099271839
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496908282
+sort_value: '301210786'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1121,1108,382,103/150,/0/default.jpg
-label: cellar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/422,786,596,117/150,/0/default.jpg
+label: carpenters rule
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

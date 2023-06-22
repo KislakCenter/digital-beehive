@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/num6/num_2014/'>1402
   [Lasciviousness]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2155/'>lascivious</a>"
+index: "<a href='/digital-beehive/index3/index_2202/'>lascivious</a>"
 item: "#item-8fba8eb7b"
 unparsed:
 line: 'Entry: Lasciviousness|Topic: Lasciviousness|Xref: Epicurism|Xref: 1402 [Lasciviousness]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Lasciviousness|Topic: Lasciviousness|Xref: Epicurism|Xref: 1402 [L
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/680,1688,3091,616/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564766144431
+sort_value: '202611688'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/680,1688,600,180/250,/0/default.jpg
 label: Lasciviousness

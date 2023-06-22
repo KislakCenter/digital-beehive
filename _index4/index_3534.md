@@ -2,24 +2,25 @@
 pid: index_3534
 volume: Volume 3
 image_number: '41'
-head: 4. seasons
-entry: "<a href='/digital-beehive/num10/num_3260/'>2296 [Four Seasons]</a>"
+head: to scald
+entry: "<a href='/digital-beehive/num3/num_0932/'>672 [To Burn]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-82d086834"
+item: "#item-58f555fa2"
 unparsed:
-line: 'Head: 4. seasons|Page: p.26 [Image 1.86]|Entry: 2296 [Four Seasons]|#item-82d086834'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1573,1224,742,136/full/0/default.jpg
+line: 'Head: to scald|Entry: 672 [To Burn]|#item-58f555fa2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/140,2871,442,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242420256
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240061130
+sort_value: '304112871'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1573,1224,742,136/150,/0/default.jpg
-label: 4. seasons
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/140,2871,442,160/150,/0/default.jpg
+label: to scald
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

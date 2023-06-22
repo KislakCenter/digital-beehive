@@ -2,24 +2,25 @@
 pid: index_3261
 volume: Volume 3
 image_number: '38'
-head: to ratify
-entry: "<a href='/digital-beehive/num3/num_0889/'>649 [Consent]</a>"
+head: to quicken
+entry: "<a href='/digital-beehive/num4/num_1190/'>911 [To Quicken]</a>"
 topic:
-first_letter: R
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6e80b0927"
+item: "#item-0eda6fe88"
 unparsed:
-line: 'Head: to ratify|Entry: 649 [Consent]|#item-6e80b0927'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1871,1261,470,145/full/0/default.jpg
+line: 'Head: to quicken|Entry: 911 [To Quicken]|#item-0eda6fe88'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1159,958,563,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460859596
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455144305
+sort_value: '303820958'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1871,1261,470,145/150,/0/default.jpg
-label: to ratify
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1159,958,563,190/150,/0/default.jpg
+label: to quicken
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

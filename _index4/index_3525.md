@@ -2,9 +2,8 @@
 pid: index_3525
 volume: Volume 3
 image_number: '41'
-head: schism
-entry: "<a href='/digital-beehive/num3/num_0635/'>505 [Sect]</a>|<a href='/digital-beehive/num6/num_1954/'>1373
-  [Sects]</a>"
+head: Savin
+entry: "<a href='/digital-beehive/num3/num_0992/'>692 [Savin]</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d4b71e864"
+item: "#item-738631f07"
 unparsed:
-line: 'Head: schism|Entry: 505 [Sect]|Entry: 1373 [Sects]|#item-d4b71e864'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/837,894,633,132/full/0/default.jpg
+line: 'Head: Savin|Entry: 692 [Savin]|#item-738631f07'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/192,2103,407,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240409266
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239253263
+sort_value: '304112103'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/837,894,633,132/150,/0/default.jpg
-label: schism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/192,2103,407,116/150,/0/default.jpg
+label: Savin
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

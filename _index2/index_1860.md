@@ -2,8 +2,8 @@
 pid: index_1860
 volume: Volume 3
 image_number: '24'
-head: hickock
-entry: "<a href='/digital-beehive/num5/num_1655/'>1211 [Belchings]</a>"
+head: home
+entry: "<a href='/digital-beehive/alpha2/alpha_0428/'>a</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-85e719765"
+item: "#item-1ffb1be8a"
 unparsed:
-line: 'Head: hickock|Entry: 1211 [Belchings]|#item-85e719765'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/425,1453,458,119/full/0/default.jpg
+line: 'Head: home|Entry: a|#item-1ffb1be8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1137,1650,317,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576152868
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582567875
+sort_value: '302421650'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/425,1453,458,119/150,/0/default.jpg
-label: hickock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1137,1650,317,116/150,/0/default.jpg
+label: home
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
 insertion_xref:

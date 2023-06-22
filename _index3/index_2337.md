@@ -2,9 +2,8 @@
 pid: index_2337
 volume: Volume 3
 image_number: '29'
-head: to look
-entry: "<a href='/digital-beehive/alpha3/alpha_0552/'>a</a>|<a href='/digital-beehive/num6/num_2088/'>1433
-  [To Look]</a>"
+head: lot
+entry: "<a href='/digital-beehive/alpha3/alpha_0555/'>a</a>"
 topic:
 first_letter: L
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-039f38823"
+item: "#item-adc08ddda"
 unparsed:
-line: 'Head: to look|Entry: a|Entry: 1433 [To Look]|#item-039f38823'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,634,527,115/full/0/default.jpg
+line: 'Head: lot|Entry: a|#item-adc08ddda'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/165,1815,256,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560177635673
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178442396
+sort_value: '302911815'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,634,527,115/150,/0/default.jpg
-label: to look
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/165,1815,256,106/150,/0/default.jpg
+label: lot
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

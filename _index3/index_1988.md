@@ -2,24 +2,25 @@
 pid: index_1988
 volume: Volume 3
 image_number: '25'
-head: imprisonmt
-entry:
+head: in
+entry: "<a href='/digital-beehive/num5/num_1391/'>1040 [In]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3135/'>prison</a>"
+see:
 index:
-item: "#item-45948aa65"
+item: "#item-e970114b5"
 unparsed:
-line: 'Head: imprisonmt|See: prison|#item-45948aa65'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/full/0/default.jpg
+line: 'Head: in|Entry: 1040 [In]|#item-e970114b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1585,297,332,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667079955
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669394415
+sort_value: '302530297'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/150,/0/default.jpg
-label: imprisonmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1585,297,332,88/150,/0/default.jpg
+label: in
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
 insertion_xref:

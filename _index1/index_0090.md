@@ -2,8 +2,8 @@
 pid: index_0090
 volume: Volume 3
 image_number: '7'
-head: again
-entry: "<a href='/digital-beehive/num4/num_1157/'>893 [Again]</a>"
+head: alcoran
+entry: "<a href='/digital-beehive/num4/num_1320/'>989 [Alcoran]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-c77503984"
+item: "#item-66992e2d9"
 unparsed:
-line: 'Head: again|Entry: 893 [Again]|#item-c77503984'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,2541,399,126/full/0/default.jpg
+line: 'Head: alcoran|Entry: 989 [Alcoran]|#item-66992e2d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1607,813,463,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766920644
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768144073
+sort_value: '300730813'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,2541,399,126/150,/0/default.jpg
-label: again
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1607,813,463,139/150,/0/default.jpg
+label: alcoran
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

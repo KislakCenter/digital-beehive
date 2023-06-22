@@ -17,6 +17,7 @@ line: 'Entry: Duck|Topic: Duck|Index: duck|#item-22ba711ad'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/759,1089,2985,232/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508782598315
+sort_value: '145211089'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/759,1089,600,180/250,/0/default.jpg
 label: Duck

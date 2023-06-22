@@ -2,27 +2,25 @@
 pid: index_2397
 volume: Volume 3
 image_number: '29'
-head: magnanimity
-entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>|<a href='/digital-beehive/num3/num_0664/'>529
-  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1689/'>1229
-  [Magnanimity]</a>"
+head: malefactor
+entry:
 topic:
 first_letter: M
-page:
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-fb96256fd"
+item: "#item-ab8964f08"
 unparsed:
-line: 'Head: magnanimity|Entry: a|Entry: 529 [Magnanimity]|Entry: 795 [PAGE_MISSING]|Entry:
-  1229 [Magnanimity]|#item-fb96256fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2629,670,147/full/0/default.jpg
+line: 'Head: malefactor|Page: p.42 [Image 1.102]|#item-ab8964f08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,890,510,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560187021929
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194113695
+sort_value: '302930890'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2629,670,147/150,/0/default.jpg
-label: magnanimity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,890,510,142/150,/0/default.jpg
+label: malefactor
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

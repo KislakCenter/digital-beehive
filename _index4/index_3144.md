@@ -2,26 +2,27 @@
 pid: index_3144
 volume: Volume 3
 image_number: '37'
-head: preservation
-entry: "<a href='/digital-beehive/num5/num_1523/'>1124 [Preserved]</a>"
+head: pretense
+entry: "<a href='/digital-beehive/num1/num_0136/'>131 [Pretext]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1338/'>excuse</a>|pretext"
 index:
-item: "#item-55f502f9b"
+item: "#item-27a51d969"
 unparsed:
-line: 'Head: preservation|Entry: 1124 [Preserved]|#item-55f502f9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/76,628,680,156/full/0/default.jpg
+line: 'Head: pretense|See: excuse|See: pretext|Entry: 131 [Pretext]|#item-27a51d969'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/86,1375,746,206/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550865983609
+annotation_uri: http://dev.llgc.org.uk/annotation/1565204500348
+sort_value: '303711375'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/76,628,680,156/150,/0/default.jpg
-label: preservation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/86,1375,746,206/150,/0/default.jpg
+label: pretense
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue:
+issue: The intended point of reference for "pretext" is unclear.
 insertion_xref:
 order: '0392'
 layout: index_item

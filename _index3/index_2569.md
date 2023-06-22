@@ -2,26 +2,25 @@
 pid: index_2569
 volume: Volume 3
 image_number: '31'
-head: moon
-entry: "<a href='/digital-beehive/alpha3/alpha_0609/'>a</a>|<a href='/digital-beehive/num6/num_1924/'>1357
-  [Moon]</a>|<a href='/digital-beehive/num9/num_3047/'>2110 [Moon]</a>"
+head: monopolies
+entry: "<a href='/digital-beehive/num8/num_2736/'>1803 [Monopolies]</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_078/'>p.28 [Image 1.88]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-c6ea6df6e"
+item: "#item-8dad24912"
 unparsed:
-line: 'Head: moon|Page: p.28 [Image 1.88]|Entry: a|Entry: 1357 [Moon]|Entry: 2110
-  [Moon]|#item-c6ea6df6e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/866,1323,661,133/full/0/default.jpg
+line: 'Head: monopolies|Entry: 1803 [Monopolies]|#item-8dad24912'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/881,912,529,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355560685
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355112264
+sort_value: '303120912'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/866,1323,661,133/150,/0/default.jpg
-label: moon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/881,912,529,99/150,/0/default.jpg
+label: monopolies
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

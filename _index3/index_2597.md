@@ -2,8 +2,8 @@
 pid: index_2597
 volume: Volume 3
 image_number: '31'
-head: I must
-entry: "<a href='/digital-beehive/alpha3/alpha_0625/'>a</a>|4586 [PAGE_MISSING]"
+head: mother disease
+entry: "<a href='/digital-beehive/num8/num_2910/'>1980 [fits of the Mother]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-65561c6ab"
+item: "#item-dc4e85621"
 unparsed:
-line: 'Head: I must|Entry: a|Entry: 4586 [PAGE_MISSING]|#item-65561c6ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1517,2240,562,144/full/0/default.jpg
+line: 'Head: mother disease|Entry: 1980 [fits of the Mother]|#item-dc4e85621'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/852,3266,533,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362333193
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356918013
+sort_value: '303123266'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1517,2240,562,144/150,/0/default.jpg
-label: I must
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/852,3266,533,105/150,/0/default.jpg
+label: mother disease
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

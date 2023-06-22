@@ -2,24 +2,25 @@
 pid: index_2091
 volume: Volume 3
 image_number: '26'
-head: inheritance
-entry: "<a href='/digital-beehive/num7/num_2622/'>1700 [Inheritance]</a>"
+head: invective
+entry: "<a href='/digital-beehive/num2/num_0460/'>381 [Invective]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1836/'>heritage</a>"
+see:
 index:
-item: "#item-52ddc533d"
+item: "#item-2c36d0e32"
 unparsed:
-line: 'Head: inheritance|See: heritage|Entry: 1700 [Inheritance]|#item-52ddc533d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/422,2615,840,157/full/0/default.jpg
+line: 'Head: invective|Entry: 381 [Invective]|#item-2c36d0e32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1857,990,457,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745191920
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751230514
+sort_value: '302630990'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/422,2615,840,157/150,/0/default.jpg
-label: inheritance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1857,990,457,106/150,/0/default.jpg
+label: invective
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

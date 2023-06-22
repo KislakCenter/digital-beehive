@@ -17,6 +17,7 @@ line: 'Head: nameless|Entry: 262 [Anonymous or Nameless]|#item-a4df14154'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1518,3659,478,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560363269536
+sort_value: '303133659'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1518,3659,478,119/150,/0/default.jpg
 label: nameless

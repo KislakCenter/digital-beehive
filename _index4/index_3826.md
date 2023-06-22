@@ -2,25 +2,26 @@
 pid: index_3826
 volume: Volume 3
 image_number: '44'
-head: soothsayers
-entry: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num7/num_2355/'>1571
-  [Southsayers]</a>"
+head: spectacles
+entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>|<a href='/digital-beehive/num7/num_2493/'>1639
+  [Spectacles]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-d820dc130"
+item: "#item-e2084c925"
 unparsed:
-line: 'Head: soothsayers|Entry: 41 [False Prophets]|Entry: 1571 [Southsayers]|#item-d820dc130'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/558,900,545,188/full/0/default.jpg
+line: 'Head: spectacles|Page: p.39 [Image 1.99]|Entry: a|Entry: 1639 [Spectacles]|#item-e2084c925'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1125,819,740,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288226805
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288694648
+sort_value: '304420819'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/558,900,545,188/150,/0/default.jpg
-label: soothsayers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1125,819,740,131/150,/0/default.jpg
+label: spectacles
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1965/'>1378 [Germany]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1639/'>Germany</a>"
+index: "<a href='/digital-beehive/index2/index_1601/'>Germany</a>"
 item: "#item-ae0fcaf74"
 unparsed:
 line: 'Entry: Germany|Topic: Germany|Xref: 1378 [Germany]|Index: Germany|#item-ae0fcaf74'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/764,1111,3027,494/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564601438628
+sort_value: '201411111'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/764,1111,600,180/250,/0/default.jpg
 label: Germany

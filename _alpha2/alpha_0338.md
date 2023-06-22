@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index2/index_1514/'>fontanell</a>"
+index: "<a href='/digital-beehive/index2/index_1494/'>fontanell</a>"
 item: "#item-74981c1af"
 unparsed:
 line: 'Entry: Fontanell|Topic: Fontanell|Index: fontanell|#item-74981c1af'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/778,1996,2951,331/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508259418580
+sort_value: '201211996'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/778,1996,600,180/250,/0/default.jpg
 label: Fontanell

@@ -2,9 +2,8 @@
 pid: index_2514
 volume: Volume 3
 image_number: '30'
-head: merit
-entry: "<a href='/digital-beehive/alpha3/alpha_0591/'>a</a>|<a href='/digital-beehive/num7/num_2556/'>1667
-  [Merit]</a>"
+head: milky way
+entry: "<a href='/digital-beehive/num7/num_2363/'>1575 [Milky way]</a>"
 topic:
 first_letter: M
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-684a78cce"
+item: "#item-bf0334b6e"
 unparsed:
-line: 'Head: merit|Entry: a|Entry: 1667 [Merit]|#item-684a78cce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1103,2829,497,93/full/0/default.jpg
+line: 'Head: milky way|Entry: 1575 [Milky way]|#item-bf0334b6e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1835,1779,527,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269409008
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274054962
+sort_value: '303031779'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1103,2829,497,93/150,/0/default.jpg
-label: merit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1835,1779,527,145/150,/0/default.jpg
+label: milky way
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

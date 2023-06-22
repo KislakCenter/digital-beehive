@@ -10,13 +10,14 @@ page:
 add:
 xref: 4620 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index2/index_1623/'>goose</a>"
+index: "<a href='/digital-beehive/index2/index_1669/'>goose</a>"
 item: "#item-f4a62f2a9"
 unparsed:
 line: 'Entry: Goose|Topic: Goose|Xref: 4620 [PAGE_MISSING]|Index: goose|#item-f4a62f2a9'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/347,2093,2987,367/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564602860208
+sort_value: '201512093'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/347,2093,600,180/250,/0/default.jpg
 label: Goose

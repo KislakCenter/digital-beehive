@@ -2,8 +2,8 @@
 pid: index_0554
 volume: Volume 3
 image_number: '12'
-head: China
-entry: "<a href='/digital-beehive/num8/num_2924/'>1993 [China]</a>"
+head: to cast down
+entry: "<a href='/digital-beehive/num4/num_1163/'>897 [To cast down]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f6cb69cc9"
+item: "#item-fb7adc1e8"
 unparsed:
-line: 'Head: China|Entry: 1993 [China]|#item-f6cb69cc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1822,2789,373,104/full/0/default.jpg
+line: 'Head: to cast down|Entry: 897 [To cast down]|#item-fb7adc1e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/410,1574,606,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532461225450
+annotation_uri: http://dev.llgc.org.uk/annotation/1532097937762
+sort_value: '301211574'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1822,2789,373,104/150,/0/default.jpg
-label: China
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/410,1574,606,134/150,/0/default.jpg
+label: to cast down
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

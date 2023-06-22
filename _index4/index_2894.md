@@ -2,8 +2,8 @@
 pid: index_2894
 volume: Volume 3
 image_number: '34'
-head: patriarchs
-entry: "<a href='/digital-beehive/num11/num_3534/'>4839 [Patriarchs]</a>"
+head: parsnip
+entry: "<a href='/digital-beehive/num3/num_0983/'>689 [Parsnip]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-dfb7ba6a6"
+item: "#item-6b7640f32"
 unparsed:
-line: 'Head: patriarchs|Entry: 4839 [Patriarchs]|#item-dfb7ba6a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1830,2078,599,167/full/0/default.jpg
+line: 'Head: parsnip|Entry: 689 [Parsnip]|#item-6b7640f32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1141,2753,488,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495604199
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494535102
+sort_value: '303422753'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1830,2078,599,167/150,/0/default.jpg
-label: patriarchs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1141,2753,488,166/150,/0/default.jpg
+label: parsnip
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

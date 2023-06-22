@@ -2,27 +2,28 @@
 pid: index_2322
 volume: Volume 3
 image_number: '29'
-head: "[:4.]"
-entry:
+head: long
+entry: "<a href='/digital-beehive/alpha3/alpha_0549/'>a</a>|820 [PAGE_MISSING]"
 topic:
-first_letter: M
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9a06bbb61"
-unparsed: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
-line: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/2139,370,183,131/full/0/default.jpg
+item: "#item-c46fe0234"
+unparsed:
+line: 'Head: long|Entry: a|Entry: 820 [PAGE_MISSING]|#item-c46fe0234'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/189,224,373,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560199596809
+annotation_uri: http://dev.llgc.org.uk/annotation/1560175819634
+sort_value: '302910224'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/2139,370,183,131/150,/0/default.jpg
-label: "[:4.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/189,224,373,162/150,/0/default.jpg
+label: long
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4678/'>Lord Major</a>"
+insertion_xref:
 order: '404'
 layout: index_item
 collection: index3

@@ -2,28 +2,32 @@
 pid: index_4474
 volume: Volume 3
 image_number: '51'
-head: warrant
-entry: 804 [PAGE_MISSING]
+head: war
+entry: "<a href='/digital-beehive/alpha5/alpha_1024/'>a</a>|<a href='/digital-beehive/num5/num_1643/'>1204
+  [War]</a>|<a href='/digital-beehive/num6/num_2200/'>1492 [Warfare]</a>|<a href='/digital-beehive/num9/num_3163/'>2220
+  [War]</a>|<a href='/digital-beehive/num11/num_3586/'>4913 [War]</a>"
 topic:
 first_letter: W
-page:
+page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-282fea67c"
+item: "#item-7a874acb5"
 unparsed:
-line: 'Head: warrant|Entry: 804 [PAGE_MISSING]|#item-282fea67c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3158,488,133/full/0/default.jpg
+line: 'Head: war|Page: p.40 [Image 1.100]|Entry: a|Entry: 1204 [War]|Entry: 1492 [Warfare]|Entry:
+  2220 [War]|Entry: 4913 [War]|#item-7a874acb5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,2202,610,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648554376
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648177200
+sort_value: '305132202'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3158,488,133/150,/0/default.jpg
-label: warrant
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,2202,610,158/150,/0/default.jpg
+label: war
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '437'
+order: '436'
 layout: index_item
 collection: index5
 ---

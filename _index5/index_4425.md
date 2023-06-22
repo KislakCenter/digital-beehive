@@ -2,8 +2,8 @@
 pid: index_4425
 volume: Volume 3
 image_number: '51'
-head: Uriah's letters
-entry: "<a href='/digital-beehive/num7/num_2645/'>1721 [Bellerophontis literas]</a>"
+head: unwilling motions
+entry: "<a href='/digital-beehive/num5/num_1518/'>1122 [Involuntary Motions]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-1ab98961f"
+item: "#item-610ea4b0e"
 unparsed:
-line: 'Head: Uriah''s letters|Entry: 1721 [Bellerophontis literas]|#item-1ab98961f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/928,924,684,136/full/0/default.jpg
+line: 'Head: unwilling motions|Entry: 1122 [Involuntary Motions]|#item-610ea4b0e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/201,2504,519,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646646403
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645856251
+sort_value: '305112504'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/928,924,684,136/150,/0/default.jpg
-label: Uriah's letters
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/201,2504,519,100/150,/0/default.jpg
+label: unwilling motions
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '388'
+order: '387'
 layout: index_item
 collection: index5
 ---

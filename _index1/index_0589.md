@@ -2,24 +2,25 @@
 pid: index_0589
 volume: Volume 3
 image_number: '12'
-head: chesnut
-entry:
+head: chair
+entry: 838 [PAGE_MISSING]
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-64fa08f15"
+item: "#item-92170d928"
 unparsed:
-line: 'Head: chesnut|Page: p.33 [Image 1.93]|#item-64fa08f15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1827,1407,461,130/full/0/default.jpg
+line: 'Head: chair|Entry: 838 [PAGE_MISSING]|#item-92170d928'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1133,2325,373,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459580151
+annotation_uri: http://dev.llgc.org.uk/annotation/1532100567702
+sort_value: '301222325'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1827,1407,461,130/150,/0/default.jpg
-label: chesnut
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1133,2325,373,102/150,/0/default.jpg
+label: chair
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

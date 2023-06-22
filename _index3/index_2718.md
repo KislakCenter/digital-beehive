@@ -2,9 +2,9 @@
 pid: index_2718
 volume: Volume 3
 image_number: '32'
-head: news
-entry: "<a href='/digital-beehive/alpha3/alpha_0644/'>a</a>|<a href='/digital-beehive/num6/num_1735/'>1252
-  [lying News]</a>|<a href='/digital-beehive/num6/num_2029/'>1408 [News]</a>"
+head: Noah
+entry: "<a href='/digital-beehive/num6/num_2000/'>1395 [Deluge]</a>|<a href='/digital-beehive/num7/num_2347/'>1567
+  [Noah's Ark]</a>"
 topic:
 first_letter: N
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-330222045"
+item: "#item-fd2c1f377"
 unparsed:
-line: 'Head: news|Entry: a|Entry: 1252 [lying News]|Entry: 1408 [News]|#item-330222045'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1147,2562,653,115/full/0/default.jpg
+line: 'Head: Noah|Entry: 1395 [Deluge]|Entry: 1567 [Noah''s Ark]|#item-fd2c1f377'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1832,785,527,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560443152963
+annotation_uri: http://dev.llgc.org.uk/annotation/1560447627473
+sort_value: '303230785'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1147,2562,653,115/150,/0/default.jpg
-label: news
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1832,785,527,132/150,/0/default.jpg
+label: Noah
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

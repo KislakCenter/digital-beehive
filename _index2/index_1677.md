@@ -2,9 +2,8 @@
 pid: index_1677
 volume: Volume 3
 image_number: '22'
-head: God's teaching
-entry: "<a href='/digital-beehive/num5/num_1420/'>1057 [God's work]</a>|<a href='/digital-beehive/num5/num_1421/'>1057
-  [God's Teaching]</a>"
+head: gourd
+entry: 828 [PAGE_MISSING]
 topic:
 first_letter: G
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-10f04f291"
+item: "#item-2310bc5d5"
 unparsed:
-line: 'Head: God''s teaching|Entry: 1057 [God''s work]|Entry: 1057 [God''s Teaching]|#item-10f04f291'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1169,2456,510,122/full/0/default.jpg
+line: 'Head: gourd|Entry: 828 [PAGE_MISSING]|#item-2310bc5d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1812,1121,400,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561048064916
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052467409
+sort_value: '302231121'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1169,2456,510,122/150,/0/default.jpg
-label: God's teaching
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1812,1121,400,129/150,/0/default.jpg
+label: gourd
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

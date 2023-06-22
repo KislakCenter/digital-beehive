@@ -2,8 +2,8 @@
 pid: index_1779
 volume: Volume 3
 image_number: '23'
-head: hemlock
-entry: "<a href='/digital-beehive/num2/num_0441/'>368 [Hemlock]</a>"
+head: hearing
+entry: "<a href='/digital-beehive/num2/num_0400/'>345 [Hear]</a>"
 topic:
 first_letter: H
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-62e86c403"
+item: "#item-257ab1d8d"
 unparsed:
-line: 'Head: hemlock|Entry: 368 [Hemlock]|#item-62e86c403'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1853,2513,393,127/full/0/default.jpg
+line: 'Head: hearing|Entry: 345 [Hear]|#item-257ab1d8d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1562,725,420,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571582227
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243660659
+sort_value: '302330725'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1853,2513,393,127/150,/0/default.jpg
-label: hemlock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1562,725,420,160/150,/0/default.jpg
+label: hearing
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
 insertion_xref:

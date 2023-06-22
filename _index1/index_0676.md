@@ -2,8 +2,8 @@
 pid: index_0676
 volume: Volume 3
 image_number: '13'
-head: chrystal
-entry: "<a href='/digital-beehive/num5/num_1560/'>1145 [Chrystal]</a>"
+head: citron
+entry: "<a href='/digital-beehive/num7/num_2440/'>1614 [Citron]</a>"
 topic:
 first_letter: C
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-a2af1bc6d"
+item: "#item-90b7724e0"
 unparsed:
-line: 'Head: chrystal|Entry: 1145 [Chrystal]|#item-a2af1bc6d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/142,1118,535,181/full/0/default.jpg
+line: 'Head: citron|Entry: 1614 [Citron]|#item-90b7724e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/155,2595,388,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619259562
+annotation_uri: http://dev.llgc.org.uk/annotation/1536332872418
+sort_value: '301312595'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/142,1118,535,181/150,/0/default.jpg
-label: chrystal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/155,2595,388,104/150,/0/default.jpg
+label: citron
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
 insertion_xref:

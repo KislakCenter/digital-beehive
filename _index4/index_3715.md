@@ -2,8 +2,8 @@
 pid: index_3715
 volume: Volume 3
 image_number: '43'
-head: to sit
-entry: 838 [PAGE_MISSING]
+head: simples
+entry: "<a href='/digital-beehive/num3/num_0999/'>695 [Simples]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d76b08539"
+item: "#item-f95d97397"
 unparsed:
-line: 'Head: to sit|Entry: 838 [PAGE_MISSING]|#item-d76b08539'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/862,917,394,120/full/0/default.jpg
+line: 'Head: simples|Entry: 695 [Simples]|#item-f95d97397'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,2328,457,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583020259
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582354044
+sort_value: '304312328'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/862,917,394,120/150,/0/default.jpg
-label: to sit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,2328,457,144/150,/0/default.jpg
+label: simples
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

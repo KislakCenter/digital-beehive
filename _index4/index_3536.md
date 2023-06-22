@@ -2,8 +2,8 @@
 pid: index_3536
 volume: Volume 3
 image_number: '41'
-head: of the same time
-entry: "<a href='/digital-beehive/num5/num_1672/'>1220 [Of the same time]</a>"
+head: scandal
+entry: "<a href='/digital-beehive/alpha4/alpha_0838/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-3f487cdce"
+item: "#item-b18891a25"
 unparsed:
-line: 'Head: of the same time|Entry: 1220 [Of the same time]|#item-3f487cdce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/138,1261,509,139/full/0/default.jpg
+line: 'Head: scandal|Entry: a|#item-b18891a25'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,3139,387,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238896595
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240096299
+sort_value: '304113139'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/138,1261,509,139/150,/0/default.jpg
-label: of the same time
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,3139,387,113/150,/0/default.jpg
+label: scandal
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

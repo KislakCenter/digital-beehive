@@ -2,26 +2,28 @@
 pid: index_2828
 volume: Volume 3
 image_number: '33'
-head: oeconomical books
-entry:
+head: origine
+entry: "<a href='/digital-beehive/num6/num_1877/'>1335 [Begging]</a>|<a href='/digital-beehive/num6/num_1878/'>1335
+  [Brevity]</a>"
 topic:
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-3accecf63"
+item: "#item-37513133b"
 unparsed:
-line: 'Head: oeconomical books|Page: p.379 [Image 2.201]|#item-3accecf63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/77,3390,791,163/full/0/default.jpg
+line: 'Head: origine|Entry: 1335 [Begging]|Entry: 1335 [Brevity]|#item-37513133b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1467,3078,557,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347797850
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163825514
+sort_value: '303333078'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/77,3390,791,163/150,/0/default.jpg
-label: oeconomical books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1467,3078,557,148/150,/0/default.jpg
+label: origine
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue:
+issue: The intended point of reference meant by "1335" is unclear.
 insertion_xref:
 order: '0076'
 layout: index_item

@@ -2,25 +2,25 @@
 pid: index_2120
 volume: Volume 3
 image_number: '27'
-head: lame
-entry: "<a href='/digital-beehive/alpha3/alpha_0510/'>a</a>|<a href='/digital-beehive/num9/num_3079/'>2140
-  [Lame]</a>"
+head: irregular
+entry: "<a href='/digital-beehive/num3/num_0887/'>648 [Irregular]</a>"
 topic:
-first_letter: L
+first_letter: I/J
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4ec3af142"
+item: "#item-329beb96d"
 unparsed:
-line: 'Head: lame|Entry: a|Entry: 2140 [Lame]|#item-4ec3af142'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1577,319,530,126/full/0/default.jpg
+line: 'Head: irregular|Entry: 648 [Irregular]|#item-329beb96d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/145,510,435,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832531597
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756430189
+sort_value: '302710510'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1577,319,530,126/150,/0/default.jpg
-label: lame
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/145,510,435,139/150,/0/default.jpg
+label: irregular
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

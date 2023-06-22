@@ -2,9 +2,8 @@
 pid: index_4294
 volume: Volume 3
 image_number: '49'
-head: vineyard
-entry: "<a href='/digital-beehive/alpha5/alpha_0999/'>a</a>|<a href='/digital-beehive/num8/num_2921/'>1990
-  [Vin[e]yards]</a>"
+head: Vandals
+entry: "<a href='/digital-beehive/num7/num_2215/'>1502 [Vandals]</a>"
 topic:
 first_letter: U/V
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-43dac4520"
+item: "#item-d5157bfe5"
 unparsed:
-line: 'Head: vineyard|Entry: a|Entry: 1990 [Vin[e]yards]|#item-43dac4520'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1629,1558,485,136/full/0/default.jpg
+line: 'Head: Vandals|Entry: 1502 [Vandals]|#item-d5157bfe5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/927,1037,450,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660662003
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657769070
+sort_value: '304921037'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1629,1558,485,136/150,/0/default.jpg
-label: vineyard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/927,1037,450,104/150,/0/default.jpg
+label: Vandals
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '257'
+order: '256'
 layout: index_item
 collection: index5
 ---

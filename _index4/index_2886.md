@@ -2,24 +2,25 @@
 pid: index_2886
 volume: Volume 3
 image_number: '34'
-head: owl
-entry: "<a href='/digital-beehive/alpha4/alpha_0674/'>a</a>"
+head: parliamt
+entry: "<a href='/digital-beehive/num3/num_0847/'>628 [Parliament]</a>"
 topic:
-first_letter: O
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+first_letter: P
+page:
 add:
 xref:
 see:
 index:
-item: "#item-2de89112c"
+item: "#item-213cd3aa1"
 unparsed:
-line: 'Head: owl|Page: p.35 [Image 1.95]|Entry: a|#item-2de89112c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/453,1857,477,134/full/0/default.jpg
+line: 'Head: parliamt|Entry: 628 [Parliament]|#item-213cd3aa1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1102,2165,632,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425578405
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494330991
+sort_value: '303422165'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/453,1857,477,134/150,/0/default.jpg
-label: owl
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1102,2165,632,156/150,/0/default.jpg
+label: parliamt
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

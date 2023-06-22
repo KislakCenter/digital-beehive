@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0864/'>Servitude</a>|<a href='/digital-beehive/num2/num_0412/'>351
   [Captivity]</a>|<a href='/digital-beehive/num5/num_1551/'>1141 [Slavery]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3745/'>slavery</a>"
+index: "<a href='/digital-beehive/index4/index_3744/'>slavery</a>"
 item: "#item-60fdb7e63"
 unparsed:
 line: 'Entry: Slavery|Topic: Slavery|Xref: Servitude|Xref: 351 [Captivity]|Xref: 1141
@@ -19,6 +19,7 @@ line: 'Entry: Slavery|Topic: Slavery|Xref: Servitude|Xref: 351 [Captivity]|Xref:
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/776,185,2989,300/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532448715551
+sort_value: '205410185'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/776,185,600,180/250,/0/default.jpg
 label: Slavery

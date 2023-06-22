@@ -2,24 +2,25 @@
 pid: index_2472
 volume: Volume 3
 image_number: '30'
-head: midnight
-entry: 765 [PAGE_MISSING]
+head: to meet
+entry: 863 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2649/'>noon</a>"
+see:
 index:
-item: "#item-39c0dcce9"
+item: "#item-71bc4ae95"
 unparsed:
-line: 'Head: midnight|See: noon|Entry: 765 [PAGE_MISSING]|#item-39c0dcce9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,1201,652,146/full/0/default.jpg
+line: 'Head: to meet|Entry: 863 [PAGE_MISSING]|#item-71bc4ae95'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1129,851,456,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273787400
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267868103
+sort_value: '303020851'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,1201,652,146/150,/0/default.jpg
-label: midnight
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1129,851,456,107/150,/0/default.jpg
+label: to meet
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

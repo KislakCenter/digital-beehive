@@ -2,9 +2,8 @@
 pid: index_2081
 volume: Volume 3
 image_number: '26'
-head: insurance
-entry: "<a href='/digital-beehive/num4/num_1204/'>914 [Security, he that promises
-  for another]</a>"
+head: in the mean time
+entry: "<a href='/digital-beehive/num3/num_0817/'>613 [In the mean time]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6cdff2e8b"
+item: "#item-d047da359"
 unparsed:
-line: 'Head: insurance|Entry: 914 [Security, he that promises for another]|#item-6cdff2e8b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1150,2290,470,131/full/0/default.jpg
+line: 'Head: in the mean time|Entry: 613 [In the mean time]|#item-d047da359'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1165,3479,624,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748647670
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749713187
+sort_value: '302623479'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1150,2290,470,131/150,/0/default.jpg
-label: insurance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1165,3479,624,118/150,/0/default.jpg
+label: in the mean time
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,9 @@
 pid: index_2897
 volume: Volume 3
 image_number: '34'
-head: paroxysm
-entry: "<a href='/digital-beehive/num9/num_3055/'>2118 [Fit or Paroxysm]</a>"
+head: partakers
+entry: "<a href='/digital-beehive/alpha4/alpha_0688/'>a</a>|<a href='/digital-beehive/num10/num_3336/'>2364
+  [To Com[m]unicate & partake]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8717a59d6"
+item: "#item-a14134c3c"
 unparsed:
-line: 'Head: paroxysm|Entry: 2118 [Fit or Paroxysm]|#item-8717a59d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1144,2204,580,158/full/0/default.jpg
+line: 'Head: partakers|Entry: a|Entry: 2364 [To Com[m]unicate & partake]|#item-a14134c3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1112,3023,673,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494352740
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494650292
+sort_value: '303423023'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1144,2204,580,158/150,/0/default.jpg
-label: paroxysm
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1112,3023,673,170/150,/0/default.jpg
+label: partakers
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
 insertion_xref:

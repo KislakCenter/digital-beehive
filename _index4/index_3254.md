@@ -2,26 +2,28 @@
 pid: index_3254
 volume: Volume 3
 image_number: '38'
-head: rashness
-entry:
+head: quarter
+entry: a
 topic:
-first_letter: R
+first_letter: Q
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4201/'>too hasty</a>"
+see:
 index:
-item: "#item-f500e35bd"
+item: "#item-6ed391101"
 unparsed:
-line: 'Head: rashness|See: too hasty|#item-f500e35bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1860,984,700,123/full/0/default.jpg
+line: 'Head: quarter|Entry: a|#item-6ed391101'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,281,428,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460762153
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454931177
+sort_value: '303820281'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1860,984,700,123/150,/0/default.jpg
-label: rashness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,281,428,91/150,/0/default.jpg
+label: quarter
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue:
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
 insertion_xref:
 order: '0502'
 layout: index_item

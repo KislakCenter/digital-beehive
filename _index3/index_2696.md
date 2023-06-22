@@ -2,10 +2,8 @@
 pid: index_2696
 volume: Volume 3
 image_number: '32'
-head: natural philosophy
-entry: "<a href='/digital-beehive/alpha3/alpha_0635/'>a</a>|<a href='/digital-beehive/num7/num_2295/'>1543
-  [Natural Philosophy]</a>|<a href='/digital-beehive/num9/num_3068/'>2129 [Natural
-  Philosophy]</a>"
+head: new Jersey
+entry: "<a href='/digital-beehive/num7/num_2256/'>1522 [New Jersey]</a>"
 topic:
 first_letter: N
 page:
@@ -13,16 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ee3b7ecd2"
+item: "#item-6e5899584"
 unparsed:
-line: 'Head: natural philosophy|Entry: a|Entry: 1543 [Natural Philosophy]|Entry: 2129
-  [Natural Philosophy]|#item-ee3b7ecd2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/385,1751,860,116/full/0/default.jpg
+line: 'Head: new Jersey|Entry: 1522 [New Jersey]|#item-6e5899584'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1138,1934,465,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438068923
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442528549
+sort_value: '303221934'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/385,1751,860,116/150,/0/default.jpg
-label: natural philosophy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1138,1934,465,119/150,/0/default.jpg
+label: new Jersey
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

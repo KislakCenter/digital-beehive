@@ -2,8 +2,8 @@
 pid: index_1337
 volume: Volume 3
 image_number: '19'
-head: error
-entry: 759 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_2990/'>2056 [Error]</a>
+head: excrements
+entry: "<a href='/digital-beehive/num2/num_0362/'>314 [Foam]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-304f3006a"
+item: "#item-e1274210c"
 unparsed:
-line: 'Head: error|Entry: 759 [PAGE_MISSING]|Entry: 2056 [Error]|#item-304f3006a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/133,2324,577,157/full/0/default.jpg
+line: 'Head: excrements|Entry: 314 [Foam]|#item-e1274210c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/821,3475,540,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275773421
+annotation_uri: http://dev.llgc.org.uk/annotation/1560364438930
+sort_value: '301923475'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/133,2324,577,157/150,/0/default.jpg
-label: error
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/821,3475,540,103/150,/0/default.jpg
+label: excrements
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

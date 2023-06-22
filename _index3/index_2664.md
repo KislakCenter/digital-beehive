@@ -2,8 +2,8 @@
 pid: index_2664
 volume: Volume 3
 image_number: '32'
-head: hard names
-entry: "<a href='/digital-beehive/num3/num_0677/'>538 [Reviling, so called]</a>"
+head: navy
+entry: "<a href='/digital-beehive/num7/num_2565/'>1671 [Fleet]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5d2bdc577"
+item: "#item-565fffc52"
 unparsed:
-line: 'Head: hard names|Entry: 538 [Reviling, so called]|#item-5d2bdc577'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,458,527,103/full/0/default.jpg
+line: 'Head: navy|Entry: 1671 [Fleet]|#item-565fffc52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2538,374,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560436789645
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438687014
+sort_value: '303212538'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,458,527,103/150,/0/default.jpg
-label: hard names
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2538,374,129/150,/0/default.jpg
+label: navy
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

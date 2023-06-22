@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha5/alpha_0948/'>Temptation, continued</a>|<
   href='/digital-beehive/num3/num_0791/'>602 [Instigation]</a>|120 [Provocation]|<a
   href='/digital-beehive/num1/num_0217/'>206 [Temptation]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4118/'>temptation</a>"
+index: "<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
 item: "#item-d5b751b3a"
 unparsed:
 line: 'Entry: Temptation|Topic: Temptation|Xref: Temptation, continued|Xref: 602 [Instigation]|Xref:
@@ -20,6 +20,7 @@ line: 'Entry: Temptation|Topic: Temptation|Xref: Temptation, continued|Xref: 602
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/358,4570,3156,567/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528921727879
+sort_value: '205714570'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/358,4570,600,180/250,/0/default.jpg
 label: Temptation

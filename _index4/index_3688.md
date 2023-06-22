@@ -2,8 +2,8 @@
 pid: index_3688
 volume: Volume 3
 image_number: '42'
-head: sharp
-entry: 760 [PAGE_MISSING]|861 [PAGE_MISSING]
+head: short of breath
+entry: "<a href='/digital-beehive/num2/num_0594/'>475 [Shortness of breath]</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6860df29a"
+item: "#item-a70c732f3"
 unparsed:
-line: 'Head: sharp|Entry: 760 [PAGE_MISSING]|Entry: 861 [PAGE_MISSING]|#item-6860df29a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1088,3221,594,136/full/0/default.jpg
+line: 'Head: short of breath|Entry: 475 [Shortness of breath]|#item-a70c732f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1785,2746,581,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575380262
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576472024
+sort_value: '304232746'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1088,3221,594,136/150,/0/default.jpg
-label: sharp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1785,2746,581,122/150,/0/default.jpg
+label: short of breath
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
 insertion_xref:

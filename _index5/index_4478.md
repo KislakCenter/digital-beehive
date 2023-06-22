@@ -2,28 +2,29 @@
 pid: index_4478
 volume: Volume 3
 image_number: '51'
-head: voracity
-entry: "<a href='/digital-beehive/num3/num_0945/'>677 [Voracity]</a>"
+head: warm
+entry: 787 [PAGE_MISSING]
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-681900b02"
+item: "#item-d373fa28c"
 unparsed:
-line: 'Head: voracity|Entry: 677 [Voracity]|#item-681900b02'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/210,3341,500,170/full/0/default.jpg
+line: 'Head: warm|Entry: 787 [PAGE_MISSING]|#item-d373fa28c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,2811,409,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646073663
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648446259
+sort_value: '305132811'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/210,3341,500,170/150,/0/default.jpg
-label: voracity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,2811,409,105/150,/0/default.jpg
+label: warm
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '441'
+order: '440'
 layout: index_item
 collection: index5
 ---

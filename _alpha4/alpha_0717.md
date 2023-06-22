@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/alpha3/alpha_0512/'>Lasciviousness</a>|<a
   href='/digital-beehive/num4/num_1126/'>882 [Pleasure]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3060/'>pleasure</a>"
+index: "<a href='/digital-beehive/index4/index_3042/'>pleasure</a>"
 item: "#item-3209a6757"
 unparsed:
 line: 'Entry: Pleasure|Topic: Pleasure|Xref: Epicurism|Xref: Lasciviousness|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Pleasure|Topic: Pleasure|Xref: Epicurism|Xref: Lasciviousness|Xref
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/281,623,3078,429/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528372777939
+sort_value: '204110623'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/281,623,600,180/250,/0/default.jpg
 label: Pleasure

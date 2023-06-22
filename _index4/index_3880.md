@@ -17,6 +17,7 @@ line: 'Head: staring|Entry: 4566 [PAGE_MISSING]|#item-216cf4b55'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1783,3612,468,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565289423320
+sort_value: '304433612'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1783,3612,468,145/150,/0/default.jpg
 label: staring

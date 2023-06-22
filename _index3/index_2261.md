@@ -2,8 +2,8 @@
 pid: index_2261
 volume: Volume 3
 image_number: '28'
-head: letter droppers
-entry: "<a href='/digital-beehive/num11/num_3524/'>4829 [Letter droppers]</a>"
+head: L'estrange
+entry: "<a href='/digital-beehive/num7/num_2480/'>1633 [Lestrange]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f3b855df1"
+item: "#item-ebe40783a"
 unparsed:
-line: 'Head: letter droppers|Entry: 4829 [Letter droppers]|#item-f3b855df1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1129,830,548,116/full/0/default.jpg
+line: 'Head: L''estrange|Entry: 1633 [Lestrange]|#item-ebe40783a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1134,633,531,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844627882
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844438987
+sort_value: '302820633'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1129,830,548,116/150,/0/default.jpg
-label: letter droppers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1134,633,531,131/150,/0/default.jpg
+label: L'estrange
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

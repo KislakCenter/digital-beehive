@@ -2,25 +2,26 @@
 pid: index_3242
 volume: Volume 3
 image_number: '38'
-head: rape
-entry: "<a href='/digital-beehive/alpha4/alpha_0779/'>a</a>|<a href='/digital-beehive/num2/num_0277/'>253
-  [Rape]</a>"
+head: putrefaction
+entry: "<a href='/digital-beehive/num4/num_1082/'>866 [To Rot]</a>|<a href='/digital-beehive/num9/num_3046/'>2109
+  [Putrefaction]</a>"
 topic:
-first_letter: R
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e08df4235"
+item: "#item-488b1a361"
 unparsed:
-line: 'Head: rape|Entry: a|Entry: 253 [Rape]|#item-e08df4235'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1832,577,509,140/full/0/default.jpg
+line: 'Head: putrefaction|Entry: 866 [To Rot]|Entry: 2109 [Putrefaction]|#item-488b1a361'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/396,2478,753,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460383574
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452607376
+sort_value: '303812478'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1832,577,509,140/150,/0/default.jpg
-label: rape
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/396,2478,753,110/150,/0/default.jpg
+label: putrefaction
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

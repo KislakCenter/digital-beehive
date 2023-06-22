@@ -2,24 +2,25 @@
 pid: index_2207
 volume: Volume 3
 image_number: '27'
-head: labyrinth
-entry: "<a href='/digital-beehive/num3/num_0733/'>574 [Labyrinth or Maze]</a>"
+head: last unction
+entry: "<a href='/digital-beehive/alpha3/alpha_0517/'>a</a>"
 topic:
 first_letter: L
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e71b77f50"
+item: "#item-51e0fafcf"
 unparsed:
-line: 'Head: labyrinth|Page: p.37 [Image 1.97]|Entry: 574 [Labyrinth or Maze]|#item-e71b77f50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/826,3005,575,166/full/0/default.jpg
+line: 'Head: last unction|Entry: a|#item-51e0fafcf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1533,1912,495,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832136029
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835976203
+sort_value: '302731912'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/826,3005,575,166/150,/0/default.jpg
-label: labyrinth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1533,1912,495,111/150,/0/default.jpg
+label: last unction
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

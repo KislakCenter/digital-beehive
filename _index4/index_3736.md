@@ -2,24 +2,25 @@
 pid: index_3736
 volume: Volume 3
 image_number: '43'
-head: silk
-entry: 753 [PAGE_MISSING]
+head: skeleton
+entry: "<a href='/digital-beehive/num6/num_1970/'>1381 [Skeleton]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-854c792e9"
+item: "#item-5d6dead9a"
 unparsed:
-line: 'Head: silk|Entry: 753 [PAGE_MISSING]|#item-854c792e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/190,1599,348,112/full/0/default.jpg
+line: 'Head: skeleton|Page: p.44 [Image 1.104]|Entry: 1381 [Skeleton]|#item-5d6dead9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,1185,635,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582159829
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583248785
+sort_value: '304321185'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/190,1599,348,112/150,/0/default.jpg
-label: silk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,1185,635,144/150,/0/default.jpg
+label: skeleton
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
 insertion_xref:

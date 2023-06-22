@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0175/'>Constancy</a>|<a href='/dig
   href='/digital-beehive/alpha5/alpha_0991/'>Vagabonds</a>|<a href='/digital-beehive/alpha5/alpha_0980/'>Transitory</a>|<a
   href='/digital-beehive/alpha5/alpha_0992/'>Vanity</a>|<a href='/digital-beehive/alpha3/alpha_0648/'>Nothing</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4447/'>unstable</a>"
+index: "<a href='/digital-beehive/index5/index_4420/'>unstable</a>"
 item: "#item-0e6cfecca"
 unparsed:
 line: 'Entry: Unstableness|Topic: Unstableness|Xref: Constancy|Xref: 870 [Inconstancy]|Xref:
@@ -22,6 +22,7 @@ line: 'Entry: Unstableness|Topic: Unstableness|Xref: Constancy|Xref: 870 [Incons
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/808,3779,2930,524/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528913171755
+sort_value: '206213779'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/808,3779,600,180/250,/0/default.jpg
 label: Unstableness

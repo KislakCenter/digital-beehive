@@ -2,8 +2,8 @@
 pid: index_0210
 volume: Volume 3
 image_number: '8'
-head: approaching to God
-entry: "<a href='/digital-beehive/num10/num_3366/'>2394 [Coming to God]</a>"
+head: arrival
+entry: "<a href='/digital-beehive/num3/num_0903/'>656 [Arrival]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-f97218aec"
+item: "#item-6497e03f9"
 unparsed:
-line: 'Head: approaching to God|Entry: 2394 [Coming to God]|#item-f97218aec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1104,2583,545,110/full/0/default.jpg
+line: 'Head: arrival|Entry: 656 [Arrival]|#item-6497e03f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1770,1115,552,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760955645
+annotation_uri: http://dev.llgc.org.uk/annotation/1491248565942
+sort_value: '300831115'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1104,2583,545,110/150,/0/default.jpg
-label: approaching to God
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1770,1115,552,94/150,/0/default.jpg
+label: arrival
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

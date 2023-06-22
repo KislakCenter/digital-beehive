@@ -2,24 +2,25 @@
 pid: index_0625
 volume: Volume 3
 image_number: '12'
-head: chance
-entry:
+head: chevy-chase
+entry: "<a href='/digital-beehive/num11/num_3495/'>4802 [Chevy chase]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0600/'>casualty</a>"
+see:
 index:
-item: "#item-fc8b599b5"
+item: "#item-7f63fb207"
 unparsed:
-line: 'Head: chance|See: casualty|#item-fc8b599b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1129,2773,602,132/full/0/default.jpg
+line: 'Head: chevy-chase|Entry: 4802 [Chevy chase]|#item-7f63fb207'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1813,1577,627,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532442314678
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459807427
+sort_value: '301231577'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1129,2773,602,132/150,/0/default.jpg
-label: chance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1813,1577,627,138/150,/0/default.jpg
+label: chevy-chase
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,8 +2,8 @@
 pid: index_1440
 volume: Volume 3
 image_number: '20'
-head: felo de se
-entry: "<a href='/digital-beehive/num5/num_1608/'>1180 [Self Murder]</a>"
+head: fifth monarchy men
+entry: "<a href='/digital-beehive/num2/num_0487/'>398 [Fifth-monarchy men]</a>"
 topic:
 first_letter: F
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-e35cde42c"
+item: "#item-97f454e9d"
 unparsed:
-line: 'Head: felo de se|Entry: 1180 [Self Murder]|#item-e35cde42c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1118,2024,503,173/full/0/default.jpg
+line: 'Head: fifth monarchy men|Entry: 398 [Fifth-monarchy men]|#item-97f454e9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1097,3061,778,178/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562184752390
+annotation_uri: http://dev.llgc.org.uk/annotation/1565620912263
+sort_value: '302023061'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1118,2024,503,173/150,/0/default.jpg
-label: felo de se
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1097,3061,778,178/150,/0/default.jpg
+label: fifth monarchy men
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

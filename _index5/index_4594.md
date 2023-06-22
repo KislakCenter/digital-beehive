@@ -2,8 +2,10 @@
 pid: index_4594
 volume: Volume 3
 image_number: '53'
-head: false wit
-entry: 4562 [PAGE_MISSING]
+head: woman's imperiousness
+entry: "<a href='/digital-beehive/alpha5/alpha_1051/'>a</a>|<a href='/digital-beehive/num1/num_0201/'>192
+  [Dames governmt]</a>|<a href='/digital-beehive/num7/num_2663/'>1737 [Womans Imperiousness]</a>|<a
+  href='/digital-beehive/num11/num_3515/'>4820 [Bad & imperious Women]</a>"
 topic:
 first_letter: W
 page:
@@ -11,19 +13,21 @@ add:
 xref:
 see:
 index:
-item: "#item-547fd237d"
+item: "#item-683c0af46"
 unparsed:
-line: 'Head: false wit|Entry: 4562 [PAGE_MISSING]|#item-547fd237d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/195,1429,485,86/full/0/default.jpg
+line: 'Head: woman''s imperiousness|Entry: a|Entry: 192 [Dames governmt]|Entry: 1737
+  [Womans Imperiousness]|Entry: 4820 [Bad & imperious Women]|#item-683c0af46'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/856,414,728,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792050115
+annotation_uri: http://dev.llgc.org.uk/annotation/1560794641651
+sort_value: '305320414'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/195,1429,485,86/150,/0/default.jpg
-label: false wit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/856,414,728,138/150,/0/default.jpg
+label: woman's imperiousness
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '557'
+order: '556'
 layout: index_item
 collection: index5
 ---

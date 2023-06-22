@@ -2,24 +2,25 @@
 pid: index_3456
 volume: Volume 3
 image_number: '40'
-head: rope
-entry: "<a href='/digital-beehive/num2/num_0407/'>348 [A rope]</a>"
+head: to rot
+entry: "<a href='/digital-beehive/num4/num_1082/'>866 [To Rot]</a>"
 topic:
 first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-8d84b6ab3"
+item: "#item-f82a9baf0"
 unparsed:
-line: 'Head: rope|Page: p.38 [Image 1.98]|Entry: 348 [A rope]|#item-8d84b6ab3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1172,1463,454,111/full/0/default.jpg
+line: 'Head: to rot|Entry: 866 [To Rot]|#item-f82a9baf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,2018,388,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233486935
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233730787
+sort_value: '304022018'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1172,1463,454,111/150,/0/default.jpg
-label: rope
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,2018,388,119/150,/0/default.jpg
+label: to rot
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

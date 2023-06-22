@@ -2,8 +2,8 @@
 pid: index_0022
 volume: Volume 3
 image_number: '7'
-head: abiding
-entry: "<a href='/digital-beehive/num4/num_1133/'>884 [to abide]</a>"
+head: accent
+entry: 844 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d235fec0a"
+item: "#item-829b737da"
 unparsed:
-line: 'Head: abiding|Entry: 884 [to abide]|#item-d235fec0a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/177,615,405,156/full/0/default.jpg
+line: 'Head: accent|Entry: 844 [PAGE_MISSING]|#item-829b737da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/181,1925,517,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758489382
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759528817
+sort_value: '300711925'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/177,615,405,156/150,/0/default.jpg
-label: abiding
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/181,1925,517,98/150,/0/default.jpg
+label: accent
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

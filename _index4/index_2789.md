@@ -2,9 +2,8 @@
 pid: index_2789
 volume: Volume 3
 image_number: '33'
-head: obligation
-entry: "<a href='/digital-beehive/alpha4/alpha_0655/'>a</a>|<a href='/digital-beehive/num6/num_2002/'>1396
-  [Obliga[ti]on]</a>"
+head: omission
+entry: "<a href='/digital-beehive/num2/num_0300/'>268 [Omission]</a>|4787 [PAGE_MISSING]"
 topic:
 first_letter: O
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-48c0ae297"
+item: "#item-89896b7bd"
 unparsed:
-line: 'Head: obligation|Entry: a|Entry: 1396 [Obliga[ti]on]|#item-48c0ae297'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/134,1936,726,179/full/0/default.jpg
+line: 'Head: omission|Entry: 268 [Omission]|Entry: 4787 [PAGE_MISSING]|#item-89896b7bd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/844,2277,691,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347253491
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348501559
+sort_value: '303322277'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/134,1936,726,179/150,/0/default.jpg
-label: obligation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/844,2277,691,134/150,/0/default.jpg
+label: omission
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:

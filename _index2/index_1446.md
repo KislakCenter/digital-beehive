@@ -2,24 +2,25 @@
 pid: index_1446
 volume: Volume 3
 image_number: '20'
-head: flame
-entry:
+head: to find
+entry: "<a href='/digital-beehive/num7/num_2566/'>1672 [To find out]</a>"
 topic:
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-f4d046355"
+item: "#item-2ec0c9fb9"
 unparsed:
-line: 'Head: flame|Page: p.30 [Image 1.90]|#item-f4d046355'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,2247,423,177/full/0/default.jpg
+line: 'Head: to find|Entry: 1672 [To find out]|#item-2ec0c9fb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,234,492,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562616016110
+annotation_uri: http://dev.llgc.org.uk/annotation/1562599926019
+sort_value: '302030234'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,2247,423,177/150,/0/default.jpg
-label: flame
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,234,492,176/150,/0/default.jpg
+label: to find
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
 insertion_xref:

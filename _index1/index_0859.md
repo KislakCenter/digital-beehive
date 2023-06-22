@@ -2,24 +2,25 @@
 pid: index_0859
 volume: Volume 3
 image_number: '14'
-head: conformity occasional
-entry: 1839 [PAGE_MISSING]
+head: to correct
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0125/'>amend</a>"
 index:
-item: "#item-f911ec12c"
+item: "#item-053887c0f"
 unparsed:
-line: 'Head: conformity occasional|Entry: 1839 [PAGE_MISSING]|#item-f911ec12c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/394,3556,621,95/full/0/default.jpg
+line: 'Head: to correct|See: amend|#item-053887c0f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1818,3450,630,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537217009102
+annotation_uri: http://dev.llgc.org.uk/annotation/1537560328931
+sort_value: '301433450'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/394,3556,621,95/150,/0/default.jpg
-label: conformity occasional
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1818,3450,630,94/150,/0/default.jpg
+label: to correct
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

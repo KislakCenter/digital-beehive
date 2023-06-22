@@ -2,24 +2,25 @@
 pid: index_2346
 volume: Volume 3
 image_number: '29'
-head: malefactor
-entry:
+head: love of sin
+entry: "<a href='/digital-beehive/alpha3/alpha_0562/'>a</a>"
 topic:
-first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+first_letter: L
+page:
 add:
 xref:
 see:
 index:
-item: "#item-ab8964f08"
+item: "#item-0ebddbaa3"
 unparsed:
-line: 'Head: malefactor|Page: p.42 [Image 1.102]|#item-ab8964f08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,890,510,142/full/0/default.jpg
+line: 'Head: love of sin|Entry: a|#item-0ebddbaa3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/161,2444,362,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194113695
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179692122
+sort_value: '302912444'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,890,510,142/150,/0/default.jpg
-label: malefactor
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/161,2444,362,104/150,/0/default.jpg
+label: love of sin
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

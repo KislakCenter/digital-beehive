@@ -2,8 +2,8 @@
 pid: index_4728
 volume: Volume 3
 image_number: '54'
-head: Chalk
-entry: "<a href='/digital-beehive/num9/num_3017/'>2083 [Chalk]</a>"
+head: duty of husband and
+entry: "<a href='/digital-beehive/num1/num_0007/'>7 [Husband & Wife]</a>|4615 [PAGE_MISSING]"
 topic:
 first_letter: insertion
 page:
@@ -11,19 +11,21 @@ add:
 xref:
 see:
 index:
-item: "#item-dae7cfa90"
-unparsed: Type Index|Insertion [:22.]
-line: 'Type: Index|Insertion: [:22.]|Head: Chalk|Entry: 2083 [Chalk]|#item-dae7cfa90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/426,3227,494,115/full/0/default.jpg
+item: "#item-decb0b132"
+unparsed: Type Index|Insertion [:59.]
+line: 'Type: Index|Insertion: [:59.]|Head: duty of husband and|Entry: 7 [Husband &
+  Wife]|Entry: 4615 [PAGE_MISSING]|#item-decb0b132'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1754,1820,743,208/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560885834582
-insertion: "[:22.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/426,3227,494,115/150,/0/default.jpg
-label: Chalk
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957272049
+sort_value: '305431820'
+insertion: "[:59.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1754,1820,743,208/150,/0/default.jpg
+label: duty of husband and
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '691'
+order: '690'
 layout: index_item
 collection: index5
 ---

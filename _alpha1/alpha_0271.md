@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1852/'>1322 [Mamuts Valet]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1171/'>dwarf</a>"
+index: "<a href='/digital-beehive/index1/index_1177/'>dwarf</a>"
 item: "#item-3b6571f85"
 unparsed:
 line: 'Entry: Dwarf|Topic: Dwarf|Xref: 1322 [Mamuts Valet]|Index: dwarf|#item-3b6571f85'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/740,1976,3012,415/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564517049680
+sort_value: '145211976'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/740,1976,600,180/250,/0/default.jpg
 label: Dwarf

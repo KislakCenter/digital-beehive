@@ -2,8 +2,8 @@
 pid: index_4076
 volume: Volume 3
 image_number: '47'
-head: to throw
-entry: "<a href='/digital-beehive/num4/num_1163/'>897 [To cast down]</a>"
+head: tedious
+entry: "<a href='/digital-beehive/num3/num_0914/'>662 [Irksomness]</a>"
 topic:
 first_letter: T
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-af06186f0"
+item: "#item-555c5c539"
 unparsed:
-line: 'Head: to throw|Entry: 897 [To cast down]|#item-af06186f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,449,452,93/full/0/default.jpg
+line: 'Head: tedious|Entry: 662 [Irksomness]|#item-555c5c539'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/169,1023,384,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552666470952
+annotation_uri: http://dev.llgc.org.uk/annotation/1531787915595
+sort_value: '304711023'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,449,452,93/150,/0/default.jpg
-label: to throw
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/169,1023,384,107/150,/0/default.jpg
+label: tedious
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '039'
+order: '038'
 layout: index_item
 collection: index5
 ---

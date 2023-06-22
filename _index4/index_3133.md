@@ -18,6 +18,7 @@ line: 'Head: presence|Entry: a|Entry: 1664 [Presence]|#item-b5a3f1207'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/128,259,586,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1550865817384
+sort_value: '303710259'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/128,259,586,162/150,/0/default.jpg
 label: presence

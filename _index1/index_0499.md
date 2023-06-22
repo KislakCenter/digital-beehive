@@ -2,24 +2,25 @@
 pid: index_0499
 volume: Volume 3
 image_number: '11'
-head: canker
-entry: "<a href='/digital-beehive/alpha1/alpha_0119/'>a</a>"
+head: by Course
+entry:
 topic:
-first_letter: C
+first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2626/'>mutual</a>"
 index:
-item: "#item-0ed3c1f5d"
+item: "#item-99914f899"
 unparsed:
-line: 'Head: canker|Entry: a|#item-0ed3c1f5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1576,2189,448,127/full/0/default.jpg
+line: 'Head: by Course|See: mutual|#item-99914f899'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/858,2999,744,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531495334342
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493587928
+sort_value: '301122999'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1576,2189,448,127/150,/0/default.jpg
-label: canker
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/858,2999,744,164/150,/0/default.jpg
+label: by Course
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

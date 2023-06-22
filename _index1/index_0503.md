@@ -2,24 +2,25 @@
 pid: index_0503
 volume: Volume 3
 image_number: '11'
-head: butchering
-entry: "<a href='/digital-beehive/num2/num_0409/'>350 [Butchering]</a>"
+head: cabbages
+entry: "<a href='/digital-beehive/num3/num_0938/'>675 [Cabbages]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-690a6003d"
+item: "#item-a3a7966b0"
 unparsed:
-line: 'Head: butchering|Entry: 350 [Butchering]|#item-690a6003d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,2419,573,146/full/0/default.jpg
+line: 'Head: cabbages|Entry: 675 [Cabbages]|#item-a3a7966b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/881,3466,507,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421887785
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493829941
+sort_value: '301123466'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,2419,573,146/150,/0/default.jpg
-label: butchering
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/881,3466,507,143/150,/0/default.jpg
+label: cabbages
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

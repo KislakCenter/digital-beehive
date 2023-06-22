@@ -2,24 +2,25 @@
 pid: index_2244
 volume: Volume 3
 image_number: '28'
-head: length
-entry:
+head: leaven
+entry: "<a href='/digital-beehive/num1/num_0111/'>107 [Leaven]</a>"
 topic:
 first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2324/'>long</a>"
+see:
 index:
-item: "#item-918c4707c"
+item: "#item-45298e76d"
 unparsed:
-line: 'Head: length|See: long|#item-918c4707c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1149,299,420,126/full/0/default.jpg
+line: 'Head: leaven|Entry: 107 [Leaven]|#item-45298e76d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/382,2733,402,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844075731
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842556613
+sort_value: '302812733'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1149,299,420,126/150,/0/default.jpg
-label: length
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/382,2733,402,112/150,/0/default.jpg
+label: leaven
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
 insertion_xref:

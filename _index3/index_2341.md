@@ -2,8 +2,8 @@
 pid: index_2341
 volume: Volume 3
 image_number: '29'
-head: lunaticks
-entry: "<a href='/digital-beehive/num7/num_2389/'>1591 [Lunaticks]</a>"
+head: love of Christ
+entry: "<a href='/digital-beehive/alpha3/alpha_0558/'>a</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-17655ec7b"
+item: "#item-aa3ef8729"
 unparsed:
-line: 'Head: lunaticks|Entry: 1591 [Lunaticks]|#item-17655ec7b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/870,727,482,121/full/0/default.jpg
+line: 'Head: love of Christ|Entry: a|#item-aa3ef8729'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/171,2088,424,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185401828
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178971277
+sort_value: '302912088'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/870,727,482,121/150,/0/default.jpg
-label: lunaticks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/171,2088,424,116/150,/0/default.jpg
+label: love of Christ
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

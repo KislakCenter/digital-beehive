@@ -2,24 +2,25 @@
 pid: index_0800
 volume: Volume 3
 image_number: '14'
-head: consent
-entry: "<a href='/digital-beehive/num3/num_0889/'>649 [Consent]</a>"
+head: connivance
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2023/'>indulgence</a>"
 index:
-item: "#item-712f65d16"
+item: "#item-d9f88112e"
 unparsed:
-line: 'Head: consent|Entry: 649 [Consent]|#item-712f65d16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1161,1508,452,116/full/0/default.jpg
+line: 'Head: connivance|See: indulgence|#item-d9f88112e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,1067,851,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541492407
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541355141
+sort_value: '301421067'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1161,1508,452,116/150,/0/default.jpg
-label: consent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,1067,851,154/150,/0/default.jpg
+label: connivance
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
 insertion_xref:

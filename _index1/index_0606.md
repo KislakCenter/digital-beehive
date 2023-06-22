@@ -2,26 +2,25 @@
 pid: index_0606
 volume: Volume 3
 image_number: '12'
-head: child
-entry: "<a href='/digital-beehive/alpha1/alpha_0142/'>a</a>|<a href='/digital-beehive/num2/num_0352/'>308
-  [Children]</a>|<a href='/digital-beehive/num9/num_3054/'>2117 [Children]</a>"
+head: charity
+entry:
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
 index:
-item: "#item-e8e9ca44d"
+item: "#item-e2c36d38a"
 unparsed:
-line: 'Head: child|Page: p.42 [Image 1.102]|Entry: a|Entry: 308 [Children]|Entry:
-  2117 [Children]|#item-e8e9ca44d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1824,2062,737,158/full/0/default.jpg
+line: 'Head: charity|See: love|#item-e2c36d38a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,3479,552,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460785757
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443568155
+sort_value: '301223479'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1824,2062,737,158/150,/0/default.jpg
-label: child
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,3479,552,136/150,/0/default.jpg
+label: charity
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_3271
 volume: Volume 3
 image_number: '38'
-head: raw
-entry: "<a href='/digital-beehive/num3/num_0947/'>678 [Raw]</a>"
+head: quitrent
+entry: "<a href='/digital-beehive/num2/num_0413/'>352 [Erbpacht]</a>"
 topic:
-first_letter: R
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4263f08ae"
+item: "#item-9cda2d584"
 unparsed:
-line: 'Head: raw|Entry: 678 [Raw]|#item-4263f08ae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1847,1581,425,150/full/0/default.jpg
+line: 'Head: quitrent|Entry: 352 [Erbpacht]|#item-9cda2d584'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1173,1974,531,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461167683
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455429183
+sort_value: '303821974'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1847,1581,425,150/150,/0/default.jpg
-label: raw
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1173,1974,531,126/150,/0/default.jpg
+label: quitrent
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

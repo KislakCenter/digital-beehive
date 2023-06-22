@@ -2,8 +2,8 @@
 pid: index_0177
 volume: Volume 3
 image_number: '8'
-head: anatomizing
-entry: "<a href='/digital-beehive/alpha1/alpha_0028/'>a</a>"
+head: apparitions in the air
+entry: "<a href='/digital-beehive/num7/num_2455/'>1621 [Phenomena's or Apparitions]</a>"
 topic:
 first_letter: A
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-092c8df63"
+item: "#item-64771077c"
 unparsed:
-line: 'Head: anatomizing|Entry: a|#item-092c8df63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/362,1414,591,134/full/0/default.jpg
+line: 'Head: apparitions in the air|Entry: 1621 [Phenomena''s or Apparitions] |#item-64771077c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1113,1351,569,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758050055
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760131793
+sort_value: '300821351'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/362,1414,591,134/150,/0/default.jpg
-label: anatomizing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1113,1351,569,93/150,/0/default.jpg
+label: apparitions in the air
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
 insertion_xref:

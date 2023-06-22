@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index2/index_1387/'>flea</a>"
+index: "<a href='/digital-beehive/index2/index_1475/'>flea</a>"
 item: "#item-7875404b6"
 unparsed:
 line: 'Entry: Flea|Topic: Flea|Index: flea|#item-7875404b6'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/790,261,2963,249/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508259087086
+sort_value: '201210261'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/790,261,600,180/250,/0/default.jpg
 label: Flea

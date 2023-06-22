@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index2/index_1491/'>flower</a>"
+index: "<a href='/digital-beehive/index2/index_1487/'>flower</a>"
 item: "#item-f5f1c5829"
 unparsed:
 line: 'Entry: Flower|Topic: Flower|Index: flower|#item-f5f1c5829'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/622,1446,3152,530/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563204706297
+sort_value: '201211446'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0479/622,1446,600,180/250,/0/default.jpg
 label: Flower

@@ -2,26 +2,27 @@
 pid: index_2198
 volume: Volume 3
 image_number: '27'
-head: Korb
-entry:
+head: lanthorn
+entry: 1852 [PAGE_MISSING]
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1000/'>denial</a>"
+see:
 index:
-item: "#item-bf8c26ff0"
+item: "#item-2027220d4"
 unparsed:
-line: 'Head: Korb|See: denial|#item-bf8c26ff0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,2762,439,98/full/0/default.jpg
+line: 'Head: lanthorn|Entry: 1852 [PAGE_MISSING]|#item-2027220d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1560,976,491,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559831720844
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835160687
+sort_value: '302730976'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,2762,439,98/150,/0/default.jpg
-label: Korb
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1560,976,491,87/150,/0/default.jpg
+label: lanthorn
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: It is unclear why Pastorius links "Korb" with "denial."
+issue:
 insertion_xref:
 order: '280'
 layout: index_item

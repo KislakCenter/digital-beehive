@@ -2,24 +2,25 @@
 pid: index_3807
 volume: Volume 3
 image_number: '44'
-head: some good
-entry: "<a href='/digital-beehive/num10/num_3356/'>2384 [Some good]</a>"
+head: soveraign
+entry: "<a href='/digital-beehive/num5/num_1693/'>1231 [Independent : Soveraign]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2015/'>indep</a>"
 index:
-item: "#item-d6f258309"
+item: "#item-d1a4b29e6"
 unparsed:
-line: 'Head: some good|Entry: 2384 [Some good]|#item-d6f258309'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/567,286,497,119/full/0/default.jpg
+line: 'Head: soveraign|See: indep|Entry: 1231 [Independent : Soveraign]|#item-d1a4b29e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/542,2183,563,191/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288051546
+annotation_uri: http://dev.llgc.org.uk/annotation/1529704630275
+sort_value: '304412183'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/567,286,497,119/150,/0/default.jpg
-label: some good
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/542,2183,563,191/150,/0/default.jpg
+label: soveraign
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
 insertion_xref:

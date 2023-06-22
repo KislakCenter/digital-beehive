@@ -10,13 +10,14 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3977/'>sugar</a>"
+index: "<a href='/digital-beehive/index4/index_3976/'>sugar</a>"
 item: "#item-15b291398"
 unparsed:
 line: 'Entry: Sugar|Topic: Sugar|Index: sugar|#item-15b291398'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/761,2923,3002,408/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532551364229
+sort_value: '205612923'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/761,2923,600,180/250,/0/default.jpg
 label: Sugar

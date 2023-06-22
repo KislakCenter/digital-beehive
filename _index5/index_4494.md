@@ -2,9 +2,8 @@
 pid: index_4494
 volume: Volume 3
 image_number: '52'
-head: washing
-entry: "<a href='/digital-beehive/alpha5/alpha_1027/'>a</a>|<a href='/digital-beehive/num5/num_1427/'>1061
-  [Washing]</a>"
+head: waving
+entry: "<a href='/digital-beehive/num8/num_2817/'>1917 [Waving]</a>"
 topic:
 first_letter: W
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-be34df83f"
+item: "#item-09609300b"
 unparsed:
-line: 'Head: washing|Entry: a|Entry: 1061 [Washing]|#item-be34df83f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/545,259,570,140/full/0/default.jpg
+line: 'Head: waving|Entry: 1917 [Waving]|#item-09609300b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/510,1681,467,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960041171
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960723162
+sort_value: '305211681'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/545,259,570,140/150,/0/default.jpg
-label: washing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/510,1681,467,116/150,/0/default.jpg
+label: waving
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '457'
+order: '456'
 layout: index_item
 collection: index5
 ---

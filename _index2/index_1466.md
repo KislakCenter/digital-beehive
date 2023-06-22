@@ -2,8 +2,8 @@
 pid: index_1466
 volume: Volume 3
 image_number: '20'
-head: flexible
-entry: "<a href='/digital-beehive/num10/num_3353/'>2381 [Tough : flexible]</a>"
+head: "[:52.]"
+entry:
 topic:
 first_letter: F
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-380ecce59"
-unparsed:
-line: 'Head: flexible|Entry: 2381 [Tough : flexible]|#item-380ecce59'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1782,2993,514,207/full/0/default.jpg
+item: "#item-23667846e"
+unparsed: 'Type: Index|Insertion Xref: [:52.]|#item-23667846e'
+line: 'Type: Index|Insertion Xref: [:52.]|#item-23667846e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/2359,1926,187,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562617478685
+annotation_uri: http://dev.llgc.org.uk/annotation/1562000917387
+sort_value: '302031926'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1782,2993,514,207/150,/0/default.jpg
-label: flexible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/2359,1926,187,105/150,/0/default.jpg
+label: "[:52.]"
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4720/'>Fistula</a>"
 order: '285'
 layout: index_item
 collection: index2

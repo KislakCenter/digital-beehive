@@ -2,24 +2,25 @@
 pid: index_3499
 volume: Volume 3
 image_number: '40'
-head: rival
-entry: "<a href='/digital-beehive/num10/num_3437/'>4455 [Rival]</a>"
+head: salamander stone
+entry:
 topic:
-first_letter: R
-page:
+first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1279/'>envy</a>"
+see: "<a href='/digital-beehive/index2/index_1474/'>flax</a>"
 index:
-item: "#item-b785141a6"
+item: "#item-bb53de5e3"
 unparsed:
-line: 'Head: rival|See: envy|Entry: 4455 [Rival]|#item-b785141a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/439,3214,705,150/full/0/default.jpg
+line: 'Head: salamander stone|Page: p.30 [Image 1.90]|See: flax|#item-bb53de5e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1848,3167,607,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232604060
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235335317
+sort_value: '304033167'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/439,3214,705,150/150,/0/default.jpg
-label: rival
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1848,3167,607,137/150,/0/default.jpg
+label: salamander stone
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

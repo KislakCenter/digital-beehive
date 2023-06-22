@@ -2,9 +2,8 @@
 pid: index_0863
 volume: Volume 3
 image_number: '15'
-head: curse
-entry: "<a href='/digital-beehive/num1/num_0029/'>29 [Curse]</a>|<a href='/digital-beehive/num5/num_1454/'>1078
-  [Curse]</a>"
+head: cosmography
+entry: "<a href='/digital-beehive/num3/num_0885/'>647 [Cosmography]</a>"
 topic:
 first_letter: C
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-1e80fb090"
+item: "#item-8325563f0"
 unparsed:
-line: 'Head: curse|Entry: 29 [Curse]|Entry: 1078 [Curse]|#item-1e80fb090'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1571,260,529,129/full/0/default.jpg
+line: 'Head: cosmography|Entry: 647 [Cosmography]|#item-8325563f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/149,513,552,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539810782980
+annotation_uri: http://dev.llgc.org.uk/annotation/1537973993737
+sort_value: '301510513'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1571,260,529,129/150,/0/default.jpg
-label: curse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/149,513,552,139/150,/0/default.jpg
+label: cosmography
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
 insertion_xref:

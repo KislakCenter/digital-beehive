@@ -2,28 +2,29 @@
 pid: index_4452
 volume: Volume 3
 image_number: '51'
-head: wanton love
-entry: "<a href='/digital-beehive/num6/num_2014/'>1402 [Lasciviousness]</a>"
+head: a Vulcano
+entry: "<a href='/digital-beehive/num1/num_0171/'>163 [Mountain]</a>"
 topic:
-first_letter: W
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d6281c206"
+item: "#item-33820dfc7"
 unparsed:
-line: 'Head: wanton love|Entry: 1402 [Lasciviousness]|#item-d6281c206'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1649,2034,566,130/full/0/default.jpg
+line: 'Head: a Vulcano|Entry: 163 [Mountain]|#item-33820dfc7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/953,2402,541,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648005410
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647058976
+sort_value: '305122402'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1649,2034,566,130/150,/0/default.jpg
-label: wanton love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/953,2402,541,108/150,/0/default.jpg
+label: a Vulcano
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '415'
+order: '414'
 layout: index_item
 collection: index5
 ---

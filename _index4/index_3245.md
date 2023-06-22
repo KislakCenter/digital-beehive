@@ -2,9 +2,8 @@
 pid: index_3245
 volume: Volume 3
 image_number: '38'
-head: queries
-entry: "<a href='/digital-beehive/alpha4/alpha_0770/'>a</a>|<a href='/digital-beehive/num5/num_1422/'>1058
-  [Queries]</a>"
+head: quails
+entry: "<a href='/digital-beehive/num8/num_2808/'>1913 [Quails]</a>"
 topic:
 first_letter: Q
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-60cd65c2a"
+item: "#item-0781c57cc"
 unparsed:
-line: 'Head: queries|Entry: a|Entry: 1058 [Queries]|#item-60cd65c2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1171,697,540,128/full/0/default.jpg
+line: 'Head: quails|Entry: 1913 [Quails]|#item-0781c57cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/416,2790,464,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455081491
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452694234
+sort_value: '303812790'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1171,697,540,128/150,/0/default.jpg
-label: queries
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/416,2790,464,181/150,/0/default.jpg
+label: quails
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,26 @@
 pid: index_0528
 volume: Volume 3
 image_number: '11'
-head: brokers
-entry:
+head: cannot
+entry: "<a href='/digital-beehive/num2/num_0387/'>334 [Impotency]</a>|<a href='/digital-beehive/num8/num_2768/'>1833
+  [Impotency]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2908/'>pawn</a>"
+see:
 index:
-item: "#item-458cc1dbf"
+item: "#item-540d30b44"
 unparsed:
-line: 'Head: brokers|See: pawn|#item-458cc1dbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/164,3196,523,121/full/0/default.jpg
+line: 'Head: cannot|Entry: 334 [Impotency]|Entry: 1833 [Impotency]|#item-540d30b44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1573,2309,623,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419921173
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495687363
+sort_value: '301132309'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/164,3196,523,121/150,/0/default.jpg
-label: brokers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1573,2309,623,132/150,/0/default.jpg
+label: cannot
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
 insertion_xref:

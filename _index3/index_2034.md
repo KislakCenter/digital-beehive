@@ -2,9 +2,8 @@
 pid: index_2034
 volume: Volume 3
 image_number: '26'
-head: indulgence
-entry: "<a href='/digital-beehive/num3/num_0924/'>667 [Indulgence]</a>|<a href='/digital-beehive/num5/num_1629/'>1195
-  [Indulgence]</a>"
+head: infinite
+entry: "<a href='/digital-beehive/num2/num_0497/'>406 [Infinitness]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ee8bf5940"
+item: "#item-70073e237"
 unparsed:
-line: 'Head: indulgence|Entry: 667 [Indulgence]|Entry: 1195 [Indulgence]|#item-ee8bf5940'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/395,463,733,159/full/0/default.jpg
+line: 'Head: infinite|Entry: 406 [Infinitness]|#item-70073e237'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,1673,477,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674460103
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744355946
+sort_value: '302611673'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/395,463,733,159/150,/0/default.jpg
-label: indulgence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,1673,477,142/150,/0/default.jpg
+label: infinite
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -9,7 +9,7 @@ first_letter: O
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4150/'>Testamt</a>"
+see: "<a href='/digital-beehive/index5/index_4098/'>Testamt</a>"
 index:
 item: "#item-7f8581984"
 unparsed:
@@ -17,6 +17,7 @@ line: 'Head: old Testamt|See: Testamt|#item-7f8581984'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/830,1727,667,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536348381327
+sort_value: '303321727'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/830,1727,667,149/150,/0/default.jpg
 label: old Testamt

@@ -2,24 +2,25 @@
 pid: index_1553
 volume: Volume 3
 image_number: '21'
-head: galilee
-entry: "<a href='/digital-beehive/num11/num_3563/'>4868 [Galileans]</a>"
+head: froth
+entry: "<a href='/digital-beehive/num7/num_2303/'>1547 [Juggling]</a>"
 topic:
-first_letter: G
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-89eca517d"
+item: "#item-2f2265ac8"
 unparsed:
-line: 'Head: galilee|Entry: 4868 [Galileans]|#item-89eca517d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2276,521,140/full/0/default.jpg
+line: 'Head: froth|Entry: 1547 [Juggling]|#item-2f2265ac8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/841,3288,390,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787067680
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784582976
+sort_value: '302123288'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2276,521,140/150,/0/default.jpg
-label: galilee
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/841,3288,390,109/150,/0/default.jpg
+label: froth
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

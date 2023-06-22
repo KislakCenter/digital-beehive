@@ -2,24 +2,25 @@
 pid: index_3891
 volume: Volume 3
 image_number: '45'
-head: stationer
+head: steel
 entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2116/'>Iron</a>"
 index:
-item: "#item-b1cf40302"
+item: "#item-e7596f93c"
 unparsed:
-line: 'Head: stationer|#item-b1cf40302'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/190,605,329,116/full/0/default.jpg
+line: 'Head: steel|See: Iron|#item-e7596f93c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/226,1352,414,71/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530108240422
+annotation_uri: http://dev.llgc.org.uk/annotation/1530219165232
+sort_value: '304511352'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/190,605,329,116/150,/0/default.jpg
-label: stationer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/226,1352,414,71/150,/0/default.jpg
+label: steel
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

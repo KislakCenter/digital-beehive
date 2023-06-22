@@ -2,8 +2,8 @@
 pid: index_4692
 volume: Volume 3
 image_number: '54'
-head: Sap
-entry: "<a href='/digital-beehive/num5/num_1711/'>1240 [Juice]</a>"
+head: Dr. Burnet
+entry: "<a href='/digital-beehive/num2/num_0536/'>432 [G. Burnet]</a>"
 topic:
 first_letter: insertion
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-1ac16ab12"
-unparsed: Type Index|Insertion [:56.]
-line: 'Type: Index|Insertion: [:56.]|Head: Sap|Entry: 1240 [Juice]|#item-1ac16ab12'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1767,1425,466,144/full/0/default.jpg
+item: "#item-0171cf8f9"
+unparsed: Type Index|Insertion [:27.]
+line: 'Type: Index|Insertion: [:27.]|Head: Dr. Burnet|Entry: 432 [G. Burnet]|#item-0171cf8f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1058,577,654,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560956707249
-insertion: "[:56.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1767,1425,466,144/150,/0/default.jpg
-label: Sap
+annotation_uri: http://dev.llgc.org.uk/annotation/1560953746543
+sort_value: '305420577'
+insertion: "[:27.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1058,577,654,162/150,/0/default.jpg
+label: Dr. Burnet
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '655'
+order: '654'
 layout: index_item
 collection: index5
 ---

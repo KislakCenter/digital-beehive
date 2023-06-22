@@ -2,24 +2,25 @@
 pid: index_3563
 volume: Volume 3
 image_number: '41'
-head: Scorpion
-entry: "<a href='/digital-beehive/num6/num_1917/'>1353 [Scorpion]</a>"
+head: scriptures uncertainty
+entry: "<a href='/digital-beehive/num2/num_0342/'>301 [Uncertainty of the h. Scripture]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-74a26b16d"
+item: "#item-ddcffbc44"
 unparsed:
-line: 'Head: Scorpion|Page: p.37 [Image 1.97]|Entry: 1353 [Scorpion]|#item-74a26b16d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2159,702,174/full/0/default.jpg
+line: 'Head: scriptures uncertainty|Entry: 301 [Uncertainty of the h. Scripture]|#item-ddcffbc44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/846,2774,652,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240839013
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241670700
+sort_value: '304122774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2159,702,174/150,/0/default.jpg
-label: Scorpion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/846,2774,652,156/150,/0/default.jpg
+label: scriptures uncertainty
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

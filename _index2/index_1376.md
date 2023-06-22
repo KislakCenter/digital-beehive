@@ -17,6 +17,7 @@ line: 'Head: face|Entry: 762 [PAGE_MISSING]|#item-8f9bbe1cb'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/379,390,304,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561399053656
+sort_value: '302010390'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/379,390,304,121/150,/0/default.jpg
 label: face

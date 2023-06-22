@@ -2,9 +2,8 @@
 pid: index_4223
 volume: Volume 3
 image_number: '48'
-head: transform
-entry: "<a href='/digital-beehive/num3/num_0892/'>650 [Transformation]</a>|<a href='/digital-beehive/num7/num_2520/'>1650
-  [Transmutation]</a>"
+head: treacle
+entry: "<a href='/digital-beehive/num6/num_1780/'>1281 [Treacle]</a>"
 topic:
 first_letter: T
 page:
@@ -12,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-581a46e0d"
+item: "#item-7b9d1c84a"
 unparsed:
-line: 'Head: transform|Entry: 650 [Transformation]|Entry: 1650 [Transmutation]|#item-581a46e0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1116,2071,632,145/full/0/default.jpg
+line: 'Head: treacle|Entry: 1281 [Treacle]|#item-7b9d1c84a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1090,3209,470,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561486632465
+annotation_uri: http://dev.llgc.org.uk/annotation/1561489746705
+sort_value: '304823209'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1116,2071,632,145/150,/0/default.jpg
-label: transform
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1090,3209,470,127/150,/0/default.jpg
+label: treacle
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '186'
+order: '185'
 layout: index_item
 collection: index5
 ---

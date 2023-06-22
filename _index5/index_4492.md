@@ -2,28 +2,29 @@
 pid: index_4492
 volume: Volume 3
 image_number: '52'
-head: wedding
-entry: "<a href='/digital-beehive/num5/num_1649/'>1208 [Wedding]</a>"
+head: washing pot
+entry:
 topic:
 first_letter: W
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-06bdb6b16"
+item: "#item-f6fdaa5ed"
 unparsed:
-line: 'Head: wedding|Entry: 1208 [Wedding]|#item-06bdb6b16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1109,238,462,166/full/0/default.jpg
+line: 'Head: washing pot|Page: p.38 [Image 1.98]|#item-f6fdaa5ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/489,1463,506,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968051939
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960617785
+sort_value: '305211463'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1109,238,462,166/150,/0/default.jpg
-label: wedding
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/489,1463,506,145/150,/0/default.jpg
+label: washing pot
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '455'
+order: '454'
 layout: index_item
 collection: index5
 ---

@@ -2,9 +2,8 @@
 pid: index_3533
 volume: Volume 3
 image_number: '41'
-head: the same
-entry: "<a href='/digital-beehive/num2/num_0296/'>264 [The Same]</a>|<a href='/digital-beehive/num7/num_2454/'>1621
-  [The Same]</a>"
+head: scabine
+entry: "<a href='/digital-beehive/alpha4/alpha_0837/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-ec046365a"
+item: "#item-e43295dd5"
 unparsed:
-line: 'Head: the same|Entry: 264 [The Same]|Entry: 1621 [The Same]|#item-ec046365a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/154,1158,621,136/full/0/default.jpg
+line: 'Head: scabine|Entry: a|#item-e43295dd5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/147,2775,388,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238847411
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240038077
+sort_value: '304112775'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/154,1158,621,136/150,/0/default.jpg
-label: the same
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/147,2775,388,108/150,/0/default.jpg
+label: scabine
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

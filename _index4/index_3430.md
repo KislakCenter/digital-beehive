@@ -2,8 +2,8 @@
 pid: index_3430
 volume: Volume 3
 image_number: '40'
-head: revenue
-entry: "<a href='/digital-beehive/num3/num_0724/'>568 [Rent or Revenue]</a>"
+head: rime. reiff
+entry: "<a href='/digital-beehive/num2/num_0465/'>383 [Rime upon the ground]</a>"
 topic:
 first_letter: R
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-7e259819a"
+item: "#item-f26a47423"
 unparsed:
-line: 'Head: revenue|Entry: 568 [Rent or Revenue]|#item-7e259819a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/442,248,470,132/full/0/default.jpg
+line: 'Head: rime. reiff|Entry: 383 [Rime upon the ground]|#item-f26a47423'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/443,2571,555,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230786594
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232269028
+sort_value: '304012571'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/442,248,470,132/150,/0/default.jpg
-label: revenue
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/443,2571,555,137/150,/0/default.jpg
+label: rime. reiff
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

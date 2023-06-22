@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0723/'>Possibility</a>|807 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_1977/'>impossible</a>"
+index: "<a href='/digital-beehive/index3/index_1974/'>impossible</a>"
 item: "#item-dfaf3e8c6"
 unparsed:
 line: 'Entry: Impossibility|Topic: Impossibility|Xref: Possibility|Xref: 807 [PAGE_MISSING]|Index:
@@ -18,6 +18,7 @@ line: 'Entry: Impossibility|Topic: Impossibility|Xref: Possibility|Xref: 807 [PA
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/762,2819,2981,721/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759554553
+sort_value: '202212819'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/762,2819,600,180/250,/0/default.jpg
 label: Impossibility

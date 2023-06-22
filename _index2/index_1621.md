@@ -2,8 +2,8 @@
 pid: index_1621
 volume: Volume 3
 image_number: '22'
-head: good. g√ºltig
-entry: "<a href='/digital-beehive/num5/num_1410/'>1052 [Good]</a>"
+head: gleanings
+entry: "<a href='/digital-beehive/num8/num_2789/'>1903 [Gleanings]</a>"
 topic:
 first_letter: G
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-74b53e86a"
+item: "#item-63d1c3ce9"
 unparsed:
-line: 'Head: good. g√ºltig|Entry: 1052 [Good]|#item-74b53e86a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1848,486,552,132/full/0/default.jpg
+line: 'Head: gleanings|Entry: 1903 [Gleanings]|#item-63d1c3ce9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/411,3141,541,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561051914983
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044120644
+sort_value: '302213141'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1848,486,552,132/150,/0/default.jpg
-label: good. g√ºltig
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/411,3141,541,156/150,/0/default.jpg
+label: gleanings
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
 insertion_xref:

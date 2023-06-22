@@ -2,8 +2,8 @@
 pid: index_3039
 volume: Volume 3
 image_number: '36'
-head: pocket
-entry: "<a href='/digital-beehive/alpha4/alpha_0718/'>a</a>"
+head: plausible
+entry: "<a href='/digital-beehive/num1/num_0097/'>94 [a Plausible man]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d6d65b194"
+item: "#item-acf4a12ff"
 unparsed:
-line: 'Head: pocket|Entry: a|#item-d6d65b194'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/458,1943,396,117/full/0/default.jpg
+line: 'Head: plausible|Entry: 94 [a Plausible man]|#item-acf4a12ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/462,605,516,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208121710
+annotation_uri: http://dev.llgc.org.uk/annotation/1542052862912
+sort_value: '303610605'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/458,1943,396,117/150,/0/default.jpg
-label: pocket
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/462,605,516,144/150,/0/default.jpg
+label: plausible
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

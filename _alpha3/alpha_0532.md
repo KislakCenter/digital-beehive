@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3080/'>2141 [Leprosie]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2246/'>leprosie</a>"
+index: "<a href='/digital-beehive/index3/index_2257/'>leprosie</a>"
 item: "#item-7393ec640"
 unparsed:
 line: 'Entry: Leprosie|Topic: Leprosie|XRef: 2141 [Leprosie]|Index: leprosie|#item-7393ec640'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/379,2829,3013,346/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564768701559
+sort_value: '202712829'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/379,2829,600,180/250,/0/default.jpg
 label: Leprosie

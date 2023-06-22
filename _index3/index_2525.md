@@ -2,24 +2,25 @@
 pid: index_2525
 volume: Volume 3
 image_number: '30'
-head: Mermaids
-entry: "<a href='/digital-beehive/num7/num_2336/'>1563 [Mermain & Mermaids]</a>"
+head: ministers of Gospel
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3114/'>Preachers</a>|<a href='/digital-beehive/index5/index_4072/'>Teachers</a>"
 index:
-item: "#item-e1ba2e538"
+item: "#item-adfa67363"
 unparsed:
-line: 'Head: Mermaids|Entry: 1563 [Mermain & Mermaids]|#item-e1ba2e538'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1099,3259,464,129/full/0/default.jpg
+line: 'Head: ministers of Gospel|See: Preachers|See: Teachers|#item-adfa67363'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1818,2649,684,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269798261
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274608284
+sort_value: '303032649'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1099,3259,464,129/150,/0/default.jpg
-label: Mermaids
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1818,2649,684,136/150,/0/default.jpg
+label: ministers of Gospel
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

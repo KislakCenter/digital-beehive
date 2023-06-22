@@ -2,26 +2,27 @@
 pid: index_2509
 volume: Volume 3
 image_number: '30'
-head: meadow
-entry:
+head: midnight
+entry: 765 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2873/'>pasture</a>"
+see: "<a href='/digital-beehive/index3/index_2729/'>noon</a>"
 index:
-item: "#item-dcfece0f8"
+item: "#item-39c0dcce9"
 unparsed:
-line: 'Head: meadow|See: pasture|#item-dcfece0f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/387,2613,760,165/full/0/default.jpg
+line: 'Head: midnight|See: noon|Entry: 765 [PAGE_MISSING]|#item-39c0dcce9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,1201,652,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265579534
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273787400
+sort_value: '303031201'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/387,2613,760,165/150,/0/default.jpg
-label: meadow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,1201,652,146/150,/0/default.jpg
+label: midnight
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: The meaning of "It. field" cannot be determined.
+issue:
 insertion_xref:
 order: '591'
 layout: index_item

@@ -2,24 +2,25 @@
 pid: index_3439
 volume: Volume 3
 image_number: '40'
-head: reviling
-entry: "<a href='/digital-beehive/num3/num_0677/'>538 [Reviling, so called]</a>"
+head: rock
+entry: "<a href='/digital-beehive/num8/num_2810/'>1914 [Rock]</a>"
 topic:
 first_letter: R
-page:
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-6f77128e7"
+item: "#item-02ac0e439"
 unparsed:
-line: 'Head: reviling|Entry: 538 [Reviling, so called]|#item-6f77128e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/444,561,476,134/full/0/default.jpg
+line: 'Head: rock|Page: p.32 [Image 1.92]|Entry: 1914 [Rock]|#item-02ac0e439'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1173,361,576,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231123186
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232840500
+sort_value: '304020361'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/444,561,476,134/150,/0/default.jpg
-label: reviling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1173,361,576,133/150,/0/default.jpg
+label: rock
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
 insertion_xref:

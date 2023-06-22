@@ -2,9 +2,9 @@
 pid: index_2761
 volume: Volume 3
 image_number: '33'
-head: opportunity
-entry: "<a href='/digital-beehive/num3/num_0737/'>578 [Seasonable]</a>|<a href='/digital-beehive/num9/num_3146/'>2203
-  [Seasonable Opportunity]</a>"
+head: observation
+entry: "<a href='/digital-beehive/num3/num_0870/'>640 [Observation]</a>|<a href='/digital-beehive/num6/num_2166/'>1472
+  [Remarkable]</a>"
 topic:
 first_letter: O
 page:
@@ -12,19 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-05f04fb4c"
+item: "#item-6ee282f59"
 unparsed:
-line: 'Head: opportunity|Entry: 578 [Seasonable]|Entry: 2203 [Seasonable Opportunity]|#item-05f04fb4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1519,878,835,157/full/0/default.jpg
+line: 'Head: observation|Entry: 640 [Observation]|Entry: 1472 [Remarkable]|#item-6ee282f59'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/116,2410,839,195/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161571809
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347405082
+sort_value: '303312410'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1519,878,835,157/150,/0/default.jpg
-label: opportunity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/116,2410,839,195/150,/0/default.jpg
+label: observation
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0012'
+order: '0009'
 layout: index_item
 collection: index4
 ---

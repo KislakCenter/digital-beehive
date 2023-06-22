@@ -2,8 +2,8 @@
 pid: index_2500
 volume: Volume 3
 image_number: '30'
-head: minerva
-entry: "<a href='/digital-beehive/num5/num_1361/'>1019 [Spinning]</a>"
+head: metaphor
+entry: "<a href='/digital-beehive/num2/num_0297/'>265 [Metaphor or figurative Speech]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-8050bf144"
+item: "#item-fbbdb9d29"
 unparsed:
-line: 'Head: minerva|Entry: 1019 [Spinning]|#item-8050bf144'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1812,2233,405,89/full/0/default.jpg
+line: 'Head: metaphor|Entry: 265 [Metaphor or figurative Speech]|#item-fbbdb9d29'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1824,407,507,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274344460
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273288010
+sort_value: '303030407'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1812,2233,405,89/150,/0/default.jpg
-label: minerva
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1824,407,507,162/150,/0/default.jpg
+label: metaphor
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

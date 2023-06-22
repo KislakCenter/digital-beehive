@@ -2,8 +2,8 @@
 pid: index_3979
 volume: Volume 3
 image_number: '46'
-head: suttler
-entry: "<a href='/digital-beehive/num3/num_1048/'>714 [a haggler]</a>"
+head: sum[m]er
+entry: "<a href='/digital-beehive/num6/num_1778/'>1280 [Summer]</a>"
 topic:
 first_letter: S
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-ca98a62b7"
+item: "#item-cde07eadd"
 unparsed:
-line: 'Head: suttler|Entry: 714 [a haggler]|#item-ca98a62b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1097,1068,357,106/full/0/default.jpg
+line: 'Head: sum[m]er|Entry: 1280 [Summer]|#item-cde07eadd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/465,637,394,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531685438110
+annotation_uri: http://dev.llgc.org.uk/annotation/1530472475396
+sort_value: '304610637'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1097,1068,357,106/150,/0/default.jpg
-label: suttler
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/465,637,394,93/150,/0/default.jpg
+label: sum[m]er
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1226'
+order: '1227'
 layout: index_item
 collection: index4
 ---

@@ -2,25 +2,27 @@
 pid: index_3319
 volume: Volume 3
 image_number: '38'
-head: rainbow
-entry: "<a href='/digital-beehive/alpha4/alpha_0776/'>a</a>|<a href='/digital-beehive/num7/num_2386/'>1590
-  [Rainbow]</a>"
+head: reconciliation
+entry: 770 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1958/'>1375 [Reconciliation]</a>|<a
+  href='/digital-beehive/num8/num_2881/'>1957 [Reconciliation]</a>
 topic:
 first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-70a9c0fd8"
+item: "#item-8e3ce07f3"
 unparsed:
-line: 'Head: rainbow|Page: p.26 [Image 1.86]|Entry: a|Entry: 1590 [Rainbow]|#item-70a9c0fd8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1172,3497,652,134/full/0/default.jpg
+line: 'Head: reconciliation|Entry: 770 [PAGE_MISSING]|ENtry: 1375 [Reconciliation]|Entry:
+  1957 [Reconciliation]|#item-8e3ce07f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1821,3315,735,215/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459785536
+annotation_uri: http://dev.llgc.org.uk/annotation/1558462106178
+sort_value: '303833315'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1172,3497,652,134/150,/0/default.jpg
-label: rainbow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1821,3315,735,215/150,/0/default.jpg
+label: reconciliation
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

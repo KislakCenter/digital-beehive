@@ -2,8 +2,9 @@
 pid: index_1539
 volume: Volume 3
 image_number: '21'
-head: foregoing
-entry: "<a href='/digital-beehive/num8/num_2710/'>1779 [Foregoing]</a>"
+head: french
+entry: "<a href='/digital-beehive/alpha2/alpha_0351/'>a</a>|<a href='/digital-beehive/num6/num_1794/'>1288
+  [French]</a>|4644 [PAGE_MISSING]"
 topic:
 first_letter: F
 page:
@@ -11,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6de66383b"
+item: "#item-5c9e32b4d"
 unparsed:
-line: 'Head: foregoing|Entry: 1779 [Foregoing]|#item-6de66383b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/154,1950,504,85/full/0/default.jpg
+line: 'Head: french|Entry: a|Entry: 1288 [French]|Entry: 4644 [PAGE_MISSING]|#item-5c9e32b4d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/870,2068,675,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531501943386
+annotation_uri: http://dev.llgc.org.uk/annotation/1532619002953
+sort_value: '302122068'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/154,1950,504,85/150,/0/default.jpg
-label: foregoing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/870,2068,675,105/150,/0/default.jpg
+label: french
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0402/'>hast</a>|<a href='/digital-beehive/alpha5/alpha_0973/'>too
   soon</a>|<a href='/digital-beehive/num1/num_0183/'>175 [Dispatch]</a>|797 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3821/'>soon</a>"
+index: "<a href='/digital-beehive/index4/index_3795/'>soon</a>"
 item: "#item-4adfacb54"
 unparsed:
 line: 'Entry: Soon|Topic: Soon|Xref: hast|Xref: too soon|Xref: 175 [Dispatch]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: Soon|Topic: Soon|Xref: hast|Xref: too soon|Xref: 175 [Dispatch]|Xr
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/764,2207,2965,380/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532449192504
+sort_value: '205412207'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/764,2207,600,180/250,/0/default.jpg
 label: Soon

@@ -2,24 +2,25 @@
 pid: index_3289
 volume: Volume 3
 image_number: '38'
-head: purse
-entry:
+head: Ranters
+entry: "<a href='/digital-beehive/num1/num_0052/'>52 [Ranterism]</a>"
 topic:
-first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+first_letter: R
+page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3039/'>pocket</a>"
+see:
 index:
-item: "#item-d9586f165"
+item: "#item-2d443e84a"
 unparsed:
-line: 'Head: purse|Page: p.38 [Image 1.98]|See: pocket|#item-d9586f165'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/386,2257,717,146/full/0/default.jpg
+line: 'Head: Ranters|Entry: 52 [Ranterism]|#item-2d443e84a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1848,447,488,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452483652
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460356029
+sort_value: '303830447'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/386,2257,717,146/150,/0/default.jpg
-label: purse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1848,447,488,185/150,/0/default.jpg
+label: Ranters
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
 insertion_xref:

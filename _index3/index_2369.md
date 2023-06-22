@@ -2,8 +2,8 @@
 pid: index_2369
 volume: Volume 3
 image_number: '29'
-head: lycanthropia
-entry: "<a href='/digital-beehive/num7/num_2284/'>1535 [Lycanthrapia]</a>"
+head: lusty
+entry: "<a href='/digital-beehive/num4/num_1126/'>882 [Pleasure]</a>"
 topic:
 first_letter: L
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-5b3c8598b"
+item: "#item-05fed984b"
 unparsed:
-line: 'Head: lycanthropia|Entry: 1535 [Lycanthrapia]|#item-5b3c8598b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,1753,540,142/full/0/default.jpg
+line: 'Head: lusty|Entry: 882 [Pleasure]|#item-05fed984b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/862,1115,368,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186238272
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185672888
+sort_value: '302921115'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,1753,540,142/150,/0/default.jpg
-label: lycanthropia
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/862,1115,368,127/150,/0/default.jpg
+label: lusty
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

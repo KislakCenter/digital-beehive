@@ -2,8 +2,8 @@
 pid: index_3103
 volume: Volume 3
 image_number: '36'
-head: poets
-entry: "<a href='/digital-beehive/num7/num_2377/'>1584 [Poets]</a>|4563 [PAGE_MISSING]"
+head: practise
+entry: "<a href='/digital-beehive/num6/num_1898/'>1345 [Experience]</a>"
 topic:
 first_letter: P
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d1a8046d0"
+item: "#item-1d0011808"
 unparsed:
-line: 'Head: poets|Entry: 1584 [Poets]|Entry: 4563 [PAGE_MISSING]|#item-d1a8046d0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/437,2410,635,194/full/0/default.jpg
+line: 'Head: practise|Entry: 1345 [Experience]|#item-1d0011808'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1912,402,536,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208591515
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439458891
+sort_value: '303630402'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/437,2410,635,194/150,/0/default.jpg
-label: poets
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1912,402,536,102/150,/0/default.jpg
+label: practise
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:

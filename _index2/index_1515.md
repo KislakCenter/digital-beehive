@@ -2,27 +2,28 @@
 pid: index_1515
 volume: Volume 3
 image_number: '21'
-head: fox
-entry: "<a href='/digital-beehive/alpha2/alpha_0348/'>a</a>"
+head: "[:19.]"
+entry:
 topic:
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-592d93e9b"
-unparsed:
-line: 'Head: fox|Page: p.34 [Image 1.94]|Entry: a|#item-592d93e9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/902,1213,516,116/full/0/default.jpg
+item: "#item-5e320c6fe"
+unparsed: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
+line: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/716,3211,152,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508356627189
+annotation_uri: http://dev.llgc.org.uk/annotation/1560782489609
+sort_value: '302113211'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/902,1213,516,116/150,/0/default.jpg
-label: fox
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/716,3211,152,101/150,/0/default.jpg
+label: "[:19.]"
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4683/'>forrest</a>"
 order: '334'
 layout: index_item
 collection: index2

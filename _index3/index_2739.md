@@ -2,8 +2,8 @@
 pid: index_2739
 volume: Volume 3
 image_number: '32'
-head: nightmare
-entry: "<a href='/digital-beehive/num3/num_0933/'>673 [Night-Mare]</a>"
+head: notorious
+entry: "<a href='/digital-beehive/num1/num_0195/'>186 [Manifest]</a>"
 topic:
 first_letter: N
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-eabfcd449"
+item: "#item-8bf9dabdf"
 unparsed:
-line: 'Head: nightmare|Entry: 673 [Night-Mare]|#item-eabfcd449'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1117,3362,466,91/full/0/default.jpg
+line: 'Head: notorious|Entry: 186 [Manifest]|#item-8bf9dabdf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1835,2896,484,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560446238874
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449796580
+sort_value: '303232896'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1117,3362,466,91/150,/0/default.jpg
-label: nightmare
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1835,2896,484,95/150,/0/default.jpg
+label: notorious
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
 insertion_xref:

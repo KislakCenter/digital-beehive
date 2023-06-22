@@ -2,24 +2,25 @@
 pid: index_2172
 volume: Volume 3
 image_number: '27'
-head: last unction
-entry: "<a href='/digital-beehive/alpha3/alpha_0517/'>a</a>"
+head: knight
+entry: "<a href='/digital-beehive/num8/num_2691/'>1760 [Knighthood]</a>"
 topic:
-first_letter: L
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-51e0fafcf"
+item: "#item-ca15f6fdf"
 unparsed:
-line: 'Head: last unction|Entry: a|#item-51e0fafcf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1533,1912,495,111/full/0/default.jpg
+line: 'Head: knight|Entry: 1760 [Knighthood]|#item-ca15f6fdf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/843,2113,460,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835976203
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762505905
+sort_value: '302722113'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1533,1912,495,111/150,/0/default.jpg
-label: last unction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/843,2113,460,125/150,/0/default.jpg
+label: knight
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
 insertion_xref:

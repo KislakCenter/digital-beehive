@@ -2,9 +2,8 @@
 pid: index_2327
 volume: Volume 3
 image_number: '29'
-head: long agoe
-entry: "<a href='/digital-beehive/num1/num_0269/'>248 [Long ago]</a>|<a href='/digital-beehive/num10/num_3464/'>4477
-  [Long ago]</a>"
+head: to look over
+entry: "<a href='/digital-beehive/num10/num_3315/'>2345 [To View]</a>"
 topic:
 first_letter: L
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-6faf21009"
+item: "#item-13f4353c5"
 unparsed:
-line: 'Head: long agoe|Entry: 248 [Long ago]|Entry: 4477 [Long ago]|#item-6faf21009'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/190,348,585,108/full/0/default.jpg
+line: 'Head: to look over|Entry: 2345 [To View]|#item-13f4353c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/177,716,468,64/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560177068868
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177685013
+sort_value: '302910716'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/190,348,585,108/150,/0/default.jpg
-label: long agoe
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/177,716,468,64/150,/0/default.jpg
+label: to look over
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
 insertion_xref:

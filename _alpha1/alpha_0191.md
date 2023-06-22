@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0323/'>fear</a>|<a href='/digital-beehive/alpha2/alpha_0310/'>fainthearted</a>|<a
   href='/digital-beehive/num9/num_3000/'>2066 [Cowardly]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0952/'>cowardize</a>"
+index: "<a href='/digital-beehive/index1/index_0889/'>cowardize</a>"
 item: "#item-1aabd9a98"
 unparsed:
 line: 'Entry: Coward|Topic: Coward|Xref: fear|Xref: fainthearted|Xref: 2066 [Cowardly]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Coward|Topic: Coward|Xref: fear|Xref: fainthearted|Xref: 2066 [Cow
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/761,210,3077,562/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499785656287
+sort_value: '144610210'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/761,210,600,180/250,/0/default.jpg
 label: Coward

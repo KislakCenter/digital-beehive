@@ -2,24 +2,26 @@
 pid: index_3585
 volume: Volume 3
 image_number: '41'
-head: scrivener
-entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
+head: secret writing or num.
+entry: "<a href='/digital-beehive/num6/num_2184/'>1481 [Secret Writing]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.300]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-48e2f1439"
+item: "#item-19d9ec7e9"
 unparsed:
-line: 'Head: scrivener|Entry: 260 [Scribe or publick Notary]|#item-48e2f1439'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/852,2929,529,142/full/0/default.jpg
+line: 'Head: secret writing or num.|Page: p.380 [Image 2.300]|Entry: 1481 [Secret
+  Writing]|#item-19d9ec7e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1576,1845,641,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241696255
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242663038
+sort_value: '304131845'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/852,2929,529,142/150,/0/default.jpg
-label: scrivener
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1576,1845,641,127/150,/0/default.jpg
+label: secret writing or num.
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
 insertion_xref:

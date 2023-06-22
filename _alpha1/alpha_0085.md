@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0048/'>Atheism</a>|<a href='/digital-beehive/num6/num_2132/'>1455
   [Swearing]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0351/'>blasphemy</a>"
+index: "<a href='/digital-beehive/index1/index_0387/'>blasphemy</a>"
 item: "#item-05f2b33d5"
 unparsed:
 line: 'Entry: Blasphemy|Topic: Blasphemy|Xref: Atheism|Xref: 1455 [Swearing]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Blasphemy|Topic: Blasphemy|Xref: Atheism|Xref: 1455 [Swearing]|Ind
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/299,612,3093,576/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558664098685
+sort_value: '143710612'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/299,612,600,180/250,/0/default.jpg
 label: Blasphemy

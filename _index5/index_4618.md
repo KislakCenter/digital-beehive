@@ -2,28 +2,29 @@
 pid: index_4618
 volume: Volume 3
 image_number: '53'
-head: 'yes'
-entry: "<a href='/digital-beehive/num2/num_0621/'>495 [Yes]</a>"
+head: worlds. end
+entry: "<a href='/digital-beehive/alpha5/alpha_1062/'>a</a>"
 topic:
-first_letter: Y
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-13bc8cea9"
+item: "#item-b1c57f420"
 unparsed:
-line: 'Head: yes|Entry: 495 [Yes]|#item-13bc8cea9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1552,2211,373,126/full/0/default.jpg
+line: 'Head: worlds. end|Entry: a|#item-b1c57f420'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/848,2977,385,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799101533
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797367398
+sort_value: '305322977'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1552,2211,373,126/150,/0/default.jpg
-label: 'yes'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/848,2977,385,137/150,/0/default.jpg
+label: worlds. end
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '581'
+order: '580'
 layout: index_item
 collection: index5
 ---

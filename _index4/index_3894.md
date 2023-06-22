@@ -2,8 +2,8 @@
 pid: index_3894
 volume: Volume 3
 image_number: '45'
-head: subject or theme
-entry: 4592 [[PAGE_MISSING]]
+head: stepfather
+entry: "<a href='/digital-beehive/alpha4/alpha_0914/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-04563ba0d"
+item: "#item-ecd35866e"
 unparsed:
-line: 'Head: subject or theme|Entry: 4592 [[PAGE_MISSING]]|#item-04563ba0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1589,723,627,88/full/0/default.jpg
+line: 'Head: stepfather|Entry: a|#item-ecd35866e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/195,1507,453,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530467432135
+annotation_uri: http://dev.llgc.org.uk/annotation/1565289982482
+sort_value: '304511507'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1589,723,627,88/150,/0/default.jpg
-label: subject or theme
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/195,1507,453,134/150,/0/default.jpg
+label: stepfather
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

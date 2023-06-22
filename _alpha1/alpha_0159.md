@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num7/num_2260/'>1525 [False Comfort]</a>|<a href='/digital-beehive/num9/num_2949/'>2015
   [Hope]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0689/'>comfort false</a>"
+index: "<a href='/digital-beehive/index1/index_0733/'>comfort false</a>"
 item: "#item-0a6af823f"
 unparsed:
 line: 'Entry: False Comfort|Topic: False Comfort|Xref: 1525 [False Comfort]|Xref:
@@ -19,6 +19,7 @@ line: 'Entry: False Comfort|Topic: False Comfort|Xref: 1525 [False Comfort]|Xref
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/810,4375,3083,708/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499700201280
+sort_value: '144214375'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/810,4375,600,180/250,/0/default.jpg
 label: False Comfort

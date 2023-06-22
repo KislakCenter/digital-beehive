@@ -2,8 +2,8 @@
 pid: index_1611
 volume: Volume 3
 image_number: '22'
-head: grapes
-entry: "<a href='/digital-beehive/num4/num_1298/'>973 [Grapes]</a>"
+head: "[:46.]"
+entry:
 topic:
 first_letter: G
 page:
@@ -11,18 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-76e15ed6a"
-unparsed:
-line: 'Head: grapes|Entry: 973 [Grapes]|#item-76e15ed6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1846,2649,394,113/full/0/default.jpg
+item: "#item-1e8f21771"
+unparsed: 'Type: Index|Insertion Xref: [:46.]|#item-1e8f21771'
+line: 'Type: Index|Insertion Xref: [:46.]|#item-1e8f21771'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/980,2092,211,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053417260
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043567800
+sort_value: '302212092'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1846,2649,394,113/150,/0/default.jpg
-label: grapes
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/980,2092,211,129/150,/0/default.jpg
+label: "[:46.]"
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
+insertion_xref: "<a href='/digital-beehive/index5/index_4714/'>to gild</a>"
 order: '430'
 layout: index_item
 collection: index2

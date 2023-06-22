@@ -2,9 +2,8 @@
 pid: index_0041
 volume: Volume 3
 image_number: '7'
-head: absence
-entry: "<a href='/digital-beehive/alpha1/alpha_0001/'>a</a>|<a href='/digital-beehive/num6/num_2006/'>1397
-  [Absence]</a>"
+head: address
+entry: "<a href='/digital-beehive/num9/num_3128/'>2185 [Address]</a>"
 topic:
 first_letter: A
 page:
@@ -12,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9544e8d82"
+item: "#item-c5f594cfe"
 unparsed:
-line: 'Head: absence|Entry: a|Entry: 1397 [Absence]|#item-9544e8d82'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/186,1155,535,136/full/0/default.jpg
+line: 'Head: address|Entry: 2185 [Address]|#item-c5f594cfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/836,298,520,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758963273
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760616456
+sort_value: '300720298'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/186,1155,535,136/150,/0/default.jpg
-label: absence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/836,298,520,93/150,/0/default.jpg
+label: address
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
 insertion_xref:

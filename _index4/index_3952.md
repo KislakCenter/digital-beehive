@@ -2,8 +2,8 @@
 pid: index_3952
 volume: Volume 3
 image_number: '45'
-head: strictly
-entry: 4656 [PAGE_MISSING]
+head: subject or theme
+entry: 4592 [[PAGE_MISSING]]
 topic:
 first_letter: S
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-108c49fbc"
+item: "#item-04563ba0d"
 unparsed:
-line: 'Head: strictly|Entry: 4656 [PAGE_MISSING]|#item-108c49fbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/908,2685,466,140/full/0/default.jpg
+line: 'Head: subject or theme|Entry: 4592 [[PAGE_MISSING]]|#item-04563ba0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1589,723,627,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290857932
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467432135
+sort_value: '304530723'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/908,2685,466,140/150,/0/default.jpg
-label: strictly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1589,723,627,88/150,/0/default.jpg
+label: subject or theme
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
 insertion_xref:

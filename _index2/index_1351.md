@@ -2,24 +2,25 @@
 pid: index_1351
 volume: Volume 3
 image_number: '19'
-head: especially
-entry: "<a href='/digital-beehive/num5/num_1367/'>1022 [Especially]</a>"
+head: expedient
+entry:
 topic:
 first_letter: E
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3180/'>profit</a>"
 index:
-item: "#item-0511113ce"
+item: "#item-98aa014ab"
 unparsed:
-line: 'Head: especially|Entry: 1022 [Especially]|#item-0511113ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/129,2860,510,161/full/0/default.jpg
+line: 'Head: expedient|See: profit|#item-98aa014ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1533,1320,675,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560279068813
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044343774
+sort_value: '301931320'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/129,2860,510,161/150,/0/default.jpg
-label: especially
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1533,1320,675,106/150,/0/default.jpg
+label: expedient
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

@@ -2,24 +2,25 @@
 pid: index_1489
 volume: Volume 3
 image_number: '21'
-head: fruit
-entry: "<a href='/digital-beehive/alpha2/alpha_0354/'>a</a>"
+head: flux & reflux
+entry: "<a href='/digital-beehive/num11/num_3530/'>4835 [Flux and reflux]</a>"
 topic:
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-282a5f752"
+item: "#item-ac3718678"
 unparsed:
-line: 'Head: fruit|Page: p.33 [Image 1.93]|Entry: a|#item-282a5f752'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1620,259,507,178/full/0/default.jpg
+line: 'Head: flux & reflux|Entry: 4835 [Flux and reflux]|#item-ac3718678'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/174,563,549,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560785379854
+annotation_uri: http://dev.llgc.org.uk/annotation/1531232906011
+sort_value: '302110563'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1620,259,507,178/150,/0/default.jpg
-label: fruit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/174,563,549,93/150,/0/default.jpg
+label: flux & reflux
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
 insertion_xref:

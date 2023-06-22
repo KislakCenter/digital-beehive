@@ -10,13 +10,14 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0393/'>339 [Guns]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1795/'>guns</a>"
+index: "<a href='/digital-beehive/index2/index_1733/'>guns</a>"
 item: "#item-50a2aefd5"
 unparsed:
 line: 'Entry: Gun|Topic: Gun|Xref: 339 [Guns]|Index: guns|#item-50a2aefd5'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/722,2816,3000,208/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508858085732
+sort_value: '201612816'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/722,2816,600,180/250,/0/default.jpg
 label: Gun

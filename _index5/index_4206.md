@@ -2,28 +2,29 @@
 pid: index_4206
 volume: Volume 3
 image_number: '48'
-head: tricks
-entry: "<a href='/digital-beehive/num5/num_1687/'>1228 [Craftiness]</a>"
+head: town
+entry: "<a href='/digital-beehive/num1/num_0170/'>162 [City]</a>|1878 [PAGE_MISSING]"
 topic:
 first_letter: T
 page:
-add: craftiness
+add:
 xref:
 see:
 index:
-item: "#item-f3e024523"
+item: "#item-7972d9119"
 unparsed:
-line: 'Head: tricks|Entry: 1228 [Craftiness]|Add: craftiness|#item-f3e024523'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1806,1292,524,254/full/0/default.jpg
+line: 'Head: town|Entry: 162 [City]|Entry: 1878 [PAGE_MISSING]|#item-7972d9119'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1102,999,511,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088664170
+annotation_uri: http://dev.llgc.org.uk/annotation/1561484271418
+sort_value: '304820999'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1806,1292,524,254/150,/0/default.jpg
-label: tricks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1102,999,511,119/150,/0/default.jpg
+label: town
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '169'
+order: '168'
 layout: index_item
 collection: index5
 ---

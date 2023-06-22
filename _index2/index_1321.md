@@ -2,8 +2,8 @@
 pid: index_1321
 volume: Volume 3
 image_number: '19'
-head: explanation
-entry: "<a href='/digital-beehive/num3/num_1042/'>713 [Explanation]</a>"
+head: eunuch
+entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Eunuch]</a>"
 topic:
 first_letter: E
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-bf718f5c4"
+item: "#item-b422abbad"
 unparsed:
-line: 'Head: explanation|Entry: 713 [Explanation]|#item-bf718f5c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1524,1596,583,163/full/0/default.jpg
+line: 'Head: eunuch|Entry: 333 [Eunuch]|#item-b422abbad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/844,1590,437,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561395583936
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352113503
+sort_value: '301921590'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1524,1596,583,163/150,/0/default.jpg
-label: explanation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/844,1590,437,133/150,/0/default.jpg
+label: eunuch
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
 insertion_xref:

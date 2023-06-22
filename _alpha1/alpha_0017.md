@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0019/'>19 [Clothes]</a>|<a href='/digital-beehive/num1/num_0270/'>249
   [Alamode]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0020/'>alamode</a>"
+index: "<a href='/digital-beehive/index1/index_0085/'>alamode</a>"
 item: "#item-d48f2cc1d"
 unparsed:
 line: 'Entry: Alamode|Topic: Alamode|Xref: 19 [Clothes]|Xref: 249 [Alamode]|Index:
@@ -19,6 +19,7 @@ line: 'Entry: Alamode|Topic: Alamode|Xref: 19 [Clothes]|Xref: 249 [Alamode]|Inde
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/702,2285,3143,354/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490629983525
+sort_value: '143212285'
 insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/702,2285,600,180/250,/0/default.jpg
 label: Alamode

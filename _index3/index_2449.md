@@ -2,8 +2,8 @@
 pid: index_2449
 volume: Volume 3
 image_number: '30'
-head: market
-entry: "<a href='/digital-beehive/num3/num_1044/'>714 [Market]</a>"
+head: mathematicks
+entry: "<a href='/digital-beehive/alpha3/alpha_0580/'>a</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-d87de56bd"
+item: "#item-818ed69a4"
 unparsed:
-line: 'Head: market|Entry: 714 [Market]|#item-d87de56bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/405,335,413,108/full/0/default.jpg
+line: 'Head: mathematicks|Entry: a|#item-818ed69a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/395,2055,585,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560262887534
+annotation_uri: http://dev.llgc.org.uk/annotation/1560264560193
+sort_value: '303012055'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/405,335,413,108/150,/0/default.jpg
-label: market
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/395,2055,585,140/150,/0/default.jpg
+label: mathematicks
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
 insertion_xref:

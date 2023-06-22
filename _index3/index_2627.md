@@ -2,8 +2,8 @@
 pid: index_2627
 volume: Volume 3
 image_number: '31'
-head: mother disease
-entry: "<a href='/digital-beehive/num8/num_2910/'>1980 [fits of the Mother]</a>"
+head: myrrh
+entry: "<a href='/digital-beehive/num8/num_2840/'>1928 [Myrrh]</a>"
 topic:
 first_letter: M
 page:
@@ -11,15 +11,16 @@ add:
 xref:
 see:
 index:
-item: "#item-dc4e85621"
+item: "#item-feba70808"
 unparsed:
-line: 'Head: mother disease|Entry: 1980 [fits of the Mother]|#item-dc4e85621'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/852,3266,533,105/full/0/default.jpg
+line: 'Head: myrrh|Entry: 1928 [Myrrh]|#item-feba70808'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2688,415,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356918013
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362504847
+sort_value: '303132688'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/852,3266,533,105/150,/0/default.jpg
-label: mother disease
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2688,415,110/150,/0/default.jpg
+label: myrrh
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
 insertion_xref:

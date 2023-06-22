@@ -2,8 +2,8 @@
 pid: index_1137
 volume: Volume 3
 image_number: '17'
-head: dromedary
-entry: "<a href='/digital-beehive/num4/num_1153/'>892 [Horse]</a>"
+head: dowry
+entry: "<a href='/digital-beehive/num3/num_0687/'>544 [[WORD_ILLEGIBLE]]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,20 @@ add:
 xref:
 see:
 index:
-item: "#item-485d9714c"
+item: "#item-6cd7e1ea9"
 unparsed:
-line: 'Head: dromedary|Entry: 892 [Horse]|#item-485d9714c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1433,2626,587,120/full/0/default.jpg
+line: 'Head: dowry|Entry: 544 [[WORD_ILLEGIBLE]]|#item-6cd7e1ea9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1435,986,504,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452971659
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367910631
+sort_value: '301730986'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1433,2626,587,120/150,/0/default.jpg
-label: dromedary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1435,986,504,134/150,/0/default.jpg
+label: dowry
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1135'
+order: '1136'
 layout: index_item
 collection: index1
 ---

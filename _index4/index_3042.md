@@ -2,9 +2,9 @@
 pid: index_3042
 volume: Volume 3
 image_number: '36'
-head: power
-entry: "<a href='/digital-beehive/alpha4/alpha_0726/'>a</a>|<a href='/digital-beehive/num10/num_3334/'>2362
-  [Power]</a>"
+head: pleasure
+entry: "<a href='/digital-beehive/alpha4/alpha_0717/'>a</a>|<a href='/digital-beehive/num4/num_1126/'>882
+  [Pleasure]</a>|<a href='/digital-beehive/num8/num_2871/'>1947 [Pleasure]</a>"
 topic:
 first_letter: P
 page:
@@ -12,15 +12,16 @@ add:
 xref:
 see:
 index:
-item: "#item-9bb17f66c"
+item: "#item-973858398"
 unparsed:
-line: 'Head: power|Entry: a|Entry: 2362 [Power]|#item-9bb17f66c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1920,265,583,125/full/0/default.jpg
+line: 'Head: pleasure|Entry: a|Entry: 882 [Pleasure]|Entry: 1947 [Pleasure]|#item-973858398'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/457,868,741,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439432288
+annotation_uri: http://dev.llgc.org.uk/annotation/1542052955293
+sort_value: '303610868'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1920,265,583,125/150,/0/default.jpg
-label: power
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/457,868,741,165/150,/0/default.jpg
+label: pleasure
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
 insertion_xref:
