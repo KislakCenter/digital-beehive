@@ -3,7 +3,7 @@ pid: index_2218
 volume: Volume 3
 image_number: '27'
 head: latin English
-entry: "<a href='/digital-beehive/num5/num_1355/'>1015 [Some English Latin]</a>"
+entry: "<a href='/digital-beehive/num5/num_1356/'>1015 [Some English Latin]</a>"
 topic:
 first_letter: L
 page:

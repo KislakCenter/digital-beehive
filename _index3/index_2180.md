@@ -3,7 +3,7 @@ pid: index_2180
 volume: Volume 3
 image_number: '27'
 head: Kropf
-entry: "<a href='/digital-beehive/num3/num_0957/'>681 [Wen]</a>"
+entry: "<a href='/digital-beehive/num3/num_0958/'>681 [Wen]</a>"
 topic:
 first_letter: K
 page:

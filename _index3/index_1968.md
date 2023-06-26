@@ -3,7 +3,7 @@ pid: index_1968
 volume: Volume 3
 image_number: '25'
 head: imperfection
-entry: "<a href='/digital-beehive/alpha3/alpha_0466/'>a</a>|<a href='/digital-beehive/num6/num_1908/'>1350
+entry: "<a href='/digital-beehive/alpha3/alpha_0466/'>a</a>|<a href='/digital-beehive/num6/num_1909/'>1350
   [Imperfection]</a>"
 topic:
 first_letter: I/J

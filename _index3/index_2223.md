@@ -3,7 +3,7 @@ pid: index_2223
 volume: Volume 3
 image_number: '27'
 head: Law of nature
-entry: "<a href='/digital-beehive/num3/num_0661/'>527 [Law of Nature]</a>|<a href='/digital-beehive/num3/num_0871/'>640
+entry: "<a href='/digital-beehive/num3/num_0661/'>527 [Law of Nature]</a>|<a href='/digital-beehive/num3/num_0872/'>640
   [Law of Nature]</a>"
 topic:
 first_letter: L

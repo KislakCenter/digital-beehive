@@ -9,7 +9,7 @@ first_letter: S
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0786/'>Redemption</a>|<a href='/digital-beehive/alpha3/alpha_0452/'>Jesus</a>|<a
-  href='/digital-beehive/num4/num_1287/'>966 [Saviour]</a>"
+  href='/digital-beehive/num4/num_1288/'>966 [Saviour]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3526/'>saviour</a>"
 item: "#item-b7ad2723d"

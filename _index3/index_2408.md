@@ -3,7 +3,7 @@ pid: index_2408
 volume: Volume 3
 image_number: '29'
 head: mandrakes
-entry: "<a href='/digital-beehive/num8/num_2860/'>1939 [Mandrakes]</a>"
+entry: "<a href='/digital-beehive/num8/num_2861/'>1939 [Mandrakes]</a>"
 topic:
 first_letter: M
 page:

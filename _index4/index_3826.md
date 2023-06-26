@@ -3,7 +3,7 @@ pid: index_3826
 volume: Volume 3
 image_number: '44'
 head: spectacles
-entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>|<a href='/digital-beehive/num7/num_2493/'>1639
+entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>|<a href='/digital-beehive/num7/num_2494/'>1639
   [Spectacles]</a>"
 topic:
 first_letter: S

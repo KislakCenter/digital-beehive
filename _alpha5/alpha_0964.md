@@ -8,7 +8,7 @@ topic: Titles
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2091/'>1435 [Titles of honour]</a>"
+xref: "<a href='/digital-beehive/num6/num_2092/'>1435 [Titles of honour]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4162/'>titles</a>"
 item: "#item-f31b1a7fb"

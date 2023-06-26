@@ -3,7 +3,7 @@ pid: index_1154
 volume: Volume 3
 image_number: '17'
 head: dromedary
-entry: "<a href='/digital-beehive/num4/num_1153/'>892 [Horse]</a>"
+entry: "<a href='/digital-beehive/num4/num_1154/'>892 [Horse]</a>"
 topic:
 first_letter: D
 page:

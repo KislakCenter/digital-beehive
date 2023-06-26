@@ -3,7 +3,7 @@ pid: index_0649
 volume: Volume 3
 image_number: '13'
 head: false Christs
-entry: "<a href='/digital-beehive/num6/num_1816/'>1300 [False Christs]</a>|<a href='/digital-beehive/num10/num_3322/'>2352
+entry: "<a href='/digital-beehive/num6/num_1817/'>1300 [False Christs]</a>|<a href='/digital-beehive/num10/num_3323/'>2352
   [False Christs]</a>"
 topic:
 first_letter: C

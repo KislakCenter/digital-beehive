@@ -3,7 +3,7 @@ pid: index_4071
 volume: Volume 3
 image_number: '47'
 head: teach me o Lord
-entry: "<a href='/digital-beehive/num6/num_2199/'>1491 [Teach me o Lord]</a>"
+entry: "<a href='/digital-beehive/num6/num_2200/'>1491 [Teach me o Lord]</a>"
 topic:
 first_letter: T
 page:

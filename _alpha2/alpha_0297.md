@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0751/'>proof</a>|<a href='/digital-beehive/num1/num_0047/'>47
   [Try & Prove all things]</a>|<a href='/digital-beehive/num1/num_0121/'>117 [Self-examination]</a>|<a
-  href='/digital-beehive/num6/num_2044/'>1416 [To Examine]</a>"
+  href='/digital-beehive/num6/num_2045/'>1416 [To Examine]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1327/'>examination</a>"
 item: "#item-3baec17f6"

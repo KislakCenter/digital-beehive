@@ -3,7 +3,7 @@ pid: index_2696
 volume: Volume 3
 image_number: '32'
 head: new Jersey
-entry: "<a href='/digital-beehive/num7/num_2256/'>1522 [New Jersey]</a>"
+entry: "<a href='/digital-beehive/num7/num_2257/'>1522 [New Jersey]</a>"
 topic:
 first_letter: N
 page:

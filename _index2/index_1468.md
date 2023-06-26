@@ -3,7 +3,7 @@ pid: index_1468
 volume: Volume 3
 image_number: '20'
 head: fitness
-entry: "<a href='/digital-beehive/num3/num_0995/'>694 [Fitness]</a>|<a href='/digital-beehive/num8/num_2683/'>1754
+entry: "<a href='/digital-beehive/num3/num_0996/'>694 [Fitness]</a>|<a href='/digital-beehive/num8/num_2684/'>1754
   [Fit]</a>"
 topic:
 first_letter: F

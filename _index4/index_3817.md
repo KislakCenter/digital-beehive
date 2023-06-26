@@ -3,7 +3,7 @@ pid: index_3817
 volume: Volume 3
 image_number: '44'
 head: space
-entry: "<a href='/digital-beehive/num9/num_2981/'>2047 [Space]</a>"
+entry: "<a href='/digital-beehive/num9/num_2982/'>2047 [Space]</a>"
 topic:
 first_letter: S
 page:

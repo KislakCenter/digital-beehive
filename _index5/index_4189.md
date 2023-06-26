@@ -3,7 +3,7 @@ pid: index_4189
 volume: Volume 3
 image_number: '48'
 head: tooth
-entry: "<a href='/digital-beehive/alpha5/alpha_0974/'>a</a>|<a href='/digital-beehive/num6/num_1790/'>1286
+entry: "<a href='/digital-beehive/alpha5/alpha_0974/'>a</a>|<a href='/digital-beehive/num6/num_1791/'>1286
   [Tooth]</a>"
 topic:
 first_letter: T

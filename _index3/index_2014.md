@@ -3,7 +3,7 @@ pid: index_2014
 volume: Volume 3
 image_number: '25'
 head: indemnity
-entry: "<a href='/digital-beehive/num3/num_1065/'>721 [Indemnity]</a>"
+entry: "<a href='/digital-beehive/num3/num_1066/'>721 [Indemnity]</a>"
 topic:
 first_letter: I/J
 page:

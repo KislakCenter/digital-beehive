@@ -3,7 +3,7 @@ pid: index_1070
 volume: Volume 3
 image_number: '17'
 head: discourage
-entry: "<a href='/digital-beehive/num3/num_1012/'>701 [Discourage]</a>"
+entry: "<a href='/digital-beehive/num3/num_1013/'>701 [Discourage]</a>"
 topic:
 first_letter: D
 page:

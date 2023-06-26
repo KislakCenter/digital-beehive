@@ -3,7 +3,7 @@ pid: index_3468
 volume: Volume 3
 image_number: '40'
 head: rules for young merchants
-entry: "<a href='/digital-beehive/num6/num_2148/'>1463 [One friend Counsel the other
+entry: "<a href='/digital-beehive/num6/num_2149/'>1463 [One friend Counsel the other
   who newly begun to Merchandize]</a>"
 topic:
 first_letter: R

@@ -9,7 +9,7 @@ first_letter: E
 page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0324/'>287 [Always]</a>|474 [Immortality]|<a
-  href='/digital-beehive/num5/num_1553/'>1142 [Eternity]</a>"
+  href='/digital-beehive/num5/num_1554/'>1142 [Eternity]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1308/'>eternity</a>"
 item: "#item-d1772fc49"

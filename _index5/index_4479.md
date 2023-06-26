@@ -3,7 +3,7 @@ pid: index_4479
 volume: Volume 3
 image_number: '51'
 head: warning
-entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1426/'>1060 [Admonishing
+entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1427/'>1060 [Admonishing
   & Warning]</a>
 topic:
 first_letter: W

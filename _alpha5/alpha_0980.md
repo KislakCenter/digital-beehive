@@ -8,7 +8,7 @@ topic: Transitory
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_0992/'>Vanity</a>|<a href='/digital-beehive/num4/num_1221/'>922
+xref: "<a href='/digital-beehive/alpha5/alpha_0992/'>Vanity</a>|<a href='/digital-beehive/num4/num_1222/'>922
   [Transitory]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4216/'>transitory</a>"

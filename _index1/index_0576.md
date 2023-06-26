@@ -3,8 +3,8 @@ pid: index_0576
 volume: Volume 3
 image_number: '12'
 head: celibate
-entry: "<a href='/digital-beehive/alpha1/alpha_0135/'>a</a>|<a href='/digital-beehive/num6/num_1824/'>1304
-  [Celibate]</a>|<a href='/digital-beehive/num9/num_3067/'>2128 [Celibate]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0135/'>a</a>|<a href='/digital-beehive/num6/num_1825/'>1304
+  [Celibate]</a>|<a href='/digital-beehive/num9/num_3068/'>2128 [Celibate]</a>"
 topic:
 first_letter: C
 page:

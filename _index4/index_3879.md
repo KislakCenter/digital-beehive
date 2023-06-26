@@ -3,7 +3,7 @@ pid: index_3879
 volume: Volume 3
 image_number: '44'
 head: star slough
-entry: "<a href='/digital-beehive/num7/num_2455/'>1621 [Phenomena's or Apparitions]</a>"
+entry: "<a href='/digital-beehive/num7/num_2456/'>1621 [Phenomena's or Apparitions]</a>"
 topic:
 first_letter: S
 page:

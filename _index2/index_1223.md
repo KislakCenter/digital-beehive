@@ -3,7 +3,7 @@ pid: index_1223
 volume: Volume 3
 image_number: '18'
 head: elephant
-entry: "<a href='/digital-beehive/num8/num_2911/'>1980 [Elephant]</a>"
+entry: "<a href='/digital-beehive/num8/num_2912/'>1980 [Elephant]</a>"
 topic:
 first_letter: E
 page:

@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '22'
 head: God's help
 entry: "<a href='/digital-beehive/alpha2/alpha_0371/'>a</a>|<a href='/digital-beehive/num1/num_0167/'>160
-  [Gods help]</a>|<a href='/digital-beehive/num7/num_2619/'>1698 [God's help]</a>|<a
-  href='/digital-beehive/num10/num_3237/'>2277 [God's help]</a>"
+  [Gods help]</a>|<a href='/digital-beehive/num7/num_2620/'>1698 [God's help]</a>|<a
+  href='/digital-beehive/num10/num_3238/'>2277 [God's help]</a>"
 topic:
 first_letter: G
 page:

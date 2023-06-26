@@ -3,7 +3,7 @@ pid: index_1706
 volume: Volume 3
 image_number: '23'
 head: great
-entry: "<a href='/digital-beehive/alpha2/alpha_0389/'>a</a>|<a href='/digital-beehive/num3/num_0860/'>635
+entry: "<a href='/digital-beehive/alpha2/alpha_0389/'>a</a>|<a href='/digital-beehive/num3/num_0861/'>635
   [Great, rich & eminent Persons]</a>|800 [PAGE_MISSING]"
 topic:
 first_letter: G

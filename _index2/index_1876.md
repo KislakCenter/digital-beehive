@@ -3,7 +3,7 @@ pid: index_1876
 volume: Volume 3
 image_number: '24'
 head: horseman
-entry: "<a href='/digital-beehive/alpha2/alpha_0434/'>a</a>|<a href='/digital-beehive/num7/num_2679/'>1750
+entry: "<a href='/digital-beehive/alpha2/alpha_0434/'>a</a>|<a href='/digital-beehive/num7/num_2680/'>1750
   [Horseman]</a>"
 topic:
 first_letter: H

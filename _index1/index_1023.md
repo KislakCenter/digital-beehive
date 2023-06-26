@@ -3,7 +3,7 @@ pid: index_1023
 volume: Volume 3
 image_number: '16'
 head: desire
-entry: "<a href='/digital-beehive/num1/num_0119/'>115 [Desire]</a>|<a href='/digital-beehive/num5/num_1565/'>1148
+entry: "<a href='/digital-beehive/num1/num_0119/'>115 [Desire]</a>|<a href='/digital-beehive/num5/num_1566/'>1148
   [Desires]</a>"
 topic:
 first_letter: D

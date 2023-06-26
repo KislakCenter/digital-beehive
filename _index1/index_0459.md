@@ -3,7 +3,7 @@ pid: index_0459
 volume: Volume 3
 image_number: '11'
 head: brimstone
-entry: "<a href='/digital-beehive/num4/num_1193/'>911 [Brimstone]</a>"
+entry: "<a href='/digital-beehive/num4/num_1194/'>911 [Brimstone]</a>"
 topic:
 first_letter: B
 page:

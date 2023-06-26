@@ -8,7 +8,7 @@ topic: Theola Scholastica
 first_letter: D
 page:
 add:
-xref: "<a href='/digital-beehive/num8/num_2732/'>1799 [Theologia Scholastica]</a>"
+xref: "<a href='/digital-beehive/num8/num_2733/'>1799 [Theologia Scholastica]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_1115/'>divinity scholastica</a>"
 item: "#item-dc50d6578"

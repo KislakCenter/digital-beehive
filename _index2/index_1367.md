@@ -3,7 +3,7 @@ pid: index_1367
 volume: Volume 3
 image_number: '19'
 head: extremity
-entry: 749 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1595/'>1169 [Extremity]</a>
+entry: 749 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1596/'>1169 [Extremity]</a>
 topic:
 first_letter: E
 page:

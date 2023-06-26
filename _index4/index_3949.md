@@ -3,7 +3,7 @@ pid: index_3949
 volume: Volume 3
 image_number: '45'
 head: to stumble
-entry: "<a href='/digital-beehive/num3/num_1027/'>706 [to Stumble]</a>"
+entry: "<a href='/digital-beehive/num3/num_1028/'>706 [to Stumble]</a>"
 topic:
 first_letter: S
 page:

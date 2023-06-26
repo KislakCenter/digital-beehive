@@ -3,7 +3,7 @@ pid: index_2167
 volume: Volume 3
 image_number: '27'
 head: kitchin stuff
-entry: "<a href='/digital-beehive/num6/num_2160/'>1469 [To a kitchin belongs]</a>"
+entry: "<a href='/digital-beehive/num6/num_2161/'>1469 [To a kitchin belongs]</a>"
 topic:
 first_letter: K
 page:

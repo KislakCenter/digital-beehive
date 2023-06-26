@@ -3,7 +3,7 @@ pid: index_0557
 volume: Volume 3
 image_number: '12'
 head: casuists
-entry: "<a href='/digital-beehive/num6/num_1937/'>1364 [Casuists]</a>"
+entry: "<a href='/digital-beehive/num6/num_1938/'>1364 [Casuists]</a>"
 topic:
 first_letter: C
 page:

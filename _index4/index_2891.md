@@ -3,7 +3,7 @@ pid: index_2891
 volume: Volume 3
 image_number: '34'
 head: John Parrot
-entry: "<a href='/digital-beehive/num8/num_2705/'>1774 [John Parrot]</a>"
+entry: "<a href='/digital-beehive/num8/num_2706/'>1774 [John Parrot]</a>"
 topic:
 first_letter: P
 page:

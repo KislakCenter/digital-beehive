@@ -3,7 +3,7 @@ pid: index_2055
 volume: Volume 3
 image_number: '26'
 head: inquiry
-entry: "<a href='/digital-beehive/num3/num_0844/'>625 [Inquiry]</a>"
+entry: "<a href='/digital-beehive/num3/num_0845/'>625 [Inquiry]</a>"
 topic:
 first_letter: I/J
 page:

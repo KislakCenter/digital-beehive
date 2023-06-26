@@ -3,7 +3,7 @@ pid: index_4157
 volume: Volume 3
 image_number: '47'
 head: timeserving
-entry: "<a href='/digital-beehive/num3/num_0877/'>643 [Temporising]</a>"
+entry: "<a href='/digital-beehive/num3/num_0878/'>643 [Temporising]</a>"
 topic:
 first_letter: T
 page:

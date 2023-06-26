@@ -8,7 +8,7 @@ topic: Gospel
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_0952/'>New Testament</a>|<a href='/digital-beehive/num4/num_1288/'>967
+xref: "<a href='/digital-beehive/alpha5/alpha_0952/'>New Testament</a>|<a href='/digital-beehive/num4/num_1289/'>967
   [Gospel]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1671/'>gospel</a>"

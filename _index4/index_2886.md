@@ -3,7 +3,7 @@ pid: index_2886
 volume: Volume 3
 image_number: '34'
 head: parliamt
-entry: "<a href='/digital-beehive/num3/num_0847/'>628 [Parliament]</a>"
+entry: "<a href='/digital-beehive/num3/num_0848/'>628 [Parliament]</a>"
 topic:
 first_letter: P
 page:

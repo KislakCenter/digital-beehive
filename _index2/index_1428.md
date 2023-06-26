@@ -3,7 +3,7 @@ pid: index_1428
 volume: Volume 3
 image_number: '20'
 head: fellow sufferer
-entry: "<a href='/digital-beehive/num10/num_3204/'>2256 [Fellow Sufferer]</a>"
+entry: "<a href='/digital-beehive/num10/num_3205/'>2256 [Fellow Sufferer]</a>"
 topic:
 first_letter: F
 page:

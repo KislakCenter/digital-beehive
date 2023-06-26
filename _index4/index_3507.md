@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '41'
 head: salvation
 entry: "<a href='/digital-beehive/alpha4/alpha_0833/'>a</a>|<a href='/digital-beehive/num1/num_0115/'>111
-  [Salvation]</a>|<a href='/digital-beehive/num7/num_2381/'>1587 [Salvation]</a>"
+  [Salvation]</a>|<a href='/digital-beehive/num7/num_2382/'>1587 [Salvation]</a>"
 topic:
 first_letter: S
 page:

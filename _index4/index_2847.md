@@ -3,7 +3,7 @@ pid: index_2847
 volume: Volume 3
 image_number: '34'
 head: outward blessings
-entry: "<a href='/digital-beehive/num5/num_1627/'>1193 [Outward Blessings & Privileges]</a>"
+entry: "<a href='/digital-beehive/num5/num_1628/'>1193 [Outward Blessings & Privileges]</a>"
 topic:
 first_letter: O
 page:

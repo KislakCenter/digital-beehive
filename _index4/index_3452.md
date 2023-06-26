@@ -3,9 +3,9 @@ pid: index_3452
 volume: Volume 3
 image_number: '40'
 head: sub ros√¢
-entry: "<a href='/digital-beehive/num6/num_1765/'>1272 [Secrecy]</a>"
+entry: "<a href='/digital-beehive/num6/num_1766/'>1272 [Secrecy]</a>"
 topic:
-first_letter: S
+first_letter: R
 page:
 add:
 xref:

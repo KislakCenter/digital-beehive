@@ -3,7 +3,7 @@ pid: index_1555
 volume: Volume 3
 image_number: '21'
 head: frugality
-entry: "<a href='/digital-beehive/num5/num_1509/'>1115 [Frugality]</a>"
+entry: "<a href='/digital-beehive/num5/num_1510/'>1115 [Frugality]</a>"
 topic:
 first_letter: F
 page:

@@ -3,7 +3,7 @@ pid: index_3350
 volume: Volume 3
 image_number: '39'
 head: reliques
-entry: "<a href='/digital-beehive/alpha4/alpha_0792/'>a</a>|<a href='/digital-beehive/num6/num_1980/'>1385
+entry: "<a href='/digital-beehive/alpha4/alpha_0792/'>a</a>|<a href='/digital-beehive/num6/num_1981/'>1385
   [Reliques]</a>"
 topic:
 first_letter: R

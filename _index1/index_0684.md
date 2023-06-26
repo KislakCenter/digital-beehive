@@ -3,7 +3,7 @@ pid: index_0684
 volume: Volume 3
 image_number: '13'
 head: clay
-entry: "<a href='/digital-beehive/num6/num_2004/'>1396 [Clay]</a>"
+entry: "<a href='/digital-beehive/num6/num_2005/'>1396 [Clay]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_3520
 volume: Volume 3
 image_number: '41'
 head: Sarah
-entry: "<a href='/digital-beehive/num8/num_2772/'>1892 [Sarah]</a>"
+entry: "<a href='/digital-beehive/num8/num_2773/'>1892 [Sarah]</a>"
 topic:
 first_letter: S
 page:

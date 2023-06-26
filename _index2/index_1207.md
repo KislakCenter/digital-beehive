@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '18'
 head: education
 entry: "<a href='/digital-beehive/num1/num_0009/'>9 [Education]</a>|<a href='/digital-beehive/num2/num_0315/'>280
-  [Education]</a>|<a href='/digital-beehive/num6/num_1801/'>1291 [Education]</a>|1866
-  [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3442/'>4460 [Education]</a>|4624
+  [Education]</a>|<a href='/digital-beehive/num6/num_1802/'>1291 [Education]</a>|1866
+  [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3443/'>4460 [Education]</a>|4624
   [PAGE_MISSING]"
 topic:
 first_letter: E

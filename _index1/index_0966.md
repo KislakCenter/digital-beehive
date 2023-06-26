@@ -3,7 +3,7 @@ pid: index_0966
 volume: Volume 3
 image_number: '15'
 head: death of Christ
-entry: "<a href='/digital-beehive/num3/num_0748/'>582 [Death of Xst]</a>"
+entry: "<a href='/digital-beehive/num3/num_0749/'>582 [Death of Xst]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_2700
 volume: Volume 3
 image_number: '32'
 head: new york
-entry: "<a href='/digital-beehive/num7/num_2258/'>1523 [New York]</a>"
+entry: "<a href='/digital-beehive/num7/num_2259/'>1523 [New York]</a>"
 topic:
 first_letter: N
 page:

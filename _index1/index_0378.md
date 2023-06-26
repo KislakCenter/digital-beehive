@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '10'
 head: bishop
 entry: "<a href='/digital-beehive/alpha1/alpha_0082/'>a</a>|<a href='/digital-beehive/num2/num_0619/'>494
-  [Bishop]</a>|<a href='/digital-beehive/num10/num_3406/'>2431 [Bishop]</a>"
+  [Bishop]</a>|<a href='/digital-beehive/num10/num_3407/'>2431 [Bishop]</a>"
 topic:
 first_letter: B
 page:

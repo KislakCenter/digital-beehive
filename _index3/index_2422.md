@@ -3,8 +3,8 @@ pid: index_2422
 volume: Volume 3
 image_number: '29'
 head: many men many minds
-entry: "<a href='/digital-beehive/alpha3/alpha_0574/'>a</a>|<a href='/digital-beehive/num5/num_1468/'>1088
-  [Many men, many minds]</a>|<a href='/digital-beehive/num10/num_3460/'>4474 [Many
+entry: "<a href='/digital-beehive/alpha3/alpha_0574/'>a</a>|<a href='/digital-beehive/num5/num_1469/'>1088
+  [Many men, many minds]</a>|<a href='/digital-beehive/num10/num_3461/'>4474 [Many
   heads, many minds]</a>"
 topic:
 first_letter: M

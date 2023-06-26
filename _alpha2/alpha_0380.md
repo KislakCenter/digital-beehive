@@ -8,7 +8,7 @@ topic: Grace
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0590/'>Mercy</a>|<a href='/digital-beehive/num5/num_1354/'>1014
+xref: "<a href='/digital-beehive/alpha3/alpha_0590/'>Mercy</a>|<a href='/digital-beehive/num5/num_1355/'>1014
   [Grace]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1682/'>Grace</a>"

@@ -3,7 +3,7 @@ pid: index_0994
 volume: Volume 3
 image_number: '16'
 head: degrees to marry in
-entry: "<a href='/digital-beehive/num7/num_2474/'>1631 [Degrees prohibited]</a>"
+entry: "<a href='/digital-beehive/num7/num_2475/'>1631 [Degrees prohibited]</a>"
 topic:
 first_letter: D
 page:

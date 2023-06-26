@@ -8,13 +8,13 @@ topic: Home
 first_letter: H
 page:
 add:
-xref: 34 [Pilgrimage]|1446 [Dwell]|<a href='/digital-beehive/alpha1/alpha_0187/'>native
-  Country</a>
+xref: "<a href='/digital-beehive/num1/num_0030/'>30 [Pilgrimage]</a>|<a href='/digital-beehive/num6/num_2113/'>1446
+  [To Dwell]</a>|<a href='/digital-beehive/alpha1/alpha_0187/'>native Country</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1860/'>home</a>"
 item: "#item-e0ad89116"
 unparsed:
-line: 'Entry: Home|Topic: Home|Xref: 34 [Pilgrimage]|Xref: 1446 [Dwell]|Xref: native
+line: 'Entry: Home|Topic: Home|Xref: 30 [Pilgrimage]|Xref: 1446 [To Dwell]|Xref: native
   Country|Index: home|#item-e0ad89116'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/300,749,3109,414/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/full/full/0/default.jpg

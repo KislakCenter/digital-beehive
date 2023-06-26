@@ -3,7 +3,7 @@ pid: index_2367
 volume: Volume 3
 image_number: '29'
 head: lungs
-entry: "<a href='/digital-beehive/num3/num_0774/'>595 [Lungs or Lights]</a>"
+entry: "<a href='/digital-beehive/num3/num_0775/'>595 [Lungs or Lights]</a>"
 topic:
 first_letter: L
 page:

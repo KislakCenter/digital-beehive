@@ -3,7 +3,7 @@ pid: index_2587
 volume: Volume 3
 image_number: '31'
 head: mortar
-entry: "<a href='/digital-beehive/num7/num_2670/'>1743 [Pounded]</a>"
+entry: "<a href='/digital-beehive/num7/num_2671/'>1743 [Pounded]</a>"
 topic:
 first_letter: M
 page:

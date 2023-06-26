@@ -3,7 +3,7 @@ pid: index_2221
 volume: Volume 3
 image_number: '27'
 head: laughter
-entry: "<a href='/digital-beehive/alpha3/alpha_0522/'>a</a>|<a href='/digital-beehive/num6/num_1738/'>1254
+entry: "<a href='/digital-beehive/alpha3/alpha_0522/'>a</a>|<a href='/digital-beehive/num6/num_1739/'>1254
   [Laughter]</a>|4557 [PAGE_MISSING]"
 topic:
 first_letter: L

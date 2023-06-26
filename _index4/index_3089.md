@@ -3,7 +3,7 @@ pid: index_3089
 volume: Volume 3
 image_number: '36'
 head: posthumus
-entry: "<a href='/digital-beehive/num7/num_2416/'>1603 [Posthumus]</a>"
+entry: "<a href='/digital-beehive/num7/num_2417/'>1603 [Posthumus]</a>"
 topic:
 first_letter: P
 page:

@@ -3,7 +3,7 @@ pid: index_4666
 volume: Volume 3
 image_number: '54'
 head: mam[m]on
-entry: "<a href='/digital-beehive/num8/num_2764/'>1829 [Mammon]</a>"
+entry: "<a href='/digital-beehive/num8/num_2765/'>1829 [Mammon]</a>"
 topic:
 first_letter: insertion
 page:

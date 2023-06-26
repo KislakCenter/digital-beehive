@@ -3,7 +3,7 @@ pid: index_3875
 volume: Volume 3
 image_number: '44'
 head: stam[m]ering
-entry: "<a href='/digital-beehive/num3/num_1068/'>722 [Stammering]</a>"
+entry: "<a href='/digital-beehive/num3/num_1069/'>722 [Stammering]</a>"
 topic:
 first_letter: S
 page:

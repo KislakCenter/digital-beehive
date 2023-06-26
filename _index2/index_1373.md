@@ -3,7 +3,7 @@ pid: index_1373
 volume: Volume 3
 image_number: '19'
 head: Ezekiel
-entry: "<a href='/digital-beehive/num9/num_3105/'>2164 [Ezekiel]</a>"
+entry: "<a href='/digital-beehive/num9/num_3106/'>2164 [Ezekiel]</a>"
 topic:
 first_letter: E
 page:

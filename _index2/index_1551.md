@@ -3,7 +3,7 @@ pid: index_1551
 volume: Volume 3
 image_number: '21'
 head: front
-entry: "<a href='/digital-beehive/num7/num_2546/'>1662 [Front]</a>"
+entry: "<a href='/digital-beehive/num7/num_2547/'>1662 [Front]</a>"
 topic:
 first_letter: F
 page:

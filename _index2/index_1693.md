@@ -3,7 +3,7 @@ pid: index_1693
 volume: Volume 3
 image_number: '22'
 head: grapes
-entry: "<a href='/digital-beehive/num4/num_1298/'>973 [Grapes]</a>"
+entry: "<a href='/digital-beehive/num4/num_1299/'>973 [Grapes]</a>"
 topic:
 first_letter: G
 page:

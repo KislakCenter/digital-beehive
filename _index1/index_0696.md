@@ -3,7 +3,7 @@ pid: index_0696
 volume: Volume 3
 image_number: '13'
 head: clock
-entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1957/'>1374 [Clock]</a>
+entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1958/'>1374 [Clock]</a>
 topic:
 first_letter: C
 page:

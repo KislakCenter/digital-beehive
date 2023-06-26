@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '15'
 head: cruelty
 entry: "<a href='/digital-beehive/alpha1/alpha_0202/'>a</a>|<a href='/digital-beehive/num3/num_0646/'>514
-  [Cruelty]</a>|<a href='/digital-beehive/num5/num_1443/'>1071 [Cruelties]</a>"
+  [Cruelty]</a>|<a href='/digital-beehive/num5/num_1444/'>1071 [Cruelties]</a>"
 topic:
 first_letter: C
 page:

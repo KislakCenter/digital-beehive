@@ -3,7 +3,7 @@ pid: index_2483
 volume: Volume 3
 image_number: '30'
 head: mental reserv
-entry: "<a href='/digital-beehive/num4/num_1297/'>973 [Mental Reservations]</a>"
+entry: "<a href='/digital-beehive/num4/num_1298/'>973 [Mental Reservations]</a>"
 topic:
 first_letter: M
 page:

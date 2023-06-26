@@ -8,7 +8,7 @@ topic: Articles of faith
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0745/'>581 [Articles of faith]</a>"
+xref: "<a href='/digital-beehive/num3/num_0746/'>581 [Articles of faith]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0215/'>articles of faith</a>"
 item: "#item-4a2192656"

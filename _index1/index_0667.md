@@ -3,7 +3,7 @@ pid: index_0667
 volume: Volume 3
 image_number: '13'
 head: Cicero
-entry: "<a href='/digital-beehive/num5/num_1656/'>1212 [Cicero]</a>"
+entry: "<a href='/digital-beehive/num5/num_1657/'>1212 [Cicero]</a>"
 topic:
 first_letter: C
 page:

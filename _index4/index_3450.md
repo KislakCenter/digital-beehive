@@ -3,7 +3,7 @@ pid: index_3450
 volume: Volume 3
 image_number: '40'
 head: rope dancers
-entry: "<a href='/digital-beehive/num7/num_2397/'>1595 [Rope-Dancers]</a>"
+entry: "<a href='/digital-beehive/num7/num_2398/'>1595 [Rope-Dancers]</a>"
 topic:
 first_letter: R
 page:

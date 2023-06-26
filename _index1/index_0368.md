@@ -3,7 +3,7 @@ pid: index_0368
 volume: Volume 3
 image_number: '10'
 head: beyond
-entry: "<a href='/digital-beehive/num11/num_3583/'>4888 [Beyond]</a>"
+entry: "<a href='/digital-beehive/num11/num_3584/'>4888 [Beyond]</a>"
 topic:
 first_letter: B
 page:

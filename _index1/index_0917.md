@@ -3,7 +3,7 @@ pid: index_0917
 volume: Volume 3
 image_number: '15'
 head: to crucify
-entry: "<a href='/digital-beehive/num5/num_1723/'>1246 [to Crucify]</a>"
+entry: "<a href='/digital-beehive/num5/num_1724/'>1246 [to Crucify]</a>"
 topic:
 first_letter: C
 page:

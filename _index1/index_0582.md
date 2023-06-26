@@ -3,7 +3,7 @@ pid: index_0582
 volume: Volume 3
 image_number: '12'
 head: centones
-entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>"
+entry: "<a href='/digital-beehive/num7/num_2379/'>1585 [Verses]</a>"
 topic:
 first_letter: C
 page:

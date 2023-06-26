@@ -3,7 +3,7 @@ pid: index_2020
 volume: Volume 3
 image_number: '25'
 head: indictment
-entry: "<a href='/digital-beehive/num5/num_1585/'>1163 [Indictment]</a>"
+entry: "<a href='/digital-beehive/num5/num_1586/'>1163 [Indictment]</a>"
 topic:
 first_letter: I/J
 page:

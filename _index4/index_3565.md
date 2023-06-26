@@ -3,7 +3,7 @@ pid: index_3565
 volume: Volume 3
 image_number: '41'
 head: scrupulous
-entry: "<a href='/digital-beehive/num4/num_1216/'>918 [Doubtful]</a>"
+entry: "<a href='/digital-beehive/num4/num_1217/'>918 [Doubtful]</a>"
 topic:
 first_letter: S
 page:

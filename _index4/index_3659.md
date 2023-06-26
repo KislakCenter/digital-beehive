@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '42'
 head: shame
 entry: "<a href='/digital-beehive/alpha4/alpha_0867/'>a</a>|<a href='/digital-beehive/num2/num_0598/'>478
-  [Shame]</a>|<a href='/digital-beehive/num11/num_3580/'>4885 [Shame]</a>"
+  [Shame]</a>|<a href='/digital-beehive/num11/num_3581/'>4885 [Shame]</a>"
 topic:
 first_letter: S
 page:

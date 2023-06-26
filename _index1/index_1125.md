@@ -3,7 +3,7 @@ pid: index_1125
 volume: Volume 3
 image_number: '17'
 head: dog
-entry: "<a href='/digital-beehive/alpha1/alpha_0260/'>a</a>|<a href='/digital-beehive/num6/num_1884/'>1338
+entry: "<a href='/digital-beehive/alpha1/alpha_0260/'>a</a>|<a href='/digital-beehive/num6/num_1885/'>1338
   [Dog]</a>"
 topic:
 first_letter: D

@@ -3,7 +3,7 @@ pid: index_1712
 volume: Volume 3
 image_number: '23'
 head: grief
-entry: "<a href='/digital-beehive/num3/num_0905/'>658 [Grief]</a>|<a href='/digital-beehive/num10/num_3323/'>2352
+entry: "<a href='/digital-beehive/num3/num_0906/'>658 [Grief]</a>|<a href='/digital-beehive/num10/num_3324/'>2352
   [Grief]</a>"
 topic:
 first_letter: G

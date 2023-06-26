@@ -3,7 +3,7 @@ pid: index_4578
 volume: Volume 3
 image_number: '53'
 head: withering
-entry: "<a href='/digital-beehive/num10/num_3415/'>2439 [Wither]</a>"
+entry: "<a href='/digital-beehive/num10/num_3416/'>2439 [Wither]</a>"
 topic:
 first_letter: W
 page:

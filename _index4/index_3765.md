@@ -3,8 +3,8 @@ pid: index_3765
 volume: Volume 3
 image_number: '43'
 head: snake
-entry: "<a href='/digital-beehive/alpha4/alpha_0894/'>a</a>|<a href='/digital-beehive/num5/num_1731/'>1250
-  [Serpent]</a>|<a href='/digital-beehive/num9/num_3056/'>2119 [Serpents]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0894/'>a</a>|<a href='/digital-beehive/num5/num_1732/'>1250
+  [Serpent]</a>|<a href='/digital-beehive/num9/num_3057/'>2119 [Serpents]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"

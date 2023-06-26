@@ -3,7 +3,7 @@ pid: index_2392
 volume: Volume 3
 image_number: '29'
 head: maiz
-entry: "<a href='/digital-beehive/num7/num_2625/'>1702 [Maiz]</a>"
+entry: "<a href='/digital-beehive/num7/num_2626/'>1702 [Maiz]</a>"
 topic:
 first_letter: M
 page:

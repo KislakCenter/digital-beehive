@@ -3,7 +3,7 @@ pid: index_2504
 volume: Volume 3
 image_number: '30'
 head: methuselah
-entry: "<a href='/digital-beehive/num8/num_2778/'>1897 [Methuselah]</a>"
+entry: "<a href='/digital-beehive/num8/num_2779/'>1897 [Methuselah]</a>"
 topic:
 first_letter: M
 page:

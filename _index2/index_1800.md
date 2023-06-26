@@ -3,7 +3,7 @@ pid: index_1800
 volume: Volume 3
 image_number: '23'
 head: hemp
-entry: "<a href='/digital-beehive/num3/num_0951/'>679 [Hemp]</a>"
+entry: "<a href='/digital-beehive/num3/num_0952/'>679 [Hemp]</a>"
 topic:
 first_letter: H
 page:

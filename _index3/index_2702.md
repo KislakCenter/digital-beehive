@@ -3,8 +3,8 @@ pid: index_2702
 volume: Volume 3
 image_number: '32'
 head: news
-entry: "<a href='/digital-beehive/alpha3/alpha_0644/'>a</a>|<a href='/digital-beehive/num6/num_1735/'>1252
-  [lying News]</a>|<a href='/digital-beehive/num6/num_2029/'>1408 [News]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0644/'>a</a>|<a href='/digital-beehive/num6/num_1736/'>1252
+  [lying News]</a>|<a href='/digital-beehive/num6/num_2030/'>1408 [News]</a>"
 topic:
 first_letter: N
 page:

@@ -8,7 +8,7 @@ topic: Duel
 first_letter: D
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1860/'>1325 [Duel]</a>"
+xref: "<a href='/digital-beehive/num6/num_1861/'>1325 [Duel]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_1165/'>duel</a>"
 item: "#item-68688252a"

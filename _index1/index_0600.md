@@ -3,7 +3,7 @@ pid: index_0600
 volume: Volume 3
 image_number: '12'
 head: chaos
-entry: "<a href='/digital-beehive/num6/num_1859/'>1324 [Creation]</a>"
+entry: "<a href='/digital-beehive/num6/num_1860/'>1324 [Creation]</a>"
 topic:
 first_letter: C
 page:

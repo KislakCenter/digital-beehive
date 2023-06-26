@@ -3,7 +3,7 @@ pid: index_1483
 volume: Volume 3
 image_number: '20'
 head: to flourish
-entry: "<a href='/digital-beehive/num8/num_2759/'>1825 [To Flourish]</a>"
+entry: "<a href='/digital-beehive/num8/num_2760/'>1825 [To Flourish]</a>"
 topic:
 first_letter: F
 page:

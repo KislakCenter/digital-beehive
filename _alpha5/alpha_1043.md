@@ -8,7 +8,7 @@ topic: Wine
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0765/'>590 [artificial Wines]</a>"
+xref: "<a href='/digital-beehive/num3/num_0766/'>590 [artificial Wines]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4560/'>wine</a>"
 item: "#item-f6c5d1c85"

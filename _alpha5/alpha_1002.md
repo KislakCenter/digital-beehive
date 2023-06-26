@@ -8,7 +8,7 @@ topic: Day of Visitation
 first_letter: U/V
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1771/'>1276 [Day of Visitation]</a>"
+xref: "<a href='/digital-beehive/num6/num_1772/'>1276 [Day of Visitation]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4345/'>day of Visitn</a>"
 item: "#item-1cbb90b37"

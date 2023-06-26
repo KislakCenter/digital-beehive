@@ -3,7 +3,7 @@ pid: index_4409
 volume: Volume 3
 image_number: '51'
 head: unpunished
-entry: "<a href='/digital-beehive/num5/num_1624/'>1192 [Want of Punishmt]</a>"
+entry: "<a href='/digital-beehive/num5/num_1625/'>1192 [Want of Punishmt]</a>"
 topic:
 first_letter: U/V
 page:

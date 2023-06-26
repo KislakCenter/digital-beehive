@@ -3,7 +3,7 @@ pid: index_2224
 volume: Volume 3
 image_number: '27'
 head: Law books
-entry: "<a href='/digital-beehive/num7/num_2212/'>1501 [English Lawbooks]</a>"
+entry: "<a href='/digital-beehive/num7/num_2213/'>1501 [English Lawbooks]</a>"
 topic:
 first_letter: L
 page:

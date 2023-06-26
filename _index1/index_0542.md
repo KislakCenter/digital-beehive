@@ -3,7 +3,7 @@ pid: index_0542
 volume: Volume 3
 image_number: '12'
 head: caribeans
-entry: "<a href='/digital-beehive/num7/num_2240/'>1514 [Carribbee Islands]</a>"
+entry: "<a href='/digital-beehive/num7/num_2241/'>1514 [Carribbee Islands]</a>"
 topic:
 first_letter: C
 page:

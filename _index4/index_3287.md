@@ -3,7 +3,7 @@ pid: index_3287
 volume: Volume 3
 image_number: '38'
 head: ram
-entry: "<a href='/digital-beehive/num6/num_2180/'>1479 [Ram]</a>"
+entry: "<a href='/digital-beehive/num6/num_2181/'>1479 [Ram]</a>"
 topic:
 first_letter: R
 page:

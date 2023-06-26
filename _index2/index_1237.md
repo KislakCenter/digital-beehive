@@ -3,7 +3,7 @@ pid: index_1237
 volume: Volume 3
 image_number: '18'
 head: embroidery
-entry: "<a href='/digital-beehive/num7/num_2641/'>1717 [Embroidery]</a>"
+entry: "<a href='/digital-beehive/num7/num_2642/'>1717 [Embroidery]</a>"
 topic:
 first_letter: E
 page:

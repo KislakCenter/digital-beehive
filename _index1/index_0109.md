@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '7'
 head: alms
 entry: "<a href='/digital-beehive/alpha1/alpha_0022/'>a</a>|<a href='/digital-beehive/num3/num_0662/'>528
-  [Alms]</a>|<a href='/digital-beehive/num6/num_2144/'>1461 [Alms]</a>|<a href='/digital-beehive/num7/num_2658/'>1732
+  [Alms]</a>|<a href='/digital-beehive/num6/num_2145/'>1461 [Alms]</a>|<a href='/digital-beehive/num7/num_2659/'>1732
   [Alms]</a>"
 topic:
 first_letter: A

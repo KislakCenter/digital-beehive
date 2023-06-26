@@ -3,7 +3,7 @@ pid: index_4464
 volume: Volume 3
 image_number: '51'
 head: to walk with God
-entry: "<a href='/digital-beehive/num10/num_3331/'>2359 [How to walk with God all
+entry: "<a href='/digital-beehive/num10/num_3332/'>2359 [How to walk with God all
   the day long]</a>"
 topic:
 first_letter: W

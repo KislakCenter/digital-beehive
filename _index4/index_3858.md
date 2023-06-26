@@ -3,7 +3,7 @@ pid: index_3858
 volume: Volume 3
 image_number: '44'
 head: spoiled
-entry: "<a href='/digital-beehive/num3/num_0760/'>587 [mouldy]</a>"
+entry: "<a href='/digital-beehive/num3/num_0761/'>587 [mouldy]</a>"
 topic:
 first_letter: S
 page:

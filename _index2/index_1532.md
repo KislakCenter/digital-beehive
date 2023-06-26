@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '21'
 head: fraud
 entry: "<a href='/digital-beehive/alpha2/alpha_0349/'>a</a>|<a href='/digital-beehive/num2/num_0467/'>384
-  [Fraud]</a>|<a href='/digital-beehive/num5/num_1546/'>1137 [Fraud]</a>"
+  [Fraud]</a>|<a href='/digital-beehive/num5/num_1547/'>1137 [Fraud]</a>"
 topic:
 first_letter: F
 page:

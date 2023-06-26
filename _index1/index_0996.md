@@ -3,7 +3,7 @@ pid: index_0996
 volume: Volume 3
 image_number: '16'
 head: deism
-entry: "<a href='/digital-beehive/num8/num_2729/'>1796 [Deism]</a>"
+entry: "<a href='/digital-beehive/num8/num_2730/'>1796 [Deism]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_1832
 volume: Volume 3
 image_number: '24'
 head: highminded
-entry: "<a href='/digital-beehive/num5/num_1677/'>1224 [Insolence]</a>"
+entry: "<a href='/digital-beehive/num5/num_1678/'>1224 [Insolence]</a>"
 topic:
 first_letter: H
 page:

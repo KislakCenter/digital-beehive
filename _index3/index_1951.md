@@ -3,7 +3,7 @@ pid: index_1951
 volume: Volume 3
 image_number: '25'
 head: iliack passion
-entry: "<a href='/digital-beehive/num5/num_1558/'>1144 [Iliack passion]</a>"
+entry: "<a href='/digital-beehive/num5/num_1559/'>1144 [Iliack passion]</a>"
 topic:
 first_letter: I/J
 page:

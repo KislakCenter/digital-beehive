@@ -3,8 +3,8 @@ pid: index_4560
 volume: Volume 3
 image_number: '53'
 head: wine
-entry: "<a href='/digital-beehive/alpha5/alpha_1043/'>a</a>|<a href='/digital-beehive/num3/num_0765/'>590
-  [artificial Wines]</a>|<a href='/digital-beehive/num8/num_2681/'>1752 [Wine]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1043/'>a</a>|<a href='/digital-beehive/num3/num_0766/'>590
+  [artificial Wines]</a>|<a href='/digital-beehive/num8/num_2682/'>1752 [Wine]</a>"
 topic:
 first_letter: W
 page:

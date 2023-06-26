@@ -3,7 +3,7 @@ pid: index_4732
 volume: Volume 3
 image_number: '54'
 head: Dinah
-entry: "<a href='/digital-beehive/num11/num_3584/'>4889 [Dinah]</a>"
+entry: "<a href='/digital-beehive/num11/num_3585/'>4889 [Dinah]</a>"
 topic:
 first_letter: insertion
 page:

@@ -3,7 +3,7 @@ pid: index_2710
 volume: Volume 3
 image_number: '32'
 head: nightmare
-entry: "<a href='/digital-beehive/num3/num_0933/'>673 [Night-Mare]</a>"
+entry: "<a href='/digital-beehive/num3/num_0934/'>673 [Night-Mare]</a>"
 topic:
 first_letter: N
 page:

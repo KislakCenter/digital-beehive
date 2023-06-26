@@ -3,7 +3,7 @@ pid: index_2752
 volume: Volume 3
 image_number: '33'
 head: Oak
-entry: "<a href='/digital-beehive/num3/num_0978/'>687 [Oak]</a>"
+entry: "<a href='/digital-beehive/num3/num_0979/'>687 [Oak]</a>"
 topic:
 first_letter: O
 page:

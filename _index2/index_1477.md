@@ -3,7 +3,7 @@ pid: index_1477
 volume: Volume 3
 image_number: '20'
 head: flegm
-entry: "<a href='/digital-beehive/num10/num_3215/'>2262 [Phlegm or Flegm]</a>"
+entry: 2262 [Phelgm or Flegm]
 topic:
 first_letter: F
 page:
@@ -13,7 +13,7 @@ see:
 index:
 item: "#item-315da2958"
 unparsed:
-line: 'Head: flegm|Entry: 2262 [Phlegm or Flegm]|#item-315da2958'
+line: 'Head: flegm|Entry: 2262 [Phelgm or Flegm]|#item-315da2958'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1794,2806,476,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1562617298259

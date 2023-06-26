@@ -8,7 +8,7 @@ topic: Sacrifice
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1717/'>1244 [Sacrifices]</a>"
+xref: "<a href='/digital-beehive/num5/num_1718/'>1244 [Sacrifices]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3482/'>Sacrifice</a>"
 item: "#item-4c33b6bc0"

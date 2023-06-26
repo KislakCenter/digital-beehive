@@ -3,7 +3,7 @@ pid: index_2650
 volume: Volume 3
 image_number: '32'
 head: nativity calculators of
-entry: "<a href='/digital-beehive/num6/num_1785/'>1283 [Calculators of Nativity]</a>"
+entry: "<a href='/digital-beehive/num6/num_1786/'>1283 [Calculators of Nativity]</a>"
 topic:
 first_letter: N
 page:

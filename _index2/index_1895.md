@@ -3,7 +3,7 @@ pid: index_1895
 volume: Volume 3
 image_number: '24'
 head: howsoever
-entry: "<a href='/digital-beehive/num6/num_1981/'>1385 [Howsoever]</a>"
+entry: "<a href='/digital-beehive/num6/num_1982/'>1385 [Howsoever]</a>"
 topic:
 first_letter: H
 page:

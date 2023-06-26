@@ -3,7 +3,7 @@ pid: index_3606
 volume: Volume 3
 image_number: '42'
 head: Self concern
-entry: "<a href='/digital-beehive/num4/num_1107/'>873 [Self-Concern]</a>"
+entry: "<a href='/digital-beehive/num4/num_1108/'>873 [Self-Concern]</a>"
 topic:
 first_letter: S
 page:

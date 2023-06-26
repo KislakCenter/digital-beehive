@@ -3,7 +3,7 @@ pid: index_2512
 volume: Volume 3
 image_number: '30'
 head: mile
-entry: "<a href='/digital-beehive/num7/num_2461/'>1624 [Mile]</a>"
+entry: "<a href='/digital-beehive/num7/num_2462/'>1624 [Mile]</a>"
 topic:
 first_letter: M
 page:

@@ -8,7 +8,7 @@ topic: Wisedom
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0760/'>Prudence</a>|<a href='/digital-beehive/num5/num_1498/'>1107
+xref: "<a href='/digital-beehive/alpha4/alpha_0760/'>Prudence</a>|<a href='/digital-beehive/num5/num_1499/'>1107
   [Wisdom]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4567/'>wisdom</a>"

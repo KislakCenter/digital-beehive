@@ -3,7 +3,7 @@ pid: index_4067
 volume: Volume 3
 image_number: '46'
 head: tautology
-entry: "<a href='/digital-beehive/alpha5/alpha_0942/'>a</a>|<a href='/digital-beehive/num5/num_1485/'>1097
+entry: "<a href='/digital-beehive/alpha5/alpha_0942/'>a</a>|<a href='/digital-beehive/num5/num_1486/'>1097
   [Tautology]</a>"
 topic:
 first_letter: T

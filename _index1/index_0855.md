@@ -3,7 +3,7 @@ pid: index_0855
 volume: Volume 3
 image_number: '14'
 head: corporations
-entry: "<a href='/digital-beehive/num3/num_0859/'>634 [Trade]</a>"
+entry: "<a href='/digital-beehive/num3/num_0860/'>634 [Trade]</a>"
 topic:
 first_letter: C
 page:

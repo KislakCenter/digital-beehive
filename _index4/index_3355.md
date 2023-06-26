@@ -3,7 +3,7 @@ pid: index_3355
 volume: Volume 3
 image_number: '39'
 head: remedyless
-entry: "<a href='/digital-beehive/num3/num_0832/'>620 [Despair]</a>"
+entry: "<a href='/digital-beehive/num3/num_0833/'>620 [Despair]</a>"
 topic:
 first_letter: R
 page:

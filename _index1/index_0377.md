@@ -3,7 +3,7 @@ pid: index_0377
 volume: Volume 3
 image_number: '10'
 head: birthright
-entry: "<a href='/digital-beehive/num9/num_3104/'>2163 [Birth-right]</a>"
+entry: "<a href='/digital-beehive/num9/num_3105/'>2163 [Birth-right]</a>"
 topic:
 first_letter: B
 page:

@@ -3,7 +3,7 @@ pid: index_4675
 volume: Volume 3
 image_number: '54'
 head: multitude
-entry: "<a href='/digital-beehive/num5/num_1436/'>1067 [Many]</a>|864 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num5/num_1437/'>1067 [Many]</a>|864 [PAGE_MISSING]"
 topic:
 first_letter: insertion
 page:

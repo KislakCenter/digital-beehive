@@ -3,7 +3,7 @@ pid: index_2516
 volume: Volume 3
 image_number: '30'
 head: miller
-entry: "<a href='/digital-beehive/alpha3/alpha_0596/'>a</a>|<a href='/digital-beehive/num11/num_3568/'>4873
+entry: "<a href='/digital-beehive/alpha3/alpha_0596/'>a</a>|<a href='/digital-beehive/num11/num_3569/'>4873
   [Miller]</a>"
 topic:
 first_letter: M

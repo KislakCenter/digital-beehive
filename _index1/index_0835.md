@@ -3,7 +3,7 @@ pid: index_0835
 volume: Volume 3
 image_number: '14'
 head: conventicle
-entry: 863 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3232/'>2273 [Conventicles]</a>
+entry: 863 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3233/'>2273 [Conventicles]</a>
 topic:
 first_letter: C
 page:

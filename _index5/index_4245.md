@@ -3,7 +3,7 @@ pid: index_4245
 volume: Volume 3
 image_number: '48'
 head: a troop
-entry: "<a href='/digital-beehive/num7/num_2620/'>1699 [a Troop]</a>"
+entry: "<a href='/digital-beehive/num7/num_2621/'>1699 [a Troop]</a>"
 topic:
 first_letter: T
 page:

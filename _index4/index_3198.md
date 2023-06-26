@@ -3,7 +3,7 @@ pid: index_3198
 volume: Volume 3
 image_number: '37'
 head: prophets
-entry: "<a href='/digital-beehive/alpha4/alpha_0755/'>a</a>|<a href='/digital-beehive/num4/num_1332/'>1000
+entry: "<a href='/digital-beehive/alpha4/alpha_0755/'>a</a>|<a href='/digital-beehive/num4/num_1333/'>1000
   [Prophets]</a>"
 topic:
 first_letter: P

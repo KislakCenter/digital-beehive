@@ -8,7 +8,7 @@ topic: Peacemaker
 first_letter: P
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0582/'>mediator</a>|<a href='/digital-beehive/num4/num_1143/'>888
+xref: "<a href='/digital-beehive/alpha3/alpha_0582/'>mediator</a>|<a href='/digital-beehive/num4/num_1144/'>888
   [Peace-making]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_2931/'>peacemaker</a>"

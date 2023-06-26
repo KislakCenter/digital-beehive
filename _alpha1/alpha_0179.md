@@ -8,7 +8,7 @@ topic: Contradiction
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>|<a href='/digital-beehive/num4/num_1170/'>901
+xref: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>|<a href='/digital-beehive/num4/num_1171/'>901
   [Contradiction]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0828/'>contradiction</a>"

@@ -3,7 +3,7 @@ pid: index_0221
 volume: Volume 3
 image_number: '8'
 head: Asaph
-entry: "<a href='/digital-beehive/num7/num_2373/'>1582 [Asaph]</a>"
+entry: "<a href='/digital-beehive/num7/num_2374/'>1582 [Asaph]</a>"
 topic:
 first_letter: A
 page:

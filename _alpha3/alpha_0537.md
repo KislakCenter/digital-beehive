@@ -9,7 +9,7 @@ first_letter: L
 page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0538/'>Liberty of Conscience, continued</a>|<a
-  href='/digital-beehive/num3/num_0709/'>557 [Liberty of Conscience]</a>"
+  href='/digital-beehive/num3/num_0710/'>557 [Liberty of Conscience]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2276/'>liberty of Conscience</a>"
 item: "#item-a7f5c69b7"

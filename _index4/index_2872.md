@@ -3,7 +3,7 @@ pid: index_2872
 volume: Volume 3
 image_number: '34'
 head: parable
-entry: "<a href='/digital-beehive/num6/num_1947/'>1370 [Parables & Similitudes which
+entry: "<a href='/digital-beehive/num6/num_1948/'>1370 [Parables & Similitudes which
   Christ spake]</a>"
 topic:
 first_letter: P

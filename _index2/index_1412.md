@@ -3,8 +3,8 @@ pid: index_1412
 volume: Volume 3
 image_number: '20'
 head: fate
-entry: "<a href='/digital-beehive/alpha2/alpha_0319/'>a</a>|<a href='/digital-beehive/num5/num_1716/'>1243
-  [Fate]</a>|<a href='/digital-beehive/num7/num_2424/'>1608 [Fate]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0319/'>a</a>|<a href='/digital-beehive/num5/num_1717/'>1243
+  [Fate]</a>|<a href='/digital-beehive/num7/num_2425/'>1608 [Fate]</a>"
 topic:
 first_letter: F
 page:

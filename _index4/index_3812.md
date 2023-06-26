@@ -3,7 +3,7 @@ pid: index_3812
 volume: Volume 3
 image_number: '44'
 head: sound words
-entry: "<a href='/digital-beehive/num3/num_0745/'>581 [Articles of faith]</a>"
+entry: "<a href='/digital-beehive/num3/num_0746/'>581 [Articles of faith]</a>"
 topic:
 first_letter: S
 page:

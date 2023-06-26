@@ -3,7 +3,7 @@ pid: index_2303
 volume: Volume 3
 image_number: '28'
 head: lips
-entry: "<a href='/digital-beehive/num7/num_2513/'>1647 [Lips]</a>"
+entry: "<a href='/digital-beehive/num7/num_2514/'>1647 [Lips]</a>"
 topic:
 first_letter: L
 page:

@@ -3,7 +3,7 @@ pid: index_3269
 volume: Volume 3
 image_number: '38'
 head: quintessence
-entry: "<a href='/digital-beehive/num7/num_2400/'>1596 [Quintessence]</a>"
+entry: "<a href='/digital-beehive/num7/num_2401/'>1596 [Quintessence]</a>"
 topic:
 first_letter: Q
 page:

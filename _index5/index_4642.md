@@ -3,7 +3,7 @@ pid: index_4642
 volume: Volume 3
 image_number: '53'
 head: yeoman
-entry: "<a href='/digital-beehive/num6/num_2151/'>1464 [Yeoman, Ingenuus]</a>"
+entry: "<a href='/digital-beehive/num6/num_2152/'>1464 [Yeoman, Ingenuus]</a>"
 topic:
 first_letter: Y
 page:

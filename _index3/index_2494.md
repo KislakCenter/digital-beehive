@@ -3,7 +3,7 @@ pid: index_2494
 volume: Volume 3
 image_number: '30'
 head: Mermaids
-entry: "<a href='/digital-beehive/num7/num_2336/'>1563 [Mermain & Mermaids]</a>"
+entry: "<a href='/digital-beehive/num7/num_2337/'>1563 [Mermain & Mermaids]</a>"
 topic:
 first_letter: M
 page:

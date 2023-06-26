@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '28'
 head: little sufficeth
 entry: "<a href='/digital-beehive/num1/num_0045/'>45 [Little will suffice Nature]</a>|<a
-  href='/digital-beehive/num5/num_1580/'>1160 [a Little is sufficient]</a>"
+  href='/digital-beehive/num5/num_1581/'>1160 [a Little is sufficient]</a>"
 topic:
 first_letter: L
 page:

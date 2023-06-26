@@ -3,7 +3,7 @@ pid: index_1227
 volume: Volume 3
 image_number: '18'
 head: elk
-entry: "<a href='/digital-beehive/num7/num_2269/'>1529 [Moose : Elk]</a>"
+entry: "<a href='/digital-beehive/num7/num_2270/'>1529 [Moose : Elk]</a>"
 topic:
 first_letter: E
 page:

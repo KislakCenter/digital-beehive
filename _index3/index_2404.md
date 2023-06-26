@@ -3,8 +3,8 @@ pid: index_2404
 volume: Volume 3
 image_number: '29'
 head: man
-entry: "<a href='/digital-beehive/alpha3/alpha_0573/'>a</a>|<a href='/digital-beehive/num5/num_1522/'>1124
-  [Man]</a>|<a href='/digital-beehive/num8/num_2832/'>1923 [Man]</a>|<a href='/digital-beehive/num9/num_3177/'>2232
+entry: "<a href='/digital-beehive/alpha3/alpha_0573/'>a</a>|<a href='/digital-beehive/num5/num_1523/'>1124
+  [Man]</a>|<a href='/digital-beehive/num8/num_2833/'>1923 [Man]</a>|<a href='/digital-beehive/num9/num_3178/'>2232
   [Man]</a>"
 topic:
 first_letter: M

@@ -3,7 +3,7 @@ pid: index_0789
 volume: Volume 3
 image_number: '14'
 head: conformity
-entry: "<a href='/digital-beehive/num2/num_0618/'>493 [Conformity]</a>|<a href='/digital-beehive/num6/num_1781/'>1281
+entry: "<a href='/digital-beehive/num2/num_0618/'>493 [Conformity]</a>|<a href='/digital-beehive/num6/num_1782/'>1281
   [Conformity]</a>"
 topic:
 first_letter: C

@@ -8,7 +8,7 @@ topic: Judge
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2525/'>1652 [Judge]</a>"
+xref: "<a href='/digital-beehive/num7/num_2526/'>1652 [Judge]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2131/'>judge</a>"
 item: "#item-af0b7a605"

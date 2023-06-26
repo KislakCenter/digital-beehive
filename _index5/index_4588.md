@@ -3,7 +3,7 @@ pid: index_4588
 volume: Volume 3
 image_number: '53'
 head: brave woman
-entry: "<a href='/digital-beehive/num6/num_2176/'>1477 [Brave Woman]</a>|<a href='/digital-beehive/num9/num_3197/'>2250
+entry: "<a href='/digital-beehive/num6/num_2177/'>1477 [Brave Woman]</a>|<a href='/digital-beehive/num9/num_3198/'>2250
   [Brave Woman]</a>"
 topic:
 first_letter: W

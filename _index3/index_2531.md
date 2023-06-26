@@ -3,7 +3,7 @@ pid: index_2531
 volume: Volume 3
 image_number: '30'
 head: minute
-entry: "<a href='/digital-beehive/num7/num_2330/'>1560 [Minute]</a>"
+entry: "<a href='/digital-beehive/num7/num_2331/'>1560 [Minute]</a>"
 topic:
 first_letter: M
 page:

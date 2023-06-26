@@ -3,7 +3,7 @@ pid: index_3012
 volume: Volume 3
 image_number: '35'
 head: pincers
-entry: "<a href='/digital-beehive/num8/num_2904/'>1974 [Pincers]</a>"
+entry: "<a href='/digital-beehive/num8/num_2905/'>1974 [Pincers]</a>"
 topic:
 first_letter: P
 page:

@@ -3,7 +3,7 @@ pid: index_2683
 volume: Volume 3
 image_number: '32'
 head: Neptune
-entry: "<a href='/digital-beehive/num6/num_1974/'>1383 [Neptune]</a>"
+entry: "<a href='/digital-beehive/num6/num_1975/'>1383 [Neptune]</a>"
 topic:
 first_letter: N
 page:

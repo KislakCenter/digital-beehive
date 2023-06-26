@@ -8,7 +8,7 @@ topic: Experience
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Skill</a>|<a href='/digital-beehive/num6/num_1898/'>1345
+xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Skill</a>|<a href='/digital-beehive/num6/num_1899/'>1345
   [Experience]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1353/'>experience</a>"

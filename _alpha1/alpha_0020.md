@@ -8,7 +8,7 @@ topic: Alliance
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1977/'>1384 [Alliance]</a>"
+xref: "<a href='/digital-beehive/num6/num_1978/'>1384 [Alliance]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0099/'>alliance</a>"
 item: "#item-cc0c50e71"

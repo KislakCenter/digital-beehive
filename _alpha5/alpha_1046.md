@@ -8,7 +8,7 @@ topic: Wish
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0387/'>gratulation</a>|<a href='/digital-beehive/num4/num_1109/'>875
+xref: "<a href='/digital-beehive/alpha2/alpha_0387/'>gratulation</a>|<a href='/digital-beehive/num4/num_1110/'>875
   [Wish]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4570/'>wish</a>"

@@ -8,13 +8,13 @@ topic: Youth
 first_letter: Y
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0143/'>Childhood</a>|934 [Boy]|<a href='/digital-beehive/num2/num_0582/'>467
-  [youth]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0143/'>Childhood</a>|<a href='/digital-beehive/num4/num_1247/'>934
+  [a Boy]</a>|467 [Youth]"
 see:
 index: "<a href='/digital-beehive/index5/index_4652/'>youth</a>"
 item: "#item-c4abd3d9f"
 unparsed:
-line: 'Entry: Youth|Topic: Youth|Xref: Childhood|Xref: 934 [Boy]|Xref: 467 [youth]|Index:
+line: 'Entry: Youth|Topic: Youth|Xref: Childhood|Xref: 934 [a Boy]|Xref: 467 [Youth]|Index:
   youth|#item-c4abd3d9f'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/340,3915,2980,456/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/full/full/0/default.jpg

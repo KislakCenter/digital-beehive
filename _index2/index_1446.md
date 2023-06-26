@@ -3,7 +3,7 @@ pid: index_1446
 volume: Volume 3
 image_number: '20'
 head: to find
-entry: "<a href='/digital-beehive/num7/num_2566/'>1672 [To find out]</a>"
+entry: "<a href='/digital-beehive/num7/num_2567/'>1672 [To find out]</a>"
 topic:
 first_letter: F
 page:

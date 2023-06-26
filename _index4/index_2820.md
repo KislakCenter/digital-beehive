@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '33'
 head: Sacramt of Os or Ordination
 entry: "<a href='/digital-beehive/num1/num_0233/'>221 [Sacrament of Orders]</a>|<a
-  href='/digital-beehive/num8/num_2738/'>1805 [Ordination]</a>"
+  href='/digital-beehive/num8/num_2739/'>1805 [Ordination]</a>"
 topic:
 first_letter: O
 page:

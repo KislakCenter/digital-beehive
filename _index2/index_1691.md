@@ -3,7 +3,7 @@ pid: index_1691
 volume: Volume 3
 image_number: '22'
 head: grandfather
-entry: "<a href='/digital-beehive/num10/num_3378/'>2405 [Grandfather]</a>"
+entry: "<a href='/digital-beehive/num10/num_3379/'>2405 [Grandfather]</a>"
 topic:
 first_letter: G
 page:

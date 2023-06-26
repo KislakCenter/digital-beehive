@@ -3,7 +3,7 @@ pid: index_1518
 volume: Volume 3
 image_number: '21'
 head: forsake sin
-entry: "<a href='/digital-beehive/num7/num_2623/'>1700 [Continuance]</a>"
+entry: "<a href='/digital-beehive/num7/num_2624/'>1700 [Continuance]</a>"
 topic:
 first_letter: F
 page:

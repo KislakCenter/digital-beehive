@@ -3,8 +3,8 @@ pid: index_1749
 volume: Volume 3
 image_number: '23'
 head: happiness
-entry: "<a href='/digital-beehive/alpha2/alpha_0396/'>a</a>|<a href='/digital-beehive/num5/num_1497/'>1106
-  [happy]</a>|<a href='/digital-beehive/num6/num_2071/'>1426 [Happy]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0396/'>a</a>|<a href='/digital-beehive/num5/num_1498/'>1106
+  [happy]</a>|<a href='/digital-beehive/num6/num_2072/'>1426 [Happy]</a>"
 topic:
 first_letter: H
 page:

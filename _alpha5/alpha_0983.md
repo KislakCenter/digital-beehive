@@ -8,7 +8,7 @@ topic: Treasure
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0605/'>Money</a>|<a href='/digital-beehive/num7/num_2230/'>1509
+xref: "<a href='/digital-beehive/alpha3/alpha_0605/'>Money</a>|<a href='/digital-beehive/num7/num_2231/'>1509
   [Treasure]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4226/'>treasure</a>"

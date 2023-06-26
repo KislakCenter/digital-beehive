@@ -3,7 +3,7 @@ pid: index_4481
 volume: Volume 3
 image_number: '51'
 head: warts
-entry: "<a href='/digital-beehive/num6/num_1882/'>1337 [Corns : Warts]</a>"
+entry: "<a href='/digital-beehive/num6/num_1883/'>1337 [Corns : Warts]</a>"
 topic:
 first_letter: W
 page:

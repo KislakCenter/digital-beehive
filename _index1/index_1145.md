@@ -3,8 +3,8 @@ pid: index_1145
 volume: Volume 3
 image_number: '17'
 head: dream
-entry: "<a href='/digital-beehive/num6/num_1956/'>1374 [Dream]</a>|<a href='/digital-beehive/num7/num_2285/'>1535
-  [Dream]</a>|<a href='/digital-beehive/num9/num_2979/'>2045 [Dreams]</a>"
+entry: "<a href='/digital-beehive/num6/num_1957/'>1374 [Dream]</a>|<a href='/digital-beehive/num7/num_2286/'>1535
+  [Dream]</a>|<a href='/digital-beehive/num9/num_2980/'>2045 [Dreams]</a>"
 topic:
 first_letter: D
 page:

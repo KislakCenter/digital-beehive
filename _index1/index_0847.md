@@ -3,7 +3,7 @@ pid: index_0847
 volume: Volume 3
 image_number: '14'
 head: Corban
-entry: "<a href='/digital-beehive/num9/num_2939/'>2005 [Corban]</a>"
+entry: "<a href='/digital-beehive/num9/num_2940/'>2005 [Corban]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_3781
 volume: Volume 3
 image_number: '43'
 head: soft
-entry: "<a href='/digital-beehive/alpha4/alpha_0896/'>a</a>|<a href='/digital-beehive/num3/num_0795/'>603
+entry: "<a href='/digital-beehive/alpha4/alpha_0896/'>a</a>|<a href='/digital-beehive/num3/num_0796/'>603
   [Flaccid]</a>"
 topic:
 first_letter: S

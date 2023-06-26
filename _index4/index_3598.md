@@ -3,7 +3,7 @@ pid: index_3598
 volume: Volume 3
 image_number: '41'
 head: seers
-entry: "<a href='/digital-beehive/num6/num_1835/'>1314 [Second sighted]</a>"
+entry: "<a href='/digital-beehive/num6/num_1836/'>1314 [Second sighted]</a>"
 topic:
 first_letter: S
 page:

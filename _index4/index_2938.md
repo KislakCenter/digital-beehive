@@ -3,7 +3,7 @@ pid: index_2938
 volume: Volume 3
 image_number: '35'
 head: pedantery
-entry: "<a href='/digital-beehive/alpha4/alpha_0701/'>a</a>|<a href='/digital-beehive/num5/num_1676/'>1224
+entry: "<a href='/digital-beehive/alpha4/alpha_0701/'>a</a>|<a href='/digital-beehive/num5/num_1677/'>1224
   [Pedantry]</a>"
 topic:
 first_letter: P

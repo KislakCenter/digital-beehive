@@ -8,7 +8,7 @@ topic: Wolf
 first_letter: W
 page:
 add:
-xref: 1535 [Lycanthropia]
+xref: "<a href='/digital-beehive/num7/num_2285/'>1535 [Lycanthropia]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4586/'>wolf</a>"
 item: "#item-3595fd35e"

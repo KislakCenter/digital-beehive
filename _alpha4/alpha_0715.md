@@ -8,7 +8,7 @@ topic: Planets
 first_letter: P
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2041/'>1414 [Seven Planets]</a>"
+xref: "<a href='/digital-beehive/num6/num_2042/'>1414 [Seven Planets]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3033/'>planets</a>"
 item: "#item-eb185b5f6"

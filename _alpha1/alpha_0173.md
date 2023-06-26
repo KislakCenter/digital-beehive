@@ -8,7 +8,7 @@ topic: Consequence
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2114/'>1447 [Consequence]</a>"
+xref: "<a href='/digital-beehive/num6/num_2115/'>1447 [Consequence]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0805/'>consequence</a>"
 item: "#item-b4594761a"

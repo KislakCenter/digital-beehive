@@ -3,7 +3,7 @@ pid: index_2420
 volume: Volume 3
 image_number: '29'
 head: manuscripts of mine own
-entry: "<a href='/digital-beehive/num7/num_2232/'>1511 [Protestant Religion]</a>"
+entry: "<a href='/digital-beehive/num7/num_2233/'>1511 [Protestant Religion]</a>"
 topic:
 first_letter: M
 page:

@@ -3,7 +3,7 @@ pid: index_0122
 volume: Volume 3
 image_number: '7'
 head: ambition
-entry: "<a href='/digital-beehive/alpha1/alpha_0024/'>a</a>|<a href='/digital-beehive/num5/num_1576/'>1156
+entry: "<a href='/digital-beehive/alpha1/alpha_0024/'>a</a>|<a href='/digital-beehive/num5/num_1577/'>1156
   [Ambition]</a>"
 topic:
 first_letter: A

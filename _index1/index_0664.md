@@ -3,7 +3,7 @@ pid: index_0664
 volume: Volume 3
 image_number: '13'
 head: Churchman
-entry: "<a href='/digital-beehive/num6/num_1972/'>1381 [Robert Churchman]</a>"
+entry: "<a href='/digital-beehive/num6/num_1973/'>1381 [Robert Churchman]</a>"
 topic:
 first_letter: C
 page:

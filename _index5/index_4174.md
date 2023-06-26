@@ -3,7 +3,7 @@ pid: index_4174
 volume: Volume 3
 image_number: '48'
 head: too good
-entry: "<a href='/digital-beehive/num7/num_2403/'>1598 [Too Good]</a>"
+entry: "<a href='/digital-beehive/num7/num_2404/'>1598 [Too Good]</a>"
 topic:
 first_letter: T
 page:

@@ -3,7 +3,7 @@ pid: index_3620
 volume: Volume 3
 image_number: '42'
 head: Self learning
-entry: "<a href='/digital-beehive/num7/num_2359/'>1573 [Self Learning]</a>"
+entry: "<a href='/digital-beehive/num7/num_2360/'>1573 [Self Learning]</a>"
 topic:
 first_letter: S
 page:

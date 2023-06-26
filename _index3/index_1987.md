@@ -3,7 +3,7 @@ pid: index_1987
 volume: Volume 3
 image_number: '25'
 head: imputation
-entry: "<a href='/digital-beehive/alpha3/alpha_0468/'>a</a>|<a href='/digital-beehive/num3/num_0691/'>548
+entry: "<a href='/digital-beehive/alpha3/alpha_0468/'>a</a>|<a href='/digital-beehive/num3/num_0692/'>548
   [Imputation]</a>"
 topic:
 first_letter: I/J

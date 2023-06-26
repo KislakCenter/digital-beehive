@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '28'
 head: liberty
 entry: "<a href='/digital-beehive/alpha3/alpha_0536/'>a</a>|769 [PAGE_MISSING]|<a
-  href='/digital-beehive/num5/num_1500/'>1108 [Liberty]</a>|4606 [PAGE_MISSING]"
+  href='/digital-beehive/num5/num_1501/'>1108 [Liberty]</a>|4606 [PAGE_MISSING]"
 topic:
 first_letter: L
 page:

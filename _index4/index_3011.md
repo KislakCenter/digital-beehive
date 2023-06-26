@@ -3,7 +3,7 @@ pid: index_3011
 volume: Volume 3
 image_number: '35'
 head: pimples
-entry: "<a href='/digital-beehive/num5/num_1613/'>1183 [Pimples, redness & inflam[m]ation
+entry: "<a href='/digital-beehive/num5/num_1614/'>1183 [Pimples, redness & inflam[m]ation
   in the face]</a>"
 topic:
 first_letter: P

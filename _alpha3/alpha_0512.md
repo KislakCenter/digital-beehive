@@ -8,7 +8,7 @@ topic: Lasciviousness
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/num6/num_2014/'>1402
+xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/num6/num_2015/'>1402
   [Lasciviousness]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2202/'>lascivious</a>"

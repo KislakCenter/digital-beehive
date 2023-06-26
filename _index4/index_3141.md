@@ -3,7 +3,7 @@ pid: index_3141
 volume: Volume 3
 image_number: '37'
 head: the pretender
-entry: "<a href='/digital-beehive/num9/num_3129/'>2186 [the Pretender James 3d]</a>"
+entry: "<a href='/digital-beehive/num9/num_3130/'>2186 [the Pretender James 3d]</a>"
 topic:
 first_letter: P
 page:

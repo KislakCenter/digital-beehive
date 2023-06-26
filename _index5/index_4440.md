@@ -3,7 +3,7 @@ pid: index_4440
 volume: Volume 3
 image_number: '51'
 head: Uriah's letters
-entry: "<a href='/digital-beehive/num7/num_2645/'>1721 [Bellerophontis literas]</a>"
+entry: "<a href='/digital-beehive/num7/num_2646/'>1721 [Bellerophontis literas]</a>"
 topic:
 first_letter: U/V
 page:

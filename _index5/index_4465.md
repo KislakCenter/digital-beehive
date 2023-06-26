@@ -3,7 +3,7 @@ pid: index_4465
 volume: Volume 3
 image_number: '51'
 head: walks. spatzieren
-entry: "<a href='/digital-beehive/num6/num_2104/'>1441 [Walks : walking places]</a>"
+entry: "<a href='/digital-beehive/num6/num_2105/'>1441 [Walks : walking places]</a>"
 topic:
 first_letter: W
 page:

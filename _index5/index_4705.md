@@ -3,7 +3,7 @@ pid: index_4705
 volume: Volume 3
 image_number: '54'
 head: Salvation of devils
-entry: "<a href='/digital-beehive/num10/num_3472/'>4485 [Devils to be Saved]</a>"
+entry: "<a href='/digital-beehive/num10/num_3473/'>4485 [Devils to be Saved]</a>"
 topic:
 first_letter: insertion
 page:

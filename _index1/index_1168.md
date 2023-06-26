@@ -3,7 +3,7 @@ pid: index_1168
 volume: Volume 3
 image_number: '18'
 head: dumb
-entry: "<a href='/digital-beehive/num3/num_0697/'>551 [[WORD_ILLEGIBLE]]</a>"
+entry: "<a href='/digital-beehive/num3/num_0698/'>551 [[WORD_ILLEGIBLE]]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_0004
 volume: Volume 3
 image_number: '7'
 head: abbreviating
-entry: "<a href='/digital-beehive/num6/num_2181/'>1480 [Abbreviating]</a>"
+entry: "<a href='/digital-beehive/num6/num_2182/'>1480 [Abbreviating]</a>"
 topic:
 first_letter: A
 page:

@@ -3,7 +3,7 @@ pid: index_4337
 volume: Volume 3
 image_number: '49'
 head: viper
-entry: "<a href='/digital-beehive/num7/num_2290/'>1539 [Serpents]</a>"
+entry: "<a href='/digital-beehive/num7/num_2291/'>1539 [Serpents]</a>"
 topic:
 first_letter: U/V
 page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"

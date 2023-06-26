@@ -3,8 +3,8 @@ pid: index_1901
 volume: Volume 3
 image_number: '24'
 head: humility
-entry: "<a href='/digital-beehive/alpha2/alpha_0440/'>a</a>|<a href='/digital-beehive/num6/num_1746/'>1259
-  [Humility]</a>|<a href='/digital-beehive/num8/num_2848/'>1935 [Humility]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0440/'>a</a>|<a href='/digital-beehive/num6/num_1747/'>1259
+  [Humility]</a>|<a href='/digital-beehive/num8/num_2849/'>1935 [Humility]</a>"
 topic:
 first_letter: H
 page:

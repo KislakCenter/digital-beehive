@@ -8,7 +8,7 @@ topic: Laughter
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>derision</a>|<a href='/digital-beehive/num6/num_1738/'>1254
+xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>derision</a>|<a href='/digital-beehive/num6/num_1739/'>1254
   [Laughter]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2221/'>laughter</a>"

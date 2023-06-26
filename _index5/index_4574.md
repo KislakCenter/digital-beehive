@@ -3,9 +3,9 @@ pid: index_4574
 volume: Volume 3
 image_number: '53'
 head: witchcraft
-entry: "<a href='/digital-beehive/alpha5/alpha_1047/'>a</a>|<a href='/digital-beehive/num6/num_1833/'>1312
-  [Witchcraft]</a>|<a href='/digital-beehive/num7/num_2286/'>1536 [Witchcraft]</a>|<a
-  href='/digital-beehive/num7/num_2320/'>1556 [Bewitch]</a>|<a href='/digital-beehive/num9/num_3189/'>2243
+entry: "<a href='/digital-beehive/alpha5/alpha_1047/'>a</a>|<a href='/digital-beehive/num6/num_1834/'>1312
+  [Witchcraft]</a>|<a href='/digital-beehive/num7/num_2287/'>1536 [Witchcraft]</a>|<a
+  href='/digital-beehive/num7/num_2321/'>1556 [Bewitch]</a>|<a href='/digital-beehive/num9/num_3190/'>2243
   [Sorcery or Witchcraft]</a>"
 topic:
 first_letter: W

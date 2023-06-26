@@ -3,7 +3,7 @@ pid: index_0119
 volume: Volume 3
 image_number: '7'
 head: amazons
-entry: "<a href='/digital-beehive/num7/num_2268/'>1529 [Amazones]</a>"
+entry: "<a href='/digital-beehive/num7/num_2269/'>1529 [Amazones]</a>"
 topic:
 first_letter: A
 page:

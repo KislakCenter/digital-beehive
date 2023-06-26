@@ -3,7 +3,7 @@ pid: index_3037
 volume: Volume 3
 image_number: '36'
 head: platonical love
-entry: "<a href='/digital-beehive/num7/num_2327/'>1559 [Platonical Love]</a>"
+entry: "<a href='/digital-beehive/num7/num_2328/'>1559 [Platonical Love]</a>"
 topic:
 first_letter: P
 page:

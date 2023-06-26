@@ -3,7 +3,7 @@ pid: index_1808
 volume: Volume 3
 image_number: '23'
 head: herdsmen
-entry: "<a href='/digital-beehive/num8/num_2843/'>1929 [Shepherds]</a>"
+entry: "<a href='/digital-beehive/num8/num_2844/'>1929 [Shepherds]</a>"
 topic:
 first_letter: H
 page:

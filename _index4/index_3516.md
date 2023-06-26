@@ -3,7 +3,7 @@ pid: index_3516
 volume: Volume 3
 image_number: '41'
 head: Samuel
-entry: "<a href='/digital-beehive/num7/num_2310/'>1550 [Samuel]</a>"
+entry: "<a href='/digital-beehive/num7/num_2311/'>1550 [Samuel]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_1961
 volume: Volume 3
 image_number: '25'
 head: imitation of Christ
-entry: "<a href='/digital-beehive/alpha3/alpha_0462/'>a</a>|<a href='/digital-beehive/num5/num_1349/'>1010
+entry: "<a href='/digital-beehive/alpha3/alpha_0462/'>a</a>|<a href='/digital-beehive/num5/num_1350/'>1010
   [Following of Christ]</a>"
 topic:
 first_letter: I/J

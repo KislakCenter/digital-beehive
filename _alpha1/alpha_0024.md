@@ -8,7 +8,7 @@ topic: Ambition
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0731/'>Precedency</a>|<a href='/digital-beehive/num5/num_1576/'>1156
+xref: "<a href='/digital-beehive/alpha4/alpha_0731/'>Precedency</a>|<a href='/digital-beehive/num5/num_1577/'>1156
   [Ambition]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0122/'>ambition</a>"

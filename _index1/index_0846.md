@@ -3,7 +3,7 @@ pid: index_0846
 volume: Volume 3
 image_number: '14'
 head: coral
-entry: "<a href='/digital-beehive/num5/num_1484/'>1096 [Coral]</a>"
+entry: "<a href='/digital-beehive/num5/num_1485/'>1096 [Coral]</a>"
 topic:
 first_letter: C
 page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"

@@ -3,7 +3,7 @@ pid: index_0880
 volume: Volume 3
 image_number: '15'
 head: courage
-entry: "<a href='/digital-beehive/alpha1/alpha_0188/'>a</a>|<a href='/digital-beehive/num5/num_1556/'>1143
+entry: "<a href='/digital-beehive/alpha1/alpha_0188/'>a</a>|<a href='/digital-beehive/num5/num_1557/'>1143
   [Courage]</a>"
 topic:
 first_letter: C

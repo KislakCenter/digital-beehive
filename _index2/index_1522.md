@@ -3,7 +3,7 @@ pid: index_1522
 volume: Volume 3
 image_number: '21'
 head: fortune
-entry: "<a href='/digital-beehive/alpha2/alpha_0346/'>a</a>|<a href='/digital-beehive/num5/num_1574/'>1154
+entry: "<a href='/digital-beehive/alpha2/alpha_0346/'>a</a>|<a href='/digital-beehive/num5/num_1575/'>1154
   [Fortune]</a>|4785 [PAGE_MISSING]"
 topic:
 first_letter: F

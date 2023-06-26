@@ -3,7 +3,7 @@ pid: index_2260
 volume: Volume 3
 image_number: '28'
 head: to lessen
-entry: "<a href='/digital-beehive/num6/num_2179/'>1479 [to Lessen]</a>"
+entry: "<a href='/digital-beehive/num6/num_2180/'>1479 [to Lessen]</a>"
 topic:
 first_letter: L
 page:

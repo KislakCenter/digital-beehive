@@ -3,7 +3,7 @@ pid: index_0929
 volume: Volume 3
 image_number: '15'
 head: currans
-entry: "<a href='/digital-beehive/num6/num_1895/'>1344 [Corinths : Currants]</a>"
+entry: "<a href='/digital-beehive/num6/num_1896/'>1344 [Corinths : Currants]</a>"
 topic:
 first_letter: C
 page:

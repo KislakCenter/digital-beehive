@@ -3,7 +3,7 @@ pid: index_2366
 volume: Volume 3
 image_number: '29'
 head: lunaticks
-entry: "<a href='/digital-beehive/num7/num_2389/'>1591 [Lunaticks]</a>"
+entry: "<a href='/digital-beehive/num7/num_2390/'>1591 [Lunaticks]</a>"
 topic:
 first_letter: L
 page:

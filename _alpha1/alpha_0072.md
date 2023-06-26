@@ -8,12 +8,14 @@ topic: Beer
 first_letter: B
 page:
 add:
-xref: 4615 [Brewing]|<a href='/digital-beehive/num9/num_3076/'>2137 [Beer]</a>
+xref: 4615 [PAGE_MISSING, Brewing]|<a href='/digital-beehive/num9/num_3077/'>2137
+  [Beer]</a>
 see:
 index: "<a href='/digital-beehive/index1/index_0333/'>beer</a>"
 item: "#item-d449462c4"
 unparsed:
-line: 'Entry: Beer|Topic: Beer|Xref: 4615 [Brewing]|Xref: 2137 [Beer]|Index: beer|#item-d449462c4'
+line: 'Entry: Beer|Topic: Beer|Xref: 4615 [PAGE_MISSING, Brewing]|Xref: 2137 [Beer]|Index:
+  beer|#item-d449462c4'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/870,1274,2932,507/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744162482

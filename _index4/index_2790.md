@@ -3,7 +3,7 @@ pid: index_2790
 volume: Volume 3
 image_number: '33'
 head: omnipotency
-entry: "<a href='/digital-beehive/alpha4/alpha_0666/'>a</a>|<a href='/digital-beehive/num7/num_2473/'>1630
+entry: "<a href='/digital-beehive/alpha4/alpha_0666/'>a</a>|<a href='/digital-beehive/num7/num_2474/'>1630
   [Altar]</a>"
 topic:
 first_letter: O

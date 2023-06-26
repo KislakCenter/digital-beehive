@@ -3,7 +3,7 @@ pid: index_3818
 volume: Volume 3
 image_number: '44'
 head: spaniards
-entry: "<a href='/digital-beehive/num5/num_1435/'>1066 [Spaniard]</a>"
+entry: "<a href='/digital-beehive/num5/num_1436/'>1066 [Spaniard]</a>"
 topic:
 first_letter: S
 page:

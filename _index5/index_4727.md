@@ -3,7 +3,7 @@ pid: index_4727
 volume: Volume 3
 image_number: '54'
 head: heros
-entry: "<a href='/digital-beehive/num11/num_3553/'>4858 [Heros]</a>"
+entry: "<a href='/digital-beehive/num11/num_3554/'>4858 [Heros]</a>"
 topic:
 first_letter: insertion
 page:

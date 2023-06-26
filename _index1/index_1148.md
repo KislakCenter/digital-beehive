@@ -3,7 +3,7 @@ pid: index_1148
 volume: Volume 3
 image_number: '17'
 head: drieness
-entry: "<a href='/digital-beehive/alpha1/alpha_0265/'>a</a>|<a href='/digital-beehive/num7/num_2264/'>1526
+entry: "<a href='/digital-beehive/alpha1/alpha_0265/'>a</a>|<a href='/digital-beehive/num7/num_2265/'>1526
   [Drought or Driness]</a>"
 topic:
 first_letter: D

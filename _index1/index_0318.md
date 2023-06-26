@@ -3,7 +3,7 @@ pid: index_0318
 volume: Volume 3
 image_number: '9'
 head: beard
-entry: "<a href='/digital-beehive/alpha1/alpha_0067/'>a</a>|<a href='/digital-beehive/num6/num_2147/'>1462
+entry: "<a href='/digital-beehive/alpha1/alpha_0067/'>a</a>|<a href='/digital-beehive/num6/num_2148/'>1462
   [Beard]</a>"
 topic:
 first_letter: B

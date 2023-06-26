@@ -3,7 +3,7 @@ pid: index_2266
 volume: Volume 3
 image_number: '28'
 head: letters of friends
-entry: "<a href='/digital-beehive/num6/num_2210/'>1500 [Epistles of Friends]</a>"
+entry: "<a href='/digital-beehive/num6/num_2211/'>1500 [Epistles of Friends]</a>"
 topic:
 first_letter: L
 page:

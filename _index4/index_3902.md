@@ -3,8 +3,8 @@ pid: index_3902
 volume: Volume 3
 image_number: '45'
 head: stile
-entry: "<a href='/digital-beehive/num3/num_0676/'>537 [Terms in didascalia]</a>|<a
-  href='/digital-beehive/num6/num_2024/'>1406 [Lapidaria]</a>"
+entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>|<a
+  href='/digital-beehive/num6/num_2025/'>1406 [Lapidaria]</a>"
 topic:
 first_letter: S
 page:

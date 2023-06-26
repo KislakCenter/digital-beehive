@@ -3,7 +3,7 @@ pid: index_3957
 volume: Volume 3
 image_number: '45'
 head: subscribed
-entry: "<a href='/digital-beehive/num5/num_1615/'>1184 [the hereunto Subscribed]</a>"
+entry: "<a href='/digital-beehive/num5/num_1616/'>1184 [the hereunto Subscribed]</a>"
 topic:
 first_letter: S
 page:

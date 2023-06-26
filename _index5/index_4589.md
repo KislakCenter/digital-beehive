@@ -3,7 +3,7 @@ pid: index_4589
 volume: Volume 3
 image_number: '53'
 head: womanish
-entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>|<a href='/digital-beehive/num6/num_1986/'>1388
+entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>|<a href='/digital-beehive/num6/num_1987/'>1388
   [Love of Women]</a>"
 topic:
 first_letter: W

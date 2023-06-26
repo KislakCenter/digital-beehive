@@ -3,7 +3,7 @@ pid: index_4531
 volume: Volume 3
 image_number: '52'
 head: whetstone
-entry: "<a href='/digital-beehive/num6/num_1787/'>1284 [a Whetstone]</a>"
+entry: "<a href='/digital-beehive/num6/num_1788/'>1284 [a Whetstone]</a>"
 topic:
 first_letter: W
 page:

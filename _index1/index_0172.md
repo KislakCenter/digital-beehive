@@ -3,7 +3,7 @@ pid: index_0172
 volume: Volume 3
 image_number: '8'
 head: apothecary
-entry: "<a href='/digital-beehive/alpha1/alpha_0040/'>a</a>|<a href='/digital-beehive/num11/num_3486/'>4794
+entry: "<a href='/digital-beehive/alpha1/alpha_0040/'>a</a>|<a href='/digital-beehive/num11/num_3487/'>4794
   [Apothecary]</a>"
 topic:
 first_letter: A

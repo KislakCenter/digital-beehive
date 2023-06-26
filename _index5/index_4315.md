@@ -3,7 +3,7 @@ pid: index_4315
 volume: Volume 3
 image_number: '49'
 head: verbatim
-entry: "<a href='/digital-beehive/num3/num_0674/'>536 [Verbatim]</a>"
+entry: "<a href='/digital-beehive/num3/num_0675/'>536 [Verbatim]</a>"
 topic:
 first_letter: U/V
 page:

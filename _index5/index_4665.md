@@ -3,7 +3,7 @@ pid: index_4665
 volume: Volume 3
 image_number: '54'
 head: fringes
-entry: "<a href='/digital-beehive/num8/num_2788/'>1902 [Fringes]</a>"
+entry: "<a href='/digital-beehive/num8/num_2789/'>1902 [Fringes]</a>"
 topic:
 first_letter: insertion
 page:

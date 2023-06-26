@@ -3,7 +3,7 @@ pid: index_4026
 volume: Volume 3
 image_number: '46'
 head: Switzers
-entry: "<a href='/digital-beehive/num2/num_0411/'>351 [Switzerland]</a>|<a href='/digital-beehive/num6/num_1949/'>1371
+entry: "<a href='/digital-beehive/num2/num_0411/'>351 [Switzerland]</a>|<a href='/digital-beehive/num6/num_1950/'>1371
   [Swissers]</a>"
 topic:
 first_letter: S

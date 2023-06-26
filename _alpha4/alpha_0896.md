@@ -8,7 +8,7 @@ topic: Soft
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0795/'>603 [Flaccid]</a>"
+xref: "<a href='/digital-beehive/num3/num_0796/'>603 [Flaccid]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3781/'>soft</a>"
 item: "#item-bf50f33bf"

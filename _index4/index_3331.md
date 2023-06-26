@@ -3,7 +3,7 @@ pid: index_3331
 volume: Volume 3
 image_number: '39'
 head: reflections
-entry: "<a href='/digital-beehive/num3/num_0953/'>680 [Scheltwort]</a>"
+entry: "<a href='/digital-beehive/num3/num_0954/'>680 [Scheltwort]</a>"
 topic:
 first_letter: R
 page:

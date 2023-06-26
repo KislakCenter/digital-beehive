@@ -3,7 +3,7 @@ pid: index_0704
 volume: Volume 3
 image_number: '13'
 head: clown
-entry: "<a href='/digital-beehive/num3/num_0925/'>668 [Peasant]</a>"
+entry: "<a href='/digital-beehive/num3/num_0926/'>668 [Peasant]</a>"
 topic:
 first_letter: C
 page:

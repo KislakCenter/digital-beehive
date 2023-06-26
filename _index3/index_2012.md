@@ -3,7 +3,7 @@ pid: index_2012
 volume: Volume 3
 image_number: '25'
 head: indecent
-entry: "<a href='/digital-beehive/num3/num_1032/'>709 [Unseemly]</a>"
+entry: "<a href='/digital-beehive/num3/num_1033/'>709 [Unseemly]</a>"
 topic:
 first_letter: I/J
 page:

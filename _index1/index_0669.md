@@ -3,7 +3,7 @@ pid: index_0669
 volume: Volume 3
 image_number: '13'
 head: cider
-entry: "<a href='/digital-beehive/num6/num_2183/'>1480 [Cider]</a>"
+entry: "<a href='/digital-beehive/num6/num_2184/'>1480 [Cider]</a>"
 topic:
 first_letter: C
 page:

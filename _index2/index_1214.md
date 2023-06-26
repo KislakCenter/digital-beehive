@@ -3,7 +3,7 @@ pid: index_1214
 volume: Volume 3
 image_number: '18'
 head: efficacy
-entry: "<a href='/digital-beehive/num3/num_0813/'>611 [with Efficacy]</a>"
+entry: "<a href='/digital-beehive/num3/num_0814/'>611 [with Efficacy]</a>"
 topic:
 first_letter: E
 page:

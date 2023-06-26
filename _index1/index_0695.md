@@ -3,7 +3,7 @@ pid: index_0695
 volume: Volume 3
 image_number: '13'
 head: climacterical years
-entry: "<a href='/digital-beehive/num6/num_1828/'>1307 [Climacterical years]</a>"
+entry: "<a href='/digital-beehive/num6/num_1829/'>1307 [Climacterical years]</a>"
 topic:
 first_letter: C
 page:

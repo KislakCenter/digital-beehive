@@ -3,7 +3,7 @@ pid: index_3052
 volume: Volume 3
 image_number: '36'
 head: plural
-entry: "<a href='/digital-beehive/num6/num_1964/'>1377 [Plural]</a>"
+entry: "<a href='/digital-beehive/num6/num_1965/'>1377 [Plural]</a>"
 topic:
 first_letter: P
 page:

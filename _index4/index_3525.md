@@ -3,7 +3,7 @@ pid: index_3525
 volume: Volume 3
 image_number: '41'
 head: Savin
-entry: "<a href='/digital-beehive/num3/num_0992/'>692 [Savin]</a>"
+entry: "<a href='/digital-beehive/num3/num_0993/'>692 [Savin]</a>"
 topic:
 first_letter: S
 page:

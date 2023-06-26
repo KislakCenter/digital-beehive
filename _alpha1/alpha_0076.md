@@ -8,7 +8,7 @@ topic: Bell
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1142/'>888 [Bell]</a>"
+xref: "<a href='/digital-beehive/num4/num_1143/'>888 [Bell]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0348/'>bells</a>"
 item: "#item-c367931ce"

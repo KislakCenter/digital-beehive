@@ -8,7 +8,7 @@ topic: Battery
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_1031/'>708 [Beating]</a>"
+xref: "<a href='/digital-beehive/num3/num_1032/'>708 [Beating]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0310/'>battery</a>"
 item: "#item-68ff2988e"

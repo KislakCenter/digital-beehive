@@ -3,7 +3,7 @@ pid: index_1470
 volume: Volume 3
 image_number: '20'
 head: flagging
-entry: "<a href='/digital-beehive/num3/num_0795/'>603 [Flaccid]</a>"
+entry: "<a href='/digital-beehive/num3/num_0796/'>603 [Flaccid]</a>"
 topic:
 first_letter: F
 page:

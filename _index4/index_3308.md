@@ -3,7 +3,7 @@ pid: index_3308
 volume: Volume 3
 image_number: '38'
 head: how to read the bible
-entry: "<a href='/digital-beehive/num10/num_3443/'>4461 [The Bible we should read]</a>"
+entry: "<a href='/digital-beehive/num10/num_3444/'>4461 [The Bible we should read]</a>"
 topic:
 first_letter: R
 page:

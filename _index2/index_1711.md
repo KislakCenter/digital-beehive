@@ -3,7 +3,7 @@ pid: index_1711
 volume: Volume 3
 image_number: '23'
 head: green
-entry: "<a href='/digital-beehive/num8/num_2687/'>1757 [Green]</a>"
+entry: "<a href='/digital-beehive/num8/num_2688/'>1757 [Green]</a>"
 topic:
 first_letter: G
 page:

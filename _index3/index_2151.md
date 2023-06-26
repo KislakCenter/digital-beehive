@@ -3,7 +3,7 @@ pid: index_2151
 volume: Volume 3
 image_number: '27'
 head: Tho. of Kempis
-entry: "<a href='/digital-beehive/num5/num_1348/'>1009 [Thomas of Kempis]</a>"
+entry: "<a href='/digital-beehive/num5/num_1349/'>1009 [Thomas of Kempis]</a>"
 topic:
 first_letter: K
 page:

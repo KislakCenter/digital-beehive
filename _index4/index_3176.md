@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '37'
 head: prodigality
 entry: "<a href='/digital-beehive/alpha4/alpha_0744/'>a</a>|753 [PAGE_MISSING]|<a
-  href='/digital-beehive/num9/num_3006/'>2072 [Prodigality]</a>"
+  href='/digital-beehive/num9/num_3007/'>2072 [Prodigality]</a>"
 topic:
 first_letter: P
 page:

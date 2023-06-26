@@ -3,7 +3,7 @@ pid: index_2447
 volume: Volume 3
 image_number: '30'
 head: materia prima
-entry: "<a href='/digital-beehive/num7/num_2584/'>1681 [Creation]</a>"
+entry: "<a href='/digital-beehive/num7/num_2585/'>1681 [Creation]</a>"
 topic:
 first_letter: M
 page:

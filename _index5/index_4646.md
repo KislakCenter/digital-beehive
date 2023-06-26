@@ -3,7 +3,7 @@ pid: index_4646
 volume: Volume 3
 image_number: '53'
 head: yesterday
-entry: "<a href='/digital-beehive/num5/num_1692/'>1230 [Yesterday]</a>"
+entry: "<a href='/digital-beehive/num5/num_1693/'>1230 [Yesterday]</a>"
 topic:
 first_letter: Y
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '53'
 head: youth
 entry: "<a href='/digital-beehive/alpha5/alpha_1075/'>a</a>|<a href='/digital-beehive/num2/num_0582/'>467
-  [youth]</a>|<a href='/digital-beehive/num10/num_3317/'>2347 [Youth]</a>"
+  [youth]</a>|<a href='/digital-beehive/num10/num_3318/'>2347 [Youth]</a>"
 topic:
 first_letter: Y
 page:

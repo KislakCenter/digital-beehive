@@ -3,8 +3,8 @@ pid: index_1696
 volume: Volume 3
 image_number: '22'
 head: gratitude
-entry: "<a href='/digital-beehive/alpha2/alpha_0385/'>a</a>|<a href='/digital-beehive/num5/num_1495/'>1104
-  [Benefits]</a>|<a href='/digital-beehive/num5/num_1538/'>1132 [Gratitude]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0385/'>a</a>|<a href='/digital-beehive/num5/num_1496/'>1104
+  [Benefits]</a>|<a href='/digital-beehive/num5/num_1539/'>1132 [Gratitude]</a>"
 topic:
 first_letter: G
 page:

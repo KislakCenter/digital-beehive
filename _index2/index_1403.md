@@ -3,7 +3,7 @@ pid: index_1403
 volume: Volume 3
 image_number: '20'
 head: farewel
-entry: "<a href='/digital-beehive/alpha2/alpha_0316/'>a</a>|<a href='/digital-beehive/num3/num_0939/'>675
+entry: "<a href='/digital-beehive/alpha2/alpha_0316/'>a</a>|<a href='/digital-beehive/num3/num_0940/'>675
   [Farewell]</a>"
 topic:
 first_letter: F

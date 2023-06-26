@@ -3,8 +3,8 @@ pid: index_2343
 volume: Volume 3
 image_number: '29'
 head: love of our neighbour
-entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>|<a href='/digital-beehive/num5/num_1456/'>1079
-  [Love of Neighbours]</a>|<a href='/digital-beehive/num10/num_3425/'>4447 [Love of
+entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>|<a href='/digital-beehive/num5/num_1457/'>1079
+  [Love of Neighbours]</a>|<a href='/digital-beehive/num10/num_3426/'>4447 [Love of
   Neighbours]</a>"
 topic:
 first_letter: L

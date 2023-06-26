@@ -3,7 +3,7 @@ pid: index_2695
 volume: Volume 3
 image_number: '32'
 head: newfoundland
-entry: "<a href='/digital-beehive/num7/num_2255/'>1522 [Newfound-land]</a>"
+entry: "<a href='/digital-beehive/num7/num_2256/'>1522 [Newfound-land]</a>"
 topic:
 first_letter: N
 page:

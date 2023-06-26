@@ -3,7 +3,7 @@ pid: index_1928
 volume: Volume 3
 image_number: '25'
 head: jaundise
-entry: "<a href='/digital-beehive/num5/num_1665/'>1217 [Jaundise]</a>"
+entry: "<a href='/digital-beehive/num5/num_1666/'>1217 [Jaundise]</a>"
 topic:
 first_letter: I/J
 page:

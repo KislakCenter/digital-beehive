@@ -3,7 +3,7 @@ pid: index_2372
 volume: Volume 3
 image_number: '29'
 head: luxury
-entry: "<a href='/digital-beehive/num1/num_0198/'>189 [Luxury]</a>|<a href='/digital-beehive/num5/num_1612/'>1183
+entry: "<a href='/digital-beehive/num1/num_0198/'>189 [Luxury]</a>|<a href='/digital-beehive/num5/num_1613/'>1183
   [Luxury]</a>"
 topic:
 first_letter: L

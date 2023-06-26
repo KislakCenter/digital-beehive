@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '9'
 head: baptism
 entry: "<a href='/digital-beehive/alpha1/alpha_0059/'>a</a>|<a href='/digital-beehive/num2/num_0308/'>273
-  [Baptism]</a>|<a href='/digital-beehive/num5/num_1359/'>1018 [Baptism]</a>|<a href='/digital-beehive/num5/num_1403/'>1048
-  [Baptism]</a>|<a href='/digital-beehive/num9/num_3168/'>2225 [Baptism]</a>|<a href='/digital-beehive/num9/num_3184/'>2239
+  [Baptism]</a>|<a href='/digital-beehive/num5/num_1360/'>1018 [Baptism]</a>|<a href='/digital-beehive/num5/num_1404/'>1048
+  [Baptism]</a>|<a href='/digital-beehive/num9/num_3169/'>2225 [Baptism]</a>|<a href='/digital-beehive/num9/num_3185/'>2239
   [Baptism]</a>"
 topic:
 first_letter: B

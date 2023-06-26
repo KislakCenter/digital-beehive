@@ -5,7 +5,7 @@ image_number: '22'
 head: gloss
 entry: "<a href='/digital-beehive/alpha2/alpha_0366/'>a</a>|<a href='/digital-beehive/num1/num_0125/'>121
   [Gloss]</a>|<a href='/digital-beehive/num2/num_0339/'>299 [idle fancies]</a>|<a
-  href='/digital-beehive/num9/num_2980/'>2046 [Gloss]</a>"
+  href='/digital-beehive/num9/num_2981/'>2046 [Gloss]</a>"
 topic:
 first_letter: G
 page:

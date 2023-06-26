@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '51'
 head: waiting upon God
 entry: "<a href='/digital-beehive/num1/num_0066/'>65 [Waiting upon the Lord in silence]</a>|<a
-  href='/digital-beehive/num10/num_3321/'>2351 [Wait upon God]</a>"
+  href='/digital-beehive/num10/num_3322/'>2351 [Wait upon God]</a>"
 topic:
 first_letter: W
 page:

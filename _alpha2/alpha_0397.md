@@ -8,7 +8,7 @@ topic: Happiness of the Wicked
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1224/'>923 [Blessings of God are upon the
+xref: "<a href='/digital-beehive/num4/num_1225/'>923 [Blessings of God are upon the
   wicked]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1750/'>happiness of the wicked</a>"

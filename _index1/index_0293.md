@@ -3,7 +3,7 @@ pid: index_0293
 volume: Volume 3
 image_number: '9'
 head: barbuda
-entry: "<a href='/digital-beehive/num7/num_2239/'>1514 [Barbada or Barbuda]</a>"
+entry: "<a href='/digital-beehive/num7/num_2240/'>1514 [Barbada or Barbuda]</a>"
 topic:
 first_letter: B
 page:

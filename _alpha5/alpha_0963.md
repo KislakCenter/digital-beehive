@@ -8,7 +8,7 @@ topic: Tithes
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0701/'>554 [Tithes]</a>"
+xref: "<a href='/digital-beehive/num3/num_0702/'>554 [Tithes]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4160/'>tithes</a>"
 item: "#item-a3075b99e"

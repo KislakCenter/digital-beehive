@@ -3,7 +3,7 @@ pid: index_2578
 volume: Volume 3
 image_number: '31'
 head: moral law
-entry: "<a href='/digital-beehive/num8/num_2748/'>1815 [Moral]</a>"
+entry: "<a href='/digital-beehive/num8/num_2749/'>1815 [Moral]</a>"
 topic:
 first_letter: M
 page:

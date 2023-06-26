@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '16'
 head: discontentmt
 entry: "<a href='/digital-beehive/alpha1/alpha_0242/'>a</a>|<a href='/digital-beehive/num3/num_0639/'>508
-  [Discontentmt]</a>|<a href='/digital-beehive/num8/num_2876/'>1952 [Discontentmt]</a>"
+  [Discontentmt]</a>|<a href='/digital-beehive/num8/num_2877/'>1952 [Discontentmt]</a>"
 topic:
 first_letter: D
 page:

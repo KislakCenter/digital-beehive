@@ -3,7 +3,7 @@ pid: index_0635
 volume: Volume 3
 image_number: '12'
 head: big with child
-entry: "<a href='/digital-beehive/num6/num_1962/'>1377 [Great with young]</a>"
+entry: "<a href='/digital-beehive/num6/num_1963/'>1377 [Great with young]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_1027
 volume: Volume 3
 image_number: '16'
 head: despight
-entry: "<a href='/digital-beehive/num3/num_0819/'>614 [In Spight]</a>"
+entry: "<a href='/digital-beehive/num3/num_0820/'>614 [In Spight]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_3889
 volume: Volume 3
 image_number: '45'
 head: stay away
-entry: "<a href='/digital-beehive/num4/num_1139/'>887 [To Stay away]</a>"
+entry: "<a href='/digital-beehive/num4/num_1140/'>887 [To Stay away]</a>"
 topic:
 first_letter: S
 page:

@@ -3,8 +3,8 @@ pid: index_2405
 volume: Volume 3
 image_number: '29'
 head: bad & base man
-entry: "<a href='/digital-beehive/num3/num_0764/'>589 [Base]</a>|<a href='/digital-beehive/num8/num_2689/'>1759
-  [ill natur'd man]</a>|<a href='/digital-beehive/num11/num_3512/'>4817 [Bad man]</a>"
+entry: "<a href='/digital-beehive/num3/num_0765/'>589 [Base]</a>|<a href='/digital-beehive/num8/num_2690/'>1759
+  [ill natur'd man]</a>|<a href='/digital-beehive/num11/num_3513/'>4817 [Bad man]</a>"
 topic:
 first_letter: M
 page:

@@ -3,7 +3,7 @@ pid: index_4670
 volume: Volume 3
 image_number: '54'
 head: national Constitutions
-entry: "<a href='/digital-beehive/num6/num_1983/'>1386 [Fashion of the Countrey]</a>|1872
+entry: "<a href='/digital-beehive/num6/num_1984/'>1386 [Fashion of the Countrey]</a>|1872
   [PAGE_MISSING]"
 topic:
 first_letter: insertion

@@ -3,7 +3,7 @@ pid: index_2043
 volume: Volume 3
 image_number: '26'
 head: inheritance
-entry: "<a href='/digital-beehive/num7/num_2622/'>1700 [Inheritance]</a>"
+entry: "<a href='/digital-beehive/num7/num_2623/'>1700 [Inheritance]</a>"
 topic:
 first_letter: I/J
 page:

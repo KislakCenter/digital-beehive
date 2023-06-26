@@ -3,7 +3,7 @@ pid: index_3779
 volume: Volume 3
 image_number: '43'
 head: Socrates
-entry: "<a href='/digital-beehive/num5/num_1549/'>1140 [Socrates]</a>"
+entry: "<a href='/digital-beehive/num5/num_1550/'>1140 [Socrates]</a>"
 topic:
 first_letter: S
 page:

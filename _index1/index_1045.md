@@ -3,7 +3,7 @@ pid: index_1045
 volume: Volume 3
 image_number: '16'
 head: to die colours
-entry: "<a href='/digital-beehive/num7/num_2627/'>1704 [Tinctare, Colour or Dye]</a>"
+entry: "<a href='/digital-beehive/num7/num_2628/'>1704 [Tinctare, Colour or Dye]</a>"
 topic:
 first_letter: D
 page:

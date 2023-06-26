@@ -8,7 +8,7 @@ topic: Tautology
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/digital-beehive/num5/num_1485/'>1097
+xref: "<a href='/digital-beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/digital-beehive/num5/num_1486/'>1097
   [Tautology]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4067/'>tautology</a>"

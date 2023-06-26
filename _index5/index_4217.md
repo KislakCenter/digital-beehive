@@ -3,7 +3,7 @@ pid: index_4217
 volume: Volume 3
 image_number: '48'
 head: translation
-entry: "<a href='/digital-beehive/num4/num_1223/'>923 [Interpretation]</a>|<a href='/digital-beehive/num6/num_2098/'>1438
+entry: "<a href='/digital-beehive/num4/num_1224/'>923 [Interpretation]</a>|<a href='/digital-beehive/num6/num_2099/'>1438
   [Interpreta-(Transla-)tion]</a>|1857 [PAGE_MISSING]"
 topic:
 first_letter: T

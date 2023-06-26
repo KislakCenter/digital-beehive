@@ -8,7 +8,7 @@ topic: Labour
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0239/'>Diligence</a>|<a href='/digital-beehive/num4/num_1265/'>948
+xref: "<a href='/digital-beehive/alpha1/alpha_0239/'>Diligence</a>|<a href='/digital-beehive/num4/num_1266/'>948
   [Labour]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2181/'>Labour</a>"

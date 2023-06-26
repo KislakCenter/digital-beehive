@@ -3,7 +3,7 @@ pid: index_0003
 volume: Volume 3
 image_number: '7'
 head: abbot
-entry: "<a href='/digital-beehive/num6/num_2065/'>1424 [Abbot]</a>"
+entry: "<a href='/digital-beehive/num6/num_2066/'>1424 [Abbot]</a>"
 topic:
 first_letter: A
 page:

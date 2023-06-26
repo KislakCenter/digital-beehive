@@ -3,7 +3,7 @@ pid: index_3451
 volume: Volume 3
 image_number: '40'
 head: rose
-entry: "<a href='/digital-beehive/alpha4/alpha_0820/'>a</a>|<a href='/digital-beehive/num8/num_2841/'>1928
+entry: "<a href='/digital-beehive/alpha4/alpha_0820/'>a</a>|<a href='/digital-beehive/num8/num_2842/'>1928
   [Rose]</a>"
 topic:
 first_letter: R

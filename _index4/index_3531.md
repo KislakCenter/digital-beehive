@@ -3,7 +3,7 @@ pid: index_3531
 volume: Volume 3
 image_number: '41'
 head: say so
-entry: "<a href='/digital-beehive/num6/num_2047/'>1417 [Say so]</a>"
+entry: "<a href='/digital-beehive/num6/num_2048/'>1417 [Say so]</a>"
 topic:
 first_letter: S
 page:

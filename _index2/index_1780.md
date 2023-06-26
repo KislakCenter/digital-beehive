@@ -3,7 +3,7 @@ pid: index_1780
 volume: Volume 3
 image_number: '23'
 head: hear-say
-entry: 779 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3187/'>2242 [Report &
+entry: 779 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3188/'>2242 [Report &
   Hear-say]</a>
 topic:
 first_letter: H

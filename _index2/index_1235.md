@@ -3,7 +3,7 @@ pid: index_1235
 volume: Volume 3
 image_number: '18'
 head: To embrace
-entry: "<a href='/digital-beehive/num8/num_2856/'>1938 [Embracing]</a>"
+entry: "<a href='/digital-beehive/num8/num_2857/'>1938 [Embracing]</a>"
 topic:
 first_letter: E
 page:

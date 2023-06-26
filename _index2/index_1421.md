@@ -3,7 +3,7 @@ pid: index_1421
 volume: Volume 3
 image_number: '20'
 head: fear of death
-entry: "<a href='/digital-beehive/num5/num_1700/'>1234 [Fear & Contempt of Death]</a>|4605
+entry: "<a href='/digital-beehive/num5/num_1701/'>1234 [Fear & Contempt of Death]</a>|4605
   [PAGE_MISSING]"
 topic:
 first_letter: F

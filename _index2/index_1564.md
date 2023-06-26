@@ -3,8 +3,8 @@ pid: index_1564
 volume: Volume 3
 image_number: '21'
 head: funeral Com[m]endations
-entry: "<a href='/digital-beehive/alpha2/alpha_0356/'>a</a>|<a href='/digital-beehive/num5/num_1442/'>1071
-  [Funeral Com[m]endation]</a>|<a href='/digital-beehive/num6/num_1910/'>1351 [Funeral
+entry: "<a href='/digital-beehive/alpha2/alpha_0356/'>a</a>|<a href='/digital-beehive/num5/num_1443/'>1071
+  [Funeral Com[m]endation]</a>|<a href='/digital-beehive/num6/num_1911/'>1351 [Funeral
   Com[m]endations]</a>"
 topic:
 first_letter: F

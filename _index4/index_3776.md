@@ -3,7 +3,7 @@ pid: index_3776
 volume: Volume 3
 image_number: '43'
 head: Societies athenian S.
-entry: "<a href='/digital-beehive/num7/num_2281/'>1533 [Athenian Oracle]</a>"
+entry: "<a href='/digital-beehive/num7/num_2282/'>1533 [Athenian Oracle]</a>"
 topic:
 first_letter: S
 page:

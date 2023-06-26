@@ -3,7 +3,7 @@ pid: index_2485
 volume: Volume 3
 image_number: '30'
 head: to mention
-entry: "<a href='/digital-beehive/num6/num_2080/'>1430 [To mention]</a>"
+entry: "<a href='/digital-beehive/num6/num_2081/'>1430 [To mention]</a>"
 topic:
 first_letter: M
 page:

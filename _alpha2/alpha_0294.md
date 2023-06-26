@@ -8,7 +8,7 @@ topic: Equivocation
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2291/'>1540 [Equivocation]</a>"
+xref: "<a href='/digital-beehive/num7/num_2292/'>1540 [Equivocation]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1290/'>equivocation</a>"
 item: "#item-5de478888"

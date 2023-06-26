@@ -8,7 +8,7 @@ topic: Inequality
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0291/'>Equality</a>|<a href='/digital-beehive/num6/num_2025/'>1407
+xref: "<a href='/digital-beehive/alpha2/alpha_0291/'>Equality</a>|<a href='/digital-beehive/num6/num_2026/'>1407
   [Inequality]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2024/'>inequality</a>"

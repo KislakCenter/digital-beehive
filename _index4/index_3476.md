@@ -3,8 +3,8 @@ pid: index_3476
 volume: Volume 3
 image_number: '40'
 head: Sabbath
-entry: "<a href='/digital-beehive/alpha4/alpha_0824/'>a</a>|<a href='/digital-beehive/num4/num_1239/'>930
-  [Sabbath]</a>|<a href='/digital-beehive/num7/num_2384/'>1589 [Sabbath]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0824/'>a</a>|<a href='/digital-beehive/num4/num_1240/'>930
+  [Sabbath]</a>|<a href='/digital-beehive/num7/num_2385/'>1589 [Sabbath]</a>"
 topic:
 first_letter: S
 page:

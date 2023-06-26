@@ -3,7 +3,7 @@ pid: index_4035
 volume: Volume 3
 image_number: '46'
 head: synagogues
-entry: "<a href='/digital-beehive/num8/num_2813/'>1916 [Synagogues]</a>"
+entry: "<a href='/digital-beehive/num8/num_2814/'>1916 [Synagogues]</a>"
 topic:
 first_letter: S
 page:

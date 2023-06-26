@@ -8,8 +8,8 @@ topic: Fire
 first_letter: F
 page:
 add:
-xref: "<a href='/digital-beehive/num2/num_0442/'>369 [Incendiary]</a>|<a href='/digital-beehive/num5/num_1541/'>1134
-  [Coal]</a>|<a href='/digital-beehive/num5/num_1569/'>1152 [Fire]</a>"
+xref: "<a href='/digital-beehive/num2/num_0442/'>369 [Incendiary]</a>|<a href='/digital-beehive/num5/num_1542/'>1134
+  [Coal]</a>|<a href='/digital-beehive/num5/num_1570/'>1152 [Fire]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1453/'>fire</a>"
 item: "#item-c2d913b30"

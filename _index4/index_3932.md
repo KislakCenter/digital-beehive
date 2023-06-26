@@ -3,7 +3,7 @@ pid: index_3932
 volume: Volume 3
 image_number: '45'
 head: stratagem
-entry: "<a href='/digital-beehive/alpha4/alpha_0923/'>a</a>|<a href='/digital-beehive/num7/num_2569/'>1673
+entry: "<a href='/digital-beehive/alpha4/alpha_0923/'>a</a>|<a href='/digital-beehive/num7/num_2570/'>1673
   [Stratagem]</a>"
 topic:
 first_letter: S

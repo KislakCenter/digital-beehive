@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '29'
 head: magistrate
 entry: "<a href='/digital-beehive/alpha3/alpha_0567/'>a</a>|<a href='/digital-beehive/num2/num_0366/'>318
-  [Magistrates]</a>|<a href='/digital-beehive/num6/num_1941/'>1366 [Magistracy]</a>|<a
-  href='/digital-beehive/num10/num_3255/'>2292 [Magistrate]</a>"
+  [Magistrates]</a>|<a href='/digital-beehive/num6/num_1942/'>1366 [Magistracy]</a>|<a
+  href='/digital-beehive/num10/num_3256/'>2292 [Magistrate]</a>"
 topic:
 first_letter: M
 page:

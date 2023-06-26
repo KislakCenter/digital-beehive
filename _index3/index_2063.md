@@ -3,7 +3,7 @@ pid: index_2063
 volume: Volume 3
 image_number: '26'
 head: to insist
-entry: "<a href='/digital-beehive/num5/num_1414/'>1054 [To Urge]</a>"
+entry: "<a href='/digital-beehive/num5/num_1415/'>1054 [To Urge]</a>"
 topic:
 first_letter: I/J
 page:

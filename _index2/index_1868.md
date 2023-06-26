@@ -3,7 +3,7 @@ pid: index_1868
 volume: Volume 3
 image_number: '24'
 head: hope false
-entry: "<a href='/digital-beehive/num9/num_2970/'>2036 [False hope & Comfort]</a>"
+entry: "<a href='/digital-beehive/num9/num_2971/'>2036 [False hope & Comfort]</a>"
 topic:
 first_letter: H
 page:

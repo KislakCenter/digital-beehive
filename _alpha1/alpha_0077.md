@@ -8,12 +8,13 @@ topic: Believe
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_1024/'>705 [Doubtfulness]</a>|705 [Believe]"
+xref: "<a href='/digital-beehive/num3/num_1025/'>705 [Doubtfulness]</a>|<a href='/digital-beehive/num3/num_1026/'>705
+  [believe]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0346/'>to believe</a>"
 item: "#item-7737412f6"
 unparsed:
-line: 'Entry: Believe|Topic: Believe|Xref: 705 [Doubtfulness]|Xref: 705 [Believe]|Index:
+line: 'Entry: Believe|Topic: Believe|Xref: 705 [Doubtfulness]|Xref: 705 [believe]|Index:
   to believe|#item-7737412f6'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/855,2678,2911,209/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/full/full/0/default.jpg

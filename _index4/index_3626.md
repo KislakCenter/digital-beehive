@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '42'
 head: Self profit
 entry: "<a href='/digital-beehive/alpha4/alpha_0859/'>a</a>|<a href='/digital-beehive/num2/num_0566/'>455
-  [Self-profit]</a>|<a href='/digital-beehive/num7/num_2459/'>1623 [Self Profit]</a>"
+  [Self-profit]</a>|<a href='/digital-beehive/num7/num_2460/'>1623 [Self Profit]</a>"
 topic:
 first_letter: S
 page:

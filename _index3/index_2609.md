@@ -3,7 +3,7 @@ pid: index_2609
 volume: Volume 3
 image_number: '31'
 head: Mugletonians
-entry: "<a href='/digital-beehive/num1/num_0039/'>39 [Muggletonians]</a>|<a href='/digital-beehive/num5/num_1413/'>1054
+entry: "<a href='/digital-beehive/num1/num_0039/'>39 [Muggletonians]</a>|<a href='/digital-beehive/num5/num_1414/'>1054
   [Muggletonians]</a>"
 topic:
 first_letter: M

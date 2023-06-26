@@ -3,7 +3,7 @@ pid: index_2353
 volume: Volume 3
 image_number: '29'
 head: love potion
-entry: "<a href='/digital-beehive/alpha3/alpha_0564/'>a</a>|<a href='/digital-beehive/num7/num_2458/'>1623
+entry: "<a href='/digital-beehive/alpha3/alpha_0564/'>a</a>|<a href='/digital-beehive/num7/num_2459/'>1623
   [Love-potions]</a>"
 topic:
 first_letter: L

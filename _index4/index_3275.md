@@ -3,7 +3,7 @@ pid: index_3275
 volume: Volume 3
 image_number: '38'
 head: Rabbies
-entry: "<a href='/digital-beehive/num7/num_2315/'>1553 [Rabbies]</a>"
+entry: "<a href='/digital-beehive/num7/num_2316/'>1553 [Rabbies]</a>"
 topic:
 first_letter: R
 page:

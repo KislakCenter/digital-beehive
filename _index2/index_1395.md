@@ -3,7 +3,7 @@ pid: index_1395
 volume: Volume 3
 image_number: '20'
 head: familiar spirits
-entry: "<a href='/digital-beehive/num6/num_1832/'>1311 [Familiar Spirits]</a>"
+entry: "<a href='/digital-beehive/num6/num_1833/'>1311 [Familiar Spirits]</a>"
 topic:
 first_letter: F
 page:

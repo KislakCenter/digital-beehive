@@ -3,7 +3,7 @@ pid: index_2093
 volume: Volume 3
 image_number: '26'
 head: invincible
-entry: "<a href='/digital-beehive/num3/num_0798/'>605 [Invincible]</a>"
+entry: "<a href='/digital-beehive/num3/num_0799/'>605 [Invincible]</a>"
 topic:
 first_letter: I/J
 page:

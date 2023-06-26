@@ -3,7 +3,7 @@ pid: index_0364
 volume: Volume 3
 image_number: '10'
 head: betony
-entry: "<a href='/digital-beehive/num7/num_2277/'>1531 [Betonica]</a>"
+entry: "<a href='/digital-beehive/num7/num_2278/'>1531 [Betonica]</a>"
 topic:
 first_letter: B
 page:

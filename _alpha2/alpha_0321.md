@@ -8,7 +8,7 @@ topic: Fault
 first_letter: F
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0295/'>Error</a>|<a href='/digital-beehive/num4/num_1275/'>956
+xref: "<a href='/digital-beehive/alpha2/alpha_0295/'>Error</a>|<a href='/digital-beehive/num4/num_1276/'>956
   [Failings of good men]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1416/'>fault</a>"
@@ -16,12 +16,12 @@ item: "#item-3e32c3b6e"
 unparsed:
 line: 'Entry: Fault|Topic: Fault|Xref: Error|Xref: 956 [Failings of good men]|Index:
   fault|#item-3e32c3b6e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/746,4581,3002,449/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/744,4579,3004,451/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564589520650
-sort_value: '145614581'
+sort_value: '145614579'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/746,4581,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/744,4579,600,180/250,/0/default.jpg
 label: Fault
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 issue:

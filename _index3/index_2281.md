@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '28'
 head: lie
 entry: "<a href='/digital-beehive/alpha3/alpha_0540/'>a</a>|<a href='/digital-beehive/num3/num_0645/'>513
-  [Lies]</a>|<a href='/digital-beehive/num9/num_3021/'>2085 [Lying]</a>|<a href='/digital-beehive/num11/num_3511/'>4816
+  [Lies]</a>|<a href='/digital-beehive/num9/num_3022/'>2085 [Lying]</a>|<a href='/digital-beehive/num11/num_3512/'>4816
   [Lying]</a>"
 topic:
 first_letter: L

@@ -3,7 +3,7 @@ pid: index_3948
 volume: Volume 3
 image_number: '45'
 head: stuffs to wear
-entry: "<a href='/digital-beehive/num6/num_2018/'>1404 [Stuffs to wear]</a>"
+entry: "<a href='/digital-beehive/num6/num_2019/'>1404 [Stuffs to wear]</a>"
 topic:
 first_letter: S
 page:

@@ -8,7 +8,7 @@ topic: Apparition
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1834/'>1313 [Spectres]</a>"
+xref: "<a href='/digital-beehive/num6/num_1835/'>1313 [Spectres]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0176/'>apparitions</a>"
 item: "#item-70846fcea"

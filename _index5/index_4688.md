@@ -3,7 +3,7 @@ pid: index_4688
 volume: Volume 3
 image_number: '54'
 head: pike, Hecht
-entry: "<a href='/digital-beehive/num9/num_3049/'>2112 [Pike]</a>"
+entry: "<a href='/digital-beehive/num9/num_3050/'>2112 [Pike]</a>"
 topic:
 first_letter: insertion
 page:

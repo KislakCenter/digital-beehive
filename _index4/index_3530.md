@@ -3,7 +3,7 @@ pid: index_3530
 volume: Volume 3
 image_number: '41'
 head: Saxony
-entry: "<a href='/digital-beehive/num10/num_3344/'>2372 [Saxony]</a>"
+entry: "<a href='/digital-beehive/num10/num_3345/'>2372 [Saxony]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_3754
 volume: Volume 3
 image_number: '43'
 head: sloe
-entry: "<a href='/digital-beehive/num3/num_0998/'>695 [Sloe-bush]</a>"
+entry: "<a href='/digital-beehive/num3/num_0999/'>695 [Sloe-bush]</a>"
 topic:
 first_letter: S
 page:

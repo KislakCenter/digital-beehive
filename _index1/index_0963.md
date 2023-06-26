@@ -3,7 +3,7 @@ pid: index_0963
 volume: Volume 3
 image_number: '15'
 head: dear friends
-entry: "<a href='/digital-beehive/num10/num_3246/'>2286 [Dear friends]</a>"
+entry: "<a href='/digital-beehive/num10/num_3247/'>2286 [Dear friends]</a>"
 topic:
 first_letter: D
 page:

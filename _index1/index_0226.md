@@ -3,7 +3,7 @@ pid: index_0226
 volume: Volume 3
 image_number: '8'
 head: assistant
-entry: "<a href='/digital-beehive/num6/num_1978/'>1384 [Assistant]</a>"
+entry: "<a href='/digital-beehive/num6/num_1979/'>1384 [Assistant]</a>"
 topic:
 first_letter: A
 page:

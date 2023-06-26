@@ -3,7 +3,7 @@ pid: index_4554
 volume: Volume 3
 image_number: '52'
 head: Pr. William
-entry: "<a href='/digital-beehive/num6/num_1751/'>1262 [Prince Wm. of Orange]</a>"
+entry: "<a href='/digital-beehive/num6/num_1752/'>1262 [Prince Wm. of Orange]</a>"
 topic:
 first_letter: W
 page:

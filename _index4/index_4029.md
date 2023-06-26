@@ -3,7 +3,7 @@ pid: index_4029
 volume: Volume 3
 image_number: '46'
 head: sword
-entry: "<a href='/digital-beehive/num5/num_1602/'>1175 [Weapons]</a>"
+entry: "<a href='/digital-beehive/num5/num_1603/'>1175 [Weapons]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"

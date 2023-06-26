@@ -3,7 +3,7 @@ pid: index_0224
 volume: Volume 3
 image_number: '8'
 head: ass
-entry: "<a href='/digital-beehive/alpha1/alpha_0047/'>a</a>|<a href='/digital-beehive/num7/num_2552/'>1665
+entry: "<a href='/digital-beehive/alpha1/alpha_0047/'>a</a>|<a href='/digital-beehive/num7/num_2553/'>1665
   [Ass]</a>"
 topic:
 first_letter: A

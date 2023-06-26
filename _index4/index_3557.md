@@ -3,7 +3,7 @@ pid: index_3557
 volume: Volume 3
 image_number: '41'
 head: Scots
-entry: "<a href='/digital-beehive/num6/num_1967/'>1379 [Scots]</a>"
+entry: "<a href='/digital-beehive/num6/num_1968/'>1379 [Scots]</a>"
 topic:
 first_letter: S
 page:

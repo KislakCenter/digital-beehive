@@ -3,7 +3,7 @@ pid: index_4202
 volume: Volume 3
 image_number: '48'
 head: tournamt
-entry: "<a href='/digital-beehive/num6/num_1861/'>1325 [a Tournament]</a>"
+entry: "<a href='/digital-beehive/num6/num_1862/'>1325 [a Tournament]</a>"
 topic:
 first_letter: T
 page:

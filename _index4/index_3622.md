@@ -3,7 +3,7 @@ pid: index_3622
 volume: Volume 3
 image_number: '42'
 head: Self murder
-entry: "<a href='/digital-beehive/alpha4/alpha_0857/'>a</a>|<a href='/digital-beehive/num5/num_1608/'>1180
+entry: "<a href='/digital-beehive/alpha4/alpha_0857/'>a</a>|<a href='/digital-beehive/num5/num_1609/'>1180
   [Self Murder]</a>"
 topic:
 first_letter: S

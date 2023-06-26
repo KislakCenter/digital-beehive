@@ -3,7 +3,7 @@ pid: index_1024
 volume: Volume 3
 image_number: '16'
 head: to desist
-entry: "<a href='/digital-beehive/num5/num_1658/'>1212 [To Leave off]</a>"
+entry: "<a href='/digital-beehive/num5/num_1659/'>1212 [To Leave off]</a>"
 topic:
 first_letter: D
 page:

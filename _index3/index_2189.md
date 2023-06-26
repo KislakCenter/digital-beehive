@@ -3,7 +3,7 @@ pid: index_2189
 volume: Volume 3
 image_number: '27'
 head: lame
-entry: "<a href='/digital-beehive/alpha3/alpha_0510/'>a</a>|<a href='/digital-beehive/num9/num_3079/'>2140
+entry: "<a href='/digital-beehive/alpha3/alpha_0510/'>a</a>|<a href='/digital-beehive/num9/num_3080/'>2140
   [Lame]</a>"
 topic:
 first_letter: L

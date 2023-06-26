@@ -8,7 +8,7 @@ topic: Empire
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1176/'>906 [Kingdom]</a>"
+xref: "<a href='/digital-beehive/num4/num_1177/'>906 [Kingdom]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1240/'>empire</a>"
 item: "#item-3af6ee29e"

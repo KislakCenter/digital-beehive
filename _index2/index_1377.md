@@ -3,8 +3,8 @@ pid: index_1377
 volume: Volume 3
 image_number: '20'
 head: failings of Saints
-entry: "<a href='/digital-beehive/num4/num_1275/'>956 [Failings of good men]</a>|<a
-  href='/digital-beehive/num5/num_1641/'>1203 [Fault]</a>|<a href='/digital-beehive/num9/num_3194/'>2248
+entry: "<a href='/digital-beehive/num4/num_1276/'>956 [Failings of good men]</a>|<a
+  href='/digital-beehive/num5/num_1642/'>1203 [Fault]</a>|<a href='/digital-beehive/num9/num_3195/'>2248
   [Church of England]</a>"
 topic:
 first_letter: F

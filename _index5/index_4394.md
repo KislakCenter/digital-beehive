@@ -3,7 +3,7 @@ pid: index_4394
 volume: Volume 3
 image_number: '50'
 head: university degrees
-entry: "<a href='/digital-beehive/num7/num_2581/'>1679 [University-Degrees]</a>"
+entry: "<a href='/digital-beehive/num7/num_2582/'>1679 [University-Degrees]</a>"
 topic:
 first_letter: U/V
 page:

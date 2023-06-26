@@ -8,7 +8,7 @@ topic: Purgatory
 first_letter: P
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2283/'>1534 [Purgatory]</a>"
+xref: "<a href='/digital-beehive/num7/num_2284/'>1534 [Purgatory]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3231/'>purgatory</a>"
 item: "#item-cceea3136"

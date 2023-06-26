@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '17'
 head: drunken[n]ess
 entry: "<a href='/digital-beehive/alpha1/alpha_0267/'>a</a>|<a href='/digital-beehive/num2/num_0597/'>477
-  [Drunken[n]ess]</a>|<a href='/digital-beehive/num5/num_1444/'>1072 [Drunken[n]ess]</a>|<a
-  href='/digital-beehive/num9/num_3023/'>2087 [Drunckenness]</a>"
+  [Drunken[n]ess]</a>|<a href='/digital-beehive/num5/num_1445/'>1072 [Drunken[n]ess]</a>|<a
+  href='/digital-beehive/num9/num_3024/'>2087 [Drunckenness]</a>"
 topic:
 first_letter: D
 page:

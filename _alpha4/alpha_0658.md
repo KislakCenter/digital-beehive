@@ -9,7 +9,7 @@ first_letter: O
 page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1015/'>Untimely</a>|<a href='/digital-beehive/alpha5/alpha_0961/'>Time</a>|<a
-  href='/digital-beehive/num3/num_1026/'>706 [Occasion]</a>"
+  href='/digital-beehive/num3/num_1027/'>706 [Occasion]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_2766/'>occasion</a>"
 item: "#item-2e7db2854"

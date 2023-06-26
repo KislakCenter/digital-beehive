@@ -3,8 +3,8 @@ pid: index_0943
 volume: Volume 3
 image_number: '15'
 head: dancing
-entry: "<a href='/digital-beehive/alpha1/alpha_0208/'>a</a>|<a href='/digital-beehive/num7/num_2261/'>1525
-  [Dancing]</a>|<a href='/digital-beehive/num11/num_3565/'>4870 [Dancing]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0208/'>a</a>|<a href='/digital-beehive/num7/num_2262/'>1525
+  [Dancing]</a>|<a href='/digital-beehive/num11/num_3566/'>4870 [Dancing]</a>"
 topic:
 first_letter: D
 page:

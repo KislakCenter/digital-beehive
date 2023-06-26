@@ -8,7 +8,7 @@ topic: Heresy
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0846/'>Sect</a>|<a href='/digital-beehive/num3/num_0710/'>558
+xref: "<a href='/digital-beehive/alpha4/alpha_0846/'>Sect</a>|<a href='/digital-beehive/num3/num_0711/'>558
   [Heresy]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1811/'>heresy</a>"

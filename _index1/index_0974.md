@@ -3,7 +3,7 @@ pid: index_0974
 volume: Volume 3
 image_number: '16'
 head: Debora
-entry: "<a href='/digital-beehive/num7/num_2372/'>1581 [Debora]</a>"
+entry: "<a href='/digital-beehive/num7/num_2373/'>1581 [Debora]</a>"
 topic:
 first_letter: D
 page:

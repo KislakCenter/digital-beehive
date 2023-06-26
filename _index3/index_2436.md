@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '30'
 head: martyr
 entry: "<a href='/digital-beehive/alpha3/alpha_0576/'>a</a>|<a href='/digital-beehive/num2/num_0470/'>387
-  [Martyrs]</a>|<a href='/digital-beehive/num5/num_1587/'>1165 [Martyrs]</a>"
+  [Martyrs]</a>|<a href='/digital-beehive/num5/num_1588/'>1165 [Martyrs]</a>"
 topic:
 first_letter: M
 page:

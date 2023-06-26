@@ -3,7 +3,7 @@ pid: index_4730
 volume: Volume 3
 image_number: '54'
 head: angling
-entry: "<a href='/digital-beehive/num11/num_3569/'>4874 [Angling]</a>"
+entry: "<a href='/digital-beehive/num11/num_3570/'>4874 [Angling]</a>"
 topic:
 first_letter: insertion
 page:

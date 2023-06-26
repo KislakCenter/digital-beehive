@@ -8,8 +8,8 @@ topic: Confession
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0229/'>Deprecation</a>|<a href='/digital-beehive/num5/num_1400/'>1046
-  [Confess]</a>|<a href='/digital-beehive/num8/num_2912/'>1981 [Confession]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0229/'>Deprecation</a>|<a href='/digital-beehive/num5/num_1401/'>1046
+  [Confess]</a>|<a href='/digital-beehive/num8/num_2913/'>1981 [Confession]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0784/'>confession</a>"
 item: "#item-3edc47b2d"

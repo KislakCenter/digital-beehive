@@ -3,9 +3,9 @@ pid: index_1509
 volume: Volume 3
 image_number: '21'
 head: forgetfulness
-entry: "<a href='/digital-beehive/alpha2/alpha_0344/'>a</a>|<a href='/digital-beehive/num3/num_1003/'>697
-  [Forgetfulness]</a>|<a href='/digital-beehive/num6/num_1987/'>1388 [Forgetfulness]</a>|<a
-  href='/digital-beehive/num10/num_3248/'>2287 [Forgetfulness]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0344/'>a</a>|<a href='/digital-beehive/num3/num_1004/'>697
+  [Forgetfulness]</a>|<a href='/digital-beehive/num6/num_1988/'>1388 [Forgetfulness]</a>|<a
+  href='/digital-beehive/num10/num_3249/'>2287 [Forgetfulness]</a>"
 topic:
 first_letter: F
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '9'
 head: atheism
 entry: "<a href='/digital-beehive/alpha1/alpha_0048/'>a</a>|<a href='/digital-beehive/num1/num_0258/'>240
-  [Atheism]</a>|<a href='/digital-beehive/num6/num_2056/'>1421 [Atheism]</a>|<a href='/digital-beehive/num8/num_2914/'>1983
+  [Atheism]</a>|<a href='/digital-beehive/num6/num_2057/'>1421 [Atheism]</a>|<a href='/digital-beehive/num8/num_2915/'>1983
   [Atheism]</a>"
 topic:
 first_letter: A

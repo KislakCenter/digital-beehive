@@ -3,7 +3,7 @@ pid: index_2510
 volume: Volume 3
 image_number: '30'
 head: midwife
-entry: "<a href='/digital-beehive/num3/num_0786/'>600 [Midwifery]</a>"
+entry: "<a href='/digital-beehive/num3/num_0787/'>600 [Midwifery]</a>"
 topic:
 first_letter: M
 page:

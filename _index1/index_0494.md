@@ -3,7 +3,7 @@ pid: index_0494
 volume: Volume 3
 image_number: '11'
 head: butter
-entry: "<a href='/digital-beehive/alpha1/alpha_0113/'>a</a>|<a href='/digital-beehive/num8/num_2775/'>1895
+entry: "<a href='/digital-beehive/alpha1/alpha_0113/'>a</a>|<a href='/digital-beehive/num8/num_2776/'>1895
   [Butter]</a>"
 topic:
 first_letter: B

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '41'
 head: secret
 entry: "<a href='/digital-beehive/alpha4/alpha_0844/'>a</a>|792 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_1765/'>1272 [Secrecy]</a>"
+  href='/digital-beehive/num6/num_1766/'>1272 [Secrecy]</a>"
 topic:
 first_letter: S
 page:

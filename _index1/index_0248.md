@@ -3,7 +3,7 @@ pid: index_0248
 volume: Volume 3
 image_number: '9'
 head: avoiding
-entry: "<a href='/digital-beehive/num3/num_1061/'>719 [To Avoid]</a>"
+entry: "<a href='/digital-beehive/num3/num_1062/'>719 [To Avoid]</a>"
 topic:
 first_letter: A
 page:

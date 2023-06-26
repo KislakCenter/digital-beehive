@@ -3,7 +3,7 @@ pid: index_4679
 volume: Volume 3
 image_number: '54'
 head: Cures. curable
-entry: "<a href='/digital-beehive/num8/num_2913/'>1982 [Cures]</a>"
+entry: "<a href='/digital-beehive/num8/num_2914/'>1982 [Cures]</a>"
 topic:
 first_letter: insertion
 page:

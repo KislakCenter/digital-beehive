@@ -3,7 +3,7 @@ pid: index_1208
 volume: Volume 3
 image_number: '18'
 head: edom
-entry: "<a href='/digital-beehive/num8/num_2784/'>1901 [Esau]</a>"
+entry: "<a href='/digital-beehive/num8/num_2785/'>1901 [Esau]</a>"
 topic:
 first_letter: E
 page:

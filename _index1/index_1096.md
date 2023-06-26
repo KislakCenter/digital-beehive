@@ -3,7 +3,7 @@ pid: index_1096
 volume: Volume 3
 image_number: '17'
 head: dissenters
-entry: "<a href='/digital-beehive/num2/num_0617/'>492 [Dissenters]</a>|<a href='/digital-beehive/num9/num_3111/'>2169
+entry: "<a href='/digital-beehive/num2/num_0617/'>492 [Dissenters]</a>|<a href='/digital-beehive/num9/num_3112/'>2169
   [Dissenters]</a>"
 topic:
 first_letter: D

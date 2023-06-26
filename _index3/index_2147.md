@@ -3,7 +3,7 @@ pid: index_2147
 volume: Volume 3
 image_number: '27'
 head: ivy
-entry: "<a href='/digital-beehive/num7/num_2510/'>1646 [Ivy]</a>"
+entry: "<a href='/digital-beehive/num7/num_2511/'>1646 [Ivy]</a>"
 topic:
 first_letter: I/J
 page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"

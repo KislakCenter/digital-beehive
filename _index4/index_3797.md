@@ -3,7 +3,7 @@ pid: index_3797
 volume: Volume 3
 image_number: '44'
 head: soot
-entry: "<a href='/digital-beehive/num7/num_2413/'>1601 [Soot]</a>"
+entry: "<a href='/digital-beehive/num7/num_2414/'>1601 [Soot]</a>"
 topic:
 first_letter: S
 page:

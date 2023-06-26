@@ -3,7 +3,7 @@ pid: index_3045
 volume: Volume 3
 image_number: '36'
 head: pleurisie
-entry: "<a href='/digital-beehive/num9/num_3007/'>2073 [Pleurisie]</a>"
+entry: "<a href='/digital-beehive/num9/num_3008/'>2073 [Pleurisie]</a>"
 topic:
 first_letter: P
 page:

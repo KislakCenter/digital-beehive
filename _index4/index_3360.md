@@ -3,7 +3,7 @@ pid: index_3360
 volume: Volume 3
 image_number: '39'
 head: remora
-entry: "<a href='/digital-beehive/num7/num_2282/'>1534 [Remora]</a>"
+entry: "<a href='/digital-beehive/num7/num_2283/'>1534 [Remora]</a>"
 topic:
 first_letter: R
 page:

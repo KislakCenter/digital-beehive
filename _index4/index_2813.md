@@ -3,7 +3,7 @@ pid: index_2813
 volume: Volume 3
 image_number: '33'
 head: optick
-entry: "<a href='/digital-beehive/num7/num_2493/'>1639 [Spectacles]</a>"
+entry: "<a href='/digital-beehive/num7/num_2494/'>1639 [Spectacles]</a>"
 topic:
 first_letter: O
 page:

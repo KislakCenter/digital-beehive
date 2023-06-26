@@ -3,7 +3,7 @@ pid: index_3946
 volume: Volume 3
 image_number: '45'
 head: stubborn
-entry: "<a href='/digital-beehive/alpha4/alpha_0925/'>a</a>|<a href='/digital-beehive/num10/num_3267/'>2303
+entry: "<a href='/digital-beehive/alpha4/alpha_0925/'>a</a>|<a href='/digital-beehive/num10/num_3268/'>2303
   [Stubborn]</a>"
 topic:
 first_letter: S

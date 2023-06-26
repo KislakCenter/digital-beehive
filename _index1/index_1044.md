@@ -3,7 +3,7 @@ pid: index_1044
 volume: Volume 3
 image_number: '16'
 head: to die
-entry: "<a href='/digital-beehive/num6/num_1744/'>1257 [To Die]</a>|<a href='/digital-beehive/num9/num_3119/'>2176
+entry: "<a href='/digital-beehive/num6/num_1745/'>1257 [To Die]</a>|<a href='/digital-beehive/num9/num_3120/'>2176
   [To Die]</a>"
 topic:
 first_letter: D

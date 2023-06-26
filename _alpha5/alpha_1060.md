@@ -8,7 +8,7 @@ topic: good Works
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0218/'>Deed</a>|<a href='/digital-beehive/num5/num_1429/'>1062
+xref: "<a href='/digital-beehive/alpha1/alpha_0218/'>Deed</a>|<a href='/digital-beehive/num5/num_1430/'>1062
   [Good Works]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4613/'>good works</a>"

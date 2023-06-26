@@ -3,7 +3,7 @@ pid: index_2899
 volume: Volume 3
 image_number: '34'
 head: partiality
-entry: "<a href='/digital-beehive/alpha4/alpha_0689/'>a</a>|<a href='/digital-beehive/num4/num_1188/'>910
+entry: "<a href='/digital-beehive/alpha4/alpha_0689/'>a</a>|<a href='/digital-beehive/num4/num_1189/'>910
   [Partial]</a>|4575 [PAGE_MISSING]"
 topic:
 first_letter: P

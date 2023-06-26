@@ -3,7 +3,7 @@ pid: index_3604
 volume: Volume 3
 image_number: '42'
 head: Self accusation
-entry: "<a href='/digital-beehive/num3/num_0683/'>542 [Accuse himself]</a>"
+entry: "<a href='/digital-beehive/num3/num_0684/'>542 [Accuse himself]</a>"
 topic:
 first_letter: S
 page:

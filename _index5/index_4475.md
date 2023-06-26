@@ -3,8 +3,8 @@ pid: index_4475
 volume: Volume 3
 image_number: '51'
 head: wars miseries
-entry: "<a href='/digital-beehive/alpha5/alpha_1025/'>a</a>|<a href='/digital-beehive/num6/num_2043/'>1416
-  [Evils of war]</a>|<a href='/digital-beehive/num10/num_3384/'>2411 [War's Miseries]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1025/'>a</a>|<a href='/digital-beehive/num6/num_2044/'>1416
+  [Evils of war]</a>|<a href='/digital-beehive/num10/num_3385/'>2411 [War's Miseries]</a>"
 topic:
 first_letter: W
 page:

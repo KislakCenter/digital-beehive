@@ -8,14 +8,14 @@ topic: Greatness
 first_letter: G
 page:
 add:
-xref: 361 [Giant]|<a href='/digital-beehive/num3/num_0860/'>635 [Great, rich & eminent
-  Persons]</a>
+xref: "<a href='/digital-beehive/num2/num_0428/'>361 [a little Giant]</a>|<a href='/digital-beehive/num3/num_0861/'>635
+  [Great, rich & eminent Persons]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1706/'>great</a>"
 item: "#item-6c7cdca09"
 unparsed:
-line: 'Entry: Greatness|Topic: Greatness|Xref: 361 [Giant]|Xref: 635 [Great, rich
-  & eminent Persons]|Index: great|#item-6c7cdca09'
+line: 'Entry: Greatness|Topic: Greatness|Xref: 361 [a little Giant]|Xref: 635 [Great,
+  rich & eminent Persons]|Index: great|#item-6c7cdca09'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/773,1684,2955,627/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564603729285

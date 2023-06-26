@@ -3,7 +3,7 @@ pid: index_0504
 volume: Volume 3
 image_number: '11'
 head: caduceus
-entry: "<a href='/digital-beehive/num9/num_3094/'>2153 [Mercurius]</a>"
+entry: "<a href='/digital-beehive/num9/num_3095/'>2153 [Mercurius]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_3472
 volume: Volume 3
 image_number: '40'
 head: ruptures
-entry: "<a href='/digital-beehive/num3/num_0769/'>593 [Ruptures]</a>"
+entry: "<a href='/digital-beehive/num3/num_0770/'>593 [Ruptures]</a>"
 topic:
 first_letter: R
 page:

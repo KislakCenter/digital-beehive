@@ -3,7 +3,7 @@ pid: index_1891
 volume: Volume 3
 image_number: '24'
 head: houseleek
-entry: "<a href='/digital-beehive/num3/num_0973/'>686 [Houseleek]</a>"
+entry: "<a href='/digital-beehive/num3/num_0974/'>686 [Houseleek]</a>"
 topic:
 first_letter: H
 page:

@@ -3,7 +3,7 @@ pid: index_1082
 volume: Volume 3
 image_number: '17'
 head: disinhereting
-entry: "<a href='/digital-beehive/num11/num_3537/'>4842 [Disinheriting]</a>"
+entry: "<a href='/digital-beehive/num11/num_3538/'>4842 [Disinheriting]</a>"
 topic:
 first_letter: D
 page:

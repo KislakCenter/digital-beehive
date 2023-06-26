@@ -3,7 +3,7 @@ pid: index_2498
 volume: Volume 3
 image_number: '30'
 head: metalla potabilia
-entry: "<a href='/digital-beehive/num9/num_3019/'>2084 [Metalla potabilia]</a>"
+entry: "<a href='/digital-beehive/num9/num_3020/'>2084 [Metalla potabilia]</a>"
 topic:
 first_letter: M
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '42'
 head: servitude
 entry: "<a href='/digital-beehive/alpha4/alpha_0864/'>a</a>|813 [PAGE_MISSING]|<a
-  href='/digital-beehive/num5/num_1698/'>1233 [Servants]</a>|<a href='/digital-beehive/num5/num_1699/'>1233
+  href='/digital-beehive/num5/num_1699/'>1233 [Servants]</a>|<a href='/digital-beehive/num5/num_1700/'>1233
   [friendliest office]</a>"
 topic:
 first_letter: S

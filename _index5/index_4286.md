@@ -3,7 +3,7 @@ pid: index_4286
 volume: Volume 3
 image_number: '49'
 head: Vacancy
-entry: "<a href='/digital-beehive/num5/num_1729/'>1249 [Vacancy]</a>"
+entry: "<a href='/digital-beehive/num5/num_1730/'>1249 [Vacancy]</a>"
 topic:
 first_letter: U/V
 page:

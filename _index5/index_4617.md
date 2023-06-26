@@ -3,8 +3,8 @@ pid: index_4617
 volume: Volume 3
 image_number: '53'
 head: world
-entry: "<a href='/digital-beehive/alpha5/alpha_1061/'>a</a>|<a href='/digital-beehive/num6/num_1742/'>1256
-  [World]</a>|<a href='/digital-beehive/num8/num_2755/'>1822 [World]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1061/'>a</a>|<a href='/digital-beehive/num6/num_1743/'>1256
+  [World]</a>|<a href='/digital-beehive/num8/num_2756/'>1822 [World]</a>"
 topic:
 first_letter: W
 page:

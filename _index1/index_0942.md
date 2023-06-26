@@ -3,7 +3,7 @@ pid: index_0942
 volume: Volume 3
 image_number: '15'
 head: damnation
-entry: "<a href='/digital-beehive/num8/num_2750/'>1817 [Damnation]</a>"
+entry: "<a href='/digital-beehive/num8/num_2751/'>1817 [Damnation]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_3315
 volume: Volume 3
 image_number: '38'
 head: to receive
-entry: "<a href='/digital-beehive/num6/num_2001/'>1395 [To Receive]</a>"
+entry: "<a href='/digital-beehive/num6/num_2002/'>1395 [To Receive]</a>"
 topic:
 first_letter: R
 page:

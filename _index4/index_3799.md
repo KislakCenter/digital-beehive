@@ -3,7 +3,7 @@ pid: index_3799
 volume: Volume 3
 image_number: '44'
 head: sop
-entry: "<a href='/digital-beehive/alpha4/alpha_0900/'>a</a>|<a href='/digital-beehive/num3/num_0680/'>540
+entry: "<a href='/digital-beehive/alpha4/alpha_0900/'>a</a>|<a href='/digital-beehive/num3/num_0681/'>540
   [Pottages]</a>"
 topic:
 first_letter: S

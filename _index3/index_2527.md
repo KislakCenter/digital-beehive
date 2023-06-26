@@ -3,7 +3,7 @@ pid: index_2527
 volume: Volume 3
 image_number: '30'
 head: ministry
-entry: "<a href='/digital-beehive/num8/num_2702/'>1771 [Ministry]</a>"
+entry: "<a href='/digital-beehive/num8/num_2703/'>1771 [Ministry]</a>"
 topic:
 first_letter: M
 page:

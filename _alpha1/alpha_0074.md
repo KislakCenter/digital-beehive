@@ -8,7 +8,7 @@ topic: Beginning
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0329/'>first</a>|<a href='/digital-beehive/num3/num_0694/'>550
+xref: "<a href='/digital-beehive/alpha2/alpha_0329/'>first</a>|<a href='/digital-beehive/num3/num_0695/'>550
   [Beginn]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0339/'>beginning</a>"

@@ -3,7 +3,7 @@ pid: index_4318
 volume: Volume 3
 image_number: '49'
 head: vertigo
-entry: "<a href='/digital-beehive/num3/num_0785/'>599 [Giddiness]</a>"
+entry: "<a href='/digital-beehive/num3/num_0786/'>599 [Giddiness]</a>"
 topic:
 first_letter: U/V
 page:

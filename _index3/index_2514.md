@@ -3,7 +3,7 @@ pid: index_2514
 volume: Volume 3
 image_number: '30'
 head: milky way
-entry: "<a href='/digital-beehive/num7/num_2363/'>1575 [Milky way]</a>"
+entry: "<a href='/digital-beehive/num7/num_2364/'>1575 [Milky way]</a>"
 topic:
 first_letter: M
 page:

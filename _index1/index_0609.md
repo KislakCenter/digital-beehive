@@ -3,8 +3,8 @@ pid: index_0609
 volume: Volume 3
 image_number: '12'
 head: Charles I
-entry: "<a href='/digital-beehive/num6/num_2194/'>1488 [K. Charles I]</a>|<a href='/digital-beehive/num6/num_2193/'>1488
-  [Stuart]</a>|<a href='/digital-beehive/num6/num_2195/'>1488 [K. Charles II]</a>"
+entry: "<a href='/digital-beehive/num6/num_2195/'>1488 [K. Charles I]</a>|<a href='/digital-beehive/num6/num_2194/'>1488
+  [Stuart]</a>|<a href='/digital-beehive/num6/num_2196/'>1488 [K. Charles II]</a>"
 topic:
 first_letter: C
 page:

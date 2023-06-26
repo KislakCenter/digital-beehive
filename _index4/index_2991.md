@@ -3,7 +3,7 @@ pid: index_2991
 volume: Volume 3
 image_number: '35'
 head: phylacteries
-entry: "<a href='/digital-beehive/num8/num_2804/'>1911 [Phylacteries]</a>"
+entry: "<a href='/digital-beehive/num8/num_2805/'>1911 [Phylacteries]</a>"
 topic:
 first_letter: P
 page:

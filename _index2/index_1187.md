@@ -3,7 +3,7 @@ pid: index_1187
 volume: Volume 3
 image_number: '18'
 head: earth
-entry: "<a href='/digital-beehive/alpha2/alpha_0274/'>a</a>|<a href='/digital-beehive/num9/num_3069/'>2130
+entry: "<a href='/digital-beehive/alpha2/alpha_0274/'>a</a>|<a href='/digital-beehive/num9/num_3070/'>2130
   [Earth]</a>"
 topic:
 first_letter: E

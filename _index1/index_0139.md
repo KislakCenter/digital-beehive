@@ -3,7 +3,7 @@ pid: index_0139
 volume: Volume 3
 image_number: '8'
 head: anchor
-entry: "<a href='/digital-beehive/num3/num_0698/'>551 [[WORD_MISSING]]</a>"
+entry: "<a href='/digital-beehive/num3/num_0699/'>551 [[WORD_MISSING]]</a>"
 topic:
 first_letter: A
 page:

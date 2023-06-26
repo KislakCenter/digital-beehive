@@ -3,7 +3,7 @@ pid: index_2861
 volume: Volume 3
 image_number: '34'
 head: Pallas
-entry: "<a href='/digital-beehive/num5/num_1361/'>1019 [Spinning]</a>"
+entry: "<a href='/digital-beehive/num5/num_1362/'>1019 [Spinning]</a>"
 topic:
 first_letter: P
 page:

@@ -3,7 +3,7 @@ pid: index_1529
 volume: Volume 3
 image_number: '21'
 head: 'Geo: Fox'
-entry: "<a href='/digital-beehive/num3/num_0716/'>563 [George Fox]</a>"
+entry: "<a href='/digital-beehive/num3/num_0717/'>563 [George Fox]</a>"
 topic:
 first_letter: F
 page:

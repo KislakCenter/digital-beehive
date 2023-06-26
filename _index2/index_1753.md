@@ -3,7 +3,7 @@ pid: index_1753
 volume: Volume 3
 image_number: '23'
 head: hardship
-entry: "<a href='/digital-beehive/num6/num_1798/'>1290 [Difficulty]</a>"
+entry: "<a href='/digital-beehive/num6/num_1799/'>1290 [Difficulty]</a>"
 topic:
 first_letter: H
 page:

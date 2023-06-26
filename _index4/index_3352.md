@@ -3,7 +3,7 @@ pid: index_3352
 volume: Volume 3
 image_number: '39'
 head: to remain
-entry: "<a href='/digital-beehive/num7/num_2387/'>1590 [To Last]</a>"
+entry: "<a href='/digital-beehive/num7/num_2388/'>1590 [To Last]</a>"
 topic:
 first_letter: R
 page:

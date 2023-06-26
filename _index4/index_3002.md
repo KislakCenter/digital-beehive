@@ -3,7 +3,7 @@ pid: index_3002
 volume: Volume 3
 image_number: '35'
 head: piety
-entry: "<a href='/digital-beehive/alpha4/alpha_0712/'>a</a>|<a href='/digital-beehive/num7/num_2280/'>1532
+entry: "<a href='/digital-beehive/alpha4/alpha_0712/'>a</a>|<a href='/digital-beehive/num7/num_2281/'>1532
   [Godliness]</a>"
 topic:
 first_letter: P

@@ -3,7 +3,7 @@ pid: index_0930
 volume: Volume 3
 image_number: '15'
 head: curse
-entry: "<a href='/digital-beehive/num1/num_0029/'>29 [Curse]</a>|<a href='/digital-beehive/num5/num_1454/'>1078
+entry: "<a href='/digital-beehive/num1/num_0029/'>29 [Curse]</a>|<a href='/digital-beehive/num5/num_1455/'>1078
   [Curse]</a>"
 topic:
 first_letter: C

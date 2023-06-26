@@ -3,9 +3,9 @@ pid: index_0968
 volume: Volume 3
 image_number: '15'
 head: death of good men
-entry: "<a href='/digital-beehive/num3/num_0845/'>626 [the Death of good & holy men]</a>|<a
-  href='/digital-beehive/num8/num_2887/'>1963 [the Death of good & great men]</a>|<a
-  href='/digital-beehive/num11/num_3587/'>4914 [Death of great & good men]</a>"
+entry: "<a href='/digital-beehive/num3/num_0846/'>626 [the Death of good & holy men]</a>|<a
+  href='/digital-beehive/num8/num_2888/'>1963 [the Death of good & great men]</a>|<a
+  href='/digital-beehive/num11/num_3588/'>4914 [Death of great & good men]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_4301
 volume: Volume 3
 image_number: '49'
 head: vault
-entry: "<a href='/digital-beehive/num4/num_1191/'>911 [a Vault]</a>"
+entry: "<a href='/digital-beehive/num4/num_1192/'>911 [a Vault]</a>"
 topic:
 first_letter: U/V
 page:

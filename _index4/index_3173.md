@@ -3,7 +3,7 @@ pid: index_3173
 volume: Volume 3
 image_number: '37'
 head: proclamation
-entry: "<a href='/digital-beehive/num6/num_1789/'>1285 [an Edict]</a>"
+entry: "<a href='/digital-beehive/num6/num_1790/'>1285 [an Edict]</a>"
 topic:
 first_letter: P
 page:

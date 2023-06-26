@@ -8,7 +8,7 @@ topic: Judgmt of God
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2669/'>1742 [Judgmt of God]</a>"
+xref: "<a href='/digital-beehive/num7/num_2670/'>1742 [Judgmt of God]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2135/'>judgmt of God</a>"
 item: "#item-06d986528"

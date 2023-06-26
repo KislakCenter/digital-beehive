@@ -3,7 +3,7 @@ pid: index_1062
 volume: Volume 3
 image_number: '16'
 head: disbelieve
-entry: "<a href='/digital-beehive/num3/num_1025/'>705 [believe]</a>"
+entry: "<a href='/digital-beehive/num3/num_1026/'>705 [believe]</a>"
 topic:
 first_letter: D
 page:

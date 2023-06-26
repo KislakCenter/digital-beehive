@@ -3,7 +3,7 @@ pid: index_0736
 volume: Volume 3
 image_number: '13'
 head: com[m]andmts
-entry: "<a href='/digital-beehive/alpha1/alpha_0161/'>a</a>|<a href='/digital-beehive/num5/num_1393/'>1041
+entry: "<a href='/digital-beehive/alpha1/alpha_0161/'>a</a>|<a href='/digital-beehive/num5/num_1394/'>1041
   [Com[m]andments]</a>"
 topic:
 first_letter: C

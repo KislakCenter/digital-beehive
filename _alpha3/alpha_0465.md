@@ -8,7 +8,7 @@ topic: Impenitence
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0795/'>repentance</a>|<a href='/digital-beehive/num8/num_2869/'>1945
+xref: "<a href='/digital-beehive/alpha4/alpha_0795/'>repentance</a>|<a href='/digital-beehive/num8/num_2870/'>1945
   [Impenitence]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1966/'>impenitence</a>"

@@ -3,7 +3,7 @@ pid: index_1095
 volume: Volume 3
 image_number: '17'
 head: disregard
-entry: "<a href='/digital-beehive/num2/num_0585/'>470 [Disregard]</a>|<a href='/digital-beehive/num10/num_3469/'>4482
+entry: "<a href='/digital-beehive/num2/num_0585/'>470 [Disregard]</a>|<a href='/digital-beehive/num10/num_3470/'>4482
   [Disregard]</a>"
 topic:
 first_letter: D

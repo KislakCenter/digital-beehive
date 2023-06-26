@@ -8,8 +8,9 @@ topic: Rarity
 first_letter: R
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0607/'>monster</a>|<a href='/digital-beehive/alpha2/alpha_0327/'>Fewness</a>|355
-  [Old and obsolete]|<a href='/digital-beehive/num6/num_2078/'>1429 [Rarity]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0607/'>monster</a>|<a href='/digital-beehive/alpha2/alpha_0327/'>Fewness</a>|<a
+  href='/digital-beehive/num2/num_0419/'>355 [Old and obsolete]</a>|<a href='/digital-beehive/num6/num_2079/'>1429
+  [Rarity]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3292/'>rarity</a>"
 item: "#item-d074add5b"

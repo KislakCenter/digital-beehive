@@ -3,7 +3,7 @@ pid: index_3689
 volume: Volume 3
 image_number: '42'
 head: shout
-entry: "<a href='/digital-beehive/num8/num_2836/'>1925 [to Shout]</a>"
+entry: "<a href='/digital-beehive/num8/num_2837/'>1925 [to Shout]</a>"
 topic:
 first_letter: S
 page:

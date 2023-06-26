@@ -3,7 +3,7 @@ pid: index_2134
 volume: Volume 3
 image_number: '27'
 head: judgmt
-entry: "<a href='/digital-beehive/alpha3/alpha_0497/'>a</a>|<a href='/digital-beehive/num5/num_1381/'>1032
+entry: "<a href='/digital-beehive/alpha3/alpha_0497/'>a</a>|<a href='/digital-beehive/num5/num_1382/'>1032
   [Judgmt]</a>"
 topic:
 first_letter: I/J

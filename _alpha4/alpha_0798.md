@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0763/'>Punishmt</a>|<a href='/digital-beehive/num1/num_0185/'>177
   [Strain a gnat]</a>|<a href='/digital-beehive/num1/num_0197/'>188 [Reproof]</a>|<a
-  href='/digital-beehive/num4/num_1236/'>928 [Reproof]</a>"
+  href='/digital-beehive/num4/num_1237/'>928 [Reproof]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3379/'>reproof</a>"
 item: "#item-619af4159"

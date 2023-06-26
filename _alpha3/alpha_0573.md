@@ -8,7 +8,7 @@ topic: Man
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0489/'>inward man</a>|<a href='/digital-beehive/num5/num_1522/'>1124
+xref: "<a href='/digital-beehive/alpha3/alpha_0489/'>inward man</a>|<a href='/digital-beehive/num5/num_1523/'>1124
   [Man]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2404/'>man</a>"

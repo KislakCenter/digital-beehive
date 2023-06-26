@@ -8,7 +8,7 @@ topic: Ignoble
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0646/'>Nobility</a>|<a href='/digital-beehive/num11/num_3579/'>4884
+xref: "<a href='/digital-beehive/alpha3/alpha_0646/'>Nobility</a>|<a href='/digital-beehive/num11/num_3580/'>4884
   [Ignoble]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1948/'>ignoble</a>"

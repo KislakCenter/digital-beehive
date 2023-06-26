@@ -3,8 +3,8 @@ pid: index_3071
 volume: Volume 3
 image_number: '36'
 head: pope
-entry: "<a href='/digital-beehive/alpha4/alpha_0722/'>a</a>|<a href='/digital-beehive/num4/num_1166/'>898
-  [Pope]</a>|<a href='/digital-beehive/num6/num_2155/'>1467 [Pope]</a>|1860 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0722/'>a</a>|<a href='/digital-beehive/num4/num_1167/'>898
+  [Pope]</a>|<a href='/digital-beehive/num6/num_2156/'>1467 [Pope]</a>|1860 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:

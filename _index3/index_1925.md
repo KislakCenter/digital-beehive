@@ -3,7 +3,7 @@ pid: index_1925
 volume: Volume 3
 image_number: '25'
 head: Jansenism
-entry: "<a href='/digital-beehive/num7/num_2228/'>1508 [Jansenism]</a>"
+entry: "<a href='/digital-beehive/num7/num_2229/'>1508 [Jansenism]</a>"
 topic:
 first_letter: I/J
 page:

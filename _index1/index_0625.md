@@ -3,7 +3,7 @@ pid: index_0625
 volume: Volume 3
 image_number: '12'
 head: chevy-chase
-entry: "<a href='/digital-beehive/num11/num_3495/'>4802 [Chevy chase]</a>"
+entry: "<a href='/digital-beehive/num11/num_3496/'>4802 [Chevy chase]</a>"
 topic:
 first_letter: C
 page:

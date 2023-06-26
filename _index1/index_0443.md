@@ -3,7 +3,7 @@ pid: index_0443
 volume: Volume 3
 image_number: '11'
 head: to break through
-entry: "<a href='/digital-beehive/num3/num_0937/'>674 [To break through]</a>"
+entry: "<a href='/digital-beehive/num3/num_0938/'>674 [To break through]</a>"
 topic:
 first_letter: B
 page:

@@ -3,7 +3,7 @@ pid: index_3219
 volume: Volume 3
 image_number: '37'
 head: publick good
-entry: "<a href='/digital-beehive/num6/num_1823/'>1304 [Publick good]</a>"
+entry: "<a href='/digital-beehive/num6/num_1824/'>1304 [Publick good]</a>"
 topic:
 first_letter: P
 page:

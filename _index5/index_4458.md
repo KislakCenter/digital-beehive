@@ -3,7 +3,7 @@ pid: index_4458
 volume: Volume 3
 image_number: '51'
 head: wages
-entry: "<a href='/digital-beehive/num3/num_0692/'>549 [Hirelings]</a>|<a href='/digital-beehive/num10/num_3467/'>4480
+entry: "<a href='/digital-beehive/num3/num_0693/'>549 [Hirelings]</a>|<a href='/digital-beehive/num10/num_3468/'>4480
   [Reward]</a>|<a href='/digital-beehive/num2/num_0534/'>431 [Reward]</a>"
 topic:
 first_letter: W

@@ -3,7 +3,7 @@ pid: index_4685
 volume: Volume 3
 image_number: '54'
 head: Abyssines
-entry: "<a href='/digital-beehive/num7/num_2469/'>1628 [Negro]</a>"
+entry: "<a href='/digital-beehive/num7/num_2470/'>1628 [Negro]</a>"
 topic:
 first_letter: insertion
 page:

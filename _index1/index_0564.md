@@ -3,7 +3,7 @@ pid: index_0564
 volume: Volume 3
 image_number: '12'
 head: catharrs
-entry: "<a href='/digital-beehive/num3/num_0771/'>594 [Catarrhs, Inveterate Coughs]</a>"
+entry: "<a href='/digital-beehive/num3/num_0772/'>594 [Catarrhs, Inveterate Coughs]</a>"
 topic:
 first_letter: C
 page:

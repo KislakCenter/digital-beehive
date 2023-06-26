@@ -3,7 +3,7 @@ pid: index_0980
 volume: Volume 3
 image_number: '16'
 head: decree
-entry: "<a href='/digital-beehive/num8/num_2828/'>1920 [Decree]</a>"
+entry: "<a href='/digital-beehive/num8/num_2829/'>1920 [Decree]</a>"
 topic:
 first_letter: D
 page:

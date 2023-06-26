@@ -3,7 +3,7 @@ pid: index_4680
 volume: Volume 3
 image_number: '54'
 head: publ. Calam.
-entry: "<a href='/digital-beehive/num6/num_1943/'>1368 [Publick or Com[m]on Calamities]</a>"
+entry: "<a href='/digital-beehive/num6/num_1944/'>1368 [Publick or Com[m]on Calamities]</a>"
 topic:
 first_letter: insertion
 page:

@@ -3,7 +3,7 @@ pid: index_1748
 volume: Volume 3
 image_number: '23'
 head: hanging of thieves
-entry: "<a href='/digital-beehive/num6/num_1762/'>1271 [Hanging of thieves]</a>"
+entry: "<a href='/digital-beehive/num6/num_1763/'>1271 [Hanging of thieves]</a>"
 topic:
 first_letter: H
 page:

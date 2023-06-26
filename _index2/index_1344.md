@@ -3,7 +3,7 @@ pid: index_1344
 volume: Volume 3
 image_number: '19'
 head: ex. gr.
-entry: "<a href='/digital-beehive/num6/num_2060/'>1422 [Ex. gr.]</a>"
+entry: "<a href='/digital-beehive/num6/num_2061/'>1422 [Ex. gr.]</a>"
 topic:
 first_letter: E
 page:

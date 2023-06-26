@@ -8,13 +8,14 @@ topic: Approbation
 first_letter: A
 page:
 add:
-xref: 852 [Confirmation]|<a href='/digital-beehive/num6/num_2026/'>1407 [Approbation]</a>
+xref: 852 [PAGE_MISSING, Confirmation]|<a href='/digital-beehive/num6/num_2027/'>1407
+  [Approbation]</a>
 see:
 index: "<a href='/digital-beehive/index1/index_0190/'>approbation</a>"
 item: "#item-8e0b719bf"
 unparsed:
-line: 'Entry: Approbation|Topic: Approbation|Xref: 852 [Confirmation]|Xref: 1407 [Approbation]|Index:
-  approbation|#item-8e0b719bf'
+line: 'Entry: Approbation|Topic: Approbation|Xref: 852 [PAGE_MISSING, Confirmation]|Xref:
+  1407 [Approbation]|Index: approbation|#item-8e0b719bf'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/794,1522,3001,320/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490811870134

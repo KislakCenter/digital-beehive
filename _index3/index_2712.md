@@ -3,7 +3,7 @@ pid: index_2712
 volume: Volume 3
 image_number: '32'
 head: Nile
-entry: "<a href='/digital-beehive/num7/num_2361/'>1574 [Nile]</a>"
+entry: "<a href='/digital-beehive/num7/num_2362/'>1574 [Nile]</a>"
 topic:
 first_letter: N
 page:

@@ -3,7 +3,7 @@ pid: index_2023
 volume: Volume 3
 image_number: '26'
 head: indulgence
-entry: "<a href='/digital-beehive/num3/num_0924/'>667 [Indulgence]</a>|<a href='/digital-beehive/num5/num_1629/'>1195
+entry: "<a href='/digital-beehive/num3/num_0925/'>667 [Indulgence]</a>|<a href='/digital-beehive/num5/num_1630/'>1195
   [Indulgence]</a>"
 topic:
 first_letter: I/J

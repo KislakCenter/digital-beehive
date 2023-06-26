@@ -17,12 +17,12 @@ item: "#item-d2dd2128e"
 unparsed:
 line: 'Entry: Perfection|Topic: Perfection|Xref: Perfection, continued|Xref: Imperfect|Xref:
   60 [Perfection]|Index: perfection|#item-d2dd2128e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/331,4555,3044,541/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/329,4553,3046,543/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565022727523
-sort_value: '203914555'
+sort_value: '203914553'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/331,4555,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/329,4553,600,180/250,/0/default.jpg
 label: Perfection
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: The entry continues onto the next page.

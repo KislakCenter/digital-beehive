@@ -3,7 +3,7 @@ pid: index_3716
 volume: Volume 3
 image_number: '43'
 head: simplicity
-entry: "<a href='/digital-beehive/alpha4/alpha_0881/'>a</a>|<a href='/digital-beehive/num7/num_2326/'>1559
+entry: "<a href='/digital-beehive/alpha4/alpha_0881/'>a</a>|<a href='/digital-beehive/num7/num_2327/'>1559
   [Simplicity]</a>"
 topic:
 first_letter: S

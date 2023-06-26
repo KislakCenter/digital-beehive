@@ -8,7 +8,7 @@ topic: Highness
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0384/'>Grandeur</a>|<a href='/digital-beehive/num4/num_1131/'>883
+xref: "<a href='/digital-beehive/alpha2/alpha_0384/'>Grandeur</a>|<a href='/digital-beehive/num4/num_1132/'>883
   [highness]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1833/'>highness</a>"

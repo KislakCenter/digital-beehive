@@ -3,7 +3,7 @@ pid: index_2588
 volume: Volume 3
 image_number: '31'
 head: mortifying
-entry: "<a href='/digital-beehive/alpha3/alpha_0613/'>a</a>|<a href='/digital-beehive/num6/num_1743/'>1257
+entry: "<a href='/digital-beehive/alpha3/alpha_0613/'>a</a>|<a href='/digital-beehive/num6/num_1744/'>1257
   [Mortification]</a>"
 topic:
 first_letter: M

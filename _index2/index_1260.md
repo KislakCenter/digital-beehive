@@ -3,7 +3,7 @@ pid: index_1260
 volume: Volume 3
 image_number: '18'
 head: English poets
-entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>|4565 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num7/num_2379/'>1585 [Verses]</a>|4565 [PAGE_MISSING]"
 topic:
 first_letter: E
 page:

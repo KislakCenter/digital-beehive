@@ -3,7 +3,7 @@ pid: index_0748
 volume: Volume 3
 image_number: '13'
 head: common places
-entry: "<a href='/digital-beehive/num7/num_2229/'>1509 [Com[m]on Places]</a>"
+entry: "<a href='/digital-beehive/num7/num_2230/'>1509 [Com[m]on Places]</a>"
 topic:
 first_letter: C
 page:

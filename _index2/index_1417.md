@@ -3,7 +3,7 @@ pid: index_1417
 volume: Volume 3
 image_number: '20'
 head: favour & disfavour
-entry: "<a href='/digital-beehive/num6/num_1927/'>1359 [Favour of Princes]</a>"
+entry: "<a href='/digital-beehive/num6/num_1928/'>1359 [Favour of Princes]</a>"
 topic:
 first_letter: F
 page:

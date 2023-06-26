@@ -3,7 +3,7 @@ pid: index_2335
 volume: Volume 3
 image_number: '29'
 head: loss
-entry: "<a href='/digital-beehive/alpha3/alpha_0554/'>a</a>|<a href='/digital-beehive/num5/num_1568/'>1151
+entry: "<a href='/digital-beehive/alpha3/alpha_0554/'>a</a>|<a href='/digital-beehive/num5/num_1569/'>1151
   [Loss]</a>"
 topic:
 first_letter: L

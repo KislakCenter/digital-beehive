@@ -3,7 +3,7 @@ pid: index_3910
 volume: Volume 3
 image_number: '45'
 head: stomach
-entry: "<a href='/digital-beehive/alpha4/alpha_0917/'>a</a>|<a href='/digital-beehive/num9/num_3083/'>2144
+entry: "<a href='/digital-beehive/alpha4/alpha_0917/'>a</a>|<a href='/digital-beehive/num9/num_3084/'>2144
   [Stomach]</a>"
 topic:
 first_letter: S

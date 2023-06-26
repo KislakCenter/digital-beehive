@@ -3,7 +3,7 @@ pid: index_1263
 volume: Volume 3
 image_number: '18'
 head: enjoymt
-entry: "<a href='/digital-beehive/num3/num_0812/'>611 [Enjoyment]</a>"
+entry: "<a href='/digital-beehive/num3/num_0813/'>611 [Enjoyment]</a>"
 topic:
 first_letter: E
 page:

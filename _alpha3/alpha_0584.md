@@ -8,7 +8,7 @@ topic: Mediocrity
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1494/'>1103 [Mediocrity]</a>"
+xref: "<a href='/digital-beehive/num5/num_1495/'>1103 [Mediocrity]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2468/'>mediocrity</a>"
 item: "#item-8c6e50d25"

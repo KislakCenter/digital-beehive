@@ -3,7 +3,7 @@ pid: index_0951
 volume: Volume 3
 image_number: '15'
 head: David
-entry: "<a href='/digital-beehive/num7/num_2374/'>1582 [David]</a>|4751 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num7/num_2375/'>1582 [David]</a>|4751 [PAGE_MISSING]"
 topic:
 first_letter: D
 page:

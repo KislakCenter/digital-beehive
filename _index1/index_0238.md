@@ -3,8 +3,8 @@ pid: index_0238
 volume: Volume 3
 image_number: '9'
 head: attacking
-entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1883/''>1338 [To Assault
-  : besiege]</a>|<a href=''/digital-beehive/num9/num_3009/''>2075 [Attack]</a>'
+entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1884/''>1338 [To Assault
+  : besiege]</a>|<a href=''/digital-beehive/num9/num_3010/''>2075 [Attack]</a>'
 topic:
 first_letter: A
 page:

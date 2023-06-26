@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '27'
 head: justification
 entry: "<a href='/digital-beehive/alpha3/alpha_0500/'>a</a>|<a href='/digital-beehive/num2/num_0474/'>390
-  [Justification]</a>|<a href='/digital-beehive/num5/num_1358/'>1017 [Justification]</a>"
+  [Justification]</a>|<a href='/digital-beehive/num5/num_1359/'>1017 [Justification]</a>"
 topic:
 first_letter: I/J
 page:

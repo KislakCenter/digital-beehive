@@ -8,7 +8,7 @@ topic: Regarding of persons
 first_letter: R
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0689/'>Partiality</a>|<a href='/digital-beehive/num6/num_2037/'>1412
+xref: "<a href='/digital-beehive/alpha4/alpha_0689/'>Partiality</a>|<a href='/digital-beehive/num6/num_2038/'>1412
   [Excellent]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3338/'>regarding of persons</a>"

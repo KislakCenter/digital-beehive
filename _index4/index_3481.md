@@ -3,7 +3,7 @@ pid: index_3481
 volume: Volume 3
 image_number: '40'
 head: sack cloath
-entry: "<a href='/digital-beehive/num10/num_3474/'>4487 [Sackcloth]</a>"
+entry: "<a href='/digital-beehive/num10/num_3475/'>4487 [Sackcloth]</a>"
 topic:
 first_letter: S
 page:

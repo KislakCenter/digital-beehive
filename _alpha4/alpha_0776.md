@@ -8,7 +8,7 @@ topic: Rain bow
 first_letter: R
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2386/'>1590 [Rainbow]</a>"
+xref: "<a href='/digital-beehive/num7/num_2387/'>1590 [Rainbow]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3284/'>rainbow</a>"
 item: "#item-4e33af066"

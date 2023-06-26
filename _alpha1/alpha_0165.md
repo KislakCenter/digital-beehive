@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0590/'>Mercy</a>|<a href='/digital-beehive/alpha4/alpha_0769/'>Quarter</a>|<a
   href='/digital-beehive/alpha3/alpha_0600/'>misery</a>|<a href='/digital-beehive/alpha5/num_0150/'>Sympathy</a>|<a
-  href='/digital-beehive/alpha1/alpha_0158/'>Comfort</a>|<a href='/digital-beehive/num6/num_2094/'>1436
+  href='/digital-beehive/alpha1/alpha_0158/'>Comfort</a>|<a href='/digital-beehive/num6/num_2095/'>1436
   [Commiseration]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0758/'>compassion</a>"

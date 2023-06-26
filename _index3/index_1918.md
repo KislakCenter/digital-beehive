@@ -3,7 +3,7 @@ pid: index_1918
 volume: Volume 3
 image_number: '24'
 head: Jacob
-entry: "<a href='/digital-beehive/num8/num_2790/'>1903 [Jacob]</a>"
+entry: "<a href='/digital-beehive/num8/num_2791/'>1903 [Jacob]</a>"
 topic:
 first_letter: I/J
 page:

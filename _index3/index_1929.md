@@ -3,7 +3,7 @@ pid: index_1929
 volume: Volume 3
 image_number: '25'
 head: ice
-entry: "<a href='/digital-beehive/num3/num_0686/'>544 [Ice]</a>"
+entry: "<a href='/digital-beehive/num3/num_0687/'>544 [Ice]</a>"
 topic:
 first_letter: I/J
 page:

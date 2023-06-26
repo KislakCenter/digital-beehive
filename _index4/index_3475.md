@@ -3,7 +3,7 @@ pid: index_3475
 volume: Volume 3
 image_number: '40'
 head: rye
-entry: "<a href='/digital-beehive/num3/num_0919/'>664 [Rye]</a>"
+entry: "<a href='/digital-beehive/num3/num_0920/'>664 [Rye]</a>"
 topic:
 first_letter: R
 page:

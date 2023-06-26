@@ -14,12 +14,12 @@ index: "<a href='/digital-beehive/index4/index_3181/'>prognostica[ti]ons</a>"
 item: "#item-46c12529d"
 unparsed:
 line: 'Entry: Prognostications|Topic: Prognostications|Xref: 158 [Sign]|Index: prognostica[ti]ons|#item-46c12529d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/328,2527,3051,604/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/326,2525,3053,606/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528668373495
-sort_value: '204312527'
+sort_value: '204312525'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/328,2527,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/326,2525,600,180/250,/0/default.jpg
 label: Prognostications
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue:

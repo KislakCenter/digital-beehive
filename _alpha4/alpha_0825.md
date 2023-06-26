@@ -8,7 +8,7 @@ topic: Sacrament
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_2967/'>2033 [Sacramts]</a>"
+xref: "<a href='/digital-beehive/num9/num_2968/'>2033 [Sacramts]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3479/'>Sacramt</a>"
 item: "#item-76b46aa88"

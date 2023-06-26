@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '7'
 head: always
 entry: "<a href='/digital-beehive/num2/num_0324/'>287 [Always]</a>|<a href='/digital-beehive/num2/num_0420/'>356
-  [Allways]</a>|<a href='/digital-beehive/num5/num_1395/'>1043 [Always]</a>|<a href='/digital-beehive/num11/num_3518/'>4823
+  [Allways]</a>|<a href='/digital-beehive/num5/num_1396/'>1043 [Always]</a>|<a href='/digital-beehive/num11/num_3519/'>4823
   [Always]</a>"
 topic:
 first_letter: A

@@ -3,7 +3,7 @@ pid: index_2555
 volume: Volume 3
 image_number: '31'
 head: mogshade
-entry: "<a href='/digital-beehive/num3/num_0874/'>641 [mogshade]</a>"
+entry: "<a href='/digital-beehive/num3/num_0875/'>641 [mogshade]</a>"
 topic:
 first_letter: M
 page:

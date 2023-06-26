@@ -3,7 +3,7 @@ pid: index_0850
 volume: Volume 3
 image_number: '14'
 head: cork
-entry: "<a href='/digital-beehive/num3/num_0753/'>585 [the Cork tree]</a>"
+entry: "<a href='/digital-beehive/num3/num_0754/'>585 [the Cork tree]</a>"
 topic:
 first_letter: C
 page:

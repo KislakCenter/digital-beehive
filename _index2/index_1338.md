@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '19'
 head: excuse
 entry: "<a href='/digital-beehive/alpha2/alpha_0299/'>a</a>|756 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_2072/'>1427 [Excuse]</a>|<a href='/digital-beehive/num11/num_3564/'>4869
+  href='/digital-beehive/num6/num_2073/'>1427 [Excuse]</a>|<a href='/digital-beehive/num11/num_3565/'>4869
   [Excuses]</a>"
 topic:
 first_letter: E

@@ -8,7 +8,7 @@ topic: Mystery
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1342/'>1006 [Mystery]</a>"
+xref: "<a href='/digital-beehive/num5/num_1343/'>1006 [Mystery]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2628/'>mystery</a>"
 item: "#item-b18c4100d"

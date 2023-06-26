@@ -3,7 +3,7 @@ pid: index_0594
 volume: Volume 3
 image_number: '12'
 head: chameleon
-entry: "<a href='/digital-beehive/num5/num_1720/'>1245 [Salamander]</a>"
+entry: "<a href='/digital-beehive/num5/num_1721/'>1245 [Salamander]</a>"
 topic:
 first_letter: C
 page:

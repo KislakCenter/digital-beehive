@@ -3,7 +3,7 @@ pid: index_0030
 volume: Volume 3
 image_number: '7'
 head: accustoming
-entry: "<a href='/digital-beehive/num1/num_0132/'>127 [Accustoming]</a>|<a href='/digital-beehive/num4/num_1247/'>934
+entry: "<a href='/digital-beehive/num1/num_0132/'>127 [Accustoming]</a>|<a href='/digital-beehive/num4/num_1248/'>934
   [Accustoming]</a>"
 topic:
 first_letter: A

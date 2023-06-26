@@ -3,7 +3,7 @@ pid: index_0496
 volume: Volume 3
 image_number: '11'
 head: to buy
-entry: "<a href='/digital-beehive/alpha1/alpha_0114/'>a</a>|<a href='/digital-beehive/num7/num_2479/'>1632
+entry: "<a href='/digital-beehive/alpha1/alpha_0114/'>a</a>|<a href='/digital-beehive/num7/num_2480/'>1632
   [Buy]</a>"
 topic:
 first_letter: B

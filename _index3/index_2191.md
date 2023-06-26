@@ -3,7 +3,7 @@ pid: index_2191
 volume: Volume 3
 image_number: '27'
 head: lamp
-entry: "<a href='/digital-beehive/num7/num_2401/'>1597 [Lamps]</a>"
+entry: "<a href='/digital-beehive/num7/num_2402/'>1597 [Lamps]</a>"
 topic:
 first_letter: L
 page:

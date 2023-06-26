@@ -3,7 +3,7 @@ pid: index_1081
 volume: Volume 3
 image_number: '17'
 head: to disjoint
-entry: "<a href='/digital-beehive/num3/num_0770/'>593 [disjoint]</a>"
+entry: "<a href='/digital-beehive/num3/num_0771/'>593 [disjoint]</a>"
 topic:
 first_letter: D
 page:

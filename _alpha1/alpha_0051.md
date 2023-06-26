@@ -9,7 +9,7 @@ first_letter: B
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0819/'>Rome</a>|<a href='/digital-beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
-  href='/digital-beehive/num4/num_1270/'>952 [Babel]</a>"
+  href='/digital-beehive/num4/num_1271/'>952 [Babel]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0261/'>babylon</a>"
 item: "#item-43ad5283e"

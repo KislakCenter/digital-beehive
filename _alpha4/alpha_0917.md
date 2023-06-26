@@ -8,7 +8,7 @@ topic: Stomach
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_3083/'>2144 [Stomach]</a>"
+xref: "<a href='/digital-beehive/num9/num_3084/'>2144 [Stomach]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3910/'>stomach</a>"
 item: "#item-655c7e5da"

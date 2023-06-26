@@ -3,7 +3,7 @@ pid: index_1102
 volume: Volume 3
 image_number: '17'
 head: distilling
-entry: "<a href='/digital-beehive/num3/num_0767/'>592 [Distilling]</a>"
+entry: "<a href='/digital-beehive/num3/num_0768/'>592 [Distilling]</a>"
 topic:
 first_letter: D
 page:

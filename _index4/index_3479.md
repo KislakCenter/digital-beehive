@@ -3,7 +3,7 @@ pid: index_3479
 volume: Volume 3
 image_number: '40'
 head: Sacramt
-entry: "<a href='/digital-beehive/alpha4/alpha_0825/'>a</a>|<a href='/digital-beehive/num9/num_2967/'>2033
+entry: "<a href='/digital-beehive/alpha4/alpha_0825/'>a</a>|<a href='/digital-beehive/num9/num_2968/'>2033
   [Sacramts]</a>"
 topic:
 first_letter: S

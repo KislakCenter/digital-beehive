@@ -3,7 +3,7 @@ pid: index_3034
 volume: Volume 3
 image_number: '35'
 head: plantain
-entry: "<a href='/digital-beehive/num9/num_3082/'>2143 [Plantain]</a>"
+entry: "<a href='/digital-beehive/num9/num_3083/'>2143 [Plantain]</a>"
 topic:
 first_letter: P
 page:

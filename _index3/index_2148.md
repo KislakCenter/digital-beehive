@@ -3,7 +3,7 @@ pid: index_2148
 volume: Volume 3
 image_number: '27'
 head: Geo. Keith
-entry: "<a href='/digital-beehive/num5/num_1394/'>1042 [George Keith]</a>"
+entry: "<a href='/digital-beehive/num5/num_1395/'>1042 [George Keith]</a>"
 topic:
 first_letter: K
 page:

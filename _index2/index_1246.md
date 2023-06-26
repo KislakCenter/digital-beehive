@@ -3,7 +3,7 @@ pid: index_1246
 volume: Volume 3
 image_number: '18'
 head: encouragemt
-entry: "<a href='/digital-beehive/num3/num_0800/'>606 [Encouragemt]</a>"
+entry: "<a href='/digital-beehive/num3/num_0801/'>606 [Encouragemt]</a>"
 topic:
 first_letter: E
 page:

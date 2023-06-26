@@ -3,7 +3,7 @@ pid: index_3589
 volume: Volume 3
 image_number: '41'
 head: sedition
-entry: "<a href='/digital-beehive/num5/num_1633/'>1197 [Rebellion]</a>"
+entry: "<a href='/digital-beehive/num5/num_1634/'>1197 [Rebellion]</a>"
 topic:
 first_letter: S
 page:

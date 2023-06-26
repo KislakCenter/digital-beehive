@@ -3,7 +3,7 @@ pid: index_1283
 volume: Volume 3
 image_number: '19'
 head: epistolography
-entry: "<a href='/digital-beehive/num7/num_2364/'>1576 [Having in one of my other
+entry: "<a href='/digital-beehive/num7/num_2365/'>1576 [Having in one of my other
   Manuscripts composed an Epistolography by itself : I. Vulgar Titles]</a>"
 topic:
 first_letter: E

@@ -3,7 +3,7 @@ pid: index_0605
 volume: Volume 3
 image_number: '12'
 head: chariots
-entry: "<a href='/digital-beehive/num5/num_1583/'>1162 [Carriage]</a>"
+entry: "<a href='/digital-beehive/num5/num_1584/'>1162 [Carriage]</a>"
 topic:
 first_letter: C
 page:

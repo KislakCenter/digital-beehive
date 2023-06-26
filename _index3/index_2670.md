@@ -3,8 +3,8 @@ pid: index_2670
 volume: Volume 3
 image_number: '32'
 head: necessity
-entry: "<a href='/digital-beehive/alpha3/alpha_0639/'>a</a>|<a href='/digital-beehive/num4/num_1215/'>918
-  [Necessity]</a>|<a href='/digital-beehive/num9/num_2958/'>2024 [Necessity]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0639/'>a</a>|<a href='/digital-beehive/num4/num_1216/'>918
+  [Necessity]</a>|<a href='/digital-beehive/num9/num_2959/'>2024 [Necessity]</a>"
 topic:
 first_letter: N
 page:

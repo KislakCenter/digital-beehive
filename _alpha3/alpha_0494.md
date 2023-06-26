@@ -8,7 +8,7 @@ topic: Italy
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1966/'>1379 [Italy]</a>"
+xref: "<a href='/digital-beehive/num6/num_1967/'>1379 [Italy]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2126/'>Italy</a>"
 item: "#item-d4f2cb8a7"

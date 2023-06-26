@@ -3,7 +3,7 @@ pid: index_2201
 volume: Volume 3
 image_number: '27'
 head: large
-entry: "<a href='/digital-beehive/num3/num_0860/'>635 [Great, rich & eminent Persons]</a>|800
+entry: "<a href='/digital-beehive/num3/num_0861/'>635 [Great, rich & eminent Persons]</a>|800
   [PAGE_MISSING]"
 topic:
 first_letter: L

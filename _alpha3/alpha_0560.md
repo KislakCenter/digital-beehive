@@ -8,7 +8,7 @@ topic: Love of our Neighbour
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1456/'>1079 [Love of Neighbours]</a>"
+xref: "<a href='/digital-beehive/num5/num_1457/'>1079 [Love of Neighbours]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2343/'>love of our neighbour</a>"
 item: "#item-404f51cf4"

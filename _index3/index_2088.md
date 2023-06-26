@@ -3,7 +3,7 @@ pid: index_2088
 volume: Volume 3
 image_number: '26'
 head: in vain
-entry: "<a href='/digital-beehive/num3/num_0923/'>666 [In vain]</a>|<a href='/digital-beehive/num7/num_2316/'>1553
+entry: "<a href='/digital-beehive/num3/num_0924/'>666 [In vain]</a>|<a href='/digital-beehive/num7/num_2317/'>1553
   [In vain]</a>"
 topic:
 first_letter: I/J

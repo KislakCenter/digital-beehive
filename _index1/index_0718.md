@@ -3,7 +3,7 @@ pid: index_0718
 volume: Volume 3
 image_number: '13'
 head: cole
-entry: "<a href='/digital-beehive/num5/num_1541/'>1134 [Coal]</a>"
+entry: "<a href='/digital-beehive/num5/num_1542/'>1134 [Coal]</a>"
 topic:
 first_letter: C
 page:

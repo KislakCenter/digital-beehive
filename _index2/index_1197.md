@@ -3,7 +3,7 @@ pid: index_1197
 volume: Volume 3
 image_number: '18'
 head: easy in living
-entry: "<a href='/digital-beehive/num6/num_1817/'>1301 [easy in living]</a>"
+entry: "<a href='/digital-beehive/num6/num_1818/'>1301 [easy in living]</a>"
 topic:
 first_letter: E
 page:

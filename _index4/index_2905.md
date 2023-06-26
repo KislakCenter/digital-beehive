@@ -3,7 +3,7 @@ pid: index_2905
 volume: Volume 3
 image_number: '34'
 head: passive obed
-entry: "<a href='/digital-beehive/num9/num_3132/'>2189 [Passive Obedience & non resistance]</a>|4626
+entry: "<a href='/digital-beehive/num9/num_3133/'>2189 [Passive Obedience & non resistance]</a>|4626
   [PAGE_MISSING]"
 topic:
 first_letter: P

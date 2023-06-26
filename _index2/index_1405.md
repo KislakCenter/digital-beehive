@@ -3,7 +3,7 @@ pid: index_1405
 volume: Volume 3
 image_number: '20'
 head: fart
-entry: "<a href='/digital-beehive/num3/num_0782/'>598 [Fart]</a>"
+entry: "<a href='/digital-beehive/num3/num_0783/'>598 [Fart]</a>"
 topic:
 first_letter: F
 page:

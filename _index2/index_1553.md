@@ -3,7 +3,7 @@ pid: index_1553
 volume: Volume 3
 image_number: '21'
 head: froth
-entry: "<a href='/digital-beehive/num7/num_2303/'>1547 [Juggling]</a>"
+entry: "<a href='/digital-beehive/num7/num_2304/'>1547 [Juggling]</a>"
 topic:
 first_letter: F
 page:

@@ -3,7 +3,7 @@ pid: index_0202
 volume: Volume 3
 image_number: '8'
 head: aristaenetus
-entry: "<a href='/digital-beehive/num11/num_3499/'>4805 [Arist[ae]netus]</a>"
+entry: "<a href='/digital-beehive/num11/num_3500/'>4805 [Arist[ae]netus]</a>"
 topic:
 first_letter: A
 page:

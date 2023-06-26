@@ -3,7 +3,7 @@ pid: index_0865
 volume: Volume 3
 image_number: '15'
 head: costive
-entry: "<a href='/digital-beehive/num9/num_3134/'>2191 [Costive]</a>"
+entry: "<a href='/digital-beehive/num9/num_3135/'>2191 [Costive]</a>"
 topic:
 first_letter: C
 page:

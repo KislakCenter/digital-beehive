@@ -8,7 +8,7 @@ topic: Wars miseries
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0804/'>608 [Ruin]</a>|<a href='/digital-beehive/num6/num_2043/'>1416
+xref: "<a href='/digital-beehive/num3/num_0805/'>608 [Ruin]</a>|<a href='/digital-beehive/num6/num_2044/'>1416
   [Evils of war]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4475/'>wars miseries</a>"

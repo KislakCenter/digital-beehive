@@ -3,7 +3,7 @@ pid: index_3098
 volume: Volume 3
 image_number: '36'
 head: to pound
-entry: "<a href='/digital-beehive/num7/num_2670/'>1743 [Pounded]</a>"
+entry: "<a href='/digital-beehive/num7/num_2671/'>1743 [Pounded]</a>"
 topic:
 first_letter: P
 page:

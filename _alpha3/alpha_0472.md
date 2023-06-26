@@ -8,7 +8,7 @@ topic: Increase
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0747/'>Progress</a>|<a href='/digital-beehive/num3/num_0796/'>604
+xref: "<a href='/digital-beehive/alpha4/alpha_0747/'>Progress</a>|<a href='/digital-beehive/num3/num_0797/'>604
   [Increase]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2008/'>increase</a>"

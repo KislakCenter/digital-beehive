@@ -3,7 +3,7 @@ pid: index_3423
 volume: Volume 3
 image_number: '40'
 head: riddle
-entry: "<a href='/digital-beehive/num9/num_3167/'>2224 [Riddle]</a>"
+entry: "<a href='/digital-beehive/num9/num_3168/'>2224 [Riddle]</a>"
 topic:
 first_letter: R
 page:

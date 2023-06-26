@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '16'
 head: derision
 entry: "<a href='/digital-beehive/alpha1/alpha_0230/'>a</a>|773 [PAGE_MISSING]|<a
-  href='/digital-beehive/num9/num_2997/'>2063 [Derision]</a>"
+  href='/digital-beehive/num9/num_2998/'>2063 [Derision]</a>"
 topic:
 first_letter: D
 page:

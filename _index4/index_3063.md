@@ -3,7 +3,7 @@ pid: index_3063
 volume: Volume 3
 image_number: '36'
 head: poison
-entry: "<a href='/digital-beehive/num7/num_2292/'>1540 [Poisoning]</a>"
+entry: "<a href='/digital-beehive/num7/num_2293/'>1540 [Poisoning]</a>"
 topic:
 first_letter: P
 page:

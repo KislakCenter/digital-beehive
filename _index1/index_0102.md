@@ -3,7 +3,7 @@ pid: index_0102
 volume: Volume 3
 image_number: '7'
 head: allum
-entry: "<a href='/digital-beehive/num9/num_3087/'>2146 [Allum]</a>"
+entry: "<a href='/digital-beehive/num9/num_3088/'>2146 [Allum]</a>"
 topic:
 first_letter: A
 page:

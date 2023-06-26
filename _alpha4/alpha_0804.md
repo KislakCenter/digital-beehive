@@ -15,12 +15,12 @@ item: "#item-496e9fab4"
 unparsed:
 line: 'Entry: Resurrection, continued|Topic: Resurrection, continued|Xref: Resurrection|Index:
   resurrection|#item-496e9fab4'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/804,188,3023,262/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/802,186,3025,264/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1573246127588
-sort_value: '204810188'
+sort_value: '204810186'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/804,188,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/802,186,600,180/250,/0/default.jpg
 label: Resurrection, continued
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
 issue:

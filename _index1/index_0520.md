@@ -3,7 +3,7 @@ pid: index_0520
 volume: Volume 3
 image_number: '11'
 head: Canaanites
-entry: "<a href='/digital-beehive/num8/num_2783/'>1901 [Canaanites]</a>"
+entry: "<a href='/digital-beehive/num8/num_2784/'>1901 [Canaanites]</a>"
 topic:
 first_letter: C
 page:

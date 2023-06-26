@@ -3,7 +3,7 @@ pid: index_1594
 volume: Volume 3
 image_number: '22'
 head: Geneva
-entry: "<a href='/digital-beehive/num6/num_1955/'>1373 [Geneva]</a>"
+entry: "<a href='/digital-beehive/num6/num_1956/'>1373 [Geneva]</a>"
 topic:
 first_letter: G
 page:

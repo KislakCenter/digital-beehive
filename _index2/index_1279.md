@@ -3,8 +3,8 @@ pid: index_1279
 volume: Volume 3
 image_number: '19'
 head: epicurism
-entry: "<a href='/digital-beehive/alpha2/alpha_0289/'>a</a>|<a href='/digital-beehive/num5/num_1465/'>1087
-  [Epicures]</a>|<a href='/digital-beehive/num7/num_2594/'>1686 [Epicures]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0289/'>a</a>|<a href='/digital-beehive/num5/num_1466/'>1087
+  [Epicures]</a>|<a href='/digital-beehive/num7/num_2595/'>1686 [Epicures]</a>"
 topic:
 first_letter: E
 page:

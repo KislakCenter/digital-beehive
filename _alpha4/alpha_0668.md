@@ -8,7 +8,7 @@ topic: Opinion
 first_letter: O
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Imagination</a>|<a href='/digital-beehive/num5/num_1376/'>1029
+xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Imagination</a>|<a href='/digital-beehive/num5/num_1377/'>1029
   [Opinion]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_2806/'>opinion</a>"

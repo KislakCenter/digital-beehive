@@ -8,7 +8,7 @@ topic: Horseman
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2679/'>1750 [Horseman]</a>"
+xref: "<a href='/digital-beehive/num7/num_2680/'>1750 [Horseman]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1876/'>horseman</a>"
 item: "#item-19152366a"

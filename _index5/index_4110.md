@@ -3,7 +3,7 @@ pid: index_4110
 volume: Volume 3
 image_number: '47'
 head: then
-entry: "<a href='/digital-beehive/num3/num_1054/'>717 [Then]</a>"
+entry: "<a href='/digital-beehive/num3/num_1055/'>717 [Then]</a>"
 topic:
 first_letter: T
 page:

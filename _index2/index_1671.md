@@ -3,7 +3,7 @@ pid: index_1671
 volume: Volume 3
 image_number: '22'
 head: gospel
-entry: "<a href='/digital-beehive/alpha2/alpha_0377/'>a</a>|<a href='/digital-beehive/num4/num_1288/'>967
+entry: "<a href='/digital-beehive/alpha2/alpha_0377/'>a</a>|<a href='/digital-beehive/num4/num_1289/'>967
   [Gospel]</a>"
 topic:
 first_letter: G

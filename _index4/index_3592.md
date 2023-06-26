@@ -3,8 +3,8 @@ pid: index_3592
 volume: Volume 3
 image_number: '41'
 head: seed
-entry: "<a href='/digital-beehive/alpha4/alpha_0850/'>a</a>|<a href='/digital-beehive/num5/num_1424/'>1059
-  [Seed]</a>|<a href='/digital-beehive/num5/num_1425/'>1059 [Sperma]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0850/'>a</a>|<a href='/digital-beehive/num5/num_1425/'>1059
+  [Seed]</a>|<a href='/digital-beehive/num5/num_1426/'>1059 [Sperma]</a>"
 topic:
 first_letter: S
 page:

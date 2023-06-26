@@ -3,7 +3,7 @@ pid: index_0550
 volume: Volume 3
 image_number: '12'
 head: carrots
-entry: "<a href='/digital-beehive/num3/num_0940/'>676 [Carrots]</a>"
+entry: "<a href='/digital-beehive/num3/num_0941/'>676 [Carrots]</a>"
 topic:
 first_letter: C
 page:

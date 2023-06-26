@@ -3,7 +3,7 @@ pid: index_1280
 volume: Volume 3
 image_number: '19'
 head: epidemical
-entry: "<a href='/digital-beehive/num6/num_1868/'>1330 [To infect]</a>"
+entry: "<a href='/digital-beehive/num6/num_1869/'>1330 [To infect]</a>"
 topic:
 first_letter: E
 page:

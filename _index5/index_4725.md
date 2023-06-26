@@ -3,7 +3,7 @@ pid: index_4725
 volume: Volume 3
 image_number: '54'
 head: Sap
-entry: "<a href='/digital-beehive/num5/num_1711/'>1240 [Juice]</a>"
+entry: "<a href='/digital-beehive/num5/num_1712/'>1240 [Juice]</a>"
 topic:
 first_letter: insertion
 page:

@@ -8,7 +8,7 @@ topic: Monarchy
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0502/'>King</a>|<a href='/digital-beehive/num8/num_2694/'>1763
+xref: "<a href='/digital-beehive/alpha3/alpha_0502/'>King</a>|<a href='/digital-beehive/num8/num_2695/'>1763
   [Monarchy]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2563/'>monarchy</a>"

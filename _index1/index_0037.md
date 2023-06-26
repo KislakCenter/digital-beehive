@@ -3,7 +3,7 @@ pid: index_0037
 volume: Volume 3
 image_number: '7'
 head: activity
-entry: "<a href='/digital-beehive/num3/num_1019/'>703 [Nimble]</a>"
+entry: "<a href='/digital-beehive/num3/num_1020/'>703 [Nimble]</a>"
 topic:
 first_letter: A
 page:

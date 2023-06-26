@@ -8,7 +8,7 @@ topic: Queries
 first_letter: Q
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0297/'>Examination</a>|<a href='/digital-beehive/num5/num_1422/'>1058
+xref: "<a href='/digital-beehive/alpha2/alpha_0297/'>Examination</a>|<a href='/digital-beehive/num5/num_1423/'>1058
   [Queries]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3258/'>queries</a>"

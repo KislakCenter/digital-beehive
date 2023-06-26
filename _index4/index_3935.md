@@ -3,7 +3,7 @@ pid: index_3935
 volume: Volume 3
 image_number: '45'
 head: strayed or lost
-entry: "<a href='/digital-beehive/num8/num_2811/'>1915 [Strayed & lost]</a>"
+entry: "<a href='/digital-beehive/num8/num_2812/'>1915 [Strayed & lost]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_3538
 volume: Volume 3
 image_number: '41'
 head: scarce
-entry: "<a href='/digital-beehive/num3/num_1016/'>702 [Scarce]</a>"
+entry: "<a href='/digital-beehive/num3/num_1017/'>702 [Scarce]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_1226
 volume: Volume 3
 image_number: '18'
 head: Elizabeth
-entry: "<a href='/digital-beehive/num7/num_2227/'>1508 [Elizabeth]</a>"
+entry: "<a href='/digital-beehive/num7/num_2228/'>1508 [Elizabeth]</a>"
 topic:
 first_letter: E
 page:

@@ -3,7 +3,7 @@ pid: index_1299
 volume: Volume 3
 image_number: '19'
 head: essay
-entry: "<a href='/digital-beehive/num3/num_0857/'>633 [essay]</a>|4578 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num3/num_0858/'>633 [essay]</a>|4578 [PAGE_MISSING]"
 topic:
 first_letter: E
 page:

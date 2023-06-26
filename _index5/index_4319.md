@@ -3,8 +3,8 @@ pid: index_4319
 volume: Volume 3
 image_number: '49'
 head: vertue
-entry: "<a href='/digital-beehive/alpha5/alpha_0995/'>a</a>|<a href='/digital-beehive/num5/num_1547/'>1138
-  [Virtue]</a>|<a href='/digital-beehive/num11/num_3514/'>4819 [Virtue]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0995/'>a</a>|<a href='/digital-beehive/num5/num_1548/'>1138
+  [Virtue]</a>|<a href='/digital-beehive/num11/num_3515/'>4819 [Virtue]</a>"
 topic:
 first_letter: U/V
 page:

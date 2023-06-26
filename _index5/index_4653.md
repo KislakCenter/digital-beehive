@@ -3,9 +3,9 @@ pid: index_4653
 volume: Volume 3
 image_number: '53'
 head: Zeal
-entry: "<a href='/digital-beehive/alpha5/alpha_1076/'>a</a>|<a href='/digital-beehive/num5/num_1353/'>1013
-  [Zeal]</a>|<a href='/digital-beehive/num7/num_2617/'>1697 [Zeal]</a>|<a href='/digital-beehive/num9/num_2948/'>2014
-  [Zeal]</a>|<a href='/digital-beehive/num10/num_3258/'>2295 [Zeal]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1076/'>a</a>|<a href='/digital-beehive/num5/num_1354/'>1013
+  [Zeal]</a>|<a href='/digital-beehive/num7/num_2618/'>1697 [Zeal]</a>|<a href='/digital-beehive/num9/num_2949/'>2014
+  [Zeal]</a>|<a href='/digital-beehive/num10/num_3259/'>2295 [Zeal]</a>"
 topic:
 first_letter: Z
 page:

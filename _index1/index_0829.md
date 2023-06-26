@@ -3,7 +3,7 @@ pid: index_0829
 volume: Volume 3
 image_number: '14'
 head: contrariety. √®contr√†
-entry: "<a href='/digital-beehive/num3/num_0986/'>690 [Contrariety]</a>"
+entry: "<a href='/digital-beehive/num3/num_0987/'>690 [Contrariety]</a>"
 topic:
 first_letter: C
 page:

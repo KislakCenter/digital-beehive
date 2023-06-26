@@ -3,7 +3,7 @@ pid: index_3694
 volume: Volume 3
 image_number: '42'
 head: Sibijl
-entry: "<a href='/digital-beehive/num5/num_1535/'>1130 [Sibyl]</a>"
+entry: "<a href='/digital-beehive/num5/num_1536/'>1130 [Sibyl]</a>"
 topic:
 first_letter: S
 page:

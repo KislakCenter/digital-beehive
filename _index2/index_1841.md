@@ -3,7 +3,7 @@ pid: index_1841
 volume: Volume 3
 image_number: '24'
 head: to hire
-entry: "<a href='/digital-beehive/num3/num_0692/'>549 [Hirelings]</a>"
+entry: "<a href='/digital-beehive/num3/num_0693/'>549 [Hirelings]</a>"
 topic:
 first_letter: H
 page:

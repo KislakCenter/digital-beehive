@@ -3,8 +3,8 @@ pid: index_2473
 volume: Volume 3
 image_number: '30'
 head: meetings
-entry: "<a href='/digital-beehive/num1/num_0120/'>116 [Meetings]</a>|<a href='/digital-beehive/num6/num_1770/'>1276
-  [Meetings to worship God in]</a>|<a href='/digital-beehive/num10/num_3231/'>2273
+entry: "<a href='/digital-beehive/num1/num_0120/'>116 [Meetings]</a>|<a href='/digital-beehive/num6/num_1771/'>1276
+  [Meetings to worship God in]</a>|<a href='/digital-beehive/num10/num_3232/'>2273
   [Meetings]</a>"
 topic:
 first_letter: M

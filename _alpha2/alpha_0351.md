@@ -8,7 +8,7 @@ topic: French
 first_letter: F
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1794/'>1288 [French]</a>"
+xref: "<a href='/digital-beehive/num6/num_1795/'>1288 [French]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1539/'>french</a>"
 item: "#item-a2c7ebd98"

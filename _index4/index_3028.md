@@ -3,7 +3,7 @@ pid: index_3028
 volume: Volume 3
 image_number: '35'
 head: plagiary
-entry: "<a href='/digital-beehive/num3/num_0788/'>600 [Plagiarius]</a>"
+entry: "<a href='/digital-beehive/num3/num_0789/'>600 [Plagiarius]</a>"
 topic:
 first_letter: P
 page:

@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '8'
 head: anger
 entry: "<a href='/digital-beehive/alpha1/alpha_0030/'>a</a>|<a href='/digital-beehive/num3/num_0663/'>529
-  [Angry]</a>|<a href='/digital-beehive/num5/num_1512/'>1118 [Anger]</a>|<a href='/digital-beehive/num5/num_1621/'>1188
-  [Anger]</a>|<a href='/digital-beehive/num5/num_1634/'>1198 [Anger]</a>"
+  [Angry]</a>|<a href='/digital-beehive/num5/num_1513/'>1118 [Anger]</a>|<a href='/digital-beehive/num5/num_1622/'>1188
+  [Anger]</a>|<a href='/digital-beehive/num5/num_1635/'>1198 [Anger]</a>"
 topic:
 first_letter: A
 page:

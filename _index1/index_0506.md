@@ -3,7 +3,7 @@ pid: index_0506
 volume: Volume 3
 image_number: '11'
 head: Cain
-entry: "<a href='/digital-beehive/num7/num_2251/'>1520 [Cain]</a>"
+entry: "<a href='/digital-beehive/num7/num_2252/'>1520 [Cain]</a>"
 topic:
 first_letter: C
 page:

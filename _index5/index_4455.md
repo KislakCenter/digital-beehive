@@ -3,7 +3,7 @@ pid: index_4455
 volume: Volume 3
 image_number: '51'
 head: Wafers
-entry: "<a href='/digital-beehive/num7/num_2311/'>1551 [Wafers]</a>"
+entry: "<a href='/digital-beehive/num7/num_2312/'>1551 [Wafers]</a>"
 topic:
 first_letter: W
 page:

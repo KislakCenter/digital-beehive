@@ -3,7 +3,7 @@ pid: index_3484
 volume: Volume 3
 image_number: '40'
 head: saddle
-entry: "<a href='/digital-beehive/num4/num_1095/'>871 [a Saddle]</a>"
+entry: "<a href='/digital-beehive/num4/num_1096/'>871 [a Saddle]</a>"
 topic:
 first_letter: S
 page:

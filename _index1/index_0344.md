@@ -3,7 +3,7 @@ pid: index_0344
 volume: Volume 3
 image_number: '10'
 head: belching
-entry: "<a href='/digital-beehive/num5/num_1655/'>1211 [Belchings]</a>"
+entry: "<a href='/digital-beehive/num5/num_1656/'>1211 [Belchings]</a>"
 topic:
 first_letter: B
 page:

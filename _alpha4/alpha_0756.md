@@ -8,7 +8,7 @@ topic: Propriety
 first_letter: P
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_2946/'>2012 [Propriety]</a>"
+xref: "<a href='/digital-beehive/num9/num_2947/'>2012 [Propriety]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3202/'>propriety</a>"
 item: "#item-c9b87ff69"

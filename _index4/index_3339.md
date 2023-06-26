@@ -3,9 +3,9 @@ pid: index_3339
 volume: Volume 3
 image_number: '39'
 head: regeneration
-entry: "<a href='/digital-beehive/alpha4/alpha_0790/'>a</a>|<a href='/digital-beehive/num5/num_1371/'>1026
-  [Regeneration]</a>|<a href='/digital-beehive/num9/num_2947/'>2013 [Regeneration]</a>|<a
-  href='/digital-beehive/num10/num_3256/'>2293 [Regeneration : New birth]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0790/'>a</a>|<a href='/digital-beehive/num5/num_1372/'>1026
+  [Regeneration]</a>|<a href='/digital-beehive/num9/num_2948/'>2013 [Regeneration]</a>|<a
+  href='/digital-beehive/num10/num_3257/'>2293 [Regeneration : New birth]</a>"
 topic:
 first_letter: R
 page:

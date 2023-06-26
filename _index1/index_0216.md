@@ -3,7 +3,7 @@ pid: index_0216
 volume: Volume 3
 image_number: '8'
 head: arts & artificial
-entry: "<a href='/digital-beehive/num1/num_0177/'>169 [Art]</a>|<a href='/digital-beehive/num7/num_2523/'>1651
+entry: "<a href='/digital-beehive/num1/num_0177/'>169 [Art]</a>|<a href='/digital-beehive/num7/num_2524/'>1651
   [Arts and Sciences]</a>"
 topic:
 first_letter: A

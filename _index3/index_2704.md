@@ -3,7 +3,7 @@ pid: index_2704
 volume: Volume 3
 image_number: '32'
 head: niceness
-entry: "<a href='/digital-beehive/num6/num_1912/'>1352 [Niceness]</a>"
+entry: "<a href='/digital-beehive/num6/num_1913/'>1352 [Niceness]</a>"
 topic:
 first_letter: N
 page:

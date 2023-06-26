@@ -3,7 +3,7 @@ pid: index_0681
 volume: Volume 3
 image_number: '13'
 head: claim
-entry: "<a href='/digital-beehive/num6/num_1988/'>1389 [of Courting women]</a>"
+entry: "<a href='/digital-beehive/num6/num_1989/'>1389 [of Courting women]</a>"
 topic:
 first_letter: C
 page:

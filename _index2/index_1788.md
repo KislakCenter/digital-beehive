@@ -3,7 +3,7 @@ pid: index_1788
 volume: Volume 3
 image_number: '23'
 head: hebrew
-entry: "<a href='/digital-beehive/num4/num_1315/'>986 [Hebrew]</a>|1858 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num4/num_1316/'>986 [Hebrew]</a>|1858 [PAGE_MISSING]"
 topic:
 first_letter: H
 page:

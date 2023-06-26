@@ -9,7 +9,7 @@ first_letter: I/J
 page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0640/'>Negligence</a>|<a href='/digital-beehive/alpha3/alpha_0526/'>Laziness</a>|<a
-  href='/digital-beehive/num4/num_1260/'>943 [Idleness]</a>"
+  href='/digital-beehive/num4/num_1261/'>943 [Idleness]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1931/'>idleness</a>"
 item: "#item-7017cd5b4"

@@ -3,7 +3,7 @@ pid: index_1939
 volume: Volume 3
 image_number: '25'
 head: jester
-entry: "<a href='/digital-beehive/num6/num_2093/'>1436 [Buffoons : Obscenity]</a>"
+entry: "<a href='/digital-beehive/num6/num_2094/'>1436 [Buffoons : Obscenity]</a>"
 topic:
 first_letter: I/J
 page:

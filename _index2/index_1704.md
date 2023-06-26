@@ -3,7 +3,7 @@ pid: index_1704
 volume: Volume 3
 image_number: '23'
 head: grazing
-entry: "<a href='/digital-beehive/num8/num_2919/'>1988 [Grazing]</a>"
+entry: "<a href='/digital-beehive/num8/num_2920/'>1988 [Grazing]</a>"
 topic:
 first_letter: G
 page:

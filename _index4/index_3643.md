@@ -3,7 +3,7 @@ pid: index_3643
 volume: Volume 3
 image_number: '42'
 head: sermon
-entry: "<a href='/digital-beehive/num6/num_2031/'>1409 [a Sermon]</a>|<a href='/digital-beehive/num10/num_3462/'>4475
+entry: "<a href='/digital-beehive/num6/num_2032/'>1409 [a Sermon]</a>|<a href='/digital-beehive/num10/num_3463/'>4475
   [Sermon]</a>"
 topic:
 first_letter: S

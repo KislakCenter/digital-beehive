@@ -3,7 +3,7 @@ pid: index_0116
 volume: Volume 3
 image_number: '7'
 head: Duke of Alva
-entry: "<a href='/digital-beehive/num5/num_1686/'>1227 [Duke of Alva]</a>"
+entry: "<a href='/digital-beehive/num5/num_1687/'>1227 [Duke of Alva]</a>"
 topic:
 first_letter: A
 page:

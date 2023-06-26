@@ -8,7 +8,7 @@ topic: Prophet
 first_letter: P
 page:
 add:
-xref: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num4/num_1332/'>1000
+xref: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num4/num_1333/'>1000
   [Prophets]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3198/'>prophets</a>"

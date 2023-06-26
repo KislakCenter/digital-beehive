@@ -3,7 +3,7 @@ pid: index_0627
 volume: Volume 3
 image_number: '12'
 head: chiding
-entry: "<a href='/digital-beehive/num3/num_0954/'>680 [to Chide]</a>"
+entry: "<a href='/digital-beehive/num3/num_0955/'>680 [to Chide]</a>"
 topic:
 first_letter: C
 page:

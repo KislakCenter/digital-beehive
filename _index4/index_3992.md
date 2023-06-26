@@ -3,7 +3,7 @@ pid: index_3992
 volume: Volume 3
 image_number: '46'
 head: supply
-entry: "<a href='/digital-beehive/num3/num_0946/'>677 [Supplying]</a>"
+entry: "<a href='/digital-beehive/num3/num_0947/'>677 [Supplying]</a>"
 topic:
 first_letter: S
 page:

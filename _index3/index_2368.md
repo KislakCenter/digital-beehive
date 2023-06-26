@@ -3,7 +3,7 @@ pid: index_2368
 volume: Volume 3
 image_number: '29'
 head: lust
-entry: "<a href='/digital-beehive/num6/num_2014/'>1402 [Lasciviousness]</a>"
+entry: "<a href='/digital-beehive/num6/num_2015/'>1402 [Lasciviousness]</a>"
 topic:
 first_letter: L
 page:

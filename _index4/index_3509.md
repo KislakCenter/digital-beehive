@@ -3,7 +3,7 @@ pid: index_3509
 volume: Volume 3
 image_number: '41'
 head: salvo honore
-entry: "<a href='/digital-beehive/num6/num_2102/'>1441 [With permission]</a>"
+entry: "<a href='/digital-beehive/num6/num_2103/'>1441 [With permission]</a>"
 topic:
 first_letter: S
 page:

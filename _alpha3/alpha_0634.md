@@ -8,7 +8,7 @@ topic: Natural
 first_letter: N
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0664/'>Old Adam</a>|<a href='/digital-beehive/num5/num_1464/'>1086
+xref: "<a href='/digital-beehive/alpha4/alpha_0664/'>Old Adam</a>|<a href='/digital-beehive/num5/num_1465/'>1086
   [Natural]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2651/'>natural</a>"

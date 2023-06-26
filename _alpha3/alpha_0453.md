@@ -8,7 +8,7 @@ topic: Jew
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0718/'>564 [Jews]</a>"
+xref: "<a href='/digital-beehive/num3/num_0719/'>564 [Jews]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1942/'>Jews</a>"
 item: "#item-1155bf4a8"

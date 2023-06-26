@@ -8,7 +8,7 @@ topic: Selfwilledness
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|<a href='/digital-beehive/num5/num_1340/'>1005
+xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|<a href='/digital-beehive/num5/num_1341/'>1005
   [Self will]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3629/'>Self will</a>"

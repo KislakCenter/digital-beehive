@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '49'
 head: various lections
 entry: "<a href='/digital-beehive/num2/num_0342/'>301 [Uncertainty of the h. Scripture]</a>|<a
-  href='/digital-beehive/num2/num_0295/'>263 [Dittology]</a>|<a href='/digital-beehive/num5/num_1366/'>1022
+  href='/digital-beehive/num2/num_0295/'>263 [Dittology]</a>|<a href='/digital-beehive/num5/num_1367/'>1022
   [Uncertainty of the Scriptures]</a>"
 topic:
 first_letter: U/V

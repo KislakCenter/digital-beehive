@@ -3,7 +3,7 @@ pid: index_0099
 volume: Volume 3
 image_number: '7'
 head: alliance
-entry: "<a href='/digital-beehive/alpha1/alpha_0020/'>a</a>|<a href='/digital-beehive/num6/num_1977/'>1384
+entry: "<a href='/digital-beehive/alpha1/alpha_0020/'>a</a>|<a href='/digital-beehive/num6/num_1978/'>1384
   [Alliance]</a>|4503 [PAGE_MISSING]"
 topic:
 first_letter: A

@@ -3,7 +3,7 @@ pid: index_2017
 volume: Volume 3
 image_number: '25'
 head: Indians
-entry: 768 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2259/'>1524 [Indians]</a>
+entry: 768 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2260/'>1524 [Indians]</a>
 topic:
 first_letter: I/J
 page:

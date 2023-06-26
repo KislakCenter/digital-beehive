@@ -3,9 +3,9 @@ pid: index_2178
 volume: Volume 3
 image_number: '27'
 head: knowledge of God
-entry: "<a href='/digital-beehive/num4/num_1286/'>965 [Knowledge]</a>|<a href='/digital-beehive/num7/num_2612/'>1695
-  [Knowledge]</a>|<a href='/digital-beehive/num9/num_3034/'>2098 [Knowledge]</a>|<a
-  href='/digital-beehive/num11/num_3533/'>4837 [Knowledge]</a>"
+entry: "<a href='/digital-beehive/num4/num_1287/'>965 [Knowledge]</a>|<a href='/digital-beehive/num7/num_2613/'>1695
+  [Knowledge]</a>|<a href='/digital-beehive/num9/num_3035/'>2098 [Knowledge]</a>|<a
+  href='/digital-beehive/num11/num_3534/'>4837 [Knowledge]</a>"
 topic:
 first_letter: K
 page:

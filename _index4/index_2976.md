@@ -3,7 +3,7 @@ pid: index_2976
 volume: Volume 3
 image_number: '35'
 head: petitio principij
-entry: "<a href='/digital-beehive/num7/num_2319/'>1556 [Petitio principij]</a>"
+entry: "<a href='/digital-beehive/num7/num_2320/'>1556 [Petitio principij]</a>"
 topic:
 first_letter: P
 page:

@@ -8,7 +8,7 @@ topic: Hotch potch
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_0993/'>Variety</a>|<a href='/digital-beehive/num5/num_1396/'>1043
+xref: "<a href='/digital-beehive/alpha5/alpha_0993/'>Variety</a>|<a href='/digital-beehive/num5/num_1397/'>1043
   [Hotch-potch]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1884/'>hotchpotch</a>"

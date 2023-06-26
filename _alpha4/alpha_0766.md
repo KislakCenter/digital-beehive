@@ -9,8 +9,8 @@ first_letter: P
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0139/'>Chastity</a>|<a href='/digital-beehive/alpha2/alpha_0427/'>Holiness</a>|<a
-  href='/digital-beehive/num3/num_0781/'>598 [Cleanliness]</a>|<a href='/digital-beehive/alpha5/alpha_1027/'>Washing</a>|<a
-  href='/digital-beehive/num4/num_1250/'>936 [Purity]</a>"
+  href='/digital-beehive/num3/num_0782/'>598 [Cleanliness]</a>|<a href='/digital-beehive/alpha5/alpha_1027/'>Washing</a>|<a
+  href='/digital-beehive/num4/num_1251/'>936 [Purity]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3235/'>purity</a>"
 item: "#item-1853bb2f8"

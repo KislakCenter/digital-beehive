@@ -3,7 +3,7 @@ pid: index_1902
 volume: Volume 3
 image_number: '24'
 head: 4 humours
-entry: "<a href='/digital-beehive/num9/num_3040/'>2104 [the 4 humours]</a>"
+entry: "<a href='/digital-beehive/num9/num_3041/'>2104 [the 4 humours]</a>"
 topic:
 first_letter: H
 page:

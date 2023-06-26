@@ -3,8 +3,8 @@ pid: index_1307
 volume: Volume 3
 image_number: '19'
 head: "&c"
-entry: "<a href='/digital-beehive/num2/num_0453/'>374 [Brevity]</a>|<a href='/digital-beehive/num4/num_1243/'>932
-  [Brevity]</a>|<a href='/digital-beehive/num7/num_2571/'>1674 [&c]</a>"
+entry: "<a href='/digital-beehive/num2/num_0453/'>374 [Brevity]</a>|<a href='/digital-beehive/num4/num_1244/'>932
+  [Brevity]</a>|<a href='/digital-beehive/num7/num_2572/'>1674 [&c]</a>"
 topic:
 first_letter: E
 page:

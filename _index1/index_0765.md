@@ -3,7 +3,7 @@ pid: index_0765
 volume: Volume 3
 image_number: '14'
 head: complices
-entry: "<a href='/digital-beehive/num10/num_3388/'>2415 [Partake not with the wicked]</a>"
+entry: "<a href='/digital-beehive/num10/num_3389/'>2415 [Partake not with the wicked]</a>"
 topic:
 first_letter: C
 page:

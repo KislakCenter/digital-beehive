@@ -8,7 +8,7 @@ topic: Old Testamt
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1227/'>926 [New Testament]</a>"
+xref: "<a href='/digital-beehive/num4/num_1228/'>926 [New Testament]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4098/'>testament old</a>"
 item: "#item-d12a4cca7"

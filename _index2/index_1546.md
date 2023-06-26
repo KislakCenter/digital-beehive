@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '21'
 head: friendship
 entry: "<a href='/digital-beehive/alpha2/alpha_0352/'>a</a>|<a href='/digital-beehive/num2/num_0532/'>429
-  [Friendship]</a>|<a href='/digital-beehive/num5/num_1597/'>1171 [Friendship]</a>|<a
-  href='/digital-beehive/num7/num_2572/'>1674 [Friendship]</a>|<a href='/digital-beehive/num11/num_3507/'>4813
+  [Friendship]</a>|<a href='/digital-beehive/num5/num_1598/'>1171 [Friendship]</a>|<a
+  href='/digital-beehive/num7/num_2573/'>1674 [Friendship]</a>|<a href='/digital-beehive/num11/num_3508/'>4813
   [Friendship]</a>"
 topic:
 first_letter: F

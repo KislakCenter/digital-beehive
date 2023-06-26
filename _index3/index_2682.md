@@ -3,7 +3,7 @@ pid: index_2682
 volume: Volume 3
 image_number: '32'
 head: Nemesis
-entry: "<a href='/digital-beehive/num6/num_1940/'>1366 [Justice]</a>"
+entry: "<a href='/digital-beehive/num6/num_1941/'>1366 [Justice]</a>"
 topic:
 first_letter: N
 page:

@@ -8,7 +8,7 @@ topic: Obligation
 first_letter: O
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2002/'>1396 [Obliga[ti]on]</a>"
+xref: "<a href='/digital-beehive/num6/num_2003/'>1396 [Obliga[ti]on]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_2757/'>obligation</a>"
 item: "#item-3f76e6e63"

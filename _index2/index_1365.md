@@ -3,7 +3,7 @@ pid: index_1365
 volume: Volume 3
 image_number: '19'
 head: extortion
-entry: "<a href='/digital-beehive/num7/num_2578/'>1677 [Fees]</a>"
+entry: "<a href='/digital-beehive/num7/num_2579/'>1677 [Fees]</a>"
 topic:
 first_letter: E
 page:

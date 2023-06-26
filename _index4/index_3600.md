@@ -3,7 +3,7 @@ pid: index_3600
 volume: Volume 3
 image_number: '41'
 head: Selandia
-entry: "<a href='/digital-beehive/num7/num_2362/'>1575 [Selandia]</a>"
+entry: "<a href='/digital-beehive/num7/num_2363/'>1575 [Selandia]</a>"
 topic:
 first_letter: S
 page:

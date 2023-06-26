@@ -3,7 +3,7 @@ pid: index_2199
 volume: Volume 3
 image_number: '27'
 head: lapidaria
-entry: "<a href='/digital-beehive/num6/num_2024/'>1406 [Lapidaria]</a>"
+entry: "<a href='/digital-beehive/num6/num_2025/'>1406 [Lapidaria]</a>"
 topic:
 first_letter: L
 page:

@@ -3,7 +3,7 @@ pid: index_1002
 volume: Volume 3
 image_number: '16'
 head: deliverance
-entry: "<a href='/digital-beehive/num4/num_1218/'>920 [Delivering]</a>"
+entry: "<a href='/digital-beehive/num4/num_1219/'>920 [Delivering]</a>"
 topic:
 first_letter: D
 page:

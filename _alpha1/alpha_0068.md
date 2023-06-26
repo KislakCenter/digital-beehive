@@ -8,7 +8,7 @@ topic: Beast
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0131/'>Cattel</a>|<a href='/digital-beehive/num5/num_1616/'>1185
+xref: "<a href='/digital-beehive/alpha1/alpha_0131/'>Cattel</a>|<a href='/digital-beehive/num5/num_1617/'>1185
   [Beasts]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0319/'>beast</a>"

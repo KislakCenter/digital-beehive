@@ -3,8 +3,8 @@ pid: index_4345
 volume: Volume 3
 image_number: '49'
 head: day of Visitn
-entry: "<a href='/digital-beehive/alpha5/alpha_1002/'>a</a>|<a href='/digital-beehive/num6/num_1771/'>1276
-  [Day of Visitation]</a>|<a href='/digital-beehive/num10/num_3374/'>2402 [Day of
+entry: "<a href='/digital-beehive/alpha5/alpha_1002/'>a</a>|<a href='/digital-beehive/num6/num_1772/'>1276
+  [Day of Visitation]</a>|<a href='/digital-beehive/num10/num_3375/'>2402 [Day of
   Visitation]</a>"
 topic:
 first_letter: U/V

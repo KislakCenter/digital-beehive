@@ -3,7 +3,7 @@ pid: index_1318
 volume: Volume 3
 image_number: '19'
 head: everywhere
-entry: "<a href='/digital-beehive/num4/num_1092/'>869 [Everywhere]</a>|4598 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num4/num_1093/'>869 [Everywhere]</a>|4598 [PAGE_MISSING]"
 topic:
 first_letter: E
 page:

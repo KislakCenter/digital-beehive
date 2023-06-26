@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '41'
 head: sect
 entry: "<a href='/digital-beehive/alpha4/alpha_0846/'>a</a>|<a href='/digital-beehive/num3/num_0635/'>505
-  [Sect]</a>|<a href='/digital-beehive/num6/num_1954/'>1373 [Sects]</a>|<a href='/digital-beehive/num10/num_3254/'>2291
+  [Sect]</a>|<a href='/digital-beehive/num6/num_1955/'>1373 [Sects]</a>|<a href='/digital-beehive/num10/num_3255/'>2291
   [Sect]</a>|4724 [PAGE_MISSING]"
 topic:
 first_letter: S

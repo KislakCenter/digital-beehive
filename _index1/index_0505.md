@@ -3,7 +3,7 @@ pid: index_0505
 volume: Volume 3
 image_number: '11'
 head: cacao
-entry: "<a href='/digital-beehive/num7/num_2274/'>1530 [Cacao]</a>"
+entry: "<a href='/digital-beehive/num7/num_2275/'>1530 [Cacao]</a>"
 topic:
 first_letter: C
 page:

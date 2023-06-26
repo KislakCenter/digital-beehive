@@ -3,7 +3,7 @@ pid: index_3143
 volume: Volume 3
 image_number: '37'
 head: pretention
-entry: "<a href='/digital-beehive/num6/num_1989/'>1389 [Pretension]</a>"
+entry: "<a href='/digital-beehive/num6/num_1990/'>1389 [Pretension]</a>"
 topic:
 first_letter: P
 page:

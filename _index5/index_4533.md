@@ -3,7 +3,7 @@ pid: index_4533
 volume: Volume 3
 image_number: '52'
 head: whigs
-entry: "<a href='/digital-beehive/num8/num_2733/'>1800 [Whigs]</a>"
+entry: "<a href='/digital-beehive/num8/num_2734/'>1800 [Whigs]</a>"
 topic:
 first_letter: W
 page:

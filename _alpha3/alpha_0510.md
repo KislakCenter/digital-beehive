@@ -8,7 +8,7 @@ topic: Lame
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0570/'>Maimed</a>|<a href='/digital-beehive/num9/num_3079/'>2140
+xref: "<a href='/digital-beehive/alpha3/alpha_0570/'>Maimed</a>|<a href='/digital-beehive/num9/num_3080/'>2140
   [Lame]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2189/'>lame</a>"

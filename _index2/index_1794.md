@@ -3,7 +3,7 @@ pid: index_1794
 volume: Volume 3
 image_number: '23'
 head: Xts. descension into hell
-entry: "<a href='/digital-beehive/num6/num_1869/'>1330 [Apostle's Creed]</a>"
+entry: 1330 [Apostle's Creed]
 topic:
 first_letter: H
 page:

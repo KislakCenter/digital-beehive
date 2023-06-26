@@ -3,7 +3,7 @@ pid: index_1941
 volume: Volume 3
 image_number: '25'
 head: Jesuite
-entry: "<a href='/digital-beehive/alpha3/alpha_0451/'>a</a>|<a href='/digital-beehive/num6/num_1802/'>1292
+entry: "<a href='/digital-beehive/alpha3/alpha_0451/'>a</a>|<a href='/digital-beehive/num6/num_1803/'>1292
   [Jesuites]</a>"
 topic:
 first_letter: I/J

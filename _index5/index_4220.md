@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '48'
 head: transsubstantia[ti]on
 entry: "<a href='/digital-beehive/num2/num_0512/'>414 [Transsubstantiation]</a>|<a
-  href='/digital-beehive/num8/num_2907/'>1977 [Transsubstantiation]</a>"
+  href='/digital-beehive/num8/num_2908/'>1977 [Transsubstantiation]</a>"
 topic:
 first_letter: T
 page:

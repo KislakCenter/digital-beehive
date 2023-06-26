@@ -3,7 +3,7 @@ pid: index_1041
 volume: Volume 3
 image_number: '16'
 head: diamant
-entry: "<a href='/digital-beehive/num7/num_2495/'>1639 [Adamas]</a>"
+entry: "<a href='/digital-beehive/num7/num_2496/'>1639 [Adamas]</a>"
 topic:
 first_letter: D
 page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"

@@ -3,7 +3,7 @@ pid: index_3237
 volume: Volume 3
 image_number: '38'
 head: purpose
-entry: "<a href='/digital-beehive/alpha4/alpha_0767/'>a</a>|<a href='/digital-beehive/num9/num_2935/'>2001
+entry: "<a href='/digital-beehive/alpha4/alpha_0767/'>a</a>|<a href='/digital-beehive/num9/num_2936/'>2001
   [Purposes]</a>"
 topic:
 first_letter: P

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '8'
 head: ape
 entry: "<a href='/digital-beehive/alpha1/alpha_0036/'>a</a>|802 [PAGE_MISSING]|<a
-  href='/digital-beehive/num7/num_2472/'>1630 [Apes]</a>"
+  href='/digital-beehive/num7/num_2473/'>1630 [Apes]</a>"
 topic:
 first_letter: A
 page:

@@ -8,7 +8,7 @@ topic: Grace of God
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0882/'>646 [Grace of God]</a>"
+xref: "<a href='/digital-beehive/num3/num_0883/'>646 [Grace of God]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1683/'>Grace of God</a>"
 item: "#item-f20619d2c"

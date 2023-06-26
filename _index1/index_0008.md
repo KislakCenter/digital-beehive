@@ -3,8 +3,8 @@ pid: index_0008
 volume: Volume 3
 image_number: '7'
 head: ability
-entry: "<a href='/digital-beehive/num2/num_0284/'>258 [Ability]</a>|<a href='/digital-beehive/num6/num_2069/'>1426
-  [Abilities]</a>|<a href='/digital-beehive/num10/num_3335/'>2363 [Able & unable]</a>"
+entry: "<a href='/digital-beehive/num2/num_0284/'>258 [Ability]</a>|<a href='/digital-beehive/num6/num_2070/'>1426
+  [Abilities]</a>|<a href='/digital-beehive/num10/num_3336/'>2363 [Able & unable]</a>"
 topic:
 first_letter: A
 page:

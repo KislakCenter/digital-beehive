@@ -8,7 +8,7 @@ topic: Fasting|Fasting days
 first_letter: F
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1110/'>876 [Fasting]</a>"
+xref: "<a href='/digital-beehive/num4/num_1111/'>876 [Fasting]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1410/'>fasting</a>"
 item: "#item-00a250c48"

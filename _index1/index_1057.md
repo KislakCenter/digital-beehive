@@ -3,7 +3,7 @@ pid: index_1057
 volume: Volume 3
 image_number: '16'
 head: Diogenes
-entry: "<a href='/digital-beehive/num5/num_1531/'>1128 [Diogenes]</a>"
+entry: "<a href='/digital-beehive/num5/num_1532/'>1128 [Diogenes]</a>"
 topic:
 first_letter: D
 page:

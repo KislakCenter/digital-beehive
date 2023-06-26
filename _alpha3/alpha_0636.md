@@ -9,7 +9,7 @@ first_letter: N
 page:
 add:
 xref: "[WORD_ILLEGIBLE]|<a href='/digital-beehive/alpha1/alpha_0206/'>Custom</a>|<a
-  href='/digital-beehive/num7/num_2547/'>1663 [Nature]</a>"
+  href='/digital-beehive/num7/num_2548/'>1663 [Nature]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2659/'>nature</a>"
 item: "#item-ced0ebdf8"

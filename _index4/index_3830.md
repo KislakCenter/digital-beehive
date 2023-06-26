@@ -3,8 +3,8 @@ pid: index_3830
 volume: Volume 3
 image_number: '44'
 head: speech
-entry: "<a href='/digital-beehive/alpha4/alpha_0905/'>a</a>|<a href='/digital-beehive/num5/num_1628/'>1194
-  [Speech]</a>|<a href='/digital-beehive/num7/num_2322/'>1557 [Speech]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0905/'>a</a>|<a href='/digital-beehive/num5/num_1629/'>1194
+  [Speech]</a>|<a href='/digital-beehive/num7/num_2323/'>1557 [Speech]</a>"
 topic:
 first_letter: S
 page:

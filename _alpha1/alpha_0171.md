@@ -8,7 +8,7 @@ topic: Auricular Confession
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1257/'>940 [Auricular Confession]</a>"
+xref: "<a href='/digital-beehive/num4/num_1258/'>940 [Auricular Confession]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0785/'>confession auricular</a>"
 item: "#item-b300239ec"

@@ -3,7 +3,7 @@ pid: index_3326
 volume: Volume 3
 image_number: '39'
 head: red
-entry: "<a href='/digital-beehive/alpha5/num_1893/'>a</a>|<a href='/digital-beehive/num6/num_1893/'>1343
+entry: "<a href='/digital-beehive/alpha5/num_1894/'>a</a>|<a href='/digital-beehive/num6/num_1894/'>1343
   [Red-(:hair:)face]</a>"
 topic:
 first_letter: R

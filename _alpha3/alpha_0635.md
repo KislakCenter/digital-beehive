@@ -8,7 +8,7 @@ topic: Natural Philosophy
 first_letter: N
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2295/'>1543 [Natural Philosophy]</a>"
+xref: "<a href='/digital-beehive/num7/num_2296/'>1543 [Natural Philosophy]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2655/'>natural philosophy</a>"
 item: "#item-6aa80fade"

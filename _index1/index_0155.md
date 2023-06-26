@@ -3,7 +3,7 @@ pid: index_0155
 volume: Volume 3
 image_number: '8'
 head: antego
-entry: "<a href='/digital-beehive/num7/num_2247/'>1518 [Antego]</a>"
+entry: "<a href='/digital-beehive/num7/num_2248/'>1518 [Antego]</a>"
 topic:
 first_letter: A
 page:

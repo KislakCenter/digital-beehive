@@ -3,7 +3,7 @@ pid: index_4593
 volume: Volume 3
 image_number: '53'
 head: woman's Courses
-entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2527/'>1653 [Menstrua]</a>
+entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2528/'>1653 [Menstrua]</a>
 topic:
 first_letter: W
 page:

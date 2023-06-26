@@ -3,7 +3,7 @@ pid: index_2424
 volume: Volume 3
 image_number: '29'
 head: margent
-entry: "<a href='/digital-beehive/num7/num_2304/'>1548 [Margent]</a>"
+entry: "<a href='/digital-beehive/num7/num_2305/'>1548 [Margent]</a>"
 topic:
 first_letter: M
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '26'
 head: innocence
 entry: "<a href='/digital-beehive/alpha3/alpha_0481/'>a</a>|761 [PAGE_MISSING]|<a
-  href='/digital-beehive/num9/num_3162/'>2219 [Innocence]</a>"
+  href='/digital-beehive/num9/num_3163/'>2219 [Innocence]</a>"
 topic:
 first_letter: I/J
 page:

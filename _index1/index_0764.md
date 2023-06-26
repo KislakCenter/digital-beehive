@@ -3,7 +3,7 @@ pid: index_0764
 volume: Volume 3
 image_number: '14'
 head: complexions
-entry: 1696 [WORD_ILLEGIBLE]|<a href='/digital-beehive/num6/num_2041/'>1414 [Seven
+entry: 1696 [WORD_ILLEGIBLE]|<a href='/digital-beehive/num6/num_2042/'>1414 [Seven
   Planets]</a>|1889 [PAGE_MISSING]
 topic:
 first_letter: C

@@ -9,7 +9,7 @@ first_letter: Y
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0220/'>defence</a>|<a href='/digital-beehive/alpha4/alpha_0801/'>resistance</a>|<a
-  href='/digital-beehive/num3/num_0904/'>657 [Yielding or Submission]</a>"
+  href='/digital-beehive/num3/num_0905/'>657 [Yielding or Submission]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4648/'>yielding</a>"
 item: "#item-7d8d7d646"

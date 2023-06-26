@@ -3,7 +3,7 @@ pid: index_2597
 volume: Volume 3
 image_number: '31'
 head: mother disease
-entry: "<a href='/digital-beehive/num8/num_2910/'>1980 [fits of the Mother]</a>"
+entry: "<a href='/digital-beehive/num8/num_2911/'>1980 [fits of the Mother]</a>"
 topic:
 first_letter: M
 page:

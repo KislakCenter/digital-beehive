@@ -3,7 +3,7 @@ pid: index_3497
 volume: Volume 3
 image_number: '40'
 head: for my sake
-entry: "<a href='/digital-beehive/num8/num_2760/'>1825 [Sake]</a>"
+entry: "<a href='/digital-beehive/num8/num_2761/'>1825 [Sake]</a>"
 topic:
 first_letter: S
 page:

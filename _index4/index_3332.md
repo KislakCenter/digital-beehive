@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '39'
 head: reformation
 entry: "<a href='/digital-beehive/alpha4/alpha_0787/'>a</a>|<a href='/digital-beehive/num2/num_0608/'>486
-  [Reformation]</a>|<a href='/digital-beehive/num7/num_2613/'>1695 [Reformation]</a>|<a
-  href='/digital-beehive/num8/num_2847/'>1934 [Reformation]</a>"
+  [Reformation]</a>|<a href='/digital-beehive/num7/num_2614/'>1695 [Reformation]</a>|<a
+  href='/digital-beehive/num8/num_2848/'>1934 [Reformation]</a>"
 topic:
 first_letter: R
 page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"

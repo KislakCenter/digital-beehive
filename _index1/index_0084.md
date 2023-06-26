@@ -3,7 +3,7 @@ pid: index_0084
 volume: Volume 3
 image_number: '7'
 head: alacrity
-entry: "<a href='/digital-beehive/num6/num_1838/'>1316 [Alacrity]</a>"
+entry: "<a href='/digital-beehive/num6/num_1839/'>1316 [Alacrity]</a>"
 topic:
 first_letter: A
 page:

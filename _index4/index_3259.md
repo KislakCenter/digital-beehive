@@ -3,7 +3,7 @@ pid: index_3259
 volume: Volume 3
 image_number: '38'
 head: quick
-entry: "<a href='/digital-beehive/alpha4/alpha_0772/'>a</a>|<a href='/digital-beehive/num11/num_3567/'>4872
+entry: "<a href='/digital-beehive/alpha4/alpha_0772/'>a</a>|<a href='/digital-beehive/num11/num_3568/'>4872
   [Quick]</a>"
 topic:
 first_letter: Q

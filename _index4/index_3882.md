@@ -3,7 +3,7 @@ pid: index_3882
 volume: Volume 3
 image_number: '45'
 head: state of the Case
-entry: "<a href='/digital-beehive/num7/num_2541/'>1660 [State of the Case]</a>"
+entry: "<a href='/digital-beehive/num7/num_2542/'>1660 [State of the Case]</a>"
 topic:
 first_letter: S
 page:

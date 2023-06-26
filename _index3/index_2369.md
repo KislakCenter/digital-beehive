@@ -3,7 +3,7 @@ pid: index_2369
 volume: Volume 3
 image_number: '29'
 head: lusty
-entry: "<a href='/digital-beehive/num4/num_1126/'>882 [Pleasure]</a>"
+entry: "<a href='/digital-beehive/num4/num_1127/'>882 [Pleasure]</a>"
 topic:
 first_letter: L
 page:

@@ -3,7 +3,7 @@ pid: index_4497
 volume: Volume 3
 image_number: '52'
 head: way broad & small
-entry: "<a href='/digital-beehive/alpha5/alpha_1032/'>a</a>|<a href='/digital-beehive/num11/num_3582/'>4887
+entry: "<a href='/digital-beehive/alpha5/alpha_1032/'>a</a>|<a href='/digital-beehive/num11/num_3583/'>4887
   [broad & small Way]</a>"
 topic:
 first_letter: W

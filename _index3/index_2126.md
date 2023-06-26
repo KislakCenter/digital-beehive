@@ -3,7 +3,7 @@ pid: index_2126
 volume: Volume 3
 image_number: '27'
 head: Italy
-entry: "<a href='/digital-beehive/alpha3/alpha_0494/'>a</a>|<a href='/digital-beehive/num6/num_1966/'>1379
+entry: "<a href='/digital-beehive/alpha3/alpha_0494/'>a</a>|<a href='/digital-beehive/num6/num_1967/'>1379
   [Italy]</a>"
 topic:
 first_letter: I/J

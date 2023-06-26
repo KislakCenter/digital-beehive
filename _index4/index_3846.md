@@ -3,8 +3,8 @@ pid: index_3846
 volume: Volume 3
 image_number: '44'
 head: spirit
-entry: "<a href='/digital-beehive/alpha4/alpha_0907/'>a</a>|<a href='/digital-beehive/num6/num_1890/'>1341
-  [Spirits]</a>|<a href='/digital-beehive/num7/num_2487/'>1636 [Spirits]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0907/'>a</a>|<a href='/digital-beehive/num6/num_1891/'>1341
+  [Spirits]</a>|<a href='/digital-beehive/num7/num_2488/'>1636 [Spirits]</a>"
 topic:
 first_letter: S
 page:

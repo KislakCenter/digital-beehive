@@ -8,7 +8,7 @@ topic: Sincerity
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0881/'>Simplicity</a>|<a href='/digital-beehive/num6/num_1839/'>1317
+xref: "<a href='/digital-beehive/alpha4/alpha_0881/'>Simplicity</a>|<a href='/digital-beehive/num6/num_1840/'>1317
   [Sincerity]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3724/'>sincerity</a>"

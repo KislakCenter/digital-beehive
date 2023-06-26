@@ -5,7 +5,7 @@ image_number: '20'
 head: Faith
 entry: "<a href='/digital-beehive/alpha2/alpha_0312/'>a</a>|<a href='/digital-beehive/num1/num_0137/'>132
   [Faith & Patience]</a>|<a href='/digital-beehive/num2/num_0485/'>397 [Faith]</a>|<a
-  href='/digital-beehive/num7/num_2608/'>1693 [Faith]</a>|<a href='/digital-beehive/num9/num_3066/'>2127
+  href='/digital-beehive/num7/num_2609/'>1693 [Faith]</a>|<a href='/digital-beehive/num9/num_3067/'>2127
   [Faith]</a>|<a href='/digital-beehive/num2/num_0559/'>449 [Implicite Faith]</a>"
 topic:
 first_letter: F

@@ -3,7 +3,7 @@ pid: index_0263
 volume: Volume 3
 image_number: '9'
 head: Bacchus
-entry: "<a href='/digital-beehive/num9/num_3023/'>2087 [Drunckenness]</a>"
+entry: "<a href='/digital-beehive/num9/num_3024/'>2087 [Drunckenness]</a>"
 topic:
 first_letter: B
 page:

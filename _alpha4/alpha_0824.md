@@ -9,7 +9,7 @@ first_letter: S
 page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0325/'>feast</a>|<a href='/digital-beehive/alpha4/alpha_0802/'>rest</a>|<a
-  href='/digital-beehive/alpha4/alpha_0932/'>Sunday</a>|<a href='/digital-beehive/num4/num_1239/'>930
+  href='/digital-beehive/alpha4/alpha_0932/'>Sunday</a>|<a href='/digital-beehive/num4/num_1240/'>930
   [Sabbath]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3476/'>Sabbath</a>"

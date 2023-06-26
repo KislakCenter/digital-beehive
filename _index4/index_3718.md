@@ -3,8 +3,8 @@ pid: index_3718
 volume: Volume 3
 image_number: '43'
 head: sin
-entry: "<a href='/digital-beehive/alpha4/alpha_0883/'>a</a>|<a href='/digital-beehive/num5/num_1439/'>1069
-  [Sin]</a>|<a href='/digital-beehive/num6/num_2030/'>1409 [Sin]</a>|<a href='/digital-beehive/num10/num_3367/'>2395
+entry: "<a href='/digital-beehive/alpha4/alpha_0883/'>a</a>|<a href='/digital-beehive/num5/num_1440/'>1069
+  [Sin]</a>|<a href='/digital-beehive/num6/num_2031/'>1409 [Sin]</a>|<a href='/digital-beehive/num10/num_3368/'>2395
   [Sin]</a>"
 topic:
 first_letter: S

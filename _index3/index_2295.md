@@ -3,7 +3,7 @@ pid: index_2295
 volume: Volume 3
 image_number: '28'
 head: lillies
-entry: "<a href='/digital-beehive/num5/num_1718/'>1244 [Lilly]</a>"
+entry: "<a href='/digital-beehive/num5/num_1719/'>1244 [Lilly]</a>"
 topic:
 first_letter: L
 page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"

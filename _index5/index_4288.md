@@ -3,7 +3,7 @@ pid: index_4288
 volume: Volume 3
 image_number: '49'
 head: vail
-entry: "<a href='/digital-beehive/num6/num_2116/'>1448 [Vail]</a>"
+entry: "<a href='/digital-beehive/num6/num_2117/'>1448 [Vail]</a>"
 topic:
 first_letter: U/V
 page:

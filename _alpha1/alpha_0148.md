@@ -8,7 +8,7 @@ topic: Christendom
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_2971/'>2037 [Nominal Christians]</a>"
+xref: "<a href='/digital-beehive/num9/num_2972/'>2037 [Nominal Christians]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0650/'>christendom</a>"
 item: "#item-0b0ff0fcd"

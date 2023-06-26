@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '27'
 head: judge of controversie
 entry: "<a href='/digital-beehive/num1/num_0075/'>74 [the Judge of religious Controversies]</a>|<a
-  href='/digital-beehive/num6/num_2017/'>1403 [Rule of faith & life]</a>"
+  href='/digital-beehive/num6/num_2018/'>1403 [Rule of faith & life]</a>"
 topic:
 first_letter: I/J
 page:

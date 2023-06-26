@@ -3,7 +3,7 @@ pid: index_3711
 volume: Volume 3
 image_number: '43'
 head: silver
-entry: "<a href='/digital-beehive/num4/num_1138/'>887 [Silver]</a>"
+entry: "<a href='/digital-beehive/num4/num_1139/'>887 [Silver]</a>"
 topic:
 first_letter: S
 page:

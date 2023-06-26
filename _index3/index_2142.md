@@ -3,7 +3,7 @@ pid: index_2142
 volume: Volume 3
 image_number: '27'
 head: justice
-entry: "<a href='/digital-beehive/alpha3/alpha_0499/'>a</a>|<a href='/digital-beehive/num6/num_1940/'>1366
+entry: "<a href='/digital-beehive/alpha3/alpha_0499/'>a</a>|<a href='/digital-beehive/num6/num_1941/'>1366
   [Justice]</a>"
 topic:
 first_letter: I/J

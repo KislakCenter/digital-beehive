@@ -3,7 +3,7 @@ pid: index_1894
 volume: Volume 3
 image_number: '24'
 head: how?
-entry: "<a href='/digital-beehive/num3/num_1040/'>712 [How?]</a>"
+entry: "<a href='/digital-beehive/num3/num_1041/'>712 [How?]</a>"
 topic:
 first_letter: H
 page:

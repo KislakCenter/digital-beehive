@@ -3,7 +3,7 @@ pid: index_3849
 volume: Volume 3
 image_number: '44'
 head: spiritual discerning
-entry: "<a href='/digital-beehive/num4/num_1319/'>989 [Spiritual Discerning]</a>"
+entry: "<a href='/digital-beehive/num4/num_1320/'>989 [Spiritual Discerning]</a>"
 topic:
 first_letter: S
 page:

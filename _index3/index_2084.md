@@ -3,7 +3,7 @@ pid: index_2084
 volume: Volume 3
 image_number: '26'
 head: intricate
-entry: "<a href='/digital-beehive/num6/num_1760/'>1269 [Entangle & disentangle]</a>"
+entry: "<a href='/digital-beehive/num6/num_1761/'>1269 [Entangle & disentangle]</a>"
 topic:
 first_letter: I/J
 page:

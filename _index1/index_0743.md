@@ -3,7 +3,7 @@ pid: index_0743
 volume: Volume 3
 image_number: '13'
 head: common goods
-entry: "<a href='/digital-beehive/alpha1/alpha_0162/'>a</a>|<a href='/digital-beehive/num5/num_1598/'>1172
+entry: "<a href='/digital-beehive/alpha1/alpha_0162/'>a</a>|<a href='/digital-beehive/num5/num_1599/'>1172
   [Community of Goods]</a>"
 topic:
 first_letter: C

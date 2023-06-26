@@ -3,7 +3,7 @@ pid: index_4575
 volume: Volume 3
 image_number: '53'
 head: witchcraft natural
-entry: "<a href='/digital-beehive/num7/num_2296/'>1543 [Fascination]</a>"
+entry: "<a href='/digital-beehive/num7/num_2297/'>1543 [Fascination]</a>"
 topic:
 first_letter: W
 page:

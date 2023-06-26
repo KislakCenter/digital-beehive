@@ -3,8 +3,8 @@ pid: index_2133
 volume: Volume 3
 image_number: '27'
 head: judge who can
-entry: "<a href='/digital-beehive/num2/num_0622/'>496 [Judge who can]</a>|<a href='/digital-beehive/num7/num_2331/'>1561
-  [Let heaven & earth Judge]</a>|<a href='/digital-beehive/num10/num_3320/'>2350 [Judge
+entry: "<a href='/digital-beehive/num2/num_0622/'>496 [Judge who can]</a>|<a href='/digital-beehive/num7/num_2332/'>1561
+  [Let heaven & earth Judge]</a>|<a href='/digital-beehive/num10/num_3321/'>2350 [Judge
   who can!]</a>"
 topic:
 first_letter: I/J

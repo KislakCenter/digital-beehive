@@ -3,7 +3,7 @@ pid: index_4332
 volume: Volume 3
 image_number: '49'
 head: vine
-entry: "<a href='/digital-beehive/alpha5/alpha_0998/'>a</a>|<a href='/digital-beehive/num8/num_2921/'>1990
+entry: "<a href='/digital-beehive/alpha5/alpha_0998/'>a</a>|<a href='/digital-beehive/num8/num_2922/'>1990
   [Vin[e]yards]</a>"
 topic:
 first_letter: U/V

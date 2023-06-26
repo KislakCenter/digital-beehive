@@ -3,7 +3,7 @@ pid: index_4650
 volume: Volume 3
 image_number: '53'
 head: the young of beasts
-entry: "<a href='/digital-beehive/num5/num_1428/'>1061 [Chickens]</a>"
+entry: "<a href='/digital-beehive/num5/num_1429/'>1061 [Chickens]</a>"
 topic:
 first_letter: Y
 page:

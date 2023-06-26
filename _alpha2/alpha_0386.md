@@ -8,7 +8,7 @@ topic: Gravity
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/num10/num_3319/'>2349 [Gravity]</a>"
+xref: "<a href='/digital-beehive/num10/num_3320/'>2349 [Gravity]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1702/'>gravity</a>"
 item: "#item-62b38a997"

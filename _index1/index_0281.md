@@ -3,7 +3,7 @@ pid: index_0281
 volume: Volume 3
 image_number: '9'
 head: balsam
-entry: "<a href='/digital-beehive/num9/num_3018/'>2083 [Balsam]</a>"
+entry: "<a href='/digital-beehive/num9/num_3019/'>2083 [Balsam]</a>"
 topic:
 first_letter: B
 page:

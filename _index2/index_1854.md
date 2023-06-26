@@ -3,8 +3,8 @@ pid: index_1854
 volume: Volume 3
 image_number: '24'
 head: holiness
-entry: "<a href='/digital-beehive/alpha2/alpha_0427/'>a</a>|<a href='/digital-beehive/num4/num_1321/'>990
-  [Holiness]</a>|<a href='/digital-beehive/num9/num_2959/'>2025 [Holiness]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0427/'>a</a>|<a href='/digital-beehive/num4/num_1322/'>990
+  [Holiness]</a>|<a href='/digital-beehive/num9/num_2960/'>2025 [Holiness]</a>"
 topic:
 first_letter: H
 page:

@@ -9,7 +9,7 @@ first_letter: Q
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0696/'>Peace</a>|<a href='/digital-beehive/alpha4/alpha_0802/'>Rest</a>|<a
-  href='/digital-beehive/num4/num_1304/'>976 [Quietness]</a>"
+  href='/digital-beehive/num4/num_1305/'>976 [Quietness]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3266/'>quietness</a>"
 item: "#item-dc5dca21d"

@@ -3,7 +3,7 @@ pid: index_3924
 volume: Volume 3
 image_number: '45'
 head: to strain a sinew
-entry: "<a href='/digital-beehive/num10/num_3235/'>2275 [Luxation]</a>"
+entry: "<a href='/digital-beehive/num10/num_3236/'>2275 [Luxation]</a>"
 topic:
 first_letter: S
 page:

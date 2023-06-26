@@ -3,9 +3,9 @@ pid: index_2993
 volume: Volume 3
 image_number: '35'
 head: physician
-entry: "<a href='/digital-beehive/alpha4/alpha_0709/'>a</a>|<a href='/digital-beehive/num6/num_1733/'>1251
-  [Physicians]</a>|<a href='/digital-beehive/num7/num_2483/'>1634 [Physician]</a>|<a
-  href='/digital-beehive/num9/num_3174/'>2229 [Physician]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0709/'>a</a>|<a href='/digital-beehive/num6/num_1734/'>1251
+  [Physicians]</a>|<a href='/digital-beehive/num7/num_2484/'>1634 [Physician]</a>|<a
+  href='/digital-beehive/num9/num_3175/'>2229 [Physician]</a>"
 topic:
 first_letter: P
 page:

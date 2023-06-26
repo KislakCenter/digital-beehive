@@ -3,7 +3,7 @@ pid: index_0094
 volume: Volume 3
 image_number: '7'
 head: aliens
-entry: "<a href='/digital-beehive/num5/num_1452/'>1076 [Stranger]</a>|4772 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num5/num_1453/'>1076 [Stranger]</a>|4772 [PAGE_MISSING]"
 topic:
 first_letter: A
 page:

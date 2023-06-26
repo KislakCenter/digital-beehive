@@ -3,7 +3,7 @@ pid: index_4238
 volume: Volume 3
 image_number: '48'
 head: tricks
-entry: "<a href='/digital-beehive/num5/num_1687/'>1228 [Craftiness]</a>"
+entry: "<a href='/digital-beehive/num5/num_1688/'>1228 [Craftiness]</a>"
 topic:
 first_letter: T
 page:

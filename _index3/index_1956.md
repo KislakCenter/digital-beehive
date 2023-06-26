@@ -3,7 +3,7 @@ pid: index_1956
 volume: Volume 3
 image_number: '25'
 head: images
-entry: "<a href='/digital-beehive/alpha3/alpha_0458/'>a</a>|<a href='/digital-beehive/num4/num_1273/'>955
+entry: "<a href='/digital-beehive/alpha3/alpha_0458/'>a</a>|<a href='/digital-beehive/num4/num_1274/'>955
   [Images]</a>|4632 [PAGE_MISSING]"
 topic:
 first_letter: I/J

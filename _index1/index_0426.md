@@ -3,7 +3,7 @@ pid: index_0426
 volume: Volume 3
 image_number: '10'
 head: to bow
-entry: "<a href='/digital-beehive/num6/num_2174/'>1475 [To Bow]</a>"
+entry: "<a href='/digital-beehive/num6/num_2175/'>1475 [To Bow]</a>"
 topic:
 first_letter: B
 page:

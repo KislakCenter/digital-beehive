@@ -3,7 +3,7 @@ pid: index_1602
 volume: Volume 3
 image_number: '22'
 head: by gess
-entry: "<a href='/digital-beehive/num1/num_0130/'>125 [Conjectures]</a>|<a href='/digital-beehive/num4/num_1242/'>932
+entry: "<a href='/digital-beehive/num1/num_0130/'>125 [Conjectures]</a>|<a href='/digital-beehive/num4/num_1243/'>932
   [Conjecture]</a>"
 topic:
 first_letter: G

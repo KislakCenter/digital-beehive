@@ -3,7 +3,7 @@ pid: index_3494
 volume: Volume 3
 image_number: '40'
 head: to sail
-entry: "<a href='/digital-beehive/num10/num_3219/'>2266 [To Sail]</a>"
+entry: "<a href='/digital-beehive/num10/num_3220/'>2266 [To Sail]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"

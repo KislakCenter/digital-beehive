@@ -3,7 +3,7 @@ pid: index_3788
 volume: Volume 3
 image_number: '43'
 head: solstice
-entry: "<a href='/digital-beehive/num6/num_1778/'>1280 [Summer]</a>"
+entry: "<a href='/digital-beehive/num6/num_1779/'>1280 [Summer]</a>"
 topic:
 first_letter: S
 page:

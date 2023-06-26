@@ -3,7 +3,7 @@ pid: index_1386
 volume: Volume 3
 image_number: '20'
 head: faithlessness
-entry: "<a href='/digital-beehive/num3/num_0727/'>570 [Faithless]</a>"
+entry: "<a href='/digital-beehive/num3/num_0728/'>570 [Faithless]</a>"
 topic:
 first_letter: F
 page:

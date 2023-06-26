@@ -3,7 +3,7 @@ pid: index_2507
 volume: Volume 3
 image_number: '30'
 head: Mevis
-entry: "<a href='/digital-beehive/num7/num_2248/'>1519 [Mevis or Nevis]</a>"
+entry: "<a href='/digital-beehive/num7/num_2249/'>1519 [Mevis or Nevis]</a>"
 topic:
 first_letter: M
 page:

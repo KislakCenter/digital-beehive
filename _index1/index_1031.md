@@ -3,7 +3,7 @@ pid: index_1031
 volume: Volume 3
 image_number: '16'
 head: detriment
-entry: "<a href='/digital-beehive/num3/num_0759/'>587 [Decrement]</a>"
+entry: "<a href='/digital-beehive/num3/num_0760/'>587 [Decrement]</a>"
 topic:
 first_letter: D
 page:

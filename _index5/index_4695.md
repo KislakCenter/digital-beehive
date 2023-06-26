@@ -3,7 +3,7 @@ pid: index_4695
 volume: Volume 3
 image_number: '54'
 head: "·ºÄŒΩŒ¥œÅœâœÄŒøœÄŒ±Œ¥·ø∂œÇ"
-entry: "<a href='/digital-beehive/num3/num_1077/'>725 [Catachresis]</a>"
+entry: "<a href='/digital-beehive/num3/num_1078/'>725 [Catachresis]</a>"
 topic:
 first_letter: insertion
 page:

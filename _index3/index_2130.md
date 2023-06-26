@@ -3,7 +3,7 @@ pid: index_2130
 volume: Volume 3
 image_number: '27'
 head: Judith
-entry: "<a href='/digital-beehive/num11/num_3555/'>4860 [Judith]</a>"
+entry: "<a href='/digital-beehive/num11/num_3556/'>4860 [Judith]</a>"
 topic:
 first_letter: I/J
 page:

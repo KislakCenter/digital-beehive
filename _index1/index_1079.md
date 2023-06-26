@@ -3,7 +3,7 @@ pid: index_1079
 volume: Volume 3
 image_number: '17'
 head: dish clout
-entry: "<a href='/digital-beehive/num3/num_0815/'>612 [Shoe Clout]</a>"
+entry: "<a href='/digital-beehive/num3/num_0816/'>612 [Shoe Clout]</a>"
 topic:
 first_letter: D
 page:

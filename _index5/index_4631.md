@@ -3,7 +3,7 @@ pid: index_4631
 volume: Volume 3
 image_number: '53'
 head: wrestling
-entry: "<a href='/digital-beehive/num3/num_1066/'>721 [Wrastling]</a>"
+entry: "<a href='/digital-beehive/num3/num_1067/'>721 [Wrastling]</a>"
 topic:
 first_letter: W
 page:

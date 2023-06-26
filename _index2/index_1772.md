@@ -3,7 +3,7 @@ pid: index_1772
 volume: Volume 3
 image_number: '23'
 head: hawk
-entry: "<a href='/digital-beehive/num6/num_1911/'>1351 [a Kite : a Hawk]</a>"
+entry: "<a href='/digital-beehive/num6/num_1912/'>1351 [a Kite : a Hawk]</a>"
 topic:
 first_letter: H
 page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '39'
 head: revenge
 entry: "<a href='/digital-beehive/alpha4/alpha_0808/'>a</a>|<a href='/digital-beehive/num3/num_0634/'>504
-  [Revenge]</a>|<a href='/digital-beehive/num6/num_1783/'>1282 [Revenge]</a>|<a href='/digital-beehive/num9/num_3191/'>2246
+  [Revenge]</a>|<a href='/digital-beehive/num6/num_1784/'>1282 [Revenge]</a>|<a href='/digital-beehive/num9/num_3192/'>2246
   [Revenge]</a>"
 topic:
 first_letter: R

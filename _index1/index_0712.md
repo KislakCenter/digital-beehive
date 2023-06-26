@@ -3,7 +3,7 @@ pid: index_0712
 volume: Volume 3
 image_number: '13'
 head: cock
-entry: "<a href='/digital-beehive/num3/num_1070/'>723 [a Cock]</a>|<a href='/digital-beehive/num8/num_2696/'>1765
+entry: "<a href='/digital-beehive/num3/num_1071/'>723 [a Cock]</a>|<a href='/digital-beehive/num8/num_2697/'>1765
   [Cock]</a>"
 topic:
 first_letter: C

@@ -8,7 +8,7 @@ topic: Antipodes
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2197/'>1489 [Antipodes]</a>"
+xref: "<a href='/digital-beehive/num6/num_2198/'>1489 [Antipodes]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0161/'>antipodes</a>"
 item: "#item-0690c7a55"

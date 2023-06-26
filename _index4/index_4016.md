@@ -3,7 +3,7 @@ pid: index_4016
 volume: Volume 3
 image_number: '46'
 head: to swap
-entry: "<a href='/digital-beehive/num3/num_1049/'>715 [To Swap]</a>"
+entry: "<a href='/digital-beehive/num3/num_1050/'>715 [To Swap]</a>"
 topic:
 first_letter: S
 page:

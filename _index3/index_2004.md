@@ -3,7 +3,7 @@ pid: index_2004
 volume: Volume 3
 image_number: '25'
 head: inconstant
-entry: "<a href='/digital-beehive/num4/num_1093/'>870 [Inconstancy]</a>|<a href='/digital-beehive/num7/num_2460/'>1624
+entry: "<a href='/digital-beehive/num4/num_1094/'>870 [Inconstancy]</a>|<a href='/digital-beehive/num7/num_2461/'>1624
   [Inconstant]</a>|4573 [PAGE_MISSING]"
 topic:
 first_letter: I/J

@@ -3,7 +3,7 @@ pid: index_1225
 volume: Volume 3
 image_number: '18'
 head: elixir
-entry: "<a href='/digital-beehive/num7/num_2400/'>1596 [Quintessence]</a>"
+entry: "<a href='/digital-beehive/num7/num_2401/'>1596 [Quintessence]</a>"
 topic:
 first_letter: E
 page:

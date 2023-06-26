@@ -3,7 +3,7 @@ pid: index_0199
 volume: Volume 3
 image_number: '8'
 head: argument ad hominem
-entry: "<a href='/digital-beehive/num9/num_3126/'>2183 [Argumentum ad hominem]</a>"
+entry: "<a href='/digital-beehive/num9/num_3127/'>2183 [Argumentum ad hominem]</a>"
 topic:
 first_letter: A
 page:

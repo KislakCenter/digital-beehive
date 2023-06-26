@@ -3,7 +3,7 @@ pid: index_0271
 volume: Volume 3
 image_number: '9'
 head: badge or livery
-entry: "<a href='/digital-beehive/num10/num_3446/'>4464 [Livery or Badge]</a>"
+entry: "<a href='/digital-beehive/num10/num_3447/'>4464 [Livery or Badge]</a>"
 topic:
 first_letter: B
 page:

@@ -3,7 +3,7 @@ pid: index_0287
 volume: Volume 3
 image_number: '9'
 head: banquetting stuff
-entry: "<a href='/digital-beehive/alpha1/alpha_0058/'>a</a>|<a href='/digital-beehive/num3/num_1000/'>696
+entry: "<a href='/digital-beehive/alpha1/alpha_0058/'>a</a>|<a href='/digital-beehive/num3/num_1001/'>696
   [Dainty meats]</a>"
 topic:
 first_letter: B

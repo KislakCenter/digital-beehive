@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '53'
 head: woman's imperiousness
 entry: "<a href='/digital-beehive/alpha5/alpha_1051/'>a</a>|<a href='/digital-beehive/num1/num_0201/'>192
-  [Dames governmt]</a>|<a href='/digital-beehive/num7/num_2663/'>1737 [Womans Imperiousness]</a>|<a
-  href='/digital-beehive/num11/num_3515/'>4820 [Bad & imperious Women]</a>"
+  [Dames governmt]</a>|<a href='/digital-beehive/num7/num_2664/'>1737 [Womans Imperiousness]</a>|<a
+  href='/digital-beehive/num11/num_3516/'>4820 [Bad & imperious Women]</a>"
 topic:
 first_letter: W
 page:

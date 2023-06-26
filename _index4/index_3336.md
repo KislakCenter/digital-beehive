@@ -3,8 +3,8 @@ pid: index_3336
 volume: Volume 3
 image_number: '39'
 head: refutation
-entry: "<a href='/digital-beehive/num1/num_0260/'>242 [Refutation]</a>|<a href='/digital-beehive/num6/num_1788/'>1285
-  [Refutation]</a>|<a href='/digital-beehive/num8/num_2739/'>1806 [Refutation]</a>|4780
+entry: "<a href='/digital-beehive/num1/num_0260/'>242 [Refutation]</a>|<a href='/digital-beehive/num6/num_1789/'>1285
+  [Refutation]</a>|<a href='/digital-beehive/num8/num_2740/'>1806 [Refutation]</a>|4780
   [[PAGE_MISSING]]"
 topic:
 first_letter: R

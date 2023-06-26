@@ -9,7 +9,7 @@ first_letter: U/V
 page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0507/'>Knowledge</a>|<a href='/digital-beehive/alpha3/alpha_0530/'>Learning</a>|<a
-  href='/digital-beehive/num7/num_2609/'>1693 [Understanding]</a>"
+  href='/digital-beehive/num7/num_2610/'>1693 [Understanding]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4371/'>understanding</a>"
 item: "#item-fc6d5a61c"

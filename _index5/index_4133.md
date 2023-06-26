@@ -3,8 +3,8 @@ pid: index_4133
 volume: Volume 3
 image_number: '47'
 head: threefold Cord of Satan
-entry: "<a href='/digital-beehive/num7/num_2596/'>1687 [the Devils threefold Snare]</a>|<a
-  href='/digital-beehive/num11/num_3574/'>4879 [Trinitus Idolatrica]</a>"
+entry: "<a href='/digital-beehive/num7/num_2597/'>1687 [the Devils threefold Snare]</a>|<a
+  href='/digital-beehive/num11/num_3575/'>4879 [Trinitus Idolatrica]</a>"
 topic:
 first_letter: T
 page:

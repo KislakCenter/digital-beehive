@@ -3,7 +3,7 @@ pid: index_1288
 volume: Volume 3
 image_number: '19'
 head: equipage
-entry: "<a href='/digital-beehive/num4/num_1080/'>866 [Train]</a>"
+entry: "<a href='/digital-beehive/num4/num_1081/'>866 [Train]</a>"
 topic:
 first_letter: E
 page:

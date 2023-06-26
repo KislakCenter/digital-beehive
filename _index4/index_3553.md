@@ -3,7 +3,7 @@ pid: index_3553
 volume: Volume 3
 image_number: '41'
 head: scolding words
-entry: "<a href='/digital-beehive/num3/num_0954/'>680 [to Chide]</a>|<a href='/digital-beehive/num7/num_2675/'>1747
+entry: "<a href='/digital-beehive/num3/num_0955/'>680 [to Chide]</a>|<a href='/digital-beehive/num7/num_2676/'>1747
   [Scurrilous Epithetes, Scheltwort]</a>"
 topic:
 first_letter: S

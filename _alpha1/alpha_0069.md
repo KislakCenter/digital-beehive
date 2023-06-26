@@ -8,7 +8,7 @@ topic: Beauty
 first_letter: B
 page:
 add:
-xref: "[WORD_MISSING]|<a href='/digital-beehive/num3/num_0823/'>616 [Beauty]</a>"
+xref: "[WORD_MISSING]|<a href='/digital-beehive/num3/num_0824/'>616 [Beauty]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0323/'>beauty</a>"
 item: "#item-74417d341"

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '16'
 head: dirt
 entry: "<a href='/digital-beehive/alpha1/alpha_0240/'>a</a>|<a href='/digital-beehive/num2/num_0361/'>314
-  [Dirt]</a>|<a href='/digital-beehive/num9/num_3100/'>2159 [Dirt]</a>"
+  [Dirt]</a>|<a href='/digital-beehive/num9/num_3101/'>2159 [Dirt]</a>"
 topic:
 first_letter: D
 page:

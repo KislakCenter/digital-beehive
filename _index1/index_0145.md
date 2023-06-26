@@ -3,7 +3,7 @@ pid: index_0145
 volume: Volume 3
 image_number: '8'
 head: anguilla
-entry: "<a href='/digital-beehive/num7/num_2241/'>1515 [Anguilla]</a>"
+entry: "<a href='/digital-beehive/num7/num_2242/'>1515 [Anguilla]</a>"
 topic:
 first_letter: A
 page:

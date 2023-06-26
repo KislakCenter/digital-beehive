@@ -3,7 +3,7 @@ pid: index_3668
 volume: Volume 3
 image_number: '42'
 head: to shell
-entry: "<a href='/digital-beehive/num3/num_0907/'>659 [to shale, decorticare, potior,
+entry: "<a href='/digital-beehive/num3/num_0908/'>659 [to shale, decorticare, potior,
   to shell]</a>"
 topic:
 first_letter: S

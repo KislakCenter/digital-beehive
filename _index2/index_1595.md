@@ -3,7 +3,7 @@ pid: index_1595
 volume: Volume 3
 image_number: '22'
 head: genius
-entry: "<a href='/digital-beehive/num11/num_3492/'>4799 [Genius]</a>"
+entry: "<a href='/digital-beehive/num11/num_3493/'>4799 [Genius]</a>"
 topic:
 first_letter: G
 page:

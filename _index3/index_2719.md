@@ -3,7 +3,7 @@ pid: index_2719
 volume: Volume 3
 image_number: '32'
 head: nobility
-entry: "<a href='/digital-beehive/alpha3/alpha_0646/'>a</a>|<a href='/digital-beehive/num5/num_1683/'>1226
+entry: "<a href='/digital-beehive/alpha3/alpha_0646/'>a</a>|<a href='/digital-beehive/num5/num_1684/'>1226
   [Nobility]</a>|4710 [PAGE_MISSING]"
 topic:
 first_letter: N

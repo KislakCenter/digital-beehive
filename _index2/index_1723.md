@@ -3,7 +3,7 @@ pid: index_1723
 volume: Volume 3
 image_number: '23'
 head: guardian angels
-entry: "<a href='/digital-beehive/num9/num_3139/'>2196 [Guardian Angels]</a>"
+entry: "<a href='/digital-beehive/num9/num_3140/'>2196 [Guardian Angels]</a>"
 topic:
 first_letter: G
 page:

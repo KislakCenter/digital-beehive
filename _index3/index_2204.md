@@ -3,7 +3,7 @@ pid: index_2204
 volume: Volume 3
 image_number: '27'
 head: last day
-entry: "<a href='/digital-beehive/alpha3/alpha_0514/'>a</a>|<a href='/digital-beehive/num4/num_1317/'>988
+entry: "<a href='/digital-beehive/alpha3/alpha_0514/'>a</a>|<a href='/digital-beehive/num4/num_1318/'>988
   [Last day of Judgmt]</a>"
 topic:
 first_letter: L

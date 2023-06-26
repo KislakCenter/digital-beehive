@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0966/'>tongue</a>|<a href='/digital-beehive/alpha3/alpha_0511/'>language</a>|<a
   href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/alpha1/alpha_0050/'>Babbling</a>|<a
   href='/digital-beehive/alpha4/alpha_0892/'>slow</a>|<a href='/digital-beehive/alpha5/alpha_0967/'>too
-  hasty</a>|<a href='/digital-beehive/alpha2/alpha_0283/'>Eloquence</a>|<a href='/digital-beehive/num5/num_1628/'>1194
+  hasty</a>|<a href='/digital-beehive/alpha2/alpha_0283/'>Eloquence</a>|<a href='/digital-beehive/num5/num_1629/'>1194
   [Speech]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3830/'>speech</a>"

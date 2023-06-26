@@ -3,7 +3,7 @@ pid: index_0694
 volume: Volume 3
 image_number: '13'
 head: clime
-entry: "<a href='/digital-beehive/num3/num_0890/'>649 [Country]</a>|<a href='/digital-beehive/num6/num_1892/'>1342
+entry: "<a href='/digital-beehive/num3/num_0891/'>649 [Country]</a>|<a href='/digital-beehive/num6/num_1893/'>1342
   [Climate]</a>"
 topic:
 first_letter: C

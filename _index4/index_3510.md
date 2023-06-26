@@ -3,7 +3,7 @@ pid: index_3510
 volume: Volume 3
 image_number: '41'
 head: Salutation
-entry: "<a href='/digital-beehive/num1/num_0079/'>78 [Salutations]</a>|<a href='/digital-beehive/num6/num_2196/'>1489
+entry: "<a href='/digital-beehive/num1/num_0079/'>78 [Salutations]</a>|<a href='/digital-beehive/num6/num_2197/'>1489
   [Salutation]</a>"
 topic:
 first_letter: S

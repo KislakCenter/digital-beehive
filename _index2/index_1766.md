@@ -3,7 +3,7 @@ pid: index_1766
 volume: Volume 3
 image_number: '23'
 head: hat off in prayer
-entry: "<a href='/digital-beehive/num3/num_0713/'>561 [Why we Pull off our Hats]</a>"
+entry: "<a href='/digital-beehive/num3/num_0714/'>561 [Why we Pull off our Hats]</a>"
 topic:
 first_letter: H
 page:

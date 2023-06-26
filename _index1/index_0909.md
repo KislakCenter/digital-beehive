@@ -3,7 +3,7 @@ pid: index_0909
 volume: Volume 3
 image_number: '15'
 head: criticism
-entry: "<a href='/digital-beehive/num7/num_2465/'>1627 [Criticism]</a>"
+entry: "<a href='/digital-beehive/num7/num_2466/'>1627 [Criticism]</a>"
 topic:
 first_letter: C
 page:

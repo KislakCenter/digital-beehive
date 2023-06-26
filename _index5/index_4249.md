@@ -3,7 +3,7 @@ pid: index_4249
 volume: Volume 3
 image_number: '48'
 head: troy
-entry: "<a href='/digital-beehive/num7/num_2632/'>1709 [Troy]</a>"
+entry: "<a href='/digital-beehive/num7/num_2633/'>1709 [Troy]</a>"
 topic:
 first_letter: T
 page:

@@ -3,7 +3,7 @@ pid: index_3433
 volume: Volume 3
 image_number: '40'
 head: ring leader
-entry: "<a href='/digital-beehive/alpha4/alpha_0815/'>a</a>|<a href='/digital-beehive/num9/num_3124/'>2181
+entry: "<a href='/digital-beehive/alpha4/alpha_0815/'>a</a>|<a href='/digital-beehive/num9/num_3125/'>2181
   [Ring-leader]</a>"
 topic:
 first_letter: R

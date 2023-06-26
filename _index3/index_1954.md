@@ -3,7 +3,7 @@ pid: index_1954
 volume: Volume 3
 image_number: '25'
 head: illumination
-entry: "<a href='/digital-beehive/alpha3/alpha_0457/'>a</a>|<a href='/digital-beehive/num5/num_1374/'>1027
+entry: "<a href='/digital-beehive/alpha3/alpha_0457/'>a</a>|<a href='/digital-beehive/num5/num_1375/'>1027
   [Illumination]</a>"
 topic:
 first_letter: I/J

@@ -3,7 +3,7 @@ pid: index_1152
 volume: Volume 3
 image_number: '17'
 head: drink artificial
-entry: "<a href='/digital-beehive/num3/num_0765/'>590 [artificial Wines]</a>"
+entry: "<a href='/digital-beehive/num3/num_0766/'>590 [artificial Wines]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_0403
 volume: Volume 3
 image_number: '10'
 head: womens bodies
-entry: "<a href='/digital-beehive/num6/num_1916/'>1353 [womens bodies]</a>"
+entry: "<a href='/digital-beehive/num6/num_1917/'>1353 [womens bodies]</a>"
 topic:
 first_letter: B
 page:

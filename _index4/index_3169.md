@@ -3,7 +3,7 @@ pid: index_3169
 volume: Volume 3
 image_number: '37'
 head: probability
-entry: "<a href='/digital-beehive/num1/num_0266/'>246 [Probability]</a>|<a href='/digital-beehive/num9/num_3149/'>2206
+entry: "<a href='/digital-beehive/num1/num_0266/'>246 [Probability]</a>|<a href='/digital-beehive/num9/num_3150/'>2206
   [Probability]</a>"
 topic:
 first_letter: P

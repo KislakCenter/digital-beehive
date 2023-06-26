@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '25'
 head: ill gotten
 entry: "<a href='/digital-beehive/num1/num_0006/'>6 [Unjust Substance]</a>|<a href='/digital-beehive/num2/num_0375/'>326
-  [Ill gotten goods & gains]</a>|<a href='/digital-beehive/num7/num_2651/'>1727 [Ill
+  [Ill gotten goods & gains]</a>|<a href='/digital-beehive/num7/num_2652/'>1727 [Ill
   gotten goods]</a>"
 topic:
 first_letter: I/J

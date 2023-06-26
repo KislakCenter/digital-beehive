@@ -3,7 +3,7 @@ pid: index_1730
 volume: Volume 3
 image_number: '23'
 head: guilty of other sins
-entry: "<a href='/digital-beehive/num10/num_3388/'>2415 [Partake not with the wicked]</a>"
+entry: "<a href='/digital-beehive/num10/num_3389/'>2415 [Partake not with the wicked]</a>"
 topic:
 first_letter: G
 page:

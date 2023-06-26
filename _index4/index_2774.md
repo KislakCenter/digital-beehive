@@ -3,7 +3,7 @@ pid: index_2774
 volume: Volume 3
 image_number: '33'
 head: office
-entry: "<a href='/digital-beehive/alpha4/alpha_0660/'>a</a>|<a href='/digital-beehive/num5/num_1695/'>1232
+entry: "<a href='/digital-beehive/alpha4/alpha_0660/'>a</a>|<a href='/digital-beehive/num5/num_1696/'>1232
   [Offices]</a>"
 topic:
 first_letter: O

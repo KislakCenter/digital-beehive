@@ -3,7 +3,7 @@ pid: index_3292
 volume: Volume 3
 image_number: '38'
 head: rarity
-entry: "<a href='/digital-beehive/alpha4/alpha_0777/'>a</a>|<a href='/digital-beehive/num6/num_2078/'>1429
+entry: "<a href='/digital-beehive/alpha4/alpha_0777/'>a</a>|<a href='/digital-beehive/num6/num_2079/'>1429
   [Rarity]</a>"
 topic:
 first_letter: R

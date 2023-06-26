@@ -3,8 +3,8 @@ pid: index_0082
 volume: Volume 3
 image_number: '7'
 head: agriculture
-entry: "<a href='/digital-beehive/alpha1/alpha_0016/'>a</a>|<a href='/digital-beehive/num5/num_1534/'>1130
-  [Agriculture]</a>|<a href='/digital-beehive/num11/num_3558/'>4863 [Agriculture &
+entry: "<a href='/digital-beehive/alpha1/alpha_0016/'>a</a>|<a href='/digital-beehive/num5/num_1535/'>1130
+  [Agriculture]</a>|<a href='/digital-beehive/num11/num_3559/'>4863 [Agriculture &
   Country life]</a>"
 topic:
 first_letter: A

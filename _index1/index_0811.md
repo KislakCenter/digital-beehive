@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '14'
 head: conspiracy
 entry: "<a href='/digital-beehive/num2/num_0487/'>398 [Fifth-monarchy men]</a>|<a
-  href='/digital-beehive/num7/num_2221/'>1505 [Conspiracy]</a>"
+  href='/digital-beehive/num7/num_2222/'>1505 [Conspiracy]</a>"
 topic:
 first_letter: C
 page:

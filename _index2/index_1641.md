@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '22'
 head: God within
 entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with - & in men]</a>|<a
-  href='/digital-beehive/num2/num_0299/'>267 [God is in us]</a>|<a href='/digital-beehive/num4/num_1253/'>937
+  href='/digital-beehive/num2/num_0299/'>267 [God is in us]</a>|<a href='/digital-beehive/num4/num_1254/'>937
   [Union with God]</a>"
 topic:
 first_letter: G

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '32'
 head: navigation
 entry: "<a href='/digital-beehive/alpha3/alpha_0638/'>a</a>|848 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_2083/'>1431 [Navigation]</a>|<a href='/digital-beehive/num9/num_2950/'>2016
+  href='/digital-beehive/num6/num_2084/'>1431 [Navigation]</a>|<a href='/digital-beehive/num9/num_2951/'>2016
   [Navigation]</a>"
 topic:
 first_letter: N

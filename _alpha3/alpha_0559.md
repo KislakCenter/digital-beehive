@@ -8,7 +8,7 @@ topic: Love of the brethren
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0105/'>Brother</a>|<a href='/digital-beehive/num6/num_1830/'>1309
+xref: "<a href='/digital-beehive/alpha1/alpha_0105/'>Brother</a>|<a href='/digital-beehive/num6/num_1831/'>1309
   [Love to God & the Brethren]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2342/'>love of ye brethren</a>"

@@ -3,7 +3,7 @@ pid: index_0447
 volume: Volume 3
 image_number: '11'
 head: breathing
-entry: "<a href='/digital-beehive/num3/num_0982/'>688 [Breathing with difficulty]</a>"
+entry: "<a href='/digital-beehive/num3/num_0983/'>688 [Breathing with difficulty]</a>"
 topic:
 first_letter: B
 page:

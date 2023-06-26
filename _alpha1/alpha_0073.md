@@ -8,7 +8,7 @@ topic: Begging
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>Alms</a>|<a href='/digital-beehive/num6/num_1877/'>1335
+xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>Alms</a>|<a href='/digital-beehive/num6/num_1878/'>1335
   [Begging]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0337/'>begging</a>"

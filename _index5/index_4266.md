@@ -3,7 +3,7 @@ pid: index_4266
 volume: Volume 3
 image_number: '49'
 head: turky
-entry: "<a href='/digital-beehive/num6/num_2020/'>1404 [Turky-cock]</a>"
+entry: "<a href='/digital-beehive/num6/num_2021/'>1404 [Turky-cock]</a>"
 topic:
 first_letter: T
 page:

@@ -3,7 +3,7 @@ pid: index_1578
 volume: Volume 3
 image_number: '21'
 head: galilee
-entry: "<a href='/digital-beehive/num11/num_3563/'>4868 [Galileans]</a>"
+entry: "<a href='/digital-beehive/num11/num_3564/'>4868 [Galileans]</a>"
 topic:
 first_letter: G
 page:

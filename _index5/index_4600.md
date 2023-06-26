@@ -3,7 +3,7 @@ pid: index_4600
 volume: Volume 3
 image_number: '53'
 head: wonder
-entry: "<a href='/digital-beehive/alpha5/alpha_1054/'>a</a>|<a href='/digital-beehive/num6/num_2061/'>1423
+entry: "<a href='/digital-beehive/alpha5/alpha_1054/'>a</a>|<a href='/digital-beehive/num6/num_2062/'>1423
   [Wonder]</a>"
 topic:
 first_letter: W

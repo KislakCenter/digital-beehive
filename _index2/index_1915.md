@@ -3,9 +3,9 @@ pid: index_1915
 volume: Volume 3
 image_number: '24'
 head: hypocrisy
-entry: "<a href='/digital-beehive/alpha2/alpha_0444/'>a</a>|<a href='/digital-beehive/num5/num_1489/'>1100
-  [Hypocrisy]</a>|<a href='/digital-beehive/num7/num_2306/'>1549 [Hypocrisy]</a>|<a
-  href='/digital-beehive/num8/num_2905/'>1975 [Hypocrisie]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0444/'>a</a>|<a href='/digital-beehive/num5/num_1490/'>1100
+  [Hypocrisy]</a>|<a href='/digital-beehive/num7/num_2307/'>1549 [Hypocrisy]</a>|<a
+  href='/digital-beehive/num8/num_2906/'>1975 [Hypocrisie]</a>"
 topic:
 first_letter: H
 page:

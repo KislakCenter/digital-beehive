@@ -3,7 +3,7 @@ pid: index_3775
 volume: Volume 3
 image_number: '43'
 head: Societies
-entry: "<a href='/digital-beehive/num7/num_2279/'>1532 [Societies for Reformation
+entry: "<a href='/digital-beehive/num7/num_2280/'>1532 [Societies for Reformation
   of Manners]</a>"
 topic:
 first_letter: S

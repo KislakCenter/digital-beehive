@@ -3,7 +3,7 @@ pid: index_4070
 volume: Volume 3
 image_number: '47'
 head: to teach
-entry: "<a href='/digital-beehive/num10/num_3416/'>2440 [To Teach]</a>"
+entry: "<a href='/digital-beehive/num10/num_3417/'>2440 [To Teach]</a>"
 topic:
 first_letter: T
 page:

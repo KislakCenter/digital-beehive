@@ -3,7 +3,7 @@ pid: index_0266
 volume: Volume 3
 image_number: '9'
 head: backsliding
-entry: "<a href='/digital-beehive/num7/num_2468/'>1628 [Relapses]</a>"
+entry: "<a href='/digital-beehive/num7/num_2469/'>1628 [Relapses]</a>"
 topic:
 first_letter: B
 page:

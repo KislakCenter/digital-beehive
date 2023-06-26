@@ -3,7 +3,7 @@ pid: index_3956
 volume: Volume 3
 image_number: '45'
 head: sub Rosa
-entry: "<a href='/digital-beehive/num6/num_1765/'>1272 [Secrecy]</a>"
+entry: "<a href='/digital-beehive/num6/num_1766/'>1272 [Secrecy]</a>"
 topic:
 first_letter: S
 page:

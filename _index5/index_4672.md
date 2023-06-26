@@ -3,7 +3,7 @@ pid: index_4672
 volume: Volume 3
 image_number: '54'
 head: Spouse, espousing
-entry: "<a href='/digital-beehive/num8/num_2773/'>1893 [Betrothing or Espousing]</a>"
+entry: "<a href='/digital-beehive/num8/num_2774/'>1893 [Betrothing or Espousing]</a>"
 topic:
 first_letter: insertion
 page:

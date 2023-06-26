@@ -3,7 +3,7 @@ pid: index_2316
 volume: Volume 3
 image_number: '28'
 head: loadstone
-entry: "<a href='/digital-beehive/num7/num_2441/'>1615 [Loadstone]</a>"
+entry: "<a href='/digital-beehive/num7/num_2442/'>1615 [Loadstone]</a>"
 topic:
 first_letter: L
 page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"

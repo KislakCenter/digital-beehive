@@ -3,7 +3,7 @@ pid: index_2586
 volume: Volume 3
 image_number: '31'
 head: mortality
-entry: "<a href='/digital-beehive/alpha3/alpha_0611/'>a</a>|<a href='/digital-beehive/num5/num_1449/'>1075
+entry: "<a href='/digital-beehive/alpha3/alpha_0611/'>a</a>|<a href='/digital-beehive/num5/num_1450/'>1075
   [Mortality]</a>"
 topic:
 first_letter: M

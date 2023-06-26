@@ -3,7 +3,7 @@ pid: index_4311
 volume: Volume 3
 image_number: '49'
 head: venom
-entry: "<a href='/digital-beehive/alpha5/alpha_0994/'>a</a>|<a href='/digital-beehive/num7/num_2292/'>1540
+entry: "<a href='/digital-beehive/alpha5/alpha_0994/'>a</a>|<a href='/digital-beehive/num7/num_2293/'>1540
   [Poisoning]</a>"
 topic:
 first_letter: U/V

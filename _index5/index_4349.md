@@ -3,7 +3,7 @@ pid: index_4349
 volume: Volume 3
 image_number: '50'
 head: ulcer
-entry: "<a href='/digital-beehive/num4/num_1210/'>916 [Sore]</a>|4550 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num4/num_1211/'>916 [Sore]</a>|4550 [PAGE_MISSING]"
 topic:
 first_letter: U/V
 page:

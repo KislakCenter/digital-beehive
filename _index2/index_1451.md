@@ -3,7 +3,7 @@ pid: index_1451
 volume: Volume 3
 image_number: '20'
 head: finlappers
-entry: "<a href='/digital-beehive/num6/num_1837/'>1316 [Laplanders]</a>"
+entry: "<a href='/digital-beehive/num6/num_1838/'>1316 [Laplanders]</a>"
 topic:
 first_letter: F
 page:

@@ -8,7 +8,7 @@ topic: Shoe
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2159/'>1469 [Shoe]</a>"
+xref: "<a href='/digital-beehive/num6/num_2160/'>1469 [Shoe]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3681/'>shoe</a>"
 item: "#item-b3b644c2c"

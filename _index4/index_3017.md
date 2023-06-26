@@ -3,7 +3,7 @@ pid: index_3017
 volume: Volume 3
 image_number: '35'
 head: pious frauds
-entry: "<a href='/digital-beehive/num8/num_2724/'>1791 [Holy Cheats]</a>"
+entry: "<a href='/digital-beehive/num8/num_2725/'>1791 [Holy Cheats]</a>"
 topic:
 first_letter: P
 page:

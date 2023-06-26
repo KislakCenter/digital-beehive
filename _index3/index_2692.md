@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '32'
 head: neutrality
 entry: "<a href='/digital-beehive/alpha3/alpha_0642/'>a</a>|<a href='/digital-beehive/num2/num_0421/'>357
-  [Neutrality]</a>|<a href='/digital-beehive/num10/num_3482/'>4495 [Neutrality]</a>"
+  [Neutrality]</a>|<a href='/digital-beehive/num10/num_3483/'>4495 [Neutrality]</a>"
 topic:
 first_letter: N
 page:

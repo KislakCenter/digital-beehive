@@ -3,7 +3,7 @@ pid: index_1617
 volume: Volume 3
 image_number: '22'
 head: Glaucha hospital
-entry: "<a href='/digital-beehive/num6/num_2042/'>1415 [Hospital]</a>"
+entry: "<a href='/digital-beehive/num6/num_2043/'>1415 [Hospital]</a>"
 topic:
 first_letter: G
 page:

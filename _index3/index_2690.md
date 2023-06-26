@@ -3,7 +3,7 @@ pid: index_2690
 volume: Volume 3
 image_number: '32'
 head: nevertheless
-entry: 857 [PAGE_MISSING]|<a href='/digital-beehive/num4/num_1296/'>973 [Not withstanding]</a>
+entry: 857 [PAGE_MISSING]|<a href='/digital-beehive/num4/num_1297/'>973 [Not withstanding]</a>
 topic:
 first_letter: N
 page:

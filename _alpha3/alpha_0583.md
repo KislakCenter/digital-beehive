@@ -8,7 +8,7 @@ topic: Medicine
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0709/'>Physicians</a>|<a href='/digital-beehive/num3/num_0922/'>665
+xref: "<a href='/digital-beehive/alpha4/alpha_0709/'>Physicians</a>|<a href='/digital-beehive/num3/num_0923/'>665
   [Medicines]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2465/'>medicine</a>"

@@ -3,7 +3,7 @@ pid: index_0874
 volume: Volume 3
 image_number: '15'
 head: counterfeit books, physick
-entry: "<a href='/digital-beehive/num6/num_1880/'>1336 [Counterfeit]</a>"
+entry: "<a href='/digital-beehive/num6/num_1881/'>1336 [Counterfeit]</a>"
 topic:
 first_letter: C
 page:

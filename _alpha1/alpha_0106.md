@@ -8,7 +8,7 @@ topic: Brethern in Iniquity
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num8/num_2811/'>1915 [Strayed & lost]</a>"
+xref: "<a href='/digital-beehive/num8/num_2812/'>1915 [Strayed & lost]</a>"
 see:
 index: "[NOT_IN_INDEX]"
 item: "#item-8b178d13c"

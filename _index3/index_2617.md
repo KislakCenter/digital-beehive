@@ -3,7 +3,7 @@ pid: index_2617
 volume: Volume 3
 image_number: '31'
 head: murmuring
-entry: "<a href='/digital-beehive/num6/num_1795/'>1288 [Murmurings]</a>|<a href='/digital-beehive/num10/num_3392/'>2419
+entry: "<a href='/digital-beehive/num6/num_1796/'>1288 [Murmurings]</a>|<a href='/digital-beehive/num10/num_3393/'>2419
   [Murmuring]</a>"
 topic:
 first_letter: M

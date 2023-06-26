@@ -3,7 +3,7 @@ pid: index_0043
 volume: Volume 3
 image_number: '7'
 head: adjuration
-entry: "<a href='/digital-beehive/num8/num_2855/'>1938 [Adjuration]</a>"
+entry: "<a href='/digital-beehive/num8/num_2856/'>1938 [Adjuration]</a>"
 topic:
 first_letter: A
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '31'
 head: nakedness
 entry: "<a href='/digital-beehive/alpha3/alpha_0630/'>a</a>|<a href='/digital-beehive/num2/num_0627/'>499
-  [Nackedness]</a>|<a href='/digital-beehive/num10/num_3466/'>4479 [Nakedness]</a>"
+  [Nackedness]</a>|<a href='/digital-beehive/num10/num_3467/'>4479 [Nakedness]</a>"
 topic:
 first_letter: N
 page:

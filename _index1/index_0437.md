@@ -3,7 +3,7 @@ pid: index_0437
 volume: Volume 3
 image_number: '11'
 head: brandywine
-entry: "<a href='/digital-beehive/num1/num_0174/'>166 [Brandy-wine]</a>|<a href='/digital-beehive/num6/num_1831/'>1310
+entry: "<a href='/digital-beehive/num1/num_0174/'>166 [Brandy-wine]</a>|<a href='/digital-beehive/num6/num_1832/'>1310
   [Brandy & Aqua vite]</a>"
 topic:
 first_letter: B

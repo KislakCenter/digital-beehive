@@ -3,7 +3,7 @@ pid: index_1378
 volume: Volume 3
 image_number: '20'
 head: fainthearted
-entry: "<a href='/digital-beehive/alpha2/alpha_0310/'>a</a>|<a href='/digital-beehive/num10/num_3338/'>2366
+entry: "<a href='/digital-beehive/alpha2/alpha_0310/'>a</a>|<a href='/digital-beehive/num10/num_3339/'>2366
   [Fainthearted]</a>"
 topic:
 first_letter: F

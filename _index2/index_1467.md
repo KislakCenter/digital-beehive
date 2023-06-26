@@ -3,7 +3,7 @@ pid: index_1467
 volume: Volume 3
 image_number: '20'
 head: a fit
-entry: "<a href='/digital-beehive/num9/num_3055/'>2118 [Fit or Paroxysm]</a>"
+entry: "<a href='/digital-beehive/num9/num_3056/'>2118 [Fit or Paroxysm]</a>"
 topic:
 first_letter: F
 page:

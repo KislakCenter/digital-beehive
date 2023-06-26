@@ -3,7 +3,7 @@ pid: index_4303
 volume: Volume 3
 image_number: '49'
 head: vegetables
-entry: "<a href='/digital-beehive/num7/num_2504/'>1644 [Vegetables]</a>"
+entry: "<a href='/digital-beehive/num7/num_2505/'>1644 [Vegetables]</a>"
 topic:
 first_letter: U/V
 page:

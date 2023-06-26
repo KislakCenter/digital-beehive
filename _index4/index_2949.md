@@ -3,7 +3,7 @@ pid: index_2949
 volume: Volume 3
 image_number: '35'
 head: Pen[n]silvania
-entry: "<a href='/digital-beehive/num6/num_2012/'>1399 [Pen[n]silvania]</a>|<a href='/digital-beehive/num6/num_2013/'>1399
+entry: "<a href='/digital-beehive/num6/num_2013/'>1399 [Pen[n]silvania]</a>|<a href='/digital-beehive/num6/num_2014/'>1399
   [Pen[n]silvania, continued]</a>"
 topic:
 first_letter: P

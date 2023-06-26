@@ -3,7 +3,7 @@ pid: index_3152
 volume: Volume 3
 image_number: '37'
 head: pricking
-entry: "<a href='/digital-beehive/num3/num_0969/'>684 [To prick]</a>"
+entry: "<a href='/digital-beehive/num3/num_0970/'>684 [To prick]</a>"
 topic:
 first_letter: P
 page:

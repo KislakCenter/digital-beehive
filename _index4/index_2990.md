@@ -3,7 +3,7 @@ pid: index_2990
 volume: Volume 3
 image_number: '35'
 head: phrase
-entry: "<a href='/digital-beehive/num3/num_0676/'>537 [Terms in didascalia]</a>"
+entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>"
 topic:
 first_letter: P
 page:

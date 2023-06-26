@@ -3,7 +3,7 @@ pid: index_0536
 volume: Volume 3
 image_number: '11'
 head: capucins
-entry: "<a href='/digital-beehive/num6/num_1853/'>1322 [Capucins]</a>"
+entry: "<a href='/digital-beehive/num6/num_1854/'>1322 [Capucins]</a>"
 topic:
 first_letter: C
 page:

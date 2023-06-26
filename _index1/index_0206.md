@@ -3,7 +3,7 @@ pid: index_0206
 volume: Volume 3
 image_number: '8'
 head: arminians
-entry: "<a href='/digital-beehive/num5/num_1338/'>1003 [Arminians]</a>"
+entry: "<a href='/digital-beehive/num5/num_1339/'>1003 [Arminians]</a>"
 topic:
 first_letter: A
 page:

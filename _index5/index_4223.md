@@ -3,7 +3,7 @@ pid: index_4223
 volume: Volume 3
 image_number: '48'
 head: treacle
-entry: "<a href='/digital-beehive/num6/num_1780/'>1281 [Treacle]</a>"
+entry: "<a href='/digital-beehive/num6/num_1781/'>1281 [Treacle]</a>"
 topic:
 first_letter: T
 page:

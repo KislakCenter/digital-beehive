@@ -3,7 +3,7 @@ pid: index_1155
 volume: Volume 3
 image_number: '17'
 head: drop
-entry: "<a href='/digital-beehive/num3/num_0997/'>694 [a Drop]</a>"
+entry: "<a href='/digital-beehive/num3/num_0998/'>694 [a Drop]</a>"
 topic:
 first_letter: D
 page:

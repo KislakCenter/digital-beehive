@@ -3,7 +3,7 @@ pid: index_1728
 volume: Volume 3
 image_number: '23'
 head: good Guile
-entry: "<a href='/digital-beehive/num6/num_2125/'>1452 [good Guile]</a>"
+entry: "<a href='/digital-beehive/num6/num_2126/'>1452 [good Guile]</a>"
 topic:
 first_letter: G
 page:

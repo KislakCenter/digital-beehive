@@ -3,7 +3,7 @@ pid: index_3244
 volume: Volume 3
 image_number: '38'
 head: Pythagoras
-entry: "<a href='/digital-beehive/num5/num_1419/'>1056 [Pythagoras]</a>"
+entry: "<a href='/digital-beehive/num5/num_1420/'>1056 [Pythagoras]</a>"
 topic:
 first_letter: P
 page:

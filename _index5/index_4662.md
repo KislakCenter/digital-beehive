@@ -3,7 +3,7 @@ pid: index_4662
 volume: Volume 3
 image_number: '54'
 head: to oversee or overslip
-entry: "<a href='/digital-beehive/num8/num_2686/'>1757 [To Oversee]</a>"
+entry: "<a href='/digital-beehive/num8/num_2687/'>1757 [To Oversee]</a>"
 topic:
 first_letter: insertion
 page:

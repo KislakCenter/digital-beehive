@@ -9,7 +9,7 @@ first_letter: W
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/digital-beehive/alpha1/alpha_0065/'>Baudry</a>|[WORD_ILLEGIBLE]|<a
-  href='/digital-beehive/num3/num_0728/'>571 [Fornication or Whoredom]</a>"
+  href='/digital-beehive/num3/num_0729/'>571 [Fornication or Whoredom]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4541/'>whoredom</a>"
 item: "#item-74d7d6014"

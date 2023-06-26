@@ -3,7 +3,7 @@ pid: index_3427
 volume: Volume 3
 image_number: '40'
 head: right or wrong
-entry: "<a href='/digital-beehive/num7/num_2651/'>1727 [Ill gotten goods]</a>"
+entry: "<a href='/digital-beehive/num7/num_2652/'>1727 [Ill gotten goods]</a>"
 topic:
 first_letter: R
 page:

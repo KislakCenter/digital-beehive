@@ -3,7 +3,7 @@ pid: index_3856
 volume: Volume 3
 image_number: '44'
 head: spoil
-entry: "<a href='/digital-beehive/num4/num_1094/'>871 [Prey]</a>"
+entry: "<a href='/digital-beehive/num4/num_1095/'>871 [Prey]</a>"
 topic:
 first_letter: S
 page:

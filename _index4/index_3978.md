@@ -3,7 +3,7 @@ pid: index_3978
 volume: Volume 3
 image_number: '46'
 head: sum[m]arily
-entry: "<a href='/digital-beehive/num4/num_1243/'>932 [Brevity]</a>"
+entry: "<a href='/digital-beehive/num4/num_1244/'>932 [Brevity]</a>"
 topic:
 first_letter: S
 page:

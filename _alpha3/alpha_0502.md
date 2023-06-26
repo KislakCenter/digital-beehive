@@ -9,7 +9,7 @@ first_letter: K
 page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0284/'>Empire</a>|<a href='/digital-beehive/alpha4/alpha_0737/'>Prince</a>|<a
-  href='/digital-beehive/alpha3/alpha_0604/'>Monarchy</a>|<a href='/digital-beehive/num5/num_1647/'>1207
+  href='/digital-beehive/alpha3/alpha_0604/'>Monarchy</a>|<a href='/digital-beehive/num5/num_1648/'>1207
   [King]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2162/'>king</a>"

@@ -3,7 +3,7 @@ pid: index_1539
 volume: Volume 3
 image_number: '21'
 head: french
-entry: "<a href='/digital-beehive/alpha2/alpha_0351/'>a</a>|<a href='/digital-beehive/num6/num_1794/'>1288
+entry: "<a href='/digital-beehive/alpha2/alpha_0351/'>a</a>|<a href='/digital-beehive/num6/num_1795/'>1288
   [French]</a>|4644 [PAGE_MISSING]"
 topic:
 first_letter: F

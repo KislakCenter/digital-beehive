@@ -3,7 +3,7 @@ pid: index_1976
 volume: Volume 3
 image_number: '25'
 head: impotency
-entry: "<a href='/digital-beehive/num2/num_0387/'>334 [Impotency]</a>|<a href='/digital-beehive/num8/num_2768/'>1833
+entry: "<a href='/digital-beehive/num2/num_0387/'>334 [Impotency]</a>|<a href='/digital-beehive/num8/num_2769/'>1833
   [Impotency]</a>"
 topic:
 first_letter: I/J

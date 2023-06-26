@@ -3,7 +3,7 @@ pid: index_0922
 volume: Volume 3
 image_number: '15'
 head: cuckold
-entry: "<a href='/digital-beehive/alpha1/alpha_0203/'>a</a>|<a href='/digital-beehive/num7/num_2655/'>1730
+entry: "<a href='/digital-beehive/alpha1/alpha_0203/'>a</a>|<a href='/digital-beehive/num7/num_2656/'>1730
   [Cuckold]</a>|4749 [PAGE_MISSING]"
 topic:
 first_letter: C

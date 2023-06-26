@@ -3,7 +3,7 @@ pid: index_3435
 volume: Volume 3
 image_number: '40'
 head: to rise
-entry: "<a href='/digital-beehive/num4/num_1194/'>912 [To Rise]</a>"
+entry: "<a href='/digital-beehive/num4/num_1195/'>912 [To Rise]</a>"
 topic:
 first_letter: R
 page:

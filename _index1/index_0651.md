@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '13'
 head: christianity
 entry: "<a href='/digital-beehive/alpha1/alpha_0149/'>a</a>|<a href='/digital-beehive/num1/num_0228/'>216
-  [Christians]</a>|<a href='/digital-beehive/num9/num_3193/'>2247 [Christian]</a>"
+  [Christians]</a>|<a href='/digital-beehive/num9/num_3194/'>2247 [Christian]</a>"
 topic:
 first_letter: C
 page:

@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '15'
 head: death
 entry: "<a href='/digital-beehive/alpha1/alpha_0213/'>a</a>|<a href='/digital-beehive/num3/num_0638/'>507
-  [Death passed upon all men]</a>|<a href='/digital-beehive/num5/num_1588/'>1166 [Death]</a>|<a
-  href='/digital-beehive/num5/num_1724/'>1247 [Death]</a>|<a href='/digital-beehive/num10/num_3363/'>2391
+  [Death passed upon all men]</a>|<a href='/digital-beehive/num5/num_1589/'>1166 [Death]</a>|<a
+  href='/digital-beehive/num5/num_1725/'>1247 [Death]</a>|<a href='/digital-beehive/num10/num_3364/'>2391
   [Death]</a>"
 topic:
 first_letter: D

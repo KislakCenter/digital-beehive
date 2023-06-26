@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '42'
 head: Self holiness
 entry: "<a href='/digital-beehive/num2/num_0340/'>300 [Self holiness, Self righteous]</a>|<a
-  href='/digital-beehive/num10/num_3441/'>4459 [Self holiness]</a>"
+  href='/digital-beehive/num10/num_3442/'>4459 [Self holiness]</a>"
 topic:
 first_letter: S
 page:

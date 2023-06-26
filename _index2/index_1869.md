@@ -3,7 +3,7 @@ pid: index_1869
 volume: Volume 3
 image_number: '24'
 head: hopeful Children
-entry: "<a href='/digital-beehive/num6/num_2177/'>1477 [hopeful Children]</a>"
+entry: "<a href='/digital-beehive/num6/num_2178/'>1477 [hopeful Children]</a>"
 topic:
 first_letter: H
 page:

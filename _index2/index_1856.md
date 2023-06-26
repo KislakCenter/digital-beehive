@@ -3,7 +3,7 @@ pid: index_1856
 volume: Volume 3
 image_number: '24'
 head: holy Ghost
-entry: "<a href='/digital-beehive/num5/num_1352/'>1012 [h: Ghost]</a>"
+entry: "<a href='/digital-beehive/num5/num_1353/'>1012 [h: Ghost]</a>"
 topic:
 first_letter: H
 page:

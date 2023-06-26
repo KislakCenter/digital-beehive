@@ -3,7 +3,7 @@ pid: index_3550
 volume: Volume 3
 image_number: '41'
 head: scholars
-entry: "<a href='/digital-beehive/num4/num_1303/'>975 [Disciples]</a>|<a href='/digital-beehive/num7/num_2340/'>1564
+entry: "<a href='/digital-beehive/num4/num_1304/'>975 [Disciples]</a>|<a href='/digital-beehive/num7/num_2341/'>1564
   [Scholars]</a>"
 topic:
 first_letter: S

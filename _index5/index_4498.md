@@ -3,7 +3,7 @@ pid: index_4498
 volume: Volume 3
 image_number: '52'
 head: weakness
-entry: "<a href='/digital-beehive/num2/num_0374/'>325 [Infirmity]</a>|<a href='/digital-beehive/num7/num_2643/'>1719
+entry: "<a href='/digital-beehive/num2/num_0374/'>325 [Infirmity]</a>|<a href='/digital-beehive/num7/num_2644/'>1719
   [Infirmity]</a>|4754 [PAGE_MISSING]"
 topic:
 first_letter: W

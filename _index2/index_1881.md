@@ -3,7 +3,7 @@ pid: index_1881
 volume: Volume 3
 image_number: '24'
 head: hosts
-entry: "<a href='/digital-beehive/num8/num_2771/'>1891 [Armies or Hosts]</a>"
+entry: "<a href='/digital-beehive/num8/num_2772/'>1891 [Armies or Hosts]</a>"
 topic:
 first_letter: H
 page:

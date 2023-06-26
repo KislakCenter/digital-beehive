@@ -8,7 +8,7 @@ topic: Choice
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0350/'>Free Will</a>|<a href='/digital-beehive/num5/num_1493/'>1103
+xref: "<a href='/digital-beehive/alpha2/alpha_0350/'>Free Will</a>|<a href='/digital-beehive/num5/num_1494/'>1103
   [Choice]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0642/'>choice</a>"

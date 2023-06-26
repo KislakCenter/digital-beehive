@@ -3,7 +3,7 @@ pid: index_1255
 volume: Volume 3
 image_number: '18'
 head: English Church
-entry: "<a href='/digital-beehive/num6/num_1930/'>1360 [English Church]</a>|<a href='/digital-beehive/num9/num_3194/'>2248
+entry: "<a href='/digital-beehive/num6/num_1931/'>1360 [English Church]</a>|<a href='/digital-beehive/num9/num_3195/'>2248
   [Church of England]</a>"
 topic:
 first_letter: E

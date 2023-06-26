@@ -3,7 +3,7 @@ pid: index_3702
 volume: Volume 3
 image_number: '43'
 head: sigils
-entry: "<a href='/digital-beehive/num6/num_1786/'>1284 [Sigil]</a>"
+entry: "<a href='/digital-beehive/num6/num_1787/'>1284 [Sigil]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_2431
 volume: Volume 3
 image_number: '30'
 head: Marlborough
-entry: "<a href='/digital-beehive/num6/num_1876/'>1334 [Marlborough]</a>"
+entry: "<a href='/digital-beehive/num6/num_1877/'>1334 [Marlborough]</a>"
 topic:
 first_letter: M
 page:

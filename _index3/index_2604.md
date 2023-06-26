@@ -3,8 +3,8 @@ pid: index_2604
 volume: Volume 3
 image_number: '31'
 head: mountebank
-entry: "<a href='/digital-beehive/alpha3/alpha_0616/'>a</a>|<a href='/digital-beehive/num6/num_1874/'>1333
-  [Mountebank]</a>|<a href='/digital-beehive/num10/num_3249/'>2288 [Mountebanck :
+entry: "<a href='/digital-beehive/alpha3/alpha_0616/'>a</a>|<a href='/digital-beehive/num6/num_1875/'>1333
+  [Mountebank]</a>|<a href='/digital-beehive/num10/num_3250/'>2288 [Mountebanck :
   Quack]</a>"
 topic:
 first_letter: M

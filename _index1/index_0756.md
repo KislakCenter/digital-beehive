@@ -3,7 +3,7 @@ pid: index_0756
 volume: Volume 3
 image_number: '14'
 head: compass
-entry: "<a href='/digital-beehive/num6/num_2205/'>1497 [Seamans Compass]</a>"
+entry: "<a href='/digital-beehive/num6/num_2206/'>1497 [Seamans Compass]</a>"
 topic:
 first_letter: C
 page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"

@@ -3,7 +3,7 @@ pid: index_2395
 volume: Volume 3
 image_number: '29'
 head: malabaria
-entry: "<a href='/digital-beehive/num6/num_2152/'>1465 [Malabarians]</a>"
+entry: "<a href='/digital-beehive/num6/num_2153/'>1465 [Malabarians]</a>"
 topic:
 first_letter: M
 page:

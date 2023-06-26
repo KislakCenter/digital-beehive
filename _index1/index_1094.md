@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '17'
 head: disputation
 entry: "<a href='/digital-beehive/alpha1/alpha_0248/'>a</a>|803 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_1819/'>1302 [Disputation]</a>|<a href='/digital-beehive/num7/num_2503/'>1643
+  href='/digital-beehive/num6/num_1820/'>1302 [Disputation]</a>|<a href='/digital-beehive/num7/num_2504/'>1643
   [Disputing]</a>|4750 [PAGE_MISSING]"
 topic:
 first_letter: D

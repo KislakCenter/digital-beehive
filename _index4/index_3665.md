@@ -3,7 +3,7 @@ pid: index_3665
 volume: Volume 3
 image_number: '42'
 head: sheath
-entry: "<a href='/digital-beehive/num4/num_1101/'>871 [a Sheath]</a>"
+entry: "<a href='/digital-beehive/num4/num_1102/'>871 [a Sheath]</a>"
 topic:
 first_letter: S
 page:

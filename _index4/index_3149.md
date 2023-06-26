@@ -3,7 +3,7 @@ pid: index_3149
 volume: Volume 3
 image_number: '37'
 head: prey
-entry: "<a href='/digital-beehive/num4/num_1094/'>871 [Prey]</a>"
+entry: "<a href='/digital-beehive/num4/num_1095/'>871 [Prey]</a>"
 topic:
 first_letter: P
 page:

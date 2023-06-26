@@ -9,7 +9,7 @@ first_letter: T
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0905/'>Speech</a>|<a href='/digital-beehive/alpha3/alpha_0511/'>language</a>|<a
-  href='/digital-beehive/alpha1/alpha_0050/'>babling</a>|<a href='/digital-beehive/num5/num_1619/'>1186
+  href='/digital-beehive/alpha1/alpha_0050/'>babling</a>|<a href='/digital-beehive/num5/num_1620/'>1186
   [Tongue]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4173/'>tongue</a>"

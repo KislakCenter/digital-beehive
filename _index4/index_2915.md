@@ -3,7 +3,7 @@ pid: index_2915
 volume: Volume 3
 image_number: '34'
 head: to patch
-entry: "<a href='/digital-beehive/num3/num_1009/'>699 [Repair]</a>"
+entry: "<a href='/digital-beehive/num3/num_1010/'>699 [Repair]</a>"
 topic:
 first_letter: P
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '18'
 head: ecclesiastical revenues
 entry: "<a href='/digital-beehive/num1/num_0034/'>34 [Ecclesiastical (: excessive
-  :) Revenues]</a>|<a href='/digital-beehive/num7/num_2562/'>1670 [Ecclesiastical
+  :) Revenues]</a>|<a href='/digital-beehive/num7/num_2563/'>1670 [Ecclesiastical
   Revenues]</a>"
 topic:
 first_letter: E

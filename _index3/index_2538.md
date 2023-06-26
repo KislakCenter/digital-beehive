@@ -3,7 +3,7 @@ pid: index_2538
 volume: Volume 3
 image_number: '31'
 head: misery
-entry: "<a href='/digital-beehive/alpha3/alpha_0600/'>a</a>|<a href='/digital-beehive/num6/num_1948/'>1370
+entry: "<a href='/digital-beehive/alpha3/alpha_0600/'>a</a>|<a href='/digital-beehive/num6/num_1949/'>1370
   [Misery]</a>"
 topic:
 first_letter: M

@@ -3,7 +3,7 @@ pid: index_2060
 volume: Volume 3
 image_number: '26'
 head: insensibleness
-entry: "<a href='/digital-beehive/alpha3/alpha_0483/'>a</a>|<a href='/digital-beehive/num5/num_1441/'>1070
+entry: "<a href='/digital-beehive/alpha3/alpha_0483/'>a</a>|<a href='/digital-beehive/num5/num_1442/'>1070
   [Insensible]</a>"
 topic:
 first_letter: I/J

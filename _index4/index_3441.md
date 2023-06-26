@@ -3,7 +3,7 @@ pid: index_3441
 volume: Volume 3
 image_number: '40'
 head: rogue
-entry: "<a href='/digital-beehive/num3/num_1029/'>707 [Roguery]</a>"
+entry: "<a href='/digital-beehive/num3/num_1030/'>707 [Roguery]</a>"
 topic:
 first_letter: R
 page:

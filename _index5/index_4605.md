@@ -3,7 +3,7 @@ pid: index_4605
 volume: Volume 3
 image_number: '53'
 head: word
-entry: "<a href='/digital-beehive/num6/num_1915/'>1353 [Word]</a>"
+entry: "<a href='/digital-beehive/num6/num_1916/'>1353 [Word]</a>"
 topic:
 first_letter: W
 page:

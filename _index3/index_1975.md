@@ -3,7 +3,7 @@ pid: index_1975
 volume: Volume 3
 image_number: '25'
 head: impostumes
-entry: "<a href='/digital-beehive/num3/num_0779/'>597 [Impostumes]</a>"
+entry: "<a href='/digital-beehive/num3/num_0780/'>597 [Impostumes]</a>"
 topic:
 first_letter: I/J
 page:

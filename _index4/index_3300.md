@@ -3,7 +3,7 @@ pid: index_3300
 volume: Volume 3
 image_number: '38'
 head: to ratify
-entry: "<a href='/digital-beehive/num3/num_0889/'>649 [Consent]</a>"
+entry: "<a href='/digital-beehive/num3/num_0890/'>649 [Consent]</a>"
 topic:
 first_letter: R
 page:

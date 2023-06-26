@@ -3,7 +3,7 @@ pid: index_4607
 volume: Volume 3
 image_number: '53'
 head: few words
-entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/num5/num_1594/'>1169
+entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/num5/num_1595/'>1169
   [Laconism]</a>"
 topic:
 first_letter: W

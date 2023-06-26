@@ -3,7 +3,7 @@ pid: index_4082
 volume: Volume 3
 image_number: '47'
 head: temple
-entry: "<a href='/digital-beehive/num1/num_0192/'>183 [Temple]</a>|<a href='/digital-beehive/num6/num_1750/'>1262
+entry: "<a href='/digital-beehive/num1/num_0192/'>183 [Temple]</a>|<a href='/digital-beehive/num6/num_1751/'>1262
   [Temple]</a>"
 topic:
 first_letter: T

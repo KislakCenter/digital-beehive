@@ -3,7 +3,7 @@ pid: index_4356
 volume: Volume 3
 image_number: '50'
 head: unarmed
-entry: "<a href='/digital-beehive/num8/num_2706/'>1775 [Unarmed]</a>"
+entry: "<a href='/digital-beehive/num8/num_2707/'>1775 [Unarmed]</a>"
 topic:
 first_letter: U/V
 page:

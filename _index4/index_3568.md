@@ -3,7 +3,7 @@ pid: index_3568
 volume: Volume 3
 image_number: '41'
 head: scurvy
-entry: "<a href='/digital-beehive/num3/num_0768/'>593 [Scurvy]</a>"
+entry: "<a href='/digital-beehive/num3/num_0769/'>593 [Scurvy]</a>"
 topic:
 first_letter: S
 page:

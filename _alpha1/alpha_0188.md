@@ -8,7 +8,7 @@ topic: Courage
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0568/'>Magnanimity</a>|<a href='/digital-beehive/num5/num_1556/'>1143
+xref: "<a href='/digital-beehive/alpha3/alpha_0568/'>Magnanimity</a>|<a href='/digital-beehive/num5/num_1557/'>1143
   [Courage]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0880/'>courage</a>"

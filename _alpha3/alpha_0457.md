@@ -8,7 +8,7 @@ topic: Illumination
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0805/'>revelation</a>|<a href='/digital-beehive/num5/num_1374/'>1027
+xref: "<a href='/digital-beehive/alpha4/alpha_0805/'>revelation</a>|<a href='/digital-beehive/num5/num_1375/'>1027
   [Illumination]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1954/'>illumination</a>"

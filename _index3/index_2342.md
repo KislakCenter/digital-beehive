@@ -3,8 +3,8 @@ pid: index_2342
 volume: Volume 3
 image_number: '29'
 head: love of ye brethren
-entry: "<a href='/digital-beehive/alpha3/alpha_0559/'>a</a>|<a href='/digital-beehive/num6/num_1830/'>1309
-  [Love to God & the Brethren]</a>|<a href='/digital-beehive/num9/num_2964/'>2030
+entry: "<a href='/digital-beehive/alpha3/alpha_0559/'>a</a>|<a href='/digital-beehive/num6/num_1831/'>1309
+  [Love to God & the Brethren]</a>|<a href='/digital-beehive/num9/num_2965/'>2030
   [Love of the Brethren]</a>"
 topic:
 first_letter: L

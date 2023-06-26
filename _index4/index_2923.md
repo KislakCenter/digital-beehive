@@ -3,7 +3,7 @@ pid: index_2923
 volume: Volume 3
 image_number: '34'
 head: patriots
-entry: "<a href='/digital-beehive/num6/num_1998/'>1394 [Patriots]</a>"
+entry: "<a href='/digital-beehive/num6/num_1999/'>1394 [Patriots]</a>"
 topic:
 first_letter: P
 page:

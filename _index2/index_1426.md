@@ -3,7 +3,7 @@ pid: index_1426
 volume: Volume 3
 image_number: '20'
 head: fees
-entry: "<a href='/digital-beehive/num7/num_2578/'>1677 [Fees]</a>"
+entry: "<a href='/digital-beehive/num7/num_2579/'>1677 [Fees]</a>"
 topic:
 first_letter: F
 page:

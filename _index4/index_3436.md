@@ -3,7 +3,7 @@ pid: index_3436
 volume: Volume 3
 image_number: '40'
 head: rival
-entry: "<a href='/digital-beehive/num10/num_3437/'>4455 [Rival]</a>"
+entry: "<a href='/digital-beehive/num10/num_3438/'>4455 [Rival]</a>"
 topic:
 first_letter: R
 page:

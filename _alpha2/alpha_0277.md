@@ -8,15 +8,15 @@ topic: Ecclesiastical discipline
 first_letter: E
 page:
 add:
-xref: 26 [Excommunication]|<a href='/digital-beehive/num1/num_0075/'>74 [the Judge
-  of religious Controversies]</a>|<a href='/digital-beehive/num2/num_0493/'>402 [Order
-  & Discipline in the Church]</a>
+xref: "<a href='/digital-beehive/num1/num_0026/'>26 [Excom[m]unication]</a>|<a href='/digital-beehive/num1/num_0075/'>74
+  [the Judge of religious Controversies]</a>|<a href='/digital-beehive/num2/num_0493/'>402
+  [Order & Discipline in the Church]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1200/'>ecclesiastical discipline</a>"
 item: "#item-c4e2bba71"
 unparsed:
 line: 'Entry: Ecclesiastical discipline|Topic: Ecclesiastical discipline|Xref: 26
-  [Excommunication]|Xref: 74 [the Judge of religious Controversies]|Xref: 402 [Order
+  [Excom[m]unication]|Xref: 74 [the Judge of religious Controversies]|Xref: 402 [Order
   & Discipline in the Church]|Index: ecclesiastical discipline|#item-c4e2bba71'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/819,4224,2929,888/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/full/full/0/default.jpg

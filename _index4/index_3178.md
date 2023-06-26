@@ -3,7 +3,7 @@ pid: index_3178
 volume: Volume 3
 image_number: '37'
 head: profession
-entry: "<a href='/digital-beehive/num2/num_0280/'>255 [Profession]</a>|<a href='/digital-beehive/num7/num_2621/'>1699
+entry: "<a href='/digital-beehive/num2/num_0280/'>255 [Profession]</a>|<a href='/digital-beehive/num7/num_2622/'>1699
   [Profession]</a>"
 topic:
 first_letter: P

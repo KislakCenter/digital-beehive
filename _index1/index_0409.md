@@ -3,7 +3,7 @@ pid: index_0409
 volume: Volume 3
 image_number: '10'
 head: books
-entry: "<a href='/digital-beehive/alpha1/alpha_0094/'>a</a>|<a href='/digital-beehive/num5/num_1397/'>1044
+entry: "<a href='/digital-beehive/alpha1/alpha_0094/'>a</a>|<a href='/digital-beehive/num5/num_1398/'>1044
   [Books]</a>|4594 [PAGE_MISSING]"
 topic:
 first_letter: B

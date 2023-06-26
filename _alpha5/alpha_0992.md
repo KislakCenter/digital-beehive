@@ -8,7 +8,7 @@ topic: Vanity
 first_letter: U/V
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_0980/'>Transitory</a>|<a href='/digital-beehive/num7/num_2540/'>1659
+xref: "<a href='/digital-beehive/alpha5/alpha_0980/'>Transitory</a>|<a href='/digital-beehive/num7/num_2541/'>1659
   [Vanitatis Triumphus]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4296/'>vanity</a>"

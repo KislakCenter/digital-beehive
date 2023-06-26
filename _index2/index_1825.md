@@ -3,7 +3,7 @@ pid: index_1825
 volume: Volume 3
 image_number: '24'
 head: Tho. Hicks
-entry: "<a href='/digital-beehive/num10/num_3210/'>2259 [Thomas Hicks]</a>"
+entry: "<a href='/digital-beehive/num10/num_3211/'>2259 [Thomas Hicks]</a>"
 topic:
 first_letter: H
 page:

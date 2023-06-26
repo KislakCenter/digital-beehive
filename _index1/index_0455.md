@@ -3,7 +3,7 @@ pid: index_0455
 volume: Volume 3
 image_number: '11'
 head: bridewell
-entry: "<a href='/digital-beehive/num6/num_1777/'>1279 [Bridewell]</a>"
+entry: "<a href='/digital-beehive/num6/num_1778/'>1279 [Bridewell]</a>"
 topic:
 first_letter: B
 page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"

@@ -3,7 +3,7 @@ pid: index_1639
 volume: Volume 3
 image_number: '22'
 head: God be thanks
-entry: "<a href='/digital-beehive/num6/num_2070/'>1426 [Thanks be to God]</a>"
+entry: "<a href='/digital-beehive/num6/num_2071/'>1426 [Thanks be to God]</a>"
 topic:
 first_letter: G
 page:

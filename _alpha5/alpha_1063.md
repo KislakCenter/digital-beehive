@@ -8,7 +8,7 @@ topic: Worldly|Worldlymindedness
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/num5/num_1386/'>1037
+xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/num5/num_1387/'>1037
   [Worldly]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4619/'>worldly</a>"

@@ -3,7 +3,7 @@ pid: index_4135
 volume: Volume 3
 image_number: '47'
 head: throat
-entry: "<a href='/digital-beehive/num3/num_0956/'>681 [Throat]</a>"
+entry: "<a href='/digital-beehive/num3/num_0957/'>681 [Throat]</a>"
 topic:
 first_letter: T
 page:

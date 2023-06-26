@@ -3,7 +3,7 @@ pid: index_0786
 volume: Volume 3
 image_number: '14'
 head: confidence
-entry: "<a href='/digital-beehive/num3/num_1062/'>719 [Confidence]</a>"
+entry: "<a href='/digital-beehive/num3/num_1063/'>719 [Confidence]</a>"
 topic:
 first_letter: C
 page:

@@ -9,7 +9,7 @@ first_letter: S
 page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0971/'>Too slow</a>|<a href='/digital-beehive/alpha1/alpha_0222/'>Degree</a>|<a
-  href='/digital-beehive/alpha3/alpha_0513/'>Last</a>|<a href='/digital-beehive/num5/num_1471/'>1089
+  href='/digital-beehive/alpha3/alpha_0513/'>Last</a>|<a href='/digital-beehive/num5/num_1472/'>1089
   [Slow-footed]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3756/'>slowness</a>"

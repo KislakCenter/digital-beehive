@@ -3,7 +3,7 @@ pid: index_0356
 volume: Volume 3
 image_number: '10'
 head: Bermuda
-entry: "<a href='/digital-beehive/num7/num_2236/'>1513 [Bermudas]</a>"
+entry: "<a href='/digital-beehive/num7/num_2237/'>1513 [Bermudas]</a>"
 topic:
 first_letter: B
 page:

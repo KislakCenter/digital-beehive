@@ -3,7 +3,7 @@ pid: index_2247
 volume: Volume 3
 image_number: '28'
 head: Dan. Leeds
-entry: "<a href='/digital-beehive/num6/num_1775/'>1278 [Daniel Leeds]</a>"
+entry: "<a href='/digital-beehive/num6/num_1776/'>1278 [Daniel Leeds]</a>"
 topic:
 first_letter: L
 page:

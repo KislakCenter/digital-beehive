@@ -3,7 +3,7 @@ pid: index_1536
 volume: Volume 3
 image_number: '21'
 head: freeholder
-entry: "<a href='/digital-beehive/num9/num_3127/'>2184 [Free-holder]</a>"
+entry: "<a href='/digital-beehive/num9/num_3128/'>2184 [Free-holder]</a>"
 topic:
 first_letter: F
 page:

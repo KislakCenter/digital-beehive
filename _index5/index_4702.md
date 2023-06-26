@@ -3,7 +3,7 @@ pid: index_4702
 volume: Volume 3
 image_number: '54'
 head: kidnapper
-entry: "<a href='/digital-beehive/num3/num_0787/'>600 [Manstealing]</a>"
+entry: "<a href='/digital-beehive/num3/num_0788/'>600 [Manstealing]</a>"
 topic:
 first_letter: insertion
 page:

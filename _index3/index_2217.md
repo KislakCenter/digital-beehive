@@ -3,7 +3,7 @@ pid: index_2217
 volume: Volume 3
 image_number: '27'
 head: latin chimical
-entry: "<a href='/digital-beehive/num5/num_1363/'>1020 [Chimical Latin]</a>"
+entry: "<a href='/digital-beehive/num5/num_1364/'>1020 [Chimical Latin]</a>"
 topic:
 first_letter: L
 page:

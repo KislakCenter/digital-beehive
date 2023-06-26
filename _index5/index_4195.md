@@ -3,7 +3,7 @@ pid: index_4195
 volume: Volume 3
 image_number: '48'
 head: tories
-entry: "<a href='/digital-beehive/num8/num_2697/'>1766 [High Church]</a>"
+entry: "<a href='/digital-beehive/num8/num_2698/'>1766 [High Church]</a>"
 topic:
 first_letter: T
 page:

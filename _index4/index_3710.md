@@ -3,7 +3,7 @@ pid: index_3710
 volume: Volume 3
 image_number: '43'
 head: silkworm
-entry: "<a href='/digital-beehive/num7/num_2325/'>1558 [Silkworm]</a>"
+entry: "<a href='/digital-beehive/num7/num_2326/'>1558 [Silkworm]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"

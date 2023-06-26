@@ -3,7 +3,7 @@ pid: index_4573
 volume: Volume 3
 image_number: '53'
 head: John de Wit
-entry: "<a href='/digital-beehive/num6/num_1907/'>1349 [John de Wit]</a>"
+entry: "<a href='/digital-beehive/num6/num_1908/'>1349 [John de Wit]</a>"
 topic:
 first_letter: W
 page:

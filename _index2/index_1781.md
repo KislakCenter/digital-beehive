@@ -3,8 +3,8 @@ pid: index_1781
 volume: Volume 3
 image_number: '23'
 head: heart
-entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>|<a href='/digital-beehive/num7/num_2226/'>1507
-  [Heart]</a>|<a href='/digital-beehive/num10/num_3452/'>4468 [Heart]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>|<a href='/digital-beehive/num7/num_2227/'>1507
+  [Heart]</a>|<a href='/digital-beehive/num10/num_3453/'>4468 [Heart]</a>"
 topic:
 first_letter: H
 page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"

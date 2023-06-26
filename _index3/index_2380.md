@@ -3,7 +3,7 @@ pid: index_2380
 volume: Volume 3
 image_number: '29'
 head: magna Charta
-entry: "<a href='/digital-beehive/num3/num_0861/'>635 [Great Charter of England]</a>"
+entry: "<a href='/digital-beehive/num3/num_0862/'>635 [Great Charter of England]</a>"
 topic:
 first_letter: M
 page:

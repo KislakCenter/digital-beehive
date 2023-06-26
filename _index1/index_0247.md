@@ -3,7 +3,7 @@ pid: index_0247
 volume: Volume 3
 image_number: '9'
 head: augury
-entry: "<a href='/digital-beehive/num7/num_2299/'>1546 [Augury]</a>"
+entry: "<a href='/digital-beehive/num7/num_2300/'>1546 [Augury]</a>"
 topic:
 first_letter: A
 page:

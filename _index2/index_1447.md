@@ -3,7 +3,7 @@ pid: index_1447
 volume: Volume 3
 image_number: '20'
 head: finally
-entry: "<a href='/digital-beehive/num4/num_1234/'>928 [Last]</a>|<a href='/digital-beehive/num4/num_1235/'>928
+entry: "<a href='/digital-beehive/num4/num_1235/'>928 [Last]</a>|<a href='/digital-beehive/num4/num_1236/'>928
   [Finally]</a>"
 topic:
 first_letter: F

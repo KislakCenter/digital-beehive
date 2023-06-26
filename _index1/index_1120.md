@@ -3,7 +3,7 @@ pid: index_1120
 volume: Volume 3
 image_number: '17'
 head: do as thou would be done
-entry: "<a href='/digital-beehive/num5/num_1639/'>1202 [Do as thou w. be done by]</a>"
+entry: "<a href='/digital-beehive/num5/num_1640/'>1202 [Do as thou w. be done by]</a>"
 topic:
 first_letter: D
 page:

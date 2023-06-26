@@ -3,7 +3,7 @@ pid: index_3211
 volume: Volume 3
 image_number: '37'
 head: providence
-entry: "<a href='/digital-beehive/alpha4/alpha_0759/'>a</a>|<a href='/digital-beehive/num6/num_1991/'>1390
+entry: "<a href='/digital-beehive/alpha4/alpha_0759/'>a</a>|<a href='/digital-beehive/num6/num_1992/'>1390
   [Providence]</a>"
 topic:
 first_letter: P

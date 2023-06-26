@@ -3,7 +3,7 @@ pid: index_2868
 volume: Volume 3
 image_number: '34'
 head: panacea
-entry: "<a href='/digital-beehive/num10/num_3430/'>4450 [Panacea or All-heal]</a>"
+entry: "<a href='/digital-beehive/num10/num_3431/'>4450 [Panacea or All-heal]</a>"
 topic:
 first_letter: P
 page:

@@ -3,7 +3,7 @@ pid: index_2081
 volume: Volume 3
 image_number: '26'
 head: in the mean time
-entry: "<a href='/digital-beehive/num3/num_0817/'>613 [In the mean time]</a>"
+entry: "<a href='/digital-beehive/num3/num_0818/'>613 [In the mean time]</a>"
 topic:
 first_letter: I/J
 page:

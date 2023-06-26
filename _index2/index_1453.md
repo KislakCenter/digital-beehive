@@ -3,8 +3,8 @@ pid: index_1453
 volume: Volume 3
 image_number: '20'
 head: fire
-entry: "<a href='/digital-beehive/alpha2/alpha_0328/'>a</a>|<a href='/digital-beehive/num5/num_1569/'>1152
-  [Fire]</a>|<a href='/digital-beehive/num8/num_2880/'>1956 [Fire]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0328/'>a</a>|<a href='/digital-beehive/num5/num_1570/'>1152
+  [Fire]</a>|<a href='/digital-beehive/num8/num_2881/'>1956 [Fire]</a>"
 topic:
 first_letter: F
 page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"

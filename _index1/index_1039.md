@@ -3,7 +3,7 @@ pid: index_1039
 volume: Volume 3
 image_number: '16'
 head: dial
-entry: "<a href='/digital-beehive/num3/num_0723/'>568 [Dial]</a>"
+entry: "<a href='/digital-beehive/num3/num_0724/'>568 [Dial]</a>"
 topic:
 first_letter: D
 page:

@@ -9,7 +9,7 @@ first_letter: H
 page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0008/'>8 [Desperation]</a>|<a href='/digital-beehive/alpha1/alpha_0159/'>false
-  Comfort</a>|<a href='/digital-beehive/num5/num_1526/'>1126 [Hope]</a>"
+  Comfort</a>|<a href='/digital-beehive/num5/num_1527/'>1126 [Hope]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1867/'>hope</a>"
 item: "#item-1aa4646fe"

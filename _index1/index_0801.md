@@ -5,7 +5,7 @@ image_number: '14'
 head: conscience
 entry: "<a href='/digital-beehive/alpha1/alpha_0172/'>a</a>|<a href='/digital-beehive/num1/num_0146/'>141
   [Conscience]</a>|<a href='/digital-beehive/num1/num_0147/'>142 [Evil Conscience]</a>|<a
-  href='/digital-beehive/num5/num_1462/'>1085 [Conscience]</a>|<a href='/digital-beehive/num8/num_2882/'>1958
+  href='/digital-beehive/num5/num_1463/'>1085 [Conscience]</a>|<a href='/digital-beehive/num8/num_2883/'>1958
   [Conscience]</a>"
 topic:
 first_letter: C

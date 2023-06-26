@@ -8,7 +8,7 @@ topic: Mind
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2452/'>1620 [Mind]</a>"
+xref: "<a href='/digital-beehive/num7/num_2453/'>1620 [Mind]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2519/'>mind</a>"
 item: "#item-b1dacc9bc"

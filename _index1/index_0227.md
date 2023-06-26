@@ -3,7 +3,7 @@ pid: index_0227
 volume: Volume 3
 image_number: '8'
 head: assurance
-entry: "<a href='/digital-beehive/num4/num_1204/'>914 [Security, he that promises
+entry: "<a href='/digital-beehive/num4/num_1205/'>914 [Security, he that promises
   for another]</a>"
 topic:
 first_letter: A

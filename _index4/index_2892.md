@@ -3,7 +3,7 @@ pid: index_2892
 volume: Volume 3
 image_number: '34'
 head: parsimony
-entry: "<a href='/digital-beehive/alpha4/alpha_0686/'>a</a>|<a href='/digital-beehive/num5/num_1509/'>1115
+entry: "<a href='/digital-beehive/alpha4/alpha_0686/'>a</a>|<a href='/digital-beehive/num5/num_1510/'>1115
   [Frugality]</a>"
 topic:
 first_letter: P

@@ -9,7 +9,7 @@ first_letter: M
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0152/'>Civility</a>|<a href='/digital-beehive/alpha1/alpha_0244/'>Discretness</a>|<a
-  href='/digital-beehive/num6/num_2096/'>1437 [Modesty]</a>"
+  href='/digital-beehive/num6/num_2097/'>1437 [Modesty]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2554/'>modesty</a>"
 item: "#item-15da617d5"

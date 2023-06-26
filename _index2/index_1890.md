@@ -3,7 +3,7 @@ pid: index_1890
 volume: Volume 3
 image_number: '24'
 head: house of office
-entry: "<a href='/digital-beehive/num3/num_0803/'>607 [Privy house]</a>"
+entry: "<a href='/digital-beehive/num3/num_0804/'>607 [Privy house]</a>"
 topic:
 first_letter: H
 page:

@@ -9,14 +9,13 @@ first_letter: N
 page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0463/'>Impartiality</a>|<a href='/digital-beehive/num1/num_0184/'>176
-  [Indifferency]</a>|<a href='/digital-beehive/num1/num_0093/'>91 [Universalists]</a>|<a
-  href='/digital-beehive/num2/num_0421/'>357 [Neutrality]</a>"
+  [Indifferency]</a>|<a href='/digital-beehive/num2/num_0421/'>357 [Neutrality]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2692/'>neutrality</a>"
 item: "#item-323b2f38d"
 unparsed:
 line: 'Entry: Neutrality|Topic: Neutrality|Xref: Impartiality|Xref: 176 [Indifferency]|Xref:
-  91 [Universalists]|Xref: 357 [Neutrality]|Index: neutrality|#item-323b2f38d'
+  357 [Neutrality]|Index: neutrality|#item-323b2f38d'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/799,634,2996,556/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565015091125

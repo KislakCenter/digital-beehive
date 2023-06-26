@@ -3,9 +3,9 @@ pid: index_4648
 volume: Volume 3
 image_number: '53'
 head: yielding
-entry: "<a href='/digital-beehive/alpha5/alpha_1074/'>a</a>|<a href='/digital-beehive/num3/num_0904/'>657
-  [Yielding or Submission]</a>|<a href='/digital-beehive/num5/num_1707/'>1239 [Yielding]</a>|<a
-  href='/digital-beehive/num6/num_2170/'>1474 [Yielding]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1074/'>a</a>|<a href='/digital-beehive/num3/num_0905/'>657
+  [Yielding or Submission]</a>|<a href='/digital-beehive/num5/num_1708/'>1239 [Yielding]</a>|<a
+  href='/digital-beehive/num6/num_2171/'>1474 [Yielding]</a>"
 topic:
 first_letter: Y
 page:

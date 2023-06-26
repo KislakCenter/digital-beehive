@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '43'
 head: sin venial
 entry: "<a href='/digital-beehive/num2/num_0388/'>335 [mortal & venial sins]</a>|<a
-  href='/digital-beehive/num3/num_0689/'>546 [Punctilio]</a>"
+  href='/digital-beehive/num3/num_0690/'>546 [Punctilio]</a>"
 topic:
 first_letter: S
 page:

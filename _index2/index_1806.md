@@ -3,7 +3,7 @@ pid: index_1806
 volume: Volume 3
 image_number: '23'
 head: herb
-entry: "<a href='/digital-beehive/alpha2/alpha_0417/'>a</a>|<a href='/digital-beehive/num3/num_0929/'>672
+entry: "<a href='/digital-beehive/alpha2/alpha_0417/'>a</a>|<a href='/digital-beehive/num3/num_0930/'>672
   [Herbs]</a>"
 topic:
 first_letter: H

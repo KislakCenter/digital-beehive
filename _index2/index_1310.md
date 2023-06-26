@@ -3,7 +3,7 @@ pid: index_1310
 volume: Volume 3
 image_number: '19'
 head: ethiopian
-entry: "<a href='/digital-beehive/num2/num_0461/'>382 [Neger or Negro]</a>|<a href='/digital-beehive/num7/num_2469/'>1628
+entry: "<a href='/digital-beehive/num2/num_0461/'>382 [Neger or Negro]</a>|<a href='/digital-beehive/num7/num_2470/'>1628
   [Negro]</a>"
 topic:
 first_letter: E

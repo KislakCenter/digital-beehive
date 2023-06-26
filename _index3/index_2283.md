@@ -3,9 +3,9 @@ pid: index_2283
 volume: Volume 3
 image_number: '28'
 head: life
-entry: "<a href='/digital-beehive/alpha3/alpha_0541/'>a</a>|<a href='/digital-beehive/num6/num_1748/'>1260
-  [Life]</a>|<a href='/digital-beehive/num9/num_3078/'>2139 [Life]</a>|<a href='/digital-beehive/num1/num_0070/'>69
-  [Life]</a>|<a href='/digital-beehive/num11/num_3506/'>4812 [Life]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0541/'>a</a>|<a href='/digital-beehive/num6/num_1749/'>1260
+  [Life]</a>|<a href='/digital-beehive/num9/num_3079/'>2139 [Life]</a>|<a href='/digital-beehive/num1/num_0070/'>69
+  [Life]</a>|<a href='/digital-beehive/num11/num_3507/'>4812 [Life]</a>"
 topic:
 first_letter: L
 page:

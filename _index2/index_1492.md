@@ -3,7 +3,7 @@ pid: index_1492
 volume: Volume 3
 image_number: '21'
 head: to fold
-entry: "<a href='/digital-beehive/num4/num_1179/'>907 [To fold or wrap]</a>"
+entry: "<a href='/digital-beehive/num4/num_1180/'>907 [To fold or wrap]</a>"
 topic:
 first_letter: F
 page:

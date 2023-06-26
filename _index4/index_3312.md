@@ -3,7 +3,7 @@ pid: index_3312
 volume: Volume 3
 image_number: '38'
 head: to rebuke
-entry: "<a href='/digital-beehive/num6/num_1938/'>1365 [Rebuke, Reprove, exhort, admonish]</a>"
+entry: "<a href='/digital-beehive/num6/num_1939/'>1365 [Rebuke, Reprove, exhort, admonish]</a>"
 topic:
 first_letter: R
 page:

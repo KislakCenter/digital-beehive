@@ -3,7 +3,7 @@ pid: index_3560
 volume: Volume 3
 image_number: '41'
 head: Scriptures explained
-entry: "<a href='/digital-beehive/num5/num_1370/'>1025 [Scripture places Explained]</a>"
+entry: "<a href='/digital-beehive/num5/num_1371/'>1025 [Scripture places Explained]</a>"
 topic:
 first_letter: S
 page:

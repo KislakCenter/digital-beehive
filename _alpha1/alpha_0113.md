@@ -8,7 +8,7 @@ topic: Butter
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num8/num_2775/'>1895 [Butter]</a>"
+xref: "<a href='/digital-beehive/num8/num_2776/'>1895 [Butter]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0494/'>butter</a>"
 item: "#item-1343f1767"

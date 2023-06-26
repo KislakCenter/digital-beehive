@@ -16,12 +16,12 @@ item: "#item-9232756fa"
 unparsed:
 line: 'Entry: Derision|Topic: Derision|Xref: jest|Xref: Railing|Xref: scorn|Xref:
   773 [PAGE_MISSING]|Index: derision|#item-9232756fa'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/389,1760,3026,385/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/387,1758,3028,387/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507923007128
-sort_value: '144911760'
+sort_value: '144911758'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/389,1760,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/387,1758,600,180/250,/0/default.jpg
 label: Derision
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue:

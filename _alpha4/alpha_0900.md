@@ -8,7 +8,7 @@ topic: Sop
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0680/'>540 [Pottages]</a>"
+xref: "<a href='/digital-beehive/num3/num_0681/'>540 [Pottages]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3799/'>sop</a>"
 item: "#item-a4a9aad85"

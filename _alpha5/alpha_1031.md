@@ -8,7 +8,7 @@ topic: Way
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1343/'>1007 [Way]</a>"
+xref: "<a href='/digital-beehive/num5/num_1344/'>1007 [Way]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4496/'>way</a>"
 item: "#item-27774c1da"

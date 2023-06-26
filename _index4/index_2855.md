@@ -3,7 +3,7 @@ pid: index_2855
 volume: Volume 3
 image_number: '34'
 head: pain
-entry: "<a href='/digital-beehive/alpha4/alpha_0677/'>a</a>|<a href='/digital-beehive/num5/num_1578/'>1158
+entry: "<a href='/digital-beehive/alpha4/alpha_0677/'>a</a>|<a href='/digital-beehive/num5/num_1579/'>1158
   [Pain]</a>"
 topic:
 first_letter: P

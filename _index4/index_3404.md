@@ -3,7 +3,7 @@ pid: index_3404
 volume: Volume 3
 image_number: '39'
 head: revelling. sau√ü und schmau√ü
-entry: "<a href='/digital-beehive/alpha4/alpha_0807/'>a</a>|<a href='/digital-beehive/num4/num_1322/'>990
+entry: "<a href='/digital-beehive/alpha4/alpha_0807/'>a</a>|<a href='/digital-beehive/num4/num_1323/'>990
   [Revelling]</a>"
 topic:
 first_letter: R

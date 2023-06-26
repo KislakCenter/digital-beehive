@@ -8,7 +8,7 @@ topic: Doctor|Doctorship
 first_letter: D
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0578/'>Master of Arts</a>|<a href='/digital-beehive/num4/num_1285/'>964
+xref: "<a href='/digital-beehive/alpha3/alpha_0578/'>Master of Arts</a>|<a href='/digital-beehive/num4/num_1286/'>964
   [Doctor]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_1121/'>doctor</a>"

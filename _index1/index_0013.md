@@ -3,7 +3,7 @@ pid: index_0013
 volume: Volume 3
 image_number: '7'
 head: absence
-entry: "<a href='/digital-beehive/alpha1/alpha_0001/'>a</a>|<a href='/digital-beehive/num6/num_2006/'>1397
+entry: "<a href='/digital-beehive/alpha1/alpha_0001/'>a</a>|<a href='/digital-beehive/num6/num_2007/'>1397
   [Absence]</a>"
 topic:
 first_letter: A

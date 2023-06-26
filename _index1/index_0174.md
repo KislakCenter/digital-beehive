@@ -3,7 +3,7 @@ pid: index_0174
 volume: Volume 3
 image_number: '8'
 head: apotheosis
-entry: "<a href='/digital-beehive/num8/num_2708/'>1777 [Apotheosis]</a>"
+entry: "<a href='/digital-beehive/num8/num_2709/'>1777 [Apotheosis]</a>"
 topic:
 first_letter: A
 page:

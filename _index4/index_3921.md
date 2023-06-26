@@ -3,7 +3,7 @@ pid: index_3921
 volume: Volume 3
 image_number: '45'
 head: stoutness
-entry: "<a href='/digital-beehive/num6/num_1846/'>1319 [Stoutness]</a>"
+entry: "<a href='/digital-beehive/num6/num_1847/'>1319 [Stoutness]</a>"
 topic:
 first_letter: S
 page:

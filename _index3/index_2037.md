@@ -3,8 +3,8 @@ pid: index_2037
 volume: Volume 3
 image_number: '26'
 head: influence
-entry: "<a href='/digital-beehive/num6/num_2143/'>1460 [Influence of the Planets]</a>|<a
-  href='/digital-beehive/num7/num_2392/'>1593 [Influence]</a>|<a href='/digital-beehive/num9/num_3089/'>2148
+entry: "<a href='/digital-beehive/num6/num_2144/'>1460 [Influence of the Planets]</a>|<a
+  href='/digital-beehive/num7/num_2393/'>1593 [Influence]</a>|<a href='/digital-beehive/num9/num_3090/'>2148
   [Influence]</a>"
 topic:
 first_letter: I/J

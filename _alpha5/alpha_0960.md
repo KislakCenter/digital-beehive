@@ -8,7 +8,7 @@ topic: Thunder
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1901/'>1346 [Thunder & Lightning]</a>"
+xref: "<a href='/digital-beehive/num6/num_1902/'>1346 [Thunder & Lightning]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4143/'>thunder</a>"
 item: "#item-40bb469ee"

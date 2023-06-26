@@ -3,7 +3,7 @@ pid: index_2478
 volume: Volume 3
 image_number: '30'
 head: to melt
-entry: "<a href='/digital-beehive/num3/num_1052/'>716 [to Melt]</a>"
+entry: "<a href='/digital-beehive/num3/num_1053/'>716 [to Melt]</a>"
 topic:
 first_letter: M
 page:

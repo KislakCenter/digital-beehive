@@ -3,7 +3,7 @@ pid: index_1456
 volume: Volume 3
 image_number: '20'
 head: firm
-entry: "<a href='/digital-beehive/num3/num_0976/'>686 [Firm]</a>"
+entry: "<a href='/digital-beehive/num3/num_0977/'>686 [Firm]</a>"
 topic:
 first_letter: F
 page:

@@ -3,7 +3,7 @@ pid: index_3006
 volume: Volume 3
 image_number: '35'
 head: pilgrimage
-entry: "<a href='/digital-beehive/num1/num_0030/'>30 [Pilgrimage]</a>|<a href='/digital-beehive/num3/num_0685/'>543
+entry: "<a href='/digital-beehive/num1/num_0030/'>30 [Pilgrimage]</a>|<a href='/digital-beehive/num3/num_0686/'>543
   [Pilgrimage]</a>|4545 [PAGE_MISSING]"
 topic:
 first_letter: P

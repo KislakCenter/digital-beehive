@@ -3,7 +3,7 @@ pid: index_2296
 volume: Volume 3
 image_number: '28'
 head: lime
-entry: "<a href='/digital-beehive/num6/num_2003/'>1396 [Lime]</a>"
+entry: "<a href='/digital-beehive/num6/num_2004/'>1396 [Lime]</a>"
 topic:
 first_letter: L
 page: "<a href='/digital-beehive/toc/toc1_081/'>p.31 [Image 1.91]</a>"

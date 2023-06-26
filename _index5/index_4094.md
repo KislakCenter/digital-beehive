@@ -3,8 +3,8 @@ pid: index_4094
 volume: Volume 3
 image_number: '47'
 head: terms
-entry: "<a href='/digital-beehive/num3/num_0676/'>537 [Terms in didascalia]</a>|<a
-  href='/digital-beehive/num6/num_1937/'>1364 [Casuists]</a>"
+entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>|<a
+  href='/digital-beehive/num6/num_1938/'>1364 [Casuists]</a>"
 topic:
 first_letter: T
 page:

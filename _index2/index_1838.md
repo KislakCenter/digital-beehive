@@ -3,8 +3,8 @@ pid: index_1838
 volume: Volume 3
 image_number: '24'
 head: hinderance
-entry: "<a href='/digital-beehive/alpha2/alpha_0424/'>a</a>|<a href='/digital-beehive/num3/num_0736/'>576
-  [Hinderance]</a>|<a href='/digital-beehive/num7/num_2588/'>1683 [Hinderance]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0424/'>a</a>|<a href='/digital-beehive/num3/num_0737/'>576
+  [Hinderance]</a>|<a href='/digital-beehive/num7/num_2589/'>1683 [Hinderance]</a>"
 topic:
 first_letter: H
 page:

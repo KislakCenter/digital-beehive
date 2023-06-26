@@ -3,7 +3,7 @@ pid: index_0533
 volume: Volume 3
 image_number: '11'
 head: capital offence
-entry: "<a href='/digital-beehive/alpha1/alpha_0120/'>a</a>|<a href='/digital-beehive/num3/num_0865/'>638
+entry: "<a href='/digital-beehive/alpha1/alpha_0120/'>a</a>|<a href='/digital-beehive/num3/num_0866/'>638
   [Capital Offences]</a>"
 topic:
 first_letter: C

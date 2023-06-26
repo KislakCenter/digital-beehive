@@ -3,7 +3,7 @@ pid: index_0679
 volume: Volume 3
 image_number: '13'
 head: civil war
-entry: "<a href='/digital-beehive/num5/num_1630/'>1195 [Civil war]</a>"
+entry: "<a href='/digital-beehive/num5/num_1631/'>1195 [Civil war]</a>"
 topic:
 first_letter: C
 page:

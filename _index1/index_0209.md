@@ -3,7 +3,7 @@ pid: index_0209
 volume: Volume 3
 image_number: '8'
 head: army
-entry: 864 [[PAGE_MISSING]]|<a href='/digital-beehive/num8/num_2771/'>1891 [Armies
+entry: 864 [[PAGE_MISSING]]|<a href='/digital-beehive/num8/num_2772/'>1891 [Armies
   or Hosts]</a>
 topic:
 first_letter: A

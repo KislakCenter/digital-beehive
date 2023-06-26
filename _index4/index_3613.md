@@ -3,8 +3,8 @@ pid: index_3613
 volume: Volume 3
 image_number: '42'
 head: Self denial
-entry: "<a href='/digital-beehive/alpha4/alpha_0853/'>a</a>|<a href='/digital-beehive/num4/num_1254/'>938
-  [Self denial]</a>|<a href='/digital-beehive/num8/num_2933/'>2000 [Selfdenial]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0853/'>a</a>|<a href='/digital-beehive/num4/num_1255/'>938
+  [Self denial]</a>|<a href='/digital-beehive/num8/num_2934/'>2000 [Selfdenial]</a>"
 topic:
 first_letter: S
 page:

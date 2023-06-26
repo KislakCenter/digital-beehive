@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '7'
 head: after sowre sweet
 entry: "<a href='/digital-beehive/num1/num_0004/'>4 [After Sowre comes the Sweet]</a>|<a
-  href='/digital-beehive/num10/num_3265/'>2301 [After Soure comes Sweet]</a>"
+  href='/digital-beehive/num10/num_3266/'>2301 [After Soure comes Sweet]</a>"
 topic:
 first_letter: A
 page:

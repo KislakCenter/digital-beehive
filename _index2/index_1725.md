@@ -3,7 +3,7 @@ pid: index_1725
 volume: Volume 3
 image_number: '23'
 head: Guiana
-entry: "<a href='/digital-beehive/num7/num_2245/'>1517 [Guiana]</a>"
+entry: "<a href='/digital-beehive/num7/num_2246/'>1517 [Guiana]</a>"
 topic:
 first_letter: G
 page:

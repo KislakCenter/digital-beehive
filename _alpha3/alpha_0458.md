@@ -8,7 +8,7 @@ topic: Images
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0448/'>Idolatry</a>|<a href='/digital-beehive/num4/num_1273/'>955
+xref: "<a href='/digital-beehive/alpha3/alpha_0448/'>Idolatry</a>|<a href='/digital-beehive/num4/num_1274/'>955
   [Images]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1956/'>images</a>"

@@ -3,7 +3,7 @@ pid: index_2723
 volume: Volume 3
 image_number: '32'
 head: noisom
-entry: "<a href='/digital-beehive/num3/num_0914/'>662 [Irksomness]</a>"
+entry: "<a href='/digital-beehive/num3/num_0915/'>662 [Irksomness]</a>"
 topic:
 first_letter: N
 page:

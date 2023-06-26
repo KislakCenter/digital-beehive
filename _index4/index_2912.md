@@ -3,7 +3,7 @@ pid: index_2912
 volume: Volume 3
 image_number: '34'
 head: past remedy
-entry: "<a href='/digital-beehive/num3/num_0832/'>620 [Despair]</a>|<a href='/digital-beehive/num7/num_2601/'>1689
+entry: "<a href='/digital-beehive/num3/num_0833/'>620 [Despair]</a>|<a href='/digital-beehive/num7/num_2602/'>1689
   [Despair]</a>"
 topic:
 first_letter: P

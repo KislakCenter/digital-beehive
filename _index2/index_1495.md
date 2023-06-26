@@ -3,7 +3,7 @@ pid: index_1495
 volume: Volume 3
 image_number: '21'
 head: fool & folly
-entry: "<a href='/digital-beehive/alpha2/alpha_0339/'>a</a>|<a href='/digital-beehive/num5/num_1579/'>1159
+entry: "<a href='/digital-beehive/alpha2/alpha_0339/'>a</a>|<a href='/digital-beehive/num5/num_1580/'>1159
   [Folly]</a>"
 topic:
 first_letter: F

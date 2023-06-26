@@ -3,7 +3,7 @@ pid: index_1675
 volume: Volume 3
 image_number: '22'
 head: governmt of thoughts
-entry: "<a href='/digital-beehive/num6/num_1811/'>1297 [Governmt of thoughts]</a>"
+entry: "<a href='/digital-beehive/num6/num_1812/'>1297 [Governmt of thoughts]</a>"
 topic:
 first_letter: G
 page:

@@ -3,7 +3,7 @@ pid: index_3346
 volume: Volume 3
 image_number: '39'
 head: relapse
-entry: "<a href='/digital-beehive/num7/num_2468/'>1628 [Relapses]</a>"
+entry: "<a href='/digital-beehive/num7/num_2469/'>1628 [Relapses]</a>"
 topic:
 first_letter: R
 page:

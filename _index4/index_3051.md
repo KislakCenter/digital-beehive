@@ -3,7 +3,7 @@ pid: index_3051
 volume: Volume 3
 image_number: '36'
 head: to plunder
-entry: "<a href='/digital-beehive/num6/num_1887/'>1339 [To plunder]</a>"
+entry: "<a href='/digital-beehive/num6/num_1888/'>1339 [To plunder]</a>"
 topic:
 first_letter: P
 page:

@@ -3,7 +3,7 @@ pid: index_4083
 volume: Volume 3
 image_number: '47'
 head: Sir Wm. Temple
-entry: "<a href='/digital-beehive/num6/num_2034/'>1411 [Wm Temple]</a>"
+entry: "<a href='/digital-beehive/num6/num_2035/'>1411 [Wm Temple]</a>"
 topic:
 first_letter: T
 page:

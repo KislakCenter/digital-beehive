@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '30'
 head: miracle
 entry: "<a href='/digital-beehive/alpha3/alpha_0599/'>a</a>|<a href='/digital-beehive/num1/num_0261/'>243
-  [Miracles]</a>|<a href='/digital-beehive/num9/num_3073/'>2134 [Miracle]</a>"
+  [Miracles]</a>|<a href='/digital-beehive/num9/num_3074/'>2134 [Miracle]</a>"
 topic:
 first_letter: M
 page:

@@ -3,7 +3,7 @@ pid: index_0758
 volume: Volume 3
 image_number: '14'
 head: compassion
-entry: "<a href='/digital-beehive/alpha1/alpha_0165/'>a</a>|<a href='/digital-beehive/num6/num_2094/'>1436
+entry: "<a href='/digital-beehive/alpha1/alpha_0165/'>a</a>|<a href='/digital-beehive/num6/num_2095/'>1436
   [Commiseration]</a>"
 topic:
 first_letter: C

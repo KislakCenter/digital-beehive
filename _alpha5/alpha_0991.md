@@ -8,7 +8,7 @@ topic: Vagabonds
 first_letter: U/V
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_0981/'>Travelling</a>|<a href='/digital-beehive/num3/num_0840/'>623
+xref: "<a href='/digital-beehive/alpha5/alpha_0981/'>Travelling</a>|<a href='/digital-beehive/num3/num_0841/'>623
   [Vagabond]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4287/'>vagabonds</a>"

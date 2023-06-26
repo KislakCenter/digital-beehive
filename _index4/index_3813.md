@@ -3,7 +3,7 @@ pid: index_3813
 volume: Volume 3
 image_number: '44'
 head: Sour
-entry: "<a href='/digital-beehive/num9/num_3024/'>2088 [Sour]</a>"
+entry: "<a href='/digital-beehive/num9/num_3025/'>2088 [Sour]</a>"
 topic:
 first_letter: S
 page:

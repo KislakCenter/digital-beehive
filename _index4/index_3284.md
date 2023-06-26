@@ -3,7 +3,7 @@ pid: index_3284
 volume: Volume 3
 image_number: '38'
 head: rainbow
-entry: "<a href='/digital-beehive/alpha4/alpha_0776/'>a</a>|<a href='/digital-beehive/num7/num_2386/'>1590
+entry: "<a href='/digital-beehive/alpha4/alpha_0776/'>a</a>|<a href='/digital-beehive/num7/num_2387/'>1590
   [Rainbow]</a>"
 topic:
 first_letter: R

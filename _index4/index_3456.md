@@ -3,7 +3,7 @@ pid: index_3456
 volume: Volume 3
 image_number: '40'
 head: to rot
-entry: "<a href='/digital-beehive/num4/num_1082/'>866 [To Rot]</a>"
+entry: "<a href='/digital-beehive/num4/num_1083/'>866 [To Rot]</a>"
 topic:
 first_letter: R
 page:

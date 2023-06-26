@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '8'
 head: answer
 entry: "<a href='/digital-beehive/alpha1/alpha_0031/'>a</a>|<a href='/digital-beehive/num1/num_0262/'>243
-  [Answer]</a>|<a href='/digital-beehive/num8/num_2872/'>1948 [Answer]</a>"
+  [Answer]</a>|<a href='/digital-beehive/num8/num_2873/'>1948 [Answer]</a>"
 topic:
 first_letter: A
 page:

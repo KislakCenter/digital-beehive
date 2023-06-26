@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '12'
 head: Christ in us
 entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with - & in men]</a>|<a
-  href='/digital-beehive/num2/num_0299/'>267 [God is in us]</a>|<a href='/digital-beehive/num4/num_1253/'>937
-  [Union with God]</a>|<a href='/digital-beehive/num6/num_2117/'>1448 [Union with
+  href='/digital-beehive/num2/num_0299/'>267 [God is in us]</a>|<a href='/digital-beehive/num4/num_1254/'>937
+  [Union with God]</a>|<a href='/digital-beehive/num6/num_2118/'>1448 [Union with
   God]</a>"
 topic:
 first_letter: C

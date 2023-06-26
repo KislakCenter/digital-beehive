@@ -3,7 +3,7 @@ pid: index_0727
 volume: Volume 3
 image_number: '13'
 head: comb
-entry: "<a href='/digital-beehive/num3/num_0916/'>663 [Comb]</a>"
+entry: "<a href='/digital-beehive/num3/num_0917/'>663 [Comb]</a>"
 topic:
 first_letter: C
 page:

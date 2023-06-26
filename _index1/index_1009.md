@@ -3,7 +3,7 @@ pid: index_1009
 volume: Volume 3
 image_number: '16'
 head: denial
-entry: "<a href='/digital-beehive/alpha1/alpha_0227/'>a</a>|<a href='/digital-beehive/num6/num_2172/'>1475
+entry: "<a href='/digital-beehive/alpha1/alpha_0227/'>a</a>|<a href='/digital-beehive/num6/num_2173/'>1475
   [Denial]</a>|4764 [PAGE_MISSING]"
 topic:
 first_letter: D

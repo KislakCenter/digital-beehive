@@ -3,7 +3,7 @@ pid: index_3986
 volume: Volume 3
 image_number: '46'
 head: superfluity
-entry: "<a href='/digital-beehive/alpha4/alpha_0933/'>a</a>|<a href='/digital-beehive/num5/num_1719/'>1245
+entry: "<a href='/digital-beehive/alpha4/alpha_0933/'>a</a>|<a href='/digital-beehive/num5/num_1720/'>1245
   [Superfluous : Needless]</a>"
 topic:
 first_letter: S

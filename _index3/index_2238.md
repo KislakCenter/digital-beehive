@@ -3,8 +3,8 @@ pid: index_2238
 volume: Volume 3
 image_number: '28'
 head: learning
-entry: "<a href='/digital-beehive/alpha3/alpha_0530/'>a</a>|<a href='/digital-beehive/num5/num_1548/'>1139
-  [Learning]</a>|<a href='/digital-beehive/num8/num_2901/'>1973 [Learning]</a>|4747
+entry: "<a href='/digital-beehive/alpha3/alpha_0530/'>a</a>|<a href='/digital-beehive/num5/num_1549/'>1139
+  [Learning]</a>|<a href='/digital-beehive/num8/num_2902/'>1973 [Learning]</a>|4747
   [PAGE_MISSING]"
 topic:
 first_letter: L

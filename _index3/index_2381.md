@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '29'
 head: magnanimity
 entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>|<a href='/digital-beehive/num3/num_0664/'>529
-  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1689/'>1229
+  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1690/'>1229
   [Magnanimity]</a>"
 topic:
 first_letter: M

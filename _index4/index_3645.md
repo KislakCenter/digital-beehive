@@ -3,8 +3,8 @@ pid: index_3645
 volume: Volume 3
 image_number: '42'
 head: servant & service
-entry: "<a href='/digital-beehive/alpha4/alpha_0863/'>a</a>|<a href='/digital-beehive/num5/num_1698/'>1233
-  [Servants]</a>|<a href='/digital-beehive/num5/num_1699/'>1233 [friendliest office]</a>|4553
+entry: "<a href='/digital-beehive/alpha4/alpha_0863/'>a</a>|<a href='/digital-beehive/num5/num_1699/'>1233
+  [Servants]</a>|<a href='/digital-beehive/num5/num_1700/'>1233 [friendliest office]</a>|4553
   [PAGE_MISSING]"
 topic:
 first_letter: S

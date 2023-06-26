@@ -14,12 +14,12 @@ index: "<a href='/digital-beehive/index5/index_4380/'>unfruitful</a>"
 item: "#item-699585c8d"
 unparsed:
 line: 'Entry: Unfruitfullness|Topic: Unfruitfullness|Xref: Barrenness|Index: unfruitful|#item-699585c8d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/815,1755,2943,497/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/813,1753,2945,499/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528912237624
-sort_value: '206211755'
+sort_value: '206211753'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/815,1755,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/813,1753,600,180/250,/0/default.jpg
 label: Unfruitfullness
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 issue:

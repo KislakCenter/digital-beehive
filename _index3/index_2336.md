@@ -3,7 +3,7 @@ pid: index_2336
 volume: Volume 3
 image_number: '29'
 head: lost arts
-entry: "<a href='/digital-beehive/num7/num_2428/'>1610 [Lost Arts]</a>"
+entry: "<a href='/digital-beehive/num7/num_2429/'>1610 [Lost Arts]</a>"
 topic:
 first_letter: L
 page:

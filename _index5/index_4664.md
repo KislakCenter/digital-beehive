@@ -3,7 +3,7 @@ pid: index_4664
 volume: Volume 3
 image_number: '54'
 head: to scare, affright, or fright
-entry: "<a href='/digital-beehive/num8/num_2684/'>1755 [To Scare]</a>"
+entry: "<a href='/digital-beehive/num8/num_2685/'>1755 [To Scare]</a>"
 topic:
 first_letter: insertion
 page:

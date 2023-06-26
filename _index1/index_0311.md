@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '9'
 head: baudry
 entry: "<a href='/digital-beehive/alpha1/alpha_0065/'>a</a>|765 [PAGE_MISSING]|<a
-  href='/digital-beehive/num9/num_3002/'>2068 [Bawdry]</a>"
+  href='/digital-beehive/num9/num_3003/'>2068 [Bawdry]</a>"
 topic:
 first_letter: B
 page:

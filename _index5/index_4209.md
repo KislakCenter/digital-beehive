@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '48'
 head: tradition
 entry: "<a href='/digital-beehive/alpha5/alpha_0978/'>a</a>|<a href='/digital-beehive/num2/num_0605/'>484
-  [Tradition]</a>|<a href='/digital-beehive/num6/num_1960/'>1376 [Tradition]</a>"
+  [Tradition]</a>|<a href='/digital-beehive/num6/num_1961/'>1376 [Tradition]</a>"
 topic:
 first_letter: T
 page:

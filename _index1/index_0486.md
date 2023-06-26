@@ -3,7 +3,7 @@ pid: index_0486
 volume: Volume 3
 image_number: '11'
 head: Dr Burnet
-entry: "<a href='/digital-beehive/num11/num_3493/'>4800 [Dr Burnet]</a>"
+entry: "<a href='/digital-beehive/num11/num_3494/'>4800 [Dr Burnet]</a>"
 topic:
 first_letter: B
 page:

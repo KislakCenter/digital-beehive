@@ -3,7 +3,7 @@ pid: index_3929
 volume: Volume 3
 image_number: '45'
 head: to strangle
-entry: "<a href='/digital-beehive/num4/num_1122/'>881 [Hanging]</a>"
+entry: "<a href='/digital-beehive/num4/num_1123/'>881 [Hanging]</a>"
 topic:
 first_letter: S
 page:

@@ -3,8 +3,8 @@ pid: index_3065
 volume: Volume 3
 image_number: '36'
 head: politick
-entry: "<a href='/digital-beehive/alpha4/alpha_0720/'>a</a>|<a href='/digital-beehive/num5/num_1333/'>1001
-  [Politick]</a>|<a href='/digital-beehive/num7/num_2672/'>1744 [Politick]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0720/'>a</a>|<a href='/digital-beehive/num5/num_1334/'>1001
+  [Politick]</a>|<a href='/digital-beehive/num7/num_2673/'>1744 [Politick]</a>"
 topic:
 first_letter: P
 page:

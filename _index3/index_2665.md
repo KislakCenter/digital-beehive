@@ -3,7 +3,7 @@ pid: index_2665
 volume: Volume 3
 image_number: '32'
 head: nazarites
-entry: "<a href='/digital-beehive/num8/num_2805/'>1912 [Nazarites]</a>"
+entry: "<a href='/digital-beehive/num8/num_2806/'>1912 [Nazarites]</a>"
 topic:
 first_letter: N
 page:

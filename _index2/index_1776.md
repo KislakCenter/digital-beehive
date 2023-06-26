@@ -3,7 +3,7 @@ pid: index_1776
 volume: Volume 3
 image_number: '23'
 head: health
-entry: "<a href='/digital-beehive/alpha2/alpha_0406/'>a</a>|<a href='/digital-beehive/num7/num_2224/'>1506
+entry: "<a href='/digital-beehive/alpha2/alpha_0406/'>a</a>|<a href='/digital-beehive/num7/num_2225/'>1506
   [Health]</a>"
 topic:
 first_letter: H
