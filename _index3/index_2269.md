@@ -3,7 +3,7 @@ pid: index_2269
 volume: Volume 3
 image_number: '28'
 head: Levites
-entry: "<a href='/digital-beehive/num8/num_2802/'>1909 [Levites]</a>"
+entry: "<a href='/digital-beehive/num8/num_2803/'>1909 [Levites]</a>"
 topic:
 first_letter: L
 page:

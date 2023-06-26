@@ -3,8 +3,8 @@ pid: index_2163
 volume: Volume 3
 image_number: '27'
 head: kingdom of God
-entry: "<a href='/digital-beehive/alpha3/alpha_0503/'>a</a>|<a href='/digital-beehive/num4/num_1176/'>906
-  [Kingdom]</a>|<a href='/digital-beehive/num7/num_2599/'>1688 [Kingdom of Christ]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0503/'>a</a>|<a href='/digital-beehive/num4/num_1177/'>906
+  [Kingdom]</a>|<a href='/digital-beehive/num7/num_2600/'>1688 [Kingdom of Christ]</a>"
 topic:
 first_letter: K
 page:

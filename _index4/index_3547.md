@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '41'
 head: schole
 entry: "<a href='/digital-beehive/alpha4/alpha_0839/'>a</a>|839 [PAGE_MISSING]|<a
-  href='/digital-beehive/num10/num_3325/'>2354 [Schools]</a>"
+  href='/digital-beehive/num10/num_3326/'>2354 [Schools]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"

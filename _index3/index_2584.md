@@ -3,7 +3,7 @@ pid: index_2584
 volume: Volume 3
 image_number: '31'
 head: morose
-entry: "<a href='/digital-beehive/num3/num_0902/'>655 [Sternness]</a>"
+entry: "<a href='/digital-beehive/num3/num_0903/'>655 [Sternness]</a>"
 topic:
 first_letter: M
 page:

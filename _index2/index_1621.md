@@ -3,7 +3,7 @@ pid: index_1621
 volume: Volume 3
 image_number: '22'
 head: gleanings
-entry: "<a href='/digital-beehive/num8/num_2789/'>1903 [Gleanings]</a>"
+entry: "<a href='/digital-beehive/num8/num_2790/'>1903 [Gleanings]</a>"
 topic:
 first_letter: G
 page:

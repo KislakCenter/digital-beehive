@@ -3,7 +3,7 @@ pid: index_1873
 volume: Volume 3
 image_number: '24'
 head: horse comb
-entry: "<a href='/digital-beehive/num3/num_0917/'>663 [horse Comb]</a>"
+entry: "<a href='/digital-beehive/num3/num_0918/'>663 [horse Comb]</a>"
 topic:
 first_letter: H
 page:

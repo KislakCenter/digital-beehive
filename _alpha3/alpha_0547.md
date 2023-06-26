@@ -8,7 +8,7 @@ topic: Logick
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0248/'>disputation</a>|<a href='/digital-beehive/num4/num_1118/'>879
+xref: "<a href='/digital-beehive/alpha1/alpha_0248/'>disputation</a>|<a href='/digital-beehive/num4/num_1119/'>879
   [Logick]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2320/'>logick</a>"

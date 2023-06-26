@@ -8,8 +8,8 @@ topic: Travelling
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_0991/'>Vagabonds</a>|<a href='/digital-beehive/num3/num_1043/'>713
-  [Departure]</a>|<a href='/digital-beehive/num5/num_1566/'>1149 [Travelling]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0991/'>Vagabonds</a>|<a href='/digital-beehive/num3/num_1044/'>713
+  [Departure]</a>|<a href='/digital-beehive/num5/num_1567/'>1149 [Travelling]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4221/'>travelling</a>"
 item: "#item-d0f258fc8"

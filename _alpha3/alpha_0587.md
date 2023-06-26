@@ -8,13 +8,13 @@ topic: Member
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0092/'>Body</a>|<a href='/digital-beehive/num4/num_1307/'>979
+xref: "<a href='/digital-beehive/alpha1/alpha_0092/'>body</a>|<a href='/digital-beehive/num4/num_1308/'>979
   [Members]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2479/'>members</a>"
 item: "#item-8617f3d8e"
 unparsed:
-line: 'Entry: Member|Topic: Member|Xref: Body|Xref: 979 [Members]|Index: members|#item-8617f3d8e'
+line: 'Entry: Member|Topic: Member|Xref: body|Xref: 979 [Members]|Index: members|#item-8617f3d8e'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/757,1666,2973,574/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564774016175

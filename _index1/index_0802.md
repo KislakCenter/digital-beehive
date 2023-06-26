@@ -3,7 +3,7 @@ pid: index_0802
 volume: Volume 3
 image_number: '14'
 head: consecration
-entry: "<a href='/digital-beehive/num4/num_1160/'>895 [Consecration]</a>"
+entry: "<a href='/digital-beehive/num4/num_1161/'>895 [Consecration]</a>"
 topic:
 first_letter: C
 page:

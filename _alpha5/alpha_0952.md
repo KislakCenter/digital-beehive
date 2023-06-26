@@ -8,7 +8,7 @@ topic: New Testamt
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1227/'>926 [New Testament]</a>"
+xref: "<a href='/digital-beehive/num4/num_1228/'>926 [New Testament]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4099/'>testament new</a>"
 item: "#item-84496680a"

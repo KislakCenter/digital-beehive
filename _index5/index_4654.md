@@ -3,7 +3,7 @@ pid: index_4654
 volume: Volume 3
 image_number: '53'
 head: Zenexton
-entry: "<a href='/digital-beehive/num9/num_3071/'>2132 [Zenexton]</a>"
+entry: "<a href='/digital-beehive/num9/num_3072/'>2132 [Zenexton]</a>"
 topic:
 first_letter: Z
 page:

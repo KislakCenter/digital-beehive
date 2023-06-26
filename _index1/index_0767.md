@@ -3,7 +3,7 @@ pid: index_0767
 volume: Volume 3
 image_number: '14'
 head: compulsion in matters of rel
-entry: "<a href='/digital-beehive/num5/num_1404/'>1049 [Compulsion (in Matters of
+entry: "<a href='/digital-beehive/num5/num_1405/'>1049 [Compulsion (in Matters of
   Religion]</a>"
 topic:
 first_letter: C

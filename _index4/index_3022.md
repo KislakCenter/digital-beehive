@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '35'
 head: philosophy
 entry: "<a href='/digital-beehive/alpha4/alpha_0708/'>a</a>|<a href='/digital-beehive/num2/num_0564/'>453
-  [Philosophy]</a>|<a href='/digital-beehive/num7/num_2618/'>1698 [Philosophy]</a>|<a
-  href='/digital-beehive/num11/num_3519/'>4824 [Philosophy]</a>"
+  [Philosophy]</a>|<a href='/digital-beehive/num7/num_2619/'>1698 [Philosophy]</a>|<a
+  href='/digital-beehive/num11/num_3520/'>4824 [Philosophy]</a>"
 topic:
 first_letter: P
 page:

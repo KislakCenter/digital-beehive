@@ -3,7 +3,7 @@ pid: index_0663
 volume: Volume 3
 image_number: '13'
 head: church yard
-entry: "<a href='/digital-beehive/num11/num_3503/'>4809 [Church yard]</a>"
+entry: "<a href='/digital-beehive/num11/num_3504/'>4809 [Church yard]</a>"
 topic:
 first_letter: C
 page:

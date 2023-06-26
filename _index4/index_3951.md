@@ -3,7 +3,7 @@ pid: index_3951
 volume: Volume 3
 image_number: '45'
 head: sturgeon
-entry: "<a href='/digital-beehive/num6/num_2009/'>1398 [Sturgeons]</a>"
+entry: "<a href='/digital-beehive/num6/num_2010/'>1398 [Sturgeons]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_0333
 volume: Volume 3
 image_number: '9'
 head: beer
-entry: "<a href='/digital-beehive/alpha1/alpha_0072/'>a</a>|<a href='/digital-beehive/num9/num_3076/'>2137
+entry: "<a href='/digital-beehive/alpha1/alpha_0072/'>a</a>|<a href='/digital-beehive/num9/num_3077/'>2137
   [Beer]</a>"
 topic:
 first_letter: B

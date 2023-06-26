@@ -3,7 +3,7 @@ pid: index_2122
 volume: Volume 3
 image_number: '27'
 head: irresolution
-entry: "<a href='/digital-beehive/num10/num_3259/'>2295 [Irresolution]</a>"
+entry: "<a href='/digital-beehive/num10/num_3260/'>2295 [Irresolution]</a>"
 topic:
 first_letter: I/J
 page:

@@ -8,7 +8,7 @@ topic: Subjects
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num2/num_0477/'>392 [Allegiance]</a>|<a href='/digital-beehive/num6/num_1944/'>1368
+xref: "<a href='/digital-beehive/num2/num_0477/'>392 [Allegiance]</a>|<a href='/digital-beehive/num6/num_1945/'>1368
   [the duties of Subjects]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3953/'>subjects</a>"

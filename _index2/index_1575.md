@@ -3,7 +3,7 @@ pid: index_1575
 volume: Volume 3
 image_number: '21'
 head: gall
-entry: "<a href='/digital-beehive/num5/num_1473/'>1090 [Gall]</a>"
+entry: "<a href='/digital-beehive/num5/num_1474/'>1090 [Gall]</a>"
 topic:
 first_letter: G
 page:

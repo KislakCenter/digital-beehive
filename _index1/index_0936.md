@@ -3,7 +3,7 @@ pid: index_0936
 volume: Volume 3
 image_number: '15'
 head: to cut off
-entry: "<a href='/digital-beehive/num3/num_0909/'>659 [to lop]</a>"
+entry: "<a href='/digital-beehive/num3/num_0910/'>659 [to lop]</a>"
 topic:
 first_letter: C
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '36'
 head: book prayers
 entry: "<a href='/digital-beehive/alpha4/alpha_0729/'>a</a>|<a href='/digital-beehive/num2/num_0285/'>259
-  [Book Prayers]</a>|<a href='/digital-beehive/num7/num_2591/'>1684 [Prayer Books]</a>"
+  [Book Prayers]</a>|<a href='/digital-beehive/num7/num_2592/'>1684 [Prayer Books]</a>"
 topic:
 first_letter: P
 page:

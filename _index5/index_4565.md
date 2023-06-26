@@ -3,7 +3,7 @@ pid: index_4565
 volume: Volume 3
 image_number: '53'
 head: winter
-entry: "<a href='/digital-beehive/alpha5/alpha_1044/'>a</a>|<a href='/digital-beehive/num5/num_1469/'>1088
+entry: "<a href='/digital-beehive/alpha5/alpha_1044/'>a</a>|<a href='/digital-beehive/num5/num_1470/'>1088
   [Winter]</a>"
 topic:
 first_letter: W

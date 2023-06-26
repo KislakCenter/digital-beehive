@@ -3,7 +3,7 @@ pid: index_3636
 volume: Volume 3
 image_number: '42'
 head: sensible
-entry: "<a href='/digital-beehive/num5/num_1441/'>1070 [Insensible]</a>"
+entry: "<a href='/digital-beehive/num5/num_1442/'>1070 [Insensible]</a>"
 topic:
 first_letter: S
 page:

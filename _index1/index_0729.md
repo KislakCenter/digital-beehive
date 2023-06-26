@@ -3,8 +3,8 @@ pid: index_0729
 volume: Volume 3
 image_number: '13'
 head: comedy
-entry: "<a href='/digital-beehive/alpha1/alpha_0156/'>a</a>|<a href='/digital-beehive/num4/num_1187/'>909
-  [Comedies]</a>|<a href='/digital-beehive/num6/num_1968/'>1380 [Comedie]</a>|4558
+entry: "<a href='/digital-beehive/alpha1/alpha_0156/'>a</a>|<a href='/digital-beehive/num4/num_1188/'>909
+  [Comedies]</a>|<a href='/digital-beehive/num6/num_1969/'>1380 [Comedie]</a>|4558
   [PAGE_MISSING]"
 topic:
 first_letter: C

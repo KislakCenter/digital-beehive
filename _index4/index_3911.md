@@ -3,8 +3,8 @@ pid: index_3911
 volume: Volume 3
 image_number: '45'
 head: stones
-entry: "<a href='/digital-beehive/alpha4/alpha_0918/'>a</a>|<a href='/digital-beehive/num3/num_0775/'>596
-  [The Stone Gravel of the Kidneys]</a>|<a href='/digital-beehive/num9/num_3053/'>2116
+entry: "<a href='/digital-beehive/alpha4/alpha_0918/'>a</a>|<a href='/digital-beehive/num3/num_0776/'>596
+  [The Stone Gravel of the Kidneys]</a>|<a href='/digital-beehive/num9/num_3054/'>2116
   [Stones]</a>"
 topic:
 first_letter: S

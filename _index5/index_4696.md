@@ -3,7 +3,7 @@ pid: index_4696
 volume: Volume 3
 image_number: '54'
 head: pink. gillifl.
-entry: "<a href='/digital-beehive/num10/num_3266/'>2302 [Pincks : Gilli flowers]</a>"
+entry: "<a href='/digital-beehive/num10/num_3267/'>2302 [Pincks : Gilli flowers]</a>"
 topic:
 first_letter: insertion
 page:

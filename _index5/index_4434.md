@@ -3,7 +3,7 @@ pid: index_4434
 volume: Volume 3
 image_number: '51'
 head: voyage
-entry: "<a href='/digital-beehive/num5/num_1566/'>1149 [Travelling]</a>"
+entry: "<a href='/digital-beehive/num5/num_1567/'>1149 [Travelling]</a>"
 topic:
 first_letter: U/V
 page:

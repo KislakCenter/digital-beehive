@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '45'
 head: strife
 entry: "<a href='/digital-beehive/alpha4/alpha_0924/'>a</a>|<a href='/digital-beehive/num2/num_0414/'>352
-  [Strife]</a>|<a href='/digital-beehive/num9/num_3109/'>2167 [Strife]</a>"
+  [Strife]</a>|<a href='/digital-beehive/num9/num_3110/'>2167 [Strife]</a>"
 topic:
 first_letter: S
 page:

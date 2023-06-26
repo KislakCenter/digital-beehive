@@ -8,7 +8,7 @@ topic: Antipathy
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0927/'>670 [Antipathy]</a>"
+xref: "<a href='/digital-beehive/num3/num_0928/'>670 [Antipathy]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0160/'>antipathy</a>"
 item: "#item-6a7ee57cc"

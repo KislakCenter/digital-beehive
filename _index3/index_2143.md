@@ -3,7 +3,7 @@ pid: index_2143
 volume: Volume 3
 image_number: '27'
 head: justice of the peace
-entry: "<a href='/digital-beehive/num8/num_2770/'>1835 [Justice of the Peace]</a>|4752
+entry: "<a href='/digital-beehive/num8/num_2771/'>1835 [Justice of the Peace]</a>|4752
   [PAGE_MISSING]"
 topic:
 first_letter: I/J

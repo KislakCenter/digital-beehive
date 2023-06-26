@@ -3,7 +3,7 @@ pid: index_0567
 volume: Volume 3
 image_number: '12'
 head: Cato
-entry: "<a href='/digital-beehive/num5/num_1669/'>1219 [Cato]</a>"
+entry: "<a href='/digital-beehive/num5/num_1670/'>1219 [Cato]</a>"
 topic:
 first_letter: C
 page:

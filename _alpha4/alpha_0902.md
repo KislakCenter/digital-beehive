@@ -8,7 +8,7 @@ topic: Souldier
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_1024/'>War</a>|<a href='/digital-beehive/num5/num_1434/'>1066
+xref: "<a href='/digital-beehive/alpha5/alpha_1024/'>War</a>|<a href='/digital-beehive/num5/num_1435/'>1066
   [Souldier]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3810/'>souldier</a>"

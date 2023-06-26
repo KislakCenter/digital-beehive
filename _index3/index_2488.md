@@ -3,7 +3,7 @@ pid: index_2488
 volume: Volume 3
 image_number: '30'
 head: mercurius
-entry: "<a href='/digital-beehive/num7/num_2343/'>1566 [Quick Silver]</a>|<a href='/digital-beehive/num9/num_3094/'>2153
+entry: "<a href='/digital-beehive/num7/num_2344/'>1566 [Quick Silver]</a>|<a href='/digital-beehive/num9/num_3095/'>2153
   [Mercurius]</a>"
 topic:
 first_letter: M

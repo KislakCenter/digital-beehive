@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '19'
 head: example
 entry: "<a href='/digital-beehive/alpha2/alpha_0298/'>a</a>|<a href='/digital-beehive/num2/num_0327/'>290
-  [for Example]</a>|<a href='/digital-beehive/num7/num_2462/'>1625 [Example]</a>|<a
-  href='/digital-beehive/num9/num_2972/'>2038 [Example]</a>"
+  [for Example]</a>|<a href='/digital-beehive/num7/num_2463/'>1625 [Example]</a>|<a
+  href='/digital-beehive/num9/num_2973/'>2038 [Example]</a>"
 topic:
 first_letter: E
 page:

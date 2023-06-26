@@ -8,7 +8,7 @@ topic: Gout
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1713/'>1241 [Gout]</a>"
+xref: "<a href='/digital-beehive/num5/num_1714/'>1241 [Gout]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1679/'>gout</a>"
 item: "#item-d2563939d"

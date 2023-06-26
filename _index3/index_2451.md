@@ -3,7 +3,7 @@ pid: index_2451
 volume: Volume 3
 image_number: '30'
 head: Mauritius
-entry: "<a href='/digital-beehive/num6/num_1752/'>1262 [Mauritius]</a>"
+entry: "<a href='/digital-beehive/num6/num_1753/'>1262 [Mauritius]</a>"
 topic:
 first_letter: M
 page:

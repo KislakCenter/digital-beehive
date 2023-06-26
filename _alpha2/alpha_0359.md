@@ -8,7 +8,7 @@ topic: Garden Garlick
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0970/'>685 [Garlick]</a>"
+xref: "<a href='/digital-beehive/num3/num_0971/'>685 [Garlick]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1582/'>garlick</a>"
 item: "#item-d6a50bdc4"

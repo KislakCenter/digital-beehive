@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '14'
 head: cookery
 entry: "<a href='/digital-beehive/alpha1/alpha_0181/'>a</a>|<a href='/digital-beehive/num1/num_0254/'>236
-  [Cookery]</a>|<a href='/digital-beehive/num9/num_2988/'>2054 [Cookery]</a>"
+  [Cookery]</a>|<a href='/digital-beehive/num9/num_2989/'>2054 [Cookery]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_2643
 volume: Volume 3
 image_number: '32'
 head: nard
-entry: "<a href='/digital-beehive/num8/num_2857/'>1938 [Lavender]</a>"
+entry: "<a href='/digital-beehive/num8/num_2858/'>1938 [Lavender]</a>"
 topic:
 first_letter: N
 page:

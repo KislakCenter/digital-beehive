@@ -3,7 +3,7 @@ pid: index_2873
 volume: Volume 3
 image_number: '34'
 head: Paracelsus
-entry: "<a href='/digital-beehive/num4/num_1300/'>974 [Paracelsus]</a>"
+entry: "<a href='/digital-beehive/num4/num_1301/'>974 [Paracelsus]</a>"
 topic:
 first_letter: P
 page:

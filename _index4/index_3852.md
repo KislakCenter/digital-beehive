@@ -3,7 +3,7 @@ pid: index_3852
 volume: Volume 3
 image_number: '44'
 head: spittle
-entry: "<a href='/digital-beehive/num3/num_0834/'>621 [Spittle]</a>"
+entry: "<a href='/digital-beehive/num3/num_0835/'>621 [Spittle]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_3720
 volume: Volume 3
 image_number: '43'
 head: sin original
-entry: "<a href='/digital-beehive/num5/num_1727/'>1248 [Original Sin]</a>"
+entry: "<a href='/digital-beehive/num5/num_1728/'>1248 [Original Sin]</a>"
 topic:
 first_letter: S
 page:

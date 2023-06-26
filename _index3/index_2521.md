@@ -3,7 +3,7 @@ pid: index_2521
 volume: Volume 3
 image_number: '30'
 head: mine. minerals
-entry: "<a href='/digital-beehive/alpha3/alpha_0598/'>a</a>|<a href='/digital-beehive/num9/num_3095/'>2154
+entry: "<a href='/digital-beehive/alpha3/alpha_0598/'>a</a>|<a href='/digital-beehive/num9/num_3096/'>2154
   [Mineral]</a>"
 topic:
 first_letter: M

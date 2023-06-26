@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0444/'>Hypocrisie</a>|<a href='/digital-beehive/alpha1/alpha_0159/'>false
   Comfort</a>|<a href='/digital-beehive/alpha1/alpha_0194/'>craftiness</a>|<a href='/digital-beehive/alpha4/alpha_0882/'>Simulation</a>|<a
-  href='/digital-beehive/num4/num_1306/'>979 [Falsehood]</a>"
+  href='/digital-beehive/num4/num_1307/'>979 [Falsehood]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1391/'>falshood</a>"
 item: "#item-eeba60407"

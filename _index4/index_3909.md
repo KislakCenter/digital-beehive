@@ -3,7 +3,7 @@ pid: index_3909
 volume: Volume 3
 image_number: '45'
 head: Stoicks
-entry: "<a href='/digital-beehive/num5/num_1437/'>1067 [Stoicks]</a>"
+entry: "<a href='/digital-beehive/num5/num_1438/'>1067 [Stoicks]</a>"
 topic:
 first_letter: S
 page:

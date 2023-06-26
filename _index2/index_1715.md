@@ -3,7 +3,7 @@ pid: index_1715
 volume: Volume 3
 image_number: '23'
 head: grinding
-entry: "<a href='/digital-beehive/num5/num_1590/'>1167 [To whet]</a>"
+entry: "<a href='/digital-beehive/num5/num_1591/'>1167 [To whet]</a>"
 topic:
 first_letter: G
 page:

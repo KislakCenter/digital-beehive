@@ -3,7 +3,7 @@ pid: index_2995
 volume: Volume 3
 image_number: '35'
 head: physicians Names
-entry: "<a href='/digital-beehive/num9/num_3172/'>2228 [Noia Medicorum]</a>"
+entry: "<a href='/digital-beehive/num9/num_3173/'>2228 [Noia Medicorum]</a>"
 topic:
 first_letter: P
 page:

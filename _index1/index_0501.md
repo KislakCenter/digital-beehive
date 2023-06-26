@@ -3,7 +3,7 @@ pid: index_0501
 volume: Volume 3
 image_number: '11'
 head: by reason of
-entry: "<a href='/digital-beehive/num8/num_2760/'>1825 [Sake]</a>"
+entry: "<a href='/digital-beehive/num8/num_2761/'>1825 [Sake]</a>"
 topic:
 first_letter: B
 page:

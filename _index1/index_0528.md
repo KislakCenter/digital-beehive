@@ -3,7 +3,7 @@ pid: index_0528
 volume: Volume 3
 image_number: '11'
 head: cannot
-entry: "<a href='/digital-beehive/num2/num_0387/'>334 [Impotency]</a>|<a href='/digital-beehive/num8/num_2768/'>1833
+entry: "<a href='/digital-beehive/num2/num_0387/'>334 [Impotency]</a>|<a href='/digital-beehive/num8/num_2769/'>1833
   [Impotency]</a>"
 topic:
 first_letter: C

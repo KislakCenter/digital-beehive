@@ -3,7 +3,7 @@ pid: index_1585
 volume: Volume 3
 image_number: '21'
 head: gathering
-entry: "<a href='/digital-beehive/num3/num_0695/'>551 [Collections]</a>"
+entry: "<a href='/digital-beehive/num3/num_0696/'>551 [Collections]</a>"
 topic:
 first_letter: G
 page:

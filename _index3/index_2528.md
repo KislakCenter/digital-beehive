@@ -3,7 +3,7 @@ pid: index_2528
 volume: Volume 3
 image_number: '30'
 head: minority
-entry: "<a href='/digital-beehive/num4/num_1279/'>959 [Guardian]</a>"
+entry: "<a href='/digital-beehive/num4/num_1280/'>959 [Guardian]</a>"
 topic:
 first_letter: M
 page:

@@ -8,7 +8,7 @@ topic: Moral Philosophy
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num1/num_0015/'>15 [Moral Philosophy]</a>|<a href='/digital-beehive/num4/num_1120/'>880
+xref: "<a href='/digital-beehive/num1/num_0015/'>15 [Moral Philosophy]</a>|<a href='/digital-beehive/num4/num_1121/'>880
   [Moral Philos]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2577/'>moral philosophy</a>"

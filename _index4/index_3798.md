@@ -3,7 +3,7 @@ pid: index_3798
 volume: Volume 3
 image_number: '44'
 head: soothsayers
-entry: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num7/num_2355/'>1571
+entry: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num7/num_2356/'>1571
   [Southsayers]</a>"
 topic:
 first_letter: S

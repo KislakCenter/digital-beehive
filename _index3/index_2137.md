@@ -3,7 +3,7 @@ pid: index_2137
 volume: Volume 3
 image_number: '27'
 head: juice
-entry: "<a href='/digital-beehive/num5/num_1711/'>1240 [Juice]</a>"
+entry: "<a href='/digital-beehive/num5/num_1712/'>1240 [Juice]</a>"
 topic:
 first_letter: I/J
 page:

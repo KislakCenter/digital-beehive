@@ -3,8 +3,8 @@ pid: index_0838
 volume: Volume 3
 image_number: '14'
 head: conviction
-entry: "<a href='/digital-beehive/num2/num_0430/'>362 [Conviction]</a>|<a href='/digital-beehive/num7/num_2629/'>1706
-  [Conviction]</a>|<a href='/digital-beehive/num9/num_2973/'>2039 [Conviction]</a>"
+entry: "<a href='/digital-beehive/num2/num_0430/'>362 [Conviction]</a>|<a href='/digital-beehive/num7/num_2630/'>1706
+  [Conviction]</a>|<a href='/digital-beehive/num9/num_2974/'>2039 [Conviction]</a>"
 topic:
 first_letter: C
 page:

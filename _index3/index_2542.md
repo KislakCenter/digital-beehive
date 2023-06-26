@@ -3,7 +3,7 @@ pid: index_2542
 volume: Volume 3
 image_number: '31'
 head: to miss
-entry: "<a href='/digital-beehive/num3/num_0829/'>618 [To Miss]</a>"
+entry: "<a href='/digital-beehive/num3/num_0830/'>618 [To Miss]</a>"
 topic:
 first_letter: M
 page:

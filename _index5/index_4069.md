@@ -3,7 +3,7 @@ pid: index_4069
 volume: Volume 3
 image_number: '46'
 head: tea
-entry: "<a href='/digital-beehive/num6/num_1900/'>1346 [Coffee : Tea : Chocolate]</a>"
+entry: "<a href='/digital-beehive/num6/num_1901/'>1346 [Coffee : Tea : Chocolate]</a>"
 topic:
 first_letter: T
 page:

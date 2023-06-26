@@ -3,7 +3,7 @@ pid: index_0545
 volume: Volume 3
 image_number: '12'
 head: Carolina
-entry: "<a href='/digital-beehive/num3/num_0893/'>651 [Carolina]</a>|<a href='/digital-beehive/num7/num_2252/'>1520
+entry: "<a href='/digital-beehive/num3/num_0894/'>651 [Carolina]</a>|<a href='/digital-beehive/num7/num_2253/'>1520
   [Carolina]</a>"
 topic:
 first_letter: C

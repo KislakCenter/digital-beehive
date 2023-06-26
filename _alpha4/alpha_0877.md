@@ -16,12 +16,12 @@ item: "#item-0e7ccb2d3"
 unparsed:
 line: 'Entry: Silence|Topic: Silence|Xref: Silence, continued|Xref: 436 [Silence]|Index:
   silence|#item-0e7ccb2d3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/801,4548,2945,540/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/799,4546,2947,542/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530803811573
-sort_value: '205214548'
+sort_value: '205214546'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/801,4548,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/799,4546,600,180/250,/0/default.jpg
 label: Silence
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 issue: The entry continues onto the next page.

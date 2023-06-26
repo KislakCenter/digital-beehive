@@ -15,12 +15,12 @@ item: "#item-2b6eb82d1"
 unparsed:
 line: 'Entry: Temptation, continued|Topic: Temptation, continued|Xref: Temptation|Index:
   temptation|#item-2b6eb82d1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/752,194,3061,216/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/750,192,3063,218/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1573246855240
-sort_value: '205810194'
+sort_value: '205810192'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/752,194,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/750,192,600,180/250,/0/default.jpg
 label: Temptation, continued
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue:

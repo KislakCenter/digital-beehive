@@ -3,8 +3,8 @@ pid: index_0650
 volume: Volume 3
 image_number: '13'
 head: christendom
-entry: "<a href='/digital-beehive/alpha1/alpha_0148/'>a</a>|<a href='/digital-beehive/num9/num_2971/'>2037
-  [Nominal Christians]</a>|<a href='/digital-beehive/num10/num_3373/'>2401 [Nominal
+entry: "<a href='/digital-beehive/alpha1/alpha_0148/'>a</a>|<a href='/digital-beehive/num9/num_2972/'>2037
+  [Nominal Christians]</a>|<a href='/digital-beehive/num10/num_3374/'>2401 [Nominal
   Christians]</a>"
 topic:
 first_letter: C

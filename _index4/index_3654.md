@@ -3,7 +3,7 @@ pid: index_3654
 volume: Volume 3
 image_number: '42'
 head: sexton
-entry: "<a href='/digital-beehive/num3/num_0707/'>556 [Sexton]</a>"
+entry: "<a href='/digital-beehive/num3/num_0708/'>556 [Sexton]</a>"
 topic:
 first_letter: S
 page:

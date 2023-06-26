@@ -3,7 +3,7 @@ pid: index_1619
 volume: Volume 3
 image_number: '22'
 head: glass
-entry: "<a href='/digital-beehive/alpha2/alpha_0364/'>a</a>|<a href='/digital-beehive/num7/num_2532/'>1655
+entry: "<a href='/digital-beehive/alpha2/alpha_0364/'>a</a>|<a href='/digital-beehive/num7/num_2533/'>1655
   [Glass]</a>"
 topic:
 first_letter: G

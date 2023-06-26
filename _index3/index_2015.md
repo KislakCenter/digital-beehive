@@ -3,7 +3,7 @@ pid: index_2015
 volume: Volume 3
 image_number: '25'
 head: independency
-entry: "<a href='/digital-beehive/num5/num_1693/'>1231 [Independent : Soveraign]</a>"
+entry: "<a href='/digital-beehive/num5/num_1694/'>1231 [Independent : Soveraign]</a>"
 topic:
 first_letter: I/J
 page:

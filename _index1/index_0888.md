@@ -3,7 +3,7 @@ pid: index_0888
 volume: Volume 3
 image_number: '15'
 head: cowley
-entry: "<a href='/digital-beehive/num11/num_3496/'>4802 [Abr. Cowley]</a>"
+entry: "<a href='/digital-beehive/num11/num_3497/'>4802 [Abr. Cowley]</a>"
 topic:
 first_letter: C
 page:

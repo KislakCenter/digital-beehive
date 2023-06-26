@@ -8,7 +8,7 @@ topic: Snake
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1731/'>1250 [Serpent]</a>"
+xref: "<a href='/digital-beehive/num5/num_1732/'>1250 [Serpent]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3765/'>snake</a>"
 item: "#item-6fd4f1eb5"

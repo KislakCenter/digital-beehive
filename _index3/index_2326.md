@@ -3,7 +3,7 @@ pid: index_2326
 volume: Volume 3
 image_number: '29'
 head: to look
-entry: "<a href='/digital-beehive/alpha3/alpha_0552/'>a</a>|<a href='/digital-beehive/num6/num_2088/'>1433
+entry: "<a href='/digital-beehive/alpha3/alpha_0552/'>a</a>|<a href='/digital-beehive/num6/num_2089/'>1433
   [To Look]</a>"
 topic:
 first_letter: L

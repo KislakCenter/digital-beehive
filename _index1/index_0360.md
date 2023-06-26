@@ -3,7 +3,7 @@ pid: index_0360
 volume: Volume 3
 image_number: '10'
 head: besiege
-entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1883/''>1338 [To Assault
+entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1884/''>1338 [To Assault
   : besiege]</a>'
 topic:
 first_letter: B

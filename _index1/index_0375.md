@@ -3,7 +3,7 @@ pid: index_0375
 volume: Volume 3
 image_number: '10'
 head: birds
-entry: "<a href='/digital-beehive/num2/num_0395/'>341 [Birds]</a>|<a href='/digital-beehive/num7/num_2664/'>1738
+entry: "<a href='/digital-beehive/num2/num_0395/'>341 [Birds]</a>|<a href='/digital-beehive/num7/num_2665/'>1738
   [Birds]</a>"
 topic:
 first_letter: B

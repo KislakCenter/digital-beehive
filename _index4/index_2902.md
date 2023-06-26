@@ -3,7 +3,7 @@ pid: index_2902
 volume: Volume 3
 image_number: '34'
 head: partridge
-entry: "<a href='/digital-beehive/num7/num_2431/'>1611 [Partridges]</a>"
+entry: "<a href='/digital-beehive/num7/num_2432/'>1611 [Partridges]</a>"
 topic:
 first_letter: P
 page:

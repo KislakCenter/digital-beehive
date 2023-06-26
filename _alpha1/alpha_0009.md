@@ -8,7 +8,7 @@ topic: Adventure
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0126/'>Casualty</a>|<a href='/digital-beehive/num3/num_0839/'>623
+xref: "<a href='/digital-beehive/alpha1/alpha_0126/'>Casualty</a>|<a href='/digital-beehive/num3/num_0840/'>623
   [Adventure]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0048/'>adventure</a>"

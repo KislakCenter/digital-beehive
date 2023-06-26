@@ -3,9 +3,9 @@ pid: index_3115
 volume: Volume 3
 image_number: '36'
 head: bad preachers
-entry: "<a href='/digital-beehive/num1/num_0042/'>42 [False ministers]</a>|<a href='/digital-beehive/num6/num_1755/'>1264
-  [False Teachers]</a>|<a href='/digital-beehive/num8/num_2716/'>1784 [False Teachers]</a>|<a
-  href='/digital-beehive/num10/num_3216/'>2263 [False Teachers]</a>|4500 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num1/num_0042/'>42 [False ministers]</a>|<a href='/digital-beehive/num6/num_1756/'>1264
+  [False Teachers]</a>|<a href='/digital-beehive/num8/num_2717/'>1784 [False Teachers]</a>|<a
+  href='/digital-beehive/num10/num_3217/'>2263 [False Teachers]</a>|4500 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:

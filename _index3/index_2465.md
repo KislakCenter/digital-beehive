@@ -3,8 +3,8 @@ pid: index_2465
 volume: Volume 3
 image_number: '30'
 head: medicine
-entry: "<a href='/digital-beehive/alpha3/alpha_0583/'>a</a>|<a href='/digital-beehive/num3/num_0922/'>665
-  [Medicines]</a>|<a href='/digital-beehive/num7/num_2500/'>1642 [Medicines]</a>|4513
+entry: "<a href='/digital-beehive/alpha3/alpha_0583/'>a</a>|<a href='/digital-beehive/num3/num_0923/'>665
+  [Medicines]</a>|<a href='/digital-beehive/num7/num_2501/'>1642 [Medicines]</a>|4513
   [PAGE_MISSING]"
 topic:
 first_letter: M

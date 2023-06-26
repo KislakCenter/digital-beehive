@@ -3,7 +3,7 @@ pid: index_2045
 volume: Volume 3
 image_number: '26'
 head: iniquity
-entry: "<a href='/digital-beehive/num8/num_2793/'>1904 [Iniquity]</a>"
+entry: "<a href='/digital-beehive/num8/num_2794/'>1904 [Iniquity]</a>"
 topic:
 first_letter: I/J
 page:

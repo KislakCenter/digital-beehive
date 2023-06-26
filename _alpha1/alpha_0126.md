@@ -8,7 +8,7 @@ topic: Casualty
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0009/'>adventure</a>|<a href='/digital-beehive/num6/num_2085/'>1432
+xref: "<a href='/digital-beehive/alpha1/alpha_0009/'>adventure</a>|<a href='/digital-beehive/num6/num_2086/'>1432
   [Casualty]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0556/'>casualty</a>"

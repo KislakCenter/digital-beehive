@@ -8,7 +8,7 @@ topic: Capital offence
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Crime</a>|<a href='/digital-beehive/num3/num_0865/'>638
+xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Crime</a>|<a href='/digital-beehive/num3/num_0866/'>638
   [Capital Offences]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0533/'>capital offence</a>"

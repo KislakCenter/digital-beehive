@@ -3,7 +3,7 @@ pid: index_1392
 volume: Volume 3
 image_number: '20'
 head: false brethren
-entry: "<a href='/digital-beehive/num8/num_2905/'>1975 [Hypocrisie]</a>"
+entry: "<a href='/digital-beehive/num8/num_2906/'>1975 [Hypocrisie]</a>"
 topic:
 first_letter: F
 page:

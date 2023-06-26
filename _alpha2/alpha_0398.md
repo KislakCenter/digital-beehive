@@ -8,7 +8,7 @@ topic: Hardning
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|<a href='/digital-beehive/num10/num_3346/'>2374
+xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|<a href='/digital-beehive/num10/num_3347/'>2374
   [Hardning]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1754/'>hardning</a>"

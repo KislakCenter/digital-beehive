@@ -8,7 +8,7 @@ topic: Equality
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0473/'>Inequ.y</a>|<a href='/digital-beehive/num5/num_1532/'>1129
+xref: "<a href='/digital-beehive/alpha3/alpha_0473/'>Inequ.y</a>|<a href='/digital-beehive/num5/num_1533/'>1129
   [Equality]</a>|4773 [Like as]"
 see:
 index: "<a href='/digital-beehive/index2/index_1285/'>equality</a>"

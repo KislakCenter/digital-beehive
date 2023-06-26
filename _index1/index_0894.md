@@ -3,7 +3,7 @@ pid: index_0894
 volume: Volume 3
 image_number: '15'
 head: cramp
-entry: "<a href='/digital-beehive/num3/num_0780/'>597 [Cramp]</a>"
+entry: "<a href='/digital-beehive/num3/num_0781/'>597 [Cramp]</a>"
 topic:
 first_letter: C
 page:

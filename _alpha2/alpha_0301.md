@@ -8,7 +8,7 @@ topic: Exercise
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1899/'>1345 [Exercise]</a>"
+xref: "<a href='/digital-beehive/num6/num_1900/'>1345 [Exercise]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1345/'>exercise</a>"
 item: "#item-d845c95d0"

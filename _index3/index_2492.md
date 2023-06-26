@@ -3,7 +3,7 @@ pid: index_2492
 volume: Volume 3
 image_number: '30'
 head: Ambros. Merlin
-entry: "<a href='/digital-beehive/num6/num_2142/'>1459 [Ambrosius Merlin]</a>"
+entry: "<a href='/digital-beehive/num6/num_2143/'>1459 [Ambrosius Merlin]</a>"
 topic:
 first_letter: M
 page:

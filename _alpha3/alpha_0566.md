@@ -9,7 +9,7 @@ first_letter: L
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0859/'>Selfprofit</a>|<a href='/digital-beehive/alpha4/alpha_0745/'>Profit</a>|<a
-  href='/digital-beehive/num6/num_1734/'>1252 [Gainful]</a>"
+  href='/digital-beehive/num6/num_1735/'>1252 [Gainful]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2360/'>lucre</a>"
 item: "#item-4e73b2de1"

@@ -3,8 +3,8 @@ pid: index_0539
 volume: Volume 3
 image_number: '11'
 head: care
-entry: "<a href='/digital-beehive/alpha1/alpha_0124/'>a</a>|<a href='/digital-beehive/num3/num_0899/'>654
-  [Care]</a>|<a href='/digital-beehive/num10/num_3370/'>2398 [Care]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0124/'>a</a>|<a href='/digital-beehive/num3/num_0900/'>654
+  [Care]</a>|<a href='/digital-beehive/num10/num_3371/'>2398 [Care]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_3245
 volume: Volume 3
 image_number: '38'
 head: quails
-entry: "<a href='/digital-beehive/num8/num_2808/'>1913 [Quails]</a>"
+entry: "<a href='/digital-beehive/num8/num_2809/'>1913 [Quails]</a>"
 topic:
 first_letter: Q
 page:

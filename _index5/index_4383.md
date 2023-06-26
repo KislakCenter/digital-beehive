@@ -3,7 +3,7 @@ pid: index_4383
 volume: Volume 3
 image_number: '50'
 head: unheard of
-entry: "<a href='/digital-beehive/num6/num_1844/'>1318 [Unheard of]</a>"
+entry: "<a href='/digital-beehive/num6/num_1845/'>1318 [Unheard of]</a>"
 topic:
 first_letter: U/V
 page:

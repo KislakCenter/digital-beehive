@@ -3,7 +3,7 @@ pid: index_1199
 volume: Volume 3
 image_number: '18'
 head: ebbing & flowing
-entry: "<a href='/digital-beehive/num5/num_1722/'>1246 [Ebbing and Flowing]</a>"
+entry: "<a href='/digital-beehive/num5/num_1723/'>1246 [Ebbing and Flowing]</a>"
 topic:
 first_letter: E
 page:

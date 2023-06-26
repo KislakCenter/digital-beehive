@@ -3,7 +3,7 @@ pid: index_0529
 volume: Volume 3
 image_number: '11'
 head: canonization
-entry: "<a href='/digital-beehive/num8/num_2708/'>1777 [Apotheosis]</a>"
+entry: "<a href='/digital-beehive/num8/num_2709/'>1777 [Apotheosis]</a>"
 topic:
 first_letter: C
 page:

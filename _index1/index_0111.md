@@ -3,7 +3,7 @@ pid: index_0111
 volume: Volume 3
 image_number: '7'
 head: alphabetu[m] rhytmicu[m]
-entry: "<a href='/digital-beehive/num7/num_2624/'>1701 [Patience]</a>"
+entry: "<a href='/digital-beehive/num7/num_2625/'>1701 [Patience]</a>"
 topic:
 first_letter: A
 page:

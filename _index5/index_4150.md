@@ -3,7 +3,7 @@ pid: index_4150
 volume: Volume 3
 image_number: '47'
 head: till or until
-entry: "<a href='/digital-beehive/num6/num_2007/'>1398 [Till until]</a>"
+entry: "<a href='/digital-beehive/num6/num_2008/'>1398 [Till until]</a>"
 topic:
 first_letter: T
 page:

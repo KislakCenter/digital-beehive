@@ -3,8 +3,8 @@ pid: index_4165
 volume: Volume 3
 image_number: '48'
 head: tobacco
-entry: "<a href='/digital-beehive/alpha5/alpha_0965/'>a</a>|<a href='/digital-beehive/num4/num_1248/'>935
-  [Tobacco]</a>|<a href='/digital-beehive/num6/num_2062/'>1423 [Tobacco]</a>|4585
+entry: "<a href='/digital-beehive/alpha5/alpha_0965/'>a</a>|<a href='/digital-beehive/num4/num_1249/'>935
+  [Tobacco]</a>|<a href='/digital-beehive/num6/num_2063/'>1423 [Tobacco]</a>|4585
   [PAGE_MISSING]"
 topic:
 first_letter: T

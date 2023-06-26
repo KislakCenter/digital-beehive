@@ -3,7 +3,7 @@ pid: index_4682
 volume: Volume 3
 image_number: '54'
 head: Barclay
-entry: "<a href='/digital-beehive/num8/num_2927/'>1995 [Barclay]</a>"
+entry: "<a href='/digital-beehive/num8/num_2928/'>1995 [Barclay]</a>"
 topic:
 first_letter: insertion
 page:

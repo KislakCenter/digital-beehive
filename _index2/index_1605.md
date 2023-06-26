@@ -3,7 +3,7 @@ pid: index_1605
 volume: Volume 3
 image_number: '22'
 head: h. Ghost
-entry: "<a href='/digital-beehive/alpha2/alpha_0362/'>a</a>|<a href='/digital-beehive/num5/num_1352/'>1012
+entry: "<a href='/digital-beehive/alpha2/alpha_0362/'>a</a>|<a href='/digital-beehive/num5/num_1353/'>1012
   [h: Ghost]</a>"
 topic:
 first_letter: G

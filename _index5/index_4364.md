@@ -3,7 +3,7 @@ pid: index_4364
 volume: Volume 3
 image_number: '50'
 head: to uncloath
-entry: "<a href='/digital-beehive/num9/num_2996/'>2062 [To uncloath]</a>"
+entry: "<a href='/digital-beehive/num9/num_2997/'>2062 [To uncloath]</a>"
 topic:
 first_letter: U/V
 page:

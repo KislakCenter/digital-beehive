@@ -3,7 +3,7 @@ pid: index_0890
 volume: Volume 3
 image_number: '15'
 head: coxcombs
-entry: "<a href='/digital-beehive/num11/num_3497/'>4803 [Coxcombs]</a>"
+entry: "<a href='/digital-beehive/num11/num_3498/'>4803 [Coxcombs]</a>"
 topic:
 first_letter: C
 page:

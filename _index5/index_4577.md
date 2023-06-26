@@ -3,7 +3,7 @@ pid: index_4577
 volume: Volume 3
 image_number: '53'
 head: within
-entry: "<a href='/digital-beehive/num3/num_0756/'>586 [Within]</a>"
+entry: "<a href='/digital-beehive/num3/num_0757/'>586 [Within]</a>"
 topic:
 first_letter: W
 page:

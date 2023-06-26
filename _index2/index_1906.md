@@ -3,7 +3,7 @@ pid: index_1906
 volume: Volume 3
 image_number: '24'
 head: hungary
-entry: "<a href='/digital-beehive/num3/num_0960/'>682 [Hungary]</a>"
+entry: "<a href='/digital-beehive/num3/num_0961/'>682 [Hungary]</a>"
 topic:
 first_letter: H
 page:

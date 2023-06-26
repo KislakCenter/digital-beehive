@@ -3,7 +3,7 @@ pid: index_0713
 volume: Volume 3
 image_number: '13'
 head: coetaneous
-entry: "<a href='/digital-beehive/num5/num_1672/'>1220 [Of the same time]</a>"
+entry: "<a href='/digital-beehive/num5/num_1673/'>1220 [Of the same time]</a>"
 topic:
 first_letter: C
 page:

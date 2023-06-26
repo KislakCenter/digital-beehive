@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '16'
 head: difficulty
 entry: "<a href='/digital-beehive/alpha1/alpha_0238/'>a</a>|<a href='/digital-beehive/num1/num_0103/'>100
-  [Difficulty]</a>|<a href='/digital-beehive/num6/num_1798/'>1290 [Difficulty]</a>"
+  [Difficulty]</a>|<a href='/digital-beehive/num6/num_1799/'>1290 [Difficulty]</a>"
 topic:
 first_letter: D
 page:

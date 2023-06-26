@@ -8,7 +8,7 @@ topic: Letters
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0667/'>532 [letter]</a>|<a href='/digital-beehive/num5/num_1661/'>1214
+xref: "<a href='/digital-beehive/num3/num_0667/'>532 [letter]</a>|<a href='/digital-beehive/num5/num_1662/'>1214
   [Letters]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2265/'>letters</a>"

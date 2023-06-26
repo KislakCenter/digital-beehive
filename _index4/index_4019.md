@@ -3,7 +3,7 @@ pid: index_4019
 volume: Volume 3
 image_number: '46'
 head: Swedes
-entry: "<a href='/digital-beehive/num6/num_1888/'>1340 [Swedland & Denmark]</a>"
+entry: "<a href='/digital-beehive/num6/num_1889/'>1340 [Swedland & Denmark]</a>"
 topic:
 first_letter: S
 page:

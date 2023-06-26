@@ -8,7 +8,7 @@ topic: Broad & small way
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0613/'>Mortifying</a>|<a href='/digital-beehive/num11/num_3582/'>4887
+xref: "<a href='/digital-beehive/alpha3/alpha_0613/'>Mortifying</a>|<a href='/digital-beehive/num11/num_3583/'>4887
   [broad & small Way]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4497/'>way broad & small</a>"

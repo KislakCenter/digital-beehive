@@ -3,7 +3,7 @@ pid: index_1601
 volume: Volume 3
 image_number: '22'
 head: Germany
-entry: "<a href='/digital-beehive/alpha2/alpha_0361/'>a</a>|<a href='/digital-beehive/num6/num_1965/'>1378
+entry: "<a href='/digital-beehive/alpha2/alpha_0361/'>a</a>|<a href='/digital-beehive/num6/num_1966/'>1378
   [Germany]</a>"
 topic:
 first_letter: G

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '48'
 head: trusting in the Lord
 entry: "<a href='/digital-beehive/num1/num_0068/'>67 [Trusting in the Lord]</a>|<a
-  href='/digital-beehive/num7/num_2553/'>1666 [Trusting in the Lord]</a>|<a href='/digital-beehive/num10/num_3433/'>4453
+  href='/digital-beehive/num7/num_2554/'>1666 [Trusting in the Lord]</a>|<a href='/digital-beehive/num10/num_3434/'>4453
   [Trusting in the Lord]</a>"
 topic:
 first_letter: T

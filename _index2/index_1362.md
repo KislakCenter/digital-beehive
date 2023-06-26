@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '19'
 head: external worship
 entry: "<a href='/digital-beehive/alpha2/alpha_0306/'>a</a>|<a href='/digital-beehive/num1/num_0218/'>207
-  [Outside religion]</a>|<a href='/digital-beehive/num6/num_1946/'>1369 [Outside Religion]</a>|<a
-  href='/digital-beehive/num8/num_2931/'>1998 [External Worship]</a>"
+  [Outside religion]</a>|<a href='/digital-beehive/num6/num_1947/'>1369 [Outside Religion]</a>|<a
+  href='/digital-beehive/num8/num_2932/'>1998 [External Worship]</a>"
 topic:
 first_letter: E
 page:

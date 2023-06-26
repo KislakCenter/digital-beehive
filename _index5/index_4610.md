@@ -3,7 +3,7 @@ pid: index_4610
 volume: Volume 3
 image_number: '53'
 head: word by word
-entry: "<a href='/digital-beehive/num3/num_0674/'>536 [Verbatim]</a>"
+entry: "<a href='/digital-beehive/num3/num_0675/'>536 [Verbatim]</a>"
 topic:
 first_letter: W
 page:

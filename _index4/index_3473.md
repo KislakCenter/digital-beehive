@@ -3,7 +3,7 @@ pid: index_3473
 volume: Volume 3
 image_number: '40'
 head: rush
-entry: "<a href='/digital-beehive/num3/num_0943/'>676 [Rush]</a>"
+entry: "<a href='/digital-beehive/num3/num_0944/'>676 [Rush]</a>"
 topic:
 first_letter: R
 page:

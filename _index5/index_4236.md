@@ -3,8 +3,8 @@ pid: index_4236
 volume: Volume 3
 image_number: '48'
 head: tribulation
-entry: "<a href='/digital-beehive/num2/num_0364/'>316 [Affliction]</a>|<a href='/digital-beehive/num6/num_1942/'>1367
-  [Afflictions]</a>|<a href='/digital-beehive/num6/num_1906/'>1349 [Affliction]</a>"
+entry: "<a href='/digital-beehive/num2/num_0364/'>316 [Affliction]</a>|<a href='/digital-beehive/num6/num_1943/'>1367
+  [Afflictions]</a>|<a href='/digital-beehive/num6/num_1907/'>1349 [Affliction]</a>"
 topic:
 first_letter: T
 page:

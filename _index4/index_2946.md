@@ -3,8 +3,8 @@ pid: index_2946
 volume: Volume 3
 image_number: '35'
 head: Wm. Pen[n]
-entry: "<a href='/digital-beehive/num5/num_1481/'>1095 [William Pen[n]'s]</a>|<a href='/digital-beehive/num7/num_2579/'>1678
-  [Wm. Pen[n]]</a>|<a href='/digital-beehive/num8/num_2896/'>1970 [Wm. Penn's]</a>"
+entry: "<a href='/digital-beehive/num5/num_1482/'>1095 [William Pen[n]'s]</a>|<a href='/digital-beehive/num7/num_2580/'>1678
+  [Wm. Pen[n]]</a>|<a href='/digital-beehive/num8/num_2897/'>1970 [Wm. Penn's]</a>"
 topic:
 first_letter: P
 page:

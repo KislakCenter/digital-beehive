@@ -3,7 +3,7 @@ pid: index_0804
 volume: Volume 3
 image_number: '14'
 head: consent of parents
-entry: "<a href='/digital-beehive/num6/num_2105/'>1442 [marry without Consent of Parents
+entry: "<a href='/digital-beehive/num6/num_2106/'>1442 [marry without Consent of Parents
   & Guardians]</a>"
 topic:
 first_letter: C

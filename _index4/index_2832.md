@@ -3,7 +3,7 @@ pid: index_2832
 volume: Volume 3
 image_number: '34'
 head: orthodox
-entry: "<a href='/digital-beehive/num1/num_0046/'>46 [Orthodox]</a>|<a href='/digital-beehive/num7/num_2570/'>1673
+entry: "<a href='/digital-beehive/num1/num_0046/'>46 [Orthodox]</a>|<a href='/digital-beehive/num7/num_2571/'>1673
   [Orthodox]</a>"
 topic:
 first_letter: O

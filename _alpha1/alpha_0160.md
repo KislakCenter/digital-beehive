@@ -8,7 +8,7 @@ topic: Coming of Christ
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0144/'>Chiliasm</a>|<a href='/digital-beehive/num5/num_1401/'>1047
+xref: "<a href='/digital-beehive/alpha1/alpha_0144/'>Chiliasm</a>|<a href='/digital-beehive/num5/num_1402/'>1047
   [Coming of God and Christ]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0734/'>coming of Christ</a>"

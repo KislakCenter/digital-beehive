@@ -8,7 +8,7 @@ topic: Blasphemy
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0048/'>Atheism</a>|<a href='/digital-beehive/num6/num_2132/'>1455
+xref: "<a href='/digital-beehive/alpha1/alpha_0048/'>Atheism</a>|<a href='/digital-beehive/num6/num_2133/'>1455
   [Swearing]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0387/'>blasphemy</a>"

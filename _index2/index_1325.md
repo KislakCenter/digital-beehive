@@ -3,7 +3,7 @@ pid: index_1325
 volume: Volume 3
 image_number: '19'
 head: to exaggerate
-entry: "<a href='/digital-beehive/num3/num_0731/'>573 [To aggravate]</a>"
+entry: "<a href='/digital-beehive/num3/num_0732/'>573 [To aggravate]</a>"
 topic:
 first_letter: E
 page:

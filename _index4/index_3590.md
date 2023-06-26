@@ -3,7 +3,7 @@ pid: index_3590
 volume: Volume 3
 image_number: '41'
 head: seducing
-entry: "<a href='/digital-beehive/num5/num_1570/'>1152 [Seducing]</a>"
+entry: "<a href='/digital-beehive/num5/num_1571/'>1152 [Seducing]</a>"
 topic:
 first_letter: S
 page:

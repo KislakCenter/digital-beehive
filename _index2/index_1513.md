@@ -3,7 +3,7 @@ pid: index_1513
 volume: Volume 3
 image_number: '21'
 head: formality
-entry: "<a href='/digital-beehive/num1/num_0244/'>229 [Formality]</a>|<a href='/digital-beehive/num6/num_2162/'>1470
+entry: "<a href='/digital-beehive/num1/num_0244/'>229 [Formality]</a>|<a href='/digital-beehive/num6/num_2163/'>1470
   [Form without Power]</a>"
 topic:
 first_letter: F

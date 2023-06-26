@@ -8,7 +8,7 @@ topic: Bastard
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1295/'>972 [Bastard]</a>"
+xref: "<a href='/digital-beehive/num4/num_1296/'>972 [Bastard]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0305/'>bastard</a>"
 item: "#item-e316a8228"

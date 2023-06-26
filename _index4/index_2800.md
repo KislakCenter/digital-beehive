@@ -3,7 +3,7 @@ pid: index_2800
 volume: Volume 3
 image_number: '33'
 head: on the contrary
-entry: "<a href='/digital-beehive/num6/num_1758/'>1268 [On the Contrary]</a>"
+entry: "<a href='/digital-beehive/num6/num_1759/'>1268 [On the Contrary]</a>"
 topic:
 first_letter: O
 page:

@@ -9,7 +9,7 @@ first_letter: P
 page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0372/'>Gods Providence</a>|<a href='/digital-beehive/alpha1/alpha_0134/'>Caution</a>|<a
-  href='/digital-beehive/num6/num_1991/'>1390 [Providence]</a>"
+  href='/digital-beehive/num6/num_1992/'>1390 [Providence]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3211/'>providence</a>"
 item: "#item-786e4fb0f"

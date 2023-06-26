@@ -3,7 +3,7 @@ pid: index_0304
 volume: Volume 3
 image_number: '9'
 head: basket
-entry: "<a href='/digital-beehive/num4/num_1100/'>871 [a basket]</a>"
+entry: "<a href='/digital-beehive/num4/num_1101/'>871 [a basket]</a>"
 topic:
 first_letter: B
 page:

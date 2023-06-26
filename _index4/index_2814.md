@@ -3,7 +3,7 @@ pid: index_2814
 volume: Volume 3
 image_number: '33'
 head: or
-entry: "<a href='/digital-beehive/num7/num_2395/'>1594 [Or]</a>"
+entry: "<a href='/digital-beehive/num7/num_2396/'>1594 [Or]</a>"
 topic:
 first_letter: O
 page:

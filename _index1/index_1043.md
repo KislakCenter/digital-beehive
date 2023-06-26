@@ -3,7 +3,7 @@ pid: index_1043
 volume: Volume 3
 image_number: '16'
 head: dictionaries
-entry: "<a href='/digital-beehive/num3/num_0742/'>579 [Dictionaries]</a>"
+entry: "<a href='/digital-beehive/num3/num_0743/'>579 [Dictionaries]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_3410
 volume: Volume 3
 image_number: '40'
 head: reviling
-entry: "<a href='/digital-beehive/num3/num_0677/'>538 [Reviling, so called]</a>"
+entry: "<a href='/digital-beehive/num3/num_0678/'>538 [Reviling, so called]</a>"
 topic:
 first_letter: R
 page:

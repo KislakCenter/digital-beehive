@@ -3,7 +3,7 @@ pid: index_0862
 volume: Volume 3
 image_number: '15'
 head: corruption. Eijter
-entry: "<a href='/digital-beehive/num3/num_0758/'>587 [Corruption & Matter, Eijter]</a>"
+entry: "<a href='/digital-beehive/num3/num_0759/'>587 [Corruption & Matter, Eijter]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_3515
 volume: Volume 3
 image_number: '41'
 head: Samson
-entry: "<a href='/digital-beehive/num7/num_2341/'>1565 [Samson]</a>"
+entry: "<a href='/digital-beehive/num7/num_2342/'>1565 [Samson]</a>"
 topic:
 first_letter: S
 page:

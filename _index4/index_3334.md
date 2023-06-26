@@ -3,7 +3,7 @@ pid: index_3334
 volume: Volume 3
 image_number: '39'
 head: refuge
-entry: "<a href='/digital-beehive/num1/num_0138/'>133 [Refuge]</a>|<a href='/digital-beehive/num6/num_2169/'>1473
+entry: "<a href='/digital-beehive/num1/num_0138/'>133 [Refuge]</a>|<a href='/digital-beehive/num6/num_2170/'>1473
   [Refuge]</a>"
 topic:
 first_letter: R

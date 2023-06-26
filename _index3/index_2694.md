@@ -3,7 +3,7 @@ pid: index_2694
 volume: Volume 3
 image_number: '32'
 head: new England
-entry: 766 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2257/'>1523 [New England]</a>
+entry: 766 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2258/'>1523 [New England]</a>
 topic:
 first_letter: N
 page:

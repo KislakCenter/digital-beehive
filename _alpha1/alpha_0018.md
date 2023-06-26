@@ -8,7 +8,7 @@ topic: Alchymie
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_1010/'>700 [Chymistry]</a>|<a href='/digital-beehive/num6/num_1863/'>1326
+xref: "<a href='/digital-beehive/num3/num_1011/'>700 [Chymistry]</a>|<a href='/digital-beehive/num6/num_1864/'>1326
   [Alchymie]</a>|<a href='/digital-beehive/alpha4/alpha_0686/'>Parsimony</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0089/'>alchymie</a>"

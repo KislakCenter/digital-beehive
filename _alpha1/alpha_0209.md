@@ -8,12 +8,13 @@ topic: Danger
 first_letter: D
 page:
 add:
-xref: 907 [Pinch]|<a href='/digital-beehive/num3/num_0934/'>673 [Danger]</a>
+xref: "<a href='/digital-beehive/num3/num_0881/'>645 [Pinch]</a>|<a href='/digital-beehive/num3/num_0935/'>673
+  [Danger]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0944/'>danger</a>"
 item: "#item-84f269f52"
 unparsed:
-line: 'Entry: Danger|Topic: Danger|Xref: 907 [Pinch]|Xref: 673 [Danger]|Index: danger|#item-84f269f52'
+line: 'Entry: Danger|Topic: Danger|Xref: 645 [Pinch]|Xref: 673 [Danger]|Index: danger|#item-84f269f52'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/357,2723,3119,604/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563913584108

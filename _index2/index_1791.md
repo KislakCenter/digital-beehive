@@ -3,7 +3,7 @@ pid: index_1791
 volume: Volume 3
 image_number: '23'
 head: hedgehog
-entry: "<a href='/digital-beehive/num7/num_2410/'>1601 [Hedghogs]</a>"
+entry: "<a href='/digital-beehive/num7/num_2411/'>1601 [Hedghogs]</a>"
 topic:
 first_letter: H
 page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"

@@ -3,7 +3,7 @@ pid: index_0551
 volume: Volume 3
 image_number: '12'
 head: carving
-entry: "<a href='/digital-beehive/num3/num_0766/'>591 [Carving]</a>|4524 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num3/num_0767/'>591 [Carving]</a>|4524 [PAGE_MISSING]"
 topic:
 first_letter: C
 page:

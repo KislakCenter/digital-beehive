@@ -8,7 +8,7 @@ topic: Womanish
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1986/'>1388 [Love of Women]</a>|<a href='/digital-beehive/num5/num_1623/'>1192
+xref: "<a href='/digital-beehive/num6/num_1987/'>1388 [Love of Women]</a>|<a href='/digital-beehive/num5/num_1624/'>1192
   [Effeminate]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4589/'>womanish</a>"

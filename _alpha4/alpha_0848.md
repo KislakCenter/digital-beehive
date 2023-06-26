@@ -8,7 +8,7 @@ topic: Seducing
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0923/'>Stratagem</a>|<a href='/digital-beehive/num5/num_1570/'>1152
+xref: "<a href='/digital-beehive/alpha4/alpha_0923/'>Stratagem</a>|<a href='/digital-beehive/num5/num_1571/'>1152
   [Seducing]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3590/'>seducing</a>"

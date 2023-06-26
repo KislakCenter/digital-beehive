@@ -3,7 +3,7 @@ pid: index_3338
 volume: Volume 3
 image_number: '39'
 head: regarding of persons
-entry: "<a href='/digital-beehive/alpha4/alpha_0789/'>a</a>|<a href='/digital-beehive/num6/num_2038/'>1412
+entry: "<a href='/digital-beehive/alpha4/alpha_0789/'>a</a>|<a href='/digital-beehive/num6/num_2039/'>1412
   [Respecter of Persons]</a>"
 topic:
 first_letter: R

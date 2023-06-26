@@ -3,7 +3,7 @@ pid: index_2569
 volume: Volume 3
 image_number: '31'
 head: monopolies
-entry: "<a href='/digital-beehive/num8/num_2736/'>1803 [Monopolies]</a>"
+entry: "<a href='/digital-beehive/num8/num_2737/'>1803 [Monopolies]</a>"
 topic:
 first_letter: M
 page:

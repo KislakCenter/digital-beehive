@@ -8,7 +8,7 @@ topic: Debt
 first_letter: D
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0695/'>Payment</a>|<a href='/digital-beehive/num6/num_1913/'>1352
+xref: "<a href='/digital-beehive/alpha4/alpha_0695/'>Payment</a>|<a href='/digital-beehive/num6/num_1914/'>1352
   [Debt]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0975/'>debt</a>"

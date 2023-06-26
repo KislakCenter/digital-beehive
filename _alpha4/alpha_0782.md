@@ -8,7 +8,7 @@ topic: Rebellion
 first_letter: R
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0853/'>630 [Rebellion]</a>"
+xref: "<a href='/digital-beehive/num3/num_0854/'>630 [Rebellion]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3311/'>rebellion</a>"
 item: "#item-7fe9ac8ca"

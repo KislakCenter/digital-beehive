@@ -3,7 +3,7 @@ pid: index_2438
 volume: Volume 3
 image_number: '30'
 head: Mary
-entry: "<a href='/digital-beehive/num4/num_1141/'>887 [Mary]</a>"
+entry: "<a href='/digital-beehive/num4/num_1142/'>887 [Mary]</a>"
 topic:
 first_letter: M
 page:

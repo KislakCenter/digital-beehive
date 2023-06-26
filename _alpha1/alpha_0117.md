@@ -8,8 +8,8 @@ topic: Calumny
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0889/'>Slander</a>|<a href='/digital-beehive/num3/num_0897/'>653
-  [Slander]</a>|<a href='/digital-beehive/num3/num_0953/'>680 [Scheltwort]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0889/'>Slander</a>|<a href='/digital-beehive/num3/num_0898/'>653
+  [Slander]</a>|<a href='/digital-beehive/num3/num_0954/'>680 [Scheltwort]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0515/'>calumny</a>"
 item: "#item-d4633b6e6"

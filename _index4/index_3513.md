@@ -3,7 +3,7 @@ pid: index_3513
 volume: Volume 3
 image_number: '41'
 head: the same
-entry: "<a href='/digital-beehive/num2/num_0296/'>264 [The Same]</a>|<a href='/digital-beehive/num7/num_2454/'>1621
+entry: "<a href='/digital-beehive/num2/num_0296/'>264 [The Same]</a>|<a href='/digital-beehive/num7/num_2455/'>1621
   [The Same]</a>"
 topic:
 first_letter: S

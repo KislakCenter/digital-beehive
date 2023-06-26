@@ -3,7 +3,7 @@ pid: index_0295
 volume: Volume 3
 image_number: '9'
 head: barefooted
-entry: "<a href='/digital-beehive/num8/num_2859/'>1939 [Barefooted]</a>"
+entry: "<a href='/digital-beehive/num8/num_2860/'>1939 [Barefooted]</a>"
 topic:
 first_letter: B
 page:

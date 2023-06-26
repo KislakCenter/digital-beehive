@@ -8,7 +8,7 @@ topic: Will
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_0950/'>Testamt</a>|<a href='/digital-beehive/num5/num_1683/'>1226
+xref: "<a href='/digital-beehive/alpha5/alpha_0950/'>Testamt</a>|<a href='/digital-beehive/num5/num_1684/'>1226
   [Nobility]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4549/'>will</a>"

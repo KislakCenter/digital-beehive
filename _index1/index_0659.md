@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '13'
 head: church
 entry: "<a href='/digital-beehive/alpha1/alpha_0150/'>a</a>|<a href='/digital-beehive/num1/num_0223/'>211
-  [Church]</a>|<a href='/digital-beehive/num5/num_1377/'>1030 [Church]</a>|<a href='/digital-beehive/num6/num_1945/'>1369
+  [Church]</a>|<a href='/digital-beehive/num5/num_1378/'>1030 [Church]</a>|<a href='/digital-beehive/num6/num_1946/'>1369
   [Church of Christ]</a>|4721 [PAGE_MISSING]"
 topic:
 first_letter: C

@@ -3,7 +3,7 @@ pid: index_3161
 volume: Volume 3
 image_number: '37'
 head: printing
-entry: "<a href='/digital-beehive/alpha4/alpha_0738/'>a</a>|<a href='/digital-beehive/num6/num_1810/'>1296
+entry: "<a href='/digital-beehive/alpha4/alpha_0738/'>a</a>|<a href='/digital-beehive/num6/num_1811/'>1296
   [Printing]</a>|4579 [PAGE_MISSING]"
 topic:
 first_letter: P

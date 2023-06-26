@@ -9,7 +9,7 @@ first_letter: M
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0827/'>Sadness</a>|<a href='/digital-beehive/alpha3/alpha_0586/'>melancholy</a>|<a
-  href='/digital-beehive/num3/num_0678/'>539 [Lamentation]</a>|<a href='/digital-beehive/num5/num_1385/'>1036
+  href='/digital-beehive/num3/num_0679/'>539 [Lamentation]</a>|<a href='/digital-beehive/num5/num_1386/'>1036
   [Mourn]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2605/'>mourning</a>"

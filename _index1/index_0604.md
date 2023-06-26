@@ -3,7 +3,7 @@ pid: index_0604
 volume: Volume 3
 image_number: '12'
 head: characters magical
-entry: "<a href='/digital-beehive/num7/num_2294/'>1542 [homerical Medicines]</a>"
+entry: "<a href='/digital-beehive/num7/num_2295/'>1542 [homerical Medicines]</a>"
 topic:
 first_letter: C
 page:

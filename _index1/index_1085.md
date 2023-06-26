@@ -3,7 +3,7 @@ pid: index_1085
 volume: Volume 3
 image_number: '17'
 head: disobedience
-entry: "<a href='/digital-beehive/alpha1/alpha_0246/'>a</a>|<a href='/digital-beehive/num8/num_2780/'>1898
+entry: "<a href='/digital-beehive/alpha1/alpha_0246/'>a</a>|<a href='/digital-beehive/num8/num_2781/'>1898
   [Disobedience]</a>"
 topic:
 first_letter: D

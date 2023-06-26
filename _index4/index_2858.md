@@ -3,7 +3,7 @@ pid: index_2858
 volume: Volume 3
 image_number: '34'
 head: palaces
-entry: "<a href='/digital-beehive/num8/num_2837/'>1926 [Palace]</a>"
+entry: "<a href='/digital-beehive/num8/num_2838/'>1926 [Palace]</a>"
 topic:
 first_letter: P
 page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>|<a href='/digital-beehive/toc/toc1_087/'>p.37

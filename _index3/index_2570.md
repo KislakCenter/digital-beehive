@@ -3,7 +3,7 @@ pid: index_2570
 volume: Volume 3
 image_number: '31'
 head: monster
-entry: "<a href='/digital-beehive/alpha3/alpha_0607/'>a</a>|<a href='/digital-beehive/num8/num_2928/'>1996
+entry: "<a href='/digital-beehive/alpha3/alpha_0607/'>a</a>|<a href='/digital-beehive/num8/num_2929/'>1996
   [Monster]</a>"
 topic:
 first_letter: M

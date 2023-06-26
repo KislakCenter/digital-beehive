@@ -3,8 +3,8 @@ pid: index_3110
 volume: Volume 3
 image_number: '36'
 head: prayers & Lords prayer
-entry: "<a href='/digital-beehive/alpha4/alpha_0728/'>a</a>|<a href='/digital-beehive/num6/num_1992/'>1391
-  [Prayer]</a>|<a href='/digital-beehive/num8/num_2886/'>1962 [Prayer]</a>|4648 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0728/'>a</a>|<a href='/digital-beehive/num6/num_1993/'>1391
+  [Prayer]</a>|<a href='/digital-beehive/num8/num_2887/'>1962 [Prayer]</a>|4648 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:

@@ -3,7 +3,7 @@ pid: index_3288
 volume: Volume 3
 image_number: '38'
 head: ransom
-entry: "<a href='/digital-beehive/num4/num_1218/'>920 [Delivering]</a>"
+entry: "<a href='/digital-beehive/num4/num_1219/'>920 [Delivering]</a>"
 topic:
 first_letter: R
 page:

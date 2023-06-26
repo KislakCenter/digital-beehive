@@ -3,7 +3,7 @@ pid: index_0563
 volume: Volume 3
 image_number: '12'
 head: caterpillars
-entry: "<a href='/digital-beehive/num5/num_1533/'>1129 [Caterpillers]</a>"
+entry: "<a href='/digital-beehive/num5/num_1534/'>1129 [Caterpillers]</a>"
 topic:
 first_letter: C
 page:

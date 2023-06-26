@@ -9,7 +9,7 @@ first_letter: M
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0709/'>Physician</a>|<a href='/digital-beehive/num2/num_0523/'>422
-  [Juggling]</a>|<a href='/digital-beehive/num6/num_1874/'>1333 [Mountebank]</a>"
+  [Juggling]</a>|<a href='/digital-beehive/num6/num_1875/'>1333 [Mountebank]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2604/'>mountebank</a>"
 item: "#item-0d4c7cfeb"

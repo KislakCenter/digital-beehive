@@ -3,7 +3,7 @@ pid: index_1353
 volume: Volume 3
 image_number: '19'
 head: experience
-entry: "<a href='/digital-beehive/alpha2/alpha_0303/'>a</a>|<a href='/digital-beehive/num6/num_1898/'>1345
+entry: "<a href='/digital-beehive/alpha2/alpha_0303/'>a</a>|<a href='/digital-beehive/num6/num_1899/'>1345
   [Experience]</a>"
 topic:
 first_letter: E

@@ -3,7 +3,7 @@ pid: index_0716
 volume: Volume 3
 image_number: '13'
 head: cokonuts
-entry: "<a href='/digital-beehive/num7/num_2239/'>1514 [Barbada or Barbuda]</a>"
+entry: "<a href='/digital-beehive/num7/num_2240/'>1514 [Barbada or Barbuda]</a>"
 topic:
 first_letter: C
 page:

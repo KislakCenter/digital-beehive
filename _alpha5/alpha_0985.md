@@ -8,7 +8,7 @@ topic: Trinity
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0866/'>639 [Trinity]</a>"
+xref: "<a href='/digital-beehive/num3/num_0867/'>639 [Trinity]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4241/'>trinity</a>"
 item: "#item-7671343b9"

@@ -3,7 +3,7 @@ pid: index_2109
 volume: Volume 3
 image_number: '26'
 head: Joseph
-entry: "<a href='/digital-beehive/num7/num_2501/'>1642 [Joseph]</a>"
+entry: "<a href='/digital-beehive/num7/num_2502/'>1642 [Joseph]</a>"
 topic:
 first_letter: I/J
 page:

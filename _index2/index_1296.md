@@ -3,7 +3,7 @@ pid: index_1296
 volume: Volume 3
 image_number: '19'
 head: errata in print
-entry: "<a href='/digital-beehive/num7/num_2371/'>1581 [Errata's]</a>"
+entry: "<a href='/digital-beehive/num7/num_2372/'>1581 [Errata's]</a>"
 topic:
 first_letter: E
 page:

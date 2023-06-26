@@ -3,7 +3,7 @@ pid: index_4612
 volume: Volume 3
 image_number: '53'
 head: Gods Work
-entry: "<a href='/digital-beehive/num5/num_1420/'>1057 [God's work]</a>"
+entry: "<a href='/digital-beehive/num5/num_1421/'>1057 [God's work]</a>"
 topic:
 first_letter: W
 page:

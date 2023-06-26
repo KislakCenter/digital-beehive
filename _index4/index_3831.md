@@ -3,7 +3,7 @@ pid: index_3831
 volume: Volume 3
 image_number: '44'
 head: speechless
-entry: "<a href='/digital-beehive/num3/num_0697/'>551 [[WORD_ILLEGIBLE]]</a>"
+entry: "<a href='/digital-beehive/num3/num_0698/'>551 [[WORD_ILLEGIBLE]]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_2328
 volume: Volume 3
 image_number: '29'
 head: lookingglass
-entry: "<a href='/digital-beehive/alpha3/alpha_0551/'>a</a>|<a href='/digital-beehive/num9/num_3036/'>2100
+entry: "<a href='/digital-beehive/alpha3/alpha_0551/'>a</a>|<a href='/digital-beehive/num9/num_3037/'>2100
   [Lookingglass]</a>"
 topic:
 first_letter: L

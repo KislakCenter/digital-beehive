@@ -3,7 +3,7 @@ pid: index_2808
 volume: Volume 3
 image_number: '33'
 head: opportunity
-entry: "<a href='/digital-beehive/num3/num_0737/'>578 [Seasonable]</a>|<a href='/digital-beehive/num9/num_3146/'>2203
+entry: "<a href='/digital-beehive/num3/num_0738/'>578 [Seasonable]</a>|<a href='/digital-beehive/num9/num_3147/'>2203
   [Seasonable Opportunity]</a>"
 topic:
 first_letter: O

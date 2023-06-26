@@ -3,7 +3,7 @@ pid: index_4038
 volume: Volume 3
 image_number: '46'
 head: T
-entry: "<a href='/digital-beehive/num5/num_1704/'>1236 [Crux ansata]</a>"
+entry: "<a href='/digital-beehive/num5/num_1705/'>1236 [Crux ansata]</a>"
 topic:
 first_letter: T
 page:

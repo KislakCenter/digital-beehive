@@ -3,7 +3,7 @@ pid: index_0033
 volume: Volume 3
 image_number: '7'
 head: acorns
-entry: "<a href='/digital-beehive/num6/num_2084/'>1431 [Acorns]</a>"
+entry: "<a href='/digital-beehive/num6/num_2085/'>1431 [Acorns]</a>"
 topic:
 first_letter: A
 page:

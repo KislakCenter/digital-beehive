@@ -3,8 +3,8 @@ pid: index_3616
 volume: Volume 3
 image_number: '42'
 head: Self guilty
-entry: "<a href='/digital-beehive/num2/num_0583/'>468 [Self-guilty]</a>|<a href='/digital-beehive/num6/num_1776/'>1279
-  [Self guilty]</a>|<a href='/digital-beehive/num10/num_3274/'>2310 [Self guilty]</a>"
+entry: "<a href='/digital-beehive/num2/num_0583/'>468 [Self-guilty]</a>|<a href='/digital-beehive/num6/num_1777/'>1279
+  [Self guilty]</a>|<a href='/digital-beehive/num10/num_3275/'>2310 [Self guilty]</a>"
 topic:
 first_letter: S
 page:

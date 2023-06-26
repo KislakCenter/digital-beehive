@@ -3,7 +3,7 @@ pid: index_2693
 volume: Volume 3
 image_number: '32'
 head: new
-entry: "<a href='/digital-beehive/alpha3/alpha_0643/'>a</a>|<a href='/digital-beehive/num7/num_2534/'>1656
+entry: "<a href='/digital-beehive/alpha3/alpha_0643/'>a</a>|<a href='/digital-beehive/num7/num_2535/'>1656
   [New : News]</a>"
 topic:
 first_letter: N

@@ -9,7 +9,7 @@ first_letter: G
 page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1014/'>Unthankfullness</a>|<a href='/digital-beehive/alpha5/alpha_0954/'>thanks</a>|<a
-  href='/digital-beehive/num5/num_1495/'>1104 [Benefits]</a>|<a href='/digital-beehive/num5/num_1538/'>1132
+  href='/digital-beehive/num5/num_1496/'>1104 [Benefits]</a>|<a href='/digital-beehive/num5/num_1539/'>1132
   [Gratitude]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1696/'>gratitude</a>"

@@ -8,7 +8,7 @@ topic: Leprosie
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_3080/'>2141 [Leprosie]</a>"
+xref: "<a href='/digital-beehive/num9/num_3081/'>2141 [Leprosie]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2257/'>leprosie</a>"
 item: "#item-7393ec640"

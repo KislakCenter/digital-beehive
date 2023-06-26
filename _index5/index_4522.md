@@ -3,7 +3,7 @@ pid: index_4522
 volume: Volume 3
 image_number: '52'
 head: West Indies
-entry: "<a href='/digital-beehive/num5/num_1519/'>1122 [West Indies]</a>"
+entry: "<a href='/digital-beehive/num5/num_1520/'>1122 [West Indies]</a>"
 topic:
 first_letter: W
 page:

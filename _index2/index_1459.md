@@ -3,7 +3,7 @@ pid: index_1459
 volume: Volume 3
 image_number: '20'
 head: firstborn
-entry: "<a href='/digital-beehive/alpha2/alpha_0330/'>a</a>|<a href='/digital-beehive/num9/num_3104/'>2163
+entry: "<a href='/digital-beehive/alpha2/alpha_0330/'>a</a>|<a href='/digital-beehive/num9/num_3105/'>2163
   [Birth-right]</a>"
 topic:
 first_letter: F

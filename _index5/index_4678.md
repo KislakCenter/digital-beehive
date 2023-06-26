@@ -3,7 +3,7 @@ pid: index_4678
 volume: Volume 3
 image_number: '54'
 head: holiness of places and times
-entry: "<a href='/digital-beehive/num8/num_2846/'>1932 [Holiness of Places & Times]</a>"
+entry: "<a href='/digital-beehive/num8/num_2847/'>1932 [Holiness of Places & Times]</a>"
 topic:
 first_letter: insertion
 page:

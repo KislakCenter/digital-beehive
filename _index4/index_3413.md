@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '40'
 head: reward
 entry: "<a href='/digital-beehive/alpha4/alpha_0809/'>a</a>|<a href='/digital-beehive/num2/num_0534/'>431
-  [Reward]</a>|<a href='/digital-beehive/num10/num_3467/'>4480 [Reward]</a>"
+  [Reward]</a>|<a href='/digital-beehive/num10/num_3468/'>4480 [Reward]</a>"
 topic:
 first_letter: R
 page:

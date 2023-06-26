@@ -8,7 +8,7 @@ topic: Jesting
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0109/'>buffoonry</a>|<a href='/digital-beehive/num5/num_1513/'>1119
+xref: "<a href='/digital-beehive/alpha1/alpha_0109/'>buffoonry</a>|<a href='/digital-beehive/num5/num_1514/'>1119
   [Jest]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1937/'>jesting</a>"

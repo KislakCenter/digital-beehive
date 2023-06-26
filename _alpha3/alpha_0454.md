@@ -8,7 +8,7 @@ topic: Jewel
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2536/'>1657 [Jewel]</a>"
+xref: "<a href='/digital-beehive/num7/num_2537/'>1657 [Jewel]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1944/'>Jewel</a>"
 item: "#item-0faa36aaf"

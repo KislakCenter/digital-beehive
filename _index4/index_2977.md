@@ -3,7 +3,7 @@ pid: index_2977
 volume: Volume 3
 image_number: '35'
 head: petticoat
-entry: "<a href='/digital-beehive/num10/num_3400/'>2426 [Petticoat]</a>"
+entry: "<a href='/digital-beehive/num10/num_3401/'>2426 [Petticoat]</a>"
 topic:
 first_letter: P
 page:

@@ -9,7 +9,7 @@ first_letter: R
 page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0068/'>67 [Trusting in the Lord]</a>|<a
-  href='/digital-beehive/num4/num_1252/'>937 [Resignation]</a>"
+  href='/digital-beehive/num4/num_1253/'>937 [Resignation]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3387/'>resignation</a>"
 item: "#item-803885c1c"

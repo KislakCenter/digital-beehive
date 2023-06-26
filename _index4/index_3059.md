@@ -3,7 +3,7 @@ pid: index_3059
 volume: Volume 3
 image_number: '36'
 head: poets
-entry: "<a href='/digital-beehive/num7/num_2377/'>1584 [Poets]</a>|4563 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num7/num_2378/'>1584 [Poets]</a>|4563 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:

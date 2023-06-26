@@ -3,7 +3,7 @@ pid: index_3013
 volume: Volume 3
 image_number: '35'
 head: pinch
-entry: "<a href='/digital-beehive/num3/num_0880/'>645 [Pinch]</a>"
+entry: "<a href='/digital-beehive/num3/num_0881/'>645 [Pinch]</a>"
 topic:
 first_letter: P
 page:

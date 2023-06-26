@@ -8,8 +8,8 @@ topic: Doubt
 first_letter: D
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0912/'>661 [Perplexity]</a>|<a href='/digital-beehive/num3/num_0880/'>645
-  [Pinch]</a>|<a href='/digital-beehive/num6/num_1739/'>1254 [Scepticism]</a>|<a href='/digital-beehive/num3/num_1024/'>705
+xref: "<a href='/digital-beehive/num3/num_0913/'>661 [Perplexity]</a>|<a href='/digital-beehive/num3/num_0881/'>645
+  [Pinch]</a>|<a href='/digital-beehive/num6/num_1740/'>1254 [Scepticism]</a>|<a href='/digital-beehive/num3/num_1025/'>705
   [Doubtfulness]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_1135/'>doubt</a>"

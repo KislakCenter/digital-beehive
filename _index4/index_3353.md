@@ -3,7 +3,7 @@ pid: index_3353
 volume: Volume 3
 image_number: '39'
 head: remark
-entry: "<a href='/digital-beehive/num6/num_2166/'>1472 [Remarkable]</a>"
+entry: "<a href='/digital-beehive/num6/num_2167/'>1472 [Remarkable]</a>"
 topic:
 first_letter: R
 page:

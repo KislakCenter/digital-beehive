@@ -8,7 +8,7 @@ topic: Beard
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2147/'>1462 [Beard]</a>"
+xref: "<a href='/digital-beehive/num6/num_2148/'>1462 [Beard]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0318/'>beard</a>"
 item: "#item-f6031a9ca"

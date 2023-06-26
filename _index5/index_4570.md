@@ -3,8 +3,8 @@ pid: index_4570
 volume: Volume 3
 image_number: '53'
 head: wish
-entry: "<a href='/digital-beehive/alpha5/alpha_1046/'>a</a>|<a href='/digital-beehive/num4/num_1109/'>875
-  [Wish]</a>|<a href='/digital-beehive/num7/num_2548/'>1663 [Wish]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1046/'>a</a>|<a href='/digital-beehive/num4/num_1110/'>875
+  [Wish]</a>|<a href='/digital-beehive/num7/num_2549/'>1663 [Wish]</a>"
 topic:
 first_letter: W
 page:

@@ -8,13 +8,13 @@ topic: Farewell
 first_letter: F
 page:
 add:
-xref: 712 [Departure]|<a href='/digital-beehive/alpha1/alpha_0055/'>Banishmt</a>|<a
-  href='/digital-beehive/num3/num_0939/'>675 [Farewell]</a>
+xref: "<a href='/digital-beehive/num3/num_1044/'>713 [Departure]</a>|<a href='/digital-beehive/alpha1/alpha_0055/'>Banishmt</a>|<a
+  href='/digital-beehive/num3/num_0940/'>675 [Farewell]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1403/'>farewel</a>"
 item: "#item-b17b8e943"
 unparsed:
-line: 'Entry: Farewell|Topic: Farewell|Xref: 712 [Departure]|Xref: Banishmt|Xref:
+line: 'Entry: Farewell|Topic: Farewell|Xref: 713 [Departure]|Xref: Banishmt|Xref:
   675 [Farewell]|Index: farewel|#item-b17b8e943'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/767,2743,2989,564/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg

@@ -3,7 +3,7 @@ pid: index_0734
 volume: Volume 3
 image_number: '13'
 head: coming of Christ
-entry: "<a href='/digital-beehive/alpha1/alpha_0160/'>a</a>|<a href='/digital-beehive/num5/num_1401/'>1047
+entry: "<a href='/digital-beehive/alpha1/alpha_0160/'>a</a>|<a href='/digital-beehive/num5/num_1402/'>1047
   [Coming of God and Christ]</a>"
 topic:
 first_letter: C

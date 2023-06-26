@@ -8,12 +8,13 @@ topic: Heaviness
 first_letter: H
 page:
 add:
-xref: Balance|833 [Weight]
+xref: 219 [Ballance]|833 [PAGE_MISSING, Weight]
 see:
 index: "<a href='/digital-beehive/index2/index_1787/'>heavy</a>"
 item: "#item-557c0909c"
 unparsed:
-line: 'Entry: Heaviness|Topic: Heaviness|Xref: Balance|Xref: 833 [Weight]|Index: heavy|#item-557c0909c'
+line: 'Entry: Heaviness|Topic: Heaviness|Xref: 219 [Ballance]|Xref: 833 [PAGE_MISSING,
+  Weight]|Index: heavy|#item-557c0909c'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/769,200,3028,455/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564754747527

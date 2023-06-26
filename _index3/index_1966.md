@@ -3,7 +3,7 @@ pid: index_1966
 volume: Volume 3
 image_number: '25'
 head: impenitence
-entry: "<a href='/digital-beehive/alpha3/alpha_0465/'>a</a>|<a href='/digital-beehive/num8/num_2869/'>1945
+entry: "<a href='/digital-beehive/alpha3/alpha_0465/'>a</a>|<a href='/digital-beehive/num8/num_2870/'>1945
   [Impenitence]</a>"
 topic:
 first_letter: I/J

@@ -8,7 +8,7 @@ topic: Constancy
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_1013/'>Unstableness</a>|<a href='/digital-beehive/num5/num_1504/'>1112
+xref: "<a href='/digital-beehive/alpha5/alpha_1013/'>Unstableness</a>|<a href='/digital-beehive/num5/num_1505/'>1112
   [Constancy of mind]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0813/'>constancy</a>"

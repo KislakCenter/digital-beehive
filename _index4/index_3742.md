@@ -3,8 +3,8 @@ pid: index_3742
 volume: Volume 3
 image_number: '43'
 head: slander
-entry: "<a href='/digital-beehive/alpha4/alpha_0889/'>a</a>|<a href='/digital-beehive/num5/num_1640/'>1202
-  [Slander]</a>|<a href='/digital-beehive/num9/num_2984/'>2050 [Slander]</a>|<a href='/digital-beehive/num11/num_3588/'>4915
+entry: "<a href='/digital-beehive/alpha4/alpha_0889/'>a</a>|<a href='/digital-beehive/num5/num_1641/'>1202
+  [Slander]</a>|<a href='/digital-beehive/num9/num_2985/'>2050 [Slander]</a>|<a href='/digital-beehive/num11/num_3589/'>4915
   [Slander]</a>"
 topic:
 first_letter: S

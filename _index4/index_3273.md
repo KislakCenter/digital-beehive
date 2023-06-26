@@ -3,9 +3,9 @@ pid: index_3273
 volume: Volume 3
 image_number: '38'
 head: quotations
-entry: "<a href='/digital-beehive/num2/num_0547/'>442 [Quotation]</a>|<a href='/digital-beehive/num4/num_1331/'>999
-  [Quotations]</a>|<a href='/digital-beehive/num7/num_2563/'>1670 [Quotations]</a>|<a
-  href='/digital-beehive/num10/num_3207/'>2257 [Quotation]</a>"
+entry: "<a href='/digital-beehive/num2/num_0547/'>442 [Quotation]</a>|<a href='/digital-beehive/num4/num_1332/'>999
+  [Quotations]</a>|<a href='/digital-beehive/num7/num_2564/'>1670 [Quotations]</a>|<a
+  href='/digital-beehive/num10/num_3208/'>2257 [Quotation]</a>"
 topic:
 first_letter: Q
 page:

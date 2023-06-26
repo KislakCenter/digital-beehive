@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '31'
 head: monk
 entry: "<a href='/digital-beehive/alpha3/alpha_0606/'>a</a>|<a href='/digital-beehive/num2/num_0576/'>462
-  [Monks]</a>|<a href='/digital-beehive/num7/num_2382/'>1588 [Monk]</a>"
+  [Monks]</a>|<a href='/digital-beehive/num7/num_2383/'>1588 [Monk]</a>"
 topic:
 first_letter: M
 page:

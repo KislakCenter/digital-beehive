@@ -3,7 +3,7 @@ pid: index_1502
 volume: Volume 3
 image_number: '21'
 head: foregoing
-entry: "<a href='/digital-beehive/num8/num_2710/'>1779 [Foregoing]</a>"
+entry: "<a href='/digital-beehive/num8/num_2711/'>1779 [Foregoing]</a>"
 topic:
 first_letter: F
 page:

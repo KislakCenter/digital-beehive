@@ -3,7 +3,7 @@ pid: index_2499
 volume: Volume 3
 image_number: '30'
 head: metamorphosing
-entry: "<a href='/digital-beehive/num3/num_0892/'>650 [Transformation]</a>|<a href='/digital-beehive/num7/num_2520/'>1650
+entry: "<a href='/digital-beehive/num3/num_0893/'>650 [Transformation]</a>|<a href='/digital-beehive/num7/num_2521/'>1650
   [Transmutation]</a>"
 topic:
 first_letter: M

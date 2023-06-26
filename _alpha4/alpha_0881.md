@@ -9,7 +9,7 @@ first_letter: S
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0884/'>Sincerity</a>|<a href='/digital-beehive/num1/num_0045/'>45
-  [Little will suffice Nature]</a>|<a href='/digital-beehive/num7/num_2326/'>1559
+  [Little will suffice Nature]</a>|<a href='/digital-beehive/num7/num_2327/'>1559
   [Simplicity]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3716/'>simplicity</a>"

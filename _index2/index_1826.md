@@ -3,7 +3,7 @@ pid: index_1826
 volume: Volume 3
 image_number: '24'
 head: hickock
-entry: "<a href='/digital-beehive/num5/num_1655/'>1211 [Belchings]</a>"
+entry: "<a href='/digital-beehive/num5/num_1656/'>1211 [Belchings]</a>"
 topic:
 first_letter: H
 page:

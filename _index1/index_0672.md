@@ -3,7 +3,7 @@ pid: index_0672
 volume: Volume 3
 image_number: '13'
 head: circumcision
-entry: "<a href='/digital-beehive/alpha1/alpha_0151/'>a</a>|<a href='/digital-beehive/num7/num_2406/'>1599
+entry: "<a href='/digital-beehive/alpha1/alpha_0151/'>a</a>|<a href='/digital-beehive/num7/num_2407/'>1599
   [Circumcision]</a>"
 topic:
 first_letter: C

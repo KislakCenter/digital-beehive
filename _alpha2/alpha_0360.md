@@ -9,7 +9,7 @@ first_letter: G
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0152/'>Civility</a>|<a href='/digital-beehive/alpha2/alpha_0439/'>Humanity</a>|<a
-  href='/digital-beehive/num1/num_0021/'>21 [Moderate]</a>|<a href='/digital-beehive/num5/num_1645/'>1206
+  href='/digital-beehive/num1/num_0021/'>21 [Moderate]</a>|<a href='/digital-beehive/num5/num_1646/'>1206
   [Gentleness]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1597/'>gentleness</a>"

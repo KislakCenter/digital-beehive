@@ -8,7 +8,7 @@ topic: Interpretation
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0366/'>Gloss</a>|<a href='/digital-beehive/num4/num_1223/'>923
+xref: "<a href='/digital-beehive/alpha2/alpha_0366/'>Gloss</a>|<a href='/digital-beehive/num4/num_1224/'>923
   [Interpretation]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2078/'>interpretation</a>"

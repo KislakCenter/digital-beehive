@@ -3,7 +3,7 @@ pid: index_2268
 volume: Volume 3
 image_number: '28'
 head: Leviathan
-entry: "<a href='/digital-beehive/num8/num_2829/'>1920 [Leviathan]</a>"
+entry: "<a href='/digital-beehive/num8/num_2830/'>1920 [Leviathan]</a>"
 topic:
 first_letter: L
 page:

@@ -3,9 +3,9 @@ pid: index_1336
 volume: Volume 3
 image_number: '19'
 head: excom[m]unication
-entry: "<a href='/digital-beehive/num1/num_0026/'>26 [Excom[m]unication]</a>|<a href='/digital-beehive/num4/num_1165/'>897
-  [Excom[m]unication]</a>|<a href='/digital-beehive/num4/num_1269/'>951 [Excom[m]unication]</a>|<a
-  href='/digital-beehive/num8/num_2725/'>1792 [Excommunication]</a>"
+entry: "<a href='/digital-beehive/num1/num_0026/'>26 [Excom[m]unication]</a>|<a href='/digital-beehive/num4/num_1166/'>897
+  [Excom[m]unication]</a>|<a href='/digital-beehive/num4/num_1270/'>951 [Excom[m]unication]</a>|<a
+  href='/digital-beehive/num8/num_2726/'>1792 [Excommunication]</a>"
 topic:
 first_letter: E
 page:

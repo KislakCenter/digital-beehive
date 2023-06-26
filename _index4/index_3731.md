@@ -3,7 +3,7 @@ pid: index_3731
 volume: Volume 3
 image_number: '43'
 head: Sirach
-entry: "<a href='/digital-beehive/num10/num_3447/'>4464 [Ecclesiasticus]</a>"
+entry: "<a href='/digital-beehive/num10/num_3448/'>4464 [Ecclesiasticus]</a>"
 topic:
 first_letter: S
 page:

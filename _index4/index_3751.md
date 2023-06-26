@@ -3,7 +3,7 @@ pid: index_3751
 volume: Volume 3
 image_number: '43'
 head: sling
-entry: "<a href='/digital-beehive/num8/num_2767/'>1832 [To Swing]</a>"
+entry: "<a href='/digital-beehive/num8/num_2768/'>1832 [To Swing]</a>"
 topic:
 first_letter: S
 page:

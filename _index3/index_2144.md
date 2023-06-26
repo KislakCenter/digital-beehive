@@ -3,7 +3,7 @@ pid: index_2144
 volume: Volume 3
 image_number: '27'
 head: justice and mercy
-entry: "<a href='/digital-beehive/num9/num_3159/'>2216 [Justice & Mercy]</a>"
+entry: "<a href='/digital-beehive/num9/num_3160/'>2216 [Justice & Mercy]</a>"
 topic:
 first_letter: I/J
 page:

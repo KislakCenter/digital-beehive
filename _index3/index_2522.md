@@ -3,8 +3,8 @@ pid: index_2522
 volume: Volume 3
 image_number: '30'
 head: merchants
-entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1048/'>714
-  [a haggler]</a>|<a href='/digital-beehive/num6/num_2149/'>1464 [Merchant]</a>|4610
+entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1049/'>714
+  [a haggler]</a>|<a href='/digital-beehive/num6/num_2150/'>1464 [Merchant]</a>|4610
   [PAGE_MISSING]"
 topic:
 first_letter: M

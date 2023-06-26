@@ -3,7 +3,7 @@ pid: index_3463
 volume: Volume 3
 image_number: '40'
 head: ruin
-entry: "<a href='/digital-beehive/num3/num_0804/'>608 [Ruin]</a>"
+entry: "<a href='/digital-beehive/num3/num_0805/'>608 [Ruin]</a>"
 topic:
 first_letter: R
 page:

@@ -3,7 +3,7 @@ pid: index_3837
 volume: Volume 3
 image_number: '44'
 head: spices
-entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>|<a href='/digital-beehive/num8/num_2854/'>1937
+entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>|<a href='/digital-beehive/num8/num_2855/'>1937
   [Spices]</a>"
 topic:
 first_letter: S

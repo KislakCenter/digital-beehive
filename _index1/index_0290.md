@@ -3,7 +3,7 @@ pid: index_0290
 volume: Volume 3
 image_number: '9'
 head: barbadoes
-entry: "<a href='/digital-beehive/num7/num_2234/'>1512 [Barbadoes]</a>"
+entry: "<a href='/digital-beehive/num7/num_2235/'>1512 [Barbadoes]</a>"
 topic:
 first_letter: B
 page:

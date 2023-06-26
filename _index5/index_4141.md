@@ -3,7 +3,7 @@ pid: index_4141
 volume: Volume 3
 image_number: '47'
 head: Thule
-entry: "<a href='/digital-beehive/num7/num_2394/'>1594 [Thule]</a>"
+entry: "<a href='/digital-beehive/num7/num_2395/'>1594 [Thule]</a>"
 topic:
 first_letter: T
 page:

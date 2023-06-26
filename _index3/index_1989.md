@@ -3,8 +3,8 @@ pid: index_1989
 volume: Volume 3
 image_number: '25'
 head: inamoured
-entry: "<a href='/digital-beehive/num6/num_1858/'>1324 [Inamoured]</a>|<a href='/digital-beehive/num7/num_2640/'>1716
-  [Inamoured]</a>|<a href='/digital-beehive/num11/num_3557/'>4862 [Inamoured]</a>"
+entry: "<a href='/digital-beehive/num6/num_1859/'>1324 [Inamoured]</a>|<a href='/digital-beehive/num7/num_2641/'>1716
+  [Inamoured]</a>|<a href='/digital-beehive/num11/num_3558/'>4862 [Inamoured]</a>"
 topic:
 first_letter: I/J
 page:

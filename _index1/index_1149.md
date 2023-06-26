@@ -3,7 +3,7 @@ pid: index_1149
 volume: Volume 3
 image_number: '17'
 head: to drieshave
-entry: "<a href='/digital-beehive/num3/num_1047/'>714 [to rid one of his money]</a>"
+entry: "<a href='/digital-beehive/num3/num_1048/'>714 [to rid one of his money]</a>"
 topic:
 first_letter: D
 page:

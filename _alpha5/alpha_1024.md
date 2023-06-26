@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0902/'>Souldier</a>|<a href='/digital-beehive/alpha4/alpha_0782/'>Rebellion</a>|<a
   href='/digital-beehive/num2/num_0610/'>488 [unlawfull for Xstians to wage war]</a>|<a
-  href='/digital-beehive/num5/num_1643/'>1204 [War]</a>"
+  href='/digital-beehive/num5/num_1644/'>1204 [War]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4474/'>war</a>"
 item: "#item-46da5ca45"

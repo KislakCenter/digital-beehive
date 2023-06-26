@@ -3,7 +3,7 @@ pid: index_4155
 volume: Volume 3
 image_number: '47'
 head: time complaint of t[s]
-entry: "<a href='/digital-beehive/num5/num_1487/'>1098 [Complaint of Times]</a>"
+entry: "<a href='/digital-beehive/num5/num_1488/'>1098 [Complaint of Times]</a>"
 topic:
 first_letter: T
 page:

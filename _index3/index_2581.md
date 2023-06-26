@@ -3,7 +3,7 @@ pid: index_2581
 volume: Volume 3
 image_number: '31'
 head: more or less
-entry: "<a href='/digital-beehive/num7/num_2420/'>1605 [More or Less]</a>"
+entry: "<a href='/digital-beehive/num7/num_2421/'>1605 [More or Less]</a>"
 topic:
 first_letter: M
 page:

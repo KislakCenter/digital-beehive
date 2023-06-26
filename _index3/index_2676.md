@@ -3,7 +3,7 @@ pid: index_2676
 volume: Volume 3
 image_number: '32'
 head: needle
-entry: "<a href='/digital-beehive/num7/num_2339/'>1564 [Needle]</a>"
+entry: "<a href='/digital-beehive/num7/num_2340/'>1564 [Needle]</a>"
 topic:
 first_letter: N
 page:

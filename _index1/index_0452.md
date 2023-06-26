@@ -3,7 +3,7 @@ pid: index_0452
 volume: Volume 3
 image_number: '11'
 head: bride & bridegrom
-entry: "<a href='/digital-beehive/alpha1/alpha_0102/'>a</a>|<a href='/digital-beehive/num8/num_2773/'>1893
+entry: "<a href='/digital-beehive/alpha1/alpha_0102/'>a</a>|<a href='/digital-beehive/num8/num_2774/'>1893
   [Betrothing or Espousing]</a>"
 topic:
 first_letter: B

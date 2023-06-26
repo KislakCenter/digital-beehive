@@ -3,7 +3,7 @@ pid: index_2699
 volume: Volume 3
 image_number: '32'
 head: new year
-entry: "<a href='/digital-beehive/num7/num_2661/'>1735 [New Year]</a>"
+entry: "<a href='/digital-beehive/num7/num_2662/'>1735 [New Year]</a>"
 topic:
 first_letter: N
 page:

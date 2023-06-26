@@ -3,7 +3,7 @@ pid: index_3043
 volume: Volume 3
 image_number: '36'
 head: be pleased
-entry: "<a href='/digital-beehive/num2/num_0386/'>333 [Pray]</a>|<a href='/digital-beehive/num5/num_1492/'>1102
+entry: "<a href='/digital-beehive/num2/num_0386/'>333 [Pray]</a>|<a href='/digital-beehive/num5/num_1493/'>1102
   [Be Pleased]</a>"
 topic:
 first_letter: P

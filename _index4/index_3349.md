@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '39'
 head: religion
 entry: "<a href='/digital-beehive/alpha4/alpha_0791/'>a</a>|<a href='/digital-beehive/num1/num_0241/'>226
-  [Religion]</a>|<a href='/digital-beehive/num8/num_2742/'>1809 [Religion]</a>"
+  [Religion]</a>|<a href='/digital-beehive/num8/num_2743/'>1809 [Religion]</a>"
 topic:
 first_letter: R
 page:

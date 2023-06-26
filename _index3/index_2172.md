@@ -3,7 +3,7 @@ pid: index_2172
 volume: Volume 3
 image_number: '27'
 head: knight
-entry: "<a href='/digital-beehive/num8/num_2691/'>1760 [Knighthood]</a>"
+entry: "<a href='/digital-beehive/num8/num_2692/'>1760 [Knighthood]</a>"
 topic:
 first_letter: K
 page:

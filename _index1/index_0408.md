@@ -3,7 +3,7 @@ pid: index_0408
 volume: Volume 3
 image_number: '10'
 head: bonfire
-entry: "<a href='/digital-beehive/num5/num_1423/'>1058 [Bonfires]</a>"
+entry: "<a href='/digital-beehive/num5/num_1424/'>1058 [Bonfires]</a>"
 topic:
 first_letter: B
 page:

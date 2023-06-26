@@ -3,7 +3,7 @@ pid: index_0676
 volume: Volume 3
 image_number: '13'
 head: citron
-entry: "<a href='/digital-beehive/num7/num_2440/'>1614 [Citron]</a>"
+entry: "<a href='/digital-beehive/num7/num_2441/'>1614 [Citron]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_0661
 volume: Volume 3
 image_number: '13'
 head: church warden
-entry: "<a href='/digital-beehive/num3/num_0707/'>556 [Sexton]</a>"
+entry: "<a href='/digital-beehive/num3/num_0708/'>556 [Sexton]</a>"
 topic:
 first_letter: C
 page:

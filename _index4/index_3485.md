@@ -3,7 +3,7 @@ pid: index_3485
 volume: Volume 3
 image_number: '40'
 head: sadduces
-entry: "<a href='/digital-beehive/num6/num_2188/'>1483 [Sadduces]</a>"
+entry: "<a href='/digital-beehive/num6/num_2189/'>1483 [Sadduces]</a>"
 topic:
 first_letter: S
 page:

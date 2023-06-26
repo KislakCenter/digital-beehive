@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '23'
 head: hat
 entry: "<a href='/digital-beehive/alpha2/alpha_0403/'>a</a>|<a href='/digital-beehive/num1/num_0225/'>213
-  [Hat]</a>|785 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3357/'>2385 [Hat]</a>"
+  [Hat]</a>|785 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3358/'>2385 [Hat]</a>"
 topic:
 first_letter: H
 page:

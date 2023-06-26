@@ -3,7 +3,7 @@ pid: index_3434
 volume: Volume 3
 image_number: '40'
 head: ripeness
-entry: "<a href='/digital-beehive/num3/num_0814/'>612 [Ripeness]</a>"
+entry: "<a href='/digital-beehive/num3/num_0815/'>612 [Ripeness]</a>"
 topic:
 first_letter: R
 page:

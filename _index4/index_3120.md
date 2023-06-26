@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '36'
 head: predestination
 entry: "<a href='/digital-beehive/alpha4/alpha_0732/'>a</a>|<a href='/digital-beehive/num1/num_0243/'>228
-  [Predestination]</a>|<a href='/digital-beehive/num9/num_3175/'>2230 [Predestination]</a>"
+  [Predestination]</a>|<a href='/digital-beehive/num9/num_3176/'>2230 [Predestination]</a>"
 topic:
 first_letter: P
 page:

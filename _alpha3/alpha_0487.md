@@ -8,7 +8,7 @@ topic: Intercession
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0582/'>Mediator</a>|<a href='/digital-beehive/num10/num_3419/'>2443
+xref: "<a href='/digital-beehive/alpha3/alpha_0582/'>Mediator</a>|<a href='/digital-beehive/num10/num_3420/'>2443
   [Intercession]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2075/'>intercession</a>"

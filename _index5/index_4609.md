@@ -3,7 +3,7 @@ pid: index_4609
 volume: Volume 3
 image_number: '53'
 head: old & new words
-entry: "<a href='/digital-beehive/num11/num_3504/'>4810 [Old & obsolete words : New
+entry: "<a href='/digital-beehive/num11/num_3505/'>4810 [Old & obsolete words : New
   fangled words]</a>"
 topic:
 first_letter: W

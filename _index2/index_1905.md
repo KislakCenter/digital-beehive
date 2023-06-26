@@ -3,8 +3,8 @@ pid: index_1905
 volume: Volume 3
 image_number: '24'
 head: hunger
-entry: "<a href='/digital-beehive/alpha2/alpha_0441/'>a</a>|<a href='/digital-beehive/num3/num_1035/'>710
-  [Hunger]</a>|<a href='/digital-beehive/num9/num_3031/'>2095 [Hunger]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0441/'>a</a>|<a href='/digital-beehive/num3/num_1036/'>710
+  [Hunger]</a>|<a href='/digital-beehive/num9/num_3032/'>2095 [Hunger]</a>"
 topic:
 first_letter: H
 page:

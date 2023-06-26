@@ -3,7 +3,7 @@ pid: index_4704
 volume: Volume 3
 image_number: '54'
 head: Salvation of Children & Idiots
-entry: "<a href='/digital-beehive/num9/num_3165/'>2222 [Salvation of Children & Idiots]</a>"
+entry: "<a href='/digital-beehive/num9/num_3166/'>2222 [Salvation of Children & Idiots]</a>"
 topic:
 first_letter: insertion
 page:

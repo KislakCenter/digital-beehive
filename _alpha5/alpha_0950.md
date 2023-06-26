@@ -8,7 +8,7 @@ topic: Testament
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_1039/'>Will</a>|<a href='/digital-beehive/num9/num_3169/'>2226
+xref: "<a href='/digital-beehive/alpha5/alpha_1039/'>Will</a>|<a href='/digital-beehive/num9/num_3170/'>2226
   [Will]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4097/'>testament</a>"

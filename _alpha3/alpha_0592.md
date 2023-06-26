@@ -8,7 +8,7 @@ topic: Metal
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0598/'>Minerals</a>|<a href='/digital-beehive/num5/num_1586/'>1164
+xref: "<a href='/digital-beehive/alpha3/alpha_0598/'>Minerals</a>|<a href='/digital-beehive/num5/num_1587/'>1164
   [Metal]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2497/'>metal</a>"

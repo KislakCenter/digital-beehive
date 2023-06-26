@@ -9,7 +9,7 @@ first_letter: D
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0128/'>Catechism</a>|<a href='/digital-beehive/alpha3/alpha_0530/'>Learning</a>|<a
-  href='/digital-beehive/num10/num_3416/'>2440 [To Teach]</a>"
+  href='/digital-beehive/num10/num_3417/'>2440 [To Teach]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_1123/'>doctrine</a>"
 item: "#item-664bc12aee"

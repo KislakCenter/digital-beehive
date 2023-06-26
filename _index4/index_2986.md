@@ -3,7 +3,7 @@ pid: index_2986
 volume: Volume 3
 image_number: '35'
 head: philosophy par[ae]netick
-entry: "<a href='/digital-beehive/num5/num_1393/'>1041 [Com[m]andments]</a>"
+entry: "<a href='/digital-beehive/num5/num_1394/'>1041 [Com[m]andments]</a>"
 topic:
 first_letter: P
 page:

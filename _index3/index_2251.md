@@ -3,7 +3,7 @@ pid: index_2251
 volume: Volume 3
 image_number: '28'
 head: legend
-entry: "<a href='/digital-beehive/num7/num_2309/'>1550 [Legend]</a>"
+entry: "<a href='/digital-beehive/num7/num_2310/'>1550 [Legend]</a>"
 topic:
 first_letter: L
 page:

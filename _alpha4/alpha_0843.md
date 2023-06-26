@@ -8,7 +8,7 @@ topic: Seal
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num8/num_2865/'>1941 [Seal]</a>"
+xref: "<a href='/digital-beehive/num8/num_2866/'>1941 [Seal]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3575/'>seal</a>"
 item: "#item-272840dbb"

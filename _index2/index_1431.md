@@ -3,8 +3,8 @@ pid: index_1431
 volume: Volume 3
 image_number: '20'
 head: fencing
-entry: "<a href='/digital-beehive/num3/num_1006/'>698 [the art of Fencing]</a>|<a
-  href='/digital-beehive/num6/num_1993/'>1391 [Fencing]</a>"
+entry: "<a href='/digital-beehive/num3/num_1007/'>698 [the art of Fencing]</a>|<a
+  href='/digital-beehive/num6/num_1994/'>1391 [Fencing]</a>"
 topic:
 first_letter: F
 page:

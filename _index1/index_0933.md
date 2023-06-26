@@ -3,7 +3,7 @@ pid: index_0933
 volume: Volume 3
 image_number: '15'
 head: customers
-entry: "<a href='/digital-beehive/num7/num_2479/'>1632 [Buy]</a>"
+entry: "<a href='/digital-beehive/num7/num_2480/'>1632 [Buy]</a>"
 topic:
 first_letter: C
 page:

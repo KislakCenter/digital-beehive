@@ -8,7 +8,7 @@ topic: Lookingglass
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_3036/'>2100 [Lookingglass]</a>"
+xref: "<a href='/digital-beehive/num9/num_3037/'>2100 [Lookingglass]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2328/'>lookingglass</a>"
 item: "#item-57db9a5a1"

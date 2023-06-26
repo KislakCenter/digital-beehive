@@ -3,7 +3,7 @@ pid: index_3396
 volume: Volume 3
 image_number: '39'
 head: retaliation
-entry: "<a href='/digital-beehive/num1/num_0156/'>150 [Retaliation]</a>|<a href='/digital-beehive/num4/num_1137/'>886
+entry: "<a href='/digital-beehive/num1/num_0156/'>150 [Retaliation]</a>|<a href='/digital-beehive/num4/num_1138/'>886
   [Retaliation]</a>"
 topic:
 first_letter: R

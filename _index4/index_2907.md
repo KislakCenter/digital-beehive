@@ -3,7 +3,7 @@ pid: index_2907
 volume: Volume 3
 image_number: '34'
 head: passion of Xst
-entry: "<a href='/digital-beehive/alpha4/alpha_0691/'>a</a>|<a href='/digital-beehive/num4/num_1330/'>998
+entry: "<a href='/digital-beehive/alpha4/alpha_0691/'>a</a>|<a href='/digital-beehive/num4/num_1331/'>998
   [Passion or Suffering of Xst]</a>"
 topic:
 first_letter: P

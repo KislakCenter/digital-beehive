@@ -3,7 +3,7 @@ pid: index_1888
 volume: Volume 3
 image_number: '24'
 head: hourglass
-entry: "<a href='/digital-beehive/num4/num_1116/'>878 [Hourglass]</a>"
+entry: "<a href='/digital-beehive/num4/num_1117/'>878 [Hourglass]</a>"
 topic:
 first_letter: H
 page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"

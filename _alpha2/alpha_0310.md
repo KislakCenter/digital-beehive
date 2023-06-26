@@ -8,7 +8,7 @@ topic: Faintheartedness
 first_letter: F
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Coward</a>|<a href='/digital-beehive/num10/num_3338/'>2366
+xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Coward</a>|<a href='/digital-beehive/num10/num_3339/'>2366
   [Fainthearted]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1378/'>fainthearted</a>"

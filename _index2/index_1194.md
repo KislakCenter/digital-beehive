@@ -3,7 +3,7 @@ pid: index_1194
 volume: Volume 3
 image_number: '18'
 head: east Indies
-entry: "<a href='/digital-beehive/num6/num_2191/'>1486 [East Indies]</a>"
+entry: "<a href='/digital-beehive/num6/num_2192/'>1486 [East Indies]</a>"
 topic:
 first_letter: E
 page:

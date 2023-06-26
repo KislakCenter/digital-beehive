@@ -3,8 +3,8 @@ pid: index_3206
 volume: Volume 3
 image_number: '37'
 head: protestants
-entry: "<a href='/digital-beehive/num1/num_0084/'>83 [Protestant]</a>|<a href='/digital-beehive/num7/num_2232/'>1511
-  [Protestant Religion]</a>|<a href='/digital-beehive/num10/num_3217/'>2264 [Protestants]</a>"
+entry: "<a href='/digital-beehive/num1/num_0084/'>83 [Protestant]</a>|<a href='/digital-beehive/num7/num_2233/'>1511
+  [Protestant Religion]</a>|<a href='/digital-beehive/num10/num_3218/'>2264 [Protestants]</a>"
 topic:
 first_letter: P
 page:

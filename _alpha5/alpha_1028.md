@@ -8,7 +8,7 @@ topic: Washing of feet
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1427/'>1061 [Washing]</a>"
+xref: "<a href='/digital-beehive/num5/num_1428/'>1061 [Washing]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4484/'>washing of feet</a>"
 item: "#item-4acdc4419"

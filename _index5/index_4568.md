@@ -3,8 +3,8 @@ pid: index_4568
 volume: Volume 3
 image_number: '53'
 head: the wise man
-entry: "<a href='/digital-beehive/num6/num_1809/'>1296 [Wise man]</a>|<a href='/digital-beehive/num6/num_1984/'>1387
-  [a Wise Man]</a>|<a href='/digital-beehive/num7/num_2604/'>1691 [Persons of unspotted
+entry: "<a href='/digital-beehive/num6/num_1810/'>1296 [Wise man]</a>|<a href='/digital-beehive/num6/num_1985/'>1387
+  [a Wise Man]</a>|<a href='/digital-beehive/num7/num_2605/'>1691 [Persons of unspotted
   Reputation]</a>"
 topic:
 first_letter: W

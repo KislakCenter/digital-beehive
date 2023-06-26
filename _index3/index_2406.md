@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '29'
 head: brave man
 entry: "<a href='/digital-beehive/num1/num_0209/'>200 [A man of admirable (: extraordinary
-  :) Qualities]</a>|<a href='/digital-beehive/num8/num_2690/'>1760 [Gallant]</a>|<a
-  href='/digital-beehive/num10/num_3324/'>2353 [Brave men]</a>"
+  :) Qualities]</a>|<a href='/digital-beehive/num8/num_2691/'>1760 [Gallant]</a>|<a
+  href='/digital-beehive/num10/num_3325/'>2353 [Brave men]</a>"
 topic:
 first_letter: M
 page:

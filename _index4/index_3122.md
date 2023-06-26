@@ -3,7 +3,7 @@ pid: index_3122
 volume: Volume 3
 image_number: '36'
 head: prefermt
-entry: "<a href='/digital-beehive/num7/num_2650/'>1726 [Preferment]</a>"
+entry: "<a href='/digital-beehive/num7/num_2651/'>1726 [Preferment]</a>"
 topic:
 first_letter: P
 page:

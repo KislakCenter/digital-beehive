@@ -3,7 +3,7 @@ pid: index_2453
 volume: Volume 3
 image_number: '30'
 head: Maxims
-entry: "<a href='/digital-beehive/num9/num_2982/'>2048 [Maxims]</a>"
+entry: "<a href='/digital-beehive/num9/num_2983/'>2048 [Maxims]</a>"
 topic:
 first_letter: M
 page:

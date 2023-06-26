@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '50'
 head: union with God
 entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with - & in men]</a>|<a
-  href='/digital-beehive/num4/num_1253/'>937 [Union with God]</a>|<a href='/digital-beehive/num9/num_2960/'>2026
-  [Conformity]</a>|<a href='/digital-beehive/num10/num_3361/'>2389 [Union with God]</a>"
+  href='/digital-beehive/num4/num_1254/'>937 [Union with God]</a>|<a href='/digital-beehive/num9/num_2961/'>2026
+  [Conformity]</a>|<a href='/digital-beehive/num10/num_3362/'>2389 [Union with God]</a>"
 topic:
 first_letter: U/V
 page:

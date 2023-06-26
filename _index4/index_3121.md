@@ -3,8 +3,8 @@ pid: index_3121
 volume: Volume 3
 image_number: '36'
 head: preface
-entry: "<a href='/digital-beehive/num3/num_0836/'>621 [prefatory]</a>|<a href='/digital-beehive/num2/num_0436/'>366
-  [Preface]</a>|<a href='/digital-beehive/num7/num_2323/'>1558 [Preface]</a>|4600
+entry: "<a href='/digital-beehive/num3/num_0837/'>621 [prefatory]</a>|<a href='/digital-beehive/num2/num_0436/'>366
+  [Preface]</a>|<a href='/digital-beehive/num7/num_2324/'>1558 [Preface]</a>|4600
   [PAGE_MISSING]"
 topic:
 first_letter: P

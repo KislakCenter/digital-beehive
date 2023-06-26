@@ -3,7 +3,7 @@ pid: index_0085
 volume: Volume 3
 image_number: '7'
 head: alamode
-entry: "<a href='/digital-beehive/num1/num_0270/'>249 [Alamode]</a>|<a href='/digital-beehive/num9/num_2941/'>2007
+entry: "<a href='/digital-beehive/num1/num_0270/'>249 [Alamode]</a>|<a href='/digital-beehive/num9/num_2942/'>2007
   [Alamode]</a>"
 topic:
 first_letter: A

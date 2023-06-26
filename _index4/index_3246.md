@@ -3,9 +3,9 @@ pid: index_3246
 volume: Volume 3
 image_number: '38'
 head: Quakers
-entry: "<a href='/digital-beehive/alpha4/alpha_0768/'>a</a>|<a href='/digital-beehive/num5/num_1430/'>1063
-  [Quakers]</a>|<a href='/digital-beehive/num7/num_2243/'>1516 [Quaker]</a>|<a href='/digital-beehive/num10/num_3200/'>2252
-  [Quakers]</a>|<a href='/digital-beehive/num10/num_3408/'>2433 [Quakers]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0768/'>a</a>|<a href='/digital-beehive/num5/num_1431/'>1063
+  [Quakers]</a>|<a href='/digital-beehive/num7/num_2244/'>1516 [Quaker]</a>|<a href='/digital-beehive/num10/num_3201/'>2252
+  [Quakers]</a>|<a href='/digital-beehive/num10/num_3409/'>2433 [Quakers]</a>"
 topic:
 first_letter: Q
 page:

@@ -8,7 +8,7 @@ topic: Forgetfulness
 first_letter: F
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0588/'>memory</a>|<a href='/digital-beehive/num3/num_1003/'>697
+xref: "<a href='/digital-beehive/alpha3/alpha_0588/'>memory</a>|<a href='/digital-beehive/num3/num_1004/'>697
   [Forgetfulness]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1509/'>forgetfulness</a>"

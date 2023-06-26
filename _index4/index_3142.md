@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '37'
 head: pretender to learning
 entry: "<a href='/digital-beehive/num1/num_0109/'>105 [a Pretender to learning]</a>|<a
-  href='/digital-beehive/num9/num_3155/'>2212 [Pretender to Learning]</a>"
+  href='/digital-beehive/num9/num_3156/'>2212 [Pretender to Learning]</a>"
 topic:
 first_letter: P
 page:

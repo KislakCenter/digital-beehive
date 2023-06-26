@@ -3,7 +3,7 @@ pid: index_4294
 volume: Volume 3
 image_number: '49'
 head: Vandals
-entry: "<a href='/digital-beehive/num7/num_2215/'>1502 [Vandals]</a>"
+entry: "<a href='/digital-beehive/num7/num_2216/'>1502 [Vandals]</a>"
 topic:
 first_letter: U/V
 page:

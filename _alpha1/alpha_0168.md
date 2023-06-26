@@ -9,7 +9,7 @@ first_letter: C
 page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0497/'>Judgment</a>|<a href='/digital-beehive/alpha2/alpha_0413/'>Hell</a>|<a
-  href='/digital-beehive/num8/num_2750/'>1817 [Damnation]</a>"
+  href='/digital-beehive/num8/num_2751/'>1817 [Damnation]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0778/'>condemnation</a>"
 item: "#item-32151da3d"

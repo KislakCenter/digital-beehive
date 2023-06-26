@@ -3,7 +3,7 @@ pid: index_3165
 volume: Volume 3
 image_number: '37'
 head: privation
-entry: "<a href='/digital-beehive/num7/num_2438/'>1613 [Privation]</a>"
+entry: "<a href='/digital-beehive/num7/num_2439/'>1613 [Privation]</a>"
 topic:
 first_letter: P
 page:

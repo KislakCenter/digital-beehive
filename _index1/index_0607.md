@@ -3,7 +3,7 @@ pid: index_0607
 volume: Volume 3
 image_number: '12'
 head: charity Schools
-entry: "<a href='/digital-beehive/num10/num_3325/'>2354 [Schools]</a>"
+entry: "<a href='/digital-beehive/num10/num_3326/'>2354 [Schools]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_3406
 volume: Volume 3
 image_number: '40'
 head: revenue
-entry: "<a href='/digital-beehive/num3/num_0724/'>568 [Rent or Revenue]</a>"
+entry: "<a href='/digital-beehive/num3/num_0725/'>568 [Rent or Revenue]</a>"
 topic:
 first_letter: R
 page:

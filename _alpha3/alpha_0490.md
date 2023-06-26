@@ -14,12 +14,12 @@ index: "<a href='/digital-beehive/index3/index_2102/'>John Bapt</a>"
 item: "#item-ab6a81988"
 unparsed:
 line: 'Entry: John the baptist|Topic: John the baptist|Index: John Bapt|#item-ab6a81988'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/696,2233,3028,519/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/694,2231,3030,521/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564761786313
-sort_value: '202412233'
+sort_value: '202412231'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/696,2233,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/694,2231,600,180/250,/0/default.jpg
 label: John the baptist
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue:

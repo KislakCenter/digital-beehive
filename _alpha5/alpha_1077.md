@@ -9,7 +9,7 @@ first_letter: Z
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0835/'>Satyre</a>|<a href='/digital-beehive/alpha4/alpha_0690/'>Pasquil</a>|<a
-  href='/digital-beehive/alpha1/alpha_0198/'>Criticism</a>|<a href='/digital-beehive/num3/num_0850/'>629
+  href='/digital-beehive/alpha1/alpha_0198/'>Criticism</a>|<a href='/digital-beehive/num3/num_0851/'>629
   [Zoilus]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4658/'>Zoilus</a>"

@@ -8,7 +8,7 @@ topic: Promise
 first_letter: P
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1102/'>872 [Promise]</a>"
+xref: "<a href='/digital-beehive/num4/num_1103/'>872 [Promise]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3188/'>promise</a>"
 item: "#item-37b8c35f1"

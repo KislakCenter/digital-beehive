@@ -8,7 +8,7 @@ topic: Mercy
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1514/'>1120 [Clemency]</a>|<a href='/digital-beehive/alpha1/alpha_0165/'>Compassion</a>|<a
+xref: "<a href='/digital-beehive/num5/num_1515/'>1120 [Clemency]</a>|<a href='/digital-beehive/alpha1/alpha_0165/'>Compassion</a>|<a
   href='/digital-beehive/alpha2/alpha_0380/'>grace</a>|<a href='/digital-beehive/alpha5/alpha_1011/'>unmercifull</a>|<a
   href='/digital-beehive/num2/num_0392/'>338 [Mercy]</a>"
 see:

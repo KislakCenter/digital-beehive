@@ -3,7 +3,7 @@ pid: index_0981
 volume: Volume 3
 image_number: '16'
 head: dedication
-entry: "<a href='/digital-beehive/alpha1/alpha_0217/'>a</a>|<a href='/digital-beehive/num6/num_1905/'>1348
+entry: "<a href='/digital-beehive/alpha1/alpha_0217/'>a</a>|<a href='/digital-beehive/num6/num_1906/'>1348
   [Epistle Dedicatory]</a>|4628 [PAGE_MISSING]"
 topic:
 first_letter: D

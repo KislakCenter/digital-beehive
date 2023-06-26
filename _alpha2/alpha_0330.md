@@ -8,7 +8,7 @@ topic: Firstborn
 first_letter: F
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_3104/'>2163 [Birth-right]</a>"
+xref: "<a href='/digital-beehive/num9/num_3105/'>2163 [Birth-right]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1459/'>firstborn</a>"
 item: "#item-024c28ee8"

@@ -3,7 +3,7 @@ pid: index_4013
 volume: Volume 3
 image_number: '46'
 head: swallowing
-entry: "<a href='/digital-beehive/num8/num_2838/'>1926 [Swallowing]</a>"
+entry: "<a href='/digital-beehive/num8/num_2839/'>1926 [Swallowing]</a>"
 topic:
 first_letter: S
 page:

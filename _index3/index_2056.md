@@ -3,7 +3,7 @@ pid: index_2056
 volume: Volume 3
 image_number: '26'
 head: inquisition
-entry: "<a href='/digital-beehive/num2/num_0491/'>400 [Inquisition]</a>|<a href='/digital-beehive/num7/num_2312/'>1551
+entry: "<a href='/digital-beehive/num2/num_0491/'>400 [Inquisition]</a>|<a href='/digital-beehive/num7/num_2313/'>1551
   [Inquisitors]</a>"
 topic:
 first_letter: I/J

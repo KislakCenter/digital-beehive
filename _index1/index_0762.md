@@ -3,7 +3,7 @@ pid: index_0762
 volume: Volume 3
 image_number: '14'
 head: complaint of the damned
-entry: "<a href='/digital-beehive/num8/num_2850/'>1936 [Complaint]</a>"
+entry: "<a href='/digital-beehive/num8/num_2851/'>1936 [Complaint]</a>"
 topic:
 first_letter: C
 page:

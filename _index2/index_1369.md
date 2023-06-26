@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '19'
 head: eye
 entry: "<a href='/digital-beehive/alpha2/alpha_0307/'>a</a>|757 [[PAGE_MISSING]]|<a
-  href='/digital-beehive/num7/num_2380/'>1587 [Eyes]</a>|4728 [[PAGE_MISSING]]"
+  href='/digital-beehive/num7/num_2381/'>1587 [Eyes]</a>|4728 [[PAGE_MISSING]]"
 topic:
 first_letter: E
 page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"

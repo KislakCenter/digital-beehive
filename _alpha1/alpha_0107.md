@@ -9,7 +9,7 @@ first_letter: B
 page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0339/'>fool</a>|<a href='/digital-beehive/alpha3/alpha_0450/'>Jesting</a>|<a
-  href='/digital-beehive/num7/num_2549/'>1664 [Buffoon]</a>"
+  href='/digital-beehive/num7/num_2550/'>1664 [Buffoon]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0472/'>buffoon</a>"
 item: "#item-0cf4c56c5"

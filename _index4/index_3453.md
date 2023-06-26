@@ -3,7 +3,7 @@ pid: index_3453
 volume: Volume 3
 image_number: '40'
 head: rosin
-entry: "<a href='/digital-beehive/num9/num_3084/'>2145 [Turpentine]</a>"
+entry: "<a href='/digital-beehive/num9/num_3085/'>2145 [Turpentine]</a>"
 topic:
 first_letter: R
 page:

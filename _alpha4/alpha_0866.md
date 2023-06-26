@@ -8,7 +8,7 @@ topic: Shadow
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0872/'>641 [the Shadow]</a>"
+xref: "<a href='/digital-beehive/num3/num_0873/'>641 [the Shadow]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3655/'>shadow</a>"
 item: "#item-34247929a"

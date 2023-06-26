@@ -3,7 +3,7 @@ pid: index_1676
 volume: Volume 3
 image_number: '22'
 head: governess. hofmeisterin
-entry: "<a href='/digital-beehive/num6/num_2064/'>1424 [Governess]</a>"
+entry: "<a href='/digital-beehive/num6/num_2065/'>1424 [Governess]</a>"
 topic:
 first_letter: G
 page:

@@ -3,7 +3,7 @@ pid: index_2450
 volume: Volume 3
 image_number: '30'
 head: matter, eijter
-entry: "<a href='/digital-beehive/num3/num_0758/'>587 [Corruption & Matter, Eijter]</a>"
+entry: "<a href='/digital-beehive/num3/num_0759/'>587 [Corruption & Matter, Eijter]</a>"
 topic:
 first_letter: M
 page:

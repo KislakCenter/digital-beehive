@@ -3,7 +3,7 @@ pid: index_1275
 volume: Volume 3
 image_number: '18'
 head: to entreat
-entry: "<a href='/digital-beehive/num2/num_0390/'>336 [To pray]</a>|<a href='/digital-beehive/num3/num_0896/'>652
+entry: "<a href='/digital-beehive/num2/num_0390/'>336 [To pray]</a>|<a href='/digital-beehive/num3/num_0897/'>652
   [Petition, Request]</a>"
 topic:
 first_letter: E

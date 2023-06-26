@@ -8,7 +8,7 @@ topic: Simulation
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1567/'>1150 [Simulation]</a>"
+xref: "<a href='/digital-beehive/num5/num_1568/'>1150 [Simulation]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3717/'>simulation</a>"
 item: "#item-c01948499"

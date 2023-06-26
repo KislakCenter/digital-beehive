@@ -8,8 +8,8 @@ topic: Glass
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0551/'>Lookingglass</a>|<a href='/digital-beehive/num3/num_0816/'>612
-  [Bottle]</a>|<a href='/digital-beehive/num7/num_2532/'>1655 [Glass]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0551/'>Lookingglass</a>|<a href='/digital-beehive/num3/num_0817/'>612
+  [Bottle]</a>|<a href='/digital-beehive/num7/num_2533/'>1655 [Glass]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1619/'>glass</a>"
 item: "#item-88581f002"

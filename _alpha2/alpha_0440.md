@@ -8,7 +8,7 @@ topic: Humility
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/digital-beehive/num4/num_1212/'>917
+xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/digital-beehive/num4/num_1213/'>917
   [Humility]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1901/'>humility</a>"

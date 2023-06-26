@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '25'
 head: imagination
 entry: "<a href='/digital-beehive/alpha3/alpha_0460/'>a</a>|736 [PAGE_MISSING]|<a
-  href='/digital-beehive/num7/num_2489/'>1637 [Imagination]</a>|<a href='/digital-beehive/num9/num_3153/'>2210
+  href='/digital-beehive/num7/num_2490/'>1637 [Imagination]</a>|<a href='/digital-beehive/num9/num_3154/'>2210
   [Imagination]</a>"
 topic:
 first_letter: I/J

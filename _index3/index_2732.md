@@ -3,7 +3,7 @@ pid: index_2732
 volume: Volume 3
 image_number: '32'
 head: not
-entry: "<a href='/digital-beehive/num4/num_1328/'>996 [Not]</a>"
+entry: "<a href='/digital-beehive/num4/num_1329/'>996 [Not]</a>"
 topic:
 first_letter: N
 page:

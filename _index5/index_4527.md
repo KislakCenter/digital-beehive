@@ -3,7 +3,7 @@ pid: index_4527
 volume: Volume 3
 image_number: '52'
 head: whelp
-entry: "<a href='/digital-beehive/num5/num_1428/'>1061 [Chickens]</a>"
+entry: "<a href='/digital-beehive/num5/num_1429/'>1061 [Chickens]</a>"
 topic:
 first_letter: W
 page:

@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '52'
 head: wickedness
 entry: "<a href='/digital-beehive/alpha5/alpha_1037/'>a</a>|<a href='/digital-beehive/num2/num_0373/'>324
-  [Wickedness]</a>|<a href='/digital-beehive/num6/num_1999/'>1394 [Wicked]</a>|<a
-  href='/digital-beehive/num10/num_3218/'>2265 [Wickedness]</a>"
+  [Wickedness]</a>|<a href='/digital-beehive/num6/num_2000/'>1394 [Wicked]</a>|<a
+  href='/digital-beehive/num10/num_3219/'>2265 [Wickedness]</a>"
 topic:
 first_letter: W
 page:

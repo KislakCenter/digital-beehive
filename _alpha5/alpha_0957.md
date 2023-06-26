@@ -9,7 +9,7 @@ first_letter: T
 page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Imagination</a>|<a href='/digital-beehive/alpha3/alpha_0585/'>meditation</a>|<a
-  href='/digital-beehive/num4/num_1310/'>982 [Thoughts]</a>"
+  href='/digital-beehive/num4/num_1311/'>982 [Thoughts]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4126/'>thoughts</a>"
 item: "#item-de3bd0f07"

@@ -9,7 +9,7 @@ first_letter: F
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0732/'>Predestination</a>|<a href='/digital-beehive/alpha2/alpha_0372/'>God's
-  Providence</a>|<a href='/digital-beehive/num5/num_1716/'>1243 [Fate]</a>"
+  Providence</a>|<a href='/digital-beehive/num5/num_1717/'>1243 [Fate]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1412/'>fate</a>"
 item: "#item-60683e6ab"

@@ -3,7 +3,7 @@ pid: index_1858
 volume: Volume 3
 image_number: '24'
 head: holy cheats
-entry: "<a href='/digital-beehive/num8/num_2724/'>1791 [Holy Cheats]</a>"
+entry: "<a href='/digital-beehive/num8/num_2725/'>1791 [Holy Cheats]</a>"
 topic:
 first_letter: H
 page:

@@ -3,7 +3,7 @@ pid: index_2615
 volume: Volume 3
 image_number: '31'
 head: Bp of Munster
-entry: "<a href='/digital-beehive/num6/num_1904/'>1348 [Chr. Bernard Bishop of Munster]</a>"
+entry: "<a href='/digital-beehive/num6/num_1905/'>1348 [Chr. Bernard Bishop of Munster]</a>"
 topic:
 first_letter: M
 page:

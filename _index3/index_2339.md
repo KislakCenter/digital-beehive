@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '29'
 head: love
 entry: "<a href='/digital-beehive/alpha3/alpha_0556/'>a</a>|<a href='/digital-beehive/num2/num_0542/'>438
-  [Love]</a>|<a href='/digital-beehive/num5/num_1453/'>1077 [Love]</a>|<a href='/digital-beehive/num10/num_3432/'>4452
+  [Love]</a>|<a href='/digital-beehive/num5/num_1454/'>1077 [Love]</a>|<a href='/digital-beehive/num10/num_3433/'>4452
   [Love]</a>"
 topic:
 first_letter: L

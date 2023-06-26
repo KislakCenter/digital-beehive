@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '9'
 head: bands
 entry: "<a href='/digital-beehive/num2/num_0406/'>348 [a Band]</a>|773 [PAGE_MISSING]|<a
-  href='/digital-beehive/num8/num_2824/'>1919 [Bands]</a>"
+  href='/digital-beehive/num8/num_2825/'>1919 [Bands]</a>"
 topic:
 first_letter: B
 page:

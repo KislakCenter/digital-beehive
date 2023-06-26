@@ -3,7 +3,7 @@ pid: index_0977
 volume: Volume 3
 image_number: '16'
 head: decay
-entry: "<a href='/digital-beehive/num1/num_0264/'>244 [Decay]</a>|<a href='/digital-beehive/num3/num_0759/'>587
+entry: "<a href='/digital-beehive/num1/num_0264/'>244 [Decay]</a>|<a href='/digital-beehive/num3/num_0760/'>587
   [Decrement]</a>"
 topic:
 first_letter: D

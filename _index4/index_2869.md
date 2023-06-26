@@ -3,7 +3,7 @@ pid: index_2869
 volume: Volume 3
 image_number: '34'
 head: paper
-entry: "<a href='/digital-beehive/num4/num_1105/'>873 [Paper]</a>"
+entry: "<a href='/digital-beehive/num4/num_1106/'>873 [Paper]</a>"
 topic:
 first_letter: P
 page:

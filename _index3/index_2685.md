@@ -3,7 +3,7 @@ pid: index_2685
 volume: Volume 3
 image_number: '32'
 head: nerve
-entry: "<a href='/digital-beehive/num7/num_2499/'>1641 [Nerve : Sinew]</a>"
+entry: "<a href='/digital-beehive/num7/num_2500/'>1641 [Nerve : Sinew]</a>"
 topic:
 first_letter: N
 page:

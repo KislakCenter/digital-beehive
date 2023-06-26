@@ -3,7 +3,7 @@ pid: index_3947
 volume: Volume 3
 image_number: '45'
 head: Student
-entry: "<a href='/digital-beehive/alpha4/alpha_0926/'>a</a>|<a href='/digital-beehive/num6/num_1891/'>1341
+entry: "<a href='/digital-beehive/alpha4/alpha_0926/'>a</a>|<a href='/digital-beehive/num6/num_1892/'>1341
   [Student]</a>"
 topic:
 first_letter: S

@@ -3,7 +3,7 @@ pid: index_1292
 volume: Volume 3
 image_number: '19'
 head: Erasmus Rot
-entry: "<a href='/digital-beehive/num7/num_2358/'>1573 [Des Erasmus Rot]</a>"
+entry: "<a href='/digital-beehive/num7/num_2359/'>1573 [Des Erasmus Rot]</a>"
 topic:
 first_letter: E
 page:

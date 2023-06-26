@@ -3,7 +3,7 @@ pid: index_2279
 volume: Volume 3
 image_number: '28'
 head: licentiousness
-entry: "<a href='/digital-beehive/num3/num_0720/'>565 [too much liberty]</a>"
+entry: "<a href='/digital-beehive/num3/num_0721/'>565 [too much liberty]</a>"
 topic:
 first_letter: L
 page:

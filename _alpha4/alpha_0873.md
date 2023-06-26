@@ -8,7 +8,7 @@ topic: Shooting
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2263/'>1526 [Shooting]</a>"
+xref: "<a href='/digital-beehive/num7/num_2264/'>1526 [Shooting]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3683/'>shooting</a>"
 item: "#item-15982604d"

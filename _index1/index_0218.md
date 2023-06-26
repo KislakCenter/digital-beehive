@@ -3,7 +3,7 @@ pid: index_0218
 volume: Volume 3
 image_number: '8'
 head: as if
-entry: "<a href='/digital-beehive/num8/num_2704/'>1773 [Lord's Supper]</a>"
+entry: "<a href='/digital-beehive/num8/num_2705/'>1773 [Lord's Supper]</a>"
 topic:
 first_letter: A
 page:

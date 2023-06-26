@@ -3,7 +3,7 @@ pid: index_3392
 volume: Volume 3
 image_number: '39'
 head: rest or residue
-entry: "<a href='/digital-beehive/num3/num_1053/'>716 [Rest]</a>"
+entry: "<a href='/digital-beehive/num3/num_1054/'>716 [Rest]</a>"
 topic:
 first_letter: R
 page:

@@ -3,8 +3,8 @@ pid: index_4567
 volume: Volume 3
 image_number: '53'
 head: wisdom
-entry: "<a href='/digital-beehive/alpha5/alpha_1045/'>a</a>|<a href='/digital-beehive/num5/num_1498/'>1107
-  [Wisdom]</a>|<a href='/digital-beehive/num10/num_3233/'>2274 [Wisdom]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1045/'>a</a>|<a href='/digital-beehive/num5/num_1499/'>1107
+  [Wisdom]</a>|<a href='/digital-beehive/num10/num_3234/'>2274 [Wisdom]</a>"
 topic:
 first_letter: W
 page:

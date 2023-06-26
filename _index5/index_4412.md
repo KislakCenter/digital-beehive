@@ -3,7 +3,7 @@ pid: index_4412
 volume: Volume 3
 image_number: '51'
 head: unripe
-entry: "<a href='/digital-beehive/num4/num_1238/'>929 [Unripe]</a>"
+entry: "<a href='/digital-beehive/num4/num_1239/'>929 [Unripe]</a>"
 topic:
 first_letter: U/V
 page:

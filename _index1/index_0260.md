@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '9'
 head: Babbling
 entry: "<a href='/digital-beehive/alpha1/alpha_0050/'>a</a>|<a href='/digital-beehive/num2/num_0533/'>430
-  [Babbling]</a>|<a href='/digital-beehive/num7/num_2652/'>1728 [Babbling]</a>"
+  [Babbling]</a>|<a href='/digital-beehive/num7/num_2653/'>1728 [Babbling]</a>"
 topic:
 first_letter: B
 page:

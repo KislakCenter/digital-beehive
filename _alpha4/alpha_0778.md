@@ -8,12 +8,12 @@ topic: Raven
 first_letter: R
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1911/'>1351 [a Kite : a Hawk]</a>"
+xref: 1351 [a kite, a hawk]
 see:
 index: "<a href='/digital-beehive/index4/index_3302/'>raven</a>"
 item: "#item-f20901ff9"
 unparsed:
-line: 'Entry: Raven|Topic: Raven|Xref: 1351 [a Kite : a Hawk]|Index: raven|#item-f20901ff9'
+line: 'Entry: Raven|Topic: Raven|Xref: 1351 [a kite, a hawk]|Index: raven|#item-f20901ff9'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/375,4230,2982,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528400246693

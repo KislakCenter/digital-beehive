@@ -8,7 +8,7 @@ topic: Seed
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1424/'>1059 [Seed]</a>"
+xref: "<a href='/digital-beehive/num5/num_1425/'>1059 [Seed]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3592/'>seed</a>"
 item: "#item-24d964fc0"

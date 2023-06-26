@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '24'
 head: husbandry and huswifery
 entry: "<a href='/digital-beehive/alpha2/alpha_0443/'>a</a>|<a href='/digital-beehive/num2/num_0316/'>281
-  [Husbandry]</a>|<a href='/digital-beehive/num8/num_2898/'>1971 [Husbandry]</a>|4621
+  [Husbandry]</a>|<a href='/digital-beehive/num8/num_2899/'>1971 [Husbandry]</a>|4621
   [PAGE_MISSING]"
 topic:
 first_letter: H

@@ -3,7 +3,7 @@ pid: index_1943
 volume: Volume 3
 image_number: '25'
 head: wandering Jew
-entry: "<a href='/digital-beehive/num6/num_1873/'>1332 [Wandring Jew]</a>"
+entry: "<a href='/digital-beehive/num6/num_1874/'>1332 [Wandring Jew]</a>"
 topic:
 first_letter: I/J
 page:

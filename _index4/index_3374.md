@@ -3,7 +3,7 @@ pid: index_3374
 volume: Volume 3
 image_number: '39'
 head: to represent
-entry: "<a href='/digital-beehive/num3/num_0755/'>586 [To represent]</a>"
+entry: "<a href='/digital-beehive/num3/num_0756/'>586 [To represent]</a>"
 topic:
 first_letter: R
 page:

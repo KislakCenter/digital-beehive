@@ -3,7 +3,7 @@ pid: index_4282
 volume: Volume 3
 image_number: '49'
 head: types
-entry: "<a href='/digital-beehive/num1/num_0157/'>151 [Types]</a>|<a href='/digital-beehive/num5/num_1390/'>1040
+entry: "<a href='/digital-beehive/num1/num_0157/'>151 [Types]</a>|<a href='/digital-beehive/num5/num_1391/'>1040
   [Signs]</a>"
 topic:
 first_letter: T

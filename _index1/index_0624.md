@@ -3,7 +3,7 @@ pid: index_0624
 volume: Volume 3
 image_number: '12'
 head: chest
-entry: "<a href='/digital-beehive/num4/num_1099/'>871 [a Chest]</a>"
+entry: "<a href='/digital-beehive/num4/num_1100/'>871 [a Chest]</a>"
 topic:
 first_letter: C
 page:

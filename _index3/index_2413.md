@@ -3,8 +3,8 @@ pid: index_2413
 volume: Volume 3
 image_number: '29'
 head: manifest
-entry: "<a href='/digital-beehive/num1/num_0195/'>186 [Manifest]</a>|<a href='/digital-beehive/num5/num_1402/'>1047
-  [Manifest]</a>|<a href='/digital-beehive/num10/num_3465/'>4478 [Manifest]</a>"
+entry: "<a href='/digital-beehive/num1/num_0195/'>186 [Manifest]</a>|<a href='/digital-beehive/num5/num_1403/'>1047
+  [Manifest]</a>|<a href='/digital-beehive/num10/num_3466/'>4478 [Manifest]</a>"
 topic:
 first_letter: M
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '39'
 head: report
 entry: "<a href='/digital-beehive/alpha4/alpha_0797/'>a</a>|779 [PAGE_MISSING]|<a
-  href='/digital-beehive/num9/num_3187/'>2242 [Report & Hear-say]</a>"
+  href='/digital-beehive/num9/num_3188/'>2242 [Report & Hear-say]</a>"
 topic:
 first_letter: R
 page:

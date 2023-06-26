@@ -3,7 +3,7 @@ pid: index_2385
 volume: Volume 3
 image_number: '29'
 head: Mahomet
-entry: "<a href='/digital-beehive/num6/num_1797/'>1290 [Religion of Mahomet]</a>"
+entry: "<a href='/digital-beehive/num6/num_1798/'>1290 [Religion of Mahomet]</a>"
 topic:
 first_letter: M
 page:

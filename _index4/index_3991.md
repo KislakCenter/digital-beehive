@@ -4,9 +4,9 @@ volume: Volume 3
 image_number: '46'
 head: Lord's Supper
 entry: "<a href='/digital-beehive/alpha4/alpha_0935/'>a</a>|<a href='/digital-beehive/num2/num_0603/'>482
-  [Com[m]union or Partaking]</a>|<a href='/digital-beehive/num8/num_2704/'>1773 [Lord's
-  Supper]</a>|<a href='/digital-beehive/num9/num_3185/'>2240 [Lord's Supper]</a>|<a
-  href='/digital-beehive/num10/num_3405/'>2430 [Lord's Supper]</a>"
+  [Com[m]union or Partaking]</a>|<a href='/digital-beehive/num8/num_2705/'>1773 [Lord's
+  Supper]</a>|<a href='/digital-beehive/num9/num_3186/'>2240 [Lord's Supper]</a>|<a
+  href='/digital-beehive/num10/num_3406/'>2430 [Lord's Supper]</a>"
 topic:
 first_letter: S
 page:

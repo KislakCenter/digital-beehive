@@ -3,7 +3,7 @@ pid: index_3847
 volume: Volume 3
 image_number: '44'
 head: spiritus mundi
-entry: "<a href='/digital-beehive/num7/num_2407/'>1599 [Spiritus mundi]</a>"
+entry: "<a href='/digital-beehive/num7/num_2408/'>1599 [Spiritus mundi]</a>"
 topic:
 first_letter: S
 page:

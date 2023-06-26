@@ -3,7 +3,7 @@ pid: index_0711
 volume: Volume 3
 image_number: '13'
 head: cochineal
-entry: "<a href='/digital-beehive/num7/num_2412/'>1601 [Cochineal]</a>"
+entry: "<a href='/digital-beehive/num7/num_2413/'>1601 [Cochineal]</a>"
 topic:
 first_letter: C
 page:

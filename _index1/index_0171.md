@@ -3,7 +3,7 @@ pid: index_0171
 volume: Volume 3
 image_number: '8'
 head: apostles Creed
-entry: "<a href='/digital-beehive/num6/num_1869/'>1330 [Apostle's Creed]</a>"
+entry: 1330 [Apostle's Creed]
 topic:
 first_letter: A
 page:

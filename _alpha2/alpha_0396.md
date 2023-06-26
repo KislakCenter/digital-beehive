@@ -9,8 +9,8 @@ first_letter: H
 page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0346/'>Fortune</a>|<a href='/digital-beehive/num1/num_0105/'>102
-  [Success]</a>|<a href='/digital-beehive/num3/num_1051/'>716 [Unhappiness]</a>|<a
-  href='/digital-beehive/num5/num_1497/'>1106 [happy]</a>"
+  [Success]</a>|<a href='/digital-beehive/num3/num_1052/'>716 [Unhappiness]</a>|<a
+  href='/digital-beehive/num5/num_1498/'>1106 [happy]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1749/'>happiness</a>"
 item: "#item-b5ca3c52d"

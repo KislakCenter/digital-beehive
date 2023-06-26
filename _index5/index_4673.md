@@ -3,7 +3,7 @@ pid: index_4673
 volume: Volume 3
 image_number: '54'
 head: Duke
-entry: "<a href='/digital-beehive/num8/num_2799/'>1907 [Duke]</a>"
+entry: "<a href='/digital-beehive/num8/num_2800/'>1907 [Duke]</a>"
 topic:
 first_letter: insertion
 page:

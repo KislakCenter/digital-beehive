@@ -8,7 +8,7 @@ topic: Motions
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1277/'>958 [Motions]</a>"
+xref: "<a href='/digital-beehive/num4/num_1278/'>958 [Motions]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2598/'>motion</a>"
 item: "#item-75ad0ded9"

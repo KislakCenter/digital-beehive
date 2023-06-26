@@ -3,7 +3,7 @@ pid: index_2640
 volume: Volume 3
 image_number: '32'
 head: hard names
-entry: "<a href='/digital-beehive/num3/num_0677/'>538 [Reviling, so called]</a>"
+entry: "<a href='/digital-beehive/num3/num_0678/'>538 [Reviling, so called]</a>"
 topic:
 first_letter: N
 page:

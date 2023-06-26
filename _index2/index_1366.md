@@ -3,7 +3,7 @@ pid: index_1366
 volume: Volume 3
 image_number: '19'
 head: extraordinary
-entry: "<a href='/digital-beehive/num4/num_1155/'>893 [Extraordinary]</a>"
+entry: "<a href='/digital-beehive/num4/num_1156/'>893 [Extraordinary]</a>"
 topic:
 first_letter: E
 page:

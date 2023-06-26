@@ -3,7 +3,7 @@ pid: index_0088
 volume: Volume 3
 image_number: '7'
 head: Albertus M
-entry: "<a href='/digital-beehive/num9/num_3016/'>2082 [Albertus M]</a>"
+entry: "<a href='/digital-beehive/num9/num_3017/'>2082 [Albertus M]</a>"
 topic:
 first_letter: A
 page:

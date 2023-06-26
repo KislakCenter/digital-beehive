@@ -3,7 +3,7 @@ pid: index_1948
 volume: Volume 3
 image_number: '25'
 head: ignoble
-entry: "<a href='/digital-beehive/alpha3/alpha_0455/'>a</a>|<a href='/digital-beehive/num11/num_3579/'>4884
+entry: "<a href='/digital-beehive/alpha3/alpha_0455/'>a</a>|<a href='/digital-beehive/num11/num_3580/'>4884
   [Ignoble]</a>"
 topic:
 first_letter: I/J

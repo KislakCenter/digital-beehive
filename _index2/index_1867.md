@@ -3,8 +3,8 @@ pid: index_1867
 volume: Volume 3
 image_number: '24'
 head: hope
-entry: "<a href='/digital-beehive/alpha2/alpha_0432/'>a</a>|<a href='/digital-beehive/num5/num_1526/'>1126
-  [Hope]</a>|<a href='/digital-beehive/num9/num_2949/'>2015 [Hope]</a>|<a href='/digital-beehive/num10/num_3371/'>2399
+entry: "<a href='/digital-beehive/alpha2/alpha_0432/'>a</a>|<a href='/digital-beehive/num5/num_1527/'>1126
+  [Hope]</a>|<a href='/digital-beehive/num9/num_2950/'>2015 [Hope]</a>|<a href='/digital-beehive/num10/num_3372/'>2399
   [Hope]</a>"
 topic:
 first_letter: H

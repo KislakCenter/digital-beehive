@@ -3,7 +3,7 @@ pid: index_0053
 volume: Volume 3
 image_number: '7'
 head: advocate
-entry: "<a href='/digital-beehive/num3/num_0705/'>556 [Advocate]</a>"
+entry: "<a href='/digital-beehive/num3/num_0706/'>556 [Advocate]</a>"
 topic:
 first_letter: A
 page:

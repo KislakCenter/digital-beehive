@@ -3,7 +3,7 @@ pid: index_0474
 volume: Volume 3
 image_number: '11'
 head: building
-entry: "<a href='/digital-beehive/alpha1/alpha_0110/'>a</a>|<a href='/digital-beehive/num7/num_2545/'>1662
+entry: "<a href='/digital-beehive/alpha1/alpha_0110/'>a</a>|<a href='/digital-beehive/num7/num_2546/'>1662
   [Architecture]</a>"
 topic:
 first_letter: B

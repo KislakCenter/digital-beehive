@@ -3,7 +3,7 @@ pid: index_4339
 volume: Volume 3
 image_number: '49'
 head: virgil
-entry: "<a href='/digital-beehive/num8/num_2721/'>1788 [Virgil's]</a>"
+entry: "<a href='/digital-beehive/num8/num_2722/'>1788 [Virgil's]</a>"
 topic:
 first_letter: U/V
 page:

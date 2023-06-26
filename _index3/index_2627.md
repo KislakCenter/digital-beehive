@@ -3,7 +3,7 @@ pid: index_2627
 volume: Volume 3
 image_number: '31'
 head: myrrh
-entry: "<a href='/digital-beehive/num8/num_2840/'>1928 [Myrrh]</a>"
+entry: "<a href='/digital-beehive/num8/num_2841/'>1928 [Myrrh]</a>"
 topic:
 first_letter: M
 page:

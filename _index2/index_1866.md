@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '24'
 head: honour
 entry: "<a href='/digital-beehive/alpha2/alpha_0431/'>a</a>|778 [PAGE_MISSING]|<a
-  href='/digital-beehive/num8/num_2883/'>1959 [Honour]</a>"
+  href='/digital-beehive/num8/num_2884/'>1959 [Honour]</a>"
 topic:
 first_letter: H
 page:

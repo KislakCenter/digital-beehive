@@ -3,7 +3,7 @@ pid: index_1231
 volume: Volume 3
 image_number: '18'
 head: embalm
-entry: "<a href='/digital-beehive/num7/num_2471/'>1629 [Mummy]</a>"
+entry: "<a href='/digital-beehive/num7/num_2472/'>1629 [Mummy]</a>"
 topic:
 first_letter: E
 page:

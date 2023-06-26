@@ -3,7 +3,7 @@ pid: index_0591
 volume: Volume 3
 image_number: '12'
 head: chaldees
-entry: "<a href='/digital-beehive/num8/num_2777/'>1896 [Chaldees]</a>"
+entry: "<a href='/digital-beehive/num8/num_2778/'>1896 [Chaldees]</a>"
 topic:
 first_letter: C
 page:

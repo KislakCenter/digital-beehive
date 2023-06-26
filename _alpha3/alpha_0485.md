@@ -15,12 +15,12 @@ item: "#item-adc38b33f"
 unparsed:
 line: 'Entry: Intemperance|Topic: Intemperance|Xref: Temperance|Xref: Revelling|Index:
   intemperance|#item-adc38b33f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/784,221,3005,682/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/782,219,3007,684/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564761296957
-sort_value: '202410221'
+sort_value: '202410219'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/784,221,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/782,219,600,180/250,/0/default.jpg
 label: Intemperance
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue:

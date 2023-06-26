@@ -3,7 +3,7 @@ pid: index_2083
 volume: Volume 3
 image_number: '26'
 head: intractable
-entry: "<a href='/digital-beehive/num9/num_3010/'>2076 [Intractable]</a>"
+entry: "<a href='/digital-beehive/num9/num_3011/'>2076 [Intractable]</a>"
 topic:
 first_letter: I/J
 page:

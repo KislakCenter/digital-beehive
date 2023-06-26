@@ -3,7 +3,7 @@ pid: index_3683
 volume: Volume 3
 image_number: '42'
 head: shooting
-entry: "<a href='/digital-beehive/alpha4/alpha_0873/'>a</a>|<a href='/digital-beehive/num7/num_2263/'>1526
+entry: "<a href='/digital-beehive/alpha4/alpha_0873/'>a</a>|<a href='/digital-beehive/num7/num_2264/'>1526
   [Shooting]</a>"
 topic:
 first_letter: S

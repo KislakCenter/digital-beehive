@@ -3,9 +3,9 @@ pid: index_2966
 volume: Volume 3
 image_number: '35'
 head: persecution
-entry: "<a href='/digital-beehive/alpha4/alpha_0704/'>a</a>|<a href='/digital-beehive/num5/num_1475/'>1092
-  [Persecution]</a>|<a href='/digital-beehive/num8/num_2685/'>1756 [Persecution]</a>|<a
-  href='/digital-beehive/num10/num_3230/'>2272 [Persecution]</a>|<a href='/digital-beehive/num10/num_3458/'>4473
+entry: "<a href='/digital-beehive/alpha4/alpha_0704/'>a</a>|<a href='/digital-beehive/num5/num_1476/'>1092
+  [Persecution]</a>|<a href='/digital-beehive/num8/num_2686/'>1756 [Persecution]</a>|<a
+  href='/digital-beehive/num10/num_3231/'>2272 [Persecution]</a>|<a href='/digital-beehive/num10/num_3459/'>4473
   [Persecution]</a>"
 topic:
 first_letter: P

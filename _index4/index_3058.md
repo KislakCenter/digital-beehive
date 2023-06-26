@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '36'
 head: poesie
 entry: "<a href='/digital-beehive/alpha4/alpha_0719/'>a</a>|<a href='/digital-beehive/num2/num_0565/'>454
-  [Poesie]</a>|<a href='/digital-beehive/num7/num_2379/'>1586 [Poesy]</a>"
+  [Poesie]</a>|<a href='/digital-beehive/num7/num_2380/'>1586 [Poesy]</a>"
 topic:
 first_letter: P
 page:

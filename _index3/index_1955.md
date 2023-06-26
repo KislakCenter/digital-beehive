@@ -3,7 +3,7 @@ pid: index_1955
 volume: Volume 3
 image_number: '25'
 head: Image of God
-entry: "<a href='/digital-beehive/alpha3/alpha_0459/'>a</a>|<a href='/digital-beehive/num9/num_3011/'>2077
+entry: "<a href='/digital-beehive/alpha3/alpha_0459/'>a</a>|<a href='/digital-beehive/num9/num_3012/'>2077
   [Image of God]</a>"
 topic:
 first_letter: I/J

@@ -3,7 +3,7 @@ pid: index_0923
 volume: Volume 3
 image_number: '15'
 head: cucumers
-entry: "<a href='/digital-beehive/num3/num_0948/'>678 [Cucumers]</a>"
+entry: "<a href='/digital-beehive/num3/num_0949/'>678 [Cucumers]</a>"
 topic:
 first_letter: C
 page:

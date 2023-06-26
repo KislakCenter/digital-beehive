@@ -3,7 +3,7 @@ pid: index_2011
 volume: Volume 3
 image_number: '25'
 head: incubi
-entry: "<a href='/digital-beehive/num6/num_2139/'>1458 [Incubi]</a>|<a href='/digital-beehive/num7/num_2334/'>1562
+entry: "<a href='/digital-beehive/num6/num_2140/'>1458 [Incubi]</a>|<a href='/digital-beehive/num7/num_2335/'>1562
   [Incubus]</a>"
 topic:
 first_letter: I/J

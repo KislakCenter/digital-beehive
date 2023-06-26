@@ -9,7 +9,7 @@ first_letter: S
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0864/'>Servitude</a>|<a href='/digital-beehive/num2/num_0412/'>351
-  [Captivity]</a>|<a href='/digital-beehive/num5/num_1551/'>1141 [Slavery]</a>"
+  [Captivity]</a>|<a href='/digital-beehive/num5/num_1552/'>1141 [Slavery]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3744/'>slavery</a>"
 item: "#item-60fdb7e63"

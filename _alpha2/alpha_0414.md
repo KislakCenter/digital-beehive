@@ -8,7 +8,7 @@ topic: Help
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0846/'>627 [Help]</a>|<a href='/digital-beehive/alpha3/alpha_0484/'>Instrument</a>|<a
+xref: "<a href='/digital-beehive/num3/num_0847/'>627 [Help]</a>|<a href='/digital-beehive/alpha3/alpha_0484/'>Instrument</a>|<a
   href='/digital-beehive/alpha4/alpha_0750/'>Promoting</a>|<a href='/digital-beehive/alpha2/alpha_0371/'>God's
   Help</a>"
 see:

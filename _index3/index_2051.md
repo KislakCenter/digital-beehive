@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '26'
 head: inn & in[n]keeper
 entry: "<a href='/digital-beehive/alpha3/alpha_0480/'>a</a>|<a href='/digital-beehive/num1/num_0212/'>201
-  [Taverns]</a>|<a href='/digital-beehive/num8/num_2873/'>1949 [Taverns]</a>"
+  [Taverns]</a>|<a href='/digital-beehive/num8/num_2874/'>1949 [Taverns]</a>"
 topic:
 first_letter: I/J
 page:

@@ -8,7 +8,7 @@ topic: Hell
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0168/'>Condemnation</a>|<a href='/digital-beehive/num5/num_1450/'>1076
+xref: "<a href='/digital-beehive/alpha1/alpha_0168/'>Condemnation</a>|<a href='/digital-beehive/num5/num_1451/'>1076
   [Hell]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1793/'>hell</a>"

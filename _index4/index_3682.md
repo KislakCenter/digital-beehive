@@ -3,7 +3,7 @@ pid: index_3682
 volume: Volume 3
 image_number: '42'
 head: shoemaker
-entry: "<a href='/digital-beehive/num5/num_1540/'>1134 [Shoemaker]</a>"
+entry: "<a href='/digital-beehive/num5/num_1541/'>1134 [Shoemaker]</a>"
 topic:
 first_letter: S
 page:

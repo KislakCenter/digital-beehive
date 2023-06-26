@@ -3,7 +3,7 @@ pid: index_3760
 volume: Volume 3
 image_number: '43'
 head: smell
-entry: "<a href='/digital-beehive/alpha4/alpha_0893/'>a</a>|<a href='/digital-beehive/num7/num_2417/'>1603
+entry: "<a href='/digital-beehive/alpha4/alpha_0893/'>a</a>|<a href='/digital-beehive/num7/num_2418/'>1603
   [Smell]</a>"
 topic:
 first_letter: S

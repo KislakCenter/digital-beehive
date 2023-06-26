@@ -3,7 +3,7 @@ pid: index_0362
 volume: Volume 3
 image_number: '10'
 head: best
-entry: 732 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3005/'>2071 [Best]</a>
+entry: 732 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3006/'>2071 [Best]</a>
 topic:
 first_letter: B
 page:

@@ -3,7 +3,7 @@ pid: index_1702
 volume: Volume 3
 image_number: '23'
 head: gravity
-entry: "<a href='/digital-beehive/alpha2/alpha_0386/'>a</a>|<a href='/digital-beehive/num10/num_3319/'>2349
+entry: "<a href='/digital-beehive/alpha2/alpha_0386/'>a</a>|<a href='/digital-beehive/num10/num_3320/'>2349
   [Gravity]</a>"
 topic:
 first_letter: G

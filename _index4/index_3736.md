@@ -3,7 +3,7 @@ pid: index_3736
 volume: Volume 3
 image_number: '43'
 head: skeleton
-entry: "<a href='/digital-beehive/num6/num_1970/'>1381 [Skeleton]</a>"
+entry: "<a href='/digital-beehive/num6/num_1971/'>1381 [Skeleton]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"

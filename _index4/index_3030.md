@@ -3,7 +3,7 @@ pid: index_3030
 volume: Volume 3
 image_number: '35'
 head: plainness
-entry: "<a href='/digital-beehive/num1/num_0117/'>113 [Plainness]</a>|<a href='/digital-beehive/num8/num_2758/'>1825
+entry: "<a href='/digital-beehive/num1/num_0117/'>113 [Plainness]</a>|<a href='/digital-beehive/num8/num_2759/'>1825
   [Plain]</a>"
 topic:
 first_letter: P

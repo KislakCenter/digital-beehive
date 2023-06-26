@@ -9,7 +9,7 @@ first_letter: P
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/digital-beehive/alpha2/alpha_0343/'>Force</a>|<a
-  href='/digital-beehive/alpha3/alpha_0476/'>Infirmity</a>|<a href='/digital-beehive/num10/num_3334/'>2362
+  href='/digital-beehive/alpha3/alpha_0476/'>Infirmity</a>|<a href='/digital-beehive/num10/num_3335/'>2362
   [Power]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3102/'>power</a>"

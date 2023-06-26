@@ -8,7 +8,7 @@ topic: Smell
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2417/'>1603 [Smell]</a>"
+xref: "<a href='/digital-beehive/num7/num_2418/'>1603 [Smell]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3760/'>smell</a>"
 item: "#item-454c80e0f"

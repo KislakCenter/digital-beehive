@@ -3,7 +3,7 @@ pid: index_3506
 volume: Volume 3
 image_number: '41'
 head: saltpetre
-entry: "<a href='/digital-beehive/num7/num_2494/'>1639 [Nitre or Saltpetre]</a>"
+entry: "<a href='/digital-beehive/num7/num_2495/'>1639 [Nitre or Saltpetre]</a>"
 topic:
 first_letter: S
 page:

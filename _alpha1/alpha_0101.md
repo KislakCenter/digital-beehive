@@ -8,7 +8,7 @@ topic: Bribe
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0757/'>587 [Corrupted]</a>"
+xref: "<a href='/digital-beehive/num3/num_0758/'>587 [Corrupted]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0451/'>bribe</a>"
 item: "#item-fd76c8de4"

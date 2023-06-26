@@ -3,7 +3,7 @@ pid: index_1136
 volume: Volume 3
 image_number: '17'
 head: dove
-entry: "<a href='/digital-beehive/num3/num_0761/'>588 [Dove]</a>"
+entry: "<a href='/digital-beehive/num3/num_0762/'>588 [Dove]</a>"
 topic:
 first_letter: D
 page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"

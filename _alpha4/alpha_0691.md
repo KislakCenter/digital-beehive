@@ -9,7 +9,7 @@ first_letter: P
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0200/'>Cross of Christ</a>|<a href='/digital-beehive/alpha4/alpha_0929/'>Suffering</a>|<a
-  href='/digital-beehive/num4/num_1330/'>998 [Passion or Suffering of Xst]</a>"
+  href='/digital-beehive/num4/num_1331/'>998 [Passion or Suffering of Xst]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_2907/'>passion of Xst</a>"
 item: "#item-74ba8c782"

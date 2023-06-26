@@ -3,7 +3,7 @@ pid: index_0017
 volume: Volume 3
 image_number: '7'
 head: abstract
-entry: "<a href='/digital-beehive/num2/num_0453/'>374 [Brevity]</a>|<a href='/digital-beehive/num6/num_1878/'>1335
+entry: "<a href='/digital-beehive/num2/num_0453/'>374 [Brevity]</a>|<a href='/digital-beehive/num6/num_1879/'>1335
   [Brevity]</a>"
 topic:
 first_letter: A

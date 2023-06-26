@@ -3,7 +3,7 @@ pid: index_4613
 volume: Volume 3
 image_number: '53'
 head: good works
-entry: "<a href='/digital-beehive/alpha5/alpha_1060/'>a</a>|<a href='/digital-beehive/num5/num_1429/'>1062
+entry: "<a href='/digital-beehive/alpha5/alpha_1060/'>a</a>|<a href='/digital-beehive/num5/num_1430/'>1062
   [Good Works]</a>|4769 [PAGE_MISSING]"
 topic:
 first_letter: W

@@ -8,7 +8,7 @@ topic: Word of God
 first_letter: W
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1169/'>900 [Word of God]</a>"
+xref: "<a href='/digital-beehive/num4/num_1170/'>900 [Word of God]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4604/'>word of God</a>"
 item: "#item-2e7f9bce6"

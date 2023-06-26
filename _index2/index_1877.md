@@ -3,7 +3,7 @@ pid: index_1877
 volume: Volume 3
 image_number: '24'
 head: horse traces
-entry: "<a href='/digital-beehive/num4/num_1096/'>871 [traces]</a>"
+entry: "<a href='/digital-beehive/num4/num_1097/'>871 [traces]</a>"
 topic:
 first_letter: H
 page:

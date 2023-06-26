@@ -3,8 +3,8 @@ pid: index_2659
 volume: Volume 3
 image_number: '32'
 head: nature
-entry: "<a href='/digital-beehive/alpha3/alpha_0636/'>a</a>|<a href='/digital-beehive/num7/num_2547/'>1663
-  [Nature]</a>|<a href='/digital-beehive/num9/num_3096/'>2155 [Nature]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0636/'>a</a>|<a href='/digital-beehive/num7/num_2548/'>1663
+  [Nature]</a>|<a href='/digital-beehive/num9/num_3097/'>2155 [Nature]</a>"
 topic:
 first_letter: N
 page:

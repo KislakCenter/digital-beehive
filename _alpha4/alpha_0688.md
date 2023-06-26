@@ -8,13 +8,13 @@ topic: Partakers
 first_letter: P
 page:
 add:
-xref: 283 [Fellowship]|<a href='/digital-beehive/num10/num_3336/'>2364 [To Com[m]unicate
-  & partake]</a>
+xref: "<a href='/digital-beehive/num2/num_0319/'>283 [Company]</a>|<a href='/digital-beehive/num10/num_3337/'>2364
+  [To Com[m]unicate & partake]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_2897/'>partakers</a>"
 item: "#item-e4003314c"
 unparsed:
-line: 'Entry: Partakers|Topic: Partakers|Xref: 283 [Fellowship]|Xref: 2364 [To Com[m]unicate
+line: 'Entry: Partakers|Topic: Partakers|Xref: 283 [Company]|Xref: 2364 [To Com[m]unicate
   & partake]|Index: partakers|#item-e4003314c'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/240,302,3092,240/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/full/full/0/default.jpg

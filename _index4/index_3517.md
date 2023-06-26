@@ -3,7 +3,7 @@ pid: index_3517
 volume: Volume 3
 image_number: '41'
 head: sanctification
-entry: "<a href='/digital-beehive/num4/num_1321/'>990 [Holiness]</a>"
+entry: "<a href='/digital-beehive/num4/num_1322/'>990 [Holiness]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_0785
 volume: Volume 3
 image_number: '14'
 head: confession auricular
-entry: "<a href='/digital-beehive/alpha1/alpha_0171/'>a</a>|<a href='/digital-beehive/num4/num_1257/'>940
+entry: "<a href='/digital-beehive/alpha1/alpha_0171/'>a</a>|<a href='/digital-beehive/num4/num_1258/'>940
   [Auricular Confession]</a>"
 topic:
 first_letter: C

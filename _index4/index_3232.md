@@ -3,8 +3,8 @@ pid: index_3232
 volume: Volume 3
 image_number: '38'
 head: a purge
-entry: "<a href='/digital-beehive/num3/num_0922/'>665 [Medicines]</a>|<a href='/digital-beehive/num7/num_2657/'>1731
-  [A Purge]</a>|<a href='/digital-beehive/num10/num_3411/'>2435 [a Purge]</a>"
+entry: "<a href='/digital-beehive/num3/num_0923/'>665 [Medicines]</a>|<a href='/digital-beehive/num7/num_2658/'>1731
+  [A Purge]</a>|<a href='/digital-beehive/num10/num_3412/'>2435 [a Purge]</a>"
 topic:
 first_letter: P
 page:

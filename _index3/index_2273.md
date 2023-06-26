@@ -3,7 +3,7 @@ pid: index_2273
 volume: Volume 3
 image_number: '28'
 head: liberality
-entry: "<a href='/digital-beehive/alpha3/alpha_0535/'>a</a>|<a href='/digital-beehive/num5/num_1528/'>1127
+entry: "<a href='/digital-beehive/alpha3/alpha_0535/'>a</a>|<a href='/digital-beehive/num5/num_1529/'>1127
   [Liberality]</a>"
 topic:
 first_letter: L

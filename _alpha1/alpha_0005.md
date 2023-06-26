@@ -8,14 +8,14 @@ topic: Accusation
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0774/'>Railing</a>|11 [Ill names]|<a
-  href='/digital-beehive/num1/num_0126/'>122 [Perverting]</a>|<a href='/digital-beehive/num2/num_0313/'>278
-  [Accusation]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0774/'>Railing</a>|<a href='/digital-beehive/num1/num_0011/'>11
+  [Ill Name]</a>|<a href='/digital-beehive/num1/num_0126/'>122 [Perverting]</a>|<a
+  href='/digital-beehive/num2/num_0313/'>278 [Accusation]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0029/'>accusation</a>"
 item: "#item-f602cdcb2"
 unparsed:
-line: 'Entry: Accusation|Topic: Accusation|Xref: Railing|Xref: 11 [Ill names]|Xref:
+line: 'Entry: Accusation|Topic: Accusation|Xref: Railing|Xref: 11 [Ill Name]|Xref:
   122 [Perverting] |Xref: 278 [Accusation]|Index: accusation|#item-f602cdcb2'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/248,2326,3231,551/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/full/full/0/default.jpg

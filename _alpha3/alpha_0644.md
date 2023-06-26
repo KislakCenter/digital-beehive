@@ -9,13 +9,13 @@ first_letter: N
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0797/'>Report</a>|<a href='/digital-beehive/num1/num_0088/'>87
-  [Messenger]</a>|1252 [News]"
+  [Messenger]</a>|<a href='/digital-beehive/num6/num_1736/'>1252 [lying News]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2702/'>news</a>"
 item: "#item-9f38763ad"
 unparsed:
-line: 'Entry: News|Topic: News|Xref: Report|Xref: 87 [Messenger]|Xref: 1252 [News]|Index:
-  news|#item-9f38763ad'
+line: 'Entry: News|Topic: News|Xref: Report|Xref: 87 [Messenger]|Xref: 1252 [lying
+  News]|Index: news|#item-9f38763ad'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/749,1401,3079,450/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565015261780

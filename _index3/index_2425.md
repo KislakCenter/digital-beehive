@@ -3,7 +3,7 @@ pid: index_2425
 volume: Volume 3
 image_number: '29'
 head: marigolds
-entry: "<a href='/digital-beehive/num3/num_0975/'>686 [Marigolds]</a>"
+entry: "<a href='/digital-beehive/num3/num_0976/'>686 [Marigolds]</a>"
 topic:
 first_letter: M
 page:

@@ -3,7 +3,7 @@ pid: index_4690
 volume: Volume 3
 image_number: '54'
 head: Neapolis
-entry: "<a href='/digital-beehive/num9/num_3081/'>2142 [Neapolis]</a>"
+entry: "<a href='/digital-beehive/num9/num_3082/'>2142 [Neapolis]</a>"
 topic:
 first_letter: insertion
 page:

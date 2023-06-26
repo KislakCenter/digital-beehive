@@ -3,7 +3,7 @@ pid: index_0613
 volume: Volume 3
 image_number: '12'
 head: charter
-entry: "<a href='/digital-beehive/num3/num_0861/'>635 [Great Charter of England]</a>"
+entry: "<a href='/digital-beehive/num3/num_0862/'>635 [Great Charter of England]</a>"
 topic:
 first_letter: C
 page:

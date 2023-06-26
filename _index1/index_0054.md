@@ -3,7 +3,7 @@ pid: index_0054
 volume: Volume 3
 image_number: '7'
 head: "[AE]olus"
-entry: "<a href='/digital-beehive/num9/num_3101/'>2160 [Wind]</a>"
+entry: "<a href='/digital-beehive/num9/num_3102/'>2160 [Wind]</a>"
 topic:
 first_letter: A
 page:

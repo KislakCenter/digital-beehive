@@ -3,10 +3,10 @@ pid: index_0884
 volume: Volume 3
 image_number: '15'
 head: to court
-entry: "<a href='/digital-beehive/alpha1/alpha_0190/'>a</a>|<a href='/digital-beehive/num4/num_1198/'>912
-  [To Wooe]</a>|<a href='/digital-beehive/num6/num_1988/'>1389 [of Courting women]</a>|<a
-  href='/digital-beehive/num7/num_2439/'>1614 [Courting]</a>|4554 [PAGE_MISSING]|<a
-  href='/digital-beehive/num11/num_3575/'>4880 [Courtship]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0190/'>a</a>|<a href='/digital-beehive/num4/num_1199/'>912
+  [To Wooe]</a>|<a href='/digital-beehive/num6/num_1989/'>1389 [of Courting women]</a>|<a
+  href='/digital-beehive/num7/num_2440/'>1614 [Courting]</a>|4554 [PAGE_MISSING]|<a
+  href='/digital-beehive/num11/num_3576/'>4880 [Courtship]</a>"
 topic:
 first_letter: C
 page:

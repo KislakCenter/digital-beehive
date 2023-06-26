@@ -3,7 +3,7 @@ pid: index_2975
 volume: Volume 3
 image_number: '35'
 head: petition
-entry: "<a href='/digital-beehive/num3/num_0896/'>652 [Petition, Request]</a>|4767
+entry: "<a href='/digital-beehive/num3/num_0897/'>652 [Petition, Request]</a>|4767
   [PAGE_MISSING]"
 topic:
 first_letter: P

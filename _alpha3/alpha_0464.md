@@ -8,7 +8,7 @@ topic: Impatience
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0693/'>Patience</a>|<a href='/digital-beehive/num5/num_1563/'>1147
+xref: "<a href='/digital-beehive/alpha4/alpha_0693/'>Patience</a>|<a href='/digital-beehive/num5/num_1564/'>1147
   [Impatience]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1965/'>impatience</a>"

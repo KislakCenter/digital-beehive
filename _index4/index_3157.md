@@ -3,7 +3,7 @@ pid: index_3157
 volume: Volume 3
 image_number: '37'
 head: primum mobile
-entry: "<a href='/digital-beehive/num5/num_1603/'>1176 [Heaven]</a>"
+entry: "<a href='/digital-beehive/num5/num_1604/'>1176 [Heaven]</a>"
 topic:
 first_letter: P
 page:

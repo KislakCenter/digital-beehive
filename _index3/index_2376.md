@@ -3,7 +3,7 @@ pid: index_2376
 volume: Volume 3
 image_number: '29'
 head: madness
-entry: 804 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_2129/'>1453 [Mad]</a>|4519
+entry: 804 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_2130/'>1453 [Mad]</a>|4519
   [PAGE_MISSING]
 topic:
 first_letter: M

@@ -3,7 +3,7 @@ pid: index_0347
 volume: Volume 3
 image_number: '10'
 head: Bellarmine
-entry: "<a href='/digital-beehive/num8/num_2737/'>1804 [Bellarmine]</a>"
+entry: "<a href='/digital-beehive/num8/num_2738/'>1804 [Bellarmine]</a>"
 topic:
 first_letter: B
 page:

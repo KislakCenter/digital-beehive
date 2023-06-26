@@ -3,7 +3,7 @@ pid: index_3112
 volume: Volume 3
 image_number: '36'
 head: prayers in Latin
-entry: "<a href='/digital-beehive/num7/num_2555/'>1666 [Prayer in Latin]</a>"
+entry: "<a href='/digital-beehive/num7/num_2556/'>1666 [Prayer in Latin]</a>"
 topic:
 first_letter: P
 page:

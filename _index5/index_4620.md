@@ -3,7 +3,7 @@ pid: index_4620
 volume: Volume 3
 image_number: '53'
 head: worms
-entry: "<a href='/digital-beehive/num1/num_0166/'>159 [Worm]</a>|<a href='/digital-beehive/num6/num_1894/'>1343
+entry: "<a href='/digital-beehive/num1/num_0166/'>159 [Worm]</a>|<a href='/digital-beehive/num6/num_1895/'>1343
   [Worms]</a>"
 topic:
 first_letter: W

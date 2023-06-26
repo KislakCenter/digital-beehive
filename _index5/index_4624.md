@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '53'
 head: will worship
 entry: "<a href='/digital-beehive/alpha5/alpha_1065/'>a</a>|<a href='/digital-beehive/num2/num_0613/'>490
-  [Will-worship]</a>|<a href='/digital-beehive/num10/num_3362/'>2390 [Will-worship]</a>"
+  [Will-worship]</a>|<a href='/digital-beehive/num10/num_3363/'>2390 [Will-worship]</a>"
 topic:
 first_letter: W
 page:

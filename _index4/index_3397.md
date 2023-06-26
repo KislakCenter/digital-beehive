@@ -3,8 +3,8 @@ pid: index_3397
 volume: Volume 3
 image_number: '39'
 head: resurrection
-entry: "<a href='/digital-beehive/alpha4/alpha_0803/'>a</a>|<a href='/digital-beehive/num6/num_1772/'>1277
-  [Resurrection]</a>|<a href='/digital-beehive/num9/num_3181/'>2236 [Resurrection]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0803/'>a</a>|<a href='/digital-beehive/num6/num_1773/'>1277
+  [Resurrection]</a>|<a href='/digital-beehive/num9/num_3182/'>2236 [Resurrection]</a>"
 topic:
 first_letter: R
 page:

@@ -8,7 +8,7 @@ topic: Judgment
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0168/'>condemnation</a>|<a href='/digital-beehive/num5/num_1381/'>1032
+xref: "<a href='/digital-beehive/alpha1/alpha_0168/'>condemnation</a>|<a href='/digital-beehive/num5/num_1382/'>1032
   [Judgmt]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2134/'>judgmt</a>"

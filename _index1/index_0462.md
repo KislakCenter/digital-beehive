@@ -3,7 +3,7 @@ pid: index_0462
 volume: Volume 3
 image_number: '11'
 head: brisk
-entry: "<a href='/digital-beehive/num4/num_1127/'>882 [Fresh]</a>"
+entry: "<a href='/digital-beehive/num4/num_1128/'>882 [Fresh]</a>"
 topic:
 first_letter: B
 page:

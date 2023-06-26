@@ -5,8 +5,8 @@ image_number: '45'
 head: sufferings of Qrs
 entry: "<a href='/digital-beehive/num3/num_0647/'>515 [horrid Cruelties, practised
   by Papists upon Protestants]</a>|<a href='/digital-beehive/num3/num_0648/'>515 [Cruelty
-  used against Quakers]</a>|<a href='/digital-beehive/num6/num_1766/'>1273 [Sufferings
-  of the Qu]</a>|<a href='/digital-beehive/num10/num_3226/'>2269 [Suffering of the
+  used against Quakers]</a>|<a href='/digital-beehive/num6/num_1767/'>1273 [Sufferings
+  of the Qu]</a>|<a href='/digital-beehive/num10/num_3227/'>2269 [Suffering of the
   Qus]</a>"
 topic:
 first_letter: S

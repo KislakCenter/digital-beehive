@@ -8,7 +8,7 @@ topic: Eloquence
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0311/'>fair words</a>|<a href='/digital-beehive/num7/num_2539/'>1659
+xref: "<a href='/digital-beehive/alpha2/alpha_0311/'>fair words</a>|<a href='/digital-beehive/num7/num_2540/'>1659
   [Eloquence]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1229/'>eloquence</a>"

@@ -8,12 +8,12 @@ topic: Anathema
 first_letter: A
 page:
 add:
-xref: Esslesiastical discipline
+xref: "<a href='/digital-beehive/alpha2/alpha_0277/'>Ecclesiastical discipline</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0136/'>anathema</a>"
 item: "#item-c6ca7a2a0"
 unparsed:
-line: 'Entry: Anathema|Topic: Anathema|Xref: Esslesiastical discipline|Index: anathema|#item-c6ca7a2a0'
+line: 'Entry: Anathema|Topic: Anathema|Xref: Ecclesiastical discipline|Index: anathema|#item-c6ca7a2a0'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/232,752,3197,324/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490640724768

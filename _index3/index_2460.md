@@ -3,7 +3,7 @@ pid: index_2460
 volume: Volume 3
 image_number: '30'
 head: measels
-entry: "<a href='/digital-beehive/num8/num_2861/'>1939 [Measels]</a>"
+entry: "<a href='/digital-beehive/num8/num_2862/'>1939 [Measels]</a>"
 topic:
 first_letter: M
 page:

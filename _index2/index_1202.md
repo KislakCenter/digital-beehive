@@ -3,7 +3,7 @@ pid: index_1202
 volume: Volume 3
 image_number: '18'
 head: ecclesiasticus
-entry: "<a href='/digital-beehive/num10/num_3447/'>4464 [Ecclesiasticus]</a>"
+entry: "<a href='/digital-beehive/num10/num_3448/'>4464 [Ecclesiasticus]</a>"
 topic:
 first_letter: E
 page:

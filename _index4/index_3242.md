@@ -3,7 +3,7 @@ pid: index_3242
 volume: Volume 3
 image_number: '38'
 head: putrefaction
-entry: "<a href='/digital-beehive/num4/num_1082/'>866 [To Rot]</a>|<a href='/digital-beehive/num9/num_3046/'>2109
+entry: "<a href='/digital-beehive/num4/num_1083/'>866 [To Rot]</a>|<a href='/digital-beehive/num9/num_3047/'>2109
   [Putrefaction]</a>"
 topic:
 first_letter: P

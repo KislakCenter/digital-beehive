@@ -3,7 +3,7 @@ pid: index_0731
 volume: Volume 3
 image_number: '13'
 head: comet
-entry: "<a href='/digital-beehive/alpha1/alpha_0157/'>a</a>|<a href='/digital-beehive/num7/num_2602/'>1690
+entry: "<a href='/digital-beehive/alpha1/alpha_0157/'>a</a>|<a href='/digital-beehive/num7/num_2603/'>1690
   [Comet]</a>"
 topic:
 first_letter: C

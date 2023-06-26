@@ -3,7 +3,7 @@ pid: index_1438
 volume: Volume 3
 image_number: '20'
 head: fiction
-entry: "<a href='/digital-beehive/num6/num_2022/'>1405 [Fable]</a>"
+entry: "<a href='/digital-beehive/num6/num_2023/'>1405 [Fable]</a>"
 topic:
 first_letter: F
 page:

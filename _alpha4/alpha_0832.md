@@ -8,7 +8,7 @@ topic: Salt
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2496/'>1640 [Salt]</a>"
+xref: "<a href='/digital-beehive/num7/num_2497/'>1640 [Salt]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3505/'>salt</a>"
 item: "#item-ea798e968"

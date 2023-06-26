@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '45'
 head: sufferings
 entry: "<a href='/digital-beehive/alpha4/alpha_0929/'>a</a>|<a href='/digital-beehive/num2/num_0626/'>498
-  [Sufferings]</a>|<a href='/digital-beehive/num6/num_1906/'>1349 [Affliction]</a>|<a
-  href='/digital-beehive/num9/num_2954/'>2020 [Sufferings]</a>|<a href='/digital-beehive/num10/num_3451/'>4467
+  [Sufferings]</a>|<a href='/digital-beehive/num6/num_1907/'>1349 [Affliction]</a>|<a
+  href='/digital-beehive/num9/num_2955/'>2020 [Sufferings]</a>|<a href='/digital-beehive/num10/num_3452/'>4467
   [Sufferings]</a>"
 topic:
 first_letter: S

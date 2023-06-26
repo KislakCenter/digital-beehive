@@ -3,7 +3,7 @@ pid: index_4186
 volume: Volume 3
 image_number: '48'
 head: too wise
-entry: "<a href='/digital-beehive/num2/num_0549/'>444 [Too Wise]</a>|<a href='/digital-beehive/num6/num_1953/'>1372
+entry: "<a href='/digital-beehive/num2/num_0549/'>444 [Too Wise]</a>|<a href='/digital-beehive/num6/num_1954/'>1372
   [Too wise]</a>"
 topic:
 first_letter: T

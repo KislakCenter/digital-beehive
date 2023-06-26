@@ -3,7 +3,7 @@ pid: index_1574
 volume: Volume 3
 image_number: '21'
 head: Galenus
-entry: "<a href='/digital-beehive/num9/num_3172/'>2228 [Noia Medicorum]</a>"
+entry: "<a href='/digital-beehive/num9/num_3173/'>2228 [Noia Medicorum]</a>"
 topic:
 first_letter: G
 page:

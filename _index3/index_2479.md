@@ -3,7 +3,7 @@ pid: index_2479
 volume: Volume 3
 image_number: '30'
 head: members
-entry: "<a href='/digital-beehive/alpha3/alpha_0587/'>a</a>|<a href='/digital-beehive/num4/num_1307/'>979
+entry: "<a href='/digital-beehive/alpha3/alpha_0587/'>a</a>|<a href='/digital-beehive/num4/num_1308/'>979
   [Members]</a>"
 topic:
 first_letter: M

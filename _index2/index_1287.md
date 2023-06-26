@@ -3,7 +3,7 @@ pid: index_1287
 volume: Volume 3
 image_number: '19'
 head: equinox
-entry: "<a href='/digital-beehive/num5/num_1466/'>1088 [Equinox]</a>"
+entry: "<a href='/digital-beehive/num5/num_1467/'>1088 [Equinox]</a>"
 topic:
 first_letter: E
 page:

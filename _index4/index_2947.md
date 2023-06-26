@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '35'
 head: pen[n]
 entry: "<a href='/digital-beehive/num2/num_0505/'>410 [Pen]</a>|<a href='/digital-beehive/num3/num_0631/'>501
-  [Pen]</a>|<a href='/digital-beehive/num8/num_2734/'>1801 [Penn : Tongues]</a>"
+  [Pen]</a>|<a href='/digital-beehive/num8/num_2735/'>1801 [Penn : Tongues]</a>"
 topic:
 first_letter: P
 page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"

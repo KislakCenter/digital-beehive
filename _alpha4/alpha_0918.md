@@ -8,14 +8,14 @@ topic: Stone
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0775/'>596 [The Stone Gravel of the Kidneys]</a>|1284
-  [Whetstone]"
+xref: "<a href='/digital-beehive/num3/num_0776/'>596 [The Stone Gravel of the Kidneys]</a>|<a
+  href='/digital-beehive/num6/num_1788/'>1284 [a Whetstone]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3911/'>stones</a>"
 item: "#item-e9d5e9a7f"
 unparsed:
 line: 'Entry: Stone|Topic: Stone|Xref: 596 [The Stone Gravel of the Kidneys]|Xref:
-  1284 [Whetstone]|Index: stones|#item-e9d5e9a7f'
+  1284 [a Whetstone]|Index: stones|#item-e9d5e9a7f'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/274,3448,3112,391/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/full/full/0/default.jpg
 annotation_uri: http://beehive-anno.library.upenn.edu/annotation/1686083785076

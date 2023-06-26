@@ -3,7 +3,7 @@ pid: index_0941
 volume: Volume 3
 image_number: '15'
 head: dam[m]age
-entry: "<a href='/digital-beehive/alpha1/alpha_0207/'>a</a>|<a href='/digital-beehive/num6/num_2058/'>1422
+entry: "<a href='/digital-beehive/alpha1/alpha_0207/'>a</a>|<a href='/digital-beehive/num6/num_2059/'>1422
   [Dam[m]age]</a>"
 topic:
 first_letter: D

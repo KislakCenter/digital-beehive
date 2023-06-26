@@ -3,7 +3,7 @@ pid: index_1005
 volume: Volume 3
 image_number: '16'
 head: Demetrius
-entry: "<a href='/digital-beehive/num5/num_1581/'>1161 [Cynicks]</a>"
+entry: "<a href='/digital-beehive/num5/num_1582/'>1161 [Cynicks]</a>"
 topic:
 first_letter: D
 page:

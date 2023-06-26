@@ -8,7 +8,7 @@ topic: Snow
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2568/'>1672 [Snow]</a>"
+xref: "<a href='/digital-beehive/num7/num_2569/'>1672 [Snow]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3770/'>snow</a>"
 item: "#item-f182bb4a7"

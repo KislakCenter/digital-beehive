@@ -3,7 +3,7 @@ pid: index_1839
 volume: Volume 3
 image_number: '24'
 head: hinges
-entry: "<a href='/digital-beehive/num7/num_2676/'>1748 [Hinges]</a>"
+entry: "<a href='/digital-beehive/num7/num_2677/'>1748 [Hinges]</a>"
 topic:
 first_letter: H
 page:

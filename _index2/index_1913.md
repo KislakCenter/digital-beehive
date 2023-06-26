@@ -3,7 +3,7 @@ pid: index_1913
 volume: Volume 3
 image_number: '24'
 head: hydra
-entry: "<a href='/digital-beehive/num9/num_3056/'>2119 [Serpents]</a>"
+entry: "<a href='/digital-beehive/num9/num_3057/'>2119 [Serpents]</a>"
 topic:
 first_letter: H
 page:

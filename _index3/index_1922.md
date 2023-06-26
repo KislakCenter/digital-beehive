@@ -3,7 +3,7 @@ pid: index_1922
 volume: Volume 3
 image_number: '25'
 head: Jacobites
-entry: "<a href='/digital-beehive/num8/num_2722/'>1789 [Jacobites]</a>"
+entry: "<a href='/digital-beehive/num8/num_2723/'>1789 [Jacobites]</a>"
 topic:
 first_letter: I/J
 page:

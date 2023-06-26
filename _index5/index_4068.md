@@ -3,8 +3,8 @@ pid: index_4068
 volume: Volume 3
 image_number: '46'
 head: tax
-entry: "<a href='/digital-beehive/alpha5/alpha_0943/'>a</a>|<a href='/digital-beehive/num6/num_1928/'>1359
-  [Taxes]</a>|<a href='/digital-beehive/num9/num_3108/'>2166 [Tribute]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0943/'>a</a>|<a href='/digital-beehive/num6/num_1929/'>1359
+  [Taxes]</a>|<a href='/digital-beehive/num9/num_3109/'>2166 [Tribute]</a>"
 topic:
 first_letter: T
 page:

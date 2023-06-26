@@ -3,7 +3,7 @@ pid: index_4582
 volume: Volume 3
 image_number: '53'
 head: witnesses
-entry: "<a href='/digital-beehive/num5/num_1344/'>1007 [Witnesses]</a>|<a href='/digital-beehive/num9/num_3152/'>2209
+entry: "<a href='/digital-beehive/num5/num_1345/'>1007 [Witnesses]</a>|<a href='/digital-beehive/num9/num_3153/'>2209
   [Witness]</a>"
 topic:
 first_letter: W

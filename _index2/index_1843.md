@@ -3,8 +3,8 @@ pid: index_1843
 volume: Volume 3
 image_number: '24'
 head: history
-entry: "<a href='/digital-beehive/num1/num_0031/'>31 [History]</a>|<a href='/digital-beehive/num4/num_1329/'>997
-  [History]</a>|<a href='/digital-beehive/num7/num_2674/'>1746 [Chroniclers]</a>"
+entry: "<a href='/digital-beehive/num1/num_0031/'>31 [History]</a>|<a href='/digital-beehive/num4/num_1330/'>997
+  [History]</a>|<a href='/digital-beehive/num7/num_2675/'>1746 [Chroniclers]</a>"
 topic:
 first_letter: H
 page:

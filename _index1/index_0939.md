@@ -3,7 +3,7 @@ pid: index_0939
 volume: Volume 3
 image_number: '15'
 head: dairy
-entry: "<a href='/digital-beehive/num6/num_2090/'>1434 [Milk]</a>"
+entry: "<a href='/digital-beehive/num6/num_2091/'>1434 [Milk]</a>"
 topic:
 first_letter: D
 page:

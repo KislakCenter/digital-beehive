@@ -3,7 +3,7 @@ pid: index_0351
 volume: Volume 3
 image_number: '10'
 head: benum[m]b'd
-entry: "<a href='/digital-beehive/num10/num_3475/'>4488 [Benumm'ed]</a>"
+entry: "<a href='/digital-beehive/num10/num_3476/'>4488 [Benumm'ed]</a>"
 topic:
 first_letter: B
 page:

@@ -3,8 +3,8 @@ pid: index_1750
 volume: Volume 3
 image_number: '23'
 head: happiness of the wicked
-entry: "<a href='/digital-beehive/alpha2/alpha_0397/'>a</a>|<a href='/digital-beehive/num4/num_1224/'>923
-  [Blessings of God are upon the wicked]</a>|<a href='/digital-beehive/num7/num_2673/'>1745
+entry: "<a href='/digital-beehive/alpha2/alpha_0397/'>a</a>|<a href='/digital-beehive/num4/num_1225/'>923
+  [Blessings of God are upon the wicked]</a>|<a href='/digital-beehive/num7/num_2674/'>1745
   [Happiness of the Wicked]</a>"
 topic:
 first_letter: H

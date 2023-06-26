@@ -3,7 +3,7 @@ pid: index_2590
 volume: Volume 3
 image_number: '31'
 head: Tho. Morus
-entry: "<a href='/digital-beehive/num7/num_2360/'>1574 [Tho. Morus]</a>"
+entry: "<a href='/digital-beehive/num7/num_2361/'>1574 [Tho. Morus]</a>"
 topic:
 first_letter: M
 page:

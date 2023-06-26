@@ -3,7 +3,7 @@ pid: index_4622
 volume: Volume 3
 image_number: '53'
 head: worse & worst
-entry: "<a href='/digital-beehive/num3/num_0730/'>573 [Worse]</a>|<a href='/digital-beehive/num7/num_2477/'>1632
+entry: "<a href='/digital-beehive/num3/num_0731/'>573 [Worse]</a>|<a href='/digital-beehive/num7/num_2478/'>1632
   [Worse]</a>"
 topic:
 first_letter: W

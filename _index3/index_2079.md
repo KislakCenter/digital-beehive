@@ -3,7 +3,7 @@ pid: index_2079
 volume: Volume 3
 image_number: '26'
 head: interruption
-entry: "<a href='/digital-beehive/num5/num_1654/'>1211 [Interruption]</a>"
+entry: "<a href='/digital-beehive/num5/num_1655/'>1211 [Interruption]</a>"
 topic:
 first_letter: I/J
 page:

@@ -8,7 +8,7 @@ topic: Cookery
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/num1/num_0254/'>236 [Cookery]</a>|<a href='/digital-beehive/num3/num_1000/'>696
+xref: "<a href='/digital-beehive/num1/num_0254/'>236 [Cookery]</a>|<a href='/digital-beehive/num3/num_1001/'>696
   [Dainty meats]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0840/'>cookery</a>"

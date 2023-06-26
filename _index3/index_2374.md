@@ -3,7 +3,7 @@ pid: index_2374
 volume: Volume 3
 image_number: '29'
 head: lycanthropia
-entry: "<a href='/digital-beehive/num7/num_2284/'>1535 [Lycanthrapia]</a>"
+entry: 1535 [Lycanthrapia]
 topic:
 first_letter: L
 page:

@@ -9,14 +9,14 @@ first_letter: T
 page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0948/'>Temptation, continued</a>|<a
-  href='/digital-beehive/num3/num_0791/'>602 [Instigation]</a>|120 [Provocation]|<a
-  href='/digital-beehive/num1/num_0217/'>206 [Temptation]</a>"
+  href='/digital-beehive/num3/num_0792/'>602 [Instigation]</a>|<a href='/digital-beehive/num1/num_0124/'>120
+  [Provoke]</a>|<a href='/digital-beehive/num1/num_0217/'>206 [Temptation]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
 item: "#item-d5b751b3a"
 unparsed:
 line: 'Entry: Temptation|Topic: Temptation|Xref: Temptation, continued|Xref: 602 [Instigation]|Xref:
-  120 [Provocation]|Xref: 206 [Temptation]|Index: temptation|#item-d5b751b3a'
+  120 [Provoke]|Xref: 206 [Temptation]|Index: temptation|#item-d5b751b3a'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/358,4570,3156,567/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528921727879

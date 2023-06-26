@@ -3,7 +3,7 @@ pid: index_3729
 volume: Volume 3
 image_number: '43'
 head: to sink
-entry: "<a href='/digital-beehive/num7/num_2329/'>1560 [Sink]</a>"
+entry: "<a href='/digital-beehive/num7/num_2330/'>1560 [Sink]</a>"
 topic:
 first_letter: S
 page:

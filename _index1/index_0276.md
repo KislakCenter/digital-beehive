@@ -3,7 +3,7 @@ pid: index_0276
 volume: Volume 3
 image_number: '9'
 head: balaam
-entry: "<a href='/digital-beehive/num7/num_2466/'>1627 [Balaam]</a>"
+entry: "<a href='/digital-beehive/num7/num_2467/'>1627 [Balaam]</a>"
 topic:
 first_letter: B
 page:

@@ -3,7 +3,7 @@ pid: index_1599
 volume: Volume 3
 image_number: '22'
 head: geometry
-entry: "<a href='/digital-beehive/num6/num_1768/'>1274 [Geometry]</a>"
+entry: "<a href='/digital-beehive/num6/num_1769/'>1274 [Geometry]</a>"
 topic:
 first_letter: G
 page:

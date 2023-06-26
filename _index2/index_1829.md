@@ -3,7 +3,7 @@ pid: index_1829
 volume: Volume 3
 image_number: '24'
 head: hierarchy
-entry: "<a href='/digital-beehive/num8/num_2698/'>1767 [Hierarchy]</a>"
+entry: "<a href='/digital-beehive/num8/num_2699/'>1767 [Hierarchy]</a>"
 topic:
 first_letter: H
 page:

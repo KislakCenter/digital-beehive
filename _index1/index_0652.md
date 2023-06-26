@@ -3,8 +3,8 @@ pid: index_0652
 volume: Volume 3
 image_number: '13'
 head: christians
-entry: "<a href='/digital-beehive/num1/num_0228/'>216 [Christians]</a>|<a href='/digital-beehive/num8/num_2680/'>1751
-  [Christians]</a>|<a href='/digital-beehive/num9/num_3190/'>2245 [Failings]</a>"
+entry: "<a href='/digital-beehive/num1/num_0228/'>216 [Christians]</a>|<a href='/digital-beehive/num8/num_2681/'>1751
+  [Christians]</a>|<a href='/digital-beehive/num9/num_3191/'>2245 [Failings]</a>"
 topic:
 first_letter: C
 page:

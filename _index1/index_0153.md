@@ -3,7 +3,7 @@ pid: index_0153
 volume: Volume 3
 image_number: '8'
 head: answer to books
-entry: "<a href='/digital-beehive/num6/num_2211/'>1500 [Answer to Advers. Books]</a>"
+entry: "<a href='/digital-beehive/num6/num_2212/'>1500 [Answer to Advers. Books]</a>"
 topic:
 first_letter: A
 page:

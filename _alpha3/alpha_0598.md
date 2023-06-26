@@ -8,7 +8,7 @@ topic: Mine Minerals
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_3095/'>2154 [Mineral]</a>"
+xref: "<a href='/digital-beehive/num9/num_3096/'>2154 [Mineral]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2521/'>mine. minerals</a>"
 item: "#item-e1289ca34"

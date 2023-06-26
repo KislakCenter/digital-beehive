@@ -3,7 +3,7 @@ pid: index_1007
 volume: Volume 3
 image_number: '16'
 head: demoniack
-entry: "<a href='/digital-beehive/alpha1/alpha_0226/'>a</a>|<a href='/digital-beehive/num9/num_3098/'>2157
+entry: "<a href='/digital-beehive/alpha1/alpha_0226/'>a</a>|<a href='/digital-beehive/num9/num_3099/'>2157
   [Demoniack]</a>"
 topic:
 first_letter: D

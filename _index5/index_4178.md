@@ -3,7 +3,7 @@ pid: index_4178
 volume: Volume 3
 image_number: '48'
 head: too late
-entry: "<a href='/digital-beehive/num6/num_1740/'>1255 [Too Late]</a>"
+entry: "<a href='/digital-beehive/num6/num_1741/'>1255 [Too Late]</a>"
 topic:
 first_letter: T
 page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"

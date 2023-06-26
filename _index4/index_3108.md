@@ -3,7 +3,7 @@ pid: index_3108
 volume: Volume 3
 image_number: '36'
 head: praised be God!
-entry: "<a href='/digital-beehive/num1/num_0083/'>82 [Praise God]</a>|<a href='/digital-beehive/num6/num_2189/'>1484
+entry: "<a href='/digital-beehive/num1/num_0083/'>82 [Praise God]</a>|<a href='/digital-beehive/num6/num_2190/'>1484
   [Soli Deo gloria]</a>"
 topic:
 first_letter: P

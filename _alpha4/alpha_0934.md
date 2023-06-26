@@ -8,7 +8,7 @@ topic: Superstition
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_1065/'>will Worship</a>|<a href='/digital-beehive/num4/num_1263/'>946
+xref: "<a href='/digital-beehive/alpha5/alpha_1065/'>will Worship</a>|<a href='/digital-beehive/num4/num_1264/'>946
   [Superstition]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3989/'>superstition</a>"

@@ -3,7 +3,7 @@ pid: index_1761
 volume: Volume 3
 image_number: '23'
 head: harpocrates
-entry: "<a href='/digital-beehive/num6/num_1813/'>1299 [Silence & Reservedness]</a>"
+entry: "<a href='/digital-beehive/num6/num_1814/'>1299 [Silence & Reservedness]</a>"
 topic:
 first_letter: H
 page:

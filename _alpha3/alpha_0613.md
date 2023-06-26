@@ -16,12 +16,12 @@ item: "#item-bc399a654"
 unparsed:
 line: 'Entry: Mortifying|Topic: Mortifying|Xref: Cross of Xst|Xref: Small Way|Xref:
   448 [Mortification]|Index: mortifying|#item-bc399a654'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/722,409,3054,546/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/720,407,3056,548/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564777145993
-sort_value: '203410409'
+sort_value: '203410407'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/722,409,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/720,407,600,180/250,/0/default.jpg
 label: Mortifying
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue:

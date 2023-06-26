@@ -8,7 +8,7 @@ topic: Common goods
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1598/'>1172 [Community of Goods]</a>"
+xref: "<a href='/digital-beehive/num5/num_1599/'>1172 [Community of Goods]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0743/'>common goods</a>"
 item: "#item-8f4d83e15"

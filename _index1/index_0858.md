@@ -3,7 +3,7 @@ pid: index_0858
 volume: Volume 3
 image_number: '14'
 head: correlata
-entry: "<a href='/digital-beehive/num7/num_2481/'>1633 [Correlate]</a>"
+entry: "<a href='/digital-beehive/num7/num_2482/'>1633 [Correlate]</a>"
 topic:
 first_letter: C
 page:

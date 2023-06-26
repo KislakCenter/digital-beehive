@@ -8,7 +8,7 @@ topic: Dedication
 first_letter: D
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1905/'>1348 [Epistle Dedicatory]</a>"
+xref: "<a href='/digital-beehive/num6/num_1906/'>1348 [Epistle Dedicatory]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0981/'>dedication</a>"
 item: "#item-1fd55f37c"

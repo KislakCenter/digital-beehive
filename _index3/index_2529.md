@@ -3,7 +3,7 @@ pid: index_2529
 volume: Volume 3
 image_number: '30'
 head: mint
-entry: "<a href='/digital-beehive/num3/num_0964/'>683 [Mint]</a>"
+entry: "<a href='/digital-beehive/num3/num_0965/'>683 [Mint]</a>"
 topic:
 first_letter: M
 page:

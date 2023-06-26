@@ -3,7 +3,7 @@ pid: index_1104
 volume: Volume 3
 image_number: '17'
 head: distinction
-entry: "<a href='/digital-beehive/num8/num_2726/'>1793 [Distinction]</a>"
+entry: "<a href='/digital-beehive/num8/num_2727/'>1793 [Distinction]</a>"
 topic:
 first_letter: D
 page:

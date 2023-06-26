@@ -3,7 +3,7 @@ pid: index_2140
 volume: Volume 3
 image_number: '27'
 head: Ivory
-entry: "<a href='/digital-beehive/num8/num_2852/'>1937 [Ivory]</a>"
+entry: "<a href='/digital-beehive/num8/num_2853/'>1937 [Ivory]</a>"
 topic:
 first_letter: I/J
 page:

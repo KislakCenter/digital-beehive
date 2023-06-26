@@ -3,7 +3,7 @@ pid: index_0821
 volume: Volume 3
 image_number: '14'
 head: contempt of riches
-entry: "<a href='/digital-beehive/num5/num_1673/'>1221 [Contemn Riches]</a>"
+entry: "<a href='/digital-beehive/num5/num_1674/'>1221 [Contemn Riches]</a>"
 topic:
 first_letter: C
 page:

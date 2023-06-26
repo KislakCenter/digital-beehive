@@ -9,7 +9,7 @@ first_letter: D
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0796/'>Late repentance</a>|851 [PAGE_MISSING,
-  Procrastination]|<a href='/digital-beehive/num5/num_1521/'>1123 [Delay]</a>"
+  Procrastination]|<a href='/digital-beehive/num5/num_1522/'>1123 [Delay]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0997/'>delay</a>"
 item: "#item-17b3271a0"

@@ -3,7 +3,7 @@ pid: index_3297
 volume: Volume 3
 image_number: '38'
 head: rate
-entry: "<a href='/digital-beehive/num7/num_2427/'>1609 [Rate]</a>"
+entry: "<a href='/digital-beehive/num7/num_2428/'>1609 [Rate]</a>"
 topic:
 first_letter: R
 page:

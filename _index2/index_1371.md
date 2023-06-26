@@ -3,7 +3,7 @@ pid: index_1371
 volume: Volume 3
 image_number: '19'
 head: eye bright
-entry: "<a href='/digital-beehive/num3/num_0961/'>682 [Eye-bright]</a>"
+entry: "<a href='/digital-beehive/num3/num_0962/'>682 [Eye-bright]</a>"
 topic:
 first_letter: E
 page:

@@ -3,7 +3,7 @@ pid: index_4278
 volume: Volume 3
 image_number: '49'
 head: two headed
-entry: "<a href='/digital-beehive/num7/num_2434/'>1612 [Double-headed]</a>"
+entry: "<a href='/digital-beehive/num7/num_2435/'>1612 [Double-headed]</a>"
 topic:
 first_letter: T
 page:

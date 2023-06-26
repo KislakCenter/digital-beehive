@@ -8,7 +8,7 @@ topic: Apocrypha
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1278/'>959 [apocryphis]</a>"
+xref: "<a href='/digital-beehive/num4/num_1279/'>959 [apocryphis]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0166/'>apocrypha</a>"
 item: "#item-4c389f708"

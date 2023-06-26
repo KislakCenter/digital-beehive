@@ -3,7 +3,7 @@ pid: index_0622
 volume: Volume 3
 image_number: '12'
 head: cherubims
-entry: "<a href='/digital-beehive/num8/num_2779/'>1897 [Cherubims]</a>"
+entry: "<a href='/digital-beehive/num8/num_2780/'>1897 [Cherubims]</a>"
 topic:
 first_letter: C
 page:

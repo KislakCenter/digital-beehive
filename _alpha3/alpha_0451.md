@@ -8,7 +8,7 @@ topic: Jesuite
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1802/'>1292 [Jesuites]</a>"
+xref: "<a href='/digital-beehive/num6/num_1803/'>1292 [Jesuites]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1941/'>Jesuite</a>"
 item: "#item-c421e7050"

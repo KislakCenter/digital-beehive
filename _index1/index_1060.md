@@ -3,7 +3,7 @@ pid: index_1060
 volume: Volume 3
 image_number: '16'
 head: disagree
-entry: "<a href='/digital-beehive/num7/num_2522/'>1650 [Disagree]</a>"
+entry: "<a href='/digital-beehive/num7/num_2523/'>1650 [Disagree]</a>"
 topic:
 first_letter: D
 page:

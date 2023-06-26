@@ -8,7 +8,7 @@ topic: Self hatred
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1108/'>874 [Self hatred]</a>"
+xref: "<a href='/digital-beehive/num4/num_1109/'>874 [Self hatred]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3617/'>Self hatred</a>"
 item: "#item-e1efa3c08"

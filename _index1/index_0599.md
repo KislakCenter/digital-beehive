@@ -3,7 +3,7 @@ pid: index_0599
 volume: Volume 3
 image_number: '12'
 head: change of Sex
-entry: "<a href='/digital-beehive/num8/num_2908/'>1978 [Changed their Sex]</a>"
+entry: "<a href='/digital-beehive/num8/num_2909/'>1978 [Changed their Sex]</a>"
 topic:
 first_letter: C
 page:

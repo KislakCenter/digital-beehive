@@ -3,7 +3,7 @@ pid: index_0973
 volume: Volume 3
 image_number: '15'
 head: to debase
-entry: "<a href='/digital-beehive/num6/num_1862/'>1326 [debase]</a>"
+entry: "<a href='/digital-beehive/num6/num_1863/'>1326 [debase]</a>"
 topic:
 first_letter: D
 page:

@@ -3,7 +3,7 @@ pid: index_1127
 volume: Volume 3
 image_number: '17'
 head: dolus bonus
-entry: "<a href='/digital-beehive/num6/num_2125/'>1452 [good Guile]</a>"
+entry: "<a href='/digital-beehive/num6/num_2126/'>1452 [good Guile]</a>"
 topic:
 first_letter: D
 page:

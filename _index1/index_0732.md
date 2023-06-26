@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '13'
 head: comfort
 entry: "<a href='/digital-beehive/alpha1/alpha_0158/'>a</a>|<a href='/digital-beehive/num1/num_0191/'>182
-  [Comfort]</a>|<a href='/digital-beehive/num7/num_2587/'>1682 [Comfort]</a>"
+  [Comfort]</a>|<a href='/digital-beehive/num7/num_2588/'>1682 [Comfort]</a>"
 topic:
 first_letter: C
 page:

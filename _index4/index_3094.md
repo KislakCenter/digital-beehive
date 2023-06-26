@@ -3,7 +3,7 @@ pid: index_3094
 volume: Volume 3
 image_number: '36'
 head: potter
-entry: "<a href='/digital-beehive/num4/num_1162/'>897 [Pottersshop]</a>"
+entry: "<a href='/digital-beehive/num4/num_1163/'>897 [Pottersshop]</a>"
 topic:
 first_letter: P
 page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"

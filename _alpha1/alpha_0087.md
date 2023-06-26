@@ -8,15 +8,15 @@ topic: Blockhead
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0047/'>Ass</a>|<a href='/digital-beehive/alpha4/alpha_0916/'>Stockfish</a>|181
-  [Nickname]|<a href='/digital-beehive/alpha3/alpha_0469/'>Incivility</a>|<a href='/digital-beehive/num3/num_0925/'>668
-  [Peasant]</a>|<a href='/digital-beehive/num3/num_1037/'>711 [Stupidity]</a>|750
-  [PAGE_MISSING]"
+xref: "<a href='/digital-beehive/alpha1/alpha_0047/'>Ass</a>|<a href='/digital-beehive/alpha4/alpha_0916/'>Stockfish</a>|<a
+  href='/digital-beehive/num1/num_0190/'>181 [Nick-name]</a>|<a href='/digital-beehive/alpha3/alpha_0469/'>Incivility</a>|<a
+  href='/digital-beehive/num3/num_0926/'>668 [Peasant]</a>|<a href='/digital-beehive/num3/num_1038/'>711
+  [Stupidity]</a>|750 [PAGE_MISSING]"
 see:
 index: "<a href='/digital-beehive/index1/index_0392/'>blockhead</a>"
 item: "#item-f7569668d"
 unparsed:
-line: 'Entry: Blockhead|Topic: Blockhead|Xref: Ass|Xref: Stockfish|Xref: 181 [Nickname]|Xref:
+line: 'Entry: Blockhead|Topic: Blockhead|Xref: Ass|Xref: Stockfish|Xref: 181 [Nick-name]|Xref:
   Incivility|Xref: 668 [Peasant]|Xref: 711 [Stupidity]|Xref: 750 [PAGE_MISSING]|Index:
   blockhead|#item-f7569668d'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/342,1627,3066,335/full/0/default.jpg

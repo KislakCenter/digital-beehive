@@ -3,8 +3,8 @@ pid: index_1204
 volume: Volume 3
 image_number: '18'
 head: eclipse
-entry: "<a href='/digital-beehive/alpha2/alpha_0279/'>a</a>|<a href='/digital-beehive/num4/num_1251/'>936
-  [Eclipse]</a>|<a href='/digital-beehive/num6/num_1814/'>1299 [Eclipse]</a>|<a href='/digital-beehive/num10/num_3273/'>2309
+entry: "<a href='/digital-beehive/alpha2/alpha_0279/'>a</a>|<a href='/digital-beehive/num4/num_1252/'>936
+  [Eclipse]</a>|<a href='/digital-beehive/num6/num_1815/'>1299 [Eclipse]</a>|<a href='/digital-beehive/num10/num_3274/'>2309
   [Eclipse]</a>"
 topic:
 first_letter: E

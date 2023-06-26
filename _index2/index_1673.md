@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '22'
 head: church governmt
 entry: "<a href='/digital-beehive/num2/num_0493/'>402 [Order & Discipline in the Church]</a>|<a
-  href='/digital-beehive/num7/num_2408/'>1600 [Church-Discipline]</a>|<a href='/digital-beehive/num8/num_2741/'>1808
+  href='/digital-beehive/num7/num_2409/'>1600 [Church-Discipline]</a>|<a href='/digital-beehive/num8/num_2742/'>1808
   [Church Governmt]</a>"
 topic:
 first_letter: G

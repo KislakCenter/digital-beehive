@@ -3,7 +3,7 @@ pid: index_1285
 volume: Volume 3
 image_number: '19'
 head: equality
-entry: "<a href='/digital-beehive/alpha2/alpha_0291/'>a</a>|<a href='/digital-beehive/num5/num_1532/'>1129
+entry: "<a href='/digital-beehive/alpha2/alpha_0291/'>a</a>|<a href='/digital-beehive/num5/num_1533/'>1129
   [Equality]</a>"
 topic:
 first_letter: E

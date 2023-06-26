@@ -8,7 +8,7 @@ topic: Losse
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0207/'>dam[m]age</a>|<a href='/digital-beehive/num5/num_1568/'>1151
+xref: "<a href='/digital-beehive/alpha1/alpha_0207/'>dam[m]age</a>|<a href='/digital-beehive/num5/num_1569/'>1151
   [Loss]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2335/'>loss</a>"

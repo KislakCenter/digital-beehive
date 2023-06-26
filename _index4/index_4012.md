@@ -3,7 +3,7 @@ pid: index_4012
 volume: Volume 3
 image_number: '46'
 head: suttler
-entry: "<a href='/digital-beehive/num3/num_1048/'>714 [a haggler]</a>"
+entry: "<a href='/digital-beehive/num3/num_1049/'>714 [a haggler]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_3800
 volume: Volume 3
 image_number: '44'
 head: sope
-entry: "<a href='/digital-beehive/num4/num_1233/'>927 [Sope]</a>"
+entry: "<a href='/digital-beehive/num4/num_1234/'>927 [Sope]</a>"
 topic:
 first_letter: S
 page:

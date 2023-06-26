@@ -8,7 +8,7 @@ topic: Satyre
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_1077/'>Zoilus</a>|<a href='/digital-beehive/num6/num_1979/'>1384
+xref: "<a href='/digital-beehive/alpha5/alpha_1077/'>Zoilus</a>|<a href='/digital-beehive/num6/num_1980/'>1384
   [Satyr]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3524/'>Satyre</a>"

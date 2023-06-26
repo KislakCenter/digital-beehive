@@ -3,7 +3,7 @@ pid: index_3629
 volume: Volume 3
 image_number: '42'
 head: Self will
-entry: "<a href='/digital-beehive/alpha4/alpha_0860/'>a</a>|<a href='/digital-beehive/num5/num_1340/'>1005
+entry: "<a href='/digital-beehive/alpha4/alpha_0860/'>a</a>|<a href='/digital-beehive/num5/num_1341/'>1005
   [Self will]</a>"
 topic:
 first_letter: S

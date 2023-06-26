@@ -3,7 +3,7 @@ pid: index_3238
 volume: Volume 3
 image_number: '38'
 head: purposely
-entry: "<a href='/digital-beehive/num4/num_1183/'>907 [Purposely]</a>"
+entry: "<a href='/digital-beehive/num4/num_1184/'>907 [Purposely]</a>"
 topic:
 first_letter: P
 page:

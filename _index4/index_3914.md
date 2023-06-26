@@ -3,7 +3,7 @@ pid: index_3914
 volume: Volume 3
 image_number: '45'
 head: to Stone
-entry: "<a href='/digital-beehive/num8/num_2812/'>1915 [Stoning]</a>"
+entry: "<a href='/digital-beehive/num8/num_2813/'>1915 [Stoning]</a>"
 topic:
 first_letter: S
 page:

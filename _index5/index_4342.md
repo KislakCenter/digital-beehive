@@ -3,7 +3,7 @@ pid: index_4342
 volume: Volume 3
 image_number: '49'
 head: virgula divinatoria
-entry: "<a href='/digital-beehive/num6/num_1836/'>1315 [Divination]</a>"
+entry: "<a href='/digital-beehive/num6/num_1837/'>1315 [Divination]</a>"
 topic:
 first_letter: U/V
 page:

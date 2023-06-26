@@ -3,7 +3,7 @@ pid: index_1380
 volume: Volume 3
 image_number: '20'
 head: fair words
-entry: "<a href='/digital-beehive/alpha2/alpha_0311/'>a</a>|<a href='/digital-beehive/num10/num_3342/'>2370
+entry: "<a href='/digital-beehive/alpha2/alpha_0311/'>a</a>|<a href='/digital-beehive/num10/num_3343/'>2370
   [Fair Words]</a>"
 topic:
 first_letter: F

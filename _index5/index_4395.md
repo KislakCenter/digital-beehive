@@ -3,7 +3,7 @@ pid: index_4395
 volume: Volume 3
 image_number: '50'
 head: unicorn
-entry: "<a href='/digital-beehive/num7/num_2272/'>1530 [Unicorn]</a>"
+entry: "<a href='/digital-beehive/num7/num_2273/'>1530 [Unicorn]</a>"
 topic:
 first_letter: U/V
 page:

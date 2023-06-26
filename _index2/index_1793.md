@@ -3,8 +3,8 @@ pid: index_1793
 volume: Volume 3
 image_number: '23'
 head: hell
-entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>|<a href='/digital-beehive/num5/num_1450/'>1076
-  [Hell]</a>|<a href='/digital-beehive/num8/num_2885/'>1961 [Hell]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>|<a href='/digital-beehive/num5/num_1451/'>1076
+  [Hell]</a>|<a href='/digital-beehive/num8/num_2886/'>1961 [Hell]</a>"
 topic:
 first_letter: H
 page:

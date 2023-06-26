@@ -3,7 +3,7 @@ pid: index_4169
 volume: Volume 3
 image_number: '48'
 head: together
-entry: "<a href='/digital-beehive/num6/num_1976/'>1383 [Together]</a>"
+entry: "<a href='/digital-beehive/num6/num_1977/'>1383 [Together]</a>"
 topic:
 first_letter: T
 page:

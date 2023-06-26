@@ -3,7 +3,7 @@ pid: index_2072
 volume: Volume 3
 image_number: '26'
 head: integrity
-entry: "<a href='/digital-beehive/num6/num_1839/'>1317 [Sincerity]</a>"
+entry: "<a href='/digital-beehive/num6/num_1840/'>1317 [Sincerity]</a>"
 topic:
 first_letter: I/J
 page:

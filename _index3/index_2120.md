@@ -3,7 +3,7 @@ pid: index_2120
 volume: Volume 3
 image_number: '27'
 head: irregular
-entry: "<a href='/digital-beehive/num3/num_0887/'>648 [Irregular]</a>"
+entry: "<a href='/digital-beehive/num3/num_0888/'>648 [Irregular]</a>"
 topic:
 first_letter: I/J
 page:

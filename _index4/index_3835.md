@@ -3,7 +3,7 @@ pid: index_3835
 volume: Volume 3
 image_number: '44'
 head: Dr. Spener
-entry: "<a href='/digital-beehive/num6/num_2033/'>1410 [Dr. Philip James Spener]</a>"
+entry: 1410 [Dr. Phillip James Spener]
 topic:
 first_letter: S
 page:
@@ -13,7 +13,7 @@ see:
 index:
 item: "#item-3bb57c2bc"
 unparsed:
-line: 'Head: Dr. Spener|Entry: 1410 [Dr. Philip James Spener]|#item-3bb57c2bc'
+line: 'Head: Dr. Spener|Entry: 1410 [Dr. Phillip James Spener]|#item-3bb57c2bc'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1033,1955,640,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529941966848

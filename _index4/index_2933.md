@@ -3,7 +3,7 @@ pid: index_2933
 volume: Volume 3
 image_number: '34'
 head: peacock
-entry: "<a href='/digital-beehive/num6/num_2019/'>1404 [Peacocks]</a>"
+entry: "<a href='/digital-beehive/num6/num_2020/'>1404 [Peacocks]</a>"
 topic:
 first_letter: P
 page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"

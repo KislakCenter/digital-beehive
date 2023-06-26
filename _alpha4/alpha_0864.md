@@ -8,13 +8,14 @@ topic: Servitude
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0891/'>Slavery</a>|382 [Neger]|813 [PAGE_MISSING]"
+xref: "<a href='/digital-beehive/alpha4/alpha_0891/'>Slavery</a>|<a href='/digital-beehive/num2/num_0461/'>382
+  [Neger or Negro]</a>|813 [PAGE_MISSING]"
 see:
 index: "<a href='/digital-beehive/index4/index_3647/'>servitude</a>"
 item: "#item-62e3b4e15"
 unparsed:
-line: 'Entry: Servitude|Topic: Servitude|Xref: Slavery|Xref: 382 [Neger]|Xref: 813
-  [PAGE_MISSING]|Index: servitude|#item-62e3b4e15'
+line: 'Entry: Servitude|Topic: Servitude|Xref: Slavery|Xref: 382 [Neger or Negro]|Xref:
+  813 [PAGE_MISSING]|Index: servitude|#item-62e3b4e15'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/809,497,2984,452/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530803112638

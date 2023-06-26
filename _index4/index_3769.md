@@ -3,7 +3,7 @@ pid: index_3769
 volume: Volume 3
 image_number: '43'
 head: snot
-entry: "<a href='/digital-beehive/num3/num_0835/'>621 [Snot]</a>"
+entry: "<a href='/digital-beehive/num3/num_0836/'>621 [Snot]</a>"
 topic:
 first_letter: S
 page:

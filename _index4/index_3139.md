@@ -3,7 +3,7 @@ pid: index_3139
 volume: Volume 3
 image_number: '37'
 head: prester John
-entry: "<a href='/digital-beehive/num7/num_2456/'>1622 [Prester John]</a>"
+entry: "<a href='/digital-beehive/num7/num_2457/'>1622 [Prester John]</a>"
 topic:
 first_letter: P
 page:

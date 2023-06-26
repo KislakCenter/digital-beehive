@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '19'
 head: epitaphs
 entry: "<a href='/digital-beehive/alpha2/alpha_0290/'>a</a>|<a href='/digital-beehive/num1/num_0265/'>245
-  [Epitaphs]</a>|<a href='/digital-beehive/num6/num_2153/'>1466 [Epitaphs]</a>"
+  [Epitaphs]</a>|<a href='/digital-beehive/num6/num_2154/'>1466 [Epitaphs]</a>"
 topic:
 first_letter: E
 page: "<a href='/digital-beehive/toc/toc1_061/'>p.11 [Image 1.71]</a>|<a href='/digital-beehive/toc/toc1_075/'>p.25

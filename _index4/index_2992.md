@@ -3,7 +3,7 @@ pid: index_2992
 volume: Volume 3
 image_number: '35'
 head: physick
-entry: "<a href='/digital-beehive/num3/num_0922/'>665 [Medicines]</a>|4513 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num3/num_0923/'>665 [Medicines]</a>|4513 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:

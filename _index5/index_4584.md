@@ -3,8 +3,8 @@ pid: index_4584
 volume: Volume 3
 image_number: '53'
 head: to woe
-entry: "<a href='/digital-beehive/num4/num_1198/'>912 [To Wooe]</a>|<a href='/digital-beehive/num6/num_1988/'>1389
-  [of Courting women]</a>|<a href='/digital-beehive/num7/num_2439/'>1614 [Courting]</a>"
+entry: "<a href='/digital-beehive/num4/num_1199/'>912 [To Wooe]</a>|<a href='/digital-beehive/num6/num_1989/'>1389
+  [of Courting women]</a>|<a href='/digital-beehive/num7/num_2440/'>1614 [Courting]</a>"
 topic:
 first_letter: W
 page:

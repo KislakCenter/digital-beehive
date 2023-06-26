@@ -3,7 +3,7 @@ pid: index_2054
 volume: Volume 3
 image_number: '26'
 head: in[n]umerable
-entry: "<a href='/digital-beehive/num3/num_0869/'>639 [Innumerable]</a>"
+entry: "<a href='/digital-beehive/num3/num_0870/'>639 [Innumerable]</a>"
 topic:
 first_letter: I/J
 page:

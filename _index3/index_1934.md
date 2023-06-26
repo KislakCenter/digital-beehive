@@ -3,7 +3,7 @@ pid: index_1934
 volume: Volume 3
 image_number: '25'
 head: jelly
-entry: "<a href='/digital-beehive/num3/num_1007/'>699 [Jelly]</a>"
+entry: "<a href='/digital-beehive/num3/num_1008/'>699 [Jelly]</a>"
 topic:
 first_letter: I/J
 page:

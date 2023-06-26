@@ -3,9 +3,9 @@ pid: index_0176
 volume: Volume 3
 image_number: '8'
 head: apparitions
-entry: "<a href='/digital-beehive/alpha1/alpha_0042/'>a</a>|<a href='/digital-beehive/num9/num_3161/'>2218
-  [Apparitions]</a>|<a href='/digital-beehive/num6/num_1834/'>1313 [Spectres]</a>|<a
-  href='/digital-beehive/num7/num_2419/'>1604 [Apparitions]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0042/'>a</a>|<a href='/digital-beehive/num9/num_3162/'>2218
+  [Apparitions]</a>|<a href='/digital-beehive/num6/num_1835/'>1313 [Spectres]</a>|<a
+  href='/digital-beehive/num7/num_2420/'>1604 [Apparitions]</a>"
 topic:
 first_letter: A
 page:

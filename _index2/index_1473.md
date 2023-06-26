@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '20'
 head: flattery
 entry: "<a href='/digital-beehive/alpha2/alpha_0332/'>a</a>|810 [PAGE_MISSING]|<a
-  href='/digital-beehive/num8/num_2743/'>1810 [Flattery]</a>"
+  href='/digital-beehive/num8/num_2744/'>1810 [Flattery]</a>"
 topic:
 first_letter: F
 page:

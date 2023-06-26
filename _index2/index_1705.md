@@ -3,7 +3,7 @@ pid: index_1705
 volume: Volume 3
 image_number: '23'
 head: grease
-entry: "<a href='/digital-beehive/num3/num_1005/'>698 [Grease]</a>"
+entry: "<a href='/digital-beehive/num3/num_1006/'>698 [Grease]</a>"
 topic:
 first_letter: G
 page:

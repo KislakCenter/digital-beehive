@@ -3,7 +3,7 @@ pid: index_0045
 volume: Volume 3
 image_number: '7'
 head: admonishing
-entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1426/'>1060 [Admonishing
+entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1427/'>1060 [Admonishing
   & Warning]</a>
 topic:
 first_letter: A

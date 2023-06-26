@@ -3,7 +3,7 @@ pid: index_2383
 volume: Volume 3
 image_number: '29'
 head: magnificence
-entry: "<a href='/digital-beehive/num4/num_1195/'>912 [Magnificen(ce:)]</a>"
+entry: "<a href='/digital-beehive/num4/num_1196/'>912 [Magnificen(ce:)]</a>"
 topic:
 first_letter: M
 page:

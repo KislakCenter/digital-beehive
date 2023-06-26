@@ -3,7 +3,7 @@ pid: index_3400
 volume: Volume 3
 image_number: '39'
 head: retorsion
-entry: "<a href='/digital-beehive/num6/num_2128/'>1453 [Argument ad hominem]</a>"
+entry: "<a href='/digital-beehive/num6/num_2129/'>1453 [Argument ad hominem]</a>"
 topic:
 first_letter: R
 page:

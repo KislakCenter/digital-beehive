@@ -8,7 +8,7 @@ topic: Earthquake
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1705/'>1237 [Earthquakes]</a>"
+xref: "<a href='/digital-beehive/num5/num_1706/'>1237 [Earthquakes]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1189/'>earthquake</a>"
 item: "#item-aada765c4"

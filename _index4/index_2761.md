@@ -3,7 +3,7 @@ pid: index_2761
 volume: Volume 3
 image_number: '33'
 head: observation
-entry: "<a href='/digital-beehive/num3/num_0870/'>640 [Observation]</a>|<a href='/digital-beehive/num6/num_2166/'>1472
+entry: "<a href='/digital-beehive/num3/num_0871/'>640 [Observation]</a>|<a href='/digital-beehive/num6/num_2167/'>1472
   [Remarkable]</a>"
 topic:
 first_letter: O

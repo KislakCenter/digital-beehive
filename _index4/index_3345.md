@@ -3,8 +3,8 @@ pid: index_3345
 volume: Volume 3
 image_number: '39'
 head: rejuvenescency
-entry: "<a href='/digital-beehive/num6/num_1741/'>1255 [To grow young again]</a>|<a
-  href='/digital-beehive/num9/num_3091/'>2150 [To grow young again]</a>"
+entry: "<a href='/digital-beehive/num6/num_1742/'>1255 [To grow young again]</a>|<a
+  href='/digital-beehive/num9/num_3092/'>2150 [To grow young again]</a>"
 topic:
 first_letter: R
 page:

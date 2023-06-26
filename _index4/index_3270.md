@@ -3,7 +3,7 @@ pid: index_3270
 volume: Volume 3
 image_number: '38'
 head: to quit
-entry: "<a href='/digital-beehive/num5/num_1658/'>1212 [To Leave off]</a>"
+entry: "<a href='/digital-beehive/num5/num_1659/'>1212 [To Leave off]</a>"
 topic:
 first_letter: Q
 page:

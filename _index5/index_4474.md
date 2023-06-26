@@ -3,9 +3,9 @@ pid: index_4474
 volume: Volume 3
 image_number: '51'
 head: war
-entry: "<a href='/digital-beehive/alpha5/alpha_1024/'>a</a>|<a href='/digital-beehive/num5/num_1643/'>1204
-  [War]</a>|<a href='/digital-beehive/num6/num_2200/'>1492 [Warfare]</a>|<a href='/digital-beehive/num9/num_3163/'>2220
-  [War]</a>|<a href='/digital-beehive/num11/num_3586/'>4913 [War]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1024/'>a</a>|<a href='/digital-beehive/num5/num_1644/'>1204
+  [War]</a>|<a href='/digital-beehive/num6/num_2201/'>1492 [Warfare]</a>|<a href='/digital-beehive/num9/num_3164/'>2220
+  [War]</a>|<a href='/digital-beehive/num11/num_3587/'>4913 [War]</a>"
 topic:
 first_letter: W
 page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"

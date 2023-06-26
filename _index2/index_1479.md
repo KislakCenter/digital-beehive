@@ -3,7 +3,7 @@ pid: index_1479
 volume: Volume 3
 image_number: '20'
 head: flexible
-entry: "<a href='/digital-beehive/num10/num_3353/'>2381 [Tough : flexible]</a>"
+entry: "<a href='/digital-beehive/num10/num_3354/'>2381 [Tough : flexible]</a>"
 topic:
 first_letter: F
 page:

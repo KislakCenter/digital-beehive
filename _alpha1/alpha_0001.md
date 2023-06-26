@@ -8,7 +8,7 @@ topic: Absence
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0733/'>Presence</a>|<a href='/digital-beehive/num6/num_2006/'>1397
+xref: "<a href='/digital-beehive/alpha4/alpha_0733/'>Presence</a>|<a href='/digital-beehive/num6/num_2007/'>1397
   [Absence]</a>|<a href='/digital-beehive/num2/num_0289/'>261 [Absence & Presence
   of Xst]</a>"
 see:

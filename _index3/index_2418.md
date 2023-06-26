@@ -3,7 +3,7 @@ pid: index_2418
 volume: Volume 3
 image_number: '29'
 head: manufactures
-entry: "<a href='/digital-beehive/num3/num_1045/'>714 [Wares]</a>|<a href='/digital-beehive/num8/num_2922/'>1991
+entry: "<a href='/digital-beehive/num3/num_1046/'>714 [Wares]</a>|<a href='/digital-beehive/num8/num_2923/'>1991
   [Manufactures]</a>"
 topic:
 first_letter: M

@@ -3,7 +3,7 @@ pid: index_3892
 volume: Volume 3
 image_number: '45'
 head: steeplehouses
-entry: "<a href='/digital-beehive/num5/num_1377/'>1030 [Church]</a>"
+entry: "<a href='/digital-beehive/num5/num_1378/'>1030 [Church]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"

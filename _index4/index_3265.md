@@ -3,7 +3,7 @@ pid: index_3265
 volume: Volume 3
 image_number: '38'
 head: Quietists
-entry: "<a href='/digital-beehive/num4/num_1256/'>939 [Quietists]</a>"
+entry: "<a href='/digital-beehive/num4/num_1257/'>939 [Quietists]</a>"
 topic:
 first_letter: Q
 page:

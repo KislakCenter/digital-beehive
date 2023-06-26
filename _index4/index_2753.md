@@ -3,8 +3,8 @@ pid: index_2753
 volume: Volume 3
 image_number: '33'
 head: oath
-entry: "<a href='/digital-beehive/alpha4/alpha_0653/'>a</a>|<a href='/digital-beehive/num3/num_0735/'>576
-  [Oath]</a>|<a href='/digital-beehive/num6/num_1764/'>1272 [Oath]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0653/'>a</a>|<a href='/digital-beehive/num3/num_0736/'>576
+  [Oath]</a>|<a href='/digital-beehive/num6/num_1765/'>1272 [Oath]</a>"
 topic:
 first_letter: O
 page:

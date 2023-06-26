@@ -3,7 +3,7 @@ pid: index_0906
 volume: Volume 3
 image_number: '15'
 head: cricket
-entry: "<a href='/digital-beehive/num5/num_1732/'>1250 [Grasshoppers]</a>"
+entry: "<a href='/digital-beehive/num5/num_1733/'>1250 [Grasshoppers]</a>"
 topic:
 first_letter: C
 page:

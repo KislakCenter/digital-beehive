@@ -3,7 +3,7 @@ pid: index_2828
 volume: Volume 3
 image_number: '33'
 head: origine
-entry: "<a href='/digital-beehive/num6/num_1877/'>1335 [Begging]</a>|<a href='/digital-beehive/num6/num_1878/'>1335
+entry: "<a href='/digital-beehive/num6/num_1878/'>1335 [Begging]</a>|<a href='/digital-beehive/num6/num_1879/'>1335
   [Brevity]</a>"
 topic:
 first_letter: O

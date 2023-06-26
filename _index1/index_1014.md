@@ -3,7 +3,7 @@ pid: index_1014
 volume: Volume 3
 image_number: '16'
 head: to deprehend
-entry: "<a href='/digital-beehive/num3/num_1017/'>702 [To deprehend]</a>"
+entry: "<a href='/digital-beehive/num3/num_1018/'>702 [To deprehend]</a>"
 topic:
 first_letter: D
 page:

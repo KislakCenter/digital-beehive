@@ -3,7 +3,7 @@ pid: index_1688
 volume: Volume 3
 image_number: '22'
 head: granaries
-entry: "<a href='/digital-beehive/num3/num_0921/'>664 [Granaries]</a>"
+entry: "<a href='/digital-beehive/num3/num_0922/'>664 [Granaries]</a>"
 topic:
 first_letter: G
 page:

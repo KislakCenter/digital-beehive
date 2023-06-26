@@ -3,7 +3,7 @@ pid: index_2637
 volume: Volume 3
 image_number: '32'
 head: namesake
-entry: "<a href='/digital-beehive/num3/num_0702/'>555 [Synonomasticon]</a>"
+entry: "<a href='/digital-beehive/num3/num_0703/'>555 [Synonomasticon]</a>"
 topic:
 first_letter: N
 page:

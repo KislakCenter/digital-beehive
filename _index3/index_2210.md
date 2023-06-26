@@ -3,7 +3,7 @@ pid: index_2210
 volume: Volume 3
 image_number: '27'
 head: to last or remain
-entry: "<a href='/digital-beehive/num7/num_2387/'>1590 [To Last]</a>"
+entry: "<a href='/digital-beehive/num7/num_2388/'>1590 [To Last]</a>"
 topic:
 first_letter: L
 page:

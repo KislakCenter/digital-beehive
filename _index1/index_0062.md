@@ -3,9 +3,9 @@ pid: index_0062
 volume: Volume 3
 image_number: '7'
 head: affliction
-entry: "<a href='/digital-beehive/num2/num_0364/'>316 [Affliction]</a>|<a href='/digital-beehive/num6/num_1942/'>1367
-  [Afflictions]</a>|<a href='/digital-beehive/num6/num_1951/'>1372 [Afflictions]</a>|<a
-  href='/digital-beehive/num9/num_2954/'>2020 [Sufferings]</a>"
+entry: "<a href='/digital-beehive/num2/num_0364/'>316 [Affliction]</a>|<a href='/digital-beehive/num6/num_1943/'>1367
+  [Afflictions]</a>|<a href='/digital-beehive/num6/num_1952/'>1372 [Afflictions]</a>|<a
+  href='/digital-beehive/num9/num_2955/'>2020 [Sufferings]</a>"
 topic:
 first_letter: A
 page:

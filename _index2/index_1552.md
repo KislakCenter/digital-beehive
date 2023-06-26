@@ -3,7 +3,7 @@ pid: index_1552
 volume: Volume 3
 image_number: '21'
 head: frost
-entry: "<a href='/digital-beehive/num7/num_2517/'>1649 [Frost]</a>"
+entry: "<a href='/digital-beehive/num7/num_2518/'>1649 [Frost]</a>"
 topic:
 first_letter: F
 page:

@@ -3,8 +3,8 @@ pid: index_4081
 volume: Volume 3
 image_number: '47'
 head: tempests
-entry: "<a href='/digital-beehive/num6/num_1901/'>1346 [Thunder & Lightning]</a>|<a
-  href='/digital-beehive/num6/num_1902/'>1346 [Hailstones]</a>"
+entry: "<a href='/digital-beehive/num6/num_1902/'>1346 [Thunder & Lightning]</a>|<a
+  href='/digital-beehive/num6/num_1903/'>1346 [Hailstones]</a>"
 topic:
 first_letter: T
 page:

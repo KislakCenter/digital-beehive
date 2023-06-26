@@ -3,7 +3,7 @@ pid: index_2433
 volume: Volume 3
 image_number: '30'
 head: mars
-entry: "<a href='/digital-beehive/num6/num_2043/'>1416 [Evils of war]</a>"
+entry: "<a href='/digital-beehive/num6/num_2044/'>1416 [Evils of war]</a>"
 topic:
 first_letter: M
 page:

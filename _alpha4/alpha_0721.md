@@ -8,7 +8,7 @@ topic: Polygamy
 first_letter: P
 page:
 add:
-xref: "<a href='/digital-beehive/num2/num_0562/'>452 [Bigamy]</a>|<a href='/digital-beehive/num4/num_1291/'>969
+xref: "<a href='/digital-beehive/num2/num_0562/'>452 [Bigamy]</a>|<a href='/digital-beehive/num4/num_1292/'>969
   [Polygamy]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3066/'>polygamy</a>"

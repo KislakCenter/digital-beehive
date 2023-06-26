@@ -3,7 +3,7 @@ pid: index_3917
 volume: Volume 3
 image_number: '45'
 head: stories
-entry: "<a href='/digital-beehive/num11/num_3525/'>4830 [Stories]</a>"
+entry: "<a href='/digital-beehive/num11/num_3526/'>4830 [Stories]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_2440
 volume: Volume 3
 image_number: '30'
 head: Maryland
-entry: "<a href='/digital-beehive/num7/num_2253/'>1521 [Maryland]</a>"
+entry: "<a href='/digital-beehive/num7/num_2254/'>1521 [Maryland]</a>"
 topic:
 first_letter: M
 page:

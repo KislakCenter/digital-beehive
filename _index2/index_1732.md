@@ -3,7 +3,7 @@ pid: index_1732
 volume: Volume 3
 image_number: '23'
 head: gum
-entry: "<a href='/digital-beehive/num10/num_3209/'>2259 [Gum]</a>"
+entry: "<a href='/digital-beehive/num10/num_3210/'>2259 [Gum]</a>"
 topic:
 first_letter: G
 page:

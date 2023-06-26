@@ -3,7 +3,7 @@ pid: index_2227
 volume: Volume 3
 image_number: '28'
 head: Lawrence
-entry: "<a href='/digital-beehive/num3/num_0818/'>613 [St. Lawrence]</a>"
+entry: "<a href='/digital-beehive/num3/num_0819/'>613 [St. Lawrence]</a>"
 topic:
 first_letter: L
 page:

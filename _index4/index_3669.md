@@ -3,7 +3,7 @@ pid: index_3669
 volume: Volume 3
 image_number: '42'
 head: shepherd
-entry: "<a href='/digital-beehive/num8/num_2843/'>1929 [Shepherds]</a>"
+entry: "<a href='/digital-beehive/num8/num_2844/'>1929 [Shepherds]</a>"
 topic:
 first_letter: S
 page:

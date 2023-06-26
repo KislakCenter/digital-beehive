@@ -3,7 +3,7 @@ pid: index_3421
 volume: Volume 3
 image_number: '40'
 head: Richelieu
-entry: "<a href='/digital-beehive/num6/num_1856/'>1323 [Richelieu]</a>"
+entry: "<a href='/digital-beehive/num6/num_1857/'>1323 [Richelieu]</a>"
 topic:
 first_letter: R
 page:

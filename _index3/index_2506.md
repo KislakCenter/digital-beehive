@@ -3,7 +3,7 @@ pid: index_2506
 volume: Volume 3
 image_number: '30'
 head: metropolis
-entry: "<a href='/digital-beehive/num9/num_2952/'>2018 [Metropolis]</a>"
+entry: "<a href='/digital-beehive/num9/num_2953/'>2018 [Metropolis]</a>"
 topic:
 first_letter: M
 page:

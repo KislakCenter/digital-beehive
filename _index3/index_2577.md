@@ -3,7 +3,7 @@ pid: index_2577
 volume: Volume 3
 image_number: '31'
 head: moral philosophy
-entry: "<a href='/digital-beehive/alpha3/alpha_0608/'>a</a>|<a href='/digital-beehive/num6/num_1808/'>1295
+entry: "<a href='/digital-beehive/alpha3/alpha_0608/'>a</a>|<a href='/digital-beehive/num6/num_1809/'>1295
   [Moral Philos]</a>"
 topic:
 first_letter: M

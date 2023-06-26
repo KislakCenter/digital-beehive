@@ -3,7 +3,7 @@ pid: index_0423
 volume: Volume 3
 image_number: '10'
 head: bouhours
-entry: "<a href='/digital-beehive/num11/num_3489/'>4796 [Bouhours]</a>"
+entry: "<a href='/digital-beehive/num11/num_3490/'>4796 [Bouhours]</a>"
 topic:
 first_letter: B
 page:

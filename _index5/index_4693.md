@@ -3,7 +3,7 @@ pid: index_4693
 volume: Volume 3
 image_number: '54'
 head: Spur
-entry: "<a href='/digital-beehive/num5/num_1709/'>1239 [Spur]</a>"
+entry: "<a href='/digital-beehive/num5/num_1710/'>1239 [Spur]</a>"
 topic:
 first_letter: insertion
 page:

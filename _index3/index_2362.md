@@ -3,7 +3,7 @@ pid: index_2362
 volume: Volume 3
 image_number: '29'
 head: lukewarm
-entry: "<a href='/digital-beehive/num1/num_0027/'>27 [Lukewarmness]</a>|<a href='/digital-beehive/num8/num_2867/'>1943
+entry: "<a href='/digital-beehive/num1/num_0027/'>27 [Lukewarmness]</a>|<a href='/digital-beehive/num8/num_2868/'>1943
   [Lukewarmness]</a>"
 topic:
 first_letter: L

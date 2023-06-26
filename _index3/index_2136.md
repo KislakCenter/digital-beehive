@@ -3,7 +3,7 @@ pid: index_2136
 volume: Volume 3
 image_number: '27'
 head: juggling
-entry: "<a href='/digital-beehive/num2/num_0523/'>422 [Juggling]</a>|<a href='/digital-beehive/num7/num_2303/'>1547
+entry: "<a href='/digital-beehive/num2/num_0523/'>422 [Juggling]</a>|<a href='/digital-beehive/num7/num_2304/'>1547
   [Juggling]</a>"
 topic:
 first_letter: I/J

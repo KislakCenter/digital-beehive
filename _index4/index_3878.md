@@ -3,7 +3,7 @@ pid: index_3878
 volume: Volume 3
 image_number: '44'
 head: star
-entry: "<a href='/digital-beehive/alpha4/alpha_0913/'>a</a>|<a href='/digital-beehive/num7/num_2595/'>1686
+entry: "<a href='/digital-beehive/alpha4/alpha_0913/'>a</a>|<a href='/digital-beehive/num7/num_2596/'>1686
   [Star]</a>"
 topic:
 first_letter: S

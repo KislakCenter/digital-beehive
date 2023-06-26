@@ -3,7 +3,7 @@ pid: index_2648
 volume: Volume 3
 image_number: '32'
 head: natives
-entry: "<a href='/digital-beehive/num5/num_1451/'>1076 [Natives]</a>"
+entry: "<a href='/digital-beehive/num5/num_1452/'>1076 [Natives]</a>"
 topic:
 first_letter: N
 page:

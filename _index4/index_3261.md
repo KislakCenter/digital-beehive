@@ -3,7 +3,7 @@ pid: index_3261
 volume: Volume 3
 image_number: '38'
 head: to quicken
-entry: "<a href='/digital-beehive/num4/num_1190/'>911 [To Quicken]</a>"
+entry: "<a href='/digital-beehive/num4/num_1191/'>911 [To Quicken]</a>"
 topic:
 first_letter: Q
 page:

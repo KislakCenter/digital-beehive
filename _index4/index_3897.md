@@ -3,7 +3,7 @@ pid: index_3897
 volume: Volume 3
 image_number: '45'
 head: stern
-entry: "<a href='/digital-beehive/num3/num_0902/'>655 [Sternness]</a>|4738 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num3/num_0903/'>655 [Sternness]</a>|4738 [PAGE_MISSING]"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_1435
 volume: Volume 3
 image_number: '20'
 head: fever
-entry: "<a href='/digital-beehive/alpha2/alpha_0326/'>a</a>|<a href='/digital-beehive/num9/num_3035/'>2099
+entry: "<a href='/digital-beehive/alpha2/alpha_0326/'>a</a>|<a href='/digital-beehive/num9/num_3036/'>2099
   [Fever]</a>"
 topic:
 first_letter: F

@@ -3,7 +3,7 @@ pid: index_2471
 volume: Volume 3
 image_number: '30'
 head: meekness
-entry: "<a href='/digital-beehive/num6/num_2005/'>1397 [Meekness]</a>"
+entry: "<a href='/digital-beehive/num6/num_2006/'>1397 [Meekness]</a>"
 topic:
 first_letter: M
 page:

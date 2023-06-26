@@ -3,7 +3,7 @@ pid: index_2314
 volume: Volume 3
 image_number: '28'
 head: liver
-entry: "<a href='/digital-beehive/num3/num_0773/'>595 [Liver]</a>"
+entry: "<a href='/digital-beehive/num3/num_0774/'>595 [Liver]</a>"
 topic:
 first_letter: L
 page:

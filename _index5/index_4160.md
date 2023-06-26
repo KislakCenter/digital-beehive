@@ -3,8 +3,8 @@ pid: index_4160
 volume: Volume 3
 image_number: '47'
 head: tithes
-entry: "<a href='/digital-beehive/alpha5/alpha_0963/'>a</a>|<a href='/digital-beehive/num3/num_0701/'>554
-  [Tithes]</a>|<a href='/digital-beehive/num7/num_2502/'>1643 [Tithes]</a>|<a href='/digital-beehive/num10/num_3376/'>2404
+entry: "<a href='/digital-beehive/alpha5/alpha_0963/'>a</a>|<a href='/digital-beehive/num3/num_0702/'>554
+  [Tithes]</a>|<a href='/digital-beehive/num7/num_2503/'>1643 [Tithes]</a>|<a href='/digital-beehive/num10/num_3377/'>2404
   [Tithes]</a>"
 topic:
 first_letter: T

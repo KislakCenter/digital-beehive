@@ -8,14 +8,14 @@ topic: Tailor
 first_letter: T
 page:
 add:
-xref: 861 [Seamster]|604 [To sell]|<a href='/digital-beehive/num7/num_2659/'>1733
-  [Tailor]</a>
+xref: 861 [PAGE_MISSING, Seamster]|<a href='/digital-beehive/num3/num_0798/'>604 [to
+  Sell]</a>|<a href='/digital-beehive/num7/num_2660/'>1733 [Tailor]</a>
 see:
 index: "<a href='/digital-beehive/index5/index_4046/'>tailor</a>"
 item: "#item-5ba038f11"
 unparsed:
-line: 'Entry: Tailor|Topic: Tailor|Xref: 861 [Seamster]|Xref: 604 [To sell]|Xref:
-  1733 [Tailor]|Index: tailor|#item-5ba038f11'
+line: 'Entry: Tailor|Topic: Tailor|Xref: 861 [PAGE_MISSING, Seamster]|Xref: 604 [to
+  Sell]|Xref: 1733 [Tailor]|Index: tailor|#item-5ba038f11'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/334,2009,3118,397/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528917520882

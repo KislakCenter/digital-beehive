@@ -3,7 +3,7 @@ pid: index_4608
 volume: Volume 3
 image_number: '53'
 head: strange words
-entry: "<a href='/digital-beehive/num3/num_0672/'>536 [Rare words]</a>|<a href='/digital-beehive/num7/num_2470/'>1629
+entry: "<a href='/digital-beehive/num3/num_0673/'>536 [Rare words]</a>|<a href='/digital-beehive/num7/num_2471/'>1629
   [Rare words]</a>"
 topic:
 first_letter: W

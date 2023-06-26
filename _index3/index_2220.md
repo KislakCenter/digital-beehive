@@ -3,7 +3,7 @@ pid: index_2220
 volume: Volume 3
 image_number: '27'
 head: Laver
-entry: "<a href='/digital-beehive/num8/num_2800/'>1908 [Laver]</a>"
+entry: "<a href='/digital-beehive/num8/num_2801/'>1908 [Laver]</a>"
 topic:
 first_letter: L
 page:

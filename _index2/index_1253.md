@@ -3,9 +3,9 @@ pid: index_1253
 volume: Volume 3
 image_number: '18'
 head: England
-entry: "<a href='/digital-beehive/alpha2/alpha_0286/'>a</a>|<a href='/digital-beehive/num6/num_1903/'>1347
-  [England]</a>|<a href='/digital-beehive/num6/num_2167/'>1473 [England]</a>|<a href='/digital-beehive/num6/num_2168/'>1473
-  [Englishman]</a>|1840 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1971/'>1381
+entry: "<a href='/digital-beehive/alpha2/alpha_0286/'>a</a>|<a href='/digital-beehive/num6/num_1904/'>1347
+  [England]</a>|<a href='/digital-beehive/num6/num_2168/'>1473 [England]</a>|<a href='/digital-beehive/num6/num_2169/'>1473
+  [Englishman]</a>|1840 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1972/'>1381
   [Great Britain]</a>"
 topic:
 first_letter: E

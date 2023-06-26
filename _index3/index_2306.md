@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '28'
 head: little
 entry: "<a href='/digital-beehive/alpha3/alpha_0545/'>a</a>|767 [PAGE_MISSING]|<a
-  href='/digital-beehive/num7/num_2498/'>1641 [Littleness]</a>"
+  href='/digital-beehive/num7/num_2499/'>1641 [Littleness]</a>"
 topic:
 first_letter: L
 page:

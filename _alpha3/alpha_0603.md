@@ -8,7 +8,7 @@ topic: Mole
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2399/'>1596 [Pore]</a>"
+xref: "<a href='/digital-beehive/num7/num_2400/'>1596 [Pore]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2557/'>mole. talpa</a>"
 item: "#item-b3c0d1325"

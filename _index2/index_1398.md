@@ -3,7 +3,7 @@ pid: index_1398
 volume: Volume 3
 image_number: '20'
 head: fancies
-entry: "<a href='/digital-beehive/num2/num_0339/'>299 [idle fancies]</a>|<a href='/digital-beehive/num10/num_3468/'>4481
+entry: "<a href='/digital-beehive/num2/num_0339/'>299 [idle fancies]</a>|<a href='/digital-beehive/num10/num_3469/'>4481
   [Whimsies]</a>"
 topic:
 first_letter: F

@@ -3,7 +3,7 @@ pid: index_1984
 volume: Volume 3
 image_number: '25'
 head: impudence
-entry: "<a href='/digital-beehive/num2/num_0587/'>471 [Impudence]</a>|<a href='/digital-beehive/num3/num_1057/'>718
+entry: "<a href='/digital-beehive/num2/num_0587/'>471 [Impudence]</a>|<a href='/digital-beehive/num3/num_1058/'>718
   [Shameless]</a>"
 topic:
 first_letter: I/J

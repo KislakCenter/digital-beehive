@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '36'
 head: preaching
 entry: "<a href='/digital-beehive/alpha4/alpha_0730/'>a</a>|<a href='/digital-beehive/num3/num_0644/'>512
-  [Preaching]</a>|<a href='/digital-beehive/num8/num_2892/'>1967 [Preaching]</a>"
+  [Preaching]</a>|<a href='/digital-beehive/num8/num_2893/'>1967 [Preaching]</a>"
 topic:
 first_letter: P
 page:

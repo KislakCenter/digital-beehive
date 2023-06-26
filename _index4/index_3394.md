@@ -3,7 +3,7 @@ pid: index_3394
 volume: Volume 3
 image_number: '39'
 head: restoration
-entry: "<a href='/digital-beehive/num7/num_2526/'>1652 [Restoration]</a>"
+entry: "<a href='/digital-beehive/num7/num_2527/'>1652 [Restoration]</a>"
 topic:
 first_letter: R
 page:

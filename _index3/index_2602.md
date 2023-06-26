@@ -3,7 +3,7 @@ pid: index_2602
 volume: Volume 3
 image_number: '31'
 head: mouldy
-entry: "<a href='/digital-beehive/num3/num_0760/'>587 [mouldy]</a>"
+entry: "<a href='/digital-beehive/num3/num_0761/'>587 [mouldy]</a>"
 topic:
 first_letter: M
 page:

@@ -8,12 +8,13 @@ topic: Parsimony
 first_letter: P
 page:
 add:
-xref: 115 [Expenses]|<a href='/digital-beehive/num5/num_1509/'>1115 [Frugality]</a>
+xref: "<a href='/digital-beehive/num3/num_1051/'>715 [Expenses]</a>|<a href='/digital-beehive/num5/num_1510/'>1115
+  [Frugality]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_2892/'>parsimony</a>"
 item: "#item-c0243529d"
 unparsed:
-line: 'Entry: Parsimony|Topic: Parsimony|Xref: 115 [Expenses]|Xref: 1115 [Frugality]|Index:
+line: 'Entry: Parsimony|Topic: Parsimony|Xref: 715 [Expenses]|Xref: 1115 [Frugality]|Index:
   parsimony|#item-c0243529d'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/770,4396,2953,675/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/full/full/0/default.jpg

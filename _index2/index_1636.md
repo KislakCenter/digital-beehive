@@ -3,7 +3,7 @@ pid: index_1636
 volume: Volume 3
 image_number: '22'
 head: be gone
-entry: "<a href='/digital-beehive/num5/num_1554/'>1142 [Be gone]</a>"
+entry: "<a href='/digital-beehive/num5/num_1555/'>1142 [Be gone]</a>"
 topic:
 first_letter: G
 page:

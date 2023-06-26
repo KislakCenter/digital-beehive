@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0859/'>Self profit</a>|<a href='/digital-beehive/alpha3/alpha_0566/'>Lucre</a>|<a
   href='/digital-beehive/alpha5/alpha_1012/'>Unprofitable</a>|<a href='/digital-beehive/alpha5/alpha_1020/'>Utility</a>|<a
-  href='/digital-beehive/num7/num_2607/'>1692 [Gain]</a>"
+  href='/digital-beehive/num7/num_2608/'>1692 [Gain]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3180/'>profit</a>"
 item: "#item-c82c2327d"

@@ -3,7 +3,7 @@ pid: index_0640
 volume: Volume 3
 image_number: '12'
 head: chirurgeons
-entry: "<a href='/digital-beehive/num4/num_1213/'>917 [Surgery]</a>"
+entry: "<a href='/digital-beehive/num4/num_1214/'>917 [Surgery]</a>"
 topic:
 first_letter: C
 page:

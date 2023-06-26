@@ -3,8 +3,8 @@ pid: index_2226
 volume: Volume 3
 image_number: '28'
 head: lawyer
-entry: "<a href='/digital-beehive/alpha3/alpha_0525/'>a</a>|<a href='/digital-beehive/num3/num_0711/'>559
-  [Lawyer]</a>|<a href='/digital-beehive/num8/num_2701/'>1770 [Lawyers]</a>|1845 [PAGE_MISSING]|4497
+entry: "<a href='/digital-beehive/alpha3/alpha_0525/'>a</a>|<a href='/digital-beehive/num3/num_0712/'>559
+  [Lawyer]</a>|<a href='/digital-beehive/num8/num_2702/'>1770 [Lawyers]</a>|1845 [PAGE_MISSING]|4497
   [PAGE_MISSING]"
 topic:
 first_letter: L

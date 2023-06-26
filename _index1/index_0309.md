@@ -3,8 +3,8 @@ pid: index_0309
 volume: Volume 3
 image_number: '9'
 head: battel
-entry: "<a href='/digital-beehive/num1/num_0253/'>235 [Battel]</a>|<a href='/digital-beehive/num6/num_1767/'>1273
-  [Battel]</a>|<a href='/digital-beehive/num7/num_2575/'>1676 [Battel]</a>|<a href='/digital-beehive/num10/num_3229/'>2271
+entry: "<a href='/digital-beehive/num1/num_0253/'>235 [Battel]</a>|<a href='/digital-beehive/num6/num_1768/'>1273
+  [Battel]</a>|<a href='/digital-beehive/num7/num_2576/'>1676 [Battel]</a>|<a href='/digital-beehive/num10/num_3230/'>2271
   [Battel]</a>"
 topic:
 first_letter: B

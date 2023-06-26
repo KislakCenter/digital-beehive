@@ -3,7 +3,7 @@ pid: index_2186
 volume: Volume 3
 image_number: '27'
 head: ladder
-entry: "<a href='/digital-beehive/num5/num_1646/'>1206 [Ladder]</a>"
+entry: "<a href='/digital-beehive/num5/num_1647/'>1206 [Ladder]</a>"
 topic:
 first_letter: L
 page:

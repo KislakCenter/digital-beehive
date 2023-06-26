@@ -3,7 +3,7 @@ pid: index_4151
 volume: Volume 3
 image_number: '47'
 head: tilt
-entry: "<a href='/digital-beehive/num6/num_1860/'>1325 [Duel]</a>|<a href='/digital-beehive/num6/num_1861/'>1325
+entry: "<a href='/digital-beehive/num6/num_1861/'>1325 [Duel]</a>|<a href='/digital-beehive/num6/num_1862/'>1325
   [a Tournament]</a>"
 topic:
 first_letter: T

@@ -8,7 +8,7 @@ topic: Robbery
 first_letter: R
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1078/'>866 [Stealing]</a>|<a href='/digital-beehive/num2/num_0628/'>499
+xref: "<a href='/digital-beehive/num4/num_1079/'>866 [Stealing]</a>|<a href='/digital-beehive/num2/num_0628/'>499
   [Robbery]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3438/'>robbery</a>"

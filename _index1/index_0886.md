@@ -3,7 +3,7 @@ pid: index_0886
 volume: Volume 3
 image_number: '15'
 head: cousin
-entry: "<a href='/digital-beehive/num7/num_2338/'>1564 [Cousin German]</a>"
+entry: "<a href='/digital-beehive/num7/num_2339/'>1564 [Cousin German]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_3969
 volume: Volume 3
 image_number: '45'
 head: sudden
-entry: "<a href='/digital-beehive/num6/num_2081/'>1430 [Suddenness]</a>"
+entry: "<a href='/digital-beehive/num6/num_2082/'>1430 [Suddenness]</a>"
 topic:
 first_letter: S
 page:

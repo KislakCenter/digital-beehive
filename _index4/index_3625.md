@@ -3,7 +3,7 @@ pid: index_3625
 volume: Volume 3
 image_number: '42'
 head: Self preservation
-entry: "<a href='/digital-beehive/num9/num_3003/'>2069 [Selfpreservation]</a>"
+entry: "<a href='/digital-beehive/num9/num_3004/'>2069 [Selfpreservation]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_3681
 volume: Volume 3
 image_number: '42'
 head: shoe
-entry: "<a href='/digital-beehive/alpha4/alpha_0872/'>a</a>|<a href='/digital-beehive/num6/num_2159/'>1469
+entry: "<a href='/digital-beehive/alpha4/alpha_0872/'>a</a>|<a href='/digital-beehive/num6/num_2160/'>1469
   [Shoe]</a>"
 topic:
 first_letter: S

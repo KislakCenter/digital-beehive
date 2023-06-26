@@ -3,7 +3,7 @@ pid: index_0583
 volume: Volume 3
 image_number: '12'
 head: ceremony
-entry: "<a href='/digital-beehive/alpha1/alpha_0136/'>a</a>|<a href='/digital-beehive/num5/num_1525/'>1125
+entry: "<a href='/digital-beehive/alpha1/alpha_0136/'>a</a>|<a href='/digital-beehive/num5/num_1526/'>1125
   [Ceremonies]</a>"
 topic:
 first_letter: C

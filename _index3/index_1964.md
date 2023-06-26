@@ -3,7 +3,7 @@ pid: index_1964
 volume: Volume 3
 image_number: '25'
 head: impartiality
-entry: "<a href='/digital-beehive/alpha3/alpha_0463/'>a</a>|<a href='/digital-beehive/num6/num_2046/'>1417
+entry: "<a href='/digital-beehive/alpha3/alpha_0463/'>a</a>|<a href='/digital-beehive/num6/num_2047/'>1417
   [Impartial]</a>"
 topic:
 first_letter: I/J

@@ -3,7 +3,7 @@ pid: index_4684
 volume: Volume 3
 image_number: '54'
 head: Syllogism
-entry: "<a href='/digital-beehive/num9/num_2985/'>2051 [Syllogism]</a>"
+entry: "<a href='/digital-beehive/num9/num_2986/'>2051 [Syllogism]</a>"
 topic:
 first_letter: insertion
 page:

@@ -3,7 +3,7 @@ pid: index_2497
 volume: Volume 3
 image_number: '30'
 head: metal
-entry: "<a href='/digital-beehive/alpha3/alpha_0592/'>a</a>|<a href='/digital-beehive/num5/num_1586/'>1164
+entry: "<a href='/digital-beehive/alpha3/alpha_0592/'>a</a>|<a href='/digital-beehive/num5/num_1587/'>1164
   [Metal]</a>"
 topic:
 first_letter: M

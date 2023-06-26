@@ -3,7 +3,7 @@ pid: index_1503
 volume: Volume 3
 image_number: '21'
 head: forever
-entry: "<a href='/digital-beehive/num7/num_2478/'>1632 [Forever]</a>"
+entry: "<a href='/digital-beehive/num7/num_2479/'>1632 [Forever]</a>"
 topic:
 first_letter: F
 page:

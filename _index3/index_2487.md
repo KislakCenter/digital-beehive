@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '30'
 head: merchandize
 entry: "<a href='/digital-beehive/alpha3/alpha_0589/'>a</a>|<a href='/digital-beehive/num1/num_0113/'>109
-  [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1044/'>714 [Market]</a>"
+  [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1045/'>714 [Market]</a>"
 topic:
 first_letter: M
 page:

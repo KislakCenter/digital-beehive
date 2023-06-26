@@ -3,7 +3,7 @@ pid: index_3489
 volume: Volume 3
 image_number: '40'
 head: saffe
-entry: "<a href='/digital-beehive/num8/num_2917/'>1986 [Saffe]</a>"
+entry: "<a href='/digital-beehive/num8/num_2918/'>1986 [Saffe]</a>"
 topic:
 first_letter: S
 page:

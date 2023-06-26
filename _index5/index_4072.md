@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '47'
 head: teachers
 entry: "<a href='/digital-beehive/alpha5/alpha_0944/'>a</a>|<a href='/digital-beehive/num2/num_0479/'>393
-  [Teacher]</a>|<a href='/digital-beehive/num5/num_1378/'>1031 [Teachers]</a>|<a href='/digital-beehive/num7/num_2391/'>1592
-  [Teachers]</a>|<a href='/digital-beehive/num10/num_3402/'>2428 [Teachers]</a>"
+  [Teacher]</a>|<a href='/digital-beehive/num5/num_1379/'>1031 [Teachers]</a>|<a href='/digital-beehive/num7/num_2392/'>1592
+  [Teachers]</a>|<a href='/digital-beehive/num10/num_3403/'>2428 [Teachers]</a>"
 topic:
 first_letter: T
 page:

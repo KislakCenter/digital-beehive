@@ -3,7 +3,7 @@ pid: index_1831
 volume: Volume 3
 image_number: '24'
 head: Hieronymus
-entry: "<a href='/digital-beehive/num7/num_2356/'>1572 [Hieronymus]</a>"
+entry: "<a href='/digital-beehive/num7/num_2357/'>1572 [Hieronymus]</a>"
 topic:
 first_letter: H
 page:

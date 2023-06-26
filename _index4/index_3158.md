@@ -3,8 +3,8 @@ pid: index_3158
 volume: Volume 3
 image_number: '37'
 head: prince
-entry: "<a href='/digital-beehive/alpha4/alpha_0737/'>a</a>|<a href='/digital-beehive/num5/num_1618/'>1186
-  [Prince]</a>|<a href='/digital-beehive/num8/num_2688/'>1758 [Prince]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0737/'>a</a>|<a href='/digital-beehive/num5/num_1619/'>1186
+  [Prince]</a>|<a href='/digital-beehive/num8/num_2689/'>1758 [Prince]</a>"
 topic:
 first_letter: P
 page:

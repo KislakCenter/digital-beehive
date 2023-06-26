@@ -3,7 +3,7 @@ pid: index_0515
 volume: Volume 3
 image_number: '11'
 head: calumny
-entry: "<a href='/digital-beehive/num3/num_0897/'>653 [Slander]</a>|<a href='/digital-beehive/num9/num_2984/'>2050
+entry: "<a href='/digital-beehive/num3/num_0898/'>653 [Slander]</a>|<a href='/digital-beehive/num9/num_2985/'>2050
   [Slander]</a>"
 topic:
 first_letter: C

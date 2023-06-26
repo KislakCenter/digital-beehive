@@ -3,7 +3,7 @@ pid: index_0961
 volume: Volume 3
 image_number: '15'
 head: to speak of dead men
-entry: "<a href='/digital-beehive/num10/num_3252/'>2290 [To speak of them that are
+entry: "<a href='/digital-beehive/num10/num_3253/'>2290 [To speak of them that are
   dead]</a>"
 topic:
 first_letter: D

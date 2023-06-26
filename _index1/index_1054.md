@@ -3,7 +3,7 @@ pid: index_1054
 volume: Volume 3
 image_number: '16'
 head: dimm sighted
-entry: "<a href='/digital-beehive/num9/num_3143/'>2200 [Blindness]</a>"
+entry: "<a href='/digital-beehive/num9/num_3144/'>2200 [Blindness]</a>"
 topic:
 first_letter: D
 page:

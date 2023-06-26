@@ -3,7 +3,7 @@ pid: index_1662
 volume: Volume 3
 image_number: '22'
 head: godliness
-entry: "<a href='/digital-beehive/num7/num_2280/'>1532 [Godliness]</a>"
+entry: "<a href='/digital-beehive/num7/num_2281/'>1532 [Godliness]</a>"
 topic:
 first_letter: G
 page:

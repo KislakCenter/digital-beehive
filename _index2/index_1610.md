@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '22'
 head: gift
 entry: "<a href='/digital-beehive/alpha2/alpha_0363/'>a</a>|<a href='/digital-beehive/num3/num_0636/'>506
-  [Gift]</a>|<a href='/digital-beehive/num6/num_2079/'>1430 [Gift]</a>|<a href='/digital-beehive/num9/num_3160/'>2217
+  [Gift]</a>|<a href='/digital-beehive/num6/num_2080/'>1430 [Gift]</a>|<a href='/digital-beehive/num9/num_3161/'>2217
   [Gift]</a>"
 topic:
 first_letter: G

@@ -3,7 +3,7 @@ pid: index_1834
 volume: Volume 3
 image_number: '24'
 head: high treason
-entry: "<a href='/digital-beehive/num6/num_1851/'>1321 [High treason]</a>"
+entry: "<a href='/digital-beehive/num6/num_1852/'>1321 [High treason]</a>"
 topic:
 first_letter: H
 page:

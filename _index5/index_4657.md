@@ -3,7 +3,7 @@ pid: index_4657
 volume: Volume 3
 image_number: '53'
 head: Zodiack
-entry: "<a href='/digital-beehive/num7/num_2567/'>1672 [Zodiak]</a>"
+entry: "<a href='/digital-beehive/num7/num_2568/'>1672 [Zodiak]</a>"
 topic:
 first_letter: Z
 page:

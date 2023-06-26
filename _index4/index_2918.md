@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '34'
 head: patience
 entry: "<a href='/digital-beehive/alpha4/alpha_0693/'>a</a>|<a href='/digital-beehive/num3/num_0640/'>509
-  [Patience]</a>|<a href='/digital-beehive/num6/num_2087/'>1433 [Patience]</a>|<a
-  href='/digital-beehive/num7/num_2624/'>1701 [Patience]</a>"
+  [Patience]</a>|<a href='/digital-beehive/num6/num_2088/'>1433 [Patience]</a>|<a
+  href='/digital-beehive/num7/num_2625/'>1701 [Patience]</a>"
 topic:
 first_letter: P
 page:

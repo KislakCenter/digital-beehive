@@ -8,7 +8,7 @@ topic: Gratulation
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1982/'>1386 [Gratulation]</a>"
+xref: "<a href='/digital-beehive/num6/num_1983/'>1386 [Gratulation]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1698/'>gratulation</a>"
 item: "#item-e07dea125"

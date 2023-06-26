@@ -3,7 +3,7 @@ pid: index_1534
 volume: Volume 3
 image_number: '21'
 head: freedom
-entry: 769 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1500/'>1108 [Liberty]</a>
+entry: 769 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1501/'>1108 [Liberty]</a>
 topic:
 first_letter: F
 page:

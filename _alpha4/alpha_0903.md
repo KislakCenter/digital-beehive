@@ -8,7 +8,7 @@ topic: Spectacles
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha2/alpha_0364/'>glass</a>|<a href='/digital-beehive/num7/num_2493/'>1639
+xref: "<a href='/digital-beehive/alpha2/alpha_0364/'>glass</a>|<a href='/digital-beehive/num7/num_2494/'>1639
   [Spectacles]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3826/'>spectacles</a>"

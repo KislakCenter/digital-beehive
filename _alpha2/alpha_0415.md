@@ -8,12 +8,12 @@ topic: Hen
 first_letter: H
 page:
 add:
-xref: 723 [Cock]|791 [PAGE_MISSING]
+xref: "<a href='/digital-beehive/num3/num_1071/'>723 [a Cock]</a>|791 [PAGE_MISSING]"
 see:
 index: "<a href='/digital-beehive/index2/index_1801/'>hen</a>"
 item: "#item-4f384ce52"
 unparsed:
-line: 'Entry: Hen|Topic: Hen|Xref: 723 [Cock]|Xref: 791 [PAGE_MISSING]|Index: hen|#item-4f384ce52'
+line: 'Entry: Hen|Topic: Hen|Xref: 723 [a Cock]|Xref: 791 [PAGE_MISSING]|Index: hen|#item-4f384ce52'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/800,1401,2974,200/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508962728284

@@ -3,7 +3,7 @@ pid: index_4359
 volume: Volume 3
 image_number: '50'
 head: unbelief
-entry: "<a href='/digital-beehive/alpha5/alpha_1005/'>a</a>|<a href='/digital-beehive/num9/num_3004/'>2070
+entry: "<a href='/digital-beehive/alpha5/alpha_1005/'>a</a>|<a href='/digital-beehive/num9/num_3005/'>2070
   [Unbelief]</a>"
 topic:
 first_letter: U/V

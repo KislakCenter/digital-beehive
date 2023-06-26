@@ -3,7 +3,7 @@ pid: index_0485
 volume: Volume 3
 image_number: '11'
 head: burnt offering
-entry: "<a href='/digital-beehive/num8/num_2826/'>1920 [Burnt offering]</a>"
+entry: "<a href='/digital-beehive/num8/num_2827/'>1920 [Burnt offering]</a>"
 topic:
 first_letter: B
 page:

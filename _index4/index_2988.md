@@ -3,7 +3,7 @@ pid: index_2988
 volume: Volume 3
 image_number: '35'
 head: phlegm
-entry: "<a href='/digital-beehive/num10/num_3215/'>2262 [Phlegm or Flegm]</a>"
+entry: "<a href='/digital-beehive/num10/num_3216/'>2262 [Phlegm or Flegm]</a>"
 topic:
 first_letter: P
 page:

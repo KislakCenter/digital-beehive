@@ -3,7 +3,7 @@ pid: index_2416
 volume: Volume 3
 image_number: '29'
 head: man[n]a
-entry: "<a href='/digital-beehive/num5/num_1482/'>1095 [Manna]</a>"
+entry: "<a href='/digital-beehive/num5/num_1483/'>1095 [Manna]</a>"
 topic:
 first_letter: M
 page:

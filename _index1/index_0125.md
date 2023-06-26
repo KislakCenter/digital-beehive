@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '8'
 head: amending
 entry: "<a href='/digital-beehive/alpha1/alpha_0025/'>a</a>|<a href='/digital-beehive/num2/num_0579/'>464
-  [Amending]</a>|<a href='/digital-beehive/num10/num_3381/'>2408 [Amendment]</a>"
+  [Amending]</a>|<a href='/digital-beehive/num10/num_3382/'>2408 [Amendment]</a>"
 topic:
 first_letter: A
 page:

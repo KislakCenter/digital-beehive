@@ -3,8 +3,8 @@ pid: index_1063
 volume: Volume 3
 image_number: '16'
 head: discerning
-entry: "<a href='/digital-beehive/num2/num_0434/'>365 [Discern]</a>|<a href='/digital-beehive/num4/num_1319/'>989
-  [Spiritual Discerning]</a>|<a href='/digital-beehive/num10/num_3341/'>2369 [Spiritual
+entry: "<a href='/digital-beehive/num2/num_0434/'>365 [Discern]</a>|<a href='/digital-beehive/num4/num_1320/'>989
+  [Spiritual Discerning]</a>|<a href='/digital-beehive/num10/num_3342/'>2369 [Spiritual
   Discerning]</a>"
 topic:
 first_letter: D

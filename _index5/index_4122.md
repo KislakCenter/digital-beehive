@@ -3,7 +3,7 @@ pid: index_4122
 volume: Volume 3
 image_number: '47'
 head: Thomas
-entry: "<a href='/digital-beehive/num8/num_2714/'>1782 [Thomas]</a>"
+entry: "<a href='/digital-beehive/num8/num_2715/'>1782 [Thomas]</a>"
 topic:
 first_letter: T
 page:

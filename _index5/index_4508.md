@@ -3,7 +3,7 @@ pid: index_4508
 volume: Volume 3
 image_number: '52'
 head: wedding
-entry: "<a href='/digital-beehive/num5/num_1649/'>1208 [Wedding]</a>"
+entry: "<a href='/digital-beehive/num5/num_1650/'>1208 [Wedding]</a>"
 topic:
 first_letter: W
 page:

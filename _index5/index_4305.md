@@ -3,7 +3,7 @@ pid: index_4305
 volume: Volume 3
 image_number: '49'
 head: vendue
-entry: "<a href='/digital-beehive/num6/num_2067/'>1425 [Vendue]</a>"
+entry: "<a href='/digital-beehive/num6/num_2068/'>1425 [Vendue]</a>"
 topic:
 first_letter: U/V
 page:

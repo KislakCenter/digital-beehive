@@ -3,7 +3,7 @@ pid: index_4279
 volume: Volume 3
 image_number: '49'
 head: two masters
-entry: "<a href='/digital-beehive/num10/num_3360/'>2388 [Two Masters]</a>"
+entry: "<a href='/digital-beehive/num10/num_3361/'>2388 [Two Masters]</a>"
 topic:
 first_letter: T
 page:

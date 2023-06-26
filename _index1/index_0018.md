@@ -3,8 +3,8 @@ pid: index_0018
 volume: Volume 3
 image_number: '7'
 head: absurdity
-entry: "<a href='/digital-beehive/alpha1/alpha_0002/'>a</a>|<a href='/digital-beehive/num4/num_1217/'>919
-  [Absurd]</a>|<a href='/digital-beehive/num9/num_3148/'>2205 [Absurd]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0002/'>a</a>|<a href='/digital-beehive/num4/num_1218/'>919
+  [Absurd]</a>|<a href='/digital-beehive/num9/num_3149/'>2205 [Absurd]</a>"
 topic:
 first_letter: A
 page:

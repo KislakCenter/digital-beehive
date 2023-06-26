@@ -3,7 +3,7 @@ pid: index_4482
 volume: Volume 3
 image_number: '52'
 head: washing
-entry: "<a href='/digital-beehive/alpha5/alpha_1027/'>a</a>|<a href='/digital-beehive/num5/num_1427/'>1061
+entry: "<a href='/digital-beehive/alpha5/alpha_1027/'>a</a>|<a href='/digital-beehive/num5/num_1428/'>1061
   [Washing]</a>"
 topic:
 first_letter: W

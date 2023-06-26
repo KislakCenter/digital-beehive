@@ -3,7 +3,7 @@ pid: index_1892
 volume: Volume 3
 image_number: '24'
 head: house of correction
-entry: "<a href='/digital-beehive/num6/num_1777/'>1279 [Bridewell]</a>"
+entry: "<a href='/digital-beehive/num6/num_1778/'>1279 [Bridewell]</a>"
 topic:
 first_letter: H
 page:

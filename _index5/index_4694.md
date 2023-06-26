@@ -3,7 +3,7 @@ pid: index_4694
 volume: Volume 3
 image_number: '54'
 head: gnashing of t.
-entry: "<a href='/digital-beehive/num9/num_3154/'>2211 [Gnashing the teeth]</a>"
+entry: "<a href='/digital-beehive/num9/num_3155/'>2211 [Gnashing the teeth]</a>"
 topic:
 first_letter: insertion
 page:

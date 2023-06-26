@@ -3,8 +3,8 @@ pid: index_2930
 volume: Volume 3
 image_number: '34'
 head: peace
-entry: "<a href='/digital-beehive/alpha4/alpha_0696/'>a</a>|<a href='/digital-beehive/num4/num_1308/'>980
-  [Peace]</a>|<a href='/digital-beehive/num8/num_2891/'>1966 [Peace]</a>|<a href='/digital-beehive/num10/num_3202/'>2254
+entry: "<a href='/digital-beehive/alpha4/alpha_0696/'>a</a>|<a href='/digital-beehive/num4/num_1309/'>980
+  [Peace]</a>|<a href='/digital-beehive/num8/num_2892/'>1966 [Peace]</a>|<a href='/digital-beehive/num10/num_3203/'>2254
   [Peace]</a>"
 topic:
 first_letter: P

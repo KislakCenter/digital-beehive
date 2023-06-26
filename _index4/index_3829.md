@@ -3,7 +3,7 @@ pid: index_3829
 volume: Volume 3
 image_number: '44'
 head: speculative
-entry: "<a href='/digital-beehive/num7/num_2557/'>1667 [Speculation]</a>"
+entry: "<a href='/digital-beehive/num7/num_2558/'>1667 [Speculation]</a>"
 topic:
 first_letter: S
 page:

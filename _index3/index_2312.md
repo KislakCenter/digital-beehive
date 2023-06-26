@@ -3,7 +3,7 @@ pid: index_2312
 volume: Volume 3
 image_number: '28'
 head: livelyhood
-entry: "<a href='/digital-beehive/alpha3/alpha_0546/'>a</a>|<a href='/digital-beehive/num7/num_2484/'>1635
+entry: "<a href='/digital-beehive/alpha3/alpha_0546/'>a</a>|<a href='/digital-beehive/num7/num_2485/'>1635
   [Livelyhood]</a>"
 topic:
 first_letter: L

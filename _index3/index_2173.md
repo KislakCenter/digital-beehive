@@ -3,7 +3,7 @@ pid: index_2173
 volume: Volume 3
 image_number: '27'
 head: knight errant
-entry: "<a href='/digital-beehive/num7/num_2388/'>1591 [A Knight Errant]</a>"
+entry: "<a href='/digital-beehive/num7/num_2389/'>1591 [A Knight Errant]</a>"
 topic:
 first_letter: K
 page:

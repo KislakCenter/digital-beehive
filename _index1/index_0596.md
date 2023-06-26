@@ -3,7 +3,7 @@ pid: index_0596
 volume: Volume 3
 image_number: '12'
 head: changelings
-entry: "<a href='/digital-beehive/num8/num_2909/'>1979 [Changelings]</a>"
+entry: "<a href='/digital-beehive/num8/num_2910/'>1979 [Changelings]</a>"
 topic:
 first_letter: C
 page:

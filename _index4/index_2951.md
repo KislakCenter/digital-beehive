@@ -3,7 +3,7 @@ pid: index_2951
 volume: Volume 3
 image_number: '35'
 head: pepper
-entry: "<a href='/digital-beehive/num9/num_3060/'>2121 [Pepper]</a>"
+entry: "<a href='/digital-beehive/num9/num_3061/'>2121 [Pepper]</a>"
 topic:
 first_letter: P
 page:

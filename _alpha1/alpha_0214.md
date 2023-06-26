@@ -16,12 +16,12 @@ item: "#item-0f8d9dba5"
 unparsed:
 line: 'Entry: Death, continued|Topic: Death, continued|Xref: Death|Xref: 507 [Death
   passed upon all men]|Index: death|#item-0f8d9dba5'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/721,201,3104,726/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/719,199,3106,728/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1573245086403
-sort_value: '144810201'
+sort_value: '144810199'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/721,201,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/719,199,600,180/250,/0/default.jpg
 label: Death, continued
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 issue:

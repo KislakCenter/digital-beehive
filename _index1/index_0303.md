@@ -3,7 +3,7 @@ pid: index_0303
 volume: Volume 3
 image_number: '9'
 head: basilisk
-entry: "<a href='/digital-beehive/num6/num_1918/'>1353 [a Basilisk or Cockatrice]</a>"
+entry: "<a href='/digital-beehive/num6/num_1919/'>1353 [a Basilisk or Cockatrice]</a>"
 topic:
 first_letter: B
 page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"

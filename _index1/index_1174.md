@@ -3,7 +3,7 @@ pid: index_1174
 volume: Volume 3
 image_number: '18'
 head: duty towards God, parents
-entry: "<a href='/digital-beehive/num6/num_2099/'>1439 [Duty towards God : Parents
+entry: "<a href='/digital-beehive/num6/num_2100/'>1439 [Duty towards God : Parents
   : Superiours, Equals & Inferiours]</a>"
 topic:
 first_letter: D

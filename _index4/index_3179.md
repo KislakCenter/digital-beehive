@@ -3,7 +3,7 @@ pid: index_3179
 volume: Volume 3
 image_number: '37'
 head: proffer
-entry: "<a href='/digital-beehive/num6/num_2035/'>1411 [Profferd kindness]</a>"
+entry: "<a href='/digital-beehive/num6/num_2036/'>1411 [Profferd kindness]</a>"
 topic:
 first_letter: P
 page:

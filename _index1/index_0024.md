@@ -3,7 +3,7 @@ pid: index_0024
 volume: Volume 3
 image_number: '7'
 head: accessary
-entry: "<a href='/digital-beehive/num6/num_1977/'>1384 [Alliance]</a>|<a href='/digital-beehive/num6/num_1978/'>1384
+entry: "<a href='/digital-beehive/num6/num_1978/'>1384 [Alliance]</a>|<a href='/digital-beehive/num6/num_1979/'>1384
   [Assistant]</a>"
 topic:
 first_letter: A

@@ -3,7 +3,7 @@ pid: index_3840
 volume: Volume 3
 image_number: '44'
 head: Turkish Spie
-entry: "<a href='/digital-beehive/num6/num_1840/'>1317 [Mamut]</a>"
+entry: "<a href='/digital-beehive/num6/num_1841/'>1317 [Mamut]</a>"
 topic:
 first_letter: S
 page:

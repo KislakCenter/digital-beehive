@@ -3,7 +3,7 @@ pid: index_1746
 volume: Volume 3
 image_number: '23'
 head: handsomness
-entry: "<a href='/digital-beehive/num3/num_0843/'>624 [Handsomlyness]</a>"
+entry: "<a href='/digital-beehive/num3/num_0844/'>624 [Handsomlyness]</a>"
 topic:
 first_letter: H
 page:

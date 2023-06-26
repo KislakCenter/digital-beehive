@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0499/'>Justice</a>|<a href='/digital-beehive/num1/num_0005/'>5
   [Wrong]</a>|<a href='/digital-beehive/num1/num_0006/'>6 [Unjust Substance]</a>|<a
-  href='/digital-beehive/num5/num_1685/'>1227 [Injustice]</a>"
+  href='/digital-beehive/num5/num_1686/'>1227 [Injustice]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2048/'>injustice</a>"
 item: "#item-fb210324c"

@@ -3,7 +3,7 @@ pid: index_3584
 volume: Volume 3
 image_number: '41'
 head: secret parts
-entry: "<a href='/digital-beehive/num2/num_0570/'>458 [Privy parts]</a>|<a href='/digital-beehive/num9/num_3135/'>2192
+entry: "<a href='/digital-beehive/num2/num_0570/'>458 [Privy parts]</a>|<a href='/digital-beehive/num9/num_3136/'>2192
   [Privy parts]</a>"
 topic:
 first_letter: S

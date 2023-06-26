@@ -3,7 +3,7 @@ pid: index_3106
 volume: Volume 3
 image_number: '36'
 head: praise of men
-entry: "<a href='/digital-beehive/alpha5/num_1505/'>a</a>|<a href='/digital-beehive/num5/num_1505/'>1112
+entry: "<a href='/digital-beehive/alpha5/num_1506/'>a</a>|<a href='/digital-beehive/num5/num_1506/'>1112
   [Praise of God or Men]</a>|1871 [PAGE_MISSING]"
 topic:
 first_letter: P

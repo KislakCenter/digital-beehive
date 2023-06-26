@@ -9,7 +9,7 @@ first_letter: G
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Crime</a>|<a href='/digital-beehive/alpha2/alpha_0321/'>fault</a>|<a
-  href='/digital-beehive/num7/num_2451/'>1620 [Guilt]</a>|<a href='/digital-beehive/num2/num_0583/'>468
+  href='/digital-beehive/num7/num_2452/'>1620 [Guilt]</a>|<a href='/digital-beehive/num2/num_0583/'>468
   [Self-guilty]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1729/'>guilt</a>"

@@ -3,7 +3,7 @@ pid: index_1668
 volume: Volume 3
 image_number: '22'
 head: good. g√ºltig
-entry: "<a href='/digital-beehive/num5/num_1410/'>1052 [Good]</a>"
+entry: "<a href='/digital-beehive/num5/num_1411/'>1052 [Good]</a>"
 topic:
 first_letter: G
 page:

@@ -3,7 +3,7 @@ pid: index_3502
 volume: Volume 3
 image_number: '40'
 head: salique Law
-entry: "<a href='/digital-beehive/num7/num_2663/'>1737 [Womans Imperiousness]</a>"
+entry: "<a href='/digital-beehive/num7/num_2664/'>1737 [Womans Imperiousness]</a>"
 topic:
 first_letter: S
 page:

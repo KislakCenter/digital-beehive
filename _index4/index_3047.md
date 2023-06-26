@@ -3,7 +3,7 @@ pid: index_3047
 volume: Volume 3
 image_number: '36'
 head: plough
-entry: "<a href='/digital-beehive/num5/num_1534/'>1130 [Agriculture]</a>"
+entry: "<a href='/digital-beehive/num5/num_1535/'>1130 [Agriculture]</a>"
 topic:
 first_letter: P
 page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"

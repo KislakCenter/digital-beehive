@@ -3,7 +3,7 @@ pid: index_4555
 volume: Volume 3
 image_number: '52'
 head: King William
-entry: "<a href='/digital-beehive/num8/num_2712/'>1781 [King William]</a>"
+entry: "<a href='/digital-beehive/num8/num_2713/'>1781 [King William]</a>"
 topic:
 first_letter: W
 page:

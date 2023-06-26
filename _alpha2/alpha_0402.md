@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0973/'>Too Soon</a>|<a href='/digital-beehive/alpha5/alpha_0967/'>too
   hasty</a>|<a href='/digital-beehive/alpha4/alpha_0899/'>Soon</a>|<a href='/digital-beehive/num1/num_0183/'>175
-  [Dispatch]</a>|<a href='/digital-beehive/num4/num_1136/'>886 [Haste]</a>"
+  [Dispatch]</a>|<a href='/digital-beehive/num4/num_1137/'>886 [Haste]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1764/'>haste</a>"
 item: "#item-b472fa4fe"

@@ -8,7 +8,7 @@ topic: White
 first_letter: B
 page:
 add:
-xref: "<a href='/digital-beehive/num8/num_2875/'>1951 [White]</a>"
+xref: "<a href='/digital-beehive/num8/num_2876/'>1951 [White]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4538/'>white</a>"
 item: "#item-5aabdb3c1"

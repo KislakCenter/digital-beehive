@@ -8,7 +8,7 @@ topic: Sweat
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2677/'>1748 [Sweat]</a>"
+xref: "<a href='/digital-beehive/num7/num_2678/'>1748 [Sweat]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_4018/'>sweat</a>"
 item: "#item-ef4c8749e"

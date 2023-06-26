@@ -3,7 +3,7 @@ pid: index_4022
 volume: Volume 3
 image_number: '46'
 head: swelling
-entry: "<a href='/digital-beehive/num4/num_1211/'>916 [Swelling]</a>"
+entry: "<a href='/digital-beehive/num4/num_1212/'>916 [Swelling]</a>"
 topic:
 first_letter: S
 page:

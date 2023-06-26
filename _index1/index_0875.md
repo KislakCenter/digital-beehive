@@ -3,7 +3,7 @@ pid: index_0875
 volume: Volume 3
 image_number: '15'
 head: Counter-witchcraft
-entry: "<a href='/digital-beehive/num9/num_3158/'>2215 [Counter mining of Witchcraft]</a>"
+entry: "<a href='/digital-beehive/num9/num_3159/'>2215 [Counter mining of Witchcraft]</a>"
 topic:
 first_letter: C
 page:

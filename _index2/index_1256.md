@@ -3,7 +3,7 @@ pid: index_1256
 volume: Volume 3
 image_number: '18'
 head: English histories
-entry: "<a href='/digital-beehive/num7/num_2217/'>1503 [Histories of England, Scotland,
+entry: "<a href='/digital-beehive/num7/num_2218/'>1503 [Histories of England, Scotland,
   &c.]</a>"
 topic:
 first_letter: E

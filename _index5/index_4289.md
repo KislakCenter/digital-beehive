@@ -3,7 +3,7 @@ pid: index_4289
 volume: Volume 3
 image_number: '49'
 head: vain man
-entry: "<a href='/digital-beehive/num6/num_1805/'>1293 [Vain Man]</a>"
+entry: "<a href='/digital-beehive/num6/num_1806/'>1293 [Vain Man]</a>"
 topic:
 first_letter: U/V
 page:

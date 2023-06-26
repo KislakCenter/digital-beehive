@@ -3,7 +3,7 @@ pid: index_3862
 volume: Volume 3
 image_number: '44'
 head: spoon
-entry: "<a href='/digital-beehive/num8/num_2752/'>1819 [Spoon]</a>"
+entry: "<a href='/digital-beehive/num8/num_2753/'>1819 [Spoon]</a>"
 topic:
 first_letter: S
 page:

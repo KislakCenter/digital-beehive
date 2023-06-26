@@ -3,7 +3,7 @@ pid: index_1545
 volume: Volume 3
 image_number: '21'
 head: friend union
-entry: "<a href='/digital-beehive/num6/num_1815/'>1300 [Union of Friends]</a>"
+entry: "<a href='/digital-beehive/num6/num_1816/'>1300 [Union of Friends]</a>"
 topic:
 first_letter: F
 page:

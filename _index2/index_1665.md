@@ -3,7 +3,7 @@ pid: index_1665
 volume: Volume 3
 image_number: '22'
 head: golds worth
-entry: "<a href='/digital-beehive/num7/num_2275/'>1530 [Gold's worth]</a>"
+entry: "<a href='/digital-beehive/num7/num_2276/'>1530 [Gold's worth]</a>"
 topic:
 first_letter: G
 page:

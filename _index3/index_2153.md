@@ -3,7 +3,7 @@ pid: index_2153
 volume: Volume 3
 image_number: '27'
 head: kibes
-entry: "<a href='/digital-beehive/num5/num_1714/'>1241 [Chilblain]</a>"
+entry: "<a href='/digital-beehive/num5/num_1715/'>1241 [Chilblain]</a>"
 topic:
 first_letter: K
 page:

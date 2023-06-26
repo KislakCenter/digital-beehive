@@ -8,8 +8,8 @@ topic: Spiritual
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num4/num_1318/'>989 [Spiritual Iniquities]</a>|<a
-  href='/digital-beehive/num4/num_1319/'>989 [Spiritual Discerning]</a>"
+xref: "<a href='/digital-beehive/num4/num_1319/'>989 [Spiritual Iniquities]</a>|<a
+  href='/digital-beehive/num4/num_1320/'>989 [Spiritual Discerning]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3848/'>spiritual</a>"
 item: "#item-2a449c272"

@@ -3,7 +3,7 @@ pid: index_0791
 volume: Volume 3
 image_number: '14'
 head: to confront
-entry: "<a href='/digital-beehive/num6/num_2073/'>1427 [To Confront]</a>"
+entry: "<a href='/digital-beehive/num6/num_2074/'>1427 [To Confront]</a>"
 topic:
 first_letter: C
 page:

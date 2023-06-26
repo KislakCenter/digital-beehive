@@ -3,7 +3,7 @@ pid: index_1505
 volume: Volume 3
 image_number: '21'
 head: to foresee
-entry: "<a href='/digital-beehive/num5/num_1702/'>1235 [Fore-seeing]</a>|<a href='/digital-beehive/num10/num_3318/'>2348
+entry: "<a href='/digital-beehive/num5/num_1703/'>1235 [Fore-seeing]</a>|<a href='/digital-beehive/num10/num_3319/'>2348
   [Foresee]</a>"
 topic:
 first_letter: F

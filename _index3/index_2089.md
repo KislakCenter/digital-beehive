@@ -3,7 +3,7 @@ pid: index_2089
 volume: Volume 3
 image_number: '26'
 head: invalid
-entry: "<a href='/digital-beehive/num8/num_2720/'>1788 [Invalidity]</a>"
+entry: "<a href='/digital-beehive/num8/num_2721/'>1788 [Invalidity]</a>"
 topic:
 first_letter: I/J
 page:

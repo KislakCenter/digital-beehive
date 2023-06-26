@@ -3,7 +3,7 @@ pid: index_1972
 volume: Volume 3
 image_number: '25'
 head: imploymt
-entry: "<a href='/digital-beehive/num5/num_1697/'>1232 [Imploymt]</a>"
+entry: "<a href='/digital-beehive/num5/num_1698/'>1232 [Imploymt]</a>"
 topic:
 first_letter: I/J
 page:

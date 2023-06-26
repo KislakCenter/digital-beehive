@@ -3,7 +3,7 @@ pid: index_0288
 volume: Volume 3
 image_number: '9'
 head: banter
-entry: "<a href='/digital-beehive/num9/num_2956/'>2022 [Banter]</a>"
+entry: "<a href='/digital-beehive/num9/num_2957/'>2022 [Banter]</a>"
 topic:
 first_letter: B
 page:

@@ -9,7 +9,7 @@ first_letter: I/J
 page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0293/'>Equity</a>|<a href='/digital-beehive/alpha3/alpha_0479/'>Injust</a>|<a
-  href='/digital-beehive/num6/num_1940/'>1366 [Justice]</a>"
+  href='/digital-beehive/num6/num_1941/'>1366 [Justice]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2142/'>justice</a>"
 item: "#item-b2e356724"

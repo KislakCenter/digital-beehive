@@ -3,7 +3,7 @@ pid: index_4538
 volume: Volume 3
 image_number: '52'
 head: white
-entry: "<a href='/digital-beehive/alpha1/alpha_0084/'>a</a>|<a href='/digital-beehive/num8/num_2875/'>1951
+entry: "<a href='/digital-beehive/alpha1/alpha_0084/'>a</a>|<a href='/digital-beehive/num8/num_2876/'>1951
   [White]</a>"
 topic:
 first_letter: W

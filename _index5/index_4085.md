@@ -3,8 +3,8 @@ pid: index_4085
 volume: Volume 3
 image_number: '47'
 head: temptation
-entry: "<a href='/digital-beehive/num3/num_0658/'>525 [Temptation]</a>|<a href='/digital-beehive/num6/num_2092/'>1435
-  [Temptation]</a>|<a href='/digital-beehive/num10/num_3243/'>2283 [Temptation]</a>"
+entry: "<a href='/digital-beehive/num3/num_0658/'>525 [Temptation]</a>|<a href='/digital-beehive/num6/num_2093/'>1435
+  [Temptation]</a>|<a href='/digital-beehive/num10/num_3244/'>2283 [Temptation]</a>"
 topic:
 first_letter: T
 page:

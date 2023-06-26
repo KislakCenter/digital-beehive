@@ -9,7 +9,7 @@ first_letter: D
 page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0788/'>Refusal</a>|<a href='/digital-beehive/alpha4/alpha_0853/'>Selfdenial</a>|<a
-  href='/digital-beehive/num6/num_2172/'>1475 [Denial]</a>"
+  href='/digital-beehive/num6/num_2173/'>1475 [Denial]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_1009/'>denial</a>"
 item: "#item-7347a1409"

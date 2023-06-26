@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '15'
 head: covetousness
 entry: "<a href='/digital-beehive/alpha1/alpha_0183/'>a</a>|<a href='/digital-beehive/num1/num_0199/'>190
-  [Covetousness]</a>|848 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1663/'>1216
-  [Covetous]</a>|<a href='/digital-beehive/num8/num_2756/'>1823 [Covetousness]</a>"
+  [Covetousness]</a>|848 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1664/'>1216
+  [Covetous]</a>|<a href='/digital-beehive/num8/num_2757/'>1823 [Covetousness]</a>"
 topic:
 first_letter: C
 page:

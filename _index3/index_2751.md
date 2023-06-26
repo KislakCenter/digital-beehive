@@ -3,7 +3,7 @@ pid: index_2751
 volume: Volume 3
 image_number: '33'
 head: nymph[ae]
-entry: "<a href='/digital-beehive/num9/num_3058/'>2120 [Nymph[ae]]</a>"
+entry: "<a href='/digital-beehive/num9/num_3059/'>2120 [Nymph[ae]]</a>"
 topic:
 first_letter: N
 page:

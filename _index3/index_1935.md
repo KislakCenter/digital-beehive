@@ -3,7 +3,7 @@ pid: index_1935
 volume: Volume 3
 image_number: '25'
 head: Jersey
-entry: "<a href='/digital-beehive/num3/num_0883/'>647 [West-Jarsey]</a>|<a href='/digital-beehive/num7/num_2256/'>1522
+entry: "<a href='/digital-beehive/num3/num_0884/'>647 [West-Jarsey]</a>|<a href='/digital-beehive/num7/num_2257/'>1522
   [New Jersey]</a>"
 topic:
 first_letter: I/J

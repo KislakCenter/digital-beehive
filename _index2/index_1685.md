@@ -3,7 +3,7 @@ pid: index_1685
 volume: Volume 3
 image_number: '22'
 head: gradually
-entry: "<a href='/digital-beehive/num4/num_1140/'>887 [Successively]</a>"
+entry: "<a href='/digital-beehive/num4/num_1141/'>887 [Successively]</a>"
 topic:
 first_letter: G
 page:

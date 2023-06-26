@@ -3,7 +3,7 @@ pid: index_2864
 volume: Volume 3
 image_number: '34'
 head: palsie
-entry: "<a href='/digital-beehive/num3/num_0776/'>596 [The Palsie]</a>"
+entry: "<a href='/digital-beehive/num3/num_0777/'>596 [The Palsie]</a>"
 topic:
 first_letter: P
 page:

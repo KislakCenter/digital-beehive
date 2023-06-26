@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '42'
 head: Self dam[m]age
 entry: "<a href='/digital-beehive/num1/num_0060/'>59 [Self-hurt or dam[m]age]</a>|862
-  [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2335/'>1562 [Self damage]</a>|4774
+  [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2336/'>1562 [Self damage]</a>|4774
   [PAGE_MISSING]"
 topic:
 first_letter: S

@@ -3,7 +3,7 @@ pid: index_0690
 volume: Volume 3
 image_number: '13'
 head: clemency
-entry: "<a href='/digital-beehive/num5/num_1514/'>1120 [Clemency]</a>"
+entry: "<a href='/digital-beehive/num5/num_1515/'>1120 [Clemency]</a>"
 topic:
 first_letter: C
 page:

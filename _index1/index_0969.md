@@ -3,7 +3,7 @@ pid: index_0969
 volume: Volume 3
 image_number: '15'
 head: death of bad men
-entry: "<a href='/digital-beehive/num5/num_1725/'>1247 [Death of bad men]</a>"
+entry: "<a href='/digital-beehive/num5/num_1726/'>1247 [Death of bad men]</a>"
 topic:
 first_letter: D
 page:

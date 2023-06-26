@@ -3,7 +3,7 @@ pid: index_2978
 volume: Volume 3
 image_number: '35'
 head: pewter
-entry: "<a href='/digital-beehive/num7/num_2521/'>1650 [Pewter]</a>"
+entry: "<a href='/digital-beehive/num7/num_2522/'>1650 [Pewter]</a>"
 topic:
 first_letter: P
 page:

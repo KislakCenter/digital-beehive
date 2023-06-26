@@ -3,7 +3,7 @@ pid: index_1277
 volume: Volume 3
 image_number: '19'
 head: Epictetus
-entry: "<a href='/digital-beehive/num5/num_1415/'>1054 [Epictetus]</a>"
+entry: "<a href='/digital-beehive/num5/num_1416/'>1054 [Epictetus]</a>"
 topic:
 first_letter: E
 page:

@@ -3,7 +3,7 @@ pid: index_2950
 volume: Volume 3
 image_number: '35'
 head: pentecost
-entry: "<a href='/digital-beehive/num4/num_1152/'>891 [Pentecost]</a>"
+entry: "<a href='/digital-beehive/num4/num_1153/'>891 [Pentecost]</a>"
 topic:
 first_letter: P
 page:

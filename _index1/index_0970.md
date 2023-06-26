@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '15'
 head: fear of Death
 entry: "<a href='/digital-beehive/alpha1/alpha_0215/'>a</a>|<a href='/digital-beehive/num2/num_0526/'>424
-  [Fear of death]</a>|<a href='/digital-beehive/num5/num_1605/'>1177 [Fear of Death]</a>|<a
-  href='/digital-beehive/num5/num_1700/'>1234 [Fear & Contempt of Death]</a>|4605
+  [Fear of death]</a>|<a href='/digital-beehive/num5/num_1606/'>1177 [Fear of Death]</a>|<a
+  href='/digital-beehive/num5/num_1701/'>1234 [Fear & Contempt of Death]</a>|4605
   [[PAGE_MISSING]]"
 topic:
 first_letter: D

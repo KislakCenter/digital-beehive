@@ -3,7 +3,7 @@ pid: index_0639
 volume: Volume 3
 image_number: '12'
 head: chiromancy
-entry: "<a href='/digital-beehive/num7/num_2276/'>1531 [Chiromancy]</a>"
+entry: "<a href='/digital-beehive/num7/num_2277/'>1531 [Chiromancy]</a>"
 topic:
 first_letter: C
 page:

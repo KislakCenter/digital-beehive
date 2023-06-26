@@ -3,8 +3,8 @@ pid: index_2564
 volume: Volume 3
 image_number: '31'
 head: money
-entry: "<a href='/digital-beehive/alpha3/alpha_0605/'>a</a>|<a href='/digital-beehive/num5/num_1728/'>1249
-  [Money]</a>|<a href='/digital-beehive/num8/num_2932/'>1999 [Money]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0605/'>a</a>|<a href='/digital-beehive/num5/num_1729/'>1249
+  [Money]</a>|<a href='/digital-beehive/num8/num_2933/'>1999 [Money]</a>"
 topic:
 first_letter: M
 page: "<a href='/digital-beehive/toc/toc1_081/'>p.31 [Image 1.91]</a>"

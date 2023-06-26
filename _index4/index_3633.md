@@ -3,7 +3,7 @@ pid: index_3633
 volume: Volume 3
 image_number: '42'
 head: to send
-entry: "<a href='/digital-beehive/num3/num_0972/'>685 [To Send away]</a>"
+entry: "<a href='/digital-beehive/num3/num_0973/'>685 [To Send away]</a>"
 topic:
 first_letter: S
 page:

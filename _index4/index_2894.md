@@ -3,7 +3,7 @@ pid: index_2894
 volume: Volume 3
 image_number: '34'
 head: parsnip
-entry: "<a href='/digital-beehive/num3/num_0983/'>689 [Parsnip]</a>"
+entry: "<a href='/digital-beehive/num3/num_0984/'>689 [Parsnip]</a>"
 topic:
 first_letter: P
 page:

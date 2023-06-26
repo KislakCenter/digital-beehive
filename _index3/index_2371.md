@@ -3,7 +3,7 @@ pid: index_2371
 volume: Volume 3
 image_number: '29'
 head: luxation
-entry: "<a href='/digital-beehive/num3/num_0770/'>593 [disjoint]</a>|<a href='/digital-beehive/num10/num_3235/'>2275
+entry: "<a href='/digital-beehive/num3/num_0771/'>593 [disjoint]</a>|<a href='/digital-beehive/num10/num_3236/'>2275
   [Luxation]</a>"
 topic:
 first_letter: L

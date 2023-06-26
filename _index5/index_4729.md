@@ -3,7 +3,7 @@ pid: index_4729
 volume: Volume 3
 image_number: '54'
 head: gossipping
-entry: "<a href='/digital-beehive/num11/num_3551/'>4856 [Gosiping]</a>"
+entry: "<a href='/digital-beehive/num11/num_3552/'>4856 [Gosiping]</a>"
 topic:
 first_letter: insertion
 page:

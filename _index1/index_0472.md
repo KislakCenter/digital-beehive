@@ -3,7 +3,7 @@ pid: index_0472
 volume: Volume 3
 image_number: '11'
 head: buffoon
-entry: "<a href='/digital-beehive/alpha1/alpha_0107/'>a</a>|<a href='/digital-beehive/num6/num_2093/'>1436
+entry: "<a href='/digital-beehive/alpha1/alpha_0107/'>a</a>|<a href='/digital-beehive/num6/num_2094/'>1436
   [Buffoons : Obscenity]</a>"
 topic:
 first_letter: B

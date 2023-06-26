@@ -3,9 +3,9 @@ pid: index_4073
 volume: Volume 3
 image_number: '47'
 head: teachers false
-entry: "<a href='/digital-beehive/num6/num_1755/'>1264 [False Teachers]</a>|<a href='/digital-beehive/num8/num_2716/'>1784
-  [False Teachers]</a>|<a href='/digital-beehive/num10/num_3257/'>2294 [False Teachers]</a>|<a
-  href='/digital-beehive/num10/num_3426/'>4448 [False Teachers]</a>|4500 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num6/num_1756/'>1264 [False Teachers]</a>|<a href='/digital-beehive/num8/num_2717/'>1784
+  [False Teachers]</a>|<a href='/digital-beehive/num10/num_3258/'>2294 [False Teachers]</a>|<a
+  href='/digital-beehive/num10/num_3427/'>4448 [False Teachers]</a>|4500 [PAGE_MISSING]"
 topic:
 first_letter: T
 page:

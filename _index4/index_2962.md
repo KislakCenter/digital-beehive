@@ -3,7 +3,7 @@ pid: index_2962
 volume: Volume 3
 image_number: '35'
 head: permission
-entry: "<a href='/digital-beehive/num3/num_0719/'>565 [License]</a>|<a href='/digital-beehive/num10/num_3476/'>4489
+entry: "<a href='/digital-beehive/num3/num_0720/'>565 [License]</a>|<a href='/digital-beehive/num10/num_3477/'>4489
   [License]</a>"
 topic:
 first_letter: P

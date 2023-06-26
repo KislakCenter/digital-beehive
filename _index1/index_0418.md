@@ -3,7 +3,7 @@ pid: index_0418
 volume: Volume 3
 image_number: '10'
 head: Boston
-entry: "<a href='/digital-beehive/num7/num_2257/'>1523 [New England]</a>"
+entry: "<a href='/digital-beehive/num7/num_2258/'>1523 [New England]</a>"
 topic:
 first_letter: B
 page:

@@ -3,7 +3,7 @@ pid: index_2361
 volume: Volume 3
 image_number: '29'
 head: Ludov. XIV
-entry: "<a href='/digital-beehive/num6/num_1847/'>1319 [Ludovicus XIV]</a>|<a href='/digital-beehive/num8/num_2915/'>1984
+entry: "<a href='/digital-beehive/num6/num_1848/'>1319 [Ludovicus XIV]</a>|<a href='/digital-beehive/num8/num_2916/'>1984
   [Ludovicus XIV]</a>"
 topic:
 first_letter: L

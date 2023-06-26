@@ -11,15 +11,15 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0764/'>Punishment, continued</a>|<a
   href='/digital-beehive/alpha1/alpha_0241/'>Discipline</a>|<a href='/digital-beehive/alpha4/alpha_0798/'>Reproof</a>|<a
   href='/digital-beehive/num1/num_0065/'>64 [sin in his Punishmt]</a>|<a href='/digital-beehive/num2/num_0379/'>330
-  [Impunity]</a>|<a href='/digital-beehive/alpha1/alpha_0120/'>Capital Offence</a>|1113
-  [Punishment]"
+  [Impunity]</a>|<a href='/digital-beehive/alpha1/alpha_0120/'>Capital Offence</a>|<a
+  href='/digital-beehive/num5/num_1508/'>1113 [Punishmt]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3228/'>punishmt</a>"
 item: "#item-79ffc5944"
 unparsed:
 line: 'Entry: Punishment|Topic: Punishment|Xref: Punishment, continued|Xref: Discipline|Xref:
   Reproof|Xref: 64 [sin in his Punishmt]|Xref: 330 [Impunity]|Xref: Capital Offence|Xref:
-  1113 [Punishment]|Index: punishmt|#item-79ffc5944'
+  1113 [Punishmt]|Index: punishmt|#item-79ffc5944'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/728,4385,3038,699/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565102296284

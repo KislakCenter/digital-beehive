@@ -3,7 +3,7 @@ pid: index_3180
 volume: Volume 3
 image_number: '37'
 head: profit
-entry: "<a href='/digital-beehive/alpha4/alpha_0745/'>a</a>|<a href='/digital-beehive/num7/num_2607/'>1692
+entry: "<a href='/digital-beehive/alpha4/alpha_0745/'>a</a>|<a href='/digital-beehive/num7/num_2608/'>1692
   [Gain]</a>"
 topic:
 first_letter: P

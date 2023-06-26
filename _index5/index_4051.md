@@ -3,7 +3,7 @@ pid: index_4051
 volume: Volume 3
 image_number: '46'
 head: talismans
-entry: "<a href='/digital-beehive/num7/num_2294/'>1542 [homerical Medicines]</a>"
+entry: "<a href='/digital-beehive/num7/num_2295/'>1542 [homerical Medicines]</a>"
 topic:
 first_letter: T
 page:

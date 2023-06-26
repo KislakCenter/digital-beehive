@@ -3,7 +3,7 @@ pid: index_3146
 volume: Volume 3
 image_number: '37'
 head: to prevail
-entry: "<a href='/digital-beehive/num5/num_1365/'>1021 [Prevail]</a>"
+entry: "<a href='/digital-beehive/num5/num_1366/'>1021 [Prevail]</a>"
 topic:
 first_letter: P
 page:

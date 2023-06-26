@@ -3,7 +3,7 @@ pid: index_4602
 volume: Volume 3
 image_number: '53'
 head: wood
-entry: "<a href='/digital-beehive/alpha5/alpha_1056/'>a</a>|<a href='/digital-beehive/num9/num_3050/'>2113
+entry: "<a href='/digital-beehive/alpha5/alpha_1056/'>a</a>|<a href='/digital-beehive/num9/num_3051/'>2113
   [Wood]</a>"
 topic:
 first_letter: W

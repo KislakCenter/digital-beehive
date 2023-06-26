@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '35'
 head: perfection
 entry: "<a href='/digital-beehive/alpha4/alpha_0702/'>a</a>|<a href='/digital-beehive/num1/num_0061/'>60
-  [Perfection]</a>|<a href='/digital-beehive/num3/num_0725/'>569 [Perfection from
-  Sin]</a>|<a href='/digital-beehive/num5/num_1461/'>1084 [Perfection]</a>|<a href='/digital-beehive/num8/num_2682/'>1753
+  [Perfection]</a>|<a href='/digital-beehive/num3/num_0726/'>569 [Perfection from
+  Sin]</a>|<a href='/digital-beehive/num5/num_1462/'>1084 [Perfection]</a>|<a href='/digital-beehive/num8/num_2683/'>1753
   [Sinless Perfection]</a>"
 topic:
 first_letter: P

@@ -8,7 +8,7 @@ topic: Governmt
 first_letter: G
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0567/'>Magistrate</a>|<a href='/digital-beehive/num4/num_1176/'>906
+xref: "<a href='/digital-beehive/alpha3/alpha_0567/'>Magistrate</a>|<a href='/digital-beehive/num4/num_1177/'>906
   [Kingdom]</a>|<a href='/digital-beehive/alpha4/alpha_0737/'>Prince</a>|post titulos
   decem"
 see:

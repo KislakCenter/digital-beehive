@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '33'
 head: oppression
 entry: "<a href='/digital-beehive/num1/num_0206/'>197 [Oppression]</a>|<a href='/digital-beehive/num2/num_0592/'>474
-  [Oppression]</a>|<a href='/digital-beehive/num10/num_3247/'>2287 [Oppressions]</a>"
+  [Oppression]</a>|<a href='/digital-beehive/num10/num_3248/'>2287 [Oppressions]</a>"
 topic:
 first_letter: O
 page:

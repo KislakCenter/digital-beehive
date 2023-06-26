@@ -3,7 +3,7 @@ pid: index_2680
 volume: Volume 3
 image_number: '32'
 head: negligence
-entry: "<a href='/digital-beehive/alpha3/alpha_0640/'>a</a>|<a href='/digital-beehive/num7/num_2324/'>1558
+entry: "<a href='/digital-beehive/alpha3/alpha_0640/'>a</a>|<a href='/digital-beehive/num7/num_2325/'>1558
   [To Neglect]</a>"
 topic:
 first_letter: N

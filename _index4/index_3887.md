@@ -3,7 +3,7 @@ pid: index_3887
 volume: Volume 3
 image_number: '45'
 head: statutes
-entry: "<a href='/digital-beehive/num10/num_3347/'>2375 [Statutes]</a>"
+entry: "<a href='/digital-beehive/num10/num_3348/'>2375 [Statutes]</a>"
 topic:
 first_letter: S
 page:

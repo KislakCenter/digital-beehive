@@ -3,7 +3,7 @@ pid: index_3548
 volume: Volume 3
 image_number: '41'
 head: schole fellows
-entry: "<a href='/digital-beehive/num6/num_2045/'>1416 [Schoolfellow]</a>"
+entry: "<a href='/digital-beehive/num6/num_2046/'>1416 [Schoolfellow]</a>"
 topic:
 first_letter: S
 page:

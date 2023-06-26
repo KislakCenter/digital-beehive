@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '22'
 head: God's goodness
 entry: "<a href='/digital-beehive/alpha2/alpha_0370/'>a</a>|<a href='/digital-beehive/num2/num_0392/'>338
-  [Mercy]</a>|<a href='/digital-beehive/num10/num_3263/'>2299 [God's goodness]</a>"
+  [Mercy]</a>|<a href='/digital-beehive/num10/num_3264/'>2299 [God's goodness]</a>"
 topic:
 first_letter: G
 page:

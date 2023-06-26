@@ -8,7 +8,7 @@ topic: Stair
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/num5/num_1646/'>1206 [Ladder]</a>"
+xref: "<a href='/digital-beehive/num5/num_1647/'>1206 [Ladder]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3874/'>stair</a>"
 item: "#item-cc4fe5a7d"

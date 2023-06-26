@@ -3,7 +3,7 @@ pid: index_4726
 volume: Volume 3
 image_number: '54'
 head: God's preserva[ti]on
-entry: "<a href='/digital-beehive/num5/num_1523/'>1124 [Preserved]</a>|4779 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num5/num_1524/'>1124 [Preserved]</a>|4779 [PAGE_MISSING]"
 topic:
 first_letter: insertion
 page:

@@ -3,7 +3,7 @@ pid: index_3253
 volume: Volume 3
 image_number: '38'
 head: quarries
-entry: "<a href='/digital-beehive/num8/num_2920/'>1989 [Quarries]</a>"
+entry: "<a href='/digital-beehive/num8/num_2921/'>1989 [Quarries]</a>"
 topic:
 first_letter: Q
 page:

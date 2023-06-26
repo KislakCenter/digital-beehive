@@ -3,7 +3,7 @@ pid: index_4459
 volume: Volume 3
 image_number: '51'
 head: waggon
-entry: "<a href='/digital-beehive/num5/num_1583/'>1162 [Carriage]</a>"
+entry: "<a href='/digital-beehive/num5/num_1584/'>1162 [Carriage]</a>"
 topic:
 first_letter: W
 page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"

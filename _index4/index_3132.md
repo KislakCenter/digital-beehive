@@ -3,7 +3,7 @@ pid: index_3132
 volume: Volume 3
 image_number: '36'
 head: presbyterians
-entry: 798 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3481/'>4494 [Presbyterians]</a>
+entry: 798 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3482/'>4494 [Presbyterians]</a>
 topic:
 first_letter: P
 page:

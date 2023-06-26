@@ -3,7 +3,7 @@ pid: index_4235
 volume: Volume 3
 image_number: '48'
 head: ten tribes of Isr.
-entry: "<a href='/digital-beehive/num6/num_2192/'>1487 [Jews]</a>"
+entry: "<a href='/digital-beehive/num6/num_2193/'>1487 [Jews]</a>"
 topic:
 first_letter: T
 page:

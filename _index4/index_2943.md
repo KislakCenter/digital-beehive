@@ -3,7 +3,7 @@ pid: index_2943
 volume: Volume 3
 image_number: '35'
 head: penal laws
-entry: "<a href='/digital-beehive/num3/num_0696/'>551 [Penal Laws]</a>|<a href='/digital-beehive/num8/num_2874/'>1950
+entry: "<a href='/digital-beehive/num3/num_0697/'>551 [Penal Laws]</a>|<a href='/digital-beehive/num8/num_2875/'>1950
   [Penal Laws]</a>"
 topic:
 first_letter: P

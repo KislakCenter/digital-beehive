@@ -3,7 +3,7 @@ pid: index_1844
 volume: Volume 3
 image_number: '24'
 head: history ecclesiastical
-entry: "<a href='/digital-beehive/num6/num_2206/'>1497 [Historia Ecclesiastica]</a>"
+entry: "<a href='/digital-beehive/num6/num_2207/'>1497 [Historia Ecclesiastica]</a>"
 topic:
 first_letter: H
 page:

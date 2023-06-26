@@ -3,7 +3,7 @@ pid: index_1994
 volume: Volume 3
 image_number: '25'
 head: incest
-entry: "<a href='/digital-beehive/num3/num_0726/'>570 [Incest]</a>"
+entry: "<a href='/digital-beehive/num3/num_0727/'>570 [Incest]</a>"
 topic:
 first_letter: I/J
 page:

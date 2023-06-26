@@ -3,7 +3,7 @@ pid: index_3395
 volume: Volume 3
 image_number: '39'
 head: to restrain
-entry: "<a href='/digital-beehive/num5/num_1417/'>1055 [To Restrain]</a>"
+entry: "<a href='/digital-beehive/num5/num_1418/'>1055 [To Restrain]</a>"
 topic:
 first_letter: R
 page:

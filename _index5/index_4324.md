@@ -3,7 +3,7 @@ pid: index_4324
 volume: Volume 3
 image_number: '49'
 head: vice vers√¢
-entry: "<a href='/digital-beehive/num3/num_0986/'>690 [Contrariety]</a>"
+entry: "<a href='/digital-beehive/num3/num_0987/'>690 [Contrariety]</a>"
 topic:
 first_letter: U/V
 page:

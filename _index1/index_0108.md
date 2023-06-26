@@ -3,7 +3,7 @@ pid: index_0108
 volume: Volume 3
 image_number: '7'
 head: almost Christians
-entry: "<a href='/digital-beehive/num6/num_2207/'>1498 [Almost Xstians]</a>"
+entry: "<a href='/digital-beehive/num6/num_2208/'>1498 [Almost Xstians]</a>"
 topic:
 first_letter: A
 page:

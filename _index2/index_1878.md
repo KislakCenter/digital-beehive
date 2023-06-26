@@ -3,7 +3,7 @@ pid: index_1878
 volume: Volume 3
 image_number: '24'
 head: hospital
-entry: "<a href='/digital-beehive/alpha2/alpha_0435/'>a</a>|<a href='/digital-beehive/num8/num_2894/'>1969
+entry: "<a href='/digital-beehive/alpha2/alpha_0435/'>a</a>|<a href='/digital-beehive/num8/num_2895/'>1969
   [Hospital]</a>"
 topic:
 first_letter: H

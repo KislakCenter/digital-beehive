@@ -3,8 +3,8 @@ pid: index_1931
 volume: Volume 3
 image_number: '25'
 head: idleness
-entry: "<a href='/digital-beehive/alpha3/alpha_0447/'>a</a>|<a href='/digital-beehive/num4/num_1260/'>943
-  [Idleness]</a>|<a href='/digital-beehive/num9/num_3025/'>2089 [Idleness]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0447/'>a</a>|<a href='/digital-beehive/num4/num_1261/'>943
+  [Idleness]</a>|<a href='/digital-beehive/num9/num_3026/'>2089 [Idleness]</a>"
 topic:
 first_letter: I/J
 page:

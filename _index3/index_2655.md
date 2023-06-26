@@ -3,8 +3,8 @@ pid: index_2655
 volume: Volume 3
 image_number: '32'
 head: natural philosophy
-entry: "<a href='/digital-beehive/alpha3/alpha_0635/'>a</a>|<a href='/digital-beehive/num7/num_2295/'>1543
-  [Natural Philosophy]</a>|<a href='/digital-beehive/num9/num_3068/'>2129 [Natural
+entry: "<a href='/digital-beehive/alpha3/alpha_0635/'>a</a>|<a href='/digital-beehive/num7/num_2296/'>1543
+  [Natural Philosophy]</a>|<a href='/digital-beehive/num9/num_3069/'>2129 [Natural
   Philosophy]</a>"
 topic:
 first_letter: N

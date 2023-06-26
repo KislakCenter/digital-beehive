@@ -8,7 +8,7 @@ topic: Earth
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/alpha5/alpha_1061/'>World</a>|<a href='/digital-beehive/num9/num_3069/'>2130
+xref: "<a href='/digital-beehive/alpha5/alpha_1061/'>World</a>|<a href='/digital-beehive/num9/num_3070/'>2130
   [Earth]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1187/'>earth</a>"

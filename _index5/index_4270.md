@@ -3,7 +3,7 @@ pid: index_4270
 volume: Volume 3
 image_number: '49'
 head: turnips
-entry: "<a href='/digital-beehive/num3/num_0984/'>689 [Turnip]</a>"
+entry: "<a href='/digital-beehive/num3/num_0985/'>689 [Turnip]</a>"
 topic:
 first_letter: T
 page:

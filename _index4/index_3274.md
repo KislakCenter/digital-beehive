@@ -3,7 +3,7 @@ pid: index_3274
 volume: Volume 3
 image_number: '38'
 head: quotations of heathens
-entry: "<a href='/digital-beehive/num7/num_2563/'>1670 [Quotations]</a>"
+entry: "<a href='/digital-beehive/num7/num_2564/'>1670 [Quotations]</a>"
 topic:
 first_letter: Q
 page:

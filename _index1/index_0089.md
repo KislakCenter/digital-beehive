@@ -3,9 +3,9 @@ pid: index_0089
 volume: Volume 3
 image_number: '7'
 head: alchymie
-entry: "<a href='/digital-beehive/alpha1/alpha_0018/'>a</a>|<a href='/digital-beehive/num6/num_1863/'>1326
-  [Alchymie]</a>|<a href='/digital-beehive/num7/num_2305/'>1548 [Alchymie]</a>|<a
-  href='/digital-beehive/num9/num_3026/'>2090 [Alchymie]</a>|4555 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0018/'>a</a>|<a href='/digital-beehive/num6/num_1864/'>1326
+  [Alchymie]</a>|<a href='/digital-beehive/num7/num_2306/'>1548 [Alchymie]</a>|<a
+  href='/digital-beehive/num9/num_3027/'>2090 [Alchymie]</a>|4555 [PAGE_MISSING]"
 topic:
 first_letter: A
 page:

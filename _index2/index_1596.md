@@ -3,7 +3,7 @@ pid: index_1596
 volume: Volume 3
 image_number: '22'
 head: Genoa
-entry: "<a href='/digital-beehive/num6/num_1806/'>1294 [Genoa]</a>"
+entry: "<a href='/digital-beehive/num6/num_1807/'>1294 [Genoa]</a>"
 topic:
 first_letter: G
 page:

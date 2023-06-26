@@ -3,7 +3,7 @@ pid: index_4340
 volume: Volume 3
 image_number: '49'
 head: Virginia
-entry: "<a href='/digital-beehive/num7/num_2254/'>1521 [Virginia]</a>"
+entry: "<a href='/digital-beehive/num7/num_2255/'>1521 [Virginia]</a>"
 topic:
 first_letter: U/V
 page:

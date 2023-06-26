@@ -8,7 +8,7 @@ topic: Cold
 first_letter: C
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2517/'>1649 [Frost]</a>|<a href='/digital-beehive/num9/num_3038/'>2102
+xref: "<a href='/digital-beehive/num7/num_2518/'>1649 [Frost]</a>|<a href='/digital-beehive/num9/num_3039/'>2102
   [Cold]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0717/'>cold</a>"

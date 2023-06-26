@@ -3,8 +3,8 @@ pid: index_3241
 volume: Volume 3
 image_number: '38'
 head: to put off or on
-entry: "<a href='/digital-beehive/num4/num_1177/'>906 [To put off his Cloths]</a>|<a
-  href='/digital-beehive/num4/num_1178/'>906 [To put on]</a>"
+entry: "<a href='/digital-beehive/num4/num_1178/'>906 [To put off his Cloths]</a>|<a
+  href='/digital-beehive/num4/num_1179/'>906 [To put on]</a>"
 topic:
 first_letter: P
 page:

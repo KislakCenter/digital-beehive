@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '16'
 head: defence
 entry: "<a href='/digital-beehive/alpha1/alpha_0220/'>a</a>|739 [PAGE_MISSING]|<a
-  href='/digital-beehive/num7/num_2646/'>1722 [to Defend]</a>|<a href='/digital-beehive/num10/num_3449/'>4465
+  href='/digital-beehive/num7/num_2647/'>1722 [to Defend]</a>|<a href='/digital-beehive/num10/num_3450/'>4465
   [Defence]</a>"
 topic:
 first_letter: D

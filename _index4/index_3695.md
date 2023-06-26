@@ -3,9 +3,9 @@ pid: index_3695
 volume: Volume 3
 image_number: '42'
 head: sickness
-entry: "<a href='/digital-beehive/alpha4/alpha_0874/'>a</a>|<a href='/digital-beehive/num6/num_1792/'>1287
-  [Distemper]</a>|<a href='/digital-beehive/num7/num_2464/'>1626 [Distemper]</a>|<a
-  href='/digital-beehive/num10/num_3453/'>4469 [Sickness]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0874/'>a</a>|<a href='/digital-beehive/num6/num_1793/'>1287
+  [Distemper]</a>|<a href='/digital-beehive/num7/num_2465/'>1626 [Distemper]</a>|<a
+  href='/digital-beehive/num10/num_3454/'>4469 [Sickness]</a>"
 topic:
 first_letter: S
 page:

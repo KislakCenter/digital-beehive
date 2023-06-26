@@ -3,7 +3,7 @@ pid: index_1885
 volume: Volume 3
 image_number: '24'
 head: hottentots
-entry: "<a href='/digital-beehive/num6/num_2138/'>1458 [Hottentots : Cape of good
+entry: "<a href='/digital-beehive/num6/num_2139/'>1458 [Hottentots : Cape of good
   hope]</a>"
 topic:
 first_letter: H

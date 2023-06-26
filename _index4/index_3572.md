@@ -3,7 +3,7 @@ pid: index_3572
 volume: Volume 3
 image_number: '41'
 head: Sea gods
-entry: "<a href='/digital-beehive/num6/num_1974/'>1383 [Neptune]</a>"
+entry: "<a href='/digital-beehive/num6/num_1975/'>1383 [Neptune]</a>"
 topic:
 first_letter: S
 page:

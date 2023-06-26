@@ -3,7 +3,7 @@ pid: index_4385
 volume: Volume 3
 image_number: '50'
 head: Uniformity
-entry: "<a href='/digital-beehive/num2/num_0617/'>492 [Dissenters]</a>|<a href='/digital-beehive/num10/num_3386/'>2413
+entry: "<a href='/digital-beehive/num2/num_0617/'>492 [Dissenters]</a>|<a href='/digital-beehive/num10/num_3387/'>2413
   [forced Uniformity]</a>"
 topic:
 first_letter: U/V

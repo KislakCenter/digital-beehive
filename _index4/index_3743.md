@@ -3,7 +3,7 @@ pid: index_3743
 volume: Volume 3
 image_number: '43'
 head: slate
-entry: "<a href='/digital-beehive/num4/num_1105/'>873 [Paper]</a>"
+entry: "<a href='/digital-beehive/num4/num_1106/'>873 [Paper]</a>"
 topic:
 first_letter: S
 page:

@@ -3,7 +3,7 @@ pid: index_0839
 volume: Volume 3
 image_number: '14'
 head: convoy
-entry: "<a href='/digital-beehive/num10/num_3223/'>2267 [To Convoy]</a>"
+entry: "<a href='/digital-beehive/num10/num_3224/'>2267 [To Convoy]</a>"
 topic:
 first_letter: C
 page:

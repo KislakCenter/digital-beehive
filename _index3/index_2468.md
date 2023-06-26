@@ -3,7 +3,7 @@ pid: index_2468
 volume: Volume 3
 image_number: '30'
 head: mediocrity
-entry: "<a href='/digital-beehive/alpha3/alpha_0584/'>a</a>|<a href='/digital-beehive/num5/num_1494/'>1103
+entry: "<a href='/digital-beehive/alpha3/alpha_0584/'>a</a>|<a href='/digital-beehive/num5/num_1495/'>1103
   [Mediocrity]</a>"
 topic:
 first_letter: M

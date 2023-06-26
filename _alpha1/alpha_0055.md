@@ -8,12 +8,13 @@ topic: Banishment
 first_letter: B
 page:
 add:
-xref: 34 [Pilgrimage]|<a href='/digital-beehive/num5/num_1611/'>1182 [Banishment]</a>
+xref: "<a href='/digital-beehive/num1/num_0030/'>30 [Pilgrimage]</a>|<a href='/digital-beehive/num5/num_1612/'>1182
+  [Banishment]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0283/'>banishmt</a>"
 item: "#item-ccc0b9c78"
 unparsed:
-line: 'Entry: Banishment|Topic: Banishment|Xref: 34 [Pilgrimage]|Xref: 1182 [Banishment]|Index:
+line: 'Entry: Banishment|Topic: Banishment|Xref: 30 [Pilgrimage]|Xref: 1182 [Banishment]|Index:
   banishmt|#item-ccc0b9c78'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/322,425,3070,481/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg

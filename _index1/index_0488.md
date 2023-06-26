@@ -3,7 +3,7 @@ pid: index_0488
 volume: Volume 3
 image_number: '11'
 head: busie
-entry: "<a href='/digital-beehive/num1/num_0018/'>18 [Busie]</a>|<a href='/digital-beehive/num5/num_1607/'>1179
+entry: "<a href='/digital-beehive/num1/num_0018/'>18 [Busie]</a>|<a href='/digital-beehive/num5/num_1608/'>1179
   [Business]</a>"
 topic:
 first_letter: B

@@ -3,7 +3,7 @@ pid: index_1738
 volume: Volume 3
 image_number: '23'
 head: Mr. Hales
-entry: "<a href='/digital-beehive/num8/num_2727/'>1794 [Mr. Hales : Sieur]</a>"
+entry: "<a href='/digital-beehive/num8/num_2728/'>1794 [Mr. Hales : Sieur]</a>"
 topic:
 first_letter: H
 page:

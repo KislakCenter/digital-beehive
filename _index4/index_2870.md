@@ -3,8 +3,8 @@ pid: index_2870
 volume: Volume 3
 image_number: '34'
 head: papists
-entry: "<a href='/digital-beehive/num2/num_0494/'>403 [Papists]</a>|<a href='/digital-beehive/num7/num_2559/'>1668
-  [Papists]</a>|<a href='/digital-beehive/num8/num_2754/'>1821 [Papists]</a>"
+entry: "<a href='/digital-beehive/num2/num_0494/'>403 [Papists]</a>|<a href='/digital-beehive/num7/num_2560/'>1668
+  [Papists]</a>|<a href='/digital-beehive/num8/num_2755/'>1821 [Papists]</a>"
 topic:
 first_letter: P
 page:

@@ -3,7 +3,7 @@ pid: index_0861
 volume: Volume 3
 image_number: '15'
 head: corrupted
-entry: "<a href='/digital-beehive/num3/num_0757/'>587 [Corrupted]</a>"
+entry: "<a href='/digital-beehive/num3/num_0758/'>587 [Corrupted]</a>"
 topic:
 first_letter: C
 page:

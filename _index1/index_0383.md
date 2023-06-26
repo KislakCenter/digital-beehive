@@ -3,7 +3,7 @@ pid: index_0383
 volume: Volume 3
 image_number: '10'
 head: to blame
-entry: "<a href='/digital-beehive/num8/num_2753/'>1820 [To Blame]</a>"
+entry: "<a href='/digital-beehive/num8/num_2754/'>1820 [To Blame]</a>"
 topic:
 first_letter: B
 page:

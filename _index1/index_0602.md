@@ -3,7 +3,7 @@ pid: index_0602
 volume: Volume 3
 image_number: '12'
 head: chapters
-entry: "<a href='/digital-beehive/num10/num_3348/'>2376 [Chapters & Verses]</a>"
+entry: "<a href='/digital-beehive/num10/num_3349/'>2376 [Chapters & Verses]</a>"
 topic:
 first_letter: C
 page:

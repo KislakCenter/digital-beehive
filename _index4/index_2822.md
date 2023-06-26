@@ -3,7 +3,7 @@ pid: index_2822
 volume: Volume 3
 image_number: '33'
 head: ordinances
-entry: "<a href='/digital-beehive/num10/num_3269/'>2305 [Ordinances]</a>"
+entry: "<a href='/digital-beehive/num10/num_3270/'>2305 [Ordinances]</a>"
 topic:
 first_letter: O
 page:

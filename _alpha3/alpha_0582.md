@@ -15,12 +15,12 @@ item: "#item-e03fccbbb"
 unparsed:
 line: 'Entry: Mediatour|Topic: Mediatour|Xref: Intercession|Xref: Peacemaker|Index:
   mediator|#item-e03fccbbb'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/355,4602,3019,409/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/353,4600,3021,411/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564773278400
-sort_value: '203114602'
+sort_value: '203114600'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/355,4602,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0498/353,4600,600,180/250,/0/default.jpg
 label: Mediatour
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 issue:

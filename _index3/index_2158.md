@@ -3,7 +3,7 @@ pid: index_2158
 volume: Volume 3
 image_number: '27'
 head: kind
-entry: "<a href='/digital-beehive/num9/num_2975/'>2041 [Sort : genus & Species]</a>"
+entry: "<a href='/digital-beehive/num9/num_2976/'>2041 [Sort : genus & Species]</a>"
 topic:
 first_letter: K
 page:

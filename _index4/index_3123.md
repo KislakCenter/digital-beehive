@@ -3,7 +3,7 @@ pid: index_3123
 volume: Volume 3
 image_number: '36'
 head: prejudice
-entry: "<a href='/digital-beehive/num3/num_0802/'>607 [Prejudice]</a>|<a href='/digital-beehive/num9/num_3110/'>2168
+entry: "<a href='/digital-beehive/num3/num_0803/'>607 [Prejudice]</a>|<a href='/digital-beehive/num9/num_3111/'>2168
   [Prejudice]</a>"
 topic:
 first_letter: P

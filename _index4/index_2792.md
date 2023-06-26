@@ -3,7 +3,7 @@ pid: index_2792
 volume: Volume 3
 image_number: '33'
 head: omnisciency
-entry: 791 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3268/'>2304 [Omnisciency]</a>
+entry: 791 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3269/'>2304 [Omnisciency]</a>
 topic:
 first_letter: O
 page:

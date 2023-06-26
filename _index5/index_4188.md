@@ -3,7 +3,7 @@ pid: index_4188
 volume: Volume 3
 image_number: '48'
 head: tool
-entry: "<a href='/digital-beehive/num10/num_3350/'>2378 [Instruments]</a>"
+entry: "<a href='/digital-beehive/num10/num_3351/'>2378 [Instruments]</a>"
 topic:
 first_letter: T
 page:

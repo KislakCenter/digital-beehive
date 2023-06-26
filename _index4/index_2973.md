@@ -3,8 +3,8 @@ pid: index_2973
 volume: Volume 3
 image_number: '35'
 head: pestilence
-entry: "<a href='/digital-beehive/alpha4/alpha_0707/'>a</a>|<a href='/digital-beehive/num7/num_2660/'>1734
-  [Pestilence]</a>|<a href='/digital-beehive/num9/num_3112/'>2170 [Pestilence]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0707/'>a</a>|<a href='/digital-beehive/num7/num_2661/'>1734
+  [Pestilence]</a>|<a href='/digital-beehive/num9/num_3113/'>2170 [Pestilence]</a>"
 topic:
 first_letter: P
 page:

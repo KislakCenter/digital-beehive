@@ -3,7 +3,7 @@ pid: index_3524
 volume: Volume 3
 image_number: '41'
 head: Satyre
-entry: "<a href='/digital-beehive/alpha4/alpha_0835/'>a</a>|<a href='/digital-beehive/num6/num_1979/'>1384
+entry: "<a href='/digital-beehive/alpha4/alpha_0835/'>a</a>|<a href='/digital-beehive/num6/num_1980/'>1384
   [Satyr]</a>"
 topic:
 first_letter: S

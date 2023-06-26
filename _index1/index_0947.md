@@ -3,7 +3,7 @@ pid: index_0947
 volume: Volume 3
 image_number: '15'
 head: to dare
-entry: "<a href='/digital-beehive/num10/num_3448/'>4464 [I dare]</a>"
+entry: "<a href='/digital-beehive/num10/num_3449/'>4464 [I dare]</a>"
 topic:
 first_letter: D
 page:

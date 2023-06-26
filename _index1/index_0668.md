@@ -3,7 +3,7 @@ pid: index_0668
 volume: Volume 3
 image_number: '13'
 head: Cichory
-entry: "<a href='/digital-beehive/num9/num_3057/'>2120 [Cichory]</a>"
+entry: "<a href='/digital-beehive/num9/num_3058/'>2120 [Cichory]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_1833
 volume: Volume 3
 image_number: '24'
 head: highness
-entry: "<a href='/digital-beehive/alpha2/alpha_0423/'>a</a>|<a href='/digital-beehive/num4/num_1131/'>883
+entry: "<a href='/digital-beehive/alpha2/alpha_0423/'>a</a>|<a href='/digital-beehive/num4/num_1132/'>883
   [highness]</a>"
 topic:
 first_letter: H

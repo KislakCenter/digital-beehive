@@ -3,7 +3,7 @@ pid: index_1584
 volume: Volume 3
 image_number: '21'
 head: gates
-entry: "<a href='/digital-beehive/num3/num_0833/'>621 [Door]</a>"
+entry: "<a href='/digital-beehive/num3/num_0834/'>621 [Door]</a>"
 topic:
 first_letter: G
 page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"

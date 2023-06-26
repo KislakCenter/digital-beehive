@@ -8,8 +8,8 @@ topic: Leader
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0121/'>Captain</a>|<a href='/digital-beehive/num4/num_1158/'>893
-  [Inspiration]</a>|<a href='/digital-beehive/num6/num_1779/'>1280 [Leader]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0121/'>Captain</a>|<a href='/digital-beehive/num4/num_1159/'>893
+  [Inspiration]</a>|<a href='/digital-beehive/num6/num_1780/'>1280 [Leader]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2232/'>leader</a>"
 item: "#item-e94eb3b2e"

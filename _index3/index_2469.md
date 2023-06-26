@@ -3,7 +3,7 @@ pid: index_2469
 volume: Volume 3
 image_number: '30'
 head: meditation
-entry: "<a href='/digital-beehive/alpha3/alpha_0585/'>a</a>|<a href='/digital-beehive/num4/num_1089/'>868
+entry: "<a href='/digital-beehive/alpha3/alpha_0585/'>a</a>|<a href='/digital-beehive/num4/num_1090/'>868
   [Meditation]</a>|4602 [PAGE_MISSING]"
 topic:
 first_letter: M

@@ -3,7 +3,7 @@ pid: index_2595
 volume: Volume 3
 image_number: '31'
 head: moth
-entry: "<a href='/digital-beehive/num7/num_2390/'>1591 [Moth]</a>"
+entry: "<a href='/digital-beehive/num7/num_2391/'>1591 [Moth]</a>"
 topic:
 first_letter: M
 page:

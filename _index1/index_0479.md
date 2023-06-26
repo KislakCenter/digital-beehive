@@ -3,7 +3,7 @@ pid: index_0479
 volume: Volume 3
 image_number: '11'
 head: burdock
-entry: "<a href='/digital-beehive/num3/num_0935/'>674 [Bur-dock]</a>"
+entry: "<a href='/digital-beehive/num3/num_0936/'>674 [Bur-dock]</a>"
 topic:
 first_letter: B
 page:

@@ -3,7 +3,7 @@ pid: index_3864
 volume: Volume 3
 image_number: '44'
 head: spring. fr√ºhling
-entry: "<a href='/digital-beehive/alpha4/alpha_0910/'>a</a>|<a href='/digital-beehive/num7/num_2678/'>1749
+entry: "<a href='/digital-beehive/alpha4/alpha_0910/'>a</a>|<a href='/digital-beehive/num7/num_2679/'>1749
   [Spring]</a>"
 topic:
 first_letter: S

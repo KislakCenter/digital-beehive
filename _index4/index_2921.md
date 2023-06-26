@@ -3,7 +3,7 @@ pid: index_2921
 volume: Volume 3
 image_number: '34'
 head: patrimony
-entry: "<a href='/digital-beehive/num6/num_1963/'>1377 [Patrimony]</a>"
+entry: "<a href='/digital-beehive/num6/num_1964/'>1377 [Patrimony]</a>"
 topic:
 first_letter: P
 page:

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '40'
 head: riches
 entry: "<a href='/digital-beehive/alpha4/alpha_0811/'>a</a>|854 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_2107/'>1444 [Riches]</a>|<a href='/digital-beehive/num10/num_3364/'>2392
+  href='/digital-beehive/num6/num_2108/'>1444 [Riches]</a>|<a href='/digital-beehive/num10/num_3365/'>2392
   [Riches]</a>"
 topic:
 first_letter: R

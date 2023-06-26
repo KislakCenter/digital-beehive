@@ -3,7 +3,7 @@ pid: index_1407
 volume: Volume 3
 image_number: '20'
 head: fashion of the Country
-entry: "<a href='/digital-beehive/alpha2/alpha_0317/'>a</a>|<a href='/digital-beehive/num6/num_1983/'>1386
+entry: "<a href='/digital-beehive/alpha2/alpha_0317/'>a</a>|<a href='/digital-beehive/num6/num_1984/'>1386
   [Fashion of the Countrey]</a>|1872 [PAGE_MISSING]"
 topic:
 first_letter: F

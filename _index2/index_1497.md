@@ -3,7 +3,7 @@ pid: index_1497
 volume: Volume 3
 image_number: '21'
 head: footstep
-entry: "<a href='/digital-beehive/num4/num_1081/'>866 [Footstep]</a>"
+entry: "<a href='/digital-beehive/num4/num_1082/'>866 [Footstep]</a>"
 topic:
 first_letter: F
 page:

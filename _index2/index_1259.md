@@ -3,7 +3,7 @@ pid: index_1259
 volume: Volume 3
 image_number: '18'
 head: English man and woman
-entry: "<a href='/digital-beehive/num6/num_2167/'>1473 [England]</a>|<a href='/digital-beehive/num6/num_2168/'>1473
+entry: "<a href='/digital-beehive/num6/num_2168/'>1473 [England]</a>|<a href='/digital-beehive/num6/num_2169/'>1473
   [Englishman]</a>|4498 [PAGE_MISSING]"
 topic:
 first_letter: E

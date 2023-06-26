@@ -3,7 +3,7 @@ pid: index_0851
 volume: Volume 3
 image_number: '14'
 head: corn
-entry: "<a href='/digital-beehive/num3/num_0920/'>664 [Corn]</a>"
+entry: "<a href='/digital-beehive/num3/num_0921/'>664 [Corn]</a>"
 topic:
 first_letter: C
 page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"

@@ -3,7 +3,7 @@ pid: index_3330
 volume: Volume 3
 image_number: '39'
 head: to refine
-entry: "<a href='/digital-beehive/num3/num_0906/'>659 [Purge]</a>"
+entry: "<a href='/digital-beehive/num3/num_0907/'>659 [Purge]</a>"
 topic:
 first_letter: R
 page:

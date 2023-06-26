@@ -3,7 +3,7 @@ pid: index_0189
 volume: Volume 3
 image_number: '8'
 head: approaching to God
-entry: "<a href='/digital-beehive/num10/num_3366/'>2394 [Coming to God]</a>"
+entry: "<a href='/digital-beehive/num10/num_3367/'>2394 [Coming to God]</a>"
 topic:
 first_letter: A
 page:

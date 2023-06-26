@@ -3,7 +3,7 @@ pid: index_1734
 volume: Volume 3
 image_number: '23'
 head: a gypsie
-entry: "<a href='/digital-beehive/num7/num_2333/'>1561 [[AE]gyptians]</a>"
+entry: "<a href='/digital-beehive/num7/num_2334/'>1561 [[AE]gyptians]</a>"
 topic:
 first_letter: G
 page:

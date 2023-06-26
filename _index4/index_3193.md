@@ -3,7 +3,7 @@ pid: index_3193
 volume: Volume 3
 image_number: '37'
 head: proof of a negative
-entry: "<a href='/digital-beehive/num4/num_1199/'>913 [Proof]</a>"
+entry: "<a href='/digital-beehive/num4/num_1200/'>913 [Proof]</a>"
 topic:
 first_letter: P
 page:

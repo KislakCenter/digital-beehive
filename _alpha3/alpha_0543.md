@@ -8,7 +8,7 @@ topic: Likelihood
 first_letter: L
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2346/'>1567 [Likeness]</a>|<a href='/digital-beehive/num1/num_0266/'>246
+xref: "<a href='/digital-beehive/num7/num_2347/'>1567 [Likeness]</a>|<a href='/digital-beehive/num1/num_0266/'>246
   [Probability]</a>|<a href='/digital-beehive/alpha4/alpha_0879/'>Similitude</a>|758
   [PAGE_MISSING]"
 see:

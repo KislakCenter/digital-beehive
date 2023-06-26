@@ -8,7 +8,7 @@ topic: Intention
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0767/'>Purpose</a>|<a href='/digital-beehive/num5/num_1501/'>1109
+xref: "<a href='/digital-beehive/alpha4/alpha_0767/'>Purpose</a>|<a href='/digital-beehive/num5/num_1502/'>1109
   [Intention]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2074/'>intention</a>"

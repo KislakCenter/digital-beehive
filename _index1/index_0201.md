@@ -3,7 +3,7 @@ pid: index_0201
 volume: Volume 3
 image_number: '8'
 head: aristotle
-entry: "<a href='/digital-beehive/num5/num_1688/'>1228 [Aristotle]</a>"
+entry: "<a href='/digital-beehive/num5/num_1689/'>1228 [Aristotle]</a>"
 topic:
 first_letter: A
 page:

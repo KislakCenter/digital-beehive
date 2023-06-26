@@ -3,7 +3,7 @@ pid: index_3534
 volume: Volume 3
 image_number: '41'
 head: to scald
-entry: "<a href='/digital-beehive/num3/num_0932/'>672 [To Burn]</a>"
+entry: "<a href='/digital-beehive/num3/num_0933/'>672 [To Burn]</a>"
 topic:
 first_letter: S
 page:

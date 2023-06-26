@@ -8,7 +8,7 @@ topic: Absurdity
 first_letter: A
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0763/'>589 [Nonsense]</a>|<a href='/digital-beehive/num4/num_1217/'>919
+xref: "<a href='/digital-beehive/num3/num_0764/'>589 [Nonsense]</a>|<a href='/digital-beehive/num4/num_1218/'>919
   [Absurd]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0018/'>absurdity</a>"

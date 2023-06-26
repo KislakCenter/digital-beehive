@@ -17,12 +17,12 @@ item: "#item-a12735979"
 unparsed:
 line: 'Entry: Discipline|Topic: Discipline|Xref: ecclesiastical disc|Xref: martial
   discipl|Xref: punishmt|Xref: [WORD_ILLEGIBLE]|Xref: Reproof|Index: discipline|#item-a12735979'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/807,985,2972,520/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/805,983,2974,522/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508174677987
-sort_value: '145010985'
+sort_value: '145010983'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/807,985,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/805,983,600,180/250,/0/default.jpg
 label: Discipline
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue:

@@ -3,8 +3,8 @@ pid: index_1026
 volume: Volume 3
 image_number: '16'
 head: desperation
-entry: "<a href='/digital-beehive/num1/num_0008/'>8 [Desperation]</a>|<a href='/digital-beehive/num3/num_0832/'>620
-  [Despair]</a>|<a href='/digital-beehive/num7/num_2601/'>1689 [Despair]</a>"
+entry: "<a href='/digital-beehive/num1/num_0008/'>8 [Desperation]</a>|<a href='/digital-beehive/num3/num_0833/'>620
+  [Despair]</a>|<a href='/digital-beehive/num7/num_2602/'>1689 [Despair]</a>"
 topic:
 first_letter: D
 page:

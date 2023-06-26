@@ -3,7 +3,7 @@ pid: index_3136
 volume: Volume 3
 image_number: '37'
 head: preservation
-entry: "<a href='/digital-beehive/num5/num_1523/'>1124 [Preserved]</a>"
+entry: "<a href='/digital-beehive/num5/num_1524/'>1124 [Preserved]</a>"
 topic:
 first_letter: P
 page:

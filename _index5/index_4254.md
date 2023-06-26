@@ -3,7 +3,7 @@ pid: index_4254
 volume: Volume 3
 image_number: '48'
 head: trusting in men
-entry: "<a href='/digital-beehive/num6/num_2039/'>1413 [Trusting in Men]</a>"
+entry: "<a href='/digital-beehive/num6/num_2040/'>1413 [Trusting in Men]</a>"
 topic:
 first_letter: T
 page:

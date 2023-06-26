@@ -3,7 +3,7 @@ pid: index_4196
 volume: Volume 3
 image_number: '48'
 head: torment
-entry: "<a href='/digital-beehive/num5/num_1578/'>1158 [Pain]</a>"
+entry: "<a href='/digital-beehive/num5/num_1579/'>1158 [Pain]</a>"
 topic:
 first_letter: T
 page:

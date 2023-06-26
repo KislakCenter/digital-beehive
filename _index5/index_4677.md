@@ -3,7 +3,7 @@ pid: index_4677
 volume: Volume 3
 image_number: '54'
 head: yoke
-entry: "<a href='/digital-beehive/num8/num_2818/'>1917 [Yoke]</a>"
+entry: "<a href='/digital-beehive/num8/num_2819/'>1917 [Yoke]</a>"
 topic:
 first_letter: insertion
 page:

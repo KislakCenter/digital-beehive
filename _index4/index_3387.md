@@ -3,8 +3,8 @@ pid: index_3387
 volume: Volume 3
 image_number: '39'
 head: resignation
-entry: "<a href='/digital-beehive/alpha4/alpha_0800/'>a</a>|<a href='/digital-beehive/num5/num_1589/'>1167
-  [Resignation]</a>|<a href='/digital-beehive/num10/num_3245/'>2285 [Resignation]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0800/'>a</a>|<a href='/digital-beehive/num5/num_1590/'>1167
+  [Resignation]</a>|<a href='/digital-beehive/num10/num_3246/'>2285 [Resignation]</a>"
 topic:
 first_letter: R
 page:

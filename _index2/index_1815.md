@@ -3,7 +3,7 @@ pid: index_1815
 volume: Volume 3
 image_number: '24'
 head: hermes Trism
-entry: "<a href='/digital-beehive/num5/num_1480/'>1094 [Mercurius or Hermes Trismegistus]</a>"
+entry: "<a href='/digital-beehive/num5/num_1481/'>1094 [Mercurius or Hermes Trismegistus]</a>"
 topic:
 first_letter: H
 page:

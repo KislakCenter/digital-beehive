@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '13'
 head: company
 entry: "<a href='/digital-beehive/alpha1/alpha_0164/'>a</a>|<a href='/digital-beehive/num2/num_0319/'>283
-  [Company]</a>|<a href='/digital-beehive/num4/num_1259/'>942 [Company]</a>|<a href='/digital-beehive/num6/num_1925/'>1358
-  [Company]</a>|<a href='/digital-beehive/num8/num_2888/'>1964 [Company]</a>"
+  [Company]</a>|<a href='/digital-beehive/num4/num_1260/'>942 [Company]</a>|<a href='/digital-beehive/num6/num_1926/'>1358
+  [Company]</a>|<a href='/digital-beehive/num8/num_2889/'>1964 [Company]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_0769
 volume: Volume 3
 image_number: '14'
 head: concentration
-entry: "<a href='/digital-beehive/num7/num_2530/'>1655 [Concentration]</a>"
+entry: "<a href='/digital-beehive/num7/num_2531/'>1655 [Concentration]</a>"
 topic:
 first_letter: C
 page:

@@ -9,14 +9,14 @@ first_letter: S
 page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0530/'>Learning</a>|<a href='/digital-beehive/alpha4/alpha_0701/'>Pedantery</a>|<a
-  href='/digital-beehive/num1/num_0109/'>105 [a Pretender to learning]</a>|866 [Retain]|<a
-  href='/digital-beehive/num6/num_1891/'>1341 [Student]</a>"
+  href='/digital-beehive/num1/num_0109/'>105 [a Pretender to learning]</a>|<a href='/digital-beehive/num4/num_1080/'>866
+  [To Retain]</a>|<a href='/digital-beehive/num6/num_1892/'>1341 [Student]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3947/'>Student</a>"
 item: "#item-940dd7ef9"
 unparsed:
 line: 'Entry: Student|Topic: Student|Xref: Learning|Xref: Pedantery|Xref: 105 [a Pretender
-  to learning]|Xref: 866 [Retain]|Xref: 1341 [Student]|Index: Student|#item-940dd7ef9'
+  to learning]|Xref: 866 [To Retain]|Xref: 1341 [Student]|Index: Student|#item-940dd7ef9'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/686,1366,3083,632/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532550795801

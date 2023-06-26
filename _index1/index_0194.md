@@ -3,7 +3,7 @@ pid: index_0194
 volume: Volume 3
 image_number: '8'
 head: arabia
-entry: "<a href='/digital-beehive/num6/num_1959/'>1375 [Arabians]</a>"
+entry: "<a href='/digital-beehive/num6/num_1960/'>1375 [Arabians]</a>"
 topic:
 first_letter: A
 page:

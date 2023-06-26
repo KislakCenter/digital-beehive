@@ -3,7 +3,7 @@ pid: index_0958
 volume: Volume 3
 image_number: '15'
 head: dead
-entry: "<a href='/digital-beehive/num6/num_2141/'>1459 [Dead]</a>"
+entry: "<a href='/digital-beehive/num6/num_2142/'>1459 [Dead]</a>"
 topic:
 first_letter: D
 page:

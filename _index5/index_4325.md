@@ -3,7 +3,7 @@ pid: index_4325
 volume: Volume 3
 image_number: '49'
 head: victory
-entry: "<a href='/digital-beehive/alpha5/alpha_0996/'>a</a>|<a href='/digital-beehive/num5/num_1701/'>1235
+entry: "<a href='/digital-beehive/alpha5/alpha_0996/'>a</a>|<a href='/digital-beehive/num5/num_1702/'>1235
   [Victory]</a>|4661 [PAGE_MISSING]"
 topic:
 first_letter: U/V

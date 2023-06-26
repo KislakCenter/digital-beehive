@@ -3,7 +3,7 @@ pid: index_1352
 volume: Volume 3
 image_number: '19'
 head: expenses
-entry: "<a href='/digital-beehive/num3/num_1050/'>715 [Expenses]</a>"
+entry: "<a href='/digital-beehive/num3/num_1051/'>715 [Expenses]</a>"
 topic:
 first_letter: E
 page:

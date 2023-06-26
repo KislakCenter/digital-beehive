@@ -3,7 +3,7 @@ pid: index_3291
 volume: Volume 3
 image_number: '38'
 head: rare words
-entry: "<a href='/digital-beehive/num3/num_0672/'>536 [Rare words]</a>"
+entry: "<a href='/digital-beehive/num3/num_0673/'>536 [Rare words]</a>"
 topic:
 first_letter: R
 page:

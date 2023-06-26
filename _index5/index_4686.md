@@ -3,7 +3,7 @@ pid: index_4686
 volume: Volume 3
 image_number: '54'
 head: abyss
-entry: "<a href='/digital-beehive/num7/num_2230/'>1509 [Treasure]</a>"
+entry: "<a href='/digital-beehive/num7/num_2231/'>1509 [Treasure]</a>"
 topic:
 first_letter: insertion
 page:

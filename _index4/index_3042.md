@@ -3,8 +3,8 @@ pid: index_3042
 volume: Volume 3
 image_number: '36'
 head: pleasure
-entry: "<a href='/digital-beehive/alpha4/alpha_0717/'>a</a>|<a href='/digital-beehive/num4/num_1126/'>882
-  [Pleasure]</a>|<a href='/digital-beehive/num8/num_2871/'>1947 [Pleasure]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0717/'>a</a>|<a href='/digital-beehive/num4/num_1127/'>882
+  [Pleasure]</a>|<a href='/digital-beehive/num8/num_2872/'>1947 [Pleasure]</a>"
 topic:
 first_letter: P
 page:

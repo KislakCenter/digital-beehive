@@ -3,8 +3,8 @@ pid: index_2276
 volume: Volume 3
 image_number: '28'
 head: liberty of Conscience
-entry: "<a href='/digital-beehive/alpha3/alpha_0537/'>a</a>|<a href='/digital-beehive/num3/num_0709/'>557
-  [Liberty of Conscience]</a>|<a href='/digital-beehive/num10/num_3242/'>2282 [Liberty
+entry: "<a href='/digital-beehive/alpha3/alpha_0537/'>a</a>|<a href='/digital-beehive/num3/num_0710/'>557
+  [Liberty of Conscience]</a>|<a href='/digital-beehive/num10/num_3243/'>2282 [Liberty
   of Conscience]</a>"
 topic:
 first_letter: L

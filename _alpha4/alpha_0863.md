@@ -9,7 +9,7 @@ first_letter: S
 page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0579/'>Master</a>|813 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_1853/'>1322 [Capucins]</a>"
+  href='/digital-beehive/num6/num_1854/'>1322 [Capucins]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3645/'>servant & service</a>"
 item: "#item-3513bb2bd"

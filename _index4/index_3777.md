@@ -3,7 +3,7 @@ pid: index_3777
 volume: Volume 3
 image_number: '43'
 head: royal Society
-entry: "<a href='/digital-beehive/num5/num_1418/'>1056 [Royal Society]</a>"
+entry: "<a href='/digital-beehive/num5/num_1419/'>1056 [Royal Society]</a>"
 topic:
 first_letter: S
 page:

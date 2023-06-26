@@ -3,7 +3,7 @@ pid: index_3728
 volume: Volume 3
 image_number: '43'
 head: singularity
-entry: "<a href='/digital-beehive/num5/num_1515/'>1121 [Singularity]</a>"
+entry: "<a href='/digital-beehive/num5/num_1516/'>1121 [Singularity]</a>"
 topic:
 first_letter: S
 page:

@@ -8,13 +8,13 @@ topic: Unknown
 first_letter: U/V
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Ignorance</a>|262 [In cognito]|<a
-  href='/digital-beehive/num7/num_2537/'>1658 [Unknown]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Ignorance</a>|<a href='/digital-beehive/num2/num_0291/'>262
+  [Anonymous or Nameless]</a>|<a href='/digital-beehive/num7/num_2538/'>1658 [Unknown]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4398/'>unknown</a>"
 item: "#item-45f8ddbd8"
 unparsed:
-line: 'Entry: Unknown|Topic: Unknown|Xref: Ignorance|Xref: 262 [In cognito]|Xref:
+line: 'Entry: Unknown|Topic: Unknown|Xref: Ignorance|Xref: 262 [Anonymous or Nameless]|Xref:
   1658 [Unknown]|Index: unknown|#item-45f8ddbd8'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/817,2546,2930,490/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg

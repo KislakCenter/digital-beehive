@@ -3,7 +3,7 @@ pid: index_4226
 volume: Volume 3
 image_number: '48'
 head: treasure
-entry: "<a href='/digital-beehive/alpha5/alpha_0983/'>a</a>|<a href='/digital-beehive/num7/num_2230/'>1509
+entry: "<a href='/digital-beehive/alpha5/alpha_0983/'>a</a>|<a href='/digital-beehive/num7/num_2231/'>1509
   [Treasure]</a>"
 topic:
 first_letter: T

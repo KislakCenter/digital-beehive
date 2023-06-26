@@ -3,7 +3,7 @@ pid: index_0796
 volume: Volume 3
 image_number: '14'
 head: conjuring
-entry: "<a href='/digital-beehive/num7/num_2293/'>1541 [Conjuring]</a>|<a href='/digital-beehive/num11/num_3559/'>4864
+entry: "<a href='/digital-beehive/num7/num_2294/'>1541 [Conjuring]</a>|<a href='/digital-beehive/num11/num_3560/'>4864
   [Conjuring]</a>"
 topic:
 first_letter: C

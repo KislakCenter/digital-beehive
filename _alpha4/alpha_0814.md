@@ -8,7 +8,7 @@ topic: Ring
 first_letter: R
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2182/'>1480 [Ring]</a>"
+xref: "<a href='/digital-beehive/num6/num_2183/'>1480 [Ring]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3432/'>ring</a>"
 item: "#item-24be7ae64"

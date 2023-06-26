@@ -3,8 +3,8 @@ pid: index_2592
 volume: Volume 3
 image_number: '31'
 head: Moses
-entry: "<a href='/digital-beehive/num4/num_1171/'>901 [Moses]</a>|<a href='/digital-beehive/num7/num_2375/'>1583
-  [Moses]</a>|<a href='/digital-beehive/num8/num_2830/'>1921 [Moses]</a>"
+entry: "<a href='/digital-beehive/num4/num_1172/'>901 [Moses]</a>|<a href='/digital-beehive/num7/num_2376/'>1583
+  [Moses]</a>|<a href='/digital-beehive/num8/num_2831/'>1921 [Moses]</a>"
 topic:
 first_letter: M
 page:

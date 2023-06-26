@@ -8,7 +8,7 @@ topic: Exorcism
 first_letter: E
 page:
 add:
-xref: "<a href='/digital-beehive/num7/num_2293/'>1541 [Conjuring]</a>|<a href='/digital-beehive/num7/num_2313/'>1551
+xref: "<a href='/digital-beehive/num7/num_2294/'>1541 [Conjuring]</a>|<a href='/digital-beehive/num7/num_2314/'>1551
   [Exorcism]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1349/'>exorcism</a>"

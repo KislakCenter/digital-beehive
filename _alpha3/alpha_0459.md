@@ -8,7 +8,7 @@ topic: Image of God
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/num9/num_3011/'>2077 [Image of God]</a>"
+xref: "<a href='/digital-beehive/num9/num_3012/'>2077 [Image of God]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1955/'>Image of God</a>"
 item: "#item-ab2c15b5b"

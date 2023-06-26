@@ -8,7 +8,7 @@ topic: Tooth
 first_letter: T
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1790/'>1286 [Tooth]</a>"
+xref: "<a href='/digital-beehive/num6/num_1791/'>1286 [Tooth]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4189/'>tooth</a>"
 item: "#item-b808f22e1"

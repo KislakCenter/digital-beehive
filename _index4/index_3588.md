@@ -3,9 +3,9 @@ pid: index_3588
 volume: Volume 3
 image_number: '41'
 head: security
-entry: "<a href='/digital-beehive/alpha4/alpha_0847/'>a</a>|<a href='/digital-beehive/num4/num_1202/'>914
-  [Security]</a>|<a href='/digital-beehive/num4/num_1204/'>914 [Security, he that
-  promises for another]</a>|<a href='/digital-beehive/num10/num_3383/'>2410 [Carelessness
+entry: "<a href='/digital-beehive/alpha4/alpha_0847/'>a</a>|<a href='/digital-beehive/num4/num_1203/'>914
+  [Security]</a>|<a href='/digital-beehive/num4/num_1205/'>914 [Security, he that
+  promises for another]</a>|<a href='/digital-beehive/num10/num_3384/'>2410 [Carelessness
   & Security]</a>"
 topic:
 first_letter: S

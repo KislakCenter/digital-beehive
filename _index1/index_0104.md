@@ -3,7 +3,7 @@ pid: index_0104
 volume: Volume 3
 image_number: '7'
 head: almanack
-entry: "<a href='/digital-beehive/alpha1/alpha_0021/'>a</a>|<a href='/digital-beehive/num6/num_1769/'>1275
+entry: "<a href='/digital-beehive/alpha1/alpha_0021/'>a</a>|<a href='/digital-beehive/num6/num_1770/'>1275
   [Almanack]</a>"
 topic:
 first_letter: A

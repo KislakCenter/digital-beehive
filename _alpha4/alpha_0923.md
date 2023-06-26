@@ -8,7 +8,7 @@ topic: Stratagem
 first_letter: S
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0194/'>Craftiness</a>|<a href='/digital-beehive/num7/num_2569/'>1673
+xref: "<a href='/digital-beehive/alpha1/alpha_0194/'>Craftiness</a>|<a href='/digital-beehive/num7/num_2570/'>1673
   [Stratagem]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_3932/'>stratagem</a>"

@@ -3,7 +3,7 @@ pid: index_0898
 volume: Volume 3
 image_number: '15'
 head: creature
-entry: "<a href='/digital-beehive/alpha1/alpha_0195/'>a</a>|<a href='/digital-beehive/num10/num_3440/'>4458
+entry: "<a href='/digital-beehive/alpha1/alpha_0195/'>a</a>|<a href='/digital-beehive/num10/num_3441/'>4458
   [Creature]</a>"
 topic:
 first_letter: C

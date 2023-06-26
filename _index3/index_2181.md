@@ -3,7 +3,7 @@ pid: index_2181
 volume: Volume 3
 image_number: '27'
 head: Labour
-entry: "<a href='/digital-beehive/alpha3/alpha_0508/'>a</a>|<a href='/digital-beehive/num4/num_1265/'>948
+entry: "<a href='/digital-beehive/alpha3/alpha_0508/'>a</a>|<a href='/digital-beehive/num4/num_1266/'>948
   [Labour]</a>|4725 [PAGE_MISSING]"
 topic:
 first_letter: L

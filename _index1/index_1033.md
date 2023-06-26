@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '16'
 head: devil
 entry: "<a href='/digital-beehive/alpha1/alpha_0232/'>a</a>|747 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_2021/'>1405 [Devil]</a>|<a href='/digital-beehive/num7/num_2314/'>1552
-  [Devil]</a>|<a href='/digital-beehive/num9/num_2940/'>2006 [Devils]</a>|<a href='/digital-beehive/num10/num_3201/'>2253
+  href='/digital-beehive/num6/num_2022/'>1405 [Devil]</a>|<a href='/digital-beehive/num7/num_2315/'>1552
+  [Devil]</a>|<a href='/digital-beehive/num9/num_2941/'>2006 [Devils]</a>|<a href='/digital-beehive/num10/num_3202/'>2253
   [Devil]</a>"
 topic:
 first_letter: D

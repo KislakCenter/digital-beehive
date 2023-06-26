@@ -3,7 +3,7 @@ pid: index_3937
 volume: Volume 3
 image_number: '45'
 head: strength
-entry: "<a href='/digital-beehive/num3/num_0915/'>663 [Strength]</a>"
+entry: "<a href='/digital-beehive/num3/num_0916/'>663 [Strength]</a>"
 topic:
 first_letter: S
 page:

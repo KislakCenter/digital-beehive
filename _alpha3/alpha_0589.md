@@ -8,7 +8,7 @@ topic: Merchandize
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_0855/'>631
+xref: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_0856/'>631
   [Merchants]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2487/'>merchandize</a>"

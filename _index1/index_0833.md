@@ -3,7 +3,7 @@ pid: index_0833
 volume: Volume 3
 image_number: '14'
 head: contrition
-entry: "<a href='/digital-beehive/num7/num_2606/'>1692 [Contrition]</a>"
+entry: "<a href='/digital-beehive/num7/num_2607/'>1692 [Contrition]</a>"
 topic:
 first_letter: C
 page:

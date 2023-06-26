@@ -3,8 +3,8 @@ pid: index_4143
 volume: Volume 3
 image_number: '47'
 head: thunder
-entry: "<a href='/digital-beehive/alpha5/alpha_0960/'>a</a>|<a href='/digital-beehive/num6/num_1901/'>1346
-  [Thunder & Lightning]</a>|<a href='/digital-beehive/num9/num_3065/'>2126 [Thunder
+entry: "<a href='/digital-beehive/alpha5/alpha_0960/'>a</a>|<a href='/digital-beehive/num6/num_1902/'>1346
+  [Thunder & Lightning]</a>|<a href='/digital-beehive/num9/num_3066/'>2126 [Thunder
   & Lightning]</a>"
 topic:
 first_letter: T

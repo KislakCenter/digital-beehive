@@ -8,7 +8,7 @@ topic: Herb
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0929/'>672 [Herbs]</a>"
+xref: "<a href='/digital-beehive/num3/num_0930/'>672 [Herbs]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1806/'>herb</a>"
 item: "#item-df285cbfd"

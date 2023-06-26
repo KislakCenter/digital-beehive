@@ -8,7 +8,7 @@ topic: Heathenism
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_2133/'>1456 [Heathens]</a>"
+xref: "<a href='/digital-beehive/num6/num_2134/'>1456 [Heathens]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1782/'>heathens</a>"
 item: "#item-187d5c649"

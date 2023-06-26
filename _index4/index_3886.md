@@ -3,7 +3,7 @@ pid: index_3886
 volume: Volume 3
 image_number: '45'
 head: statues
-entry: "<a href='/digital-beehive/num4/num_1273/'>955 [Images]</a>|<a href='/digital-beehive/num7/num_2583/'>1680
+entry: "<a href='/digital-beehive/num4/num_1274/'>955 [Images]</a>|<a href='/digital-beehive/num7/num_2584/'>1680
   [Images]</a>"
 topic:
 first_letter: S

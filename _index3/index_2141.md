@@ -3,7 +3,7 @@ pid: index_2141
 volume: Volume 3
 image_number: '27'
 head: jury
-entry: "<a href='/digital-beehive/num3/num_0699/'>552 [Juries]</a>"
+entry: "<a href='/digital-beehive/num3/num_0700/'>552 [Juries]</a>"
 topic:
 first_letter: I/J
 page:

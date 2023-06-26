@@ -3,7 +3,7 @@ pid: index_4437
 volume: Volume 3
 image_number: '51'
 head: to uphold
-entry: "<a href='/digital-beehive/num6/num_1886/'>1339 [To maintain]</a>"
+entry: "<a href='/digital-beehive/num6/num_1887/'>1339 [To maintain]</a>"
 topic:
 first_letter: U/V
 page:

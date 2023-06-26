@@ -3,9 +3,9 @@ pid: index_1308
 volume: Volume 3
 image_number: '19'
 head: eternity
-entry: "<a href='/digital-beehive/alpha2/alpha_0296/'>a</a>|<a href='/digital-beehive/num5/num_1553/'>1142
-  [Eternity]</a>|<a href='/digital-beehive/num10/num_3330/'>2358 [Eternity]</a>|<a
-  href='/digital-beehive/num10/num_3459/'>4474 [Eternity]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0296/'>a</a>|<a href='/digital-beehive/num5/num_1554/'>1142
+  [Eternity]</a>|<a href='/digital-beehive/num10/num_3331/'>2358 [Eternity]</a>|<a
+  href='/digital-beehive/num10/num_3460/'>4474 [Eternity]</a>"
 topic:
 first_letter: E
 page:

@@ -3,7 +3,7 @@ pid: index_3556
 volume: Volume 3
 image_number: '41'
 head: Scorpion
-entry: "<a href='/digital-beehive/num6/num_1917/'>1353 [Scorpion]</a>"
+entry: "<a href='/digital-beehive/num6/num_1918/'>1353 [Scorpion]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"

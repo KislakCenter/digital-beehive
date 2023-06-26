@@ -3,7 +3,7 @@ pid: index_2183
 volume: Volume 3
 image_number: '27'
 head: labyrinth
-entry: "<a href='/digital-beehive/num3/num_0733/'>574 [Labyrinth or Maze]</a>"
+entry: "<a href='/digital-beehive/num3/num_0734/'>574 [Labyrinth or Maze]</a>"
 topic:
 first_letter: L
 page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"

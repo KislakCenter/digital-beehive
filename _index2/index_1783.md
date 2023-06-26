@@ -3,7 +3,7 @@ pid: index_1783
 volume: Volume 3
 image_number: '23'
 head: heathens moderation
-entry: "<a href='/digital-beehive/num6/num_1870/'>1331 [Moderation]</a>"
+entry: "<a href='/digital-beehive/num6/num_1871/'>1331 [Moderation]</a>"
 topic:
 first_letter: H
 page:

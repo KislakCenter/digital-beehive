@@ -3,7 +3,7 @@ pid: index_1090
 volume: Volume 3
 image_number: '17'
 head: dispensations of God
-entry: "<a href='/digital-beehive/num6/num_2201/'>1493 [Dispensations]</a>"
+entry: "<a href='/digital-beehive/num6/num_2202/'>1493 [Dispensations]</a>"
 topic:
 first_letter: D
 page:

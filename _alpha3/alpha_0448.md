@@ -8,7 +8,7 @@ topic: Idolatry
 first_letter: I/J
 page:
 add:
-xref: "<a href='/digital-beehive/alpha3/alpha_0458/'>Images</a>|<a href='/digital-beehive/num3/num_0809/'>610
+xref: "<a href='/digital-beehive/alpha3/alpha_0458/'>Images</a>|<a href='/digital-beehive/num3/num_0810/'>610
   [Idolatry]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_1932/'>idolatry</a>"

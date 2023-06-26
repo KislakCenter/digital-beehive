@@ -3,7 +3,7 @@ pid: index_0938
 volume: Volume 3
 image_number: '15'
 head: Dainty meats
-entry: "<a href='/digital-beehive/num3/num_1000/'>696 [Dainty meats]</a>"
+entry: "<a href='/digital-beehive/num3/num_1001/'>696 [Dainty meats]</a>"
 topic:
 first_letter: D
 page:

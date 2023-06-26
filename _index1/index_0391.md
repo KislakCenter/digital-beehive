@@ -3,8 +3,8 @@ pid: index_0391
 volume: Volume 3
 image_number: '10'
 head: blindness
-entry: "<a href='/digital-beehive/num1/num_0013/'>13 [Blindness]</a>|<a href='/digital-beehive/num6/num_1879/'>1336
-  [Blindness]</a>|<a href='/digital-beehive/num9/num_3143/'>2200 [Blindness]</a>"
+entry: "<a href='/digital-beehive/num1/num_0013/'>13 [Blindness]</a>|<a href='/digital-beehive/num6/num_1880/'>1336
+  [Blindness]</a>|<a href='/digital-beehive/num9/num_3144/'>2200 [Blindness]</a>"
 topic:
 first_letter: B
 page:

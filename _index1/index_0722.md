@@ -3,7 +3,7 @@ pid: index_0722
 volume: Volume 3
 image_number: '13'
 head: colloquies
-entry: "<a href='/digital-beehive/num9/num_2953/'>2019 [Dialogue]</a>"
+entry: "<a href='/digital-beehive/num9/num_2954/'>2019 [Dialogue]</a>"
 topic:
 first_letter: C
 page:

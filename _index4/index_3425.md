@@ -3,7 +3,7 @@ pid: index_3425
 volume: Volume 3
 image_number: '40'
 head: riding
-entry: "<a href='/digital-beehive/num7/num_2679/'>1750 [Horseman]</a>"
+entry: "<a href='/digital-beehive/num7/num_2680/'>1750 [Horseman]</a>"
 topic:
 first_letter: R
 page:

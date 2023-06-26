@@ -3,7 +3,7 @@ pid: index_0750
 volume: Volume 3
 image_number: '13'
 head: to com[m]unicate
-entry: "<a href='/digital-beehive/num10/num_3336/'>2364 [To Com[m]unicate & partake]</a>"
+entry: "<a href='/digital-beehive/num10/num_3337/'>2364 [To Com[m]unicate & partake]</a>"
 topic:
 first_letter: C
 page:

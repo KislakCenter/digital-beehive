@@ -3,7 +3,7 @@ pid: index_3809
 volume: Volume 3
 image_number: '44'
 head: soul of Christ
-entry: "<a href='/digital-beehive/num6/num_2118/'>1448 [Soul of Christ]</a>"
+entry: "<a href='/digital-beehive/num6/num_2119/'>1448 [Soul of Christ]</a>"
 topic:
 first_letter: S
 page:

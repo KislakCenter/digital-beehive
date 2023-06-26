@@ -3,8 +3,8 @@ pid: index_4557
 volume: Volume 3
 image_number: '52'
 head: wind
-entry: "<a href='/digital-beehive/alpha5/alpha_1042/'>a</a>|<a href='/digital-beehive/num6/num_1763/'>1271
-  [Wind]</a>|<a href='/digital-beehive/num9/num_3101/'>2160 [Wind]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1042/'>a</a>|<a href='/digital-beehive/num6/num_1764/'>1271
+  [Wind]</a>|<a href='/digital-beehive/num9/num_3102/'>2160 [Wind]</a>"
 topic:
 first_letter: W
 page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"

@@ -3,7 +3,7 @@ pid: index_2103
 volume: Volume 3
 image_number: '26'
 head: John Evang
-entry: "<a href='/digital-beehive/num10/num_3379/'>2406 [John the Evangelist]</a>"
+entry: "<a href='/digital-beehive/num10/num_3380/'>2406 [John the Evangelist]</a>"
 topic:
 first_letter: I/J
 page:

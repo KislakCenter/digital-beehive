@@ -3,7 +3,7 @@ pid: index_2013
 volume: Volume 3
 image_number: '25'
 head: indeed
-entry: "<a href='/digital-beehive/num6/num_2059/'>1422 [In (very) Deed]</a>"
+entry: "<a href='/digital-beehive/num6/num_2060/'>1422 [In (very) Deed]</a>"
 topic:
 first_letter: I/J
 page:

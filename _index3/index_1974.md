@@ -3,7 +3,7 @@ pid: index_1974
 volume: Volume 3
 image_number: '25'
 head: impossible
-entry: "<a href='/digital-beehive/alpha3/alpha_0467/'>a</a>|<a href='/digital-beehive/num5/num_1631/'>1196
+entry: "<a href='/digital-beehive/alpha3/alpha_0467/'>a</a>|<a href='/digital-beehive/num5/num_1632/'>1196
   [Impossibilities]</a>"
 topic:
 first_letter: I/J

@@ -3,7 +3,7 @@ pid: index_0770
 volume: Volume 3
 image_number: '14'
 head: conception
-entry: "<a href='/digital-beehive/num3/num_0878/'>644 [Conception, or Conceiving]</a>"
+entry: "<a href='/digital-beehive/num3/num_0879/'>644 [Conception, or Conceiving]</a>"
 topic:
 first_letter: C
 page:

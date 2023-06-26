@@ -3,7 +3,7 @@ pid: index_3579
 volume: Volume 3
 image_number: '41'
 head: 4. seasons
-entry: "<a href='/digital-beehive/num10/num_3260/'>2296 [Four Seasons]</a>"
+entry: "<a href='/digital-beehive/num10/num_3261/'>2296 [Four Seasons]</a>"
 topic:
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '26'
 head: infirmity
 entry: "<a href='/digital-beehive/alpha3/alpha_0476/'>a</a>|<a href='/digital-beehive/num2/num_0374/'>325
-  [Infirmity]</a>|<a href='/digital-beehive/num7/num_2643/'>1719 [Infirmity]</a>"
+  [Infirmity]</a>|<a href='/digital-beehive/num7/num_2644/'>1719 [Infirmity]</a>"
 topic:
 first_letter: I/J
 page:

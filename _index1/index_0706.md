@@ -3,7 +3,7 @@ pid: index_0706
 volume: Volume 3
 image_number: '13'
 head: clyster
-entry: "<a href='/digital-beehive/num3/num_0952/'>679 [Clyster]</a>"
+entry: "<a href='/digital-beehive/num3/num_0953/'>679 [Clyster]</a>"
 topic:
 first_letter: C
 page:

@@ -3,7 +3,7 @@ pid: index_1354
 volume: Volume 3
 image_number: '19'
 head: expert
-entry: "<a href='/digital-beehive/num8/num_2711/'>1780 [Expert]</a>"
+entry: "<a href='/digital-beehive/num8/num_2712/'>1780 [Expert]</a>"
 topic:
 first_letter: E
 page:

@@ -4,8 +4,8 @@ volume: Volume 3
 image_number: '22'
 head: God's providence
 entry: "<a href='/digital-beehive/alpha2/alpha_0372/'>a</a>|<a href='/digital-beehive/num1/num_0242/'>227
-  [Gods Providence]</a>|<a href='/digital-beehive/num7/num_2605/'>1691 [Gods Providence]</a>|<a
-  href='/digital-beehive/num8/num_2893/'>1968 [God's Providence]</a>|<a href='/digital-beehive/num10/num_3326/'>2355
+  [Gods Providence]</a>|<a href='/digital-beehive/num7/num_2606/'>1691 [Gods Providence]</a>|<a
+  href='/digital-beehive/num8/num_2894/'>1968 [God's Providence]</a>|<a href='/digital-beehive/num10/num_3327/'>2355
   [God's Providence]</a>"
 topic:
 first_letter: G

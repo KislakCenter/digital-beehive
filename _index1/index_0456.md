@@ -3,7 +3,7 @@ pid: index_0456
 volume: Volume 3
 image_number: '11'
 head: briefly
-entry: "<a href='/digital-beehive/num4/num_1243/'>932 [Brevity]</a>|<a href='/digital-beehive/num9/num_3136/'>2193
+entry: "<a href='/digital-beehive/num4/num_1244/'>932 [Brevity]</a>|<a href='/digital-beehive/num9/num_3137/'>2193
   [Briefly]</a>"
 topic:
 first_letter: B

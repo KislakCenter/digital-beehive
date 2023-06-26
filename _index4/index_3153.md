@@ -3,7 +3,7 @@ pid: index_3153
 volume: Volume 3
 image_number: '37'
 head: priestcraft
-entry: "<a href='/digital-beehive/num8/num_2699/'>1768 [Ecclesiastical Tyran[n]y &
+entry: "<a href='/digital-beehive/num8/num_2700/'>1768 [Ecclesiastical Tyran[n]y &
   Priestcraft]</a>"
 topic:
 first_letter: P

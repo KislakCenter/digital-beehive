@@ -3,7 +3,7 @@ pid: index_2282
 volume: Volume 3
 image_number: '28'
 head: lie given
-entry: "<a href='/digital-beehive/num8/num_2929/'>1996 [Lie given]</a>"
+entry: "<a href='/digital-beehive/num8/num_2930/'>1996 [Lie given]</a>"
 topic:
 first_letter: L
 page:

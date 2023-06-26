@@ -3,7 +3,7 @@ pid: index_2261
 volume: Volume 3
 image_number: '28'
 head: L'estrange
-entry: "<a href='/digital-beehive/num7/num_2480/'>1633 [Lestrange]</a>"
+entry: "<a href='/digital-beehive/num7/num_2481/'>1633 [Lestrange]</a>"
 topic:
 first_letter: L
 page:

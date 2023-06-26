@@ -3,7 +3,7 @@ pid: index_1666
 volume: Volume 3
 image_number: '22'
 head: golden age
-entry: "<a href='/digital-beehive/num5/num_1508/'>1114 [Golden Age]</a>"
+entry: "<a href='/digital-beehive/num5/num_1509/'>1114 [Golden Age]</a>"
 topic:
 first_letter: G
 page:

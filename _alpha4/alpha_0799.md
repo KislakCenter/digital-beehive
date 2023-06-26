@@ -8,14 +8,14 @@ topic: Reputation
 first_letter: R
 page:
 add:
-xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|829 [Esteem]|<a
-  href='/digital-beehive/alpha4/alpha_0794/'>Renown</a>|829 [PAGE_MISSING]"
+xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/digital-beehive/alpha4/alpha_0794/'>Renown</a>|829
+  [PAGE_MISSING, Esteem]"
 see:
 index: "<a href='/digital-beehive/index4/index_3382/'>reputation</a>"
 item: "#item-e761d6029"
 unparsed:
-line: 'Entry: Reputation|Topic: Reputation|Xref: Authority|Xref: 829 [Esteem]|Xref:
-  Renown|Xref: 829 [PAGE_MISSING]|Index: reputation|#item-e761d6029'
+line: 'Entry: Reputation|Topic: Reputation|Xref: Authority|Xref: Renown|Xref: 829
+  [PAGE_MISSING, Esteem]|Index: reputation|#item-e761d6029'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/394,3039,2944,501/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528821383857

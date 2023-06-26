@@ -3,7 +3,7 @@ pid: index_2025
 volume: Volume 3
 image_number: '26'
 head: inexorable
-entry: "<a href='/digital-beehive/num6/num_2137/'>1457 [Inexorableness]</a>"
+entry: "<a href='/digital-beehive/num6/num_2138/'>1457 [Inexorableness]</a>"
 topic:
 first_letter: I/J
 page:
