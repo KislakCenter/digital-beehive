@@ -38,7 +38,7 @@ Although the Digital Beehive divides the manuscript into three volumes, it is wo
 
 Pastorius did number many of his pages, and his original page numbers appear in the top corners of many pages. Our page references follow Pastorius's original numbering system. A later reader added a different page numbering system, where a separate set of page numbers appear in the bottom center of most pages. This numbering system is not attributed to Pastorius and is not reflected in our data.
 
-While we have the majority of the manuscript, some pages are missing. In the Alvearium, missing pages have caused multiple ranges of entries in the numerical section to be skipped: entries 726--865, 1836--1890, 2446--4445, 4496--4790, and 4932--4950.
+While we have the majority of the manuscript, some pages are missing. In the Alvearium, missing pages have caused multiple ranges of entries in the numerical section to be skipped: entries 726-865, 1836-1890, 2446-4445, 4496-4790, and 4932-4950.
 
 Much like Pastorius's own Beehive manuscript, the Digital Beehive is a work in progress. Our work will continue to grow and expand.
 
