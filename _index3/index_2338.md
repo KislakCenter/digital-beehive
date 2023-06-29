@@ -3,7 +3,7 @@ pid: index_2338
 volume: Volume 3
 image_number: '29'
 head: lotteries
-entry: "<a href='/digital-beehive/num1/num_0091/'>89 [Lotteries (Gl√ºckshafen)]</a>"
+entry: "<a href='/digital-beehive/num1/num_0091/'>89 [Lotteries (Glückshafen)]</a>"
 topic:
 first_letter: L
 page:
@@ -13,7 +13,7 @@ see:
 index:
 item: "#item-27746065d"
 unparsed:
-line: 'Head: lotteries|Entry: 89 [Lotteries (Gl√ºckshafen)]|#item-27746065d'
+line: 'Head: lotteries|Entry: 89 [Lotteries (Glückshafen)]|#item-27746065d'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560178684866

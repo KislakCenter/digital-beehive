@@ -3,7 +3,7 @@ pid: index_2631
 volume: Volume 3
 image_number: '31'
 head: n[ae]
-entry: "<a href='/digital-beehive/num10/num_3222/'>2267 [va√≠]</a>"
+entry: "<a href='/digital-beehive/num10/num_3222/'>2267 [vaí]</a>"
 topic:
 first_letter: N
 page:
@@ -13,7 +13,7 @@ see:
 index:
 item: "#item-e16dbdbb4"
 unparsed:
-line: 'Head: n[ae]|Entry: 2267 [va√≠]|#item-e16dbdbb4'
+line: 'Head: n[ae]|Entry: 2267 [vaí]|#item-e16dbdbb4'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3152,345,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560362942578
