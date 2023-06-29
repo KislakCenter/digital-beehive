@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/931,1622
 label: "[:30.]"
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4695/'>·ºÄŒΩŒ¥œÅœâœÄŒøœÄŒ±Œ¥·ø∂œÇ</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4695/'>ἀνδρωποπαδῶς</a>"
 order: '0139'
 layout: index_item
 collection: index1
