@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/300,749,600,180/250,/0/default.jpg
 label: Home
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
-issue:
+issue: The point of reference for "Pilgrimage" is not entirely clear. We linked to
+  34 [Pilgrimage], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '156'
 layout: alpha_item

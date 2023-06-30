@@ -22,7 +22,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/847,3029,600,180/250,/0/default.jpg
 label: Cloke
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
-issue:
+issue: It is unclear whether Pastroius meant to include "coat" as a cross reference.
+  The solitary "add" at the end of this entry may mark a cross-reference that Pastorius
+  mistakenly did not complete.
 also_in_entry:
 order: '153'
 layout: alpha_item

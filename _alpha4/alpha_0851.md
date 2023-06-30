@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/259,1355,600,180/250,/0/default.jpg
 label: Seeming
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
-issue:
+issue: The point of reference for "Substantial" is not entirely clear. We linked to
+  92 [Substantial], which is the first relevant entry in the numerical section of
+  the Alvearium.
 also_in_entry:
 order: '199'
 layout: alpha_item

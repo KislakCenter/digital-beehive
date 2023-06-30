@@ -24,7 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/765,1977,600,180/250,/0/default.jpg
 label: Shape
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
-issue: The point of reference for "face" is unclear.|The point of reference for "form"
+issue: The point of reference for "face" is unclear. The point of reference for "form"
   is unclear.
 also_in_entry:
 order: '217'

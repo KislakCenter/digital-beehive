@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/267,2220,600,180/250,/0/default.jpg
 label: Polygamy
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
-issue:
+issue: The point of reference for "Painting" is not entirely clear. We linked to 575
+  [Painting], which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '069'
 layout: alpha_item

@@ -22,7 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/353,1181,600,180/250,/0/default.jpg
 label: Custody
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-issue:
+issue: The point of reference for "Jailer" is not entirely clear. We linked to 399
+  [Jailer], which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '204'
 layout: alpha_item

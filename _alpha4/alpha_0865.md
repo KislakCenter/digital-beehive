@@ -22,7 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/823,809,600,180/250,/0/default.jpg
 label: Severity
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
-issue:
+issue: The solitary "add" at the end of this entry may mark a cross-reference that
+  Pastorius mistakenly did not complete.
 also_in_entry:
 order: '213'
 layout: alpha_item

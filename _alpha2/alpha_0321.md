@@ -24,7 +24,10 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/744,4579,600,180/250,/0/default.jpg
 label: Fault
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
-issue:
+issue: The point of reference for "Mistake" is not entirely clear. We linked to 234
+  [Mistake], which is the first relevant entry in the numerical section of the Alvearium.
+  The solitary "add" at the end of this entry may mark a cross-reference that Pastorius
+  mistakenly did not complete.
 also_in_entry:
 order: '049'
 layout: alpha_item

@@ -23,7 +23,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0517/792,1524,600,180/250,/0/default.jpg
 label: Scab
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-issue:
+issue: The point of reference for "Frenck Pocks" is not entirely clear. We linked
+  to 637 [French Pocks], which is the first relevant entry in the numerical section
+  of the Alvearium.
 also_in_entry:
 order: '184'
 layout: alpha_item

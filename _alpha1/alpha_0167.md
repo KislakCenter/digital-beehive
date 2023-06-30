@@ -23,7 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/403,3233,600,180/250,/0/default.jpg
 label: Concupiscence
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-issue:
+issue: The point of reference for "Desire" is not entirely clear. We linked to 115
+  [Desire], which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '166'
 layout: alpha_item

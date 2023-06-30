@@ -22,7 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/288,774,600,180/250,/0/default.jpg
 label: Sedition
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
-issue: It is unclear whether "Sedition" should be annotated as its own entry.|The
+issue: It is unclear whether "Sedition" should be annotated as its own entry. The
   meaning of "vid. Rebellion" is unclear.
 also_in_entry:
 order: '197'

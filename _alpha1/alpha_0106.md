@@ -23,7 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/842,3197,600,180/250,/0/default.jpg
 label: Brethern in Iniquity
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
-issue:
+issue: It is not totally clear whether "Brethren in Iniquity" should be considered
+  a separate entry. We have annotated it as its own entity here.
 also_in_entry:
 order: '105'
 layout: alpha_item

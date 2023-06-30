@@ -26,8 +26,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/420,3618
 label: Doubt
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: The point of reference for "Perplexity" is unclear. Pastorius perhaps intends
-  numerical entry 661 [Perplexity].|The point of reference for "Pinch" is unclear.
-  Pastorius perhaps intends numerical entry 645 [Pinch].|The point of reference for
+  numerical entry 661 [Perplexity]. The point of reference for "Pinch" is unclear.
+  Pastorius perhaps intends numerical entry 645 [Pinch]. The point of reference for
   "Scepticism" is unclear.
 also_in_entry:
 order: '262'

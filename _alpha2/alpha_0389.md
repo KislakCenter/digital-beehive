@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/773,1684,600,180/250,/0/default.jpg
 label: Greatness
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
-issue:
+issue: The point of reference for "Giant" is not entirely clear. We linked to 361
+  [Giant], which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '117'
 layout: alpha_item

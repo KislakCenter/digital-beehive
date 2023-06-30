@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/784,655,600,180/250,/0/default.jpg
 label: Gentleness
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
-issue:
+issue: The point of reference for "Moderation" is not entirely clear. We linked to
+  21 [Moderate], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '088'
 layout: alpha_item

@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/719,199,600,180/250,/0/default.jpg
 label: Death, continued
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-issue:
+issue: This entry is a continuation of Death, which appears at the end of the previous
+  page of the Alvearium.
 also_in_entry:
 order: '213'
 layout: alpha_item

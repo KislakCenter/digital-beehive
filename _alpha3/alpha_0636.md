@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/335,2761,600,180/250,/0/default.jpg
 label: Nature
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
-issue:
+issue: Damage to the manuscript has made the topic of one of this entry's cross references
+  illegible.
 also_in_entry:
 order: '189'
 layout: alpha_item

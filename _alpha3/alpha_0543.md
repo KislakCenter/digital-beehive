@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/723,2650,600,180/250,/0/default.jpg
 label: Likelihood
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
-issue:
+issue: The points of reference for "Likeness"and "Probability" are not entirely clear.
+  We linked to 1567 [Likeness] and 246 [Probability], which are the first relevant
+  entries in the numerical section of the Alvearium.
 also_in_entry:
 order: '096'
 layout: alpha_item

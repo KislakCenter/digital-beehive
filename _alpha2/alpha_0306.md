@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/400,2393,600,180/250,/0/default.jpg
 label: 'Extern : Worship'
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
-issue:
+issue: The point of reference for "Formality" is not entirely clear. We linked to
+  229 [Formality], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '034'
 layout: alpha_item

@@ -23,7 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/708,178,600,180/250,/0/default.jpg
 label: Mortality, continued
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
-issue:
+issue: This entry is a continuation of Mortality, which appears at the end of the
+  previous page of the Alvearium.
 also_in_entry:
 order: '165'
 layout: alpha_item

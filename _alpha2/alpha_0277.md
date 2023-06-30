@@ -26,7 +26,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/819,4224,600,180/250,/0/default.jpg
 label: Ecclesiastical discipline
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
-issue:
+issue: The point of reference for "Excommunication" is not entirely clear. We linked
+  to 26 [Excommunication], which is the first relevant entry in the numerical section
+  of the Alvearium.
 also_in_entry:
 order: '005'
 layout: alpha_item

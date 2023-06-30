@@ -4,18 +4,19 @@ volume: Volume 3
 image_number: '16'
 head: degree
 entry: "<a href='/digital-beehive/alpha1/alpha_0222/'>a</a>|<a href='/digital-beehive/num10/num_3350/'>2377
-  [Degrees]</a>|<a href='/digital-beehive/num10/num_3383/'>2409 [Degree]</a>"
+  [Degrees]</a>|<a href='/digital-beehive/num7/num_2582/'>1679 [University-Degrees]</a>|<a
+  href='/digital-beehive/num10/num_3383/'>2409 [Degree]</a>"
 topic:
 first_letter: D
 page:
-add: "<a href='/digital-beehive/index5/index_4394/'>university degrees</a>|1679 [University-Degrees]"
+add: university degrees
 xref:
 see:
 index:
 item: "#item-d7e80b885"
 unparsed:
-line: 'Head: degree|Entry: a|Entry: 2377 [Degrees]|Entry: 2409 [Degree]|Add: university
-  degrees|Add: 1679 [University-Degrees]|#item-d7e80b885'
+line: 'Head: degree|Entry: a|Entry: 2377 [Degrees]|Entry: 1679 [University-Degrees]|Entry:
+  2409 [Degree]|Add: university degrees|#item-d7e80b885'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/365,2407,767,223/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507576558301

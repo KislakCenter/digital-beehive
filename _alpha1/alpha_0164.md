@@ -26,7 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/312,1736
 label: Company
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 issue: The point of reference for "Stock" is unclear. Pastorius perhaps intends numerical
-  entry 632 [Stock].|The point of reference for "Train" is unclear. Pastorius perhaps
+  entry 632 [Stock]. The point of reference for "Train" is unclear. Pastorius perhaps
   intends numerical entry 866 [Train].
 also_in_entry:
 order: '163'

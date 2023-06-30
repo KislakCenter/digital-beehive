@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/876,3352,600,180/250,/0/default.jpg
 label: Cross
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
-issue:
+issue: The point of reference for "Crucifix" is not entirely clear. We linked to 184
+  [Crucifixes], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '198'
 layout: alpha_item

@@ -23,7 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/778,4074,600,180/250,/0/default.jpg
 label: Oath
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-issue:
+issue: The point of reference for "Swearing" is not entirely clear. We linked to 90
+  [Swearing], which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '001'
 layout: alpha_item

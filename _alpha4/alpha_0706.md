@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/821,1302,600,180/250,/0/default.jpg
 label: Perswasion
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
-issue:
+issue: The point of reference for "Conviction" is not entirely clear. We linked to
+  362 [Conviction], which is the first relevant entry in the numerical section of
+  the Alvearium.
 also_in_entry:
 order: '054'
 layout: alpha_item

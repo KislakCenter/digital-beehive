@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/800,211,600,180/250,/0/default.jpg
 label: Trade
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
-issue:
+issue: The points of reference for "Shopkeeper"and "Butcher" are not entirely clear.
+  We linked to 109 [a Shopkeeper] and 350 [Butchering], which are the first relevant
+  entries in the numerical section of the Alvearium.
 also_in_entry:
 order: '037'
 layout: alpha_item

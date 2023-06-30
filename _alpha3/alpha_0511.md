@@ -26,7 +26,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/748,1151,600,180/250,/0/default.jpg
 label: Language
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
-issue:
+issue: The point of reference for "English tongue" is not entirely clear. We linked
+  to 473 [English tongue], which is the first relevant entry in the numerical section
+  of the Alvearium.
 also_in_entry:
 order: '064'
 layout: alpha_item

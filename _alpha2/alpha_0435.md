@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/354,4044,600,180/250,/0/default.jpg
 label: Hospital
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
-issue:
+issue: The solitary "add" at the end of this entry may mark a cross-reference that
+  Pastorius mistakenly did not complete.
 also_in_entry:
 order: '163'
 layout: alpha_item

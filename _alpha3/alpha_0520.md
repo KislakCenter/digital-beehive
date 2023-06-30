@@ -8,12 +8,13 @@ topic: Latin
 first_letter: L
 page:
 add:
-xref: 1015 [English Latin]|<a href='/digital-beehive/num11/num_3521/'>4825 [Latin]</a>
+xref: "<a href='/digital-beehive/num5/num_1356/'>1015 [Some English Latin]</a>|<a
+  href='/digital-beehive/num11/num_3521/'>4825 [Latin]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2216/'>latin</a>"
 item: "#item-22ec67ff1"
 unparsed:
-line: 'Entry: Latin|Topic: Latin|Xref: 1015 [English Latin]|Xref: 4825 [Latin]|Index:
+line: 'Entry: Latin|Topic: Latin|Xref: 1015 [Some English Latin]|Xref: 4825 [Latin]|Index:
   latin|#item-22ec67ff1'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/764,3938,2964,418/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg

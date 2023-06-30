@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/258,233,600,180/250,/0/default.jpg
 label: Law, continued
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
-issue:
+issue: This entry is a continuation of Law, which appears at the end of the previous
+  page of the Alvearium.
 also_in_entry:
 order: '077'
 layout: alpha_item

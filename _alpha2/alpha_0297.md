@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/781,3298,600,180/250,/0/default.jpg
 label: Examination
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-issue:
+issue: The point of reference for "Self-examination" is not entirely clear. We linked
+  to 117 [Self-examination], which is the first relevant entry in the numerical section
+  of the Alvearium.
 also_in_entry:
 order: '025'
 layout: alpha_item

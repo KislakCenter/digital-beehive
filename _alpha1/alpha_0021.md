@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/824,3464,600,180/250,/0/default.jpg
 label: Almanack
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
-issue:
+issue: The point of reference for "Astrology" is not entirely clear. We linked to
+  24 [Astrology], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '020'
 layout: alpha_item

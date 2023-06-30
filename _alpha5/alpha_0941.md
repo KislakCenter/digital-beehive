@@ -24,7 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/334,2009,600,180/250,/0/default.jpg
 label: Tailor
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
-issue: The point of reference for "Seamster" is unclear.|The point of reference for
+issue: The point of reference for "Seamster" is unclear. The point of reference for
   "to sell" is unclear. Pastorius perhaps intends numerical entry 604 [to Sell].
 also_in_entry:
 order: '001'

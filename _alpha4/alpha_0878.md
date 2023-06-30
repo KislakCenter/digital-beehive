@@ -22,7 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/255,218,600,180/250,/0/default.jpg
 label: Silence, continued
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
-issue:
+issue: This entry is a continuation of Silence, which appears at the end of the previous
+  page of the Alvearium.
 also_in_entry:
 order: '226'
 layout: alpha_item

@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/749,1401,600,180/250,/0/default.jpg
 label: News
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-issue:
+issue: The point of reference for "Messenger" is not entirely clear. We linked to
+  87 [Messenger], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '197'
 layout: alpha_item

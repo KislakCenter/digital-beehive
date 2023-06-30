@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/361,1924,600,180/250,/0/default.jpg
 label: Dammage
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-issue:
+issue: 'Damage to the manuscript has made the topic of one of this entry''s cross
+  references illegible. '
 also_in_entry:
 order: '206'
 layout: alpha_item

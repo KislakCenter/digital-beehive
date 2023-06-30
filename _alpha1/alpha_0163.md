@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/333,1395,600,180/250,/0/default.jpg
 label: Communion
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-issue:
+issue: The point of reference for "Confirm" is not entirely clear. The Octavo Index
+  indicates that 852 [Confirmation] might be the first relevant entry in the numerical
+  section of the Alvearium, but it appears on a missing page.
 also_in_entry:
 order: '162'
 layout: alpha_item

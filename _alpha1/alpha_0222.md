@@ -24,7 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/799,3740,600,180/250,/0/default.jpg
 label: Degree
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-issue:
+issue: The cross reference at 1377 cannot be determined.
 also_in_entry:
 order: '221'
 layout: alpha_item

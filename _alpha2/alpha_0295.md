@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/751,2248,600,180/250,/0/default.jpg
 label: Error
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-issue:
+issue: The points of reference for "Infallibility"and "Mistake" are not entirely clear.
+  We linked to 32 [Infallibility] and 234 [Mistake], which are the first relevant
+  entries in the numerical section of the Alvearium.
 also_in_entry:
 order: '023'
 layout: alpha_item

@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/804,1754,600,180/250,/0/default.jpg
 label: Predestination
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
-issue:
+issue: The point of reference for "Reprobates" is not entirely clear. We linked to
+  139 [Reprobates], which is the first relevant entry in the numerical section of
+  the Alvearium.
 also_in_entry:
 order: '080'
 layout: alpha_item

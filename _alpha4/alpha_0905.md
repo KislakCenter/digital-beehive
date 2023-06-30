@@ -27,7 +27,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/748,4004,600,180/250,/0/default.jpg
 label: Speech
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-issue:
+issue: The point of reference for "Laconism" is not entirely clear. We linked to 2
+  [Laconism], which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '253'
 layout: alpha_item

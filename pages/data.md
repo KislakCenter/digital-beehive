@@ -15,6 +15,7 @@ In addition to the metadata categories described on the [Data Model page](https:
 - first_letter: the first letter of the alphabetical entry or index header, or the numerical range of the numerical entry (e.g. 51-100), used for facet browsing.
 - unparsed: elements of the annotation not parsed automatically, used in data clean-up and review.
 <br> 
+
 ### Sorts and Corrections
 In addition to the core data, the following additional data sets are used in building the site:
 

@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/296,2730,600,180/250,/0/default.jpg
 label: AntiChrist
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
-issue:
+issue: The point of reference for "False Prophets" is not entirely clear. We linked
+  to 41 [False Prophets], which is the first relevant entry in the numerical section
+  of the Alvearium.
 also_in_entry:
 order: '032'
 layout: alpha_item

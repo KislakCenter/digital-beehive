@@ -26,7 +26,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/319,4555,600,180/250,/0/default.jpg
 label: Proof
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-issue: The point of reference for "Trial" is unclear.|The point of reference for "essay"
+issue: The point of reference for "Trial" is unclear. The point of reference for "essay"
   is unclear. Pastorius perhaps intends numerical entry 633 [essay].
 also_in_entry:
 order: '099'

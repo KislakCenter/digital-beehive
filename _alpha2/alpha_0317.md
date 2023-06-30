@@ -4,23 +4,23 @@ volume: Volume 1
 image_number: '456'
 head:
 entry: Fashion of the Country
-topic: Fashion of the Country
+topic: Fashion of the Countrey
 first_letter: F
 page:
 add:
-xref: 1386 [Fashion of the Country]
+xref: "<a href='/digital-beehive/num6/num_1984/'>1386 [Fashion of the Countrey]</a>"
 see:
 index: "<a href='/digital-beehive/index2/index_1407/'>fashion of the Country</a>"
 item: "#item-4be979543"
 unparsed:
-line: 'Entry: Fashion of the Country|Topic: Fashion of the Country|XRef: 1386 [Fashion
-  of the Country]|Index: fashion of the Country|#item-4be979543'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/774,3189,2909,587/full/0/default.jpg
+line: 'Entry: Fashion of the Country|Topic: Fashion of the Countrey|XRef: 1386 [Fashion
+  of the Countrey]|Index: fashion of the Country|#item-4be979543'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/772,3187,2911,589/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564589208333
-sort_value: '145613189'
+sort_value: '145613187'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/774,3189,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/772,3187,600,180/250,/0/default.jpg
 label: Fashion of the Country
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 issue:

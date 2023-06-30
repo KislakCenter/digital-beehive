@@ -3,7 +3,8 @@ pid: index_2445
 volume: Volume 3
 image_number: '30'
 head: master
-entry: "<a href='/digital-beehive/alpha3/alpha_0579/'>a</a>|1323 [Master's]|4618 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha3/alpha_0579/'>a</a>|<a href='/digital-beehive/num6/num_1855/'>1323
+  [Master's]</a>|4618 [PAGE_MISSING]"
 topic:
 first_letter: M
 page:

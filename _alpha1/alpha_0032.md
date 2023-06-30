@@ -22,7 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/275,2586,600,180/250,/0/default.jpg
 label: Ant
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
-issue:
+issue: The solitary "add" at the end of this entry may mark a cross-reference that
+  Pastorius mistakenly did not complete.
 also_in_entry:
 order: '031'
 layout: alpha_item
