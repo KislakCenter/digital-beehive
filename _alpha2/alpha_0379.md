@@ -25,7 +25,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/384,3106,600,180/250,/0/default.jpg
 label: Governmt
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
-issue: The point of reference for "Kingdom" is unclear.|The point of reference for
+issue: The point of reference for "Kingdom" is unclear. The point of reference for
   "post titulos decem" is unclear.
 also_in_entry:
 order: '107'

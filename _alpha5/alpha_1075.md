@@ -9,7 +9,7 @@ first_letter: Y
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0143/'>Childhood</a>|<a href='/digital-beehive/num4/num_1247/'>934
-  [a Boy]</a>|467 [Youth]"
+  [a Boy]</a>|<a href='/digital-beehive/num2/num_0582/'>467 [Youth]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4652/'>youth</a>"
 item: "#item-c4abd3d9f"

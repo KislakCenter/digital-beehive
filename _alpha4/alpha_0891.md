@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/776,185,600,180/250,/0/default.jpg
 label: Slavery
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-issue:
+issue: The point of reference for "Captivity" is not entirely clear. We linked to
+  351 [Captivity], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '239'
 layout: alpha_item

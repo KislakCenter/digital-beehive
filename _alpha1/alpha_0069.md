@@ -23,7 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/857,207,600,180/250,/0/default.jpg
 label: "[WORD_MISSING]"
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
-issue:
+issue: The topic of this entry is unknown due to damage to the manuscript, but is
+  likely "Beauty".
 also_in_entry:
 order: '068'
 layout: alpha_item

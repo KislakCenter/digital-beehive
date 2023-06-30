@@ -26,7 +26,7 @@ label: Covenant
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 issue: 'The cross-reference "(: old & new :) Testament" points to two separate entries.
   There is currently no protocol for linking a single cross-reference to two different
-  places. '
+  places.'
 also_in_entry:
 order: '181'
 layout: alpha_item

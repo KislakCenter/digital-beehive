@@ -9,13 +9,14 @@ first_letter: D
 page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0986/'>Trusting</a>|<a href='/digital-beehive/alpha4/alpha_0937/'>Suspition</a>|<a
-  href='/digital-beehive/alpha1/alpha_0134/'>Caution</a>|Desperation|1842 [PAGE_MISSING]"
+  href='/digital-beehive/alpha1/alpha_0134/'>Caution</a>|<a href='/digital-beehive/num1/num_0008/'>8
+  [Desperation]</a>|1842 [PAGE_MISSING]"
 see:
 index: "<a href='/digital-beehive/index1/index_1107/'>distrust</a>"
 item: "#item-a95c35cba"
 unparsed:
 line: 'Entry: Distrust|Topic: Distrust|Xref: Trusting|Xref: Suspition|Xref: Caution|Xref:
-  Desperation|Xref: 1842 [PAGE_MISSING]|Index: distrust|#item-a95c35cba'
+  8 [Desperation]|Xref: 1842 [PAGE_MISSING]|Index: distrust|#item-a95c35cba'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/788,4460,2976,567/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508175989105
@@ -24,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/788,4460,600,180/250,/0/default.jpg
 label: Distrust
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
-issue:
+issue: The point of reference for "Desperate" is not entirely clear. We linked to
+  8 [Desperation], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '248'
 layout: alpha_item

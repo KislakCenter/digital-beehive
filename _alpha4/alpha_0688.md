@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/240,302,600,180/250,/0/default.jpg
 label: Partakers
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
-issue:
+issue: The point of reference for "Fellowship" is not entirely clear. We linked to
+  283 [Fellowship], which is the first relevant entry in the numerical section of
+  the Alvearium.
 also_in_entry:
 order: '036'
 layout: alpha_item

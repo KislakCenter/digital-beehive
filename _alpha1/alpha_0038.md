@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/377,4065,600,180/250,/0/default.jpg
 label: Apostacy
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
-issue:
+issue: The point of reference for "Degenerating" is not entirely clear. We linked
+  to 14 [Degenerating], which is the first relevant entry in the numerical section
+  of the Alvearium.
 also_in_entry:
 order: '037'
 layout: alpha_item

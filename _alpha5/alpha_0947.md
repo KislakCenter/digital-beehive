@@ -26,7 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/358,4570
 label: Temptation
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue: The point of reference for "Instigation" is unclear. Pastorius perhaps intends
-  numerical entry 602 [Instigation].|The entry continues onto the next page.
+  numerical entry 602 [Instigation]. The entry continues onto the next page.
 also_in_entry:
 order: '007'
 layout: alpha_item

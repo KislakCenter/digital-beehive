@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0435/855,2678,600,180/250,/0/default.jpg
 label: Believe
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
-issue:
+issue: This entry points to numerical entry 705. We have chosen to link to both 705
+  [Believe] and 705 [Doubtfulness] here.
 also_in_entry:
 order: '076'
 layout: alpha_item

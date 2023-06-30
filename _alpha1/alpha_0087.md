@@ -27,8 +27,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/342,1627,600,180/250,/0/default.jpg
 label: Blockhead
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
-issue: It is unclear whether "It. nick-name" should be considered a cross-reference.|The
-  point of reference for "Stupidity" is unclear. Pastorius perhaps intends numerical
+issue: It is unclear whether "It. nick-name" should be considered a cross-reference.
+  The point of reference for "Stupidity" is unclear. Pastorius perhaps intends numerical
   entry 711 [Stupidity].
 also_in_entry:
 order: '086'

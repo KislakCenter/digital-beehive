@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/318,1438,600,180/250,/0/default.jpg
 label: Custom
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-issue:
+issue: The point of reference for "Accustoming" is not entirely clear. We linked to
+  127 [Accustoming], which is the first relevant entry in the numerical section of
+  the Alvearium.
 also_in_entry:
 order: '205'
 layout: alpha_item

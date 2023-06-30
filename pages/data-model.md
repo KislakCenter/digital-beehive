@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beehive Data Structure
-permalink: '/data-structure/'
+permalink: '/data-model/'
 ---
 
 ### About the Alvearium Data Model
@@ -122,18 +122,22 @@ Add: caution
 ```
 
 ##### Crochets
-Because the Alvearium is organized alphabetically, Pastorius created a system for inserting index entries in their proper alphabetical place, most likely after he had run out of space to do so. Occasionally, Pastorius enters a number in square brackets. For instance, next to "to tremble" on [image 3.48](crochets001.jpg) of the Octavo Index, Pastorius writes ["[:13.]](crochets002.jpg)." All of the numerical 'crochets' in the Octavo Index refer to a page called "Some Additional words between two Crochets,"" which appears on [image 3.54](https://kislakcenter.github.io/digital-beehive/toc/toc3_54/) of the Octavo Index, which lists the heads of the 'crochet' entries and their associated Alvearium entries (where, for instance, it is revealed that [:13.] is "trespass"). There are 63 of these crochets in total.
+Because the Alvearium is organized alphabetically, Pastorius created a system for inserting index entries in their proper alphabetical place, most likely after he had run out of space to do so. Occasionally, Pastorius enters a number in square brackets. For instance, next to "to tremble" on image 3.48 of the Octavo Index, Pastorius writes "[:13.]."
+![image 3.48](crochets001.jpg) 
+
+All of the numerical 'crochets' in the Octavo Index refer to a page called "Some Additional words between two Crochets," which appears on [image 3.54](https://kislakcenter.github.io/digital-beehive/toc/toc3_54/)of the Octavo Index, which lists the heads of the 'crochet' entries and their associated Alvearium entries (where, for instance, it is revealed that [:13.] is "trespass"). There are 63 of these crochets in total.
+![:13.](crochets002.jpg)
 
 
 ### Exception codes
 The following tags are used to denote problematic entries:
 
--```[PAGE_MISSING]```-- the page on which the entry would be is missing from the Beehive
--```[WORD_MISSING]```-- numerical entry present, word not visible with text
--```[INDEX_HEADING_MISSING]```-- numerical entry or alphabetic entry present, term not found in index
--```[NUMERICAL_ENTRY_MISSING]```-- numerical entry referred to not found
--```[WORD_ILLEGIBLE]```-- numerical entry present, word present but not legible
--```[NOT_IN_INDEX]```-- numerical entry present, number not referenced in index
+- ```[PAGE_MISSING]``` the page on which the entry would be is missing from the Beehive
+- ```[WORD_MISSING]``` numerical entry present, word not visible with text
+- ```[INDEX_HEADING_MISSING]``` numerical entry or alphabetic entry present, term not found in index
+- ```[NUMERICAL_ENTRY_MISSING]``` numerical entry referred to not found
+- ```[WORD_ILLEGIBLE]``` numerical entry present, word present but not legible
+- ```[NOT_IN_INDEX]``` numerical entry present, number not referenced in index
 
 
 ### Inconsistencies

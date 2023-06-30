@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/335,4285,600,180/250,/0/default.jpg
 label: Zeal
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-issue:
+issue: The point of reference for "Impotency" is not entirely clear. We linked to
+  334 [Impotency], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '136'
 layout: alpha_item

@@ -8,7 +8,8 @@ topic: Master
 first_letter: M
 page:
 add:
-xref: "<a href='/digital-beehive/alpha4/alpha_0863/'>Servant</a>|1323 [Master's]"
+xref: "<a href='/digital-beehive/alpha4/alpha_0863/'>Servant</a>|<a href='/digital-beehive/num6/num_1855/'>1323
+  [Master's]</a>"
 see:
 index: "<a href='/digital-beehive/index3/index_2445/'>master</a>"
 item: "#item-25255fee1"

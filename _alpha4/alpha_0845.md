@@ -22,7 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0517/743,4409,600,180/250,/0/default.jpg
 label: Secretary
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-issue:
+issue: The solitary "add" at the end of this entry may mark a cross-reference that
+  Pastorius mistakenly did not complete.
 also_in_entry:
 order: '193'
 layout: alpha_item

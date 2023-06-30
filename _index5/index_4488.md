@@ -3,7 +3,7 @@ pid: index_4488
 volume: Volume 3
 image_number: '52'
 head: watch
-entry: 758 [PAGE_MISSING]|1374 [a Clock]
+entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1958/'>1374 [Clock]</a>
 topic:
 first_letter: W
 page:
@@ -13,13 +13,13 @@ see: "<a href='/digital-beehive/index1/index_0696/'>Clock</a>"
 index:
 item: "#item-86e74d2b7"
 unparsed:
-line: 'Head: watch|See: Clock|Entry: 758 [PAGE_MISSING]|Entry: 1374 [a Clock]|#item-86e74d2b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/532,900,577,158/full/0/default.jpg
+line: 'Head: watch|See: Clock|Entry: 758 [PAGE_MISSING]|Entry: 1374 [Clock]|#item-86e74d2b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/530,898,579,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560960247640
-sort_value: '305210900'
+sort_value: '305210898'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/532,900,577,158/150,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/530,898,579,160/150,/0/default.jpg
 label: watch
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:

@@ -25,7 +25,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/248,2326,600,180/250,/0/default.jpg
 label: Accusation
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
-issue:
+issue: The point of reference for "Perverting" is not entirely clear. We linked to
+  122 [Perverting], which is the first relevant entry in the numerical section of
+  the Alvearium.
 also_in_entry:
 order: '004'
 layout: alpha_item

@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/247,360,600,180/250,/0/default.jpg
 label: Security
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
-issue:
+issue: The point of reference for "Preparation" is not entirely clear. We linked to
+  636 [Preparation], which is the first relevant entry in the numerical section of
+  the Alvearium.
 also_in_entry:
 order: '195'
 layout: alpha_item

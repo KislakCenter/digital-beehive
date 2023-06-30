@@ -13,7 +13,7 @@ see:
 index:
 item: "#item-04b2950cf"
 unparsed:
-line: 'Head: James I|1468 [Mole : Müttermal]|#item-04b2950cf'
+line: 'Head: James I|Entry: 1468 [Mole : Müttermal]|#item-04b2950cf'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,329,470,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559658648355

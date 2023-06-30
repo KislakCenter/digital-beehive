@@ -12,8 +12,8 @@ xref:
 see:
 index:
 item: "#item-87a70fce4"
-unparsed: Type Index|Insertion [:13.]
-line: 'Type: Index|Insertion [:13.]|Head: trespass|Entry: 1916 [Trespass]|#item-87a70fce4'
+unparsed: 'Type Index|Insertion: [:13.]'
+line: 'Type: Index|Insertion: [:13.]|Head: trespass|Entry: 1916 [Trespass]|#item-87a70fce4'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/382,2096,556,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560868710059

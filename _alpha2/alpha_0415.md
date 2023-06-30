@@ -22,7 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/800,1401,600,180/250,/0/default.jpg
 label: Hen
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-issue:
+issue: The point of reference for "Cock" is not entirely clear. We linked to 723 [Cock],
+  which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '143'
 layout: alpha_item

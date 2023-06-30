@@ -15,16 +15,16 @@ item: "#item-352e6ec4b"
 unparsed:
 line: 'Entry: Prison, continued|Topic: Prison, continued|Xref: Prison|Xref: Custody|Index:
   prison|#item-352e6ec4b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/284,224,3050,511/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/282,222,3052,513/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565100294724
-sort_value: '204310224'
+sort_value: '204310222'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/284,224,600,180/250,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/282,222,600,180/250,/0/default.jpg
 label: Prison, continued
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-issue: 'It is unclear whether this entry is a new entry or a continuation of the preceding
-  entry. '
+issue: It is unclear whether this entry is a new entry or a continuation of the preceding
+  entry.
 also_in_entry:
 order: '088'
 layout: alpha_item

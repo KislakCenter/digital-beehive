@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/260,520,600,180/250,/0/default.jpg
 label: Obscurity
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue:
+issue: The point of reference for "Plainness" is not entirely clear. We linked to
+  113 [Plainness], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '004'
 layout: alpha_item

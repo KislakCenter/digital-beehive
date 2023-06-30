@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/304,3428,600,180/250,/0/default.jpg
 label: Skill
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
-issue:
+issue: The point of reference for "Ability" is not entirely clear. We linked to 258
+  [Ability], which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '235'
 layout: alpha_item

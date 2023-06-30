@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/322,425,600,180/250,/0/default.jpg
 label: Banishment
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
-issue:
+issue: The point of reference for "Pilgrimage" is not entirely clear. We linked to
+  30 [Pilgrimage], which is the first relevant entry in the numerical section of the
+  Alvearium.
 also_in_entry:
 order: '054'
 layout: alpha_item

@@ -23,7 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/307,1622,600,180/250,/0/default.jpg
 label: Utility
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
-issue:
+issue: The point of reference for "Use" is not entirely clear. We linked to 155 [Use],
+  which is the first relevant entry in the numerical section of the Alvearium.
 also_in_entry:
 order: '080'
 layout: alpha_item
