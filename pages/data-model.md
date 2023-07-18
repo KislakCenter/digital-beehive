@@ -4,13 +4,13 @@ title: Beehive Data Structure
 permalink: '/data-model/'
 ---
 
-### About the Alvearium Data Model
+#### About the Alvearium Data Model
 
 The Digital Beehive Project uses a Mirador annotation server to create the linked entries of the Alvearium, a section of the Beehive. Each annotation is linked to a canvas, which is defined as a page from the Beehive. An individual page of the Alvearium may contain as many as 15 entries. The Beehive data can be viewed at the whole page level, or at the level of individual entries. 
 
 The core data for the Digital Beehive Project consists of the annotations and canvases created in the Mirador server. These annotations provide minimal metadata that copy, as accurately as possible, the content of the Beehive.
 
-### Beehive Entries
+#### Beehive Entries
 
 The Alvearium contains a section of entries arranged alphabetically by topic, as well as a section of entries that Pastorius arranged by number. Additionally, most entries of the Alvearium are listed in an index that Pastorius composed as a separate octavo codex.
 
@@ -46,7 +46,7 @@ Page: p.234 [Image 1.385]
 Index: malabaria
 #item-a5b22479c
 ```
-### Anatomy of a Beehive Annotation
+#### Anatomy of a Beehive Annotation
 ##### Viewing individual annotations
 
 - Boxes are drawn to include the full text of the entry. In order to capture that full text, boxes for one entry may also contain some of the previous or subsequent entries from the same page of the Alvearium. In general, any text (typically cross-references) that appears above the line dividing entries belongs to the previous entry, even if it is visible in the annotation canvas of the next topic.
@@ -81,7 +81,7 @@ Index: malabaria
 ![4455 [Some short Rhimes]](https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0900/407,3759,2968,346/full/0/default.jpg)
 - Pastorius also added capital R's in the margins of some entries. One numerical entry in the Alvearium, 4455 [Some short Rhimes], explains that some of those R entries contain "Some short Rhimes," but it is not clear whether every appearance of an R is indicative of rhyme. Previous project teams believed the R's to denote references to works enumerated in one of Pastorius’ book lists.
 
-### The Octavo Index
+#### The Octavo Index
 A typical annotation from the Octavo Index looks like this:
 
 ![bible](https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1090,234,517,134/full/0/default.jpg)
@@ -129,7 +129,7 @@ All of the numerical 'crochets' in the Octavo Index refer to a page called "Some
 ![:13.](crochets002.jpg)
 
 
-### Exception codes
+#### Exception codes
 The following tags are used to denote problematic entries:
 
 - ```[PAGE_MISSING]``` the page on which the entry would be is missing from the Beehive
@@ -140,5 +140,5 @@ The following tags are used to denote problematic entries:
 - ```[NOT_IN_INDEX]``` numerical entry present, number not referenced in index
 
 
-### Inconsistencies
+#### Inconsistencies
 - The Alvearium and index were annotated by many hands over the course of many years. We have attempted to regularize the annotations according to our protocol and to the best of our abilities, but annotation protocols, use of exception codes, and interpretations of Pastorius' intentions have all changed over time, and inconsistencies may appear in the data, particularly with regard to linkages to manuscript sections outside of the Alvearium.
