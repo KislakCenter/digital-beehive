@@ -23,7 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/328,614,600,180/250,/0/default.jpg
 label: Wind
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-issue: 'The point of reference for "1316" is unclear. '
+issue: The point of reference for "1316" is unclear.
 also_in_entry:
 order: '102'
 layout: alpha_item

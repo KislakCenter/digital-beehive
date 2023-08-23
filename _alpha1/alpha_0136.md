@@ -23,8 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/310,216,600,180/250,/0/default.jpg
 label: Ceremony
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
-issue: 'Damage to the manuscript has made the topic of one of this entry''s cross
-  references illegible. '
+issue: Damage to the manuscript has made the topic of one of this entry's cross references
+  illegible.
 also_in_entry:
 order: '135'
 layout: alpha_item
