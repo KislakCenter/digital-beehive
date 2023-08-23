@@ -1,30 +1,29 @@
 ---
 pid: index_4522
 volume: Volume 3
-image_number: '52'
-head: West Indies
-entry: "<a href='/digital-beehive/num5/num_1520/'>1122 [West Indies]</a>"
+image_number: '53'
+head: bad woman
+entry:
 topic:
 first_letter: W
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4524/'>womans Imper</a>"
 index:
-item: "#item-1b38e5fa0"
+item: "#item-ebaa80d0b"
 unparsed:
-line: 'Head: West Indies|Entry: 1122 [West Indies]|#item-1b38e5fa0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1076,2003,483,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969155104
-sort_value: '305222003'
+line: 'Head: bad woman|See: womans Imper|#item-ebaa80d0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/213,3582,643,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793711360
+sort_value: '305313582'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1076,2003,483,150/150,/0/default.jpg
-label: West Indies
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/213,3582,643,169/150,/0/default.jpg
+label: bad woman
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '484'
+order: '545'
 layout: index_item
 collection: index5
 ---

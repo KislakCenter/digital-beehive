@@ -2,8 +2,8 @@
 pid: index_2026
 volume: Volume 3
 image_number: '26'
-head: inexpressible
-entry: "<a href='/digital-beehive/num2/num_0424/'>359 [Unspeakable]</a>"
+head: inseparable
+entry: "<a href='/digital-beehive/num3/num_0652/'>521 [Inseparable]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d89668f74"
+item: "#item-a4bfbc2ba"
 unparsed:
-line: 'Head: inexpressible|Entry: 359 [Unspeakable]|#item-d89668f74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/467,789,601,107/full/0/default.jpg
+line: 'Head: inseparable|Entry: 521 [Inseparable]|#item-a4bfbc2ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1166,482,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559743873565
-sort_value: '302610789'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747613735
+sort_value: '302621166'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/467,789,601,107/150,/0/default.jpg
-label: inexpressible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1166,482,140/150,/0/default.jpg
+label: inseparable
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '108'
+order: '141'
 layout: index_item
 collection: index3
 ---

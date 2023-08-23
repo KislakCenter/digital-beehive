@@ -1,9 +1,9 @@
 ---
 pid: index_4056
 volume: Volume 3
-image_number: '46'
-head: tansie
-entry: "<a href='/digital-beehive/num3/num_0992/'>692 [Tansie]</a>"
+image_number: '47'
+head: I think
+entry: 4743 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d24ad7986"
+item: "#item-bc55a7e2e"
 unparsed:
-line: 'Head: tansie|Entry: 692 [Tansie]|#item-d24ad7986'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1828,2273,409,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743171677
-sort_value: '304632273'
+line: 'Head: I think|Entry: 4743 [PAGE_MISSING]|#item-bc55a7e2e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/897,1847,462,98/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532721102534
+sort_value: '304721847'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1828,2273,409,145/150,/0/default.jpg
-label: tansie
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/897,1847,462,98/150,/0/default.jpg
+label: I think
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '018'
+order: '079'
 layout: index_item
 collection: index5
 ---

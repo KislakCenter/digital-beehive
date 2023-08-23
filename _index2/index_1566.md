@@ -1,30 +1,29 @@
 ---
 pid: index_1566
 volume: Volume 3
-image_number: '21'
-head: furniture
-entry: "<a href='/digital-beehive/num3/num_1060/'>718 [Household stuff]</a>"
+image_number: '22'
+head: genethliacum
+entry:
 topic:
-first_letter: F
-page:
+first_letter: G
+page: "<a href='/digital-beehive/toc/toc1_231/'>p.63 [Image 1.241]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-acde67f78"
+item: "#item-cbcccbf51"
 unparsed:
-line: 'Head: furniture|Entry: 718 [Household stuff]|#item-acde67f78'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1544,1260,576,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786109894
-sort_value: '302131260'
+line: 'Head: genethliacum|Page: p.63 [Image 1.241]|#item-cbcccbf51'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/416,403,546,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561041964016
+sort_value: '302210403'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1544,1260,576,138/150,/0/default.jpg
-label: furniture
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '385'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/416,403,546,147/150,/0/default.jpg
+label: genethliacum
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+issue: The page reference refers to Pastorius's older system of pagination.
+order: '407'
 layout: index_item
 collection: index2
 ---

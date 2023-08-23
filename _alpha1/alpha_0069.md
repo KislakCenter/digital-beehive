@@ -10,7 +10,7 @@ page:
 add:
 xref: "[WORD_MISSING]|<a href='/digital-beehive/num3/num_0824/'>616 [Beauty]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0323/'>beauty</a>"
+index: "<a href='/digital-beehive/index1/index_0315/'>beauty</a>"
 item: "#item-74417d341"
 unparsed:
 line: 'Entry: [WORD_MISSING]|Topic: Beauty|Xref: [WORD_MISSING]|Xref: 616 [Beauty]|Index:

@@ -2,8 +2,8 @@
 pid: index_0679
 volume: Volume 3
 image_number: '13'
-head: civil war
-entry: "<a href='/digital-beehive/num5/num_1631/'>1195 [Civil war]</a>"
+head: clerk
+entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ebc862d7f"
+item: "#item-b6f5abb5c"
 unparsed:
-line: 'Head: civil war|Entry: 1195 [Civil war]|#item-ebc862d7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/172,2824,484,122/full/0/default.jpg
+line: 'Head: clerk|Entry: 260 [Scribe or publick Notary]|#item-b6f5abb5c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/850,805,416,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536333176111
-sort_value: '301312824'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536334214371
+sort_value: '301320805'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/172,2824,484,122/150,/0/default.jpg
-label: civil war
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/850,805,416,123/150,/0/default.jpg
+label: clerk
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0678'
 layout: index_item
 collection: index1

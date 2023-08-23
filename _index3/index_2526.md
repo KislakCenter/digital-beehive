@@ -1,30 +1,30 @@
 ---
 pid: index_2526
 volume: Volume 3
-image_number: '30'
-head: ministra[ti]on
-entry:
+image_number: '31'
+head: monk
+entry: "<a href='/digital-beehive/alpha3/alpha_0606/'>a</a>|<a href='/digital-beehive/num2/num_0576/'>462
+  [Monks]</a>|<a href='/digital-beehive/num7/num_2383/'>1588 [Monk]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1090/'>dispensation</a>"
+see:
 index:
-item: "#item-179ef4b35"
+item: "#item-4df9892d6"
 unparsed:
-line: 'Head: ministra[ti]on|See: dispensation|#item-179ef4b35'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1840,2802,663,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274648632
-sort_value: '303032802'
+line: 'Head: monk|Entry: a|Entry: 462 [Monks]|Entry: 1588 [Monk]|#item-4df9892d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/871,724,611,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560354999401
+sort_value: '303120724'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1840,2802,663,152/150,/0/default.jpg
-label: ministra[ti]on
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/871,724,611,125/150,/0/default.jpg
+label: monk
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '608'
+order: '641'
 layout: index_item
 collection: index3
 ---

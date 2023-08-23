@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0498/'>Judgmt of God</a>|<a href='/digital-beehive/num1/num_0033/'>33
   [Last day]</a>|<a href='/digital-beehive/num4/num_1318/'>988 [Last day of Judgmt]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2204/'>last day</a>"
+index: "<a href='/digital-beehive/index3/index_2168/'>last day</a>"
 item: "#item-aaa97c3ac"
 unparsed:
 line: 'Entry: Last day of Judgmt|Topic: Last day of Judgmt|Xref: Judgmt of God|Xref:

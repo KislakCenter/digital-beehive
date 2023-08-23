@@ -1,9 +1,9 @@
 ---
 pid: index_0335
 volume: Volume 3
-image_number: '9'
-head: to befall
-entry: 833 [PAGE_MISSING]
+image_number: '10'
+head: behemoth
+entry: "<a href='/digital-beehive/alpha1/alpha_0075/'>a</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-e217988bc"
+item: "#item-3041bd8a3"
 unparsed:
-line: 'Head: to befall|Entry: 833 [PAGE_MISSING]|#item-e217988bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1585,3151,463,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531145987617
-sort_value: '300933151'
+line: 'Head: behemoth|Entry: a|#item-3041bd8a3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/391,694,450,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531146771783
+sort_value: '301010694'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1585,3151,463,150/150,/0/default.jpg
-label: to befall
-location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/391,694,450,127/150,/0/default.jpg
+label: behemoth
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0334'
 layout: index_item
 collection: index1

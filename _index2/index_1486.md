@@ -2,8 +2,8 @@
 pid: index_1486
 volume: Volume 3
 image_number: '21'
-head: to flow
-entry: "<a href='/digital-beehive/num3/num_0950/'>678 [To flow]</a>"
+head: a fork
+entry: "<a href='/digital-beehive/num3/num_0932/'>672 [A Fork]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1670cd8a2"
+item: "#item-264918112"
 unparsed:
-line: 'Head: to flow|Entry: 678 [To flow]|#item-1670cd8a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/174,275,559,102/full/0/default.jpg
+line: 'Head: a fork|Entry: 672 [A Fork]|#item-264918112'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/207,2909,373,62/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531232591857
-sort_value: '302110275'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531503224614
+sort_value: '302112909'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/174,275,559,102/150,/0/default.jpg
-label: to flow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/207,2909,373,62/150,/0/default.jpg
+label: a fork
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '305'
+order: '327'
 layout: index_item
 collection: index2
 ---

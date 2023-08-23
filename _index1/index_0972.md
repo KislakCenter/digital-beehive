@@ -1,29 +1,28 @@
 ---
 pid: index_0972
 volume: Volume 3
-image_number: '15'
-head: debauch
-entry:
+image_number: '16'
+head: degenerating
+entry: "<a href='/digital-beehive/num1/num_0014/'>14 [Degenerating]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3404/'>revelling</a>"
+see:
 index:
-item: "#item-c9db7a647"
+item: "#item-44a173dd4"
 unparsed:
-line: 'Head: debauch|See: revelling|#item-c9db7a647'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1535,3474,717,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540392491289
-sort_value: '301533474'
+line: 'Head: degenerating|Entry: 14 [Degenerating]|#item-44a173dd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/324,2143,570,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572234733
+sort_value: '301612143'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1535,3474,717,134/150,/0/default.jpg
-label: debauch
-location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/324,2143,570,137/150,/0/default.jpg
+label: degenerating
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0971'
 layout: index_item
 collection: index1

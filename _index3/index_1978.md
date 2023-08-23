@@ -2,29 +2,28 @@
 pid: index_1978
 volume: Volume 3
 image_number: '25'
-head: imprisonmt
-entry:
+head: indeed
+entry: "<a href='/digital-beehive/num6/num_2060/'>1422 [In (very) Deed]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3162/'>prison</a>"
+see:
 index:
-item: "#item-45948aa65"
+item: "#item-fae32567a"
 unparsed:
-line: 'Head: imprisonmt|See: prison|#item-45948aa65'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/full/0/default.jpg
+line: 'Head: indeed|Entry: 1422 [In (very) Deed]|#item-fae32567a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1554,2686,430,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667079955
-sort_value: '302522460'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672636359
+sort_value: '302532686'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/150,/0/default.jpg
-label: imprisonmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1554,2686,430,94/150,/0/default.jpg
+label: indeed
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '060'
+order: '093'
 layout: index_item
 collection: index3
 ---

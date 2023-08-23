@@ -1,9 +1,9 @@
 ---
 pid: index_3960
 volume: Volume 3
-image_number: '45'
-head: substantial
-entry: "<a href='/digital-beehive/num1/num_0094/'>92 [Substantial]</a>"
+image_number: '46'
+head: Swedes
+entry: "<a href='/digital-beehive/num6/num_1889/'>1340 [Swedland & Denmark]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c48e90069"
+item: "#item-f3e25d638"
 unparsed:
-line: 'Head: substantial|Entry: 92 [Substantial]|#item-c48e90069'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1606,1637,485,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530468809311
-sort_value: '304531637'
+line: 'Head: Swedes|Entry: 1340 [Swedland & Denmark]|#item-f3e25d638'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1096,1739,422,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531691672942
+sort_value: '304621739'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1606,1637,485,140/150,/0/default.jpg
-label: substantial
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1096,1739,422,110/150,/0/default.jpg
+label: Swedes
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1208'
+order: '1252'
 layout: index_item
 collection: index4
 ---

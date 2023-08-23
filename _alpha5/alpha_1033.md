@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0392/'>Gun</a>|<a href='/digital-beehive/num5/num_1603/'>1175
   [Weapons]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4500/'>weapons</a>"
+index: "<a href='/digital-beehive/index5/index_4431/'>weapons</a>"
 item: "#item-5f871b9e0"
 unparsed:
 line: 'Entry: Weapons of the apostolical warfare|Topic: Weapons of the apostolical

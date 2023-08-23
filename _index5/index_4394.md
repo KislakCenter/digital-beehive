@@ -1,30 +1,29 @@
 ---
 pid: index_4394
 volume: Volume 3
-image_number: '50'
-head: university degrees
-entry: "<a href='/digital-beehive/num7/num_2582/'>1679 [University-Degrees]</a>"
+image_number: '51'
+head: to walk
+entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1556/'>1142 [To Go]</a>
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d019aacb5"
+item: "#item-a9759f1f4"
 unparsed:
-line: 'Head: university degrees|Entry: 1679 [University-Degrees]|#item-d019aacb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1097,2032,533,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560881940882
-sort_value: '305022032'
+line: 'Head: to walk|Entry: 805 [PAGE_MISSING]|Entry: 1142 [To Go]|#item-a9759f1f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1645,926,614,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647670684
+sort_value: '305130926'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1097,2032,533,131/150,/0/default.jpg
-label: university degrees
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1645,926,614,107/150,/0/default.jpg
+label: to walk
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '356'
+order: '417'
 layout: index_item
 collection: index5
 ---

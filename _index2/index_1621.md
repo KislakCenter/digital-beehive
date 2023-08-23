@@ -2,8 +2,8 @@
 pid: index_1621
 volume: Volume 3
 image_number: '22'
-head: gleanings
-entry: "<a href='/digital-beehive/num8/num_2790/'>1903 [Gleanings]</a>"
+head: God's mercy
+entry: "<a href='/digital-beehive/num2/num_0392/'>338 [Mercy]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-63d1c3ce9"
+item: "#item-17444bcf4"
 unparsed:
-line: 'Head: gleanings|Entry: 1903 [Gleanings]|#item-63d1c3ce9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/411,3141,541,156/full/0/default.jpg
+line: 'Head: God''s mercy|Entry: 338 [Mercy]|#item-17444bcf4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,2223,415,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044120644
-sort_value: '302213141'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047724204
+sort_value: '302222223'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/411,3141,541,156/150,/0/default.jpg
-label: gleanings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,2223,415,131/150,/0/default.jpg
+label: God's mercy
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '440'
+order: '462'
 layout: index_item
 collection: index2
 ---

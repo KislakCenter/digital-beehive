@@ -2,8 +2,8 @@
 pid: index_0220
 volume: Volume 3
 image_number: '8'
-head: as well as
-entry: 777 [PAGE_MISSING]
+head: assistant
+entry: "<a href='/digital-beehive/num6/num_1979/'>1384 [Assistant]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-8cb5ed646"
+item: "#item-84275417a"
 unparsed:
-line: 'Head: as well as|Entry: 777 [PAGE_MISSING]|#item-8cb5ed646'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1783,2021,508,95/full/0/default.jpg
+line: 'Head: assistant|Entry: 1384 [Assistant]|#item-84275417a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1760,2710,552,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631645979
-sort_value: '300832021'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631913123
+sort_value: '300832710'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1783,2021,508,95/150,/0/default.jpg
-label: as well as
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1760,2710,552,165/150,/0/default.jpg
+label: assistant
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0219'
 layout: index_item
 collection: index1

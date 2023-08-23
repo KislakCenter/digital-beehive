@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0323/'>fear</a>|<a href='/digital-beehive/num3/num_0927/'>669
   [Terrour]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4096/'>terrour</a>"
+index: "<a href='/digital-beehive/index5/index_4034/'>terrour</a>"
 item: "#item-9b7e9cd67"
 unparsed:
 line: 'Entry: Terrour|Topic: Terrour|Xref: fear|Xref: 669 [Terrour]|Index: terrour|#item-9b7e9cd67'

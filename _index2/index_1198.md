@@ -2,8 +2,8 @@
 pid: index_1198
 volume: Volume 3
 image_number: '18'
-head: great Eaters, and to eat
-entry: 823 [PAGE_MISSING]
+head: election
+entry: "<a href='/digital-beehive/num2/num_0335/'>296 [Election]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e27c96a34"
+item: "#item-03abd63b4"
 unparsed:
-line: 'Head: great Eaters, and to eat|Entry: 823 [PAGE_MISSING]|#item-e27c96a34'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/380,3243,621,180/full/0/default.jpg
+line: 'Head: election|Entry: 296 [Election]|#item-03abd63b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1147,2147,436,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668280438
-sort_value: '301813243'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674528113
+sort_value: '301822147'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/380,3243,621,180/150,/0/default.jpg
-label: great Eaters, and to eat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1147,2147,436,145/150,/0/default.jpg
+label: election
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '017'
+order: '039'
 layout: index_item
 collection: index2
 ---

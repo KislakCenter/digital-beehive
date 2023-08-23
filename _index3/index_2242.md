@@ -2,8 +2,8 @@
 pid: index_2242
 volume: Volume 3
 image_number: '28'
-head: leather
-entry: 767 [PAGE_MISSING]
+head: licentiousness
+entry: "<a href='/digital-beehive/num3/num_0721/'>565 [too much liberty]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b306ff255"
+item: "#item-25e4137ee"
 unparsed:
-line: 'Head: leather|Entry: 767 [PAGE_MISSING]|#item-b306ff255'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/392,2498,468,111/full/0/default.jpg
+line: 'Head: licentiousness|Entry: 565 [too much liberty]|#item-25e4137ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1111,2420,585,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842444900
-sort_value: '302812498'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846310155
+sort_value: '302822420'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/392,2498,468,111/150,/0/default.jpg
-label: leather
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1111,2420,585,120/150,/0/default.jpg
+label: licentiousness
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '324'
+order: '357'
 layout: index_item
 collection: index3
 ---

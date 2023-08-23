@@ -2,28 +2,27 @@
 pid: index_0931
 volume: Volume 3
 image_number: '15'
-head: custody
-entry: "<a href='/digital-beehive/alpha1/alpha_0205/'>a</a>"
+head: date
+entry:
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
 see:
 index:
-item: "#item-91c906f16"
+item: "#item-3e66db107"
 unparsed:
-line: 'Head: custody|Entry: a|#item-91c906f16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1563,369,366,117/full/0/default.jpg
+line: 'Head: date|#item-3e66db107'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1511,1675,429,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539810804059
-sort_value: '301530369'
+annotation_uri: http://dev.llgc.org.uk/annotation/1574701847084
+sort_value: '301531675'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1563,369,366,117/150,/0/default.jpg
-label: custody
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1511,1675,429,93/150,/0/default.jpg
+label: date
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0930'
 layout: index_item
 collection: index1

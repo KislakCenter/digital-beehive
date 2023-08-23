@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0777/'>Rarity</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1437/'>fewness</a>"
+index: "<a href='/digital-beehive/index2/index_1413/'>fewness</a>"
 item: "#item-5113dc0b5"
 unparsed:
 line: 'Entry: Fewness|Topic: Fewness|Xref: Rarity|Index: fewness|#item-5113dc0b5'

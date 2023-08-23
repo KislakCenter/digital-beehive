@@ -2,8 +2,8 @@
 pid: index_1920
 volume: Volume 3
 image_number: '25'
-head: James 3d
-entry: "<a href='/digital-beehive/num9/num_3130/'>2186 [the Pretender James 3d]</a>"
+head: ill name
+entry: "<a href='/digital-beehive/num1/num_0011/'>11 [Ill Name]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f0f03a072"
+item: "#item-9d636b7ee"
 unparsed:
-line: 'Head: James 3d|Entry: 2186 [the Pretender James 3d]|#item-f0f03a072'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/168,285,616,135/full/0/default.jpg
+line: 'Head: ill name|Entry: 11 [Ill Name]|#item-9d636b7ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/134,3504,418,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658677810
-sort_value: '302510285'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559663059753
+sort_value: '302513504'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/168,285,616,135/150,/0/default.jpg
-label: James 3d
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/134,3504,418,88/150,/0/default.jpg
+label: ill name
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '002'
+order: '035'
 layout: index_item
 collection: index3
 ---

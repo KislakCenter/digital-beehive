@@ -1,33 +1,29 @@
 ---
 pid: index_4474
 volume: Volume 3
-image_number: '51'
-head: war
-entry: "<a href='/digital-beehive/alpha5/alpha_1024/'>a</a>|<a href='/digital-beehive/num5/num_1644/'>1204
-  [War]</a>|<a href='/digital-beehive/num6/num_2201/'>1492 [Warfare]</a>|<a href='/digital-beehive/num9/num_3164/'>2220
-  [War]</a>|<a href='/digital-beehive/num11/num_3587/'>4913 [War]</a>"
+image_number: '52'
+head: why
+entry: "<a href='/digital-beehive/num3/num_0744/'>579 [Why?]</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-7a874acb5"
+item: "#item-98043a400"
 unparsed:
-line: 'Head: war|Page: p.40 [Image 1.100]|Entry: a|Entry: 1204 [War]|Entry: 1492 [Warfare]|Entry:
-  2220 [War]|Entry: 4913 [War]|#item-7a874acb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,2202,610,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648177200
-sort_value: '305132202'
+line: 'Head: why|Entry: 579 [Why?]|#item-98043a400'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1761,1321,396,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560971850514
+sort_value: '305231321'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1630,2202,610,158/150,/0/default.jpg
-label: war
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1761,1321,396,150/150,/0/default.jpg
+label: why
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '436'
+order: '497'
 layout: index_item
 collection: index5
 ---

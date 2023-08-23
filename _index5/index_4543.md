@@ -1,9 +1,9 @@
 ---
 pid: index_4543
 volume: Volume 3
-image_number: '52'
-head: why
-entry: "<a href='/digital-beehive/num3/num_0744/'>579 [Why?]</a>"
+image_number: '53'
+head: Works without faith
+entry: "<a href='/digital-beehive/num2/num_0537/'>433 [Works without faith]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-98043a400"
+item: "#item-94e8fbe44"
 unparsed:
-line: 'Head: why|Entry: 579 [Why?]|#item-98043a400'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1761,1321,396,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971850514
-sort_value: '305231321'
+line: 'Head: Works without faith|Entry: 433 [Works without faith]|#item-94e8fbe44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/850,2555,774,180/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797221346
+sort_value: '305322555'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1761,1321,396,150/150,/0/default.jpg
-label: why
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/850,2555,774,180/150,/0/default.jpg
+label: Works without faith
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '505'
+order: '566'
 layout: index_item
 collection: index5
 ---

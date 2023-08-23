@@ -2,8 +2,8 @@
 pid: index_2773
 volume: Volume 3
 image_number: '33'
-head: offerings
-entry: "<a href='/digital-beehive/num3/num_0636/'>506 [Gift]</a>"
+head: oration
+entry: "<a href='/digital-beehive/num6/num_2032/'>1409 [a Sermon]</a>"
 topic:
 first_letter: O
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7d027abbe"
+item: "#item-ab725b0ee"
 unparsed:
-line: 'Head: offerings|Entry: 506 [Gift]|#item-7d027abbe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/791,449,599,184/full/0/default.jpg
+line: 'Head: oration|Entry: 1409 [a Sermon]|#item-ab725b0ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1538,1880,500,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347943420
-sort_value: '303320449'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161982834
+sort_value: '303331880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/791,449,599,184/150,/0/default.jpg
-label: offerings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1538,1880,500,130/150,/0/default.jpg
+label: oration
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0021'
+order: '0065'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_2978
 volume: Volume 3
 image_number: '35'
-head: pewter
-entry: "<a href='/digital-beehive/num7/num_2522/'>1650 [Pewter]</a>"
+head: place
+entry: 817 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1592/'>1168 [Place]</a>
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1ce131ac2"
+item: "#item-b8cccbb8f"
 unparsed:
-line: 'Head: pewter|Entry: 1650 [Pewter]|#item-1ce131ac2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/826,1599,543,134/full/0/default.jpg
+line: 'Head: place|Entry: 817 [PAGE_MISSING]|Entry: 1168 [Place]|#item-b8cccbb8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1520,2810,568,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974436938
-sort_value: '303521599'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977118503
+sort_value: '303532810'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/826,1599,543,134/150,/0/default.jpg
-label: pewter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1520,2810,568,189/150,/0/default.jpg
+label: place
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0226'
+order: '0270'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_3170
 volume: Volume 3
 image_number: '37'
-head: to proceed
-entry: "<a href='/digital-beehive/num10/num_3313/'>2342 [To proceed]</a>"
+head: to publish
+entry: "<a href='/digital-beehive/num2/num_0630/'>500 [Publish abroad]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e2b6403dd"
+item: "#item-70b7cb4a5"
 unparsed:
-line: 'Head: to proceed|Entry: 2342 [To proceed]|#item-e2b6403dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/809,1141,606,86/full/0/default.jpg
+line: 'Head: to publish|Entry: 500 [Publish abroad]|#item-70b7cb4a5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1480,3455,587,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867733913
-sort_value: '303721141'
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869853356
+sort_value: '303733455'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/809,1141,606,86/150,/0/default.jpg
-label: to proceed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1480,3455,587,153/150,/0/default.jpg
+label: to publish
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0418'
+order: '0462'
 layout: index_item
 collection: index4
 ---

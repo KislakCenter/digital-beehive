@@ -2,29 +2,28 @@
 pid: index_2555
 volume: Volume 3
 image_number: '31'
-head: mogshade
-entry: "<a href='/digital-beehive/num3/num_0875/'>641 [mogshade]</a>"
+head: mother
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2834/'>parents</a>"
 index:
-item: "#item-f4ba0e769"
+item: "#item-c27d57ba5"
 unparsed:
-line: 'Head: mogshade|Entry: 641 [mogshade]|#item-f4ba0e769'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/167,2604,492,133/full/0/default.jpg
+line: 'Head: mother|See: parents|#item-c27d57ba5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,3198,551,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352712824
-sort_value: '303112604'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356878130
+sort_value: '303123198'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/167,2604,492,133/150,/0/default.jpg
-label: mogshade
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,3198,551,126/150,/0/default.jpg
+label: mother
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '637'
+order: '670'
 layout: index_item
 collection: index3
 ---

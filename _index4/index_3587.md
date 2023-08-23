@@ -1,11 +1,10 @@
 ---
 pid: index_3587
 volume: Volume 3
-image_number: '41'
-head: sect
-entry: "<a href='/digital-beehive/alpha4/alpha_0846/'>a</a>|<a href='/digital-beehive/num3/num_0635/'>505
-  [Sect]</a>|<a href='/digital-beehive/num6/num_1955/'>1373 [Sects]</a>|<a href='/digital-beehive/num10/num_3255/'>2291
-  [Sect]</a>|4724 [PAGE_MISSING]"
+image_number: '42'
+head: sermon
+entry: "<a href='/digital-beehive/num6/num_2032/'>1409 [a Sermon]</a>|<a href='/digital-beehive/num10/num_3463/'>4475
+  [Sermon]</a>"
 topic:
 first_letter: S
 page:
@@ -13,21 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a95d8049f"
+item: "#item-796f171f1"
 unparsed:
-line: 'Head: sect|Entry: a|Entry: 505 [Sect]|Entry: 1373 [Sects]|Entry: 2291 [Sect]|Entry:
-  4724 [PAGE_MISSING]|#item-a95d8049f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1581,2050,775,172/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242844732
-sort_value: '304132050'
+line: 'Head: sermon|Entry: 1409 [a Sermon]|Entry: 4475 [Sermon]|#item-796f171f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1119,812,689,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573737796
+sort_value: '304220812'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1581,2050,775,172/150,/0/default.jpg
-label: sect
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1119,812,689,132/150,/0/default.jpg
+label: sermon
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0835'
+order: '0879'
 layout: index_item
 collection: index4
 ---

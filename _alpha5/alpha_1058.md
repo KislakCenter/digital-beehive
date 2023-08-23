@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1170/'>900 [Word of God]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4604/'>word of God</a>"
+index: "<a href='/digital-beehive/index5/index_4533/'>word of God</a>"
 item: "#item-2e7f9bce6"
 unparsed:
 line: 'Entry: Word of God|Topic: Word of God|Xref: 900 [Word of God]|Index: word of

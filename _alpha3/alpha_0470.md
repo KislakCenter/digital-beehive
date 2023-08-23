@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0174/'>Consid</a>|1884 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2003/'>inconsiderancy</a>"
+index: "<a href='/digital-beehive/index3/index_1968/'>inconsiderancy</a>"
 item: "#item-62a54fe6c"
 unparsed:
 line: 'Entry: Inconsiderancy|Topic: Inconsiderancy|Xref: Consid|Xref: 1884 [PAGE_MISSING]|Index:

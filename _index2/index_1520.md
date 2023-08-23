@@ -2,29 +2,32 @@
 pid: index_1520
 volume: Volume 3
 image_number: '21'
-head: fortitude
-entry:
+head: friendship
+entry: "<a href='/digital-beehive/alpha2/alpha_0352/'>a</a>|<a href='/digital-beehive/num2/num_0532/'>429
+  [Friendship]</a>|<a href='/digital-beehive/num5/num_1598/'>1171 [Friendship]</a>|<a
+  href='/digital-beehive/num7/num_2573/'>1674 [Friendship]</a>|<a href='/digital-beehive/num11/num_3508/'>4813
+  [Friendship]</a>"
 topic:
 first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0880/'>Courage</a>"
+see:
 index:
-item: "#item-75e552efe"
+item: "#item-a6ff2f53a"
 unparsed:
-line: 'Head: fortitude|See: Courage|#item-75e552efe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/896,254,688,155/full/0/default.jpg
+line: 'Head: friendship|Entry: a|Entry: 429 [Friendship]|Entry: 1171 [Friendship]|Entry:
+  1674 [Friendship]|Entry: 4813 [Friendship]|#item-a6ff2f53a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/844,2533,711,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762812530
-sort_value: '302120254'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560783712245
+sort_value: '302122533'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/896,254,688,155/150,/0/default.jpg
-label: fortitude
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/844,2533,711,163/150,/0/default.jpg
+label: friendship
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '339'
+order: '361'
 layout: index_item
 collection: index2
 ---

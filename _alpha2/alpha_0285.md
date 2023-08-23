@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0513/'>Last</a>|<a href='/digital-beehive/alpha5/alpha_1062/'>World's
   End</a>|<a href='/digital-beehive/num4/num_1089/'>868 [End]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1248/'>end</a>"
+index: "<a href='/digital-beehive/index2/index_1225/'>end</a>"
 item: "#item-3f317cb7d"
 unparsed:
 line: 'Entry: End|Topic: End|Xref: Last|Xref: World''s End|Xref: 868 [End]|Index:

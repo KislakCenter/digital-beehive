@@ -2,28 +2,27 @@
 pid: index_0179
 volume: Volume 3
 image_number: '8'
-head: appearance
-entry:
+head: application
+entry: "<a href='/digital-beehive/num5/num_1380/'>1032 [Application]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1360/'>external</a>"
+see:
 index:
-item: "#item-526a670e5"
+item: "#item-2b3a9eaf7"
 unparsed:
-line: 'Head: appearance|See: external|#item-526a670e5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1116,1552,745,141/full/0/default.jpg
+line: 'Head: application|Entry: 1032 [Application]|#item-2b3a9eaf7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1103,2075,542,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760450271
-sort_value: '300821552'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760846209
+sort_value: '300822075'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1116,1552,745,141/150,/0/default.jpg
-label: appearance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1103,2075,542,135/150,/0/default.jpg
+label: application
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0178'
 layout: index_item
 collection: index1

@@ -2,29 +2,28 @@
 pid: index_2350
 volume: Volume 3
 image_number: '29'
-head: platonick love
-entry: "<a href='/digital-beehive/num7/num_2328/'>1559 [Platonical Love]</a>"
+head: maimed
+entry: "<a href='/digital-beehive/alpha3/alpha_0570/'>a</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-204741b1b"
+item: "#item-9e8a1ad57"
 unparsed:
-line: 'Head: platonick love|Entry: 1559 [Platonical Love]|#item-204741b1b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/164,2719,615,133/full/0/default.jpg
+line: 'Head: maimed|Entry: a|#item-9e8a1ad57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/787,3441,463,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180035033
-sort_value: '302912719'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189783980
+sort_value: '302923441'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/164,2719,615,133/150,/0/default.jpg
-label: platonick love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/787,3441,463,145/150,/0/default.jpg
+label: maimed
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '432'
+order: '465'
 layout: index_item
 collection: index3
 ---

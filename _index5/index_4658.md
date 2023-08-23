@@ -1,33 +1,30 @@
 ---
 pid: index_4658
 volume: Volume 3
-image_number: '53'
-head: Zoilus
-entry: "<a href='/digital-beehive/alpha5/alpha_1077/'>a</a>|<a href='/digital-beehive/num3/num_0851/'>629
-  [Zoilus]</a>|<a href='/digital-beehive/num7/num_2601/'>1689 [Zoilus]</a>|<a href='/digital-beehive/num10/num_3480/'>4492
-  [Zoilus]</a>"
+image_number: '54'
+head: angling
+entry: "<a href='/digital-beehive/num11/num_3570/'>4874 [Angling]</a>"
 topic:
-first_letter: Z
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-026c251d7"
+item: "#item-f60b6b63f"
 unparsed:
-line: 'Head: Zoilus|Entry: a|Entry: 629 [Zoilus]|Entry: 1689 [Zoilus]|Entry: 4492
-  [Zoilus]|#item-026c251d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1566,3388,730,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560870050349
-sort_value: '305333388'
+line: 'Type: Index|Insertion: [:61.]|Head: angling|Entry: 4874 [Angling]|#item-f60b6b63f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1771,2108,648,180/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957452767
+sort_value: '305432108'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1566,3388,730,145/150,/0/default.jpg
-label: Zoilus
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '620'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1771,2108,648,180/150,/0/default.jpg
+label: angling
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: Pastorius appears to have written 1874 under this entry. However, he likely
+  meant to write 4874 [Angling].
+order: '681'
 layout: index_item
 collection: index5
 ---

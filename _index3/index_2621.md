@@ -1,33 +1,29 @@
 ---
 pid: index_2621
 volume: Volume 3
-image_number: '31'
-head: musick
-entry: "<a href='/digital-beehive/alpha3/alpha_0623/'>a</a>|<a href='/digital-beehive/num2/num_0527/'>425
-  [Musick]</a>|<a href='/digital-beehive/num8/num_2746/'>1812 [Musick]</a>|<a href='/digital-beehive/num10/num_3209/'>2258
-  [Musick]</a>"
+image_number: '32'
+head: navy
+entry: "<a href='/digital-beehive/num7/num_2566/'>1671 [Fleet]</a>"
 topic:
-first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
+first_letter: N
+page:
 add:
 xref:
 see:
 index:
-item: "#item-9717b0844"
+item: "#item-565fffc52"
 unparsed:
-line: 'Head: musick|Page: p.41 [Image 1.101]|Entry: a|Entry: 425 [Musick]|Entry: 1812
-  [Musick]|Entry: 2258 [Musick]|#item-9717b0844'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1555,1992,752,179/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362264694
-sort_value: '303131992'
+line: 'Head: navy|Entry: 1671 [Fleet]|#item-565fffc52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2538,374,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438687014
+sort_value: '303212538'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1555,1992,752,179/150,/0/default.jpg
-label: musick
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2538,374,129/150,/0/default.jpg
+label: navy
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '703'
+order: '736'
 layout: index_item
 collection: index3
 ---

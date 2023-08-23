@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Crime</a>|<a href='/digital
   of Sin</a>|<a href='/digital-beehive/alpha5/alpha_1037/'>Wickedness</a>|<a href='/digital-beehive/num2/num_0371/'>322
   [Sin]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3718/'>sin</a>"
+index: "<a href='/digital-beehive/index4/index_3661/'>sin</a>"
 item: "#item-4f5133a05"
 unparsed:
 line: 'Entry: Sin|Topic: Sin|Xref: Crime|Xref: love of Sin|Xref: Wickedness|Xref:

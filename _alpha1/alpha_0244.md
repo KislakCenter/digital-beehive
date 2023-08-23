@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0602/'>Modesty</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1073/'>discretness</a>"
+index: "<a href='/digital-beehive/index1/index_1053/'>discretness</a>"
 item: "#item-b1771a258"
 unparsed:
 line: 'Entry: Discretness|Topic: Discretness|Xref: Modesty|Index: discretness|#item-b1771a258'

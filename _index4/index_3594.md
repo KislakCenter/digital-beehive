@@ -1,10 +1,9 @@
 ---
 pid: index_3594
 volume: Volume 3
-image_number: '41'
-head: seeking
-entry: "<a href='/digital-beehive/num1/num_0118/'>114 [Seeking]</a>|<a href='/digital-beehive/num8/num_2840/'>1927
-  [Seeking]</a>"
+image_number: '42'
+head: severity
+entry: "<a href='/digital-beehive/alpha4/alpha_0865/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-004e2fc71"
+item: "#item-4ecb3e178"
 unparsed:
-line: 'Head: seeking|Entry: 114 [Seeking]|Entry: 1927 [Seeking]|#item-004e2fc71'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1594,3021,557,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243082326
-sort_value: '304133021'
+line: 'Head: severity|Entry: a|#item-4ecb3e178'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1097,1570,485,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574159936
+sort_value: '304221570'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1594,3021,557,156/150,/0/default.jpg
-label: seeking
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1097,1570,485,166/150,/0/default.jpg
+label: severity
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0842'
+order: '0886'
 layout: index_item
 collection: index4
 ---

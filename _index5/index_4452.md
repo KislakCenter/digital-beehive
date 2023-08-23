@@ -1,30 +1,29 @@
 ---
 pid: index_4452
 volume: Volume 3
-image_number: '51'
-head: a Vulcano
-entry: "<a href='/digital-beehive/num1/num_0171/'>163 [Mountain]</a>"
+image_number: '52'
+head: West
+entry: 864 [PAGE_MISSING]
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-33820dfc7"
+item: "#item-35a8bb021"
 unparsed:
-line: 'Head: a Vulcano|Entry: 163 [Mountain]|#item-33820dfc7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/953,2402,541,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647058976
-sort_value: '305122402'
+line: 'Head: West|Entry: 864 [PAGE_MISSING]|#item-35a8bb021'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1073,1905,410,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969116745
+sort_value: '305221905'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/953,2402,541,108/150,/0/default.jpg
-label: a Vulcano
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1073,1905,410,119/150,/0/default.jpg
+label: West
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '414'
+order: '475'
 layout: index_item
 collection: index5
 ---

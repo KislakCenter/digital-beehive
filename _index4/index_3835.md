@@ -1,9 +1,9 @@
 ---
 pid: index_3835
 volume: Volume 3
-image_number: '44'
-head: Dr. Spener
-entry: "<a href='/digital-beehive/num6/num_2034/'>1410 [Dr. Philip James Spener]</a>"
+image_number: '45'
+head: stepfather
+entry: "<a href='/digital-beehive/alpha4/alpha_0914/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3bb57c2bc"
+item: "#item-ecd35866e"
 unparsed:
-line: 'Head: Dr. Spener|Entry: 1410 [Dr. Philip James Spener]|#item-3bb57c2bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1033,1955,640,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529941966848
-sort_value: '304421955'
+line: 'Head: stepfather|Entry: a|#item-ecd35866e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/195,1507,453,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565289982482
+sort_value: '304511507'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1033,1955,640,166/150,/0/default.jpg
-label: Dr. Spener
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/195,1507,453,134/150,/0/default.jpg
+label: stepfather
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1083'
+order: '1127'
 layout: index_item
 collection: index4
 ---

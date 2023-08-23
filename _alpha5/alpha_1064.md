@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0791/'>Religion</a>|<a href='/digital-beehive/alpha2/alpha_0306/'>external
   worship</a>|<a href='/digital-beehive/num2/num_0567/'>456 [Worship]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4623/'>worship</a>"
+index: "<a href='/digital-beehive/index5/index_4552/'>worship</a>"
 item: "#item-2b8a5b687"
 unparsed:
 line: 'Entry: Worshipping|Topic: Worshipping|Xref: Religion|Xref: external worship|Xref:

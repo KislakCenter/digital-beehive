@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0003/'>abundance</a>|<a href='/digital-beehive/alpha5/alpha_0970/'>Too
   much</a>|<a href='/digital-beehive/num5/num_1720/'>1245 [Superfluous : Needless]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3986/'>superfluity</a>"
+index: "<a href='/digital-beehive/index4/index_3927/'>superfluity</a>"
 item: "#item-1f1fa9dc7"
 unparsed:
 line: 'Entry: Superfluity|Topic: Superfluity|Xref: abundance|Xref: Too much|Xref:

@@ -2,9 +2,8 @@
 pid: index_4490
 volume: Volume 3
 image_number: '52'
-head: watchful
-entry: "<a href='/digital-beehive/alpha5/alpha_1029/'>a</a>|<a href='/digital-beehive/num6/num_1937/'>1363
-  [Watchfulness]</a>"
+head: wing
+entry: "<a href='/digital-beehive/num2/num_0506/'>410 [Wing]</a>"
 topic:
 first_letter: W
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b186a654c"
+item: "#item-a1cb0893c"
 unparsed:
-line: 'Head: watchful|Entry: a|Entry: 1363 [Watchfulness]|#item-b186a654c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/515,1162,590,111/full/0/default.jpg
+line: 'Head: wing|Entry: 410 [Wing]|#item-a1cb0893c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1795,3557,389,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960502865
-sort_value: '305211162'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972772751
+sort_value: '305233557'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/515,1162,590,111/150,/0/default.jpg
-label: watchful
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1795,3557,389,164/150,/0/default.jpg
+label: wing
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '452'
+order: '513'
 layout: index_item
 collection: index5
 ---

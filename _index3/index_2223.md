@@ -1,10 +1,9 @@
 ---
 pid: index_2223
 volume: Volume 3
-image_number: '27'
-head: Law of nature
-entry: "<a href='/digital-beehive/num3/num_0661/'>527 [Law of Nature]</a>|<a href='/digital-beehive/num3/num_0872/'>640
-  [Law of Nature]</a>"
+image_number: '28'
+head: to lessen
+entry: "<a href='/digital-beehive/num6/num_2180/'>1479 [to Lessen]</a>"
 topic:
 first_letter: L
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-960567940"
+item: "#item-1092fadfd"
 unparsed:
-line: 'Head: Law of nature|Entry: 527 [Law of Nature]|Entry: 640 [Law of Nature]|#item-960567940'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1497,3470,693,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837347732
-sort_value: '302733470'
+line: 'Head: to lessen|Entry: 1479 [to Lessen]|#item-1092fadfd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1135,575,506,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844288078
+sort_value: '302820575'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1497,3470,693,105/150,/0/default.jpg
-label: Law of nature
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1135,575,506,123/150,/0/default.jpg
+label: to lessen
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '305'
+order: '338'
 layout: index_item
 collection: index3
 ---

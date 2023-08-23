@@ -1,9 +1,11 @@
 ---
 pid: index_2301
 volume: Volume 3
-image_number: '28'
-head: linsey woolsey
-entry: "<a href='/digital-beehive/num7/num_2437/'>1613 [Linsey Woolsey]</a>"
+image_number: '29'
+head: love
+entry: "<a href='/digital-beehive/alpha3/alpha_0556/'>a</a>|<a href='/digital-beehive/num2/num_0542/'>438
+  [Love]</a>|<a href='/digital-beehive/num5/num_1454/'>1077 [Love]</a>|<a href='/digital-beehive/num10/num_3433/'>4452
+  [Love]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +13,19 @@ add:
 xref:
 see:
 index:
-item: "#item-27b41dccd"
+item: "#item-678ef107c"
 unparsed:
-line: 'Head: linsey woolsey|Entry: 1613 [Linsey Woolsey]|#item-27b41dccd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1834,1378,555,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848810845
-sort_value: '302831378'
+line: 'Head: love|Entry: a|Entry: 438 [Love]|Entry: 1077 [Love]|Entry: 4452 [Love]|#item-678ef107c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1944,713,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178876145
+sort_value: '302911944'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1834,1378,555,169/150,/0/default.jpg
-label: linsey woolsey
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1944,713,104/150,/0/default.jpg
+label: love
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '383'
+order: '416'
 layout: index_item
 collection: index3
 ---

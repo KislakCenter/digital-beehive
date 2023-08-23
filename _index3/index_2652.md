@@ -2,8 +2,8 @@
 pid: index_2652
 volume: Volume 3
 image_number: '32'
-head: natural affection
-entry: 4717 [PAGE_MISSING]
+head: new Jersey
+entry: "<a href='/digital-beehive/num7/num_2257/'>1522 [New Jersey]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4e881ea9d"
+item: "#item-6e5899584"
 unparsed:
-line: 'Head: natural affection|Entry: 4717 [PAGE_MISSING]|#item-4e881ea9d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/392,1650,740,80/full/0/default.jpg
+line: 'Head: new Jersey|Entry: 1522 [New Jersey]|#item-6e5899584'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1138,1934,465,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437870626
-sort_value: '303211650'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442528549
+sort_value: '303221934'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/392,1650,740,80/150,/0/default.jpg
-label: natural affection
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1138,1934,465,119/150,/0/default.jpg
+label: new Jersey
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '734'
+order: '767'
 layout: index_item
 collection: index3
 ---

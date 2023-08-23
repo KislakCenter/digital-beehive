@@ -2,8 +2,8 @@
 pid: index_3705
 volume: Volume 3
 image_number: '43'
-head: signature
-entry: "<a href='/digital-beehive/num3/num_0911/'>660 [Signature]</a>"
+head: smoke
+entry: 768 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b9e53da6f"
+item: "#item-78217ba17"
 unparsed:
-line: 'Head: signature|Entry: 660 [Signature]|#item-b9e53da6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/177,1108,517,142/full/0/default.jpg
+line: 'Head: smoke|Entry: 768 [PAGE_MISSING]|#item-78217ba17'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1574,260,438,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581928716
-sort_value: '304311108'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585014742
+sort_value: '304330260'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/177,1108,517,142/150,/0/default.jpg
-label: signature
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1574,260,438,138/150,/0/default.jpg
+label: smoke
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0953'
+order: '0997'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,28 @@
 pid: index_1327
 volume: Volume 3
 image_number: '19'
-head: examination
-entry: "<a href='/digital-beehive/alpha2/alpha_0297/'>a</a>|<a href='/digital-beehive/num6/num_2045/'>1416
-  [To Examine]</a>"
+head: expedient
+entry:
 topic:
 first_letter: E
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3130/'>profit</a>"
 index:
-item: "#item-7fb9ccfb3"
+item: "#item-98aa014ab"
 unparsed:
-line: 'Head: examination|Entry: a|Entry: 1416 [To Examine]|#item-7fb9ccfb3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/823,2351,710,107/full/0/default.jpg
+line: 'Head: expedient|See: profit|#item-98aa014ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1533,1320,675,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560354166564
-sort_value: '301922351'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044343774
+sort_value: '301931320'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/823,2351,710,107/150,/0/default.jpg
-label: examination
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1533,1320,675,106/150,/0/default.jpg
+label: expedient
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '146'
+order: '168'
 layout: index_item
 collection: index2
 ---

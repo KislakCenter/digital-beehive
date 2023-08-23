@@ -1,30 +1,29 @@
 ---
 pid: index_4424
 volume: Volume 3
-image_number: '51'
-head: unwilling
-entry: "<a href='/digital-beehive/alpha5/alpha_1016/'>a</a>|782 [PAGE_MISSING]"
+image_number: '52'
+head: waves
+entry: "<a href='/digital-beehive/num2/num_0445/'>370 [Storm]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4af3dc273"
+item: "#item-ec3d7f650"
 unparsed:
-line: 'Head: unwilling|Entry: a|Entry: 782 [PAGE_MISSING]|#item-4af3dc273'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/219,2376,569,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645820449
-sort_value: '305112376'
+line: 'Head: waves|Entry: 370 [Storm]|#item-ec3d7f650'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/495,1608,459,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960675285
+sort_value: '305211608'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/219,2376,569,162/150,/0/default.jpg
-label: unwilling
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/495,1608,459,101/150,/0/default.jpg
+label: waves
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '386'
+order: '447'
 layout: index_item
 collection: index5
 ---

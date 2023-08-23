@@ -2,29 +2,28 @@
 pid: index_1544
 volume: Volume 3
 image_number: '21'
-head: friend in need
-entry: "<a href='/digital-beehive/num2/num_0548/'>443 [Friend in need]</a>"
+head: Gain
+entry:
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2322/'>lucre</a>|<a href='/digital-beehive/index4/index_3130/'>profit</a>"
 index:
-item: "#item-8dec08b8c"
+item: "#item-9b87fe671"
 unparsed:
-line: 'Head: friend in need|Entry: 443 [Friend in need]|#item-8dec08b8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/853,2369,643,123/full/0/default.jpg
+line: 'Head: Gain|See: lucre|See: profit|#item-9b87fe671'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1563,1852,747,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560783856550
-sort_value: '302122369'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786413885
+sort_value: '302131852'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/853,2369,643,123/150,/0/default.jpg
-label: friend in need
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1563,1852,747,135/150,/0/default.jpg
+label: Gain
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '363'
+order: '385'
 layout: index_item
 collection: index2
 ---

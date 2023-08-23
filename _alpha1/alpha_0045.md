@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0568/'>457 [Arithmetick]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0203/'>arithmetick</a>"
+index: "<a href='/digital-beehive/index1/index_0197/'>arithmetick</a>"
 item: "#item-2bef0507e"
 unparsed:
 line: 'Entry: Arithmetick|Topic: Arithmetick|Xref: 457 [Arithmetick]|Index: arithmetick|#item-2bef0507e'

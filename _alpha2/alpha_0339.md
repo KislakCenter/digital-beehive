@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0107/'>buffoon</a>|804 [PAGE_MISSING;
   dotage]|<a href='/digital-beehive/num5/num_1580/'>1159 [Folly]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1495/'>fool & folly</a>"
+index: "<a href='/digital-beehive/index2/index_1470/'>fool & folly</a>"
 item: "#item-7fc3b2c36"
 unparsed:
 line: 'Entry: Fool|Topic: Fool|Xref: buffoon|Xref: 804 [PAGE_MISSING; dotage]|Xref:

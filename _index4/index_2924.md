@@ -1,9 +1,10 @@
 ---
 pid: index_2924
 volume: Volume 3
-image_number: '34'
-head: patron
-entry: 1870 [PAGE_MISSING]
+image_number: '35'
+head: perswasion
+entry: "<a href='/digital-beehive/alpha4/alpha_0706/'>a</a>|<a href='/digital-beehive/num8/num_2896/'>1969
+  [Perswasion]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ec43fd8c6"
+item: "#item-3a0d5a980"
 unparsed:
-line: 'Head: patron|Entry: 1870 [PAGE_MISSING]|#item-ec43fd8c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1809,2219,541,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495715166
-sort_value: '303432219'
+line: 'Head: perswasion|Entry: a|Entry: 1969 [Perswasion]|#item-3a0d5a980'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/815,858,663,183/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974148457
+sort_value: '303520858'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1809,2219,541,130/150,/0/default.jpg
-label: patron
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/815,858,663,183/150,/0/default.jpg
+label: perswasion
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0172'
+order: '0216'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_2451
 volume: Volume 3
 image_number: '30'
-head: Mauritius
-entry: "<a href='/digital-beehive/num6/num_1753/'>1262 [Mauritius]</a>"
+head: Ambros. Merlin
+entry: "<a href='/digital-beehive/num6/num_2143/'>1459 [Ambrosius Merlin]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b18fe6fd9"
+item: "#item-7cd6a9544"
 unparsed:
-line: 'Head: Mauritius|Entry: 1262 [Mauritius]|#item-b18fe6fd9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/382,2392,496,115/full/0/default.jpg
+line: 'Head: Ambros. Merlin|Entry: 1459 [Ambrosius Merlin]|#item-7cd6a9544'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1093,3010,639,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265338596
-sort_value: '303012392'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269527258
+sort_value: '303023010'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/382,2392,496,115/150,/0/default.jpg
-label: Mauritius
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1093,3010,639,185/150,/0/default.jpg
+label: Ambros. Merlin
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '533'
+order: '566'
 layout: index_item
 collection: index3
 ---

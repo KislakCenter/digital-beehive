@@ -1,31 +1,29 @@
 ---
 pid: index_4607
 volume: Volume 3
-image_number: '53'
-head: few words
-entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/num5/num_1595/'>1169
-  [Laconism]</a>"
+image_number: '54'
+head: Cures. curable
+entry: "<a href='/digital-beehive/num8/num_2914/'>1982 [Cures]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7f0da8434"
+item: "#item-44350ab74"
 unparsed:
-line: 'Head: few words|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-7f0da8434'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,1845,597,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796653856
-sort_value: '305321845'
+line: 'Type: Index|Insertion: [:16.]|Head: Cures. curable|Entry: 1982 [Cures]|#item-44350ab74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/379,2435,507,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560869044221
+sort_value: '305412435'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,1845,597,132/150,/0/default.jpg
-label: few words
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/379,2435,507,162/150,/0/default.jpg
+label: Cures. curable
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '569'
+order: '630'
 layout: index_item
 collection: index5
 ---

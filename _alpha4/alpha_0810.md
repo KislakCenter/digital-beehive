@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3415/'>rheum</a>"
+index: "<a href='/digital-beehive/index4/index_3363/'>rheum</a>"
 item: "#item-59b66f431"
 unparsed:
 line: 'Entry: Rheum|Topic: Rheum|Index: rheum|#item-59b66f431'

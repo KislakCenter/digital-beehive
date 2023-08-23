@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num7/num_2518/'>1649 [Frost]</a>|<a href='/digital-beehive/num9/num_3039/'>2102
   [Cold]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0717/'>cold</a>"
+index: "<a href='/digital-beehive/index1/index_0703/'>cold</a>"
 item: "#item-052029731"
 unparsed:
 line: 'Entry: Cold|Topic: Cold|Index: cold|Xref: 1649 [Frost]|Xref: 2102 [Cold]|#item-052029731'

@@ -1,9 +1,9 @@
 ---
 pid: index_3175
 volume: Volume 3
-image_number: '37'
-head: procreation
-entry: "<a href='/digital-beehive/num7/num_2403/'>1597 [Generation]</a>"
+image_number: '38'
+head: to pulverize
+entry: 736 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-020311f1e"
+item: "#item-236424dc7"
 unparsed:
-line: 'Head: procreation|Entry: 1597 [Generation]|#item-020311f1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/787,1663,598,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868043693
-sort_value: '303721663'
+line: 'Head: to pulverize|Entry: 736 [PAGE_MISSING]|#item-236424dc7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/438,755,593,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452002588
+sort_value: '303810755'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/787,1663,598,122/150,/0/default.jpg
-label: procreation
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/438,755,593,144/150,/0/default.jpg
+label: to pulverize
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0423'
+order: '0467'
 layout: index_item
 collection: index4
 ---

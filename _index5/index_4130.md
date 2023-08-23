@@ -1,9 +1,9 @@
 ---
 pid: index_4130
 volume: Volume 3
-image_number: '47'
-head: threshing
-entry: "<a href='/digital-beehive/num9/num_3107/'>2164 [Threshing]</a>"
+image_number: '48'
+head: tophet
+entry: "<a href='/digital-beehive/num9/num_3115/'>2171 [Tophet]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2f42414b4"
+item: "#item-87955e608"
 unparsed:
-line: 'Head: threshing|Entry: 2164 [Threshing]|#item-2f42414b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/888,3091,518,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294406890
-sort_value: '304723091'
+line: 'Head: tophet|Entry: 2171 [Tophet]|#item-87955e608'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/462,3024,514,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276963080
+sort_value: '304813024'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/888,3091,518,101/150,/0/default.jpg
-label: threshing
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/462,3024,514,122/150,/0/default.jpg
+label: tophet
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '092'
+order: '153'
 layout: index_item
 collection: index5
 ---

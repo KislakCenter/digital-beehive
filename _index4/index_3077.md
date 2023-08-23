@@ -2,29 +2,28 @@
 pid: index_3077
 volume: Volume 3
 image_number: '36'
-head: pork
-entry:
+head: preposterous
+entry: "<a href='/digital-beehive/num6/num_1794/'>1287 [Preposterously]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1852/'>hog</a>"
+see:
 index:
-item: "#item-c4ff263ac"
+item: "#item-410a33f14"
 unparsed:
-line: 'Head: pork|See: hog|#item-c4ff263ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1197,1134,466,155/full/0/default.jpg
+line: 'Head: preposterous|Entry: 1287 [Preposterously]|#item-410a33f14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1839,2903,656,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438519516
-sort_value: '303621134'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440865080
+sort_value: '303632903'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1197,1134,466,155/150,/0/default.jpg
-label: pork
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1839,2903,656,134/150,/0/default.jpg
+label: preposterous
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0325'
+order: '0369'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_0588
 volume: Volume 3
 image_number: '12'
-head: chain
-entry: "<a href='/digital-beehive/num1/num_0246/'>229 [Chain]</a>"
+head: chaos
+entry: "<a href='/digital-beehive/num6/num_1860/'>1324 [Creation]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-64fa4ff3f"
+item: "#item-dcb714ee1"
 unparsed:
-line: 'Head: chain|Entry: 229 [Chain]|#item-64fa4ff3f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1134,2222,384,102/full/0/default.jpg
+line: 'Head: chaos|Entry: 1324 [Creation]|#item-dcb714ee1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1130,3097,384,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532100537378
-sort_value: '301222222'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532442765152
+sort_value: '301223097'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1134,2222,384,102/150,/0/default.jpg
-label: chain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1130,3097,384,117/150,/0/default.jpg
+label: chaos
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0587'
 layout: index_item
 collection: index1

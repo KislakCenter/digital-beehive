@@ -1,10 +1,10 @@
 ---
 pid: index_2221
 volume: Volume 3
-image_number: '27'
-head: laughter
-entry: "<a href='/digital-beehive/alpha3/alpha_0522/'>a</a>|<a href='/digital-beehive/num6/num_1739/'>1254
-  [Laughter]</a>|4557 [PAGE_MISSING]"
+image_number: '28'
+head: leprosie
+entry: "<a href='/digital-beehive/alpha3/alpha_0532/'>a</a>|<a href='/digital-beehive/num9/num_3081/'>2141
+  [Leprosie]</a>"
 topic:
 first_letter: L
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6cc37d3b8"
+item: "#item-f3bc53fc9"
 unparsed:
-line: 'Head: laughter|Entry: a|Entry: 1254 [Laughter]|Entry: 4557 [PAGE_MISSING]|#item-6cc37d3b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1526,3211,700,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837062277
-sort_value: '302733211'
+line: 'Head: leprosie|Entry: a|Entry: 2141 [Leprosie]|#item-f3bc53fc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1145,392,610,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844164211
+sort_value: '302820392'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1526,3211,700,176/150,/0/default.jpg
-label: laughter
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1145,392,610,123/150,/0/default.jpg
+label: leprosie
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '303'
+order: '336'
 layout: index_item
 collection: index3
 ---

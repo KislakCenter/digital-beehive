@@ -2,28 +2,27 @@
 pid: index_0180
 volume: Volume 3
 image_number: '8'
-head: appearance of Xst
-entry:
+head: appointmt
+entry: "<a href='/digital-beehive/num3/num_1075/'>724 [To Appoint]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0734/'>coming</a>"
+see:
 index:
-item: "#item-6cfc402e3"
+item: "#item-b4f533bf9"
 unparsed:
-line: 'Head: appearance of Xst|See: coming|#item-6cfc402e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1094,1647,700,151/full/0/default.jpg
+line: 'Head: appointmt|Entry: 724 [To Appoint]|#item-b4f533bf9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1099,2187,513,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760486461
-sort_value: '300821647'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760874129
+sort_value: '300822187'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1094,1647,700,151/150,/0/default.jpg
-label: appearance of Xst
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1099,2187,513,169/150,/0/default.jpg
+label: appointmt
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0179'
 layout: index_item
 collection: index1

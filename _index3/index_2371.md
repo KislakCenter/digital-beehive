@@ -2,30 +2,28 @@
 pid: index_2371
 volume: Volume 3
 image_number: '29'
-head: luxation
-entry: "<a href='/digital-beehive/num3/num_0771/'>593 [disjoint]</a>|<a href='/digital-beehive/num10/num_3236/'>2275
-  [Luxation]</a>"
+head: manstealing
+entry: "<a href='/digital-beehive/num3/num_0788/'>600 [Manstealing]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-932441484"
+item: "#item-7564d5b3c"
 unparsed:
-line: 'Head: luxation|Entry: 593 [disjoint]|Entry: 2275 [Luxation]|#item-932441484'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,1398,596,144/full/0/default.jpg
+line: 'Head: manstealing|Entry: 600 [Manstealing]|#item-7564d5b3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,2092,565,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185891387
-sort_value: '302921398'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195802411
+sort_value: '302932092'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,1398,596,144/150,/0/default.jpg
-label: luxation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,2092,565,144/150,/0/default.jpg
+label: manstealing
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '453'
+order: '486'
 layout: index_item
 collection: index3
 ---

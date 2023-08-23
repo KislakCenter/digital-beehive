@@ -2,29 +2,27 @@
 pid: index_0508
 volume: Volume 3
 image_number: '11'
-head: "[:17.]"
+head: I can
 entry:
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0008/'>ability</a>"
 index:
-item: "#item-c3d3453fc"
-unparsed: 'Type: Index|Insertion Xref: [:17.]|#item-c3d3453fc'
-line: 'Type: Index|Insertion Xref: [:17.]|#item-c3d3453fc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/2147,423,177,124/full/0/default.jpg
+item: "#item-be85b56f5"
+unparsed:
+line: 'Head: I can|See: ability|#item-be85b56f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1568,1449,594,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275337935
-sort_value: '301130423'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494984078
+sort_value: '301131449'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/2147,423,177,124/150,/0/default.jpg
-label: "[:17.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1568,1449,594,128/150,/0/default.jpg
+label: I can
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4680/'>publ. Calam.</a>|<a
-  href='/digital-beehive/index5/index_4681/'>calamity</a>"
 order: '0507'
 layout: index_item
 collection: index1

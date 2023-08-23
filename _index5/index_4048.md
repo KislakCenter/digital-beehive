@@ -1,9 +1,9 @@
 ---
 pid: index_4048
 volume: Volume 3
-image_number: '46'
-head: to take heed
-entry: "<a href='/digital-beehive/num10/num_3381/'>2407 [to Take heed]</a>"
+image_number: '47'
+head: then
+entry: "<a href='/digital-beehive/num3/num_1055/'>717 [Then]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-70dfc46a1"
+item: "#item-4dd98fa3d"
 unparsed:
-line: 'Head: to take heed|Entry: 2407 [to Take heed]|#item-70dfc46a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1822,1246,496,71/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531742632320
-sort_value: '304631246'
+line: 'Head: then|Entry: 717 [Then]|#item-4dd98fa3d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/899,1063,303,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294355429
+sort_value: '304721063'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1822,1246,496,71/150,/0/default.jpg
-label: to take heed
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/899,1063,303,101/150,/0/default.jpg
+label: then
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '010'
+order: '071'
 layout: index_item
 collection: index5
 ---

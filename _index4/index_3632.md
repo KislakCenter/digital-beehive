@@ -2,29 +2,28 @@
 pid: index_3632
 volume: Volume 3
 image_number: '42'
-head: senatehouse
-entry:
+head: short of breath
+entry: "<a href='/digital-beehive/num2/num_0594/'>475 [Shortness of breath]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e529251be"
+item: "#item-a70c732f3"
 unparsed:
-line: 'Head: senatehouse|Page: p.5 [Image 1.65]|#item-e529251be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/413,2859,644,141/full/0/default.jpg
+line: 'Head: short of breath|Entry: 475 [Shortness of breath]|#item-a70c732f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1785,2746,581,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245050912
-sort_value: '304212859'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576472024
+sort_value: '304232746'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/413,2859,644,141/150,/0/default.jpg
-label: senatehouse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1785,2746,581,122/150,/0/default.jpg
+label: short of breath
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0880'
+order: '0924'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1024/'>War</a>|<a href='/digital-beehive/num5/num_1435/'>1066
   [Souldier]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3810/'>souldier</a>"
+index: "<a href='/digital-beehive/index4/index_3753/'>souldier</a>"
 item: "#item-8eaf428b3"
 unparsed:
 line: 'Entry: Souldier|Topic: Souldier|Xref: War|Xref: 1066 [Souldier]|Index: souldier|#item-8eaf428b3'

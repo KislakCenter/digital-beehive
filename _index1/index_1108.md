@@ -2,28 +2,27 @@
 pid: index_1108
 volume: Volume 3
 image_number: '17'
-head: to disturb
-entry: "<a href='/digital-beehive/num6/num_2112/'>1446 [To disturb]</a>"
+head: dolphin
+entry:
 topic:
 first_letter: D
-page:
+page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-29cb46cc1"
+item: "#item-1e64b6899"
 unparsed:
-line: 'Head: to disturb|Entry: 1446 [To disturb]|#item-29cb46cc1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/814,911,598,144/full/0/default.jpg
+line: 'Head: dolphin|Page: p.36 [Image 1.96]|#item-1e64b6899'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/766,3220,512,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848992543
-sort_value: '301720911'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367315905
+sort_value: '301723220'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/814,911,598,144/150,/0/default.jpg
-label: to disturb
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/766,3220,512,161/150,/0/default.jpg
+label: dolphin
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1107'
 layout: index_item
 collection: index1

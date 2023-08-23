@@ -2,8 +2,8 @@
 pid: index_1244
 volume: Volume 3
 image_number: '18'
-head: enchantmt
-entry: "<a href='/digital-beehive/num2/num_0317/'>282 [Enchantmt]</a>"
+head: enquiry
+entry: "<a href='/digital-beehive/num1/num_0118/'>114 [Seeking]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-797b2ed48"
+item: "#item-fb57c1c7a"
 unparsed:
-line: 'Head: enchantmt|Entry: 282 [Enchantmt]|#item-797b2ed48'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1851,630,569,132/full/0/default.jpg
+line: 'Head: enquiry|Entry: 114 [Seeking]|#item-fb57c1c7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1870,2705,407,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745710884
-sort_value: '301830630'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835502748
+sort_value: '301832705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1851,630,569,132/150,/0/default.jpg
-label: enchantmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1870,2705,407,148/150,/0/default.jpg
+label: enquiry
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '063'
+order: '085'
 layout: index_item
 collection: index2
 ---

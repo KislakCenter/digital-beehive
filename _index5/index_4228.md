@@ -1,30 +1,29 @@
 ---
 pid: index_4228
 volume: Volume 3
-image_number: '48'
-head: treasurer
-entry: "<a href='/digital-beehive/num7/num_2552/'>1665 [Treasureship]</a>"
+image_number: '49'
+head: to vanish
+entry: 748 [PAGE_MISSING]
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6126ce174"
+item: "#item-2b3fd2747"
 unparsed:
-line: 'Head: treasurer|Entry: 1665 [Treasureship]|#item-6126ce174'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1798,449,492,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561490678940
-sort_value: '304830449'
+line: 'Head: to vanish|Entry: 748 [PAGE_MISSING]|#item-2b3fd2747'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/911,1152,529,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657788548
+sort_value: '304921152'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1798,449,492,125/150,/0/default.jpg
-label: treasurer
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/911,1152,529,118/150,/0/default.jpg
+label: to vanish
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '190'
+order: '251'
 layout: index_item
 collection: index5
 ---

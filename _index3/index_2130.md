@@ -2,29 +2,28 @@
 pid: index_2130
 volume: Volume 3
 image_number: '27'
-head: Judith
-entry: "<a href='/digital-beehive/num11/num_3556/'>4860 [Judith]</a>"
+head: kitchin
+entry: "<a href='/digital-beehive/num4/num_1148/'>889 [Kitchin work]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ea4e7a53d"
+item: "#item-744dd69b0"
 unparsed:
-line: 'Head: Judith|Entry: 4860 [Judith]|#item-ea4e7a53d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/164,1432,452,112/full/0/default.jpg
+line: 'Head: kitchin|Entry: 889 [Kitchin work]|#item-744dd69b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/864,1558,430,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559757375639
-sort_value: '302711432'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762051780
+sort_value: '302721558'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/164,1432,452,112/150,/0/default.jpg
-label: Judith
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/864,1558,430,143/150,/0/default.jpg
+label: kitchin
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '212'
+order: '245'
 layout: index_item
 collection: index3
 ---

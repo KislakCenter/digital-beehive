@@ -1,31 +1,29 @@
 ---
 pid: index_4604
 volume: Volume 3
-image_number: '53'
-head: word of God
-entry: "<a href='/digital-beehive/alpha5/alpha_1058/'>a</a>|<a href='/digital-beehive/num4/num_1170/'>900
-  [Word of God]</a>|<a href='/digital-beehive/num9/num_2995/'>2060 [Word of God]</a>"
+image_number: '54'
+head: trespass
+entry: "<a href='/digital-beehive/num8/num_2815/'>1916 [Trespass]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b6aa9c7ed"
+item: "#item-87a70fce4"
 unparsed:
-line: 'Head: word of God|Entry: a|Entry: 900 [Word of God]|Entry: 2060 [Word of God]|#item-b6aa9c7ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/893,1587,789,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796471387
-sort_value: '305321587'
+line: 'Type: Index|Insertion [:13.]|Head: trespass|Entry: 1916 [Trespass]|#item-87a70fce4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/382,2096,556,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560868710059
+sort_value: '305412096'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/893,1587,789,132/150,/0/default.jpg
-label: word of God
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/382,2096,556,137/150,/0/default.jpg
+label: trespass
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '566'
+order: '627'
 layout: index_item
 collection: index5
 ---

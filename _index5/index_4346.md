@@ -1,30 +1,29 @@
 ---
 pid: index_4346
 volume: Volume 3
-image_number: '49'
-head: vitious
-entry:
+image_number: '51'
+head: unseemly
+entry: "<a href='/digital-beehive/num3/num_1033/'>709 [Unseemly]</a>"
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0269/'>bad</a>|<a href='/digital-beehive/index1/index_0861/'>corrupt</a>"
+see:
 index:
-item: "#item-1dc1368f8"
+item: "#item-e53ed72cd"
 unparsed:
-line: 'Head: vitious|See: bad|See: corrupt|#item-1dc1368f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1654,3188,629,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661566898
-sort_value: '304933188'
+line: 'Head: unseemly|Entry: 709 [Unseemly]|#item-e53ed72cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/199,1102,536,182/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645499386
+sort_value: '305111102'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1654,3188,629,146/150,/0/default.jpg
-label: vitious
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/199,1102,536,182/150,/0/default.jpg
+label: unseemly
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '308'
+order: '369'
 layout: index_item
 collection: index5
 ---

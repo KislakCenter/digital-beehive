@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0249/'>distrust</a>|<a href='/digital-beehive/alpha3/alpha_0449/'>Jealousy</a>|<a
   href='/digital-beehive/num6/num_1774/'>1277 [Suspition]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_4010/'>suspition</a>"
+index: "<a href='/digital-beehive/index4/index_3951/'>suspition</a>"
 item: "#item-e17cbd2ea"
 unparsed:
 line: 'Entry: Suspition|Topic: Suspition|Xref: distrust|Xref: Jealousy|Xref: 1277

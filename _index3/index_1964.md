@@ -2,9 +2,8 @@
 pid: index_1964
 volume: Volume 3
 image_number: '25'
-head: impartiality
-entry: "<a href='/digital-beehive/alpha3/alpha_0463/'>a</a>|<a href='/digital-beehive/num6/num_2047/'>1417
-  [Impartial]</a>"
+head: incomparable
+entry: "<a href='/digital-beehive/num3/num_0670/'>535 [Incomparable]</a>|1853 [PAGE_MISSING]"
 topic:
 first_letter: I/J
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3a7127ee0"
+item: "#item-4885ef3bb"
 unparsed:
-line: 'Head: impartiality|Entry: a|Entry: 1417 [Impartial]|#item-3a7127ee0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/858,1217,693,138/full/0/default.jpg
+line: 'Head: incomparable|Entry: 535 [Incomparable]|Entry: 1853 [PAGE_MISSING]|#item-4885ef3bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1575,1358,739,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665619989
-sort_value: '302521217'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671027075
+sort_value: '302531358'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/858,1217,693,138/150,/0/default.jpg
-label: impartiality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1575,1358,739,161/150,/0/default.jpg
+label: incomparable
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '046'
+order: '079'
 layout: index_item
 collection: index3
 ---

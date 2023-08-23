@@ -2,9 +2,8 @@
 pid: index_4189
 volume: Volume 3
 image_number: '48'
-head: tooth
-entry: "<a href='/digital-beehive/alpha5/alpha_0974/'>a</a>|<a href='/digital-beehive/num6/num_1791/'>1286
-  [Tooth]</a>"
+head: trusting in men
+entry: "<a href='/digital-beehive/num6/num_2040/'>1413 [Trusting in Men]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-291c9ed5e"
+item: "#item-de1555682"
 unparsed:
-line: 'Head: tooth|Entry: a|Entry: 1286 [Tooth]|#item-291c9ed5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/462,2670,493,116/full/0/default.jpg
+line: 'Head: trusting in men|Entry: 1413 [Trusting in Men]|#item-de1555682'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1795,3387,529,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275690671
-sort_value: '304812670'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562090489161
+sort_value: '304833387'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/462,2670,493,116/150,/0/default.jpg
-label: tooth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1795,3387,529,132/150,/0/default.jpg
+label: trusting in men
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '151'
+order: '212'
 layout: index_item
 collection: index5
 ---

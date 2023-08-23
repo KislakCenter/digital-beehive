@@ -2,9 +2,8 @@
 pid: index_2874
 volume: Volume 3
 image_number: '34'
-head: paradise
-entry: "<a href='/digital-beehive/alpha4/alpha_0678/'>a</a>|<a href='/digital-beehive/num7/num_2483/'>1633
-  [Paradise]</a>"
+head: patrimony
+entry: "<a href='/digital-beehive/num6/num_1964/'>1377 [Patrimony]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-28a46a0f1"
+item: "#item-96af25382"
 unparsed:
-line: 'Head: paradise|Entry: a|Entry: 1633 [Paradise]|#item-28a46a0f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1149,1097,668,177/full/0/default.jpg
+line: 'Head: patrimony|Entry: 1377 [Patrimony]|#item-96af25382'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1828,2034,549,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492850442
-sort_value: '303421097'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565192571919
+sort_value: '303432034'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1149,1097,668,177/150,/0/default.jpg
-label: paradise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1828,2034,549,115/150,/0/default.jpg
+label: patrimony
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0122'
+order: '0166'
 layout: index_item
 collection: index4
 ---

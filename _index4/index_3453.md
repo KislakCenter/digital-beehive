@@ -1,30 +1,29 @@
 ---
 pid: index_3453
 volume: Volume 3
-image_number: '40'
-head: rosin
-entry: "<a href='/digital-beehive/num9/num_3085/'>2145 [Turpentine]</a>"
+image_number: '41'
+head: saltpetre
+entry: "<a href='/digital-beehive/num7/num_2495/'>1639 [Nitre or Saltpetre]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-14714ac57"
+item: "#item-3c7b2b27e"
 unparsed:
-line: 'Head: rosin|Entry: 2145 [Turpentine]|#item-14714ac57'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,1818,417,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233633379
-sort_value: '304021818'
+line: 'Head: saltpetre|Entry: 1639 [Nitre or Saltpetre]|#item-3c7b2b27e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,567,391,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238357222
+sort_value: '304110567'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,1818,417,127/150,/0/default.jpg
-label: rosin
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/146,567,391,146/150,/0/default.jpg
+label: saltpetre
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0701'
+order: '0745'
 layout: index_item
 collection: index4
 ---

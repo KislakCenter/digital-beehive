@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0342/'>forbidden things</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3184/'>prohibition</a>"
+index: "<a href='/digital-beehive/index4/index_3134/'>prohibition</a>"
 item: "#item-2d7698387"
 unparsed:
 line: 'Entry: Prohibition|Topic: Prohibition|Xref: forbidden things|Index: prohibition|#item-2d7698387'

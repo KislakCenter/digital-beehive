@@ -1,30 +1,29 @@
 ---
 pid: index_2595
 volume: Volume 3
-image_number: '31'
-head: moth
-entry: "<a href='/digital-beehive/num7/num_2391/'>1591 [Moth]</a>"
+image_number: '32'
+head: namesake
+entry: "<a href='/digital-beehive/num3/num_0703/'>555 [Synonomasticon]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e8be112e7"
+item: "#item-c583ba989"
 unparsed:
-line: 'Head: moth|Entry: 1591 [Moth]|#item-e8be112e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/856,3148,373,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356859853
-sort_value: '303123148'
+line: 'Head: namesake|Entry: 555 [Synonomasticon]|#item-c583ba989'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/410,226,505,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560436513205
+sort_value: '303210226'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/856,3148,373,106/150,/0/default.jpg
-label: moth
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/410,226,505,148/150,/0/default.jpg
+label: namesake
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '677'
+order: '710'
 layout: index_item
 collection: index3
 ---

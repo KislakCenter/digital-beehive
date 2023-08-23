@@ -1,30 +1,29 @@
 ---
 pid: index_2012
 volume: Volume 3
-image_number: '25'
-head: indecent
-entry: "<a href='/digital-beehive/num3/num_1033/'>709 [Unseemly]</a>"
+image_number: '26'
+head: injury
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4564/'>wrong</a>"
 index:
-item: "#item-fa31a575b"
+item: "#item-e39e03f98"
 unparsed:
-line: 'Head: indecent|Entry: 709 [Unseemly]|#item-fa31a575b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1584,2648,449,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672549694
-sort_value: '302532648'
+line: 'Head: injury|See: wrong|#item-e39e03f98'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/421,3014,505,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745402543
+sort_value: '302613014'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1584,2648,449,102/150,/0/default.jpg
-label: indecent
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/421,3014,505,169/150,/0/default.jpg
+label: injury
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '094'
+order: '127'
 layout: index_item
 collection: index3
 ---

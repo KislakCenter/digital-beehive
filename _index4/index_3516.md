@@ -2,8 +2,8 @@
 pid: index_3516
 volume: Volume 3
 image_number: '41'
-head: Samuel
-entry: "<a href='/digital-beehive/num7/num_2311/'>1550 [Samuel]</a>"
+head: Sea gods
+entry: "<a href='/digital-beehive/num6/num_1975/'>1383 [Neptune]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0b33b4bfa"
+item: "#item-912b9305d"
 unparsed:
-line: 'Head: Samuel|Entry: 1550 [Samuel]|#item-0b33b4bfa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/148,1459,373,120/full/0/default.jpg
+line: 'Head: Sea gods|Entry: 1383 [Neptune]|#item-912b9305d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1539,484,459,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238941366
-sort_value: '304111459'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242156353
+sort_value: '304130484'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/148,1459,373,120/150,/0/default.jpg
-label: Samuel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1539,484,459,145/150,/0/default.jpg
+label: Sea gods
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0764'
+order: '0808'
 layout: index_item
 collection: index4
 ---

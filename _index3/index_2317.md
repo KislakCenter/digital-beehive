@@ -1,9 +1,9 @@
 ---
 pid: index_2317
 volume: Volume 3
-image_number: '28'
-head: loathing
-entry: 779 [PAGE_MISSING]
+image_number: '29'
+head: lowd
+entry: 4578 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-326382182"
+item: "#item-948156e7e"
 unparsed:
-line: 'Head: loathing|Entry: 779 [PAGE_MISSING]|#item-326382182'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1806,2892,480,177/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559850111967
-sort_value: '302832892'
+line: 'Head: lowd|Entry: 4578 [PAGE_MISSING]|#item-948156e7e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,3050,331,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180352089
+sort_value: '302913050'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1806,2892,480,177/150,/0/default.jpg
-label: loathing
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,3050,331,118/150,/0/default.jpg
+label: lowd
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '399'
+order: '432'
 layout: index_item
 collection: index3
 ---

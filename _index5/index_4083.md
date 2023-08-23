@@ -2,8 +2,8 @@
 pid: index_4083
 volume: Volume 3
 image_number: '47'
-head: Sir Wm. Temple
-entry: "<a href='/digital-beehive/num6/num_2035/'>1411 [Wm Temple]</a>"
+head: Tiberius C[ae]sar
+entry: "<a href='/digital-beehive/num10/num_3334/'>2361 [Tiberius C[ae]sar]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-61f811125"
+item: "#item-540048bd6"
 unparsed:
-line: 'Head: Sir Wm. Temple|Entry: 1411 [Wm Temple]|#item-61f811125'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/168,1735,534,137/full/0/default.jpg
+line: 'Head: Tiberius C[ae]sar|Entry: 2361 [Tiberius C[ae]sar]|#item-540048bd6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1543,1164,686,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294057896
-sort_value: '304711735'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278736806
+sort_value: '304731164'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/168,1735,534,137/150,/0/default.jpg
-label: Sir Wm. Temple
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1543,1164,686,109/150,/0/default.jpg
+label: Tiberius C[ae]sar
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '045'
+order: '106'
 layout: index_item
 collection: index5
 ---

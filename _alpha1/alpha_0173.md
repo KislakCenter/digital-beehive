@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2115/'>1447 [Consequence]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0805/'>consequence</a>"
+index: "<a href='/digital-beehive/index1/index_0790/'>consequence</a>"
 item: "#item-b4594761a"
 unparsed:
 line: 'Entry: Consequence|Topic: Consequence|Xref: 1447 [Consequence]|Index: consequence|#item-b4594761a'

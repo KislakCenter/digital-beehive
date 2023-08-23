@@ -1,32 +1,29 @@
 ---
 pid: index_3468
 volume: Volume 3
-image_number: '40'
-head: rules for young merchants
-entry: "<a href='/digital-beehive/num6/num_2149/'>1463 [One friend Counsel the other
-  who newly begun to Merchandize]</a>"
+image_number: '41'
+head: Satyr
+entry: "<a href='/digital-beehive/num9/num_2990/'>2055 [a Satyr]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b586608f7"
+item: "#item-0da9c6e75"
 unparsed:
-line: 'Head: rules for young merchants|Entry: 1463 [One friend Counsel the other who
-  newly begun to Merchandize]|#item-b586608f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1146,3190,734,181/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234182812
-sort_value: '304023190'
+line: 'Head: Satyr|Entry: 2055 [a Satyr]|#item-0da9c6e75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/164,1988,365,85/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239164351
+sort_value: '304111988'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1146,3190,734,181/150,/0/default.jpg
-label: rules for young merchants
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/164,1988,365,85/150,/0/default.jpg
+label: Satyr
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0716'
+order: '0760'
 layout: index_item
 collection: index4
 ---

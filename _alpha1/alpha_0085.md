@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0048/'>Atheism</a>|<a href='/digital-beehive/num6/num_2133/'>1455
   [Swearing]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0387/'>blasphemy</a>"
+index: "<a href='/digital-beehive/index1/index_0379/'>blasphemy</a>"
 item: "#item-05f2b33d5"
 unparsed:
 line: 'Entry: Blasphemy|Topic: Blasphemy|Xref: Atheism|Xref: 1455 [Swearing]|Index:

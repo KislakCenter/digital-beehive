@@ -2,8 +2,8 @@
 pid: index_2250
 volume: Volume 3
 image_number: '28'
-head: leg
-entry: "<a href='/digital-beehive/num3/num_0895/'>651 [Leg]</a>"
+head: light nicknamed
+entry: "<a href='/digital-beehive/num1/num_0040/'>40 [Light]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bf46d9614"
+item: "#item-8a60e5a3e"
 unparsed:
-line: 'Head: leg|Entry: 651 [Leg]|#item-bf46d9614'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/403,3320,283,117/full/0/default.jpg
+line: 'Head: light nicknamed|Entry: 40 [Light]|#item-8a60e5a3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1116,3266,589,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842828984
-sort_value: '302813320'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559847516021
+sort_value: '302823266'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/403,3320,283,117/150,/0/default.jpg
-label: leg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1116,3266,589,122/150,/0/default.jpg
+label: light nicknamed
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '332'
+order: '365'
 layout: index_item
 collection: index3
 ---

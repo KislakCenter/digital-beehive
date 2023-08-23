@@ -1,31 +1,29 @@
 ---
 pid: index_3117
 volume: Volume 3
-image_number: '36'
-head: precious
-entry:
+image_number: '37'
+head: privy house
+entry: "<a href='/digital-beehive/num3/num_0804/'>607 [Privy house]</a>"
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
 add:
 xref:
-see: dear|excell
+see:
 index:
-item: "#item-893007bd4"
+item: "#item-6f7a85233"
 unparsed:
-line: 'Head: precious|See: dear|See: excell|#item-893007bd4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1842,1745,743,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440455317
-sort_value: '303631745'
+line: 'Head: privy house|Page: p.10 [Image 1.70]|Entry: 607 [Privy house]|#item-6f7a85233'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/742,823,671,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867626843
+sort_value: '303720823'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1842,1745,743,125/150,/0/default.jpg
-label: precious
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: The intended point of reference for "dear" is unclear.|The intended point of
-  reference for "excell" is unclear.
-insertion_xref:
-order: '0365'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/742,823,671,169/150,/0/default.jpg
+label: privy house
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+issue:
+order: '0409'
 layout: index_item
 collection: index4
 ---

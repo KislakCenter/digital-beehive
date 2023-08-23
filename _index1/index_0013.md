@@ -24,7 +24,6 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/186,1155
 label: absence
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0012'
 layout: index_item
 collection: index1

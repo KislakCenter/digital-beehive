@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/num3/num_0847/'>627 [Help]</a>|<a href='/digita
   href='/digital-beehive/alpha4/alpha_0750/'>Promoting</a>|<a href='/digital-beehive/alpha2/alpha_0371/'>God's
   Help</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1797/'>help</a>"
+index: "<a href='/digital-beehive/index2/index_1766/'>help</a>"
 item: "#item-31af7bea3"
 unparsed:
 line: 'Entry: Help|Topic: Help|Xref: 627 [Help]|Xref: Instrument|Xref: Promoting|Xref:

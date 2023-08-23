@@ -2,29 +2,28 @@
 pid: index_1457
 volume: Volume 3
 image_number: '20'
-head: firmamt
-entry: "<a href='/digital-beehive/num2/num_0463/'>383 [Firmament]</a>"
+head: flint
+entry: "<a href='/digital-beehive/num9/num_3103/'>2161 [Flint-stone]</a>"
 topic:
 first_letter: F
-page:
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-8e3e75218"
+item: "#item-3aae87be3"
 unparsed:
-line: 'Head: firmamt|Entry: 383 [Firmament]|#item-8e3e75218'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1814,1287,489,176/full/0/default.jpg
+line: 'Head: flint|Page: p.32 [Image 1.92]|Entry: 2161 [Flint-stone]|#item-3aae87be3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,3393,664,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613756888
-sort_value: '302031287'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562618367854
+sort_value: '302033393'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1814,1287,489,176/150,/0/default.jpg
-label: firmamt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,3393,664,207/150,/0/default.jpg
+label: flint
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '276'
+order: '298'
 layout: index_item
 collection: index2
 ---

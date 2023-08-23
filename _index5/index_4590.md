@@ -1,30 +1,29 @@
 ---
 pid: index_4590
 volume: Volume 3
-image_number: '53'
-head: woman talkative
-entry: 4733 [PAGE_MISSING]
+image_number: '54'
+head: to oversee or overslip
+entry: "<a href='/digital-beehive/num8/num_2687/'>1757 [To Oversee]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1c382dc38"
+item: "#item-a058c16b9"
 unparsed:
-line: 'Head: woman talkative|Entry: 4733 [PAGE_MISSING]|#item-1c382dc38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/201,3422,646,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793660741
-sort_value: '305313422'
+line: 'Type: Index|Insertion: [:1.]|Head: to oversee or overslip|Entry: 1757 [To Oversee]|#item-a058c16b9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/372,346,695,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799717132
+sort_value: '305410346'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/201,3422,646,114/150,/0/default.jpg
-label: woman talkative
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/372,346,695,156/150,/0/default.jpg
+label: to oversee or overslip
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '552'
+order: '613'
 layout: index_item
 collection: index5
 ---

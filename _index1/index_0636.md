@@ -1,29 +1,31 @@
 ---
 pid: index_0636
 volume: Volume 3
-image_number: '12'
-head: chiliasm
-entry: "<a href='/digital-beehive/alpha1/alpha_0144/'>a</a>"
+image_number: '13'
+head: christendom
+entry: "<a href='/digital-beehive/alpha1/alpha_0148/'>a</a>|<a href='/digital-beehive/num9/num_2972/'>2037
+  [Nominal Christians]</a>|<a href='/digital-beehive/num10/num_3374/'>2401 [Nominal
+  Christians]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: nominal christians
 index:
-item: "#item-7b63ee8bd"
+item: "#item-65b1c7b30"
 unparsed:
-line: 'Head: chiliasm|Entry: a|#item-7b63ee8bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1808,2564,466,198/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532461161473
-sort_value: '301232564'
+line: 'Head: christendom|Entry: a|Entry: 2037 [Nominal Christians]|Entry: 2401 [Nominal
+  Christians]|See: nominal christians|#item-65b1c7b30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/134,329,684,185/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532618265643
+sort_value: '301310329'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1808,2564,466,198/150,/0/default.jpg
-label: chiliasm
-location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue:
-insertion_xref:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/134,329,684,185/150,/0/default.jpg
+label: christendom
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+issue: The intended point of reference for "nominal christians" is unclear.
 order: '0635'
 layout: index_item
 collection: index1

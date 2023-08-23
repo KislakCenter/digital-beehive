@@ -2,29 +2,28 @@
 pid: index_1755
 volume: Volume 3
 image_number: '23'
-head: hare
-entry: "<a href='/digital-beehive/alpha2/alpha_0399/'>a</a>"
+head: heavenly minded
+entry: "<a href='/digital-beehive/num5/num_1373/'>1026 [Heavenly minded]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e423fdca4"
+item: "#item-9fa2773cc"
 unparsed:
-line: 'Head: hare|Page: p.34 [Image 1.94]|Entry: a|#item-e423fdca4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,1607,451,145/full/0/default.jpg
+line: 'Head: heavenly minded|Entry: 1026 [Heavenly minded]|#item-9fa2773cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1536,1358,517,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239856850
-sort_value: '302321607'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244582576
+sort_value: '302331358'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,1607,451,145/150,/0/default.jpg
-label: hare
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1536,1358,517,86/150,/0/default.jpg
+label: heavenly minded
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '574'
+order: '596'
 layout: index_item
 collection: index2
 ---

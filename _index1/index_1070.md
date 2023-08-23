@@ -2,8 +2,8 @@
 pid: index_1070
 volume: Volume 3
 image_number: '17'
-head: discourage
-entry: "<a href='/digital-beehive/num3/num_1013/'>701 [Discourage]</a>"
+head: dispensations of God
+entry: "<a href='/digital-beehive/num6/num_2202/'>1493 [Dispensations]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-76511c98e"
+item: "#item-3dc52fddf"
 unparsed:
-line: 'Head: discourage|Entry: 701 [Discourage]|#item-76511c98e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/132,419,538,126/full/0/default.jpg
+line: 'Head: dispensations of God|Entry: 1493 [Dispensations]|#item-3dc52fddf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/120,2437,754,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541803636385
-sort_value: '301710419'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804412758
+sort_value: '301712437'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/132,419,538,126/150,/0/default.jpg
-label: discourage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/120,2437,754,164/150,/0/default.jpg
+label: dispensations of God
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1069'
 layout: index_item
 collection: index1

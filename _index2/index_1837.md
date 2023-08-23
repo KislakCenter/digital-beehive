@@ -2,29 +2,28 @@
 pid: index_1837
 volume: Volume 3
 image_number: '24'
-head: hill
-entry:
+head: hops
+entry: 4613 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2603/'>mountain</a>"
+see:
 index:
-item: "#item-d0f50d862"
+item: "#item-d60c2c6c5"
 unparsed:
-line: 'Head: hill|See: mountain|#item-d0f50d862'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/416,2641,595,142/full/0/default.jpg
+line: 'Head: hops|Entry: 4613 [PAGE_MISSING]|#item-d60c2c6c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1142,2582,372,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577267137
-sort_value: '302412641'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583546833
+sort_value: '302422582'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/416,2641,595,142/150,/0/default.jpg
-label: hill
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1142,2582,372,139/150,/0/default.jpg
+label: hops
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '656'
+order: '678'
 layout: index_item
 collection: index2
 ---

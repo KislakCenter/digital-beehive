@@ -1,30 +1,29 @@
 ---
 pid: index_4441
 volume: Volume 3
-image_number: '51'
-head: Urim & Thum[m]im
-entry: "<a href='/digital-beehive/num1/num_0064/'>63 [Urim and Thummim]</a>"
+image_number: '52'
+head: week
+entry: "<a href='/digital-beehive/num2/num_0574/'>460 [Week]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7c5ef5a0e"
+item: "#item-96f269320"
 unparsed:
-line: 'Head: Urim & Thum[m]im|Entry: 63 [Urim and Thummim]|#item-7c5ef5a0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/926,1075,718,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646690690
-sort_value: '305121075'
+line: 'Head: week|Entry: 460 [Week]|#item-96f269320'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1091,519,375,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968111101
+sort_value: '305220519'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/926,1075,718,150/150,/0/default.jpg
-label: Urim & Thum[m]im
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1091,519,375,96/150,/0/default.jpg
+label: week
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '403'
+order: '464'
 layout: index_item
 collection: index5
 ---

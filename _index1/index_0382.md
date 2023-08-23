@@ -2,8 +2,8 @@
 pid: index_0382
 volume: Volume 3
 image_number: '10'
-head: bladder
-entry: "<a href='/digital-beehive/num3/num_1073/'>723 [Bladder]</a>"
+head: temporal blessings
+entry: "<a href='/digital-beehive/num7/num_2674/'>1745 [Happiness of the Wicked]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-18473c6ad"
+item: "#item-ebca1fb30"
 unparsed:
-line: 'Head: bladder|Entry: 723 [Bladder]|#item-18473c6ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1095,1628,475,114/full/0/default.jpg
+line: 'Head: temporal blessings|Entry: 1745 [Happiness of the Wicked]|#item-ebca1fb30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2424,602,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531150482426
-sort_value: '301021628'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531151038001
+sort_value: '301022424'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1095,1628,475,114/150,/0/default.jpg
-label: bladder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2424,602,125/150,/0/default.jpg
+label: temporal blessings
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0381'
 layout: index_item
 collection: index1

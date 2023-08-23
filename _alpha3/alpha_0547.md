@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0248/'>disputation</a>|<a href='/digital-beehive/num4/num_1119/'>879
   [Logick]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2320/'>logick</a>"
+index: "<a href='/digital-beehive/index3/index_2282/'>logick</a>"
 item: "#item-2ed5dcf09"
 unparsed:
 line: 'Entry: Logick|Topic: Logick|Xref: disputation|Xref: 879 [Logick]|Index: logick|#item-2ed5dcf09'

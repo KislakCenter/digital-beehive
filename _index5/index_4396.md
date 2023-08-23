@@ -1,30 +1,29 @@
 ---
 pid: index_4396
 volume: Volume 3
-image_number: '50'
-head: unjust
-entry:
+image_number: '51'
+head: walks. spatzieren
+entry: "<a href='/digital-beehive/num6/num_2105/'>1441 [Walks : walking places]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2048/'>injustice</a>|<a href='/digital-beehive/index5/index_4635/'>wrong</a>"
+see:
 index:
-item: "#item-4c24af738"
+item: "#item-13176ba53"
 unparsed:
-line: 'Head: unjust|See: injustice|See: wrong|#item-4c24af738'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1106,2290,725,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560882029230
-sort_value: '305022290'
+line: 'Head: walks. spatzieren|Entry: 1441 [Walks : walking places]|#item-13176ba53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1636,1055,670,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647744045
+sort_value: '305131055'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1106,2290,725,144/150,/0/default.jpg
-label: unjust
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1636,1055,670,170/150,/0/default.jpg
+label: walks. spatzieren
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '358'
+order: '419'
 layout: index_item
 collection: index5
 ---

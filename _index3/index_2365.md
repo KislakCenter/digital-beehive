@@ -2,29 +2,30 @@
 pid: index_2365
 volume: Volume 3
 image_number: '29'
-head: Lully
-entry: "<a href='/digital-beehive/num11/num_3489/'>4796 [Lully's]</a>"
+head: bad & base man
+entry: "<a href='/digital-beehive/num3/num_0765/'>589 [Base]</a>|<a href='/digital-beehive/num8/num_2690/'>1759
+  [ill natur'd man]</a>|<a href='/digital-beehive/num11/num_3513/'>4817 [Bad man]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-50cf47264"
+item: "#item-43391adb4"
 unparsed:
-line: 'Head: Lully|Entry: 4796 [Lully''s]|#item-50cf47264'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/889,658,413,118/full/0/default.jpg
+line: 'Head: bad & base man|Entry: 589 [Base]|Entry: 1759 [ill natur''d man]|Entry:
+  4817 [Bad man]|#item-43391adb4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1381,1463,866,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185340795
-sort_value: '302920658'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194792286
+sort_value: '302931463'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/889,658,413,118/150,/0/default.jpg
-label: Lully
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1381,1463,866,165/150,/0/default.jpg
+label: bad & base man
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '447'
+order: '480'
 layout: index_item
 collection: index3
 ---

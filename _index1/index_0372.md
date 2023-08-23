@@ -2,8 +2,8 @@
 pid: index_0372
 volume: Volume 3
 image_number: '10'
-head: bile
-entry: "<a href='/digital-beehive/num3/num_0785/'>599 [Bile]</a>"
+head: biting
+entry: 852 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-5e827e4af"
+item: "#item-a9e797fa6"
 unparsed:
-line: 'Head: bile|Entry: 599 [Bile]|#item-5e827e4af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1084,635,329,125/full/0/default.jpg
+line: 'Head: biting|Entry: 852 [PAGE_MISSING]|#item-a9e797fa6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1070,1356,442,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531149370542
-sort_value: '301020635'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565633548411
+sort_value: '301021356'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1084,635,329,125/150,/0/default.jpg
-label: bile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1070,1356,442,192/150,/0/default.jpg
+label: biting
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0371'
 layout: index_item
 collection: index1

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0726/'>Power</a>|<a href='/digital-beehive/alpha4/alpha_0799/'>Reputation</a>|<a
   href='/digital-beehive/num10/num_3317/'>2346 [Authority]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0255/'>authority</a>"
+index: "<a href='/digital-beehive/index1/index_0248/'>authority</a>"
 item: "#item-e80f7e90c"
 unparsed:
 line: 'Entry: Authority|Topic: Authority|Xref: Power|Xref: Reputation|Xref: 2346 [Authority]|Index:

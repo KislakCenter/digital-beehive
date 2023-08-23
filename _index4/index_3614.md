@@ -2,29 +2,28 @@
 pid: index_3614
 volume: Volume 3
 image_number: '42'
-head: Self do
-entry: "<a href='/digital-beehive/num1/num_0088/'>87 [Messenger]</a>"
+head: sheriff
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3585/'>Serjeant</a>"
 index:
-item: "#item-1a38acca3"
+item: "#item-1e4198480"
 unparsed:
-line: 'Head: Self do|Entry: 87 [Messenger]|#item-1a38acca3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/418,1176,339,132/full/0/default.jpg
+line: 'Head: sheriff|See: Serjeant|#item-1e4198480'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1830,513,673,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244291853
-sort_value: '304211176'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575587863
+sort_value: '304230513'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/418,1176,339,132/150,/0/default.jpg
-label: Self do
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1830,513,673,122/150,/0/default.jpg
+label: sheriff
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0862'
+order: '0906'
 layout: index_item
 collection: index4
 ---

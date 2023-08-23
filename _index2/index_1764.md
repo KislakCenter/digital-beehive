@@ -2,9 +2,8 @@
 pid: index_1764
 volume: Volume 3
 image_number: '23'
-head: haste
-entry: "<a href='/digital-beehive/alpha2/alpha_0402/'>a</a>|<a href='/digital-beehive/num4/num_1137/'>886
-  [Haste]</a>"
+head: helmut
+entry: 849 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b2255b41b"
+item: "#item-93a41ce42"
 unparsed:
-line: 'Head: haste|Entry: a|Entry: 886 [Haste]|#item-b2255b41b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/839,2427,433,112/full/0/default.jpg
+line: 'Head: helmut|Entry: 849 [PAGE_MISSING]|#item-93a41ce42'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1528,2278,404,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240825725
-sort_value: '302322427'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571131865
+sort_value: '302332278'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/839,2427,433,112/150,/0/default.jpg
-label: haste
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1528,2278,404,123/150,/0/default.jpg
+label: helmut
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '583'
+order: '605'
 layout: index_item
 collection: index2
 ---

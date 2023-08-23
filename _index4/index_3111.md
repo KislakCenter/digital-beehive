@@ -1,30 +1,31 @@
 ---
 pid: index_3111
 volume: Volume 3
-image_number: '36'
-head: prayers for the dead
-entry: "<a href='/digital-beehive/num2/num_0501/'>408 [Prayers for the Dead]</a>"
+image_number: '37'
+head: printing
+entry: "<a href='/digital-beehive/alpha4/alpha_0738/'>a</a>|<a href='/digital-beehive/num6/num_1811/'>1296
+  [Printing]</a>|4579 [PAGE_MISSING]"
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-b1293121b"
+item: "#item-8d74e7449"
 unparsed:
-line: 'Head: prayers for the dead|Entry: 408 [Prayers for the Dead]|#item-b1293121b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1850,1147,602,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440103552
-sort_value: '303631147'
+line: 'Head: printing|Page: p.41 [Image 1.101]|Entry: a|Entry: 1296 [Printing]|Entry:
+  4579 [PAGE_MISSING]|#item-8d74e7449'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/95,3455,758,235/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867246349
+sort_value: '303713455'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1850,1147,602,150/150,/0/default.jpg
-label: prayers for the dead
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/95,3455,758,235/150,/0/default.jpg
+label: printing
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0359'
+order: '0403'
 layout: index_item
 collection: index4
 ---

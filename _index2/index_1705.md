@@ -2,29 +2,28 @@
 pid: index_1705
 volume: Volume 3
 image_number: '23'
-head: grease
-entry: "<a href='/digital-beehive/num3/num_1006/'>698 [Grease]</a>"
+head: hail
+entry: "<a href='/digital-beehive/num6/num_1903/'>1346 [Hailstones]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d21c66cbc"
+item: "#item-a93cfd688"
 unparsed:
-line: 'Head: grease|Entry: 698 [Grease]|#item-d21c66cbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/133,606,348,121/full/0/default.jpg
+line: 'Head: hail|Entry: 1346 [Hailstones]|#item-a93cfd688'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/143,3384,363,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229295078
-sort_value: '302310606'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234260498
+sort_value: '302313384'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/133,606,348,121/150,/0/default.jpg
-label: grease
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/143,3384,363,108/150,/0/default.jpg
+label: hail
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '524'
+order: '546'
 layout: index_item
 collection: index2
 ---

@@ -2,8 +2,8 @@
 pid: index_0861
 volume: Volume 3
 image_number: '15'
-head: corrupted
-entry: "<a href='/digital-beehive/num3/num_0758/'>587 [Corrupted]</a>"
+head: native Country
+entry: "<a href='/digital-beehive/alpha1/alpha_0187/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-b69d2c115"
+item: "#item-ae1379b05"
 unparsed:
-line: 'Head: corrupted|Entry: 587 [Corrupted]|#item-b69d2c115'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/160,274,560,149/full/0/default.jpg
+line: 'Head: native Country|Entry: a|#item-ae1379b05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/142,2081,651,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537973858507
-sort_value: '301510274'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974679002
+sort_value: '301512081'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/160,274,560,149/150,/0/default.jpg
-label: corrupted
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/142,2081,651,132/150,/0/default.jpg
+label: native Country
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0860'
 layout: index_item
 collection: index1

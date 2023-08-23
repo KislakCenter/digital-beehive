@@ -10,7 +10,7 @@ page:
 add:
 xref: 769 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index3/index_2275/'>liberty</a>"
+index: "<a href='/digital-beehive/index3/index_2238/'>liberty</a>"
 item: "#item-fd5199659"
 unparsed:
 line: 'Entry: Liberty|Topic: Liberty|Xref: 769 [PAGE_MISSING]|Index: liberty|#item-fd5199659'

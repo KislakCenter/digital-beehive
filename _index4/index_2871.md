@@ -2,8 +2,10 @@
 pid: index_2871
 volume: Volume 3
 image_number: '34'
-head: papists cruelty
-entry: "<a href='/digital-beehive/num3/num_0646/'>514 [Cruelty]</a>|4634 [PAGE_MISSING]"
+head: patience
+entry: "<a href='/digital-beehive/alpha4/alpha_0693/'>a</a>|<a href='/digital-beehive/num3/num_0640/'>509
+  [Patience]</a>|<a href='/digital-beehive/num6/num_2088/'>1433 [Patience]</a>|<a
+  href='/digital-beehive/num7/num_2625/'>1701 [Patience]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-4172485ff"
+item: "#item-1fce6256d"
 unparsed:
-line: 'Head: papists cruelty|Entry: 514 [Cruelty]|Entry: 4634 [PAGE_MISSING]|#item-4172485ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1167,758,736,145/full/0/default.jpg
+line: 'Head: patience|Entry: a|Entry: 509 [Patience]|Entry: 1433 [Patience]|Entry:
+  1701 [Patience]|#item-1fce6256d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1809,1785,729,203/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492678550
-sort_value: '303420758'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495527488
+sort_value: '303431785'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1167,758,736,145/150,/0/default.jpg
-label: papists cruelty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1809,1785,729,203/150,/0/default.jpg
+label: patience
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0119'
+order: '0163'
 layout: index_item
 collection: index4
 ---

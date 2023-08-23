@@ -2,28 +2,27 @@
 pid: index_0608
 volume: Volume 3
 image_number: '12'
-head: charitable construction
-entry: "<a href='/digital-beehive/num3/num_0713/'>560 [Charitable Construction]</a>"
+head: cherry
+entry:
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-dc6aa2678"
+item: "#item-f70d343ea"
 unparsed:
-line: 'Head: charitable construction|Entry: 560 [Charitable Construction]|#item-dc6aa2678'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1815,208,745,174/full/0/default.jpg
+line: 'Head: cherry|Page: p.33 [Image 1.93]|#item-f70d343ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1823,1287,448,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443718612
-sort_value: '301230208'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459497229
+sort_value: '301231287'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1815,208,745,174/150,/0/default.jpg
-label: charitable construction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1823,1287,448,118/150,/0/default.jpg
+label: cherry
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0607'
 layout: index_item
 collection: index1

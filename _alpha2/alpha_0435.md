@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num8/num_2895/'>1969 [Hospital]</a>|<a href='/digital-beehive/num6/num_2043/'>1415
   [Hospital]</a>|<a href='/digital-beehive/alpha4/alpha_0673/'>Oprhan house</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1878/'>hospital</a>"
+index: "<a href='/digital-beehive/index2/index_1845/'>hospital</a>"
 item: "#item-8c5bbd263"
 unparsed:
 line: 'Entry: Hospital|Topic: Hospital|Xref: 1969 [Hospital]|Xref: 1415 [Hospital]|Xref:

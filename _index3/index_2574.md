@@ -2,31 +2,29 @@
 pid: index_2574
 volume: Volume 3
 image_number: '31'
-head: moon
-entry: "<a href='/digital-beehive/alpha3/alpha_0609/'>a</a>|<a href='/digital-beehive/num6/num_1925/'>1357
-  [Moon]</a>|<a href='/digital-beehive/num9/num_3048/'>2110 [Moon]</a>"
+head: murder
+entry: "<a href='/digital-beehive/alpha3/alpha_0621/'>a</a>|<a href='/digital-beehive/num7/num_2220/'>1504
+  [Murder]</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_078/'>p.28 [Image 1.88]</a>"
-add:
+page:
+add: "<a href='/digital-beehive/index4/index_3566/'>Self</a>"
 xref:
 see:
 index:
-item: "#item-c6ea6df6e"
+item: "#item-7155f3c00"
 unparsed:
-line: 'Head: moon|Page: p.28 [Image 1.88]|Entry: a|Entry: 1357 [Moon]|Entry: 2110
-  [Moon]|#item-c6ea6df6e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/866,1323,661,133/full/0/default.jpg
+line: 'Head: murder|Entry: a|Entry: 1504 [Murder]|Add: Self|#item-7155f3c00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1551,1572,557,191/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355560685
-sort_value: '303121323'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361517079
+sort_value: '303131572'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/866,1323,661,133/150,/0/default.jpg
-label: moon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1551,1572,557,191/150,/0/default.jpg
+label: murder
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '656'
+order: '689'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0467/'>Imposs</a>|1862 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3085/'>possibility</a>"
+index: "<a href='/digital-beehive/index4/index_3035/'>possibility</a>"
 item: "#item-e9dfad0d1"
 unparsed:
 line: 'Entry: Possibility|Topic: Possibility|Xref: Imposs|Xref: 1862 [PAGE_MISSING]|Index:

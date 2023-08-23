@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0282/'>257 [Arms]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1805/'>heraldry</a>"
+index: "<a href='/digital-beehive/index2/index_1774/'>heraldry</a>"
 item: "#item-046cb1d2d"
 unparsed:
 line: 'Entry: Heraldry|Topic: Heraldry|Xref: 257 [Arms]|Index: heraldry|#item-046cb1d2d'

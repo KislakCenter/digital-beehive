@@ -1,9 +1,9 @@
 ---
 pid: index_3959
 volume: Volume 3
-image_number: '45'
-head: substance
-entry: 732 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3338/'>2365 [Substance]</a>
+image_number: '46'
+head: sweat
+entry: "<a href='/digital-beehive/alpha4/alpha_0939/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6fbb46545"
+item: "#item-5a2cd8e7f"
 unparsed:
-line: 'Head: substance|Entry: 732 [PAGE_MISSING]|Entry: 2365 [Substance]|#item-6fbb46545'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1598,1537,690,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530468633494
-sort_value: '304531537'
+line: 'Head: sweat|Entry: a|#item-5a2cd8e7f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1092,1601,348,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565293298680
+sort_value: '304621601'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1598,1537,690,95/150,/0/default.jpg
-label: substance
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1092,1601,348,112/150,/0/default.jpg
+label: sweat
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1207'
+order: '1251'
 layout: index_item
 collection: index4
 ---

@@ -2,31 +2,30 @@
 pid: index_3505
 volume: Volume 3
 image_number: '41'
-head: salt
-entry: "<a href='/digital-beehive/alpha4/alpha_0832/'>a</a>|<a href='/digital-beehive/num7/num_2497/'>1640
-  [Salt]</a>|<a href='/digital-beehive/num8/num_2871/'>1946 [Salt]</a>|<a href='/digital-beehive/num9/num_3064/'>2124
-  [Salt]</a>"
+head: Scriptures imperfection
+entry: "<a href='/digital-beehive/num5/num_1358/'>1016 [Scriptures are Imperfect as
+  to Number]</a>"
 topic:
 first_letter: S
-page:
+page: p.174 [Image 1.325]
 add:
 xref:
 see:
 index:
-item: "#item-a1ffb83f0"
+item: "#item-effae759d"
 unparsed:
-line: 'Head: salt|Entry: a|Entry: 1640 [Salt]|Entry: 1946 [Salt]|Entry: 2124 [Salt]|#item-a1ffb83f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/153,482,734,132/full/0/default.jpg
+line: 'Head: Scriptures imperfection|Entry: 1016 [Scriptures are Imperfect as to Number]|Page:
+  p.174 [Image 1.325]|#item-effae759d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/834,2652,662,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238329892
-sort_value: '304110482'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241445248
+sort_value: '304122652'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/153,482,734,132/150,/0/default.jpg
-label: salt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/834,2652,662,114/150,/0/default.jpg
+label: Scriptures imperfection
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0753'
+order: '0797'
 layout: index_item
 collection: index4
 ---

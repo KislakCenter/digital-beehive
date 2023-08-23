@@ -1,9 +1,9 @@
 ---
 pid: index_1688
 volume: Volume 3
-image_number: '22'
-head: granaries
-entry: "<a href='/digital-beehive/num3/num_0922/'>664 [Granaries]</a>"
+image_number: '23'
+head: growth
+entry: "<a href='/digital-beehive/num2/num_0616/'>491 [Growth]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-588e7cfb6"
+item: "#item-f9bbc285f"
 unparsed:
-line: 'Head: granaries|Entry: 664 [Granaries]|#item-588e7cfb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,2221,457,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053230535
-sort_value: '302232221'
+line: 'Head: growth|Entry: 491 [Growth]|#item-f9bbc285f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/148,1822,378,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231889652
+sort_value: '302311822'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,2221,457,130/150,/0/default.jpg
-label: granaries
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/148,1822,378,136/150,/0/default.jpg
+label: growth
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '507'
+order: '529'
 layout: index_item
 collection: index2
 ---

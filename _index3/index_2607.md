@@ -1,30 +1,29 @@
 ---
 pid: index_2607
 volume: Volume 3
-image_number: '31'
-head: mouth
-entry: "<a href='/digital-beehive/alpha3/alpha_0619/'>a</a>|4522 [PAGE_MISSING]"
+image_number: '32'
+head: nativity calculators of
+entry: "<a href='/digital-beehive/num6/num_1786/'>1283 [Calculators of Nativity]</a>"
 topic:
-first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+first_letter: N
+page:
 add:
 xref:
 see:
 index:
-item: "#item-556088ab6"
+item: "#item-bf388e0a2"
 unparsed:
-line: 'Head: mouth|Page: p.43 [Image 1.103]|Entry: a|Entry: 4522 [PAGE_MISSING]|#item-556088ab6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1562,834,660,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360773621
-sort_value: '303130834'
+line: 'Head: nativity calculators of|Entry: 1283 [Calculators of Nativity]|#item-bf388e0a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/384,1424,690,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437771564
+sort_value: '303211424'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1562,834,660,148/150,/0/default.jpg
-label: mouth
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/384,1424,690,124/150,/0/default.jpg
+label: nativity calculators of
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '689'
+order: '722'
 layout: index_item
 collection: index3
 ---

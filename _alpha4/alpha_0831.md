@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0425/'>Hireling</a>|<a href='/digital-beehive/alpha4/alpha_0809/'>Reward</a>|<a
   href='/digital-beehive/num6/num_1930/'>1360 [Salary]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3500/'>salary</a>"
+index: "<a href='/digital-beehive/index4/index_3447/'>salary</a>"
 item: "#item-896c67008"
 unparsed:
 line: 'Entry: Salary|Topic: Salary|Xref: Hireling|Xref: Reward|Xref: 1360 [Salary]|Index:

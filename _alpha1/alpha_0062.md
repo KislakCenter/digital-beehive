@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0545/'>Little</a>|<a href='/digital-beehive/alpha2/alpha_0440/'>humility</a>|<a
   href='/digital-beehive/num3/num_0765/'>589 [Base]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0302/'>baseness</a>"
+index: "<a href='/digital-beehive/index1/index_0294/'>baseness</a>"
 item: "#item-588519acf"
 unparsed:
 line: 'Entry: Baseness|Topic: Baseness|Xref: Little|Xref: humility|Xref: 589 [Base]|Index:

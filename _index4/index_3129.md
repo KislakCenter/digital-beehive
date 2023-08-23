@@ -1,9 +1,9 @@
 ---
 pid: index_3129
 volume: Volume 3
-image_number: '36'
-head: presage
-entry: 836 [PAGE_MISSING]
+image_number: '37'
+head: proffer
+entry: "<a href='/digital-beehive/num6/num_2036/'>1411 [Profferd kindness]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a6a0375c8"
+item: "#item-761e3cddb"
 unparsed:
-line: 'Head: presage|Entry: 836 [PAGE_MISSING]|#item-a6a0375c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1865,3162,495,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440917010
-sort_value: '303633162'
+line: 'Head: proffer|Entry: 1411 [Profferd kindness]|#item-761e3cddb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/775,2125,406,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868252953
+sort_value: '303722125'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1865,3162,495,126/150,/0/default.jpg
-label: presage
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/775,2125,406,125/150,/0/default.jpg
+label: proffer
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0377'
+order: '0421'
 layout: index_item
 collection: index4
 ---

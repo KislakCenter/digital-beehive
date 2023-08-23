@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2292/'>1540 [Equivocation]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1290/'>equivocation</a>"
+index: "<a href='/digital-beehive/index2/index_1267/'>equivocation</a>"
 item: "#item-5de478888"
 unparsed:
 line: 'Entry: Equivocation|Topic: Equivocation|Xref: 1540 [Equivocation]|Index: equivocation|#item-5de478888'

@@ -2,8 +2,8 @@
 pid: index_1073
 volume: Volume 3
 image_number: '17'
-head: discretness
-entry: "<a href='/digital-beehive/alpha1/alpha_0244/'>a</a>"
+head: to dispossess
+entry: "<a href='/digital-beehive/num3/num_0966/'>683 [To Dispossess]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d8e6d46ba"
+item: "#item-c12fd11ae"
 unparsed:
-line: 'Head: discretness|Entry: a|#item-d8e6d46ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/158,737,480,150/full/0/default.jpg
+line: 'Head: to dispossess|Entry: 683 [To Dispossess]|#item-c12fd11ae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/112,2821,544,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175223087
-sort_value: '301710737'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804541980
+sort_value: '301712821'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/158,737,480,150/150,/0/default.jpg
-label: discretness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/112,2821,544,115/150,/0/default.jpg
+label: to dispossess
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1072'
 layout: index_item
 collection: index1

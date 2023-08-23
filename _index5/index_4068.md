@@ -1,10 +1,9 @@
 ---
 pid: index_4068
 volume: Volume 3
-image_number: '46'
-head: tax
-entry: "<a href='/digital-beehive/alpha5/alpha_0943/'>a</a>|<a href='/digital-beehive/num6/num_1929/'>1359
-  [Taxes]</a>|<a href='/digital-beehive/num9/num_3109/'>2166 [Tribute]</a>"
+image_number: '47'
+head: threshing
+entry: "<a href='/digital-beehive/num9/num_3107/'>2164 [Threshing]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ee6696dd1"
+item: "#item-2f42414b4"
 unparsed:
-line: 'Head: tax|Entry: a|Entry: 1359 [Taxes]|Entry: 2166 [Tribute]|#item-ee6696dd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1792,3347,662,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528920853073
-sort_value: '304633347'
+line: 'Head: threshing|Entry: 2164 [Threshing]|#item-2f42414b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/888,3091,518,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294406890
+sort_value: '304723091'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1792,3347,662,136/150,/0/default.jpg
-label: tax
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/888,3091,518,101/150,/0/default.jpg
+label: threshing
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '030'
+order: '091'
 layout: index_item
 collection: index5
 ---

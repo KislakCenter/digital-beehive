@@ -2,28 +2,27 @@
 pid: index_0992
 volume: Volume 3
 image_number: '16'
-head: degrada[ti]on
-entry:
+head: departure
+entry: "<a href='/digital-beehive/num3/num_1044/'>713 [Departure]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1012/'>deposition</a>"
+see:
 index:
-item: "#item-fe300b0e3"
+item: "#item-429e35603"
 unparsed:
-line: 'Head: degrada[ti]on|See: deposition|#item-fe300b0e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/326,2283,785,140/full/0/default.jpg
+line: 'Head: departure|Entry: 713 [Departure]|#item-429e35603'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1107,1000,548,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572287563
-sort_value: '301612283'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541604716217
+sort_value: '301621000'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/326,2283,785,140/150,/0/default.jpg
-label: degrada[ti]on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1107,1000,548,116/150,/0/default.jpg
+label: departure
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0991'
 layout: index_item
 collection: index1

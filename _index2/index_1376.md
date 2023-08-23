@@ -2,8 +2,8 @@
 pid: index_1376
 volume: Volume 3
 image_number: '20'
-head: face
-entry: 762 [PAGE_MISSING]
+head: to fan
+entry: 1852 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-8f9bbe1cb"
+item: "#item-7980fd14e"
 unparsed:
-line: 'Head: face|Entry: 762 [PAGE_MISSING]|#item-8f9bbe1cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/379,390,304,121/full/0/default.jpg
+line: 'Head: to fan|Entry: 1852 [PAGE_MISSING]|#item-7980fd14e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/406,2772,405,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561399053656
-sort_value: '302010390'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659019917
+sort_value: '302012772'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/379,390,304,121/150,/0/default.jpg
-label: face
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/406,2772,405,92/150,/0/default.jpg
+label: to fan
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '195'
+order: '217'
 layout: index_item
 collection: index2
 ---

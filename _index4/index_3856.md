@@ -1,9 +1,9 @@
 ---
 pid: index_3856
 volume: Volume 3
-image_number: '44'
-head: spoil
-entry: "<a href='/digital-beehive/num4/num_1095/'>871 [Prey]</a>"
+image_number: '45'
+head: to stop
+entry: 863 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-650714ccd"
+item: "#item-c06339698"
 unparsed:
-line: 'Head: spoil|Entry: 871 [Prey]|#item-650714ccd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1841,1162,336,91/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530104775971
-sort_value: '304431162'
+line: 'Head: to stop|Entry: 863 [PAGE_MISSING]|#item-c06339698'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/882,279,416,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530449250166
+sort_value: '304520279'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1841,1162,336,91/150,/0/default.jpg
-label: spoil
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/882,279,416,128/150,/0/default.jpg
+label: to stop
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1104'
+order: '1148'
 layout: index_item
 collection: index4
 ---

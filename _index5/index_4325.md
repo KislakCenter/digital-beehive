@@ -1,10 +1,9 @@
 ---
 pid: index_4325
 volume: Volume 3
-image_number: '49'
-head: victory
-entry: "<a href='/digital-beehive/alpha5/alpha_0996/'>a</a>|<a href='/digital-beehive/num5/num_1702/'>1235
-  [Victory]</a>|4661 [PAGE_MISSING]"
+image_number: '50'
+head: university degrees
+entry: "<a href='/digital-beehive/num7/num_2582/'>1679 [University-Degrees]</a>"
 topic:
 first_letter: U/V
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f6bfbfcb5"
+item: "#item-d019aacb5"
 unparsed:
-line: 'Head: victory|Entry: a|Entry: 1235 [Victory]|Entry: 4661 [PAGE_MISSING]|#item-f6bfbfcb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,764,683,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659711020
-sort_value: '304930764'
+line: 'Head: university degrees|Entry: 1679 [University-Degrees]|#item-d019aacb5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1097,2032,533,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560881940882
+sort_value: '305022032'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,764,683,106/150,/0/default.jpg
-label: victory
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1097,2032,533,131/150,/0/default.jpg
+label: university degrees
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '287'
+order: '348'
 layout: index_item
 collection: index5
 ---

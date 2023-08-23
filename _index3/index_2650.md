@@ -2,8 +2,8 @@
 pid: index_2650
 volume: Volume 3
 image_number: '32'
-head: nativity calculators of
-entry: "<a href='/digital-beehive/num6/num_1786/'>1283 [Calculators of Nativity]</a>"
+head: new England
+entry: 766 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2258/'>1523 [New England]</a>
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bf388e0a2"
+item: "#item-29744158d"
 unparsed:
-line: 'Head: nativity calculators of|Entry: 1283 [Calculators of Nativity]|#item-bf388e0a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/384,1424,690,124/full/0/default.jpg
+line: 'Head: new England|Entry: 766 [PAGE_MISSING]|Entry: 1523 [New England]|#item-29744158d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,1715,647,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437771564
-sort_value: '303211424'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442425031
+sort_value: '303221715'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/384,1424,690,124/150,/0/default.jpg
-label: nativity calculators of
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,1715,647,142/150,/0/default.jpg
+label: new England
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '732'
+order: '765'
 layout: index_item
 collection: index3
 ---

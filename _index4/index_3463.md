@@ -1,30 +1,29 @@
 ---
 pid: index_3463
 volume: Volume 3
-image_number: '40'
-head: ruin
-entry: "<a href='/digital-beehive/num3/num_0805/'>608 [Ruin]</a>"
+image_number: '41'
+head: sanctification
+entry: "<a href='/digital-beehive/num4/num_1322/'>990 [Holiness]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1822/'>holiness</a>"
 index:
-item: "#item-fbbffaa7f"
+item: "#item-5a4a0f290"
 unparsed:
-line: 'Head: ruin|Entry: 608 [Ruin]|#item-fbbffaa7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2673,379,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233928733
-sort_value: '304022673'
+line: 'Head: sanctification|See: holiness|Entry: 990 [Holiness]|#item-5a4a0f290'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/156,1556,746,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238976500
+sort_value: '304111556'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2673,379,137/150,/0/default.jpg
-label: ruin
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/156,1556,746,158/150,/0/default.jpg
+label: sanctification
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0711'
+order: '0755'
 layout: index_item
 collection: index4
 ---

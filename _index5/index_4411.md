@@ -2,29 +2,28 @@
 pid: index_4411
 volume: Volume 3
 image_number: '51'
-head: unready
-entry: 541 [WORD_MISSING]
+head: warrant
+entry: 804 [PAGE_MISSING]
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e4c343520"
+item: "#item-282fea67c"
 unparsed:
-line: 'Head: unready|Entry: 541 [WORD_MISSING]|#item-e4c343520'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/200,565,471,162/full/0/default.jpg
+line: 'Head: warrant|Entry: 804 [PAGE_MISSING]|#item-282fea67c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3158,488,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645401075
-sort_value: '305110565'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648554376
+sort_value: '305133158'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/200,565,471,162/150,/0/default.jpg
-label: unready
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3158,488,133/150,/0/default.jpg
+label: warrant
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '373'
+order: '434'
 layout: index_item
 collection: index5
 ---

@@ -2,30 +2,28 @@
 pid: index_4571
 volume: Volume 3
 image_number: '53'
-head: wit. witticism
-entry: "<a href='/digital-beehive/num2/num_0358/'>313 [Wit]</a>|<a href='/digital-beehive/num10/num_3356/'>2383
-  [Wit]</a>"
+head: yeoman
+entry: "<a href='/digital-beehive/num6/num_2152/'>1464 [Yeoman, Ingenuus]</a>"
 topic:
-first_letter: W
+first_letter: Y
 page:
 add:
 xref:
 see:
 index:
-item: "#item-43eb9c689"
+item: "#item-e5b238077"
 unparsed:
-line: 'Head: wit. witticism|Entry: 313 [Wit]|Entry: 2383 [Wit]|#item-43eb9c689'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,1338,743,121/full/0/default.jpg
+line: 'Head: yeoman|Entry: 1464 [Yeoman, Ingenuus]|#item-e5b238077'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1569,2076,496,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792021065
-sort_value: '305311338'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799020982
+sort_value: '305332076'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,1338,743,121/150,/0/default.jpg
-label: wit. witticism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1569,2076,496,106/150,/0/default.jpg
+label: yeoman
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '533'
+order: '594'
 layout: index_item
 collection: index5
 ---

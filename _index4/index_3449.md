@@ -2,29 +2,28 @@
 pid: index_3449
 volume: Volume 3
 image_number: '40'
-head: rope
-entry: "<a href='/digital-beehive/num2/num_0407/'>348 [A rope]</a>"
+head: salique Law
+entry: "<a href='/digital-beehive/num7/num_2664/'>1737 [Womans Imperiousness]</a>"
 topic:
-first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+first_letter: S
+page:
 add:
 xref:
 see:
 index:
-item: "#item-8d84b6ab3"
+item: "#item-7563a1149"
 unparsed:
-line: 'Head: rope|Page: p.38 [Image 1.98]|Entry: 348 [A rope]|#item-8d84b6ab3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1172,1463,454,111/full/0/default.jpg
+line: 'Head: salique Law|Entry: 1737 [Womans Imperiousness]|#item-7563a1149'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1833,3506,584,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233486935
-sort_value: '304021463'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235484135
+sort_value: '304033506'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1172,1463,454,111/150,/0/default.jpg
-label: rope
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1833,3506,584,137/150,/0/default.jpg
+label: salique Law
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0697'
+order: '0741'
 layout: index_item
 collection: index4
 ---

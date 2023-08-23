@@ -2,29 +2,28 @@
 pid: index_1741
 volume: Volume 3
 image_number: '23'
-head: hamelen
-entry: 768 [PAGE_MISSING]
+head: hawk
+entry: "<a href='/digital-beehive/num6/num_1912/'>1351 [a Kite : a Hawk]</a>"
 topic:
 first_letter: H
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3018/'>pipe</a>"
+see:
 index:
-item: "#item-39462881d"
+item: "#item-1ac2fb880"
 unparsed:
-line: 'Head: hamelen|See: pipe|Entry: 768 [PAGE_MISSING]|#item-39462881d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/858,431,613,104/full/0/default.jpg
+line: 'Head: hawk|Page: p.35 [Image 1.95]|Entry: 1351 [a Kite : a Hawk]|#item-1ac2fb880'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/811,3419,510,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238114445
-sort_value: '302320431'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241902040
+sort_value: '302323419'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/858,431,613,104/150,/0/default.jpg
-label: hamelen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/811,3419,510,155/150,/0/default.jpg
+label: hawk
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '560'
+order: '582'
 layout: index_item
 collection: index2
 ---

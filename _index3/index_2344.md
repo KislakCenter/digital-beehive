@@ -2,30 +2,28 @@
 pid: index_2344
 volume: Volume 3
 image_number: '29'
-head: love of Enemies
-entry: "<a href='/digital-beehive/alpha3/alpha_0561/'>a</a>|<a href='/digital-beehive/num1/num_0240/'>225
-  [Love of enemies]</a>"
+head: magnete
+entry: 826 [PAGE_MISSING]
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d7b217d31"
+item: "#item-172e1f28f"
 unparsed:
-line: 'Head: love of Enemies|Entry: a|Entry: 225 [Love of enemies]|#item-d7b217d31'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/167,2306,504,95/full/0/default.jpg
+line: 'Head: magnete|Entry: 826 [PAGE_MISSING]|#item-172e1f28f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/831,2750,453,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179641283
-sort_value: '302912306'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560187080475
+sort_value: '302922750'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/167,2306,504,95/150,/0/default.jpg
-label: love of Enemies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/831,2750,453,132/150,/0/default.jpg
+label: magnete
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '426'
+order: '459'
 layout: index_item
 collection: index3
 ---

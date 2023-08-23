@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0766/'>Purity</a>|794 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0615/'>chastity</a>"
+index: "<a href='/digital-beehive/index1/index_0602/'>chastity</a>"
 item: "#item-c08ad89c9"
 unparsed:
 line: 'Entry: Chastity|Topic: Chastity|Xref: Purity|Xref: 794 [PAGE_MISSING]|Index:

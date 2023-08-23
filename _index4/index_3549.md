@@ -1,30 +1,29 @@
 ---
 pid: index_3549
 volume: Volume 3
-image_number: '41'
-head: schole terms
-entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>"
+image_number: '42'
+head: Self conceited
+entry: "<a href='/digital-beehive/num11/num_3549/'>4853 [Selfopinionated]</a>"
 topic:
 first_letter: S
 page:
-add: "<a href='/digital-beehive/index1/index_1115/'>Divinity</a>"
+add:
 xref:
 see:
 index:
-item: "#item-c01881cbd"
+item: "#item-a132e63d9"
 unparsed:
-line: 'Head: schole terms|Entry: 537 [Terms in didascalia]|Add: Divinity|#item-c01881cbd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/859,1252,514,179/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240572534
-sort_value: '304121252'
+line: 'Head: Self conceited|Entry: 4853 [Selfopinionated]|#item-a132e63d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/431,602,569,88/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243939233
+sort_value: '304210602'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/859,1252,514,179/150,/0/default.jpg
-label: schole terms
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/431,602,569,88/150,/0/default.jpg
+label: Self conceited
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0797'
+order: '0841'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_2847
 volume: Volume 3
 image_number: '34'
-head: outward blessings
-entry: "<a href='/digital-beehive/num5/num_1628/'>1193 [Outward Blessings & Privileges]</a>"
+head: parsnip
+entry: "<a href='/digital-beehive/num3/num_0984/'>689 [Parsnip]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-121f402c7"
+item: "#item-6b7640f32"
 unparsed:
-line: 'Head: outward blessings|Entry: 1193 [Outward Blessings & Privileges]|#item-121f402c7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/430,1692,605,206/full/0/default.jpg
+line: 'Head: parsnip|Entry: 689 [Parsnip]|#item-6b7640f32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1141,2753,488,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425538894
-sort_value: '303411692'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494535102
+sort_value: '303422753'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/430,1692,605,206/150,/0/default.jpg
-label: outward blessings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1141,2753,488,166/150,/0/default.jpg
+label: parsnip
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0095'
+order: '0139'
 layout: index_item
 collection: index4
 ---

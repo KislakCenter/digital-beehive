@@ -1,30 +1,29 @@
 ---
 pid: index_3658
 volume: Volume 3
-image_number: '42'
-head: shambles
-entry:
+image_number: '43'
+head: simples
+entry: "<a href='/digital-beehive/num3/num_1000/'>695 [Simples]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-b5510b6b2"
+item: "#item-f95d97397"
 unparsed:
-line: 'Head: shambles|Page: p.7 [Image 1.67]|#item-b5510b6b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1102,2492,542,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574819507
-sort_value: '304222492'
+line: 'Head: simples|Entry: 695 [Simples]|#item-f95d97397'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,2328,457,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582354044
+sort_value: '304312328'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1102,2492,542,176/150,/0/default.jpg
-label: shambles
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,2328,457,144/150,/0/default.jpg
+label: simples
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0906'
+order: '0950'
 layout: index_item
 collection: index4
 ---

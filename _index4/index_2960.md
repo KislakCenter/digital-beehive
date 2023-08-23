@@ -2,29 +2,28 @@
 pid: index_2960
 volume: Volume 3
 image_number: '35'
-head: perjury
-entry: "<a href='/digital-beehive/num1/num_0152/'>146 [Perjury]</a>"
+head: pillar
+entry: 861 [PAGE_MISSING]
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-6f00d94ea"
+item: "#item-b1571d568"
 unparsed:
-line: 'Head: perjury|Entry: 146 [Perjury]|#item-6f00d94ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/128,2959,475,157/full/0/default.jpg
+line: 'Head: pillar|Page: p.37 [Image 1.97]|Entry: 861 [PAGE_MISSING]|#item-b1571d568'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1510,1280,547,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973211172
-sort_value: '303512959'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976356087
+sort_value: '303531280'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/128,2959,475,157/150,/0/default.jpg
-label: perjury
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1510,1280,547,134/150,/0/default.jpg
+label: pillar
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0208'
+order: '0252'
 layout: index_item
 collection: index4
 ---

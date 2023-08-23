@@ -1,30 +1,29 @@
 ---
 pid: index_3863
 volume: Volume 3
-image_number: '44'
-head: spring. brun[n]
-entry: "<a href='/digital-beehive/alpha4/alpha_0909/'>a</a>"
+image_number: '45'
+head: to Strain liquor
+entry: "<a href='/digital-beehive/num1/num_0186/'>177 [to Strain liquor]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-279998f53"
+item: "#item-e78c3bdac"
 unparsed:
-line: 'Head: spring. brun[n]|Page: p.30 [Image 1.90]|Entry: a|#item-279998f53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1808,1705,694,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530105322859
-sort_value: '304431705'
+line: 'Head: to Strain liquor|Entry: 177 [to Strain liquor]|#item-e78c3bdac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/893,979,460,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530461157773
+sort_value: '304520979'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1808,1705,694,117/150,/0/default.jpg
-label: spring. brun[n]
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/893,979,460,95/150,/0/default.jpg
+label: to Strain liquor
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1111'
+order: '1155'
 layout: index_item
 collection: index4
 ---

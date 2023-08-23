@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1037/'>Wickedness</a>|<a href='/digital-beehive/alpha3/alpha_0637/'>naughtiness</a>|<a
   href='/digital-beehive/alpha2/alpha_0288/'>envy</a>|<a href='/digital-beehive/alpha2/alpha_0404/'>hatred</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2399/'>malice & malignity</a>"
+index: "<a href='/digital-beehive/index3/index_2360/'>malice & malignity</a>"
 item: "#item-4540729e7"
 unparsed:
 line: 'Entry: Malignity|Topic: Malignity|Xref: Wickedness|Xref: naughtiness|Xref:

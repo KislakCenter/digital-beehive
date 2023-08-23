@@ -1,9 +1,9 @@
 ---
 pid: index_4347
 volume: Volume 3
-image_number: '49'
-head: vitriol
-entry: "<a href='/digital-beehive/num9/num_3071/'>2131 [Vitriolum]</a>"
+image_number: '51'
+head: unseen
+entry: "<a href='/digital-beehive/num4/num_1120/'>879 [unseen]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-732c0febb"
+item: "#item-e61465d54"
 unparsed:
-line: 'Head: vitriol|Entry: 2131 [Vitriolum]|#item-732c0febb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1647,3273,419,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661601988
-sort_value: '304933273'
+line: 'Head: unseen|Entry: 879 [unseen]|#item-e61465d54'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/226,1245,369,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645544288
+sort_value: '305111245'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1647,3273,419,109/150,/0/default.jpg
-label: vitriol
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/226,1245,369,149/150,/0/default.jpg
+label: unseen
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '309'
+order: '370'
 layout: index_item
 collection: index5
 ---

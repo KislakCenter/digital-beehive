@@ -2,8 +2,8 @@
 pid: index_1962
 volume: Volume 3
 image_number: '25'
-head: im[m]ensity
-entry: "<a href='/digital-beehive/num2/num_0287/'>260 [Immensity]</a>"
+head: incognito
+entry: "<a href='/digital-beehive/num2/num_0291/'>262 [Anonymous or Nameless]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ff56f9e59"
+item: "#item-d106f1c11"
 unparsed:
-line: 'Head: im[m]ensity|Entry: 260 [Immensity]|#item-ff56f9e59'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/881,950,452,144/full/0/default.jpg
+line: 'Head: incognito|Entry: 262 [Anonymous or Nameless]|#item-d106f1c11'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1574,1136,525,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665357846
-sort_value: '302520950'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670879228
+sort_value: '302531136'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/881,950,452,144/150,/0/default.jpg
-label: im[m]ensity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1574,1136,525,152/150,/0/default.jpg
+label: incognito
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '044'
+order: '077'
 layout: index_item
 collection: index3
 ---

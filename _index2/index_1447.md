@@ -2,30 +2,28 @@
 pid: index_1447
 volume: Volume 3
 image_number: '20'
-head: finally
-entry: "<a href='/digital-beehive/num4/num_1235/'>928 [Last]</a>|<a href='/digital-beehive/num4/num_1236/'>928
-  [Finally]</a>"
+head: flanders
+entry:
 topic:
 first_letter: F
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2625/'>neatherlands</a>"
 index:
-item: "#item-f8d91b1ca"
+item: "#item-385e82a97"
 unparsed:
-line: 'Head: finally|Entry: 928 [Last]|Entry: 928 [Finally]|#item-f8d91b1ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1785,342,513,195/full/0/default.jpg
+line: 'Head: flanders|See: neatherlands|#item-385e82a97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1785,2283,761,218/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562600306114
-sort_value: '302030342'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562616079818
+sort_value: '302032283'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1785,342,513,195/150,/0/default.jpg
-label: finally
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1785,2283,761,218/150,/0/default.jpg
+label: flanders
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '266'
+order: '288'
 layout: index_item
 collection: index2
 ---

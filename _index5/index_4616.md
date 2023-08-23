@@ -1,30 +1,29 @@
 ---
 pid: index_4616
 volume: Volume 3
-image_number: '53'
-head: workmen
-entry: 4608 [PAGE_MISSING]
+image_number: '54'
+head: pike, Hecht
+entry: "<a href='/digital-beehive/num9/num_3050/'>2112 [Pike]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-05ad5f6c9"
+item: "#item-8e8282b75"
 unparsed:
-line: 'Head: workmen|Entry: 4608 [PAGE_MISSING]|#item-05ad5f6c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,2830,536,88/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797276353
-sort_value: '305322830'
+line: 'Type: Index|Insertion: [:23.]|Head: pike, Hecht|Entry: 2112 [Pike]|#item-8e8282b75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/419,3325,643,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885947837
+sort_value: '305413325'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,2830,536,88/150,/0/default.jpg
-label: workmen
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/419,3325,643,170/150,/0/default.jpg
+label: pike, Hecht
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '578'
+order: '639'
 layout: index_item
 collection: index5
 ---

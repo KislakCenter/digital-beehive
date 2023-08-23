@@ -1,31 +1,29 @@
 ---
 pid: index_1797
 volume: Volume 3
-image_number: '23'
-head: help
-entry: "<a href='/digital-beehive/alpha2/alpha_0414/'>a</a>|<a href='/digital-beehive/num5/num_1711/'>1240
-  [Help]</a>|<a href='/digital-beehive/num9/num_3196/'>2249 [Help]</a>"
+image_number: '24'
+head: hierarchy
+entry: "<a href='/digital-beehive/num8/num_2699/'>1767 [Hierarchy]</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1178/'>eccl. discipl</a>"
 index:
-item: "#item-a615b0606"
+item: "#item-e91563197"
 unparsed:
-line: 'Head: help|Entry: a|Entry: 1240 [Help]|Entry: 2249 [Help]|#item-a615b0606'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1522,2410,581,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571431397
-sort_value: '302332410'
+line: 'Head: hierarchy|See: eccl. discipl|Entry: 1767 [Hierarchy]|#item-e91563197'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,1806,715,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576467701
+sort_value: '302411806'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1522,2410,581,138/150,/0/default.jpg
-label: help
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,1806,715,176/150,/0/default.jpg
+label: hierarchy
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '616'
+order: '638'
 layout: index_item
 collection: index2
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_2115
 volume: Volume 3
-image_number: '26'
-head: Ireland
-entry: "<a href='/digital-beehive/num7/num_2217/'>1502 [Ireland]</a>"
+image_number: '27'
+head: to keep under
+entry: 828 [PAGE_MISSING]
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6223b1816"
+item: "#item-46c410059"
 unparsed:
-line: 'Head: Ireland|Entry: 1502 [Ireland]|#item-6223b1816'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,3379,454,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754861021
-sort_value: '302633379'
+line: 'Head: to keep under|Entry: 828 [PAGE_MISSING]|#item-46c410059'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/135,3435,459,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759598099
+sort_value: '302713435'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,3379,454,121/150,/0/default.jpg
-label: Ireland
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/135,3435,459,103/150,/0/default.jpg
+label: to keep under
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '197'
+order: '230'
 layout: index_item
 collection: index3
 ---

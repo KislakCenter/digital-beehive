@@ -2,8 +2,8 @@
 pid: index_4078
 volume: Volume 3
 image_number: '47'
-head: to tell
-entry: 4595 [PAGE_MISSING]
+head: to thrust
+entry: "<a href='/digital-beehive/alpha5/alpha_0959/'>a</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-34950e2dd"
+item: "#item-823482aea"
 unparsed:
-line: 'Head: to tell|Entry: 4595 [PAGE_MISSING]|#item-34950e2dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/168,1191,363,101/full/0/default.jpg
+line: 'Head: to thrust|Entry: a|#item-823482aea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1613,669,364,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532042916657
-sort_value: '304711191'
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517895562
+sort_value: '304730669'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/168,1191,363,101/150,/0/default.jpg
-label: to tell
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1613,669,364,105/150,/0/default.jpg
+label: to thrust
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '040'
+order: '101'
 layout: index_item
 collection: index5
 ---

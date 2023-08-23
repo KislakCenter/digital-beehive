@@ -1,31 +1,30 @@
 ---
 pid: index_1806
 volume: Volume 3
-image_number: '23'
-head: herb
-entry: "<a href='/digital-beehive/alpha2/alpha_0417/'>a</a>|<a href='/digital-beehive/num3/num_0930/'>672
-  [Herbs]</a>"
+image_number: '24'
+head: hinderance
+entry: "<a href='/digital-beehive/alpha2/alpha_0424/'>a</a>|<a href='/digital-beehive/num3/num_0737/'>576
+  [Hinderance]</a>|<a href='/digital-beehive/num7/num_2589/'>1683 [Hinderance]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a0e29d05d"
+item: "#item-34fa2d749"
 unparsed:
-line: 'Head: herb|Page: p.33 [Image 1.93]|Entry: a|Entry: 672 [Herbs]|#item-a0e29d05d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1506,3230,507,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559572214278
-sort_value: '302333230'
+line: 'Head: hinderance|Entry: a|Entry: 576 [Hinderance]|Entry: 1683 [Hinderance]|#item-34fa2d749|'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/414,2758,689,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577392281
+sort_value: '302412758'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1506,3230,507,129/150,/0/default.jpg
-label: herb
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/414,2758,689,115/150,/0/default.jpg
+label: hinderance
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '625'
+order: '647'
 layout: index_item
 collection: index2
 ---

@@ -1,10 +1,9 @@
 ---
 pid: index_4296
 volume: Volume 3
-image_number: '49'
-head: vanity
-entry: "<a href='/digital-beehive/alpha5/alpha_0992/'>a</a>|<a href='/digital-beehive/num7/num_2541/'>1659
-  [Vanitatis Triumphus]</a>"
+image_number: '50'
+head: unconcerned
+entry: 792 [PAGE_MISSING]
 topic:
 first_letter: U/V
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c3d113b28"
+item: "#item-5a66d6d30"
 unparsed:
-line: 'Head: vanity|Entry: a|Entry: 1659 [Vanitatis Triumphus]|#item-c3d113b28'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/943,1286,534,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657840953
-sort_value: '304921286'
+line: 'Head: unconcerned|Entry: 792 [PAGE_MISSING]|#item-5a66d6d30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/438,2091,557,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872765723
+sort_value: '305012091'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/943,1286,534,145/150,/0/default.jpg
-label: vanity
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/438,2091,557,125/150,/0/default.jpg
+label: unconcerned
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '258'
+order: '319'
 layout: index_item
 collection: index5
 ---

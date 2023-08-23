@@ -2,29 +2,28 @@
 pid: index_2470
 volume: Volume 3
 image_number: '30'
-head: medlar
+head: might
 entry:
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3052/'>power</a>"
 index:
-item: "#item-2b344cb4e"
+item: "#item-02aef911f"
 unparsed:
-line: 'Head: medlar|Page: p.33 [Image 1.93]|#item-2b344cb4e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1110,601,425,136/full/0/default.jpg
+line: 'Head: might|See: power|#item-02aef911f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,1468,522,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267755970
-sort_value: '303020601'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273872894
+sort_value: '303031468'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1110,601,425,136/150,/0/default.jpg
-label: medlar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,1468,522,160/150,/0/default.jpg
+label: might
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '552'
+order: '585'
 layout: index_item
 collection: index3
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_3279
 volume: Volume 3
-image_number: '38'
-head: radish
-entry: "<a href='/digital-beehive/num3/num_0990/'>691 [Radishes]</a>"
+image_number: '39'
+head: to refine
+entry: "<a href='/digital-beehive/num3/num_0907/'>659 [Purge]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c6e07356d"
+item: "#item-46694198c"
 unparsed:
-line: 'Head: radish|Entry: 691 [Radishes]|#item-c6e07356d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,2880,412,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459550161
-sort_value: '303822880'
+line: 'Head: to refine|Entry: 659 [Purge]|#item-46694198c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/150,1158,517,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463657405
+sort_value: '303911158'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,2880,412,134/150,/0/default.jpg
-label: radish
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/150,1158,517,143/150,/0/default.jpg
+label: to refine
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0527'
+order: '0571'
 layout: index_item
 collection: index4
 ---

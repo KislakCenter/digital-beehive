@@ -1,30 +1,29 @@
 ---
 pid: index_4425
 volume: Volume 3
-image_number: '51'
-head: unwilling motions
-entry: "<a href='/digital-beehive/num5/num_1519/'>1122 [Involuntary Motions]</a>"
+image_number: '52'
+head: waving
+entry: "<a href='/digital-beehive/num8/num_2818/'>1917 [Waving]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-610ea4b0e"
+item: "#item-09609300b"
 unparsed:
-line: 'Head: unwilling motions|Entry: 1122 [Involuntary Motions]|#item-610ea4b0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/201,2504,519,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645856251
-sort_value: '305112504'
+line: 'Head: waving|Entry: 1917 [Waving]|#item-09609300b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/510,1681,467,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960723162
+sort_value: '305211681'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/201,2504,519,100/150,/0/default.jpg
-label: unwilling motions
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/510,1681,467,116/150,/0/default.jpg
+label: waving
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '387'
+order: '448'
 layout: index_item
 collection: index5
 ---

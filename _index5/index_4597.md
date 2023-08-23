@@ -1,30 +1,29 @@
 ---
 pid: index_4597
 volume: Volume 3
-image_number: '53'
-head: woman's speaking in ye Church
-entry: "<a href='/digital-beehive/num1/num_0247/'>230 [Womans Speaking in the Church]</a>"
+image_number: '54'
+head: 12 Tribes of Isr
+entry: 1863 [PAGE_MISSING]
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1fd693f86"
+item: "#item-ce204d3cc"
 unparsed:
-line: 'Head: woman''s speaking in ye Church|Entry: 230 [Womans Speaking in the Church]|#item-1fd693f86'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,754,823,192/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560794882527
-sort_value: '305320754'
+line: 'Type: Index|Insertion: [:6.]|Head: 12 Tribes of Isr|Entry: 1863 [PAGE_MISSING]|#item-ce204d3cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/367,1186,709,159/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560867856467
+sort_value: '305411186'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,754,823,192/150,/0/default.jpg
-label: woman's speaking in ye Church
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/367,1186,709,159/150,/0/default.jpg
+label: 12 Tribes of Isr
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '559'
+order: '620'
 layout: index_item
 collection: index5
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num4/num_1333/'>1000
   [Prophets]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3198/'>prophets</a>"
+index: "<a href='/digital-beehive/index4/index_3148/'>prophets</a>"
 item: "#item-d07325925"
 unparsed:
 line: 'Entry: Prophet|Topic: Prophet|Xref: 41 [False Prophets]|Xref: 1000 [Prophets]|Index:

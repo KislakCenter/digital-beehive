@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1067/'>Wound</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2388/'>maimed</a>"
+index: "<a href='/digital-beehive/index3/index_2350/'>maimed</a>"
 item: "#item-b9f70ee6e"
 unparsed:
 line: 'Entry: Maimed|Topic: Maimed|Xref: Wound|Index: maimed|#item-b9f70ee6e'

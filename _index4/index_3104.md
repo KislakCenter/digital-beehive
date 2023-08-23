@@ -1,9 +1,9 @@
 ---
 pid: index_3104
 volume: Volume 3
-image_number: '36'
-head: pr[ae]fiscine
-entry: "<a href='/digital-beehive/num10/num_3206/'>2256 [Pr[ae]fiscine]</a>"
+image_number: '37'
+head: priesthood
+entry: "<a href='/digital-beehive/alpha4/alpha_0736/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4f24374fc"
+item: "#item-d06402ebf"
 unparsed:
-line: 'Head: pr[ae]fiscine|Entry: 2256 [Pr[ae]fiscine]|#item-4f24374fc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1941,463,536,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439497824
-sort_value: '303630463'
+line: 'Head: priesthood|Entry: a|#item-d06402ebf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,2667,473,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866956909
+sort_value: '303712667'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1941,463,536,139/150,/0/default.jpg
-label: pr[ae]fiscine
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/104,2667,473,125/150,/0/default.jpg
+label: priesthood
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0352'
+order: '0396'
 layout: index_item
 collection: index4
 ---

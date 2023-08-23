@@ -1,9 +1,9 @@
 ---
 pid: index_3393
 volume: Volume 3
-image_number: '39'
-head: restitution
-entry: "<a href='/digital-beehive/num2/num_0496/'>405 [Restitution]</a>"
+image_number: '40'
+head: roof
+entry: "<a href='/digital-beehive/num2/num_0431/'>362 [a Shingle]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f299ce24d"
+item: "#item-194cd1463"
 unparsed:
-line: 'Head: restitution|Entry: 405 [Restitution]|#item-f299ce24d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1509,1724,616,189/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229903965
-sort_value: '303931724'
+line: 'Head: roof|Entry: 362 [a Shingle]|#item-194cd1463'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1158,1137,313,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233394683
+sort_value: '304021137'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1509,1724,616,189/150,/0/default.jpg
-label: restitution
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1158,1137,313,116/150,/0/default.jpg
+label: roof
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0641'
+order: '0685'
 layout: index_item
 collection: index4
 ---

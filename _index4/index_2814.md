@@ -1,30 +1,29 @@
 ---
 pid: index_2814
 volume: Volume 3
-image_number: '33'
-head: or
-entry: "<a href='/digital-beehive/num7/num_2396/'>1594 [Or]</a>"
+image_number: '34'
+head: palatine
+entry: 763 [PAGE_MISSING]
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-87340b716"
+item: "#item-77a54a75d"
 unparsed:
-line: 'Head: or|Entry: 1594 [Or]|#item-87340b716'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1490,1540,360,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161876185
-sort_value: '303331540'
+line: 'Head: palatine|Entry: 763 [PAGE_MISSING]|#item-77a54a75d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/415,3064,561,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538426272747
+sort_value: '303413064'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1490,1540,360,146/150,/0/default.jpg
-label: or
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/415,3064,561,118/150,/0/default.jpg
+label: palatine
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0062'
+order: '0106'
 layout: index_item
 collection: index4
 ---

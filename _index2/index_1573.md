@@ -1,9 +1,9 @@
 ---
 pid: index_1573
 volume: Volume 3
-image_number: '21'
-head: gag
-entry: 4742 [PAGE_MISSING]
+image_number: '22'
+head: George
+entry: "<a href='/digital-beehive/num9/num_3132/'>2188 [George]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b1f0dc4bc"
+item: "#item-5a0712ab0"
 unparsed:
-line: 'Head: gag|Entry: 4742 [PAGE_MISSING]|#item-b1f0dc4bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1970,1992,344,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786458152
-sort_value: '302131992'
+line: 'Head: George|Entry: 2188 [George]|#item-5a0712ab0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/445,983,460,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042578621
+sort_value: '302210983'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1970,1992,344,143/150,/0/default.jpg
-label: gag
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/445,983,460,112/150,/0/default.jpg
+label: George
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '392'
+order: '414'
 layout: index_item
 collection: index2
 ---

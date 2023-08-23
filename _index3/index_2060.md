@@ -2,30 +2,28 @@
 pid: index_2060
 volume: Volume 3
 image_number: '26'
-head: insensibleness
-entry: "<a href='/digital-beehive/alpha3/alpha_0483/'>a</a>|<a href='/digital-beehive/num5/num_1442/'>1070
-  [Insensible]</a>"
+head: invitation
+entry: 804 [PAGE_MISSING]
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3921/'>Sum[m]ons</a>"
 index:
-item: "#item-03ea224b4"
+item: "#item-d80324991"
 unparsed:
-line: 'Head: insensibleness|Entry: a|Entry: 1070 [Insensible]|#item-03ea224b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1161,1008,616,175/full/0/default.jpg
+line: 'Head: invitation|See: Sum[m]ons|Entry: 804 [PAGE_MISSING]|#item-d80324991'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1501,632,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747501560
-sort_value: '302621008'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751466838
+sort_value: '302631501'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1161,1008,616,175/150,/0/default.jpg
-label: insensibleness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1501,632,138/150,/0/default.jpg
+label: invitation
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '142'
+order: '175'
 layout: index_item
 collection: index3
 ---

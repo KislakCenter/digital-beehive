@@ -2,8 +2,8 @@
 pid: index_3604
 volume: Volume 3
 image_number: '42'
-head: Self accusation
-entry: "<a href='/digital-beehive/num3/num_0684/'>542 [Accuse himself]</a>"
+head: shamefaced
+entry: "<a href='/digital-beehive/alpha4/alpha_0868/'>a</a>|789 [PAGE_MISSING]"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2f460d17e"
+item: "#item-79b25ad59"
 unparsed:
-line: 'Head: Self accusation|Entry: 542 [Accuse himself]|#item-2f460d17e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/438,552,566,92/full/0/default.jpg
+line: 'Head: shamefaced|Entry: a|Entry: 789 [PAGE_MISSING]|#item-79b25ad59'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1066,2785,601,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243901278
-sort_value: '304210552'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574904405
+sort_value: '304222785'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/438,552,566,92/150,/0/default.jpg
-label: Self accusation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1066,2785,601,158/150,/0/default.jpg
+label: shamefaced
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0852'
+order: '0896'
 layout: index_item
 collection: index4
 ---

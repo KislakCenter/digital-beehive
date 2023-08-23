@@ -2,29 +2,28 @@
 pid: index_3541
 volume: Volume 3
 image_number: '41'
-head: scarifying
-entry:
+head: seemly
+entry: 731 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0395/'>bloodletting</a>"
+see:
 index:
-item: "#item-00d400f81"
+item: "#item-b493f0a62"
 unparsed:
-line: 'Head: scarifying|See: bloodletting|#item-00d400f81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/864,343,749,187/full/0/default.jpg
+line: 'Head: seemly|Entry: 731 [PAGE_MISSING]|#item-b493f0a62'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1595,3281,420,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240239660
-sort_value: '304120343'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243219671
+sort_value: '304133281'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/864,343,749,187/150,/0/default.jpg
-label: scarifying
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1595,3281,420,143/150,/0/default.jpg
+label: seemly
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0789'
+order: '0833'
 layout: index_item
 collection: index4
 ---

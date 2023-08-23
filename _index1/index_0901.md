@@ -2,8 +2,9 @@
 pid: index_0901
 volume: Volume 3
 image_number: '15'
-head: credulity
-entry: "<a href='/digital-beehive/num2/num_0543/'>439 [Credulity]</a>"
+head: cruelty
+entry: "<a href='/digital-beehive/alpha1/alpha_0202/'>a</a>|<a href='/digital-beehive/num3/num_0646/'>514
+  [Cruelty]</a>|<a href='/digital-beehive/num5/num_1444/'>1071 [Cruelties]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-4680d38b6"
+item: "#item-96fea2f10"
 unparsed:
-line: 'Head: credulity|Entry: 439 [Credulity]|#item-4680d38b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/857,766,589,186/full/0/default.jpg
+line: 'Head: cruelty|Entry: a|Entry: 514 [Cruelty]|Entry: 1071 [Cruelties]|#item-96fea2f10'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/861,2570,570,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577285738
-sort_value: '301520766'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577805125
+sort_value: '301522570'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/857,766,589,186/150,/0/default.jpg
-label: credulity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/861,2570,570,125/150,/0/default.jpg
+label: cruelty
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0900'
 layout: index_item
 collection: index1

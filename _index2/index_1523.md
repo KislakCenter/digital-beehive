@@ -2,29 +2,29 @@
 pid: index_1523
 volume: Volume 3
 image_number: '21'
-head: fortune telling
-entry:
+head: frog
+entry: "<a href='/digital-beehive/alpha2/alpha_0353/'>a</a>|<a href='/digital-beehive/num9/num_3174/'>2228
+  [Frog & Toad]</a>"
 topic:
 first_letter: F
-page:
+page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0796/'>conjuring</a>"
+see:
 index:
-item: "#item-06ad5e443"
+item: "#item-0f3f71b37"
 unparsed:
-line: 'Head: fortune telling|See: conjuring|#item-06ad5e443'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/858,628,717,128/full/0/default.jpg
+line: 'Head: frog|Page: p.36 [Image 1.96]|Entry: a|Entry: 2228 [Frog & Toad]|#item-0f3f71b37'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/835,2956,656,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560782854097
-sort_value: '302120628'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784363645
+sort_value: '302122956'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/858,628,717,128/150,/0/default.jpg
-label: fortune telling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/835,2956,656,173/150,/0/default.jpg
+label: frog
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '342'
+order: '364'
 layout: index_item
 collection: index2
 ---

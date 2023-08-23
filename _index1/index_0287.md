@@ -2,9 +2,8 @@
 pid: index_0287
 volume: Volume 3
 image_number: '9'
-head: banquetting stuff
-entry: "<a href='/digital-beehive/alpha1/alpha_0058/'>a</a>|<a href='/digital-beehive/num3/num_1001/'>696
-  [Dainty meats]</a>"
+head: barefooted
+entry: "<a href='/digital-beehive/num8/num_2860/'>1939 [Barefooted]</a>"
 topic:
 first_letter: B
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-8f1969fcf"
+item: "#item-5399c245e"
 unparsed:
-line: 'Head: banquetting stuff|Entry: a|Entry: 696 [Dainty meats]|#item-8f1969fcf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/898,1972,631,138/full/0/default.jpg
+line: 'Head: barefooted|Entry: 1939 [Barefooted]|#item-5399c245e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/907,2805,568,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505404658350
-sort_value: '300921972'
+annotation_uri: http://dev.llgc.org.uk/annotation/1506104731239
+sort_value: '300922805'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/898,1972,631,138/150,/0/default.jpg
-label: banquetting stuff
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/907,2805,568,116/150,/0/default.jpg
+label: barefooted
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0286'
 layout: index_item
 collection: index1

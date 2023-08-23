@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0971/'>685 [Garlick]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1582/'>garlick</a>"
+index: "<a href='/digital-beehive/index2/index_1555/'>garlick</a>"
 item: "#item-d6a50bdc4"
 unparsed:
 line: 'Entry: Garden Garlick|Topic: Garden Garlick|Xref: 685 [Garlick]|Index: garlick|#item-d6a50bdc4'

@@ -1,30 +1,29 @@
 ---
 pid: index_2627
 volume: Volume 3
-image_number: '31'
-head: myrrh
-entry: "<a href='/digital-beehive/num8/num_2841/'>1928 [Myrrh]</a>"
+image_number: '32'
+head: neck
+entry: "<a href='/digital-beehive/num3/num_0956/'>681 [Neck]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-feba70808"
+item: "#item-f5e04fd40"
 unparsed:
-line: 'Head: myrrh|Entry: 1928 [Myrrh]|#item-feba70808'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2688,415,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362504847
-sort_value: '303132688'
+line: 'Head: neck|Entry: 681 [Neck]|#item-f5e04fd40'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/375,3007,333,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439188474
+sort_value: '303213007'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2688,415,110/150,/0/default.jpg
-label: myrrh
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/375,3007,333,109/150,/0/default.jpg
+label: neck
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '709'
+order: '742'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1214/'>917 [Surgery]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0292/'>barber Surgeon</a>"
+index: "<a href='/digital-beehive/index1/index_0285/'>barber Surgeon</a>"
 item: "#item-5b3002dd1"
 unparsed:
 line: 'Entry: Barber Surgeon|Topic: Barber Surgeon|Xref: 917 [Surgery]|Index: barber

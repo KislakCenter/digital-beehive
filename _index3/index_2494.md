@@ -1,30 +1,29 @@
 ---
 pid: index_2494
 volume: Volume 3
-image_number: '30'
-head: Mermaids
-entry: "<a href='/digital-beehive/num7/num_2337/'>1563 [Mermain & Mermaids]</a>"
+image_number: '31'
+head: mischief
+entry: "<a href='/digital-beehive/num6/num_2059/'>1422 [Dam[m]age]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2360/'>malignity</a>"
 index:
-item: "#item-e1ba2e538"
+item: "#item-a0fd3b583"
 unparsed:
-line: 'Head: Mermaids|Entry: 1563 [Mermain & Mermaids]|#item-e1ba2e538'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1099,3259,464,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269798261
-sort_value: '303023259'
+line: 'Head: mischief|See: malignity|Entry: 1422 [Dam[m]age]|#item-a0fd3b583'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/163,334,704,199/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350588141
+sort_value: '303110334'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1099,3259,464,129/150,/0/default.jpg
-label: Mermaids
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/163,334,704,199/150,/0/default.jpg
+label: mischief
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '576'
+order: '609'
 layout: index_item
 collection: index3
 ---

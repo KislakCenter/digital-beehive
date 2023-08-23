@@ -1,9 +1,9 @@
 ---
 pid: index_1686
 volume: Volume 3
-image_number: '22'
-head: grafting
-entry: "<a href='/digital-beehive/num2/num_0449/'>372 [Grafting]</a>"
+image_number: '23'
+head: gripes
+entry: "<a href='/digital-beehive/num2/num_0345/'>303 [Cholick]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0b0e52114"
+item: "#item-166e002f2"
 unparsed:
-line: 'Head: grafting|Entry: 372 [Grafting]|#item-0b0e52114'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1853,1887,439,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052993262
-sort_value: '302231887'
+line: 'Head: gripes|Entry: 303 [Cholick]|#item-166e002f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/140,1698,357,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231744457
+sort_value: '302311698'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1853,1887,439,139/150,/0/default.jpg
-label: grafting
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/140,1698,357,103/150,/0/default.jpg
+label: gripes
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '505'
+order: '527'
 layout: index_item
 collection: index2
 ---

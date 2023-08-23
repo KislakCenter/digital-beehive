@@ -2,8 +2,8 @@
 pid: index_3346
 volume: Volume 3
 image_number: '39'
-head: relapse
-entry: "<a href='/digital-beehive/num7/num_2469/'>1628 [Relapses]</a>"
+head: to retain
+entry: "<a href='/digital-beehive/num4/num_1080/'>866 [To Retain]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-59ac64b04"
+item: "#item-62b10fd21"
 unparsed:
-line: 'Head: relapse|Entry: 1628 [Relapses]|#item-59ac64b04'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/123,2806,452,119/full/0/default.jpg
+line: 'Head: to retain|Entry: 866 [To Retain]|#item-62b10fd21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1481,2337,631,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558465255662
-sort_value: '303912806'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230107298
+sort_value: '303932337'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/123,2806,452,119/150,/0/default.jpg
-label: relapse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1481,2337,631,174/150,/0/default.jpg
+label: to retain
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0594'
+order: '0638'
 layout: index_item
 collection: index4
 ---

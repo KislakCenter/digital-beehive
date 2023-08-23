@@ -1,9 +1,9 @@
 ---
 pid: index_3642
 volume: Volume 3
-image_number: '42'
-head: seriousness
-entry: "<a href='/digital-beehive/num1/num_0213/'>202 [Seriousness]</a>"
+image_number: '43'
+head: siege
+entry: "<a href='/digital-beehive/alpha4/alpha_0876/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e5b042d17"
+item: "#item-141dfc07f"
 unparsed:
-line: 'Head: seriousness|Entry: 202 [Seriousness]|#item-e5b042d17'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1116,702,610,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573713755
-sort_value: '304220702'
+line: 'Head: siege|Entry: a|#item-141dfc07f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/182,422,307,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577546894
+sort_value: '304310422'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1116,702,610,160/150,/0/default.jpg
-label: seriousness
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/182,422,307,137/150,/0/default.jpg
+label: siege
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0890'
+order: '0934'
 layout: index_item
 collection: index4
 ---

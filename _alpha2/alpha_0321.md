@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0295/'>Error</a>|<a href='/digital-beehive/num4/num_1276/'>956
   [Failings of good men]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1416/'>fault</a>"
+index: "<a href='/digital-beehive/index2/index_1392/'>fault</a>"
 item: "#item-3e32c3b6e"
 unparsed:
 line: 'Entry: Fault|Topic: Fault|Xref: Error|Xref: 956 [Failings of good men]|Index:
@@ -24,8 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/744,4579,600,180/250,/0/default.jpg
 label: Fault
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
-issue: The point of reference for "Mistake" is not entirely clear. We linked to 234
-  [Mistake], which is the first relevant entry in the numerical section of the Alvearium.
+issue: The point of reference for "Mistake" is not entirely clear, as there is no
+  alphabetical entry for this term. The Octavo Index indicates that 234 [Mistake]
+  may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
   The solitary "add" at the end of this entry may mark a cross-reference that Pastorius
   mistakenly did not complete.
 also_in_entry:

@@ -1,30 +1,30 @@
 ---
 pid: index_3827
 volume: Volume 3
-image_number: '44'
-head: spectator
-entry: 4559 [PAGE_MISSING]
+image_number: '45'
+head: statues
+entry: "<a href='/digital-beehive/num4/num_1274/'>955 [Images]</a>|<a href='/digital-beehive/num7/num_2584/'>1680
+  [Images]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_059/'>p.9 [Image 1.69]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-38080e02d"
+item: "#item-e890dda13"
 unparsed:
-line: 'Head: spectator|Entry: 4559 [PAGE_MISSING]|#item-38080e02d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1131,910,466,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529789279383
-sort_value: '304420910'
+line: 'Head: statues|Page: p.9 [Image 1.69]|Entry: 955 [Images]|Entry: 1680 [Images]|#item-e890dda13'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/193,872,663,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565289907593
+sort_value: '304510872'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1131,910,466,102/150,/0/default.jpg
-label: spectator
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/193,872,663,131/150,/0/default.jpg
+label: statues
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1075'
+order: '1119'
 layout: index_item
 collection: index4
 ---

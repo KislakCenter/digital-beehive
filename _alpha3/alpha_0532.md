@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3081/'>2141 [Leprosie]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2257/'>leprosie</a>"
+index: "<a href='/digital-beehive/index3/index_2221/'>leprosie</a>"
 item: "#item-7393ec640"
 unparsed:
 line: 'Entry: Leprosie|Topic: Leprosie|XRef: 2141 [Leprosie]|Index: leprosie|#item-7393ec640'

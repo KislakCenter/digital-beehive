@@ -1,10 +1,9 @@
 ---
 pid: index_4128
 volume: Volume 3
-image_number: '47'
-head: thouing
-entry: "<a href='/digital-beehive/alpha5/alpha_0956/'>a</a>|<a href='/digital-beehive/num1/num_0229/'>217
-  [Thouing]</a>"
+image_number: '48'
+head: top
+entry: "<a href='/digital-beehive/num3/num_0651/'>520 [Tower]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5dee8af62"
+item: "#item-02296037f"
 unparsed:
-line: 'Head: thouing|Entry: a|Entry: 217 [Thouing]|#item-5dee8af62'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/908,2900,445,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529517465561
-sort_value: '304722900'
+line: 'Head: top|Entry: 520 [Tower]|#item-02296037f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,2884,300,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275899713
+sort_value: '304812884'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/908,2900,445,135/150,/0/default.jpg
-label: thouing
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,2884,300,120/150,/0/default.jpg
+label: top
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '090'
+order: '151'
 layout: index_item
 collection: index5
 ---

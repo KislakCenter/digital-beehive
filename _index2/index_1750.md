@@ -2,32 +2,30 @@
 pid: index_1750
 volume: Volume 3
 image_number: '23'
-head: happiness of the wicked
-entry: "<a href='/digital-beehive/alpha2/alpha_0397/'>a</a>|<a href='/digital-beehive/num4/num_1225/'>923
-  [Blessings of God are upon the wicked]</a>|<a href='/digital-beehive/num7/num_2674/'>1745
-  [Happiness of the Wicked]</a>"
+head: heart
+entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>|<a href='/digital-beehive/num7/num_2227/'>1507
+  [Heart]</a>|<a href='/digital-beehive/num10/num_3453/'>4468 [Heart]</a>"
 topic:
 first_letter: H
-page:
+page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-293f79414"
+item: "#item-ef301ece2"
 unparsed:
-line: 'Head: happiness of the wicked|Entry: a|Entry: 923 [Blessings of God are upon
-  the wicked]|Entry: 1745 [Happiness of the Wicked]|#item-293f79414'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/817,1193,693,123/full/0/default.jpg
+line: 'Head: heart|Page: p.43 [Image 1.103]|Entry: a|Entry: 1507 [Heart]|Entry: 4468
+  [Heart]|#item-ef301ece2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1553,861,751,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239433405
-sort_value: '302321193'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243925993
+sort_value: '302330861'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/817,1193,693,123/150,/0/default.jpg
-label: happiness of the wicked
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1553,861,751,127/150,/0/default.jpg
+label: heart
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '569'
+order: '591'
 layout: index_item
 collection: index2
 ---

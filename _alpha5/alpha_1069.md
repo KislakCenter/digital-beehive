@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0030/'>anger</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4628/'>wrath</a>"
+index: "<a href='/digital-beehive/index5/index_4557/'>wrath</a>"
 item: "#item-0771713ce"
 unparsed:
 line: 'Entry: Wrath|Topic: Wrath|Xref: anger|Index: wrath|#item-0771713ce'

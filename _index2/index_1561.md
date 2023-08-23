@@ -2,29 +2,28 @@
 pid: index_1561
 volume: Volume 3
 image_number: '21'
-head: to fullfil
-entry: "<a href='/digital-beehive/num10/num_3413/'>2436 [To fullfil]</a>"
+head: gazing
+entry: 4566 [PAGE_MISSING]
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-263948991"
+item: "#item-c1cdd00b9"
 unparsed:
-line: 'Head: to fullfil|Entry: 2436 [To fullfil]|#item-263948991'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1568,758,509,100/full/0/default.jpg
+line: 'Head: gazing|Entry: 4566 [PAGE_MISSING]|#item-c1cdd00b9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1509,3356,526,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560785625796
-sort_value: '302130758'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787796724
+sort_value: '302133356'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1568,758,509,100/150,/0/default.jpg
-label: to fullfil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1509,3356,526,118/150,/0/default.jpg
+label: gazing
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '380'
+order: '402'
 layout: index_item
 collection: index2
 ---

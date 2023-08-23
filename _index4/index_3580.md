@@ -1,9 +1,9 @@
 ---
 pid: index_3580
 volume: Volume 3
-image_number: '41'
-head: seat
-entry: 838 [PAGE_MISSING]
+image_number: '42'
+head: sensible
+entry: "<a href='/digital-beehive/num5/num_1442/'>1070 [Insensible]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-352f020a8"
+item: "#item-988b9fb6c"
 unparsed:
-line: 'Head: seat|Entry: 838 [PAGE_MISSING]|#item-352f020a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1573,1297,346,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242473484
-sort_value: '304131297'
+line: 'Head: sensible|Entry: 1070 [Insensible]|#item-988b9fb6c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/446,3351,551,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571694513
+sort_value: '304213351'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1573,1297,346,122/150,/0/default.jpg
-label: seat
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/446,3351,551,138/150,/0/default.jpg
+label: sensible
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0828'
+order: '0872'
 layout: index_item
 collection: index4
 ---

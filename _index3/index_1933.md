@@ -2,32 +2,28 @@
 pid: index_1933
 volume: Volume 3
 image_number: '25'
-head: Jealousie
-entry: "<a href='/digital-beehive/alpha3/alpha_0449/'>a</a>|<a href='/digital-beehive/num6/num_1819/'>1301
-  [Jealous]</a>|<a href='/digital-beehive/num7/num_2534/'>1656 [Jealousie]</a>|4622
-  [PAGE_MISSING]"
+head: impertinent
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0018/'>absurd</a>"
 index:
-item: "#item-055c4620b"
+item: "#item-3b05e5804"
 unparsed:
-line: 'Head: Jealousie|Entry: a|Entry: 1301 [Jealous]|Entry: 1656 [Jealousie]|Entry:
-  4622 [PAGE_MISSING]|#item-055c4620b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/160,1252,716,166/full/0/default.jpg
+line: 'Head: impertinent|See: absurd|#item-3b05e5804'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/873,1517,645,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559660559663
-sort_value: '302511252'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665792877
+sort_value: '302521517'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/160,1252,716,166/150,/0/default.jpg
-label: Jealousie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/873,1517,645,122/150,/0/default.jpg
+label: impertinent
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '015'
+order: '048'
 layout: index_item
 collection: index3
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0568/'>Magnanimity</a>|<a href='/digital-beehive/num5/num_1557/'>1143
   [Courage]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0880/'>courage</a>"
+index: "<a href='/digital-beehive/index1/index_0863/'>courage</a>"
 item: "#item-7a1be1068"
 unparsed:
 line: 'Entry: Courage|Topic: Courage|Xref: Magnanimity|Xref: 1143 [Courage]|Index:

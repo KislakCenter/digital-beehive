@@ -2,9 +2,9 @@
 pid: index_1932
 volume: Volume 3
 image_number: '25'
-head: idolatry
-entry: "<a href='/digital-beehive/alpha3/alpha_0448/'>a</a>|<a href='/digital-beehive/num3/num_0810/'>610
-  [Idolatry]</a>|1887 [PAGE_MISSING]"
+head: impenitence
+entry: "<a href='/digital-beehive/alpha3/alpha_0465/'>a</a>|<a href='/digital-beehive/num8/num_2870/'>1945
+  [Impenitence]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d331e930c"
+item: "#item-b7f07b84d"
 unparsed:
-line: 'Head: idolatry|Entry: a|Entry: 610 [Idolatry]|Entry: 1887 [PAGE_MISSING]|#item-d331e930c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,1125,660,161/full/0/default.jpg
+line: 'Head: impenitence|Entry: a|Entry: 1945 [Impenitence]|#item-b7f07b84d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/861,1443,702,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559660402401
-sort_value: '302511125'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665747155
+sort_value: '302521443'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,1125,660,161/150,/0/default.jpg
-label: idolatry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/861,1443,702,141/150,/0/default.jpg
+label: impenitence
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '014'
+order: '047'
 layout: index_item
 collection: index3
 ---

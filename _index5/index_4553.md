@@ -1,30 +1,30 @@
 ---
 pid: index_4553
 volume: Volume 3
-image_number: '52'
-head: willful
-entry: "<a href='/digital-beehive/num2/num_0370/'>321 [Willingness]</a>"
+image_number: '53'
+head: will worship
+entry: "<a href='/digital-beehive/alpha5/alpha_1065/'>a</a>|<a href='/digital-beehive/num2/num_0613/'>490
+  [Will-worship]</a>|<a href='/digital-beehive/num10/num_3363/'>2390 [Will-worship]</a>"
 topic:
 first_letter: W
 page:
-add: "<a href='/digital-beehive/index5/index_4624/'>worship</a>"
+add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3946/'>stubborn</a>"
+see:
 index:
-item: "#item-2736a006e"
+item: "#item-42eb3eb7d"
 unparsed:
-line: 'Head: willful|Entry: 321 [Willingness]|See: stubborn|Add: worship|#item-2736a006e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1766,2731,732,207/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972480041
-sort_value: '305232731'
+line: 'Head: will worship|Entry: a|Entry: 490 [Will-worship]|Entry: 2390 [Will-worship]|#item-42eb3eb7d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/834,3545,742,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797782183
+sort_value: '305323545'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1766,2731,732,207/150,/0/default.jpg
-label: willful
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/834,3545,742,120/150,/0/default.jpg
+label: will worship
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '515'
+order: '576'
 layout: index_item
 collection: index5
 ---

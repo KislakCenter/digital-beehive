@@ -2,28 +2,29 @@
 pid: index_0925
 volume: Volume 3
 image_number: '15'
-head: cup
-entry: 733 [PAGE_MISSING]
+head: dancing
+entry: "<a href='/digital-beehive/alpha1/alpha_0208/'>a</a>|<a href='/digital-beehive/num7/num_2262/'>1525
+  [Dancing]</a>|<a href='/digital-beehive/num11/num_3566/'>4870 [Dancing]</a>"
 topic:
-first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+first_letter: D
+page:
 add:
 xref:
 see:
 index:
-item: "#item-265839893"
+item: "#item-c3647b3d8"
 unparsed:
-line: 'Head: cup|Page: p.38 [Image 1.98]|Entry: 733 [PAGE_MISSING]|#item-265839893'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/848,3409,463,114/full/0/default.jpg
+line: 'Head: dancing|Entry: a|Entry: 1525 [Dancing]|Entry: 4870 [Dancing]|#item-c3647b3d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1558,1216,718,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538578062159
-sort_value: '301523409'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507321197489
+sort_value: '301531216'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/848,3409,463,114/150,/0/default.jpg
-label: cup
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1558,1216,718,148/150,/0/default.jpg
+label: dancing
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue:
-insertion_xref:
+issue: Pastorius appears to have written 1870 under this entry. However, he likely
+  meant to write 2216 [Dancing].
 order: '0924'
 layout: index_item
 collection: index1

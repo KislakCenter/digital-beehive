@@ -1,29 +1,29 @@
 ---
 pid: index_0847
 volume: Volume 3
-image_number: '14'
-head: Corban
-entry: "<a href='/digital-beehive/num9/num_2940/'>2005 [Corban]</a>"
+image_number: '15'
+head: cosmographical books
+entry:
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-028e907dd"
+item: "#item-a878f7352"
 unparsed:
-line: 'Head: Corban|Entry: 2005 [Corban]|#item-028e907dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1829,2587,427,77/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559977597
-sort_value: '301432587'
+line: 'Head: cosmographical books|Page: p.379 [Image 2.201]|#item-a878f7352'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/147,599,756,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974061920
+sort_value: '301510599'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1829,2587,427,77/150,/0/default.jpg
-label: Corban
-location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue:
-insertion_xref:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/147,599,756,122/150,/0/default.jpg
+label: cosmographical books
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+issue: Pastorius writes p.279, but "post num. 1005," which refers to pages 375ff.
+  It can be inferred Pastorius means p.379.
 order: '0846'
 layout: index_item
 collection: index1

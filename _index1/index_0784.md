@@ -2,29 +2,27 @@
 pid: index_0784
 volume: Volume 3
 image_number: '14'
-head: confession
-entry: "<a href='/digital-beehive/alpha1/alpha_0170/'>a</a>|<a href='/digital-beehive/num8/num_2913/'>1981
-  [Confession]</a>"
+head: to conquer
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1577/'>get</a>"
 index:
-item: "#item-fca40f2eb"
+item: "#item-d9cafc17b"
 unparsed:
-line: 'Head: confession|Entry: a|Entry: 1981 [Confession]|#item-fca40f2eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/386,2886,605,122/full/0/default.jpg
+line: 'Head: to conquer|See: get|#item-d9cafc17b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1169,962,617,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216830778
-sort_value: '301412886'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541325219
+sort_value: '301420962'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/386,2886,605,122/150,/0/default.jpg
-label: confession
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1169,962,617,124/150,/0/default.jpg
+label: to conquer
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0783'
 layout: index_item
 collection: index1

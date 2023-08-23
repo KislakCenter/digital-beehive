@@ -2,9 +2,8 @@
 pid: index_1086
 volume: Volume 3
 image_number: '17'
-head: disorder
-entry: "<a href='/digital-beehive/alpha1/alpha_0247/'>a</a>|<a href='/digital-beehive/num4/num_1238/'>929
-  [Disorder]</a>"
+head: to distrain
+entry: "<a href='/digital-beehive/num2/num_0553/'>445 [To distrain]</a>"
 topic:
 first_letter: D
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-8e9b95dcd"
+item: "#item-651cf49ff"
 unparsed:
-line: 'Head: disorder|Entry: a|Entry: 929 [Disorder]|#item-8e9b95dcd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/158,2071,535,113/full/0/default.jpg
+line: 'Head: to distrain|Entry: 445 [To distrain]|#item-651cf49ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/834,687,558,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175628315
-sort_value: '301712071'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848829126
+sort_value: '301720687'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/158,2071,535,113/150,/0/default.jpg
-label: disorder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/834,687,558,160/150,/0/default.jpg
+label: to distrain
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1085'
 layout: index_item
 collection: index1

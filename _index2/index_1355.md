@@ -1,30 +1,29 @@
 ---
 pid: index_1355
 volume: Volume 3
-image_number: '19'
-head: explanation
-entry: "<a href='/digital-beehive/num3/num_1043/'>713 [Explanation]</a>"
+image_number: '20'
+head: fainting
+entry: 728 [PAGE_MISSING]
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-bf718f5c4"
+item: "#item-84768e0e1"
 unparsed:
-line: 'Head: explanation|Entry: 713 [Explanation]|#item-bf718f5c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1524,1596,583,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561395583936
-sort_value: '301931596'
+line: 'Head: fainting|Entry: 728 [PAGE_MISSING]|#item-84768e0e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/373,706,493,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561399955223
+sort_value: '302010706'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1524,1596,583,163/150,/0/default.jpg
-label: explanation
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/373,706,493,110/150,/0/default.jpg
+label: fainting
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '174'
+order: '196'
 layout: index_item
 collection: index2
 ---

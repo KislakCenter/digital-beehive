@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1803/'>1292 [Jesuites]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1941/'>Jesuite</a>"
+index: "<a href='/digital-beehive/index3/index_1908/'>Jesuite</a>"
 item: "#item-c421e7050"
 unparsed:
 line: 'Entry: Jesuite|Topic: Jesuite|Xref: 1292 [Jesuites]|Index: Jesuite|#item-c421e7050'

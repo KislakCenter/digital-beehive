@@ -2,9 +2,8 @@
 pid: index_1759
 volume: Volume 3
 image_number: '23'
-head: harp
-entry: "<a href='/digital-beehive/num8/num_2746/'>1812 [Musick]</a>|<a href='/digital-beehive/num10/num_3312/'>2341
-  [Harp]</a>"
+head: hedge
+entry: 809 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f24768f98"
+item: "#item-7874df516"
 unparsed:
-line: 'Head: harp|Entry: 1812 [Musick]|Entry: 2341 [Harp]|#item-f24768f98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/836,2042,502,121/full/0/default.jpg
+line: 'Head: hedge|Entry: 809 [PAGE_MISSING]|#item-7874df516'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1543,1797,320,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240190762
-sort_value: '302322042'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559245152453
+sort_value: '302331797'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/836,2042,502,121/150,/0/default.jpg
-label: harp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1543,1797,320,137/150,/0/default.jpg
+label: hedge
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '578'
+order: '600'
 layout: index_item
 collection: index2
 ---

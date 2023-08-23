@@ -2,8 +2,8 @@
 pid: index_4093
 volume: Volume 3
 image_number: '47'
-head: term
-entry: "<a href='/digital-beehive/num5/num_1671/'>1219 [a Term]</a>"
+head: time complaint of t[s]
+entry: "<a href='/digital-beehive/num5/num_1488/'>1098 [Complaint of Times]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-19686079b"
+item: "#item-6f561faac"
 unparsed:
-line: 'Head: term|Entry: 1219 [a Term]|#item-19686079b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/166,2528,337,101/full/0/default.jpg
+line: 'Head: time complaint of t[s]|Entry: 1098 [Complaint of Times]|#item-6f561faac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1574,2352,647,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532714757666
-sort_value: '304712528'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560280688370
+sort_value: '304732352'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/166,2528,337,101/150,/0/default.jpg
-label: term
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1574,2352,647,124/150,/0/default.jpg
+label: time complaint of t[s]
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '055'
+order: '116'
 layout: index_item
 collection: index5
 ---

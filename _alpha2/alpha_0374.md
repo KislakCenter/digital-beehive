@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index2/index_1663/'>Gog & Magog</a>"
+index: "<a href='/digital-beehive/index2/index_1633/'>Gog & Magog</a>"
 item: "#item-18dfc42f4"
 unparsed:
 line: 'Entry: Gog & Magog|Topic: Gog & Magog|Index: Gog & Magog|#item-18dfc42f4'

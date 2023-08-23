@@ -2,29 +2,28 @@
 pid: index_1282
 volume: Volume 3
 image_number: '19'
-head: epistles
-entry:
+head: etching
+entry: 4529 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2265/'>letters</a>"
+see:
 index:
-item: "#item-cc5704f12"
+item: "#item-39ebeb1ec"
 unparsed:
-line: 'Head: epistles|See: letters|#item-cc5704f12'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/143,728,551,182/full/0/default.jpg
+line: 'Head: etching|Entry: 4529 [PAGE_MISSING]|#item-39ebeb1ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/110,3563,518,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843138418
-sort_value: '301910728'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560348940529
+sort_value: '301913563'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/143,728,551,182/150,/0/default.jpg
-label: epistles
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/110,3563,518,171/150,/0/default.jpg
+label: etching
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '101'
+order: '123'
 layout: index_item
 collection: index2
 ---

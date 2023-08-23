@@ -1,9 +1,10 @@
 ---
 pid: index_4455
 volume: Volume 3
-image_number: '51'
-head: Wafers
-entry: "<a href='/digital-beehive/num7/num_2312/'>1551 [Wafers]</a>"
+image_number: '52'
+head: whale
+entry: "<a href='/digital-beehive/num6/num_2009/'>1398 [Whale]</a>|<a href='/digital-beehive/num7/num_2274/'>1530
+  [Whale]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-34bb597b8"
+item: "#item-fe8439c1c"
 unparsed:
-line: 'Head: Wafers|Entry: 1551 [Wafers]|#item-34bb597b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/933,3022,463,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647189165
-sort_value: '305123022'
+line: 'Head: whale|Entry: 1398 [Whale]|Entry: 1530 [Whale]|#item-fe8439c1c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1078,2310,597,167/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969621888
+sort_value: '305222310'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/933,3022,463,154/150,/0/default.jpg
-label: Wafers
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1078,2310,597,167/150,/0/default.jpg
+label: whale
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '417'
+order: '478'
 layout: index_item
 collection: index5
 ---

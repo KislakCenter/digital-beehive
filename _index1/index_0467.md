@@ -2,8 +2,8 @@
 pid: index_0467
 volume: Volume 3
 image_number: '11'
-head: brown
-entry: 4531 [PAGE_MISSING]
+head: bung
+entry: "<a href='/digital-beehive/num3/num_0755/'>585 [Bung]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-5fb0081c3"
+item: "#item-00701e9dd"
 unparsed:
-line: 'Head: brown|EntrY: 4531 [PAGE_MISSING]|#item-5fb0081c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/184,3577,508,97/full/0/default.jpg
+line: 'Head: bung|Entry: 585 [Bung]|#item-00701e9dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/883,986,343,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420066327
-sort_value: '301113577'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531420658338
+sort_value: '301120986'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/184,3577,508,97/150,/0/default.jpg
-label: brown
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/883,986,343,137/150,/0/default.jpg
+label: bung
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0466'
 layout: index_item
 collection: index1

@@ -2,8 +2,8 @@
 pid: index_1600
 volume: Volume 3
 image_number: '22'
-head: George
-entry: "<a href='/digital-beehive/num9/num_3132/'>2188 [George]</a>"
+head: glue
+entry: 821 [PAGE_MISSING]
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5a0712ab0"
+item: "#item-3e8fc5b96"
 unparsed:
-line: 'Head: George|Entry: 2188 [George]|#item-5a0712ab0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/445,983,460,112/full/0/default.jpg
+line: 'Head: glue|Entry: 821 [PAGE_MISSING]|#item-3e8fc5b96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1133,523,364,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042578621
-sort_value: '302210983'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561045689884
+sort_value: '302220523'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/445,983,460,112/150,/0/default.jpg
-label: George
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1133,523,364,158/150,/0/default.jpg
+label: glue
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '419'
+order: '441'
 layout: index_item
 collection: index2
 ---

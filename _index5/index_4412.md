@@ -2,29 +2,28 @@
 pid: index_4412
 volume: Volume 3
 image_number: '51'
-head: unripe
-entry: "<a href='/digital-beehive/num4/num_1239/'>929 [Unripe]</a>"
+head: warts
+entry: "<a href='/digital-beehive/num6/num_1883/'>1337 [Corns : Warts]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-0ff19b344"
+item: "#item-435af9d2a"
 unparsed:
-line: 'Head: unripe|Entry: 929 [Unripe]|#item-0ff19b344'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/212,740,417,115/full/0/default.jpg
+line: 'Head: warts|Entry: 1337 [Corns : Warts]|#item-435af9d2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3359,471,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645428568
-sort_value: '305110740'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648585843
+sort_value: '305133359'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/212,740,417,115/150,/0/default.jpg
-label: unripe
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3359,471,112/150,/0/default.jpg
+label: warts
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '374'
+order: '435'
 layout: index_item
 collection: index5
 ---

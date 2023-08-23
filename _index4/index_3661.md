@@ -1,9 +1,11 @@
 ---
 pid: index_3661
 volume: Volume 3
-image_number: '42'
-head: shameless
-entry: "<a href='/digital-beehive/num2/num_0587/'>471 [Impudence]</a>"
+image_number: '43'
+head: sin
+entry: "<a href='/digital-beehive/alpha4/alpha_0883/'>a</a>|<a href='/digital-beehive/num5/num_1440/'>1069
+  [Sin]</a>|<a href='/digital-beehive/num6/num_2031/'>1409 [Sin]</a>|<a href='/digital-beehive/num10/num_3368/'>2395
+  [Sin]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +13,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4fbf219c1"
+item: "#item-955a1f5bb"
 unparsed:
-line: 'Head: shameless|Entry: 471 [Impudence]|#item-4fbf219c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1072,2920,432,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575000213
-sort_value: '304222920'
+line: 'Head: sin|Entry: a|Entry: 1069 [Sin]|Entry: 1409 [Sin]|Entry: 2395 [Sin]|#item-955a1f5bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/192,2739,782,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582469600
+sort_value: '304312739'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1072,2920,432,136/150,/0/default.jpg
-label: shameless
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/192,2739,782,129/150,/0/default.jpg
+label: sin
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0909'
+order: '0953'
 layout: index_item
 collection: index4
 ---

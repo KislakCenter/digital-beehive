@@ -1,9 +1,9 @@
 ---
 pid: index_1469
 volume: Volume 3
-image_number: '20'
-head: fitcher
-entry: 4612 [PAGE_MISSING]
+image_number: '21'
+head: fontanell
+entry: "<a href='/digital-beehive/alpha2/alpha_0338/'>a</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-114176270"
+item: "#item-23a4e6818"
 unparsed:
-line: 'Head: fitcher|Entry: 4612 [PAGE_MISSING]|#item-114176270'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1791,2055,486,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562615845625
-sort_value: '302032055'
+line: 'Head: fontanell|Entry: a|#item-23a4e6818'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/156,1165,530,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508355098416
+sort_value: '302111165'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1791,2055,486,168/150,/0/default.jpg
-label: fitcher
-location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/156,1165,530,129/150,/0/default.jpg
+label: fontanell
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '288'
+order: '310'
 layout: index_item
 collection: index2
 ---

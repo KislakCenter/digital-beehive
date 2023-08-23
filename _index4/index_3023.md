@@ -1,9 +1,9 @@
 ---
 pid: index_3023
 volume: Volume 3
-image_number: '35'
-head: pitch
-entry: "<a href='/digital-beehive/alpha4/alpha_0713/'>a</a>"
+image_number: '36'
+head: poppy
+entry: "<a href='/digital-beehive/num5/num_1661/'>1213 [Poppy-Juice]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-74f1d34bc"
+item: "#item-f5c387fd4"
 unparsed:
-line: 'Head: pitch|Entry: a|#item-74f1d34bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1528,2432,334,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977015173
-sort_value: '303532432'
+line: 'Head: poppy|Entry: 1213 [Poppy-Juice]|#item-f5c387fd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1207,742,431,180/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438385394
+sort_value: '303620742'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1528,2432,334,122/150,/0/default.jpg
-label: pitch
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1207,742,431,180/150,/0/default.jpg
+label: poppy
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0271'
+order: '0315'
 layout: index_item
 collection: index4
 ---

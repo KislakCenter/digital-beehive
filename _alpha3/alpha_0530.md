@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0259/'>doctrine</a>|<a href='/digi
   href='/digital-beehive/alpha4/alpha_0926/'>Student</a>|<a href='/digital-beehive/num1/num_0224/'>212
   [Learning]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2238/'>learning</a>"
+index: "<a href='/digital-beehive/index3/index_2202/'>learning</a>"
 item: "#item-d520bb02c"
 unparsed:
 line: 'Entry: Learning|Topic: Learning|Xref: doctrine|Xref: School|Xref: Student|Xref:

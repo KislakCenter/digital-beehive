@@ -2,8 +2,8 @@
 pid: index_3908
 volume: Volume 3
 image_number: '45'
-head: stocks for pillory
-entry: 1846 [PAGE_MISSING]
+head: such
+entry: "<a href='/digital-beehive/num1/num_0222/'>210 [Such like]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-01d2e28d7"
+item: "#item-0cea1b536"
 unparsed:
-line: 'Head: stocks for pillory|Entry: 1846 [PAGE_MISSING]|#item-01d2e28d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/209,2982,453,94/full/0/default.jpg
+line: 'Head: such|Entry: 210 [Such like]|#item-0cea1b536'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1610,2511,333,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530448399985
-sort_value: '304512982'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530469484174
+sort_value: '304532511'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/209,2982,453,94/150,/0/default.jpg
-label: stocks for pillory
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1610,2511,333,128/150,/0/default.jpg
+label: such
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1156'
+order: '1200'
 layout: index_item
 collection: index4
 ---

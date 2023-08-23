@@ -1,9 +1,9 @@
 ---
 pid: index_3928
 volume: Volume 3
-image_number: '45'
-head: stranger
-entry: "<a href='/digital-beehive/num5/num_1453/'>1076 [Stranger]</a>"
+image_number: '46'
+head: superfluous
+entry: "<a href='/digital-beehive/num5/num_1720/'>1245 [Superfluous : Needless]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-884c80f8c"
+item: "#item-77bc0f5b3"
 unparsed:
-line: 'Head: stranger|Entry: 1076 [Stranger]|#item-884c80f8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/899,1480,440,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530461621702
-sort_value: '304521480'
+line: 'Head: superfluous|Entry: 1245 [Superfluous : Needless]|#item-77bc0f5b3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/434,1500,512,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473383081
+sort_value: '304611500'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/899,1480,440,131/150,/0/default.jpg
-label: stranger
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/434,1500,512,104/150,/0/default.jpg
+label: superfluous
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1176'
+order: '1220'
 layout: index_item
 collection: index4
 ---

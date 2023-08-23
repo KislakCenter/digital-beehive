@@ -1,30 +1,29 @@
 ---
 pid: index_4439
 volume: Volume 3
-image_number: '51'
-head: to urge
-entry: "<a href='/digital-beehive/num5/num_1415/'>1054 [To Urge]</a>"
+image_number: '52'
+head: wedding
+entry: "<a href='/digital-beehive/num5/num_1650/'>1208 [Wedding]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-fa536e71c"
+item: "#item-06bdb6b16"
 unparsed:
-line: 'Head: to urge|Entry: 1054 [To Urge]|#item-fa536e71c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/943,831,456,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646606604
-sort_value: '305120831'
+line: 'Head: wedding|Entry: 1208 [Wedding]|#item-06bdb6b16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1109,238,462,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968051939
+sort_value: '305220238'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/943,831,456,120/150,/0/default.jpg
-label: to urge
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1109,238,462,166/150,/0/default.jpg
+label: wedding
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '401'
+order: '462'
 layout: index_item
 collection: index5
 ---

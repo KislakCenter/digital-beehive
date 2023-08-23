@@ -1,10 +1,10 @@
 ---
 pid: index_4497
 volume: Volume 3
-image_number: '52'
-head: way broad & small
-entry: "<a href='/digital-beehive/alpha5/alpha_1032/'>a</a>|<a href='/digital-beehive/num11/num_3583/'>4887
-  [broad & small Way]</a>"
+image_number: '53'
+head: wisdom
+entry: "<a href='/digital-beehive/alpha5/alpha_1045/'>a</a>|<a href='/digital-beehive/num5/num_1499/'>1107
+  [Wisdom]</a>|<a href='/digital-beehive/num10/num_3234/'>2274 [Wisdom]</a>"
 topic:
 first_letter: W
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c3b0b2fde"
+item: "#item-4a8e723b8"
 unparsed:
-line: 'Head: way broad & small|Entry: a|Entry: 4887 [broad & small Way]|#item-c3b0b2fde'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/477,1985,613,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960897641
-sort_value: '305211985'
+line: 'Head: wisdom|Entry: a|Entry: 1107 [Wisdom]|Entry: 2274 [Wisdom]|#item-4a8e723b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/185,807,665,82/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791521560
+sort_value: '305310807'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/477,1985,613,144/150,/0/default.jpg
-label: way broad & small
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/185,807,665,82/150,/0/default.jpg
+label: wisdom
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '459'
+order: '520'
 layout: index_item
 collection: index5
 ---

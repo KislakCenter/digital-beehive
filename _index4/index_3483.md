@@ -1,9 +1,9 @@
 ---
 pid: index_3483
 volume: Volume 3
-image_number: '40'
-head: Sacriledge
-entry: "<a href='/digital-beehive/num1/num_0267/'>247 [Sacriledge]</a>"
+image_number: '41'
+head: scarce
+entry: "<a href='/digital-beehive/num3/num_1017/'>702 [Scarce]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ed4b80754"
+item: "#item-1dc118ecb"
 unparsed:
-line: 'Head: Sacriledge|Entry: 247 [Sacriledge]|#item-ed4b80754'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1780,1624,549,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234782317
-sort_value: '304031624'
+line: 'Head: scarce|Entry: 702 [Scarce]|#item-1dc118ecb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/166,3400,457,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240101204
+sort_value: '304113400'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1780,1624,549,156/150,/0/default.jpg
-label: Sacriledge
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/166,3400,457,151/150,/0/default.jpg
+label: scarce
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0731'
+order: '0775'
 layout: index_item
 collection: index4
 ---

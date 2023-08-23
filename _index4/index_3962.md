@@ -1,30 +1,29 @@
 ---
 pid: index_3962
 volume: Volume 3
-image_number: '45'
-head: subtlety
-entry: "<a href='/digital-beehive/num5/num_1688/'>1228 [Craftiness]</a>"
+image_number: '46'
+head: sweetheart
+entry: 796 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
-add: "<a href='/digital-beehive/index5/index_4571/'>Wit</a>"
+add:
 xref:
 see:
 index:
-item: "#item-2beaf9f64"
+item: "#item-f70ca077e"
 unparsed:
-line: 'Head: subtlety|Entry: 1228 [Craftiness]|Add: Wit|#item-2beaf9f64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1604,1921,702,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530468933796
-sort_value: '304531921'
+line: 'Head: sweetheart|Entry: 796 [PAGE_MISSING]|#item-f70ca077e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1096,1968,460,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531691926416
+sort_value: '304621968'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1604,1921,702,141/150,/0/default.jpg
-label: subtlety
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1096,1968,460,113/150,/0/default.jpg
+label: sweetheart
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1210'
+order: '1254'
 layout: index_item
 collection: index4
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_3879
 volume: Volume 3
-image_number: '44'
-head: star slough
-entry: "<a href='/digital-beehive/num7/num_2456/'>1621 [Phenomena's or Apparitions]</a>"
+image_number: '45'
+head: stress
+entry: "<a href='/digital-beehive/num3/num_1037/'>711 [Drift]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-20ee916a1"
+item: "#item-63422ec90"
 unparsed:
-line: 'Head: star slough|Entry: 1621 [Phenomena''s or Apparitions]|#item-20ee916a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1790,3547,501,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530106881114
-sort_value: '304433547'
+line: 'Head: stress|Entry: 711 [Drift]|#item-63422ec90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/908,2491,326,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530465956855
+sort_value: '304522491'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1790,3547,501,94/150,/0/default.jpg
-label: star slough
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/908,2491,326,124/150,/0/default.jpg
+label: stress
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1127'
+order: '1171'
 layout: index_item
 collection: index4
 ---

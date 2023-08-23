@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0326/'>fever</a>|<a href='/digital-beehive/alpha3/alpha_0504/'>Kings
   evil</a>|808 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3695/'>sickness</a>"
+index: "<a href='/digital-beehive/index4/index_3639/'>sickness</a>"
 item: "#item-e89281eac"
 unparsed:
 line: 'Entry: Sickness|Topic: Sickness|Xref: fever|Xref: Kings evil|Xref: 808 [PAGE_MISSING]|Index:

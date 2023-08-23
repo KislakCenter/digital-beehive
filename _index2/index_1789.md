@@ -1,9 +1,10 @@
 ---
 pid: index_1789
 volume: Volume 3
-image_number: '23'
-head: hector
-entry: "<a href='/digital-beehive/num7/num_2634/'>1709 [Hector]</a>"
+image_number: '24'
+head: herring
+entry: "<a href='/digital-beehive/alpha2/alpha_0420/'>a</a>|<a href='/digital-beehive/num10/num_3221/'>2266
+  [Herrings]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6b51fcd80"
+item: "#item-7a06b51d6"
 unparsed:
-line: 'Head: hector|Entry: 1709 [Hector]|#item-6b51fcd80'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1546,1695,352,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245070233
-sort_value: '302331695'
+line: 'Head: herring|Entry: a|Entry: 2266 [Herrings]|#item-7a06b51d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/428,915,579,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575450492
+sort_value: '302410915'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1546,1695,352,124/150,/0/default.jpg
-label: hector
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/428,915,579,173/150,/0/default.jpg
+label: herring
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '608'
+order: '630'
 layout: index_item
 collection: index2
 ---

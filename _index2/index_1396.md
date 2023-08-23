@@ -2,8 +2,8 @@
 pid: index_1396
 volume: Volume 3
 image_number: '20'
-head: family duties
-entry: "<a href='/digital-beehive/num4/num_1135/'>885 [Family Duties]</a>"
+head: fear of god
+entry: 1888 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e78134c01"
+item: "#item-c0aa3d1ec"
 unparsed:
-line: 'Head: family duties|Entry: 885 [Family Duties]|#item-e78134c01'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/382,2358,657,154/full/0/default.jpg
+line: 'Head: fear of god|Entry: 1888 [PAGE_MISSING]|#item-c0aa3d1ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1120,1124,672,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657887928
-sort_value: '302012358'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562183357275
+sort_value: '302021124'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/382,2358,657,154/150,/0/default.jpg
-label: family duties
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1120,1124,672,123/150,/0/default.jpg
+label: fear of god
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '215'
+order: '237'
 layout: index_item
 collection: index2
 ---

@@ -2,8 +2,9 @@
 pid: index_1851
 volume: Volume 3
 image_number: '24'
-head: hoarsness
-entry: 807 [PAGE_MISSING]
+head: hotchpotch
+entry: "<a href='/digital-beehive/alpha2/alpha_0437/'>a</a>|<a href='/digital-beehive/num5/num_1397/'>1043
+  [Hotch-potch]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7cfc58916"
+item: "#item-2e94f4295"
 unparsed:
-line: 'Head: hoarsness|Entry: 807 [PAGE_MISSING]|#item-7cfc58916'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1147,841,439,175/full/0/default.jpg
+line: 'Head: hotchpotch|Entry: a|Entry: 1043 [Hotch-potch]|#item-2e94f4295'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1862,337,605,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581746883
-sort_value: '302420841'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586039405
+sort_value: '302430337'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1147,841,439,175/150,/0/default.jpg
-label: hoarsness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1862,337,605,151/150,/0/default.jpg
+label: hotchpotch
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '670'
+order: '692'
 layout: index_item
 collection: index2
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0521/'>420 [absolute Forgiveness]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2879/'>pardon</a>"
+index: "<a href='/digital-beehive/index4/index_2833/'>pardon</a>"
 item: "#item-f5b23a927"
 unparsed:
 line: 'Entry: Pardon|Topic: Pardon|Xref: 420 [absolute Forgiveness]|Index: pardon|#item-f5b23a927'

@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2435/'>martial discipline</a>"
+index: "<a href='/digital-beehive/index3/index_2395/'>martial discipline</a>"
 item: "#item-9098cec91"
 unparsed:
 line: 'Entry: Martial disciplines|Topic: Martial disciplines|Index: martial discipline|#item-9098cec91'
@@ -22,7 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/353,4008,600,180/250,/0/default.jpg
 label: Martial disciplines
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
-issue: The point of reference for "Justitia militaris" is unclear.
+issue:
 also_in_entry:
 order: '086'
 layout: alpha_item

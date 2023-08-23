@@ -1,9 +1,9 @@
 ---
 pid: index_2920
 volume: Volume 3
-image_number: '34'
-head: patricius
-entry: 1864 [PAGE_MISSING]
+image_number: '35'
+head: perseverance
+entry: "<a href='/digital-beehive/num3/num_0633/'>503 [Perseverance]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-305867e47"
+item: "#item-490c1fddb"
 unparsed:
-line: 'Head: patricius|Entry: 1864 [PAGE_MISSING]|#item-305867e47'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1814,1967,559,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495575839
-sort_value: '303431967'
+line: 'Head: perseverance|Entry: 503 [Perseverance]|#item-490c1fddb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/818,387,666,186/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973997530
+sort_value: '303520387'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1814,1967,559,148/150,/0/default.jpg
-label: patricius
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/818,387,666,186/150,/0/default.jpg
+label: perseverance
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0168'
+order: '0212'
 layout: index_item
 collection: index4
 ---

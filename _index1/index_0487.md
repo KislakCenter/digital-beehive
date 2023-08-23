@@ -2,28 +2,27 @@
 pid: index_0487
 volume: Volume 3
 image_number: '11'
-head: burses
+head: by & by
 entry:
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3085/'>presently</a>"
 index:
-item: "#item-787b63651"
+item: "#item-0ecbd3258"
 unparsed:
-line: 'Head: burses|Page: p.6 [Image 1.66]|#item-787b63651'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/880,1807,350,112/full/0/default.jpg
+line: 'Head: by & by|See: presently|#item-0ecbd3258'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/866,2827,710,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421539162
-sort_value: '301121807'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493489163
+sort_value: '301122827'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/880,1807,350,112/150,/0/default.jpg
-label: burses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/866,2827,710,174/150,/0/default.jpg
+label: by & by
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0486'
 layout: index_item
 collection: index1

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_2988/'>2053 [Turk]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4265/'>turk</a>"
+index: "<a href='/digital-beehive/index5/index_4200/'>turk</a>"
 item: "#item-aea4094df"
 unparsed:
 line: 'Entry: Turk|Topic: Turk|Xref: 2053 [Turk]|Index: turk|#item-aea4094df'

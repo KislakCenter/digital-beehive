@@ -2,8 +2,8 @@
 pid: index_4095
 volume: Volume 3
 image_number: '47'
-head: terra sigillata
-entry: "<a href='/digital-beehive/num5/num_1593/'>1168 [Terra Sigillata]</a>"
+head: timeserving
+entry: "<a href='/digital-beehive/num3/num_0878/'>643 [Temporising]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4b780e579"
+item: "#item-a90a7c245"
 unparsed:
-line: 'Head: terra sigillata|Entry: 1168 [Terra Sigillata]|#item-4b780e579'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/152,2645,594,146/full/0/default.jpg
+line: 'Head: timeserving|Entry: 643 [Temporising]|#item-a90a7c245'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1600,2735,557,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532718953353
-sort_value: '304712645'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560281023600
+sort_value: '304732735'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/152,2645,594,146/150,/0/default.jpg
-label: terra sigillata
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1600,2735,557,156/150,/0/default.jpg
+label: timeserving
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '057'
+order: '118'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,28 @@
 pid: index_2149
 volume: Volume 3
 image_number: '27'
-head: to keep back
-entry: 828 [PAGE_MISSING]
+head: laces
+entry: 4584 [PAGE_MISSING]
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-701e34976"
+item: "#item-afac99085"
 unparsed:
-line: 'Head: to keep back|Entry: 828 [PAGE_MISSING]|#item-701e34976'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/133,3357,528,148/full/0/default.jpg
+line: 'Head: laces|Entry: 4584 [PAGE_MISSING]|#item-afac99085'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/831,3244,379,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759573504
-sort_value: '302713357'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832349223
+sort_value: '302723244'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/133,3357,528,148/150,/0/default.jpg
-label: to keep back
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/831,3244,379,124/150,/0/default.jpg
+label: laces
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '231'
+order: '264'
 layout: index_item
 collection: index3
 ---

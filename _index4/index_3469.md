@@ -1,31 +1,30 @@
 ---
 pid: index_3469
 volume: Volume 3
-image_number: '40'
-head: rumor
-entry: 779 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3188/'>2242 [Report &
-  Hear-say]</a>
+image_number: '41'
+head: Satyre
+entry: "<a href='/digital-beehive/alpha4/alpha_0835/'>a</a>|<a href='/digital-beehive/num6/num_1980/'>1384
+  [Satyr]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b5755c250"
+item: "#item-b70c8e91a"
 unparsed:
-line: 'Head: rumor|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & Hear-say]|#item-b5755c250'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1150,3370,605,191/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234214692
-sort_value: '304023370'
+line: 'Head: Satyre|Entry: a|Entry: 1384 [Satyr]|#item-b70c8e91a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,2041,553,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239197288
+sort_value: '304112041'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1150,3370,605,191/150,/0/default.jpg
-label: rumor
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,2041,553,130/150,/0/default.jpg
+label: Satyre
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0717'
+order: '0761'
 layout: index_item
 collection: index4
 ---

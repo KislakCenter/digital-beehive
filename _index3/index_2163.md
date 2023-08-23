@@ -2,31 +2,28 @@
 pid: index_2163
 volume: Volume 3
 image_number: '27'
-head: kingdom of God
-entry: "<a href='/digital-beehive/alpha3/alpha_0503/'>a</a>|<a href='/digital-beehive/num4/num_1177/'>906
-  [Kingdom]</a>|<a href='/digital-beehive/num7/num_2600/'>1688 [Kingdom of Christ]</a>"
+head: lapidaria
+entry: "<a href='/digital-beehive/num6/num_2025/'>1406 [Lapidaria]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-39b5fb43b"
+item: "#item-ac2b3087d"
 unparsed:
-line: 'Head: kingdom of God|Entry: a|Entry: 906 [Kingdom]|Entry: 1688 [Kingdom of
-  Christ]|#item-39b5fb43b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/856,1205,753,144/full/0/default.jpg
+line: 'Head: lapidaria|Entry: 1406 [Lapidaria]|#item-ac2b3087d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1552,1025,502,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761886881
-sort_value: '302721205'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835265165
+sort_value: '302731025'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/856,1205,753,144/150,/0/default.jpg
-label: kingdom of God
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1552,1025,502,156/150,/0/default.jpg
+label: lapidaria
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '245'
+order: '278'
 layout: index_item
 collection: index3
 ---

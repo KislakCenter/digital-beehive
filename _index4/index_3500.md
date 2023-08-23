@@ -1,30 +1,29 @@
 ---
 pid: index_3500
 volume: Volume 3
-image_number: '40'
-head: salary
-entry: "<a href='/digital-beehive/alpha4/alpha_0831/'>a</a>"
+image_number: '41'
+head: Scorpion
+entry: "<a href='/digital-beehive/num6/num_1918/'>1353 [Scorpion]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-1038174c7"
+item: "#item-74a26b16d"
 unparsed:
-line: 'Head: salary|Entry: a|#item-1038174c7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,3307,384,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235428691
-sort_value: '304033307'
+line: 'Head: Scorpion|Page: p.37 [Image 1.97]|Entry: 1353 [Scorpion]|#item-74a26b16d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2159,702,174/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240839013
+sort_value: '304122159'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,3307,384,159/150,/0/default.jpg
-label: salary
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2159,702,174/150,/0/default.jpg
+label: Scorpion
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0748'
+order: '0792'
 layout: index_item
 collection: index4
 ---

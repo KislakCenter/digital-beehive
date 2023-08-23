@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1065/'>will Worship</a>|<a href='/digital-beehive/num4/num_1264/'>946
   [Superstition]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3989/'>superstition</a>"
+index: "<a href='/digital-beehive/index4/index_3930/'>superstition</a>"
 item: "#item-e36d3949a"
 unparsed:
 line: 'Entry: Superstition|Topic: Superstition|Xref: will Worship|Xref: 946 [Superstition]|Index:

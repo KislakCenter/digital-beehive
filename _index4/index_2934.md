@@ -1,9 +1,9 @@
 ---
 pid: index_2934
 volume: Volume 3
-image_number: '34'
-head: pear
-entry: "<a href='/digital-beehive/alpha4/alpha_0699/'>a</a>"
+image_number: '35'
+head: pharisees
+entry: "<a href='/digital-beehive/num2/num_0368/'>319 [Pharisees]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-57376df37"
+item: "#item-fb67585ec"
 unparsed:
-line: 'Head: pear|Entry: a|#item-57376df37'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1788,3272,388,173/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538496019412
-sort_value: '303433272'
+line: 'Head: pharisees|Entry: 319 [Pharisees]|#item-fb67585ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/859,1981,437,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974525459
+sort_value: '303521981'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1788,3272,388,173/150,/0/default.jpg
-label: pear
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/859,1981,437,158/150,/0/default.jpg
+label: pharisees
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0182'
+order: '0226'
 layout: index_item
 collection: index4
 ---

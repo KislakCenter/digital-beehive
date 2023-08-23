@@ -2,8 +2,8 @@
 pid: index_2983
 volume: Volume 3
 image_number: '35'
-head: Philada
-entry: "<a href='/digital-beehive/num5/num_1480/'>1094 [Philadelphia]</a>"
+head: plaister
+entry: 821 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c916d825f"
+item: "#item-cd34534a9"
 unparsed:
-line: 'Head: Philada|Entry: 1094 [Philadelphia]|#item-c916d825f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/812,2213,521,171/full/0/default.jpg
+line: 'Head: plaister|Entry: 821 [PAGE_MISSING]|#item-cd34534a9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1566,3308,481,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974598335
-sort_value: '303522213'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977246464
+sort_value: '303533308'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/812,2213,521,171/150,/0/default.jpg
-label: Philada
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1566,3308,481,126/150,/0/default.jpg
+label: plaister
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0231'
+order: '0275'
 layout: index_item
 collection: index4
 ---

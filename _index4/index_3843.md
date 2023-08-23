@@ -1,10 +1,10 @@
 ---
 pid: index_3843
 volume: Volume 3
-image_number: '44'
-head: to spin
-entry: "<a href='/digital-beehive/num3/num_1029/'>706 [To Spin]</a>|<a href='/digital-beehive/num5/num_1362/'>1019
-  [Spinning]</a>"
+image_number: '45'
+head: stile
+entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>|<a
+  href='/digital-beehive/num6/num_2025/'>1406 [Lapidaria]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-85f37a183"
+item: "#item-b1ab2c135"
 unparsed:
-line: 'Head: to spin|Entry: 706 [To Spin]|Entry: 1019 [Spinning]|#item-85f37a183'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1087,2965,591,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942741499
-sort_value: '304422965'
+line: 'Head: stile|Entry: 537 [Terms in didascalia]|Entry: 1406 [Lapidaria]|#item-b1ab2c135'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/214,2304,557,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290285938
+sort_value: '304512304'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1087,2965,591,107/150,/0/default.jpg
-label: to spin
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/214,2304,557,149/150,/0/default.jpg
+label: stile
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1091'
+order: '1135'
 layout: index_item
 collection: index4
 ---

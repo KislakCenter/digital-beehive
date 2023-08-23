@@ -2,29 +2,28 @@
 pid: index_4279
 volume: Volume 3
 image_number: '49'
-head: two masters
-entry: "<a href='/digital-beehive/num10/num_3361/'>2388 [Two Masters]</a>"
+head: vizard
+entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b589f6a63"
+item: "#item-517744a37"
 unparsed:
-line: 'Head: two masters|Entry: 2388 [Two Masters]|#item-b589f6a63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/215,2860,524,99/full/0/default.jpg
+line: 'Head: vizard|Entry: 129 [Vizard]|#item-517744a37'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1646,3336,410,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657186150
-sort_value: '304912860'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661619642
+sort_value: '304933336'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/215,2860,524,99/150,/0/default.jpg
-label: two masters
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1646,3336,410,161/150,/0/default.jpg
+label: vizard
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '241'
+order: '302'
 layout: index_item
 collection: index5
 ---

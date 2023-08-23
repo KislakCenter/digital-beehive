@@ -2,8 +2,8 @@
 pid: index_2182
 volume: Volume 3
 image_number: '27'
-head: labourers
-entry: 4608 [PAGE_MISSING]
+head: latin English
+entry: "<a href='/digital-beehive/num5/num_1356/'>1015 [Some English Latin]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-8bce1e586"
+item: "#item-7b42a65fe"
 unparsed:
-line: 'Head: labourers|Entry: 4608 [PAGE_MISSING]|#item-8bce1e586'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/838,2950,509,101/full/0/default.jpg
+line: 'Head: latin English|Entry: 1015 [Some English Latin]|#item-7b42a65fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1507,3020,491,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832035621
-sort_value: '302722950'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836790573
+sort_value: '302733020'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/838,2950,509,101/150,/0/default.jpg
-label: labourers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1507,3020,491,134/150,/0/default.jpg
+label: latin English
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '264'
+order: '297'
 layout: index_item
 collection: index3
 ---

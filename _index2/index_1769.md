@@ -2,8 +2,8 @@
 pid: index_1769
 volume: Volume 3
 image_number: '23'
-head: haven
-entry: 812 [PAGE_MISSING]
+head: hemp
+entry: "<a href='/digital-beehive/num3/num_0952/'>679 [Hemp]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-97df3b7e8"
+item: "#item-196a585ac"
 unparsed:
-line: 'Head: haven|Entry: 812 [PAGE_MISSING]|#item-97df3b7e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/831,3054,387,132/full/0/default.jpg
+line: 'Head: hemp|Entry: 679 [Hemp]|#item-196a585ac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1519,2615,293,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241294216
-sort_value: '302323054'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571683729
+sort_value: '302332615'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/831,3054,387,132/150,/0/default.jpg
-label: haven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1519,2615,293,129/150,/0/default.jpg
+label: hemp
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '588'
+order: '610'
 layout: index_item
 collection: index2
 ---

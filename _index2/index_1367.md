@@ -1,30 +1,30 @@
 ---
 pid: index_1367
 volume: Volume 3
-image_number: '19'
-head: extremity
-entry: 749 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1596/'>1169 [Extremity]</a>
+image_number: '20'
+head: falshood
+entry: "<a href='/digital-beehive/alpha2/alpha_0315/'>a</a>|<a href='/digital-beehive/num4/num_1307/'>979
+  [Falsehood]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-14699a671"
+item: "#item-f7ff6c2f2"
 unparsed:
-line: 'Head: extremity|Entry: 749 [PAGE_MISSING]|Entry: 1169 [Extremity]|#item-14699a671'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1510,3095,645,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561397297784
-sort_value: '301933095'
+line: 'Head: falshood|Entry: a|Entry: 979 [Falsehood]|#item-f7ff6c2f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,1913,615,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561402153990
+sort_value: '302011913'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1510,3095,645,135/150,/0/default.jpg
-label: extremity
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,1913,615,137/150,/0/default.jpg
+label: falshood
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '186'
+order: '208'
 layout: index_item
 collection: index2
 ---

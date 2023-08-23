@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0691/'>Passion</a>|<a href='/digit
   href='/digital-beehive/alpha3/alpha_0613/'>Mortifying</a>|<a href='/digital-beehive/alpha5/alpha_1032/'>Small
   Way</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0914/'>cross of Christ</a>"
+index: "<a href='/digital-beehive/index1/index_0897/'>cross of Christ</a>"
 item: "#item-daf11e003"
 unparsed:
 line: 'Entry: Cross of Christ|Topic: Cross of Christ|Xref: Passion|Xref: Martyr|Xref:

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0819/'>Rome</a>|<a href='/digital-beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
   href='/digital-beehive/num4/num_1271/'>952 [Babel]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0261/'>babylon</a>"
+index: "<a href='/digital-beehive/index1/index_0254/'>babylon</a>"
 item: "#item-43ad5283e"
 unparsed:
 line: 'Entry: Babylon|Topic: Babylon|Xref: Rome|Xref: Antichrist|Xref: 952 [Babel]|Index:

@@ -2,10 +2,8 @@
 pid: index_2473
 volume: Volume 3
 image_number: '30'
-head: meetings
-entry: "<a href='/digital-beehive/num1/num_0120/'>116 [Meetings]</a>|<a href='/digital-beehive/num6/num_1771/'>1276
-  [Meetings to worship God in]</a>|<a href='/digital-beehive/num10/num_3232/'>2273
-  [Meetings]</a>"
+head: milky way
+entry: "<a href='/digital-beehive/num7/num_2364/'>1575 [Milky way]</a>"
 topic:
 first_letter: M
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b891f6b11"
+item: "#item-bf0334b6e"
 unparsed:
-line: 'Head: meetings|Entry: 116 [Meetings]|Entry: 1276 [Meetings to worship God in]|Entry:
-  2273 [Meetings]|#item-b891f6b11'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1129,957,710,122/full/0/default.jpg
+line: 'Head: milky way|Entry: 1575 [Milky way]|#item-bf0334b6e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1835,1779,527,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267998913
-sort_value: '303020957'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274054962
+sort_value: '303031779'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1129,957,710,122/150,/0/default.jpg
-label: meetings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1835,1779,527,145/150,/0/default.jpg
+label: milky way
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '555'
+order: '588'
 layout: index_item
 collection: index3
 ---

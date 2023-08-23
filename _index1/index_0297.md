@@ -2,8 +2,9 @@
 pid: index_0297
 volume: Volume 3
 image_number: '9'
-head: to bark
-entry: "<a href='/digital-beehive/num4/num_1193/'>911 [To Bark]</a>"
+head: bastard
+entry: "<a href='/digital-beehive/alpha1/alpha_0063/'>a</a>|<a href='/digital-beehive/num4/num_1296/'>972
+  [Bastard]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-97f883562"
+item: "#item-8cb1f4d49"
 unparsed:
-line: 'Head: to bark|Entry: 911 [To Bark]|#item-97f883562'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/862,2961,438,90/full/0/default.jpg
+line: 'Head: bastard|Entry: a|Entry: 972 [Bastard]|#item-8cb1f4d49'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1616,345,517,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506105168279
-sort_value: '300922961'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530805679323
+sort_value: '300930345'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/862,2961,438,90/150,/0/default.jpg
-label: to bark
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1616,345,517,121/150,/0/default.jpg
+label: bastard
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0296'
 layout: index_item
 collection: index1

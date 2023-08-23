@@ -2,30 +2,28 @@
 pid: index_1459
 volume: Volume 3
 image_number: '20'
-head: firstborn
-entry: "<a href='/digital-beehive/alpha2/alpha_0330/'>a</a>|<a href='/digital-beehive/num9/num_3105/'>2163
-  [Birth-right]</a>"
+head: flock
+entry:
 topic:
 first_letter: F
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0557/'>cattle</a>"
 index:
-item: "#item-337393eaa"
+item: "#item-fd5a66e85"
 unparsed:
-line: 'Head: firstborn|Entry: a|Entry: 2163 [Birth-right]|#item-337393eaa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1803,1469,531,148/full/0/default.jpg
+line: 'Head: flock|See: cattle|#item-fd5a66e85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1771,3569,618,202/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613985222
-sort_value: '302031469'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562618470735
+sort_value: '302033569'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1803,1469,531,148/150,/0/default.jpg
-label: firstborn
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1771,3569,618,202/150,/0/default.jpg
+label: flock
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '278'
+order: '300'
 layout: index_item
 collection: index2
 ---

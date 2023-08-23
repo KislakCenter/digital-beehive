@@ -1,9 +1,9 @@
 ---
 pid: index_4127
 volume: Volume 3
-image_number: '47'
-head: thoughts governmt of th
-entry: "<a href='/digital-beehive/num6/num_1812/'>1297 [Governmt of thoughts]</a>"
+image_number: '48'
+head: toothach
+entry: "<a href='/digital-beehive/alpha5/alpha_0975/'>a</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b8556be97"
+item: "#item-a41ef606f"
 unparsed:
-line: 'Head: thoughts governmt of th|Entry: 1297 [Governmt of thoughts]|#item-b8556be97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/855,2759,722,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532876472460
-sort_value: '304722759'
+line: 'Head: toothach|Entry: a|#item-a41ef606f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/443,2744,390,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275722106
+sort_value: '304812744'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/855,2759,722,158/150,/0/default.jpg
-label: thoughts governmt of th
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/443,2744,390,122/150,/0/default.jpg
+label: toothach
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '089'
+order: '150'
 layout: index_item
 collection: index5
 ---

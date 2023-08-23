@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0854/'>630 [Rebellion]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3311/'>rebellion</a>"
+index: "<a href='/digital-beehive/index4/index_3260/'>rebellion</a>"
 item: "#item-7fe9ac8ca"
 unparsed:
 line: 'Entry: Rebellion |Topic: Rebellion |Xref: 630 [Rebellion]|Index: rebellion|#item-7fe9ac8ca'

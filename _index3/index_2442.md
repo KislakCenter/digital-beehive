@@ -2,8 +2,8 @@
 pid: index_2442
 volume: Volume 3
 image_number: '30'
-head: masquerade
-entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
+head: mental reserv
+entry: "<a href='/digital-beehive/num4/num_1298/'>973 [Mental Reservations]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7a4a4f18b"
+item: "#item-ad2e9d274"
 unparsed:
-line: 'Head: masquerade|Entry: 129 [Vizard]|#item-7a4a4f18b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/412,1491,564,121/full/0/default.jpg
+line: 'Head: mental reserv|Entry: 973 [Mental Reservations]|#item-ad2e9d274'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1138,2017,629,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263864447
-sort_value: '303011491'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268491732
+sort_value: '303022017'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/412,1491,564,121/150,/0/default.jpg
-label: masquerade
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1138,2017,629,163/150,/0/default.jpg
+label: mental reserv
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '524'
+order: '557'
 layout: index_item
 collection: index3
 ---

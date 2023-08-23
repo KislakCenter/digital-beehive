@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2293/'>1540 [Poisoning]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4311/'>venom</a>"
+index: "<a href='/digital-beehive/index5/index_4244/'>venom</a>"
 item: "#item-09994abd8"
 unparsed:
 line: 'Entry: Venom|Topic: Venom|Xref: 1540 [Poisoning]|Index: venom|#item-09994abd8'

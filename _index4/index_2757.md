@@ -2,30 +2,29 @@
 pid: index_2757
 volume: Volume 3
 image_number: '33'
-head: obligation
-entry: "<a href='/digital-beehive/alpha4/alpha_0655/'>a</a>|<a href='/digital-beehive/num6/num_2003/'>1396
-  [Obliga[ti]on]</a>"
+head: F.D.P.s onomast.
+entry:
 topic:
 first_letter: O
-page:
+page: "<a href='/digital-beehive/toc/toc1_105/'>p.55 [Image 1.115]</a>|<a href='/digital-beehive/toc/toc1_129/'>p.67
+  [Image 1.139]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-48c0ae297"
+item: "#item-7389d2734"
 unparsed:
-line: 'Head: obligation|Entry: a|Entry: 1396 [Obliga[ti]on]|#item-48c0ae297'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/134,1936,726,179/full/0/default.jpg
+line: 'Head: F.D.P.s onomast.|Page: p.55 [Image 1.115]|Page: p.67 [Image 1.139]|#item-7389d2734'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/845,3523,896,199/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347253491
-sort_value: '303311936'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538160273783
+sort_value: '303323523'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/134,1936,726,179/150,/0/default.jpg
-label: obligation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/845,3523,896,199/150,/0/default.jpg
+label: F.D.P.s onomast.
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0005'
+order: '0049'
 layout: index_item
 collection: index4
 ---

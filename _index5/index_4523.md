@@ -1,9 +1,9 @@
 ---
 pid: index_4523
 volume: Volume 3
-image_number: '52'
-head: wet
-entry: 738 [PAGE_MISSING]
+image_number: '53'
+head: woman's Courses
+entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2528/'>1653 [Menstrua]</a>
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-eab69679a"
+item: "#item-0a5d33f70"
 unparsed:
-line: 'Head: wet|Entry: 738 [PAGE_MISSING]|#item-eab69679a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1074,2168,338,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969186697
-sort_value: '305222168'
+line: 'Head: woman''s Courses|Entry: 838 [PAGE_MISSING]|Entry: 1653 [Menstrua]|#item-0a5d33f70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/878,291,657,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560794501597
+sort_value: '305320291'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1074,2168,338,130/150,/0/default.jpg
-label: wet
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/878,291,657,149/150,/0/default.jpg
+label: woman's Courses
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '485'
+order: '546'
 layout: index_item
 collection: index5
 ---

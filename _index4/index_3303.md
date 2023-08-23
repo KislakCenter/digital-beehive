@@ -1,9 +1,9 @@
 ---
 pid: index_3303
 volume: Volume 3
-image_number: '38'
-head: ravenous birds
-entry: "<a href='/digital-beehive/num6/num_1912/'>1351 [a Kite : a Hawk]</a>"
+image_number: '39'
+head: remedyless
+entry: "<a href='/digital-beehive/num3/num_0833/'>620 [Despair]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c4fe547bc"
+item: "#item-eb921a81d"
 unparsed:
-line: 'Head: ravenous birds|Entry: 1351 [a Kite : a Hawk]|#item-c4fe547bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1816,1417,656,203/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461151105
-sort_value: '303831417'
+line: 'Head: remedyless|Entry: 620 [Despair]|#item-eb921a81d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/775,582,422,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468896244
+sort_value: '303920582'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1816,1417,656,203/150,/0/default.jpg
-label: ravenous birds
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/775,582,422,113/150,/0/default.jpg
+label: remedyless
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0551'
+order: '0595'
 layout: index_item
 collection: index4
 ---

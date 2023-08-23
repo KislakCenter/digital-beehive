@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index5/index_4591/'>women beaten</a>"
+index: "<a href='/digital-beehive/index5/index_4521/'>women beaten</a>"
 item: "#item-53da03350"
 unparsed:
 line: 'Entry: Womans beating|Topic: Womans beating|Index: women beaten|#item-53da03350'

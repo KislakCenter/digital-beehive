@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3168/'>2224 [Riddle]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3423/'>riddle</a>"
+index: "<a href='/digital-beehive/index4/index_3370/'>riddle</a>"
 item: "#item-7c2447fe3"
 unparsed:
 line: 'Entry: Riddles|Topic: Riddles|Xref: 2224 [Riddle]|Index: riddle|#item-7c2447fe3'

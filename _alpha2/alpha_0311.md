@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0283/'>eloquence</a>|<a href='/digital-beehive/num10/num_3343/'>2370
   [Fair Words]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1380/'>fair words</a>"
+index: "<a href='/digital-beehive/index2/index_1356/'>fair words</a>"
 item: "#item-a3c193e9f"
 unparsed:
 line: 'Entry: Fair words|Topic: Fair words|Xref: eloquence|Xref: 2370 [Fair Words]|Index:

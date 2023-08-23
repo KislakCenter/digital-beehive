@@ -1,30 +1,29 @@
 ---
 pid: index_3750
 volume: Volume 3
-image_number: '43'
-head: slime
-entry: "<a href='/digital-beehive/num10/num_3216/'>2262 [Phlegm or Flegm]</a>"
+image_number: '44'
+head: soveraign
+entry: "<a href='/digital-beehive/num5/num_1694/'>1231 [Independent : Soveraign]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_1980/'>indep</a>"
 index:
-item: "#item-3b60bdf70"
+item: "#item-d1a4b29e6"
 unparsed:
-line: 'Head: slime|Entry: 2262 [Phlegm or Flegm]|#item-3b60bdf70'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1301,2469,362,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584628949
-sort_value: '304322469'
+line: 'Head: soveraign|See: indep|Entry: 1231 [Independent : Soveraign]|#item-d1a4b29e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/542,2183,563,191/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529704630275
+sort_value: '304412183'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1301,2469,362,96/150,/0/default.jpg
-label: slime
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/542,2183,563,191/150,/0/default.jpg
+label: soveraign
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0998'
+order: '1042'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_1319
 volume: Volume 3
 image_number: '19'
-head: evil
-entry: "<a href='/digital-beehive/num8/num_2786/'>1901 [Evil]</a>"
+head: exemplar
+entry: "<a href='/digital-beehive/num2/num_0563/'>452 [Copy]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b292e56e4"
+item: "#item-33a215afc"
 unparsed:
-line: 'Head: evil|Entry: 1901 [Evil]|#item-b292e56e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/834,1464,335,144/full/0/default.jpg
+line: 'Head: exemplar|Entry: 452 [Copy]|#item-33a215afc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1557,558,563,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351732045
-sort_value: '301921464'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042157433
+sort_value: '301930558'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/834,1464,335,144/150,/0/default.jpg
-label: evil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1557,558,563,134/150,/0/default.jpg
+label: exemplar
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '138'
+order: '160'
 layout: index_item
 collection: index2
 ---

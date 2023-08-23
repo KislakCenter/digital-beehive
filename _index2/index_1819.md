@@ -2,8 +2,8 @@
 pid: index_1819
 volume: Volume 3
 image_number: '24'
-head: herod
-entry: "<a href='/digital-beehive/num11/num_3524/'>4828 [Herod]</a>"
+head: hoarsness
+entry: 807 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ba28155cf"
+item: "#item-7cfc58916"
 unparsed:
-line: 'Head: herod|Entry: 4828 [Herod]|#item-ba28155cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/824,830,334,90/full/0/default.jpg
+line: 'Head: hoarsness|Entry: 807 [PAGE_MISSING]|#item-7cfc58916'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1147,841,439,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575233388
-sort_value: '302410830'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581746883
+sort_value: '302420841'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/824,830,334,90/150,/0/default.jpg
-label: herod
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1147,841,439,175/150,/0/default.jpg
+label: hoarsness
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '638'
+order: '660'
 layout: index_item
 collection: index2
 ---

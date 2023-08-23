@@ -1,9 +1,9 @@
 ---
 pid: index_2319
 volume: Volume 3
-image_number: '28'
-head: locust
-entry: "<a href='/digital-beehive/num5/num_1733/'>1250 [Grasshoppers]</a>"
+image_number: '29'
+head: lowngers
+entry: 4588 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3050aad15"
+item: "#item-b33c99d1a"
 unparsed:
-line: 'Head: locust|Entry: 1250 [Grasshoppers]|#item-3050aad15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1797,3147,387,115/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559850254762
-sort_value: '302833147'
+line: 'Head: lowngers|Entry: 4588 [PAGE_MISSING]|#item-b33c99d1a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/166,3209,546,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180557725
+sort_value: '302913209'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1797,3147,387,115/150,/0/default.jpg
-label: locust
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/166,3209,546,116/150,/0/default.jpg
+label: lowngers
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '401'
+order: '434'
 layout: index_item
 collection: index3
 ---

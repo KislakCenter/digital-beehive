@@ -2,29 +2,28 @@
 pid: index_3715
 volume: Volume 3
 image_number: '43'
-head: simples
-entry: "<a href='/digital-beehive/num3/num_1000/'>695 [Simples]</a>"
+head: snuffers
+entry:
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-f95d97397"
+item: "#item-6902a5bf0"
 unparsed:
-line: 'Head: simples|Entry: 695 [Simples]|#item-f95d97397'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,2328,457,144/full/0/default.jpg
+line: 'Head: snuffers|Page: p.38 [Image 1.98]|#item-6902a5bf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1594,1533,459,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582354044
-sort_value: '304312328'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585995416
+sort_value: '304331533'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,2328,457,144/150,/0/default.jpg
-label: simples
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1594,1533,459,109/150,/0/default.jpg
+label: snuffers
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0963'
+order: '1007'
 layout: index_item
 collection: index4
 ---

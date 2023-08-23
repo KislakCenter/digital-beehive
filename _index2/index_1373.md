@@ -1,30 +1,30 @@
 ---
 pid: index_1373
 volume: Volume 3
-image_number: '19'
-head: Ezekiel
-entry: "<a href='/digital-beehive/num9/num_3106/'>2164 [Ezekiel]</a>"
+image_number: '20'
+head: famine
+entry: "<a href='/digital-beehive/num3/num_1036/'>710 [Hunger]</a>|<a href='/digital-beehive/num9/num_3032/'>2095
+  [Hunger]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1872/'>hunger</a>"
 index:
-item: "#item-f8278db89"
+item: "#item-bcf36dddd"
 unparsed:
-line: 'Head: Ezekiel|Entry: 2164 [Ezekiel]|#item-f8278db89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1512,3591,537,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561398317016
-sort_value: '301933591'
+line: 'Head: famine|See: hunger|Entry: 710 [Hunger]|Entry: 2095 [Hunger]|#item-bcf36dddd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/381,2515,756,194/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658293462
+sort_value: '302012515'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1512,3591,537,135/150,/0/default.jpg
-label: Ezekiel
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/381,2515,756,194/150,/0/default.jpg
+label: famine
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '192'
+order: '214'
 layout: index_item
 collection: index2
 ---

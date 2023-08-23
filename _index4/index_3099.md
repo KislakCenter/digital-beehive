@@ -1,9 +1,9 @@
 ---
 pid: index_3099
 volume: Volume 3
-image_number: '36'
-head: to pour out
-entry: 782 [PAGE_MISSING]
+image_number: '37'
+head: prey
+entry: "<a href='/digital-beehive/num4/num_1095/'>871 [Prey]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-54c6d6142"
+item: "#item-f74d1033d"
 unparsed:
-line: 'Head: to pour out|Entry: 782 [PAGE_MISSING]|#item-54c6d6142'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1155,3431,584,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439274683
-sort_value: '303623431'
+line: 'Head: prey|Entry: 871 [Prey]|#item-f74d1033d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/111,2058,381,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866661095
+sort_value: '303712058'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1155,3431,584,163/150,/0/default.jpg
-label: to pour out
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/111,2058,381,166/150,/0/default.jpg
+label: prey
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0347'
+order: '0391'
 layout: index_item
 collection: index4
 ---

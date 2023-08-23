@@ -1,9 +1,10 @@
 ---
 pid: index_4288
 volume: Volume 3
-image_number: '49'
-head: vail
-entry: "<a href='/digital-beehive/num6/num_2117/'>1448 [Vail]</a>"
+image_number: '50'
+head: unawares
+entry: "<a href='/digital-beehive/num3/num_1019/'>703 [Unawares]</a>|<a href='/digital-beehive/num8/num_2767/'>1831
+  [Unawares]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-be9e66e2b"
+item: "#item-e3161b2bc"
 unparsed:
-line: 'Head: vail|Entry: 1448 [Vail]|#item-be9e66e2b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/933,570,378,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657577184
-sort_value: '304920570'
+line: 'Head: unawares|Entry: 703 [Unawares]|Entry: 1831 [Unawares]|#item-e3161b2bc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/478,1086,633,99/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872274771
+sort_value: '305011086'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/933,570,378,96/150,/0/default.jpg
-label: vail
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/478,1086,633,99/150,/0/default.jpg
+label: unawares
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '250'
+order: '311'
 layout: index_item
 collection: index5
 ---

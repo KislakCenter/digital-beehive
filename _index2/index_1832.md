@@ -2,29 +2,29 @@
 pid: index_1832
 volume: Volume 3
 image_number: '24'
-head: highminded
-entry: "<a href='/digital-beehive/num5/num_1678/'>1224 [Insolence]</a>"
+head: honey
+entry: "<a href='/digital-beehive/alpha2/alpha_0430/'>a</a>|<a href='/digital-beehive/num8/num_2792/'>1903
+  [Honey]</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1770/'>haughty</a>"
+see:
 index:
-item: "#item-5f895a4c7"
+item: "#item-1847e5938"
 unparsed:
-line: 'Head: highminded|See: haughty|Entry: 1224 [Insolence]|#item-5f895a4c7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,2185,719,189/full/0/default.jpg
+line: 'Head: honey|Entry: a|Entry: 1903 [Honey]|#item-1847e5938'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1136,2110,463,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576820697
-sort_value: '302412185'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582921283
+sort_value: '302422110'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/422,2185,719,189/150,/0/default.jpg
-label: highminded
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1136,2110,463,156/150,/0/default.jpg
+label: honey
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '651'
+order: '673'
 layout: index_item
 collection: index2
 ---

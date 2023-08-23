@@ -1,31 +1,29 @@
 ---
 pid: index_4623
 volume: Volume 3
-image_number: '53'
-head: worship
-entry: "<a href='/digital-beehive/alpha5/alpha_1064/'>a</a>|<a href='/digital-beehive/num5/num_1441/'>1070
-  [Worship]</a>|<a href='/digital-beehive/num9/num_2964/'>2029 [Worship]</a>"
+image_number: '54'
+head: ἀνδρωποπαδῶς
+entry: "<a href='/digital-beehive/num3/num_1078/'>725 [Catachresis]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b09fd4560"
+item: "#item-fa717f87e"
 unparsed:
-line: 'Head: worship|Entry: a|Entry: 1070 [Worship]|Entry: 2029 [Worship]|#item-b09fd4560'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/852,3429,716,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797714420
-sort_value: '305323429'
+line: 'Type: Index|Insertion: [:30.]|Head: ἀνδρωποπαδῶς|Entry: 725 [Catachresis]|#item-fa717f87e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1060,1011,727,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954192616
+sort_value: '305421011'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/852,3429,716,154/150,/0/default.jpg
-label: worship
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1060,1011,727,158/150,/0/default.jpg
+label: ἀνδρωποπαδῶς
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '585'
+order: '646'
 layout: index_item
 collection: index5
 ---

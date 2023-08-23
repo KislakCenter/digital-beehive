@@ -2,8 +2,8 @@
 pid: index_4177
 volume: Volume 3
 image_number: '48'
-head: too high
-entry: 1869 [PAGE_MISSING]
+head: Trismegist
+entry: "<a href='/digital-beehive/num5/num_1481/'>1094 [Mercurius or Hermes Trismegistus]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2aeec3bab"
+item: "#item-73b3dcbe4"
 unparsed:
-line: 'Head: too high|Entry: 1869 [PAGE_MISSING]|#item-2aeec3bab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/498,1214,460,131/full/0/default.jpg
+line: 'Head: Trismegist|Entry: 1094 [Mercurius or Hermes Trismegistus]|#item-73b3dcbe4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1781,1884,572,205/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273702036
-sort_value: '304811214'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562089211080
+sort_value: '304831884'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/498,1214,460,131/150,/0/default.jpg
-label: too high
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1781,1884,572,205/150,/0/default.jpg
+label: Trismegist
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '139'
+order: '200'
 layout: index_item
 collection: index5
 ---

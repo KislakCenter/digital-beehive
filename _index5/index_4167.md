@@ -2,29 +2,29 @@
 pid: index_4167
 volume: Volume 3
 image_number: '48'
-head: toe
-entry:
+head: trees
+entry: "<a href='/digital-beehive/alpha5/alpha_0984/'>a</a>|<a href='/digital-beehive/num7/num_2517/'>1648
+  [Trees]</a>"
 topic:
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-fd0d6b9a0"
+item: "#item-2a5498cf1"
 unparsed:
-line: 'Head: toe|Page: p.43 [Image 1.103]|#item-fd0d6b9a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/474,650,320,123/full/0/default.jpg
+line: 'Head: trees|Page: p.32 [Image 1.92]|Entry: a|Entry: 1648 [Trees]|#item-2a5498cf1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1778,693,673,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846728614
-sort_value: '304810650'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562087658971
+sort_value: '304830693'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/474,650,320,123/150,/0/default.jpg
-label: toe
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1778,693,673,157/150,/0/default.jpg
+label: trees
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '129'
+order: '190'
 layout: index_item
 collection: index5
 ---

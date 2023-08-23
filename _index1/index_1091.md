@@ -2,28 +2,27 @@
 pid: index_1091
 volume: Volume 3
 image_number: '17'
-head: disperse
-entry:
+head: diversity
+entry: "<a href='/digital-beehive/alpha1/alpha_0255/'>a</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3543/'>Scatter</a>"
+see:
 index:
-item: "#item-2c04fc280"
+item: "#item-618c2e032"
 unparsed:
-line: 'Head: disperse|See: Scatter|#item-2c04fc280'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/118,2601,661,156/full/0/default.jpg
+line: 'Head: diversity|Entry: a|#item-618c2e032'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/743,1237,574,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804432700
-sort_value: '301712601'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849180342
+sort_value: '301721237'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/118,2601,661,156/150,/0/default.jpg
-label: disperse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/743,1237,574,145/150,/0/default.jpg
+label: diversity
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1090'
 layout: index_item
 collection: index1

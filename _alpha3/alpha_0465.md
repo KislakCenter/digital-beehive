@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0795/'>repentance</a>|<a href='/digital-beehive/num8/num_2870/'>1945
   [Impenitence]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1966/'>impenitence</a>"
+index: "<a href='/digital-beehive/index3/index_1932/'>impenitence</a>"
 item: "#item-cebd48102"
 unparsed:
 line: 'Entry: Impenitence|Topic: Impenitence|Xref: repentance|Xref: 1945 [Impenitence]|Index:

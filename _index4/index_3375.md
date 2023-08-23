@@ -1,9 +1,9 @@
 ---
 pid: index_3375
 volume: Volume 3
-image_number: '39'
-head: repressing
-entry: 741 [PAGE_MISSING]
+image_number: '40'
+head: righteous
+entry: "<a href='/digital-beehive/num2/num_0367/'>319 [Righteous]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-03570b13a"
+item: "#item-c1086557f"
 unparsed:
-line: 'Head: repressing|Entry: 741 [PAGE_MISSING]|#item-03570b13a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/807,2919,589,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469558937
-sort_value: '303922919'
+line: 'Head: righteous|Entry: 319 [Righteous]|#item-c1086557f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/401,2328,549,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232103084
+sort_value: '304012328'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/807,2919,589,132/150,/0/default.jpg
-label: repressing
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/401,2328,549,120/150,/0/default.jpg
+label: righteous
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0623'
+order: '0667'
 layout: index_item
 collection: index4
 ---

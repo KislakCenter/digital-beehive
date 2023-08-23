@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index5/index_4187/'>too young</a>"
+index: "<a href='/digital-beehive/index5/index_4124/'>too young</a>"
 item: "#item-f53bf4603"
 unparsed:
 line: 'Entry: too young|Topic: too young|Index: too young|#item-f53bf4603'

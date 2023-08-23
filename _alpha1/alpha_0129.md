@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0093/'>91 [Universalists]</a>|<a href='/digital-beehive/num8/num_2748/'>1814
   [Catholick]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0565/'>catholick</a>"
+index: "<a href='/digital-beehive/index1/index_0554/'>catholick</a>"
 item: "#item-b54ce8843"
 unparsed:
 line: 'Entry: Catholick|Topic: Catholick|Xref: 91 [Universalists]|Xref: 1814 [Catholick]|Index:

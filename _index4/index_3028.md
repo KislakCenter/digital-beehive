@@ -1,9 +1,9 @@
 ---
 pid: index_3028
 volume: Volume 3
-image_number: '35'
-head: plagiary
-entry: "<a href='/digital-beehive/num3/num_0789/'>600 [Plagiarius]</a>"
+image_number: '36'
+head: portugal
+entry: "<a href='/digital-beehive/num11/num_3492/'>4798 [Portugal]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9e2016152"
+item: "#item-d86e36251"
 unparsed:
-line: 'Head: plagiary|Entry: 600 [Plagiarius]|#item-9e2016152'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1511,2932,499,189/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977143134
-sort_value: '303532932'
+line: 'Head: portugal|Entry: 4798 [Portugal]|#item-d86e36251'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1203,1226,533,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438547024
+sort_value: '303621226'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1511,2932,499,189/150,/0/default.jpg
-label: plagiary
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1203,1226,533,105/150,/0/default.jpg
+label: portugal
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0276'
+order: '0320'
 layout: index_item
 collection: index4
 ---

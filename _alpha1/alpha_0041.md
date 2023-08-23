@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0019/'>19 [Clothes]</a>|<a href='/digital-beehive/num1/num_0203/'>194
   [Apparel]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0175/'>apparel</a>"
+index: "<a href='/digital-beehive/index1/index_0169/'>apparel</a>"
 item: "#item-b54e3c8b0"
 unparsed:
 line: 'Entry: Apparel|Topic: Apparel|Xref: 19 [Clothes]|Xref: 194 [Apparel]|Index:

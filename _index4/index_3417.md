@@ -2,8 +2,8 @@
 pid: index_3417
 volume: Volume 3
 image_number: '40'
-head: ABC rhymes & meeters
-entry: "<a href='/digital-beehive/num7/num_2625/'>1701 [Patience]</a>"
+head: to run
+entry: 771 [PAGE_MISSING]
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1b5ea7eee"
+item: "#item-983dbc461"
 unparsed:
-line: 'Head: ABC rhymes & meeters|Entry: 1701 [Patience]|#item-1b5ea7eee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/339,1327,802,151/full/0/default.jpg
+line: 'Head: to run|Entry: 771 [PAGE_MISSING]|#item-983dbc461'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,267,398,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231735864
-sort_value: '304011327'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234310718
+sort_value: '304030267'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/339,1327,802,151/150,/0/default.jpg
-label: ABC rhymes & meeters
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,267,398,96/150,/0/default.jpg
+label: to run
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: The intended point of reference meant by "1701" is unclear.
-insertion_xref:
-order: '0665'
+issue:
+order: '0709'
 layout: index_item
 collection: index4
 ---

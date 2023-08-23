@@ -2,8 +2,10 @@
 pid: index_1924
 volume: Volume 3
 image_number: '25'
-head: Janizaries
-entry: 1877 [PAGE_MISSING]
+head: imagination
+entry: "<a href='/digital-beehive/alpha3/alpha_0460/'>a</a>|736 [PAGE_MISSING]|<a
+  href='/digital-beehive/num7/num_2490/'>1637 [Imagination]</a>|<a href='/digital-beehive/num9/num_3154/'>2210
+  [Imagination]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-a392f3b85"
+item: "#item-a24337dfa"
 unparsed:
-line: 'Head: Janizaries|Entry: 1877 [PAGE_MISSING]|#item-a392f3b85'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/167,514,515,109/full/0/default.jpg
+line: 'Head: imagination|Entry: a|Entry: 736 [PAGE_MISSING]|Entry: 1637 [Imagination]|Entry:
+  2210 [Imagination]|#item-a24337dfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/864,627,678,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658750747
-sort_value: '302510514'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665047940
+sort_value: '302520627'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/167,514,515,109/150,/0/default.jpg
-label: Janizaries
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/864,627,678,126/150,/0/default.jpg
+label: imagination
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '006'
+order: '039'
 layout: index_item
 collection: index3
 ---

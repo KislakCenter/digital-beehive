@@ -2,29 +2,28 @@
 pid: index_2587
 volume: Volume 3
 image_number: '31'
-head: mortar
-entry: "<a href='/digital-beehive/num7/num_2671/'>1743 [Pounded]</a>"
+head: mysticks
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1093/'>divines</a>"
 index:
-item: "#item-02b702b75"
+item: "#item-8dc39408a"
 unparsed:
-line: 'Head: mortar|Entry: 1743 [Pounded]|#item-02b702b75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/838,2395,438,100/full/0/default.jpg
+line: 'Head: mysticks|See: divines|#item-8dc39408a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1533,2850,645,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356465332
-sort_value: '303122395'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362583783
+sort_value: '303132850'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/838,2395,438,100/150,/0/default.jpg
-label: mortar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1533,2850,645,148/150,/0/default.jpg
+label: mysticks
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '669'
+order: '702'
 layout: index_item
 collection: index3
 ---

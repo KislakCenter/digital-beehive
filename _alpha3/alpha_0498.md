@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2670/'>1742 [Judgmt of God]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2135/'>judgmt of God</a>"
+index: "<a href='/digital-beehive/index3/index_2100/'>judgmt of God</a>"
 item: "#item-06d986528"
 unparsed:
 line: 'Entry: Judgmt of God|Topic: Judgmt of God|XRef: 1742 [Judgmt of God]|Index:

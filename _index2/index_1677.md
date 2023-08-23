@@ -1,9 +1,9 @@
 ---
 pid: index_1677
 volume: Volume 3
-image_number: '22'
-head: gourd
-entry: 828 [PAGE_MISSING]
+image_number: '23'
+head: great with young
+entry: "<a href='/digital-beehive/num6/num_1963/'>1377 [Great with young]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2310bc5d5"
+item: "#item-3e5ca0fdb"
 unparsed:
-line: 'Head: gourd|Entry: 828 [PAGE_MISSING]|#item-2310bc5d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1812,1121,400,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052467409
-sort_value: '302231121'
+line: 'Head: great with young|Entry: 1377 [Great with young]|#item-3e5ca0fdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,888,597,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230252090
+sort_value: '302310888'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1812,1121,400,129/150,/0/default.jpg
-label: gourd
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,888,597,96/150,/0/default.jpg
+label: great with young
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '496'
+order: '518'
 layout: index_item
 collection: index2
 ---

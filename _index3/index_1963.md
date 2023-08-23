@@ -2,8 +2,8 @@
 pid: index_1963
 volume: Volume 3
 image_number: '25'
-head: im[m]ortal
-entry: "<a href='/digital-beehive/num2/num_0591/'>474 [Immortal]</a>"
+head: incom[m]odity
+entry: 743 [PAGE_MISSING]
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-efdb43bed"
+item: "#item-30e7b4d12"
 unparsed:
-line: 'Head: im[m]ortal|Entry: 474 [Immortal]|#item-efdb43bed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/864,1087,477,102/full/0/default.jpg
+line: 'Head: incom[m]odity|Entry: 743 [PAGE_MISSING]|#item-30e7b4d12'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,1246,531,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665471376
-sort_value: '302521087'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670923273
+sort_value: '302531246'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/864,1087,477,102/150,/0/default.jpg
-label: im[m]ortal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,1246,531,146/150,/0/default.jpg
+label: incom[m]odity
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '045'
+order: '078'
 layout: index_item
 collection: index3
 ---

@@ -2,28 +2,27 @@
 pid: index_0419
 volume: Volume 3
 image_number: '10'
-head: both
-entry: 777 [PAGE_MISSING]
+head: bowl
+entry: 733 [PAGE_MISSING]
 topic:
 first_letter: B
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-4d103fdcd"
+item: "#item-359e46e97"
 unparsed:
-line: 'Head: both|Entry: 777 [PAGE_MISSING]|#item-4d103fdcd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1783,2419,349,119/full/0/default.jpg
+line: 'Head: bowl|Page: p.38 [Image 1.98]|Entry: 733 [PAGE_MISSING]|#item-359e46e97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1772,3180,519,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531416686910
-sort_value: '301032419'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417124801
+sort_value: '301033180'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1783,2419,349,119/150,/0/default.jpg
-label: both
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1772,3180,519,116/150,/0/default.jpg
+label: bowl
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0418'
 layout: index_item
 collection: index1

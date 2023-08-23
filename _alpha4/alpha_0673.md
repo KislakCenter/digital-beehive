@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0390/'>Guardians</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2830/'>orphanage</a>"
+index: "<a href='/digital-beehive/index4/index_2786/'>orphanage</a>"
 item: "#item-1d89b7ef2"
 unparsed:
 line: 'Entry: Orphan|Topic: Orphan|Xref: Guardians|Index: orphanage|#item-1d89b7ef2'

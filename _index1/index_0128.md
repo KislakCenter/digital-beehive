@@ -2,8 +2,8 @@
 pid: index_0128
 volume: Volume 3
 image_number: '8'
-head: amnestia
-entry: "<a href='/digital-beehive/num3/num_1004/'>697 [Forgetfulness]</a>"
+head: anabaptists
+entry: "<a href='/digital-beehive/num1/num_0164/'>157 [Anabaptist]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-3fd44c235"
+item: "#item-a913b8584"
 unparsed:
-line: 'Head: amnestia|Entry: 697 [Forgetfulness]|#item-3fd44c235'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/391,580,503,158/full/0/default.jpg
+line: 'Head: anabaptists|Entry: 157 [Anabaptist]|#item-a913b8584'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/388,977,572,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564757658465
-sort_value: '300810580'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757801320
+sort_value: '300810977'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/391,580,503,158/150,/0/default.jpg
-label: amnestia
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/388,977,572,175/150,/0/default.jpg
+label: anabaptists
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0127'
 layout: index_item
 collection: index1

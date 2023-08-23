@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0767/'>Purpose</a>|<a href='/digital-beehive/num5/num_1502/'>1109
   [Intention]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2074/'>intention</a>"
+index: "<a href='/digital-beehive/index3/index_2039/'>intention</a>"
 item: "#item-cfea063e5"
 unparsed:
 line: 'Entry: Intention|Topic: Intention|Xref: Purpose|Xref: 1109 [Intention]|Index:

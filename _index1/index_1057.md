@@ -1,9 +1,9 @@
 ---
 pid: index_1057
 volume: Volume 3
-image_number: '16'
-head: Diogenes
-entry: "<a href='/digital-beehive/num5/num_1532/'>1128 [Diogenes]</a>"
+image_number: '17'
+head: disguise
+entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-b209da524"
+item: "#item-6ec1e03a6"
 unparsed:
-line: 'Head: Diogenes|Entry: 1128 [Diogenes]|#item-b209da524'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1801,2258,455,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783969797
-sort_value: '301632258'
+line: 'Head: disguise|Entry: 129 [Vizard]|#item-6ec1e03a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/172,1228,453,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803838438
+sort_value: '301711228'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1801,2258,455,137/150,/0/default.jpg
-label: Diogenes
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/172,1228,453,109/150,/0/default.jpg
+label: disguise
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1056'
 layout: index_item
 collection: index1

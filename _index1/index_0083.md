@@ -2,9 +2,9 @@
 pid: index_0083
 volume: Volume 3
 image_number: '7'
-head: air
-entry: "<a href='/digital-beehive/num2/num_0408/'>349 [Air]</a>|<a href='/digital-beehive/num6/num_2090/'>1434
-  [Air]</a>"
+head: alamode
+entry: "<a href='/digital-beehive/num1/num_0270/'>249 [Alamode]</a>|<a href='/digital-beehive/num9/num_2942/'>2007
+  [Alamode]</a>"
 topic:
 first_letter: A
 page:
@@ -12,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d847adf37"
+item: "#item-8775dd1a7"
 unparsed:
-line: 'Head: air|Entry: 349 [Air]|Entry: 1434 [Air]|#item-d847adf37'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1611,359,442,108/full/0/default.jpg
+line: 'Head: alamode|Entry: 249 [Alamode]|Entry: 2007 [Alamode]|#item-8775dd1a7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1614,526,629,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767854596
-sort_value: '300730359'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767951245
+sort_value: '300730526'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1611,359,442,108/150,/0/default.jpg
-label: air
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1614,526,629,128/150,/0/default.jpg
+label: alamode
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0082'
 layout: index_item
 collection: index1

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>derision</a>|<a href='/digital-beehive/alpha1/alpha_0117/'>Calumny</a>|<a
   href='/digital-beehive/num1/num_0037/'>37 [Railing]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3282/'>railing</a>"
+index: "<a href='/digital-beehive/index4/index_3232/'>railing</a>"
 item: "#item-3b86e0e45"
 unparsed:
 line: 'Entry: Railing|Topic: Railing|Xref: derision|Xref: Calumny|Xref: 37 [Railing]|Index:

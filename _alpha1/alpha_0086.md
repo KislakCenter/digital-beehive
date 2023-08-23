@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0369/'>Gods blessings</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0389/'>blessing</a>"
+index: "<a href='/digital-beehive/index1/index_0381/'>blessing</a>"
 item: "#item-2c999a7ce"
 unparsed:
 line: 'Entry: Blessing|Topic: Blessing|Xref: Gods blessings|Index: blessing|#item-2c999a7ce'

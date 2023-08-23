@@ -2,8 +2,9 @@
 pid: index_0465
 volume: Volume 3
 image_number: '11'
-head: broth
-entry: "<a href='/digital-beehive/num3/num_0681/'>540 [Pottages]</a>"
+head: building
+entry: "<a href='/digital-beehive/alpha1/alpha_0110/'>a</a>|<a href='/digital-beehive/num7/num_2546/'>1662
+  [Architecture]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-0a8b86851"
+item: "#item-a0a537fd6"
 unparsed:
-line: 'Head: broth|Entry: 540 [Pottages]|#item-0a8b86851'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/180,3352,344,90/full/0/default.jpg
+line: 'Head: building|Entry: a|Entry: 1662 [Architecture]|#item-a0a537fd6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,751,540,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420020523
-sort_value: '301113352'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531420488933
+sort_value: '301120751'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/180,3352,344,90/150,/0/default.jpg
-label: broth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,751,540,147/150,/0/default.jpg
+label: building
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0464'
 layout: index_item
 collection: index1

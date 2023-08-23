@@ -2,30 +2,29 @@
 pid: index_1872
 volume: Volume 3
 image_number: '24'
-head: horse
-entry: "<a href='/digital-beehive/alpha2/alpha_0433/'>a</a>|<a href='/digital-beehive/num4/num_1154/'>892
-  [Horse]</a>"
+head: hunger
+entry: "<a href='/digital-beehive/alpha2/alpha_0441/'>a</a>|<a href='/digital-beehive/num3/num_1036/'>710
+  [Hunger]</a>|<a href='/digital-beehive/num9/num_3032/'>2095 [Hunger]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-c97b96213"
+item: "#item-26cddac04"
 unparsed:
-line: 'Head: horse|Page: p.34 [Image 1.94]|Entry: a|Entry: 892 [Horse]|#item-c97b96213'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1141,2817,544,158/full/0/default.jpg
+line: 'Head: hunger|Entry: a|Entry: 710 [Hunger]|Entry: 2095 [Hunger]|#item-26cddac04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1838,2144,645,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583773304
-sort_value: '302422817'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588034657
+sort_value: '302432144'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1141,2817,544,158/150,/0/default.jpg
-label: horse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1838,2144,645,152/150,/0/default.jpg
+label: hunger
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '691'
+order: '713'
 layout: index_item
 collection: index2
 ---

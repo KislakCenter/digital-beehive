@@ -2,29 +2,28 @@
 pid: index_1547
 volume: Volume 3
 image_number: '21'
-head: friendship parted by poverty
-entry: "<a href='/digital-beehive/num1/num_0016/'>16 [Poverty parts good fellowship]</a>"
+head: Galenus
+entry: "<a href='/digital-beehive/num9/num_3173/'>2228 [Noia Medicorum]</a>"
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-11bed1097"
+item: "#item-e4f0eda64"
 unparsed:
-line: 'Head: friendship parted by poverty|Entry: 16 [Poverty parts good fellowship]|#item-11bed1097'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/858,2676,727,153/full/0/default.jpg
+line: 'Head: Galenus|Entry: 2228 [Noia Medicorum]|#item-e4f0eda64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1556,2054,430,79/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784200885
-sort_value: '302122676'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786520040
+sort_value: '302132054'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/858,2676,727,153/150,/0/default.jpg
-label: friendship parted by poverty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1556,2054,430,79/150,/0/default.jpg
+label: Galenus
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '366'
+order: '388'
 layout: index_item
 collection: index2
 ---

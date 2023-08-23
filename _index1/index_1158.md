@@ -1,30 +1,28 @@
 ---
 pid: index_1158
 volume: Volume 3
-image_number: '17'
-head: drowning
-entry: "<a href='/digital-beehive/num3/num_0969/'>684 [Drowning]</a>|<a href='/digital-beehive/num11/num_3553/'>4857
-  [Drowning]</a>"
+image_number: '18'
+head: dying words
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2172/'>last words</a>"
 index:
-item: "#item-a897b66b0"
+item: "#item-0de5bf9a0"
 unparsed:
-line: 'Head: drowning|Entry: 684 [Drowning]|Entry: 4857 [Drowning]|#item-a897b66b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1434,3062,721,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560453246737
-sort_value: '301733062'
+line: 'Head: dying words|See: last words|#item-0de5bf9a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/417,1563,579,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665311713
+sort_value: '301811563'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1434,3062,721,149/150,/0/default.jpg
-label: drowning
-location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/417,1563,579,122/150,/0/default.jpg
+label: dying words
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1157'
 layout: index_item
 collection: index1

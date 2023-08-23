@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0545/'>littleness</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4179/'>too little</a>"
+index: "<a href='/digital-beehive/index5/index_4116/'>too little</a>"
 item: "#item-0d3530d71"
 unparsed:
 line: 'Entry: Too little|Topic: Too little|Xref: littleness|Index: too little|#item-0d3530d71'

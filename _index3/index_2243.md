@@ -2,8 +2,8 @@
 pid: index_2243
 volume: Volume 3
 image_number: '28'
-head: to leave off
-entry: "<a href='/digital-beehive/num5/num_1659/'>1212 [To Leave off]</a>"
+head: Lidford law
+entry: "<a href='/digital-beehive/num4/num_1282/'>961 [Too hasty]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-84b4bde53"
+item: "#item-85f1f92fb"
 unparsed:
-line: 'Head: to leave off|Entry: 1212 [To Leave off]|#item-84b4bde53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/386,2614,525,155/full/0/default.jpg
+line: 'Head: Lidford law|Entry: 961 [Too hasty]|#item-85f1f92fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1088,2476,570,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842499943
-sort_value: '302812614'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846395394
+sort_value: '302822476'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/386,2614,525,155/150,/0/default.jpg
-label: to leave off
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1088,2476,570,154/150,/0/default.jpg
+label: Lidford law
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '325'
+order: '358'
 layout: index_item
 collection: index3
 ---

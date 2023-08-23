@@ -1,9 +1,9 @@
 ---
 pid: index_3866
 volume: Volume 3
-image_number: '44'
-head: "[:28.]"
-entry:
+image_number: '45'
+head: straight
+entry: 857 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d37b25233"
-unparsed: 'Type: Index|Insertion Xref: [:28.]|#item-d37b25233'
-line: 'Type: Index|Insertion Xref: [:28.]|#item-d37b25233'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/2314,1927,203,153/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278219131
-sort_value: '304431927'
+item: "#item-38c287c71"
+unparsed:
+line: 'Head: straight|Entry: 857 [PAGE_MISSING]|#item-38c287c71'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/894,1115,426,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290673232
+sort_value: '304521115'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/2314,1927,203,153/150,/0/default.jpg
-label: "[:28.]"
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/894,1115,426,152/150,/0/default.jpg
+label: straight
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4693/'>Spur</a>"
-order: '1114'
+order: '1158'
 layout: index_item
 collection: index4
 ---

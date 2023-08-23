@@ -1,30 +1,29 @@
 ---
 pid: index_4615
 volume: Volume 3
-image_number: '53'
-head: workhouse
-entry: 793 [PAGE_MISSING]
+image_number: '54'
+head: Chalk
+entry: "<a href='/digital-beehive/num9/num_3018/'>2083 [Chalk]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-12b572f1c"
+item: "#item-dae7cfa90"
 unparsed:
-line: 'Head: workhouse|Entry: 793 [PAGE_MISSING]|#item-12b572f1c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2739,587,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797250784
-sort_value: '305322739'
+line: 'Type: Index|Insertion: [:22.]|Head: Chalk|Entry: 2083 [Chalk]|#item-dae7cfa90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/426,3227,494,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885834582
+sort_value: '305413227'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2739,587,137/150,/0/default.jpg
-label: workhouse
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/426,3227,494,115/150,/0/default.jpg
+label: Chalk
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '577'
+order: '638'
 layout: index_item
 collection: index5
 ---

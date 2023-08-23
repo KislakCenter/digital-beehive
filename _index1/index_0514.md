@@ -2,28 +2,27 @@
 pid: index_0514
 volume: Volume 3
 image_number: '11'
-head: calvinists
-entry: 798 [PAGE_MISSING]
+head: candle
+entry: 817 [PAGE_MISSING]
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-d9a4a2198"
+item: "#item-10c42cd1e"
 unparsed:
-line: 'Head: calvinists|Entry: 798 [PAGE_MISSING]|#item-d9a4a2198'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1566,973,563,123/full/0/default.jpg
+line: 'Head: candle|Page: p.30 [Image 1.90]|Entry: 817 [PAGE_MISSING]|#item-10c42cd1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1576,1927,649,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494674330
-sort_value: '301130973'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495265834
+sort_value: '301131927'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1566,973,563,123/150,/0/default.jpg
-label: calvinists
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1576,1927,649,169/150,/0/default.jpg
+label: candle
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0513'
 layout: index_item
 collection: index1

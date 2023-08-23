@@ -2,8 +2,8 @@
 pid: index_0366
 volume: Volume 3
 image_number: '10'
-head: bever
-entry: 830 [PAGE_MISSING]
+head: to bind
+entry: "<a href='/digital-beehive/num3/num_0800/'>605 [To tye]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-8e8caa0d4"
+item: "#item-c3cecaf24"
 unparsed:
-line: 'Head: bever|Entry: 830 [PAGE_MISSING]|#item-8e8caa0d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/343,3182,384,150/full/0/default.jpg
+line: 'Head: to bind|Entry: 605 [To tye]|#item-c3cecaf24'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1074,773,397,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531148976574
-sort_value: '301013182'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531149475140
+sort_value: '301020773'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/343,3182,384,150/150,/0/default.jpg
-label: bever
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1074,773,397,89/150,/0/default.jpg
+label: to bind
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0365'
 layout: index_item
 collection: index1

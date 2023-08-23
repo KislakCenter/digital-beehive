@@ -1,9 +1,9 @@
 ---
 pid: index_0751
 volume: Volume 3
-image_number: '13'
-head: common wives
-entry: 1843 [PAGE_MISSING]
+image_number: '14'
+head: complices
+entry: "<a href='/digital-beehive/num10/num_3389/'>2415 [Partake not with the wicked]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-54823f3a0"
+item: "#item-dda9bc6f6"
 unparsed:
-line: 'Head: common wives|Entry: 1843 [PAGE_MISSING]|#item-54823f3a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1539,2914,495,71/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537163750921
-sort_value: '301332914'
+line: 'Head: complices|Entry: 2415 [Partake not with the wicked]|#item-dda9bc6f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/423,1165,532,62/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215414903
+sort_value: '301411165'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1539,2914,495,71/150,/0/default.jpg
-label: common wives
-location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/423,1165,532,62/150,/0/default.jpg
+label: complices
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0750'
 layout: index_item
 collection: index1

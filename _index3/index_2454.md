@@ -2,8 +2,8 @@
 pid: index_2454
 volume: Volume 3
 image_number: '30'
-head: mead
-entry: "<a href='/digital-beehive/num5/num_1409/'>1051 [Mead]</a>"
+head: Messenger
+entry: "<a href='/digital-beehive/num1/num_0088/'>87 [Messenger]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-697a079e7"
+item: "#item-e140a6cd2"
 unparsed:
-line: 'Head: mead|Entry: 1051 [Mead]|#item-697a079e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/391,2544,332,71/full/0/default.jpg
+line: 'Head: Messenger|Entry: 87 [Messenger]|#item-e140a6cd2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1105,3380,489,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265457633
-sort_value: '303012544'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269877681
+sort_value: '303023380'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/391,2544,332,71/150,/0/default.jpg
-label: mead
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1105,3380,489,185/150,/0/default.jpg
+label: Messenger
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '536'
+order: '569'
 layout: index_item
 collection: index3
 ---

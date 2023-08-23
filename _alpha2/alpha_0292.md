@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0177/'>Contentmt</a>|<a href='/digital-beehive/alpha4/alpha_0693/'>Patience</a>|<a
   href='/digital-beehive/alpha2/alpha_0310/'>faintheartedness</a>|4560 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index2/index_1286/'>equanimity</a>"
+index: "<a href='/digital-beehive/index2/index_1263/'>equanimity</a>"
 item: "#item-ab4bc8710"
 unparsed:
 line: 'Entry: Equanimity|Topic: Equanimity|Xref: Contentmt|Xref: Patience|Xref: faintheartedness|Xref:

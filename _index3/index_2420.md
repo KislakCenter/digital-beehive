@@ -1,9 +1,9 @@
 ---
 pid: index_2420
 volume: Volume 3
-image_number: '29'
-head: manuscripts of mine own
-entry: "<a href='/digital-beehive/num7/num_2233/'>1511 [Protestant Religion]</a>"
+image_number: '30'
+head: measure
+entry: 771 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d41e25954"
+item: "#item-b51f0d446"
 unparsed:
-line: 'Head: manuscripts of mine own|Entry: 1511 [Protestant Religion]|#item-d41e25954'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1506,3015,542,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196877210
-sort_value: '302933015'
+line: 'Head: measure|Entry: 771 [PAGE_MISSING]|#item-b51f0d446'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/411,3124,441,171/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265958302
+sort_value: '303013124'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1506,3015,542,113/150,/0/default.jpg
-label: manuscripts of mine own
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: The listed entry is on the page following the intended point of reference. 
-insertion_xref:
-order: '502'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/411,3124,441,171/150,/0/default.jpg
+label: measure
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+issue:
+order: '535'
 layout: index_item
 collection: index3
 ---

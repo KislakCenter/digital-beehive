@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2134/'>1456 [Heathens]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1782/'>heathens</a>"
+index: "<a href='/digital-beehive/index2/index_1751/'>heathens</a>"
 item: "#item-187d5c649"
 unparsed:
 line: 'Entry: Heathenism|Topic: Heathenism|Xref: 1456 [Heathens]|Index: heathens|#item-187d5c649'

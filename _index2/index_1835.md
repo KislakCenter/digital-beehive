@@ -2,29 +2,28 @@
 pid: index_1835
 volume: Volume 3
 image_number: '24'
-head: highways
-entry:
+head: hope false
+entry: "<a href='/digital-beehive/num9/num_2971/'>2036 [False hope & Comfort]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-cada52472"
+item: "#item-0781184a0"
 unparsed:
-line: 'Head: highways|Page: p.8 [Image 1.68]|#item-cada52472'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/417,2486,443,174/full/0/default.jpg
+line: 'Head: hope false|Entry: 2036 [False hope & Comfort]|#item-0781184a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1140,2440,558,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577144137
-sort_value: '302412486'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583387134
+sort_value: '302422440'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/417,2486,443,174/150,/0/default.jpg
-label: highways
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1140,2440,558,127/150,/0/default.jpg
+label: hope false
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '654'
+order: '676'
 layout: index_item
 collection: index2
 ---

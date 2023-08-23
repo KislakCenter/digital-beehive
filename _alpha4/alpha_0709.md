@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0583/'>medicine</a>|<a href='/digital-beehive/alpha3/alpha_0616/'>Montebank</a>|<a
   href='/digital-beehive/num3/num_0929/'>671 [Physician]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2993/'>physician</a>"
+index: "<a href='/digital-beehive/index4/index_2946/'>physician</a>"
 item: "#item-9e1675f2b"
 unparsed:
 line: 'Entry: Physician|Topic: Physician|Xref: medicine|Xref: Montebank|Xref: 671

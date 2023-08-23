@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0946/'>Temperance</a>|<a href='/digital-beehive/num2/num_0425/'>359
   [Meat]</a>|4735 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_1046/'>diet</a>"
+index: "<a href='/digital-beehive/index1/index_1027/'>diet</a>"
 item: "#item-a44dc7143"
 unparsed:
 line: 'Entry: Diet|Topic: Diet|Xref: Temperance|Xref: 359 [Meat]|Xref: 4735 [PAGE_MISSING]|Index:

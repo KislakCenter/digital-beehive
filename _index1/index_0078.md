@@ -2,9 +2,8 @@
 pid: index_0078
 volume: Volume 3
 image_number: '7'
-head: agony
-entry: "<a href='/digital-beehive/alpha1/alpha_0013/'>a</a>|<a href='/digital-beehive/num5/num_1434/'>1065
-  [Agony]</a>"
+head: to agree
+entry: "<a href='/digital-beehive/num6/num_2165/'>1471 [To Agree]</a>"
 topic:
 first_letter: A
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-617650a3e"
+item: "#item-4a298102f"
 unparsed:
-line: 'Head: agony|Entry: a|Entry: 1065 [Agony]|#item-617650a3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3173,465,119/full/0/default.jpg
+line: 'Head: to agree|Entry: 1471 [To Agree]|#item-4a298102f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/892,3371,466,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767567535
-sort_value: '300723173'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767693590
+sort_value: '300723371'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3173,465,119/150,/0/default.jpg
-label: agony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/892,3371,466,132/150,/0/default.jpg
+label: to agree
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0077'
 layout: index_item
 collection: index1

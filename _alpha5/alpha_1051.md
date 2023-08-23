@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0201/'>192 [Dames governmt]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4594/'>woman's imperiousness</a>"
+index: "<a href='/digital-beehive/index5/index_4524/'>woman's imperiousness</a>"
 item: "#item-79d4c449b"
 unparsed:
 line: 'Entry: Womans imperiousness|Topic: Womans imperiousness|Xref: 192 [Dames governmt]|Index:

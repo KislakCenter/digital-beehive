@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0551/'>Lookingglass</a>|<a href='/digital-beehive/num3/num_0817/'>612
   [Bottle]</a>|<a href='/digital-beehive/num7/num_2533/'>1655 [Glass]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1619/'>glass</a>"
+index: "<a href='/digital-beehive/index2/index_1591/'>glass</a>"
 item: "#item-88581f002"
 unparsed:
 line: 'Entry: Glass|Topic: Glass|Xref: Lookingglass|Xref: 612 [Bottle]|Xref: 1655

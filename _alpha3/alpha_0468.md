@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0080/'>79 [Imputation]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1987/'>imputation</a>"
+index: "<a href='/digital-beehive/index3/index_1952/'>imputation</a>"
 item: "#item-5c83dacce"
 unparsed:
 line: 'Entry: Imputation|Topic: Imputation|Xref: 79 [Imputation]|Index: imputation|#item-5c83dacce'

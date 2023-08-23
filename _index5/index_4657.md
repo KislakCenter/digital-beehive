@@ -1,30 +1,29 @@
 ---
 pid: index_4657
 volume: Volume 3
-image_number: '53'
-head: Zodiack
-entry: "<a href='/digital-beehive/num7/num_2568/'>1672 [Zodiak]</a>"
+image_number: '54'
+head: gossipping
+entry: "<a href='/digital-beehive/num11/num_3552/'>4856 [Gosiping]</a>"
 topic:
-first_letter: Z
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7ebfcf958"
+item: "#item-c89a826af"
 unparsed:
-line: 'Head: Zodiack|Entry: 1672 [Zodiak]|#item-7ebfcf958'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1567,3280,480,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560869809650
-sort_value: '305333280'
+line: 'Type: Index|Insertion: [:60.]|Head: gossipping|Entry: 4856 [Gosiping]|#item-c89a826af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1761,1997,674,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957410435
+sort_value: '305431997'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1567,3280,480,103/150,/0/default.jpg
-label: Zodiack
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1761,1997,674,127/150,/0/default.jpg
+label: gossipping
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '619'
+order: '680'
 layout: index_item
 collection: index5
 ---

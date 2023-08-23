@@ -1,10 +1,9 @@
 ---
 pid: index_4513
 volume: Volume 3
-image_number: '52'
-head: weighty
-entry: "<a href='/digital-beehive/num3/num_0641/'>510 [Concern]</a>|<a href='/digital-beehive/num3/num_0642/'>510
-  [So trivial a thing]</a>"
+image_number: '53'
+head: 2. Witnesses slain
+entry: "<a href='/digital-beehive/num7/num_2290/'>1539 [Two Witnesses Slain]</a>"
 topic:
 first_letter: W
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e55f99883"
+item: "#item-03149b386"
 unparsed:
-line: 'Head: weighty|Entry: 510 [Concern]|Entry: 510 [So trivial a thing]|#item-e55f99883'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1101,843,363,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968525347
-sort_value: '305220843'
+line: 'Head: 2. Witnesses slain|Entry: 1539 [Two Witnesses Slain]|#item-03149b386'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/185,2550,634,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792924780
+sort_value: '305312550'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1101,843,363,146/150,/0/default.jpg
-label: weighty
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: The correct entry for 510 is unclear.
-insertion_xref:
-order: '475'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/185,2550,634,143/150,/0/default.jpg
+label: 2. Witnesses slain
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+issue:
+order: '536'
 layout: index_item
 collection: index5
 ---

@@ -1,9 +1,10 @@
 ---
 pid: index_4144
 volume: Volume 3
-image_number: '47'
-head: thus
-entry: 838 [PAGE_MISSING]
+image_number: '48'
+head: toys
+entry: "<a href='/digital-beehive/num1/num_0208/'>199 [Toys]</a>|<a href='/digital-beehive/num5/num_1633/'>1196
+  [Trifling]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e25d87a1f"
+item: "#item-a81b35196"
 unparsed:
-line: 'Head: thus|Entry: 838 [PAGE_MISSING]|#item-e25d87a1f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1612,1095,287,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552669691766
-sort_value: '304731095'
+line: 'Head: toys|Entry: 199 [Toys]|Entry: 1196 [Trifling]|#item-a81b35196'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1107,1116,462,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561484569605
+sort_value: '304821116'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1612,1095,287,99/150,/0/default.jpg
-label: thus
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1107,1116,462,135/150,/0/default.jpg
+label: toys
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '106'
+order: '167'
 layout: index_item
 collection: index5
 ---

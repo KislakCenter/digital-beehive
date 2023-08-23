@@ -2,30 +2,28 @@
 pid: index_2832
 volume: Volume 3
 image_number: '34'
-head: orthodox
-entry: "<a href='/digital-beehive/num1/num_0046/'>46 [Orthodox]</a>|<a href='/digital-beehive/num7/num_2571/'>1673
-  [Orthodox]</a>"
+head: parchment
+entry: "<a href='/digital-beehive/num6/num_1856/'>1323 [Parchment]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-bd7dbc53d"
+item: "#item-c1dba0617"
 unparsed:
-line: 'Head: orthodox|Entry: 46 [Orthodox]|Entry: 1673 [Orthodox]|#item-bd7dbc53d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/499,250,631,126/full/0/default.jpg
+line: 'Head: parchment|Entry: 1323 [Parchment]|#item-c1dba0617'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1115,1521,667,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538424890211
-sort_value: '303410250'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538493895003
+sort_value: '303421521'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/499,250,631,126/150,/0/default.jpg
-label: orthodox
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1115,1521,667,143/150,/0/default.jpg
+label: parchment
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0080'
+order: '0124'
 layout: index_item
 collection: index4
 ---

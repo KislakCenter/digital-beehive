@@ -1,9 +1,10 @@
 ---
 pid: index_3119
 volume: Volume 3
-image_number: '36'
-head: precise
-entry: "<a href='/digital-beehive/num1/num_0153/'>147 [Exactness]</a>"
+image_number: '37'
+head: probability
+entry: "<a href='/digital-beehive/num1/num_0266/'>246 [Probability]</a>|<a href='/digital-beehive/num9/num_3150/'>2206
+  [Probability]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-62c81c7ab"
+item: "#item-b13adec1b"
 unparsed:
-line: 'Head: precise|Entry: 147 [Exactness]|#item-62c81c7ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1882,1898,446,111/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440503966
-sort_value: '303631898'
+line: 'Head: probability|Entry: 246 [Probability]|Entry: 2206 [Probability]|#item-b13adec1b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/782,1050,671,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867712416
+sort_value: '303721050'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1882,1898,446,111/150,/0/default.jpg
-label: precise
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/782,1050,671,119/150,/0/default.jpg
+label: probability
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0367'
+order: '0411'
 layout: index_item
 collection: index4
 ---

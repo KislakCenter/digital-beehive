@@ -1,31 +1,29 @@
 ---
 pid: index_2617
 volume: Volume 3
-image_number: '31'
-head: murmuring
-entry: "<a href='/digital-beehive/num6/num_1796/'>1288 [Murmurings]</a>|<a href='/digital-beehive/num10/num_3393/'>2419
-  [Murmuring]</a>"
+image_number: '32'
+head: good nat
+entry:
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1570/'>gentleness</a>"
 index:
-item: "#item-122d6c01e"
+item: "#item-c165266d3"
 unparsed:
-line: 'Head: murmuring|Entry: 1288 [Murmurings]|Entry: 2419 [Murmuring]|#item-122d6c01e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1549,1772,733,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361775640
-sort_value: '303131772'
+line: 'Head: good nat|See: gentleness|#item-c165266d3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/382,2088,777,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438420354
+sort_value: '303212088'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1549,1772,733,124/150,/0/default.jpg
-label: murmuring
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/382,2088,777,140/150,/0/default.jpg
+label: good nat
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '699'
+order: '732'
 layout: index_item
 collection: index3
 ---

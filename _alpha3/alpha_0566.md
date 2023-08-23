@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0859/'>Selfprofit</a>|<a href='/digital-beehive/alpha4/alpha_0745/'>Profit</a>|<a
   href='/digital-beehive/num6/num_1735/'>1252 [Gainful]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2360/'>lucre</a>"
+index: "<a href='/digital-beehive/index3/index_2322/'>lucre</a>"
 item: "#item-4e73b2de1"
 unparsed:
 line: 'Entry: Lucre|Topic: Lucre|Xref: Selfprofit|Xref: Profit|Xref: 1252 [Gainful]|Index:

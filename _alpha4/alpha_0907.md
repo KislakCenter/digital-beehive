@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0362/'>H. Ghost</a>|<a href='/digital-beehive/num6/num_1891/'>1341
   [Spirits]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3846/'>spirit</a>"
+index: "<a href='/digital-beehive/index4/index_3789/'>spirit</a>"
 item: "#item-a49925fe0"
 unparsed:
 line: 'Entry: Spirit|Topic: Spirit|Xref: H. Ghost|Xref: 1341 [Spirits]|Index: spirit|#item-a49925fe0'

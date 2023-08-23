@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0051/'>51 [Rule]</a>|<a href='/digital-beehive/num2/num_0538/'>434
   [Rules]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3466/'>rules</a>"
+index: "<a href='/digital-beehive/index4/index_3413/'>rules</a>"
 item: "#item-3a45768ac"
 unparsed:
 line: 'Entry: Rules|Topic: Rules|Xref: 51 [Rule]|Xref: 434 [Rules]|Index: rules|#item-3a45768ac'

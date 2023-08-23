@@ -2,9 +2,9 @@
 pid: index_2335
 volume: Volume 3
 image_number: '29'
-head: loss
-entry: "<a href='/digital-beehive/alpha3/alpha_0554/'>a</a>|<a href='/digital-beehive/num5/num_1569/'>1151
-  [Loss]</a>"
+head: to lye with one
+entry: "<a href='/digital-beehive/num2/num_0572/'>459 [To use a woman]</a>|<a href='/digital-beehive/num7/num_2412/'>1601
+  [First Love]</a>"
 topic:
 first_letter: L
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2f96cf237"
+item: "#item-aa472b8ac"
 unparsed:
-line: 'Head: loss|Entry: a|Entry: 1151 [Loss]|#item-2f96cf237'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/181,1614,347,127/full/0/default.jpg
+line: 'Head: to lye with one|Entry: 459 [To use a woman]|Entry: 1601 [First Love]|#item-aa472b8ac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,1650,701,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178348229
-sort_value: '302911614'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186172962
+sort_value: '302921650'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/181,1614,347,127/150,/0/default.jpg
-label: loss
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,1650,701,149/150,/0/default.jpg
+label: to lye with one
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '417'
+order: '450'
 layout: index_item
 collection: index3
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_1352
 volume: Volume 3
-image_number: '19'
-head: expenses
-entry: "<a href='/digital-beehive/num3/num_1051/'>715 [Expenses]</a>"
+image_number: '20'
+head: face
+entry: 762 [PAGE_MISSING]
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-96a8421d7"
+item: "#item-8f9bbe1cb"
 unparsed:
-line: 'Head: expenses|Entry: 715 [Expenses]|#item-96a8421d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1530,1362,476,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044640661
-sort_value: '301931362'
+line: 'Head: face|Entry: 762 [PAGE_MISSING]|#item-8f9bbe1cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/379,390,304,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561399053656
+sort_value: '302010390'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1530,1362,476,138/150,/0/default.jpg
-label: expenses
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/379,390,304,121/150,/0/default.jpg
+label: face
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '171'
+order: '193'
 layout: index_item
 collection: index2
 ---

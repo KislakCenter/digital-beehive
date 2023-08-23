@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|<a href='/digital-beehive/num5/num_1341/'>1005
   [Self will]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3629/'>Self will</a>"
+index: "<a href='/digital-beehive/index4/index_3573/'>Self will</a>"
 item: "#item-ef0ac887c"
 unparsed:
 line: 'Entry: Selfwilledness|Topic: Selfwilledness|Xref: Obstinacy|Xref: 1005 [Self

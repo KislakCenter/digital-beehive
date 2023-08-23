@@ -2,8 +2,8 @@
 pid: index_0244
 volume: Volume 3
 image_number: '9'
-head: audience
-entry: "<a href='/digital-beehive/num2/num_0400/'>345 [Hear]</a>"
+head: authentick
+entry: a
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-fce14aab0"
+item: "#item-33edc908a"
 unparsed:
-line: 'Head: audience|Entry: 345 [Hear]|#item-fce14aab0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/172,1069,517,89/full/0/default.jpg
+line: 'Head: authentick|Entry: a|#item-33edc908a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,1579,493,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015132212
-sort_value: '300911069'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015540861
+sort_value: '300911579'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/172,1069,517,89/150,/0/default.jpg
-label: audience
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,1579,493,134/150,/0/default.jpg
+label: authentick
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue:
-insertion_xref:
+issue: Pastorius lists "a" but no alphabetical entry can be identified.
 order: '0243'
 layout: index_item
 collection: index1

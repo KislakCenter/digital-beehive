@@ -1,9 +1,10 @@
 ---
 pid: index_4519
 volume: Volume 3
-image_number: '52'
-head: well! welldone
-entry: 772 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2476/'>1631 [Well done]</a>
+image_number: '53'
+head: womanish
+entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>|<a href='/digital-beehive/num6/num_1987/'>1388
+  [Love of Women]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4ca56ebc2"
+item: "#item-4e633adab"
 unparsed:
-line: 'Head: well! welldone|Entry: 772 [PAGE_MISSING]|Entry: 1631 [Well done]|#item-4ca56ebc2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1103,1564,682,221/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968959433
-sort_value: '305221564'
+line: 'Head: womanish|Entry: a|Entry: 1388 [Love of Women]|#item-4e633adab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/154,3334,645,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793636828
+sort_value: '305313334'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1103,1564,682,221/150,/0/default.jpg
-label: well! welldone
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/154,3334,645,116/150,/0/default.jpg
+label: womanish
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '481'
+order: '542'
 layout: index_item
 collection: index5
 ---

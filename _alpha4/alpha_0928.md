@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3151/'>2207 [Devil's Sucking the Sorceress]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3968/'>suck</a>"
+index: "<a href='/digital-beehive/index4/index_3909/'>suck</a>"
 item: "#item-9119c6886"
 unparsed:
 line: 'Entry: Suck|Topic: Suck|Xref: 2207 [Devil''s Sucking the Sorceress]|Index:

@@ -1,31 +1,29 @@
 ---
 pid: index_3211
 volume: Volume 3
-image_number: '37'
-head: providence
-entry: "<a href='/digital-beehive/alpha4/alpha_0759/'>a</a>|<a href='/digital-beehive/num6/num_1992/'>1390
-  [Providence]</a>"
+image_number: '38'
+head: to quicken
+entry: "<a href='/digital-beehive/num4/num_1191/'>911 [To Quicken]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c63407af3"
+item: "#item-0eda6fe88"
 unparsed:
-line: 'Head: providence|Entry: a|Entry: 1390 [Providence]|#item-c63407af3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1471,2443,653,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869585540
-sort_value: '303732443'
+line: 'Head: to quicken|Entry: 911 [To Quicken]|#item-0eda6fe88'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1159,958,563,190/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455144305
+sort_value: '303820958'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1471,2443,653,100/150,/0/default.jpg
-label: providence
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1159,958,563,190/150,/0/default.jpg
+label: to quicken
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0459'
+order: '0503'
 layout: index_item
 collection: index4
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_2792
 volume: Volume 3
-image_number: '33'
-head: omnisciency
-entry: 791 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3269/'>2304 [Omnisciency]</a>
+image_number: '34'
+head: oven
+entry: "<a href='/digital-beehive/num4/num_1091/'>869 [Oven]</a>"
 topic:
 first_letter: O
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4e45d6be1"
+item: "#item-02444b30e"
 unparsed:
-line: 'Head: omnisciency|Entry: 791 [PAGE_MISSING]|Entry: 2304 [Omnisciency]|#item-4e45d6be1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/832,2608,699,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536601079196
-sort_value: '303322608'
+line: 'Head: oven|Entry: 869 [Oven]|#item-02444b30e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/461,646,474,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425043679
+sort_value: '303410646'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/832,2608,699,139/150,/0/default.jpg
-label: omnisciency
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/461,646,474,124/150,/0/default.jpg
+label: oven
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0040'
+order: '0084'
 layout: index_item
 collection: index4
 ---

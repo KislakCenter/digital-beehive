@@ -2,29 +2,28 @@
 pid: index_2985
 volume: Volume 3
 image_number: '35'
-head: philosopher stone
-entry:
+head: plantain
+entry: "<a href='/digital-beehive/num9/num_3083/'>2143 [Plantain]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0089/'>alchymie</a>"
+see:
 index:
-item: "#item-4ec30a3ed"
+item: "#item-281604f01"
 unparsed:
-line: 'Head: philosopher stone|See: alchymie|#item-4ec30a3ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/full/0/default.jpg
+line: 'Head: plantain|Entry: 2143 [Plantain]|#item-281604f01'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1544,3484,585,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974701712
-sort_value: '303522523'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977307608
+sort_value: '303533484'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/150,/0/default.jpg
-label: philosopher stone
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1544,3484,585,165/150,/0/default.jpg
+label: plantain
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0233'
+order: '0277'
 layout: index_item
 collection: index4
 ---

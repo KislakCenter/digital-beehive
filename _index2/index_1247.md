@@ -2,8 +2,8 @@
 pid: index_1247
 volume: Volume 3
 image_number: '18'
-head: encyclopady
-entry: "<a href='/digital-beehive/num8/num_2902/'>1973 [Learning]</a>"
+head: to enter
+entry: "<a href='/digital-beehive/num4/num_1209/'>916 [To go or enter in]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-200ae7c55"
+item: "#item-42374f81a"
 unparsed:
-line: 'Head: encyclopady|Entry: 1973 [Learning]|#item-200ae7c55'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1853,944,578,133/full/0/default.jpg
+line: 'Head: to enter|Entry: 916 [To go or enter in]|#item-42374f81a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1842,2950,466,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754739847
-sort_value: '301830944'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836022868
+sort_value: '301832950'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1853,944,578,133/150,/0/default.jpg
-label: encyclopady
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1842,2950,466,162/150,/0/default.jpg
+label: to enter
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '066'
+order: '088'
 layout: index_item
 collection: index2
 ---

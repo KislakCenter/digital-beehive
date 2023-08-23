@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1258/'>940 [Auricular Confession]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0785/'>confession auricular</a>"
+index: "<a href='/digital-beehive/index1/index_0770/'>confession auricular</a>"
 item: "#item-b300239ec"
 unparsed:
 line: 'Entry: Auricular Confession|Topic: Auricular Confession|Xref: 940 [Auricular

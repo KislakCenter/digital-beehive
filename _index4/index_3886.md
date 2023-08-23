@@ -2,30 +2,30 @@
 pid: index_3886
 volume: Volume 3
 image_number: '45'
-head: statues
-entry: "<a href='/digital-beehive/num4/num_1274/'>955 [Images]</a>|<a href='/digital-beehive/num7/num_2584/'>1680
-  [Images]</a>"
+head: Stuart
+entry: "<a href='/digital-beehive/num6/num_2195/'>1488 [K. Charles I]</a>|<a href='/digital-beehive/num6/num_2194/'>1488
+  [Stuart]</a>|<a href='/digital-beehive/num6/num_2196/'>1488 [K. Charles II]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_059/'>p.9 [Image 1.69]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e890dda13"
+item: "#item-7f88a828b"
 unparsed:
-line: 'Head: statues|Page: p.9 [Image 1.69]|Entry: 955 [Images]|Entry: 1680 [Images]|#item-e890dda13'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/193,872,663,131/full/0/default.jpg
+line: 'Head: Stuart|Entry: 1488 [K. Charles I]|Entry: 1488 [Stuart]|Entry: 1488 [K.
+  Charles II]|#item-7f88a828b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/899,3175,440,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565289907593
-sort_value: '304510872'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530466676180
+sort_value: '304523175'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/193,872,663,131/150,/0/default.jpg
-label: statues
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/899,3175,440,123/150,/0/default.jpg
+label: Stuart
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1134'
+order: '1178'
 layout: index_item
 collection: index4
 ---

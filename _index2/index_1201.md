@@ -2,10 +2,8 @@
 pid: index_1201
 volume: Volume 3
 image_number: '18'
-head: ecclesiastical revenues
-entry: "<a href='/digital-beehive/num1/num_0034/'>34 [Ecclesiastical (: excessive
-  :) Revenues]</a>|<a href='/digital-beehive/num7/num_2563/'>1670 [Ecclesiastical
-  Revenues]</a>"
+head: elephant
+entry: "<a href='/digital-beehive/num8/num_2912/'>1980 [Elephant]</a>"
 topic:
 first_letter: E
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4fc4ddb2a"
+item: "#item-e2d550d75"
 unparsed:
-line: 'Head: ecclesiastical revenues|Entry: 34 [Ecclesiastical (: excessive :) Revenues]|Entry:
-  1670 [Ecclesiastical Revenues]|#item-4fc4ddb2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1162,364,654,109/full/0/default.jpg
+line: 'Head: elephant|Entry: 1980 [Elephant]|#item-e2d550d75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,2376,475,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559670507797
-sort_value: '301820364'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559680123778
+sort_value: '301822376'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1162,364,654,109/150,/0/default.jpg
-label: ecclesiastical revenues
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,2376,475,92/150,/0/default.jpg
+label: elephant
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '020'
+order: '042'
 layout: index_item
 collection: index2
 ---

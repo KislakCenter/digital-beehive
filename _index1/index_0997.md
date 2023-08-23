@@ -2,9 +2,8 @@
 pid: index_0997
 volume: Volume 3
 image_number: '16'
-head: delay
-entry: "<a href='/digital-beehive/alpha1/alpha_0223/'>a</a>|<a href='/digital-beehive/num5/num_1522/'>1123
-  [Delay]</a>"
+head: deputy
+entry: 752 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-e1b0e3754"
+item: "#item-6cb392e1f"
 unparsed:
-line: 'Head: delay|Entry: a|Entry: 1123 [Delay]|#item-e1b0e3754'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/328,2816,487,125/full/0/default.jpg
+line: 'Head: deputy|Entry: 752 [PAGE_MISSING]|#item-6cb392e1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1061,1606,485,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565623824854
-sort_value: '301612816'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541604845309
+sort_value: '301621606'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/328,2816,487,125/150,/0/default.jpg
-label: delay
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1061,1606,485,115/150,/0/default.jpg
+label: deputy
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0996'
 layout: index_item
 collection: index1

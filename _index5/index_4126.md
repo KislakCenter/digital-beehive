@@ -1,10 +1,10 @@
 ---
 pid: index_4126
 volume: Volume 3
-image_number: '47'
-head: thoughts
-entry: "<a href='/digital-beehive/alpha5/alpha_0957/'>a</a>|<a href='/digital-beehive/num4/num_1311/'>982
-  [Thoughts]</a>|<a href='/digital-beehive/num10/num_3370/'>2397 [Thoughts]</a>"
+image_number: '48'
+head: tooth
+entry: "<a href='/digital-beehive/alpha5/alpha_0974/'>a</a>|<a href='/digital-beehive/num6/num_1791/'>1286
+  [Tooth]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ee456466d"
+item: "#item-291c9ed5e"
 unparsed:
-line: 'Head: thoughts |Entry: a|Entry: 982 [Thoughts]|Entry: 2397 [Thoughts]|#item-ee456466d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/910,2653,651,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529517605337
-sort_value: '304722653'
+line: 'Head: tooth|Entry: a|Entry: 1286 [Tooth]|#item-291c9ed5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/462,2670,493,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275690671
+sort_value: '304812670'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/910,2653,651,140/150,/0/default.jpg
-label: thoughts
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/462,2670,493,116/150,/0/default.jpg
+label: tooth
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '088'
+order: '149'
 layout: index_item
 collection: index5
 ---

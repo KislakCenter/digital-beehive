@@ -1,30 +1,29 @@
 ---
 pid: index_3294
 volume: Volume 3
-image_number: '38'
-head: rasor
-entry:
+image_number: '39'
+head: relapse
+entry: "<a href='/digital-beehive/num7/num_2469/'>1628 [Relapses]</a>"
 topic:
 first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2171/'>knife</a>"
+see:
 index:
-item: "#item-209630a03"
+item: "#item-59ac64b04"
 unparsed:
-line: 'Head: rasor|See: knife|#item-209630a03'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,922,504,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460735423
-sort_value: '303830922'
+line: 'Head: relapse|Entry: 1628 [Relapses]|#item-59ac64b04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/123,2806,452,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558465255662
+sort_value: '303912806'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,922,504,134/150,/0/default.jpg
-label: rasor
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/123,2806,452,119/150,/0/default.jpg
+label: relapse
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0542'
+order: '0586'
 layout: index_item
 collection: index4
 ---

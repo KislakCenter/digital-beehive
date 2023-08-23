@@ -2,9 +2,9 @@
 pid: index_1927
 volume: Volume 3
 image_number: '25'
-head: Jarsey
-entry: "<a href='/digital-beehive/num3/num_0884/'>647 [West-Jarsey]</a>|<a href='/digital-beehive/num7/num_2257/'>1522
-  [New Jersey]</a>"
+head: imitation of Christ
+entry: "<a href='/digital-beehive/alpha3/alpha_0462/'>a</a>|<a href='/digital-beehive/num5/num_1350/'>1010
+  [Following of Christ]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-68af3d9f8"
+item: "#item-afe949723"
 unparsed:
-line: 'Head: Jarsey|Entry: 647 [West-Jarsey]|Entry: 1522 [New Jersey]|#item-68af3d9f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/176,673,557,140/full/0/default.jpg
+line: 'Head: imitation of Christ|Entry: a|Entry: 1010 [Following of Christ]|#item-afe949723'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/852,827,641,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559659034598
-sort_value: '302510673'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665291036
+sort_value: '302520827'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/176,673,557,140/150,/0/default.jpg
-label: Jarsey
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/852,827,641,142/150,/0/default.jpg
+label: imitation of Christ
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '009'
+order: '042'
 layout: index_item
 collection: index3
 ---

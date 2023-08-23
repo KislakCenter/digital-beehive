@@ -1,30 +1,30 @@
 ---
 pid: index_4302
 volume: Volume 3
-image_number: '49'
-head: vaunting
-entry:
+image_number: '50'
+head: understanding
+entry: "<a href='/digital-beehive/alpha5/alpha_1007/'>a</a>|<a href='/digital-beehive/num7/num_2610/'>1693
+  [Understanding]</a>"
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0400/'>boast</a>"
+see:
 index:
-item: "#item-fbdac6d57"
+item: "#item-1e8ebe396"
 unparsed:
-line: 'Head: vaunting|See: boast|#item-fbdac6d57'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/956,1922,644,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658415016
-sort_value: '304921922'
+line: 'Head: understanding|Entry: a|Entry: 1693 [Understanding]|#item-1e8ebe396'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/417,2699,694,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560873513887
+sort_value: '305012699'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/956,1922,644,117/150,/0/default.jpg
-label: vaunting
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/417,2699,694,135/150,/0/default.jpg
+label: understanding
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '264'
+order: '325'
 layout: index_item
 collection: index5
 ---

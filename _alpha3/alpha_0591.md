@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0809/'>Reward</a>|<a href='/digita
   href='/digital-beehive/num5/num_1340/'>1004 [Christs outward Satisfaction]</a>|<a
   href='/digital-beehive/num7/num_2557/'>1667 [Merit]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2490/'>merit</a>"
+index: "<a href='/digital-beehive/index3/index_2449/'>merit</a>"
 item: "#item-1ea2b05f6"
 unparsed:
 line: 'Entry: Merit|Topic: Merit|Xref: Reward|Xref: Worthiness|Xref: 1004 [Christs

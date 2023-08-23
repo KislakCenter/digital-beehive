@@ -1,9 +1,9 @@
 ---
 pid: index_1263
 volume: Volume 3
-image_number: '18'
-head: enjoymt
-entry: "<a href='/digital-beehive/num3/num_0813/'>611 [Enjoyment]</a>"
+image_number: '19'
+head: equanimity
+entry: "<a href='/digital-beehive/alpha2/alpha_0292/'>a</a>|4560 [PAGE_MISSING]"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5f988fc3d"
+item: "#item-4627212f6"
 unparsed:
-line: 'Head: enjoymt|Entry: 611 [Enjoyment]|#item-5f988fc3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1836,2263,441,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835110730
-sort_value: '301832263'
+line: 'Head: equanimity|Entry: a|Entry: 4560 [PAGE_MISSING]|#item-4627212f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/128,1280,685,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844358920
+sort_value: '301911280'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1836,2263,441,121/150,/0/default.jpg
-label: enjoymt
-location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/128,1280,685,163/150,/0/default.jpg
+label: equanimity
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '082'
+order: '104'
 layout: index_item
 collection: index2
 ---

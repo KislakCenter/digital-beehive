@@ -1,9 +1,9 @@
 ---
 pid: index_3758
 volume: Volume 3
-image_number: '43'
-head: smallpooks
-entry: "<a href='/digital-beehive/num2/num_0447/'>371 [small pocks]</a>"
+image_number: '44'
+head: to sow
+entry: 812 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-dd1ab936b"
+item: "#item-97339477b"
 unparsed:
-line: 'Head: smallpooks|Entry: 371 [small pocks]|#item-dd1ab936b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/906,3140,456,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584884081
-sort_value: '304323140'
+line: 'Head: to sow|Entry: 812 [PAGE_MISSING]|#item-97339477b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/594,3320,409,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288428883
+sort_value: '304413320'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/906,3140,456,118/150,/0/default.jpg
-label: smallpooks
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/594,3320,409,145/150,/0/default.jpg
+label: to sow
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1006'
+order: '1050'
 layout: index_item
 collection: index4
 ---

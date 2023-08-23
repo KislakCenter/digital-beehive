@@ -1,9 +1,9 @@
 ---
 pid: index_3280
 volume: Volume 3
-image_number: '38'
-head: rage
-entry: "<a href='/digital-beehive/num2/num_0517/'>417 [Rage]</a>"
+image_number: '39'
+head: reflections
+entry: "<a href='/digital-beehive/num3/num_0954/'>680 [Scheltwort]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5047e6086"
+item: "#item-dafdd24cc"
 unparsed:
-line: 'Head: rage|Entry: 417 [Rage]|#item-5047e6086'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1175,3022,351,161/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459570150
-sort_value: '303823022'
+line: 'Head: reflections|Entry: 680 [Scheltwort]|#item-dafdd24cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/107,1240,603,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464172120
+sort_value: '303911240'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1175,3022,351,161/150,/0/default.jpg
-label: rage
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/107,1240,603,118/150,/0/default.jpg
+label: reflections
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0528'
+order: '0572'
 layout: index_item
 collection: index4
 ---

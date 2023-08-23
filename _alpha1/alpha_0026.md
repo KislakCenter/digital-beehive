@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1456/'>1078 [Anagrams]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0134/'>anagrams</a>"
+index: "<a href='/digital-beehive/index1/index_0130/'>anagrams</a>"
 item: "#item-a8e38fd24"
 unparsed:
 line: 'Entry: Anagram|Topic: Anagram|Xref: 1078 [Anagrams]|Index: anagrams|#item-a8e38fd24'

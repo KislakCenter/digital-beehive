@@ -1,10 +1,10 @@
 ---
 pid: index_2306
 volume: Volume 3
-image_number: '28'
-head: little
-entry: "<a href='/digital-beehive/alpha3/alpha_0545/'>a</a>|767 [PAGE_MISSING]|<a
-  href='/digital-beehive/num7/num_2499/'>1641 [Littleness]</a>"
+image_number: '29'
+head: love of Enemies
+entry: "<a href='/digital-beehive/alpha3/alpha_0561/'>a</a>|<a href='/digital-beehive/num1/num_0240/'>225
+  [Love of enemies]</a>"
 topic:
 first_letter: L
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f6e27818b"
+item: "#item-d7b217d31"
 unparsed:
-line: 'Head: little|Entry: a|Entry: 767 [PAGE_MISSING]|Entry: 1641 [Littleness]|#item-f6e27818b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1815,1935,596,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849161596
-sort_value: '302831935'
+line: 'Head: love of Enemies|Entry: a|Entry: 225 [Love of enemies]|#item-d7b217d31'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/167,2306,504,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179641283
+sort_value: '302912306'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1815,1935,596,118/150,/0/default.jpg
-label: little
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/167,2306,504,95/150,/0/default.jpg
+label: love of Enemies
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '388'
+order: '421'
 layout: index_item
 collection: index3
 ---

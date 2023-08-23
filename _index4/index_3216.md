@@ -1,30 +1,30 @@
 ---
 pid: index_3216
 volume: Volume 3
-image_number: '37'
-head: to prune
-entry: "<a href='/digital-beehive/num3/num_0907/'>659 [Purge]</a>"
+image_number: '38'
+head: quietness
+entry: "<a href='/digital-beehive/alpha4/alpha_0773/'>a</a>|<a href='/digital-beehive/num4/num_1305/'>976
+  [Quietness]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2c930b0ba"
+item: "#item-5a0db8827"
 unparsed:
-line: 'Head: to prune|Entry: 659 [Purge]|#item-2c930b0ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1464,3033,479,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869757186
-sort_value: '303733033'
+line: 'Head: quietness|Entry: a|Entry: 976 [Quietness]|#item-5a0db8827'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1195,1441,557,189/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455280232
+sort_value: '303821441'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1464,3033,479,130/150,/0/default.jpg
-label: to prune
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1195,1441,557,189/150,/0/default.jpg
+label: quietness
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0464'
+order: '0508'
 layout: index_item
 collection: index4
 ---

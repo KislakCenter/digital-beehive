@@ -1,30 +1,29 @@
 ---
 pid: index_2823
 volume: Volume 3
-image_number: '33'
-head: ordinaries
-entry:
+image_number: '34'
+head: paper
+entry: "<a href='/digital-beehive/num4/num_1106/'>873 [Paper]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2051/'>Inns</a>"
+see:
 index:
-item: "#item-1cc221f20"
+item: "#item-bdea211d1"
 unparsed:
-line: 'Head: ordinaries|See: Inns|#item-1cc221f20'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1498,2458,714,177/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538163135640
-sort_value: '303332458'
+line: 'Head: paper|Entry: 873 [Paper]|#item-bdea211d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1136,536,476,182/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492467401
+sort_value: '303420536'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1498,2458,714,177/150,/0/default.jpg
-label: ordinaries
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1136,536,476,182/150,/0/default.jpg
+label: paper
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0071'
+order: '0115'
 layout: index_item
 collection: index4
 ---

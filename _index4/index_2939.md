@@ -2,9 +2,8 @@
 pid: index_2939
 volume: Volume 3
 image_number: '35'
-head: pedlars
-entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1049/'>714
-  [a haggler]</a>"
+head: philosophy par[ae]netick
+entry: "<a href='/digital-beehive/num5/num_1394/'>1041 [Com[m]andments]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d647a6a78"
+item: "#item-fa5c9c104"
 unparsed:
-line: 'Head: pedlars|Entry: 109 [A Shop keeper]|Entry: 714 [a haggler]|#item-d647a6a78'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/97,660,608,129/full/0/default.jpg
+line: 'Head: philosophy par[ae]netick|Entry: 1041 [Com[m]andments]|#item-fa5c9c104'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/841,2637,634,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971672762
-sort_value: '303510660'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974763441
+sort_value: '303522637'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/97,660,608,129/150,/0/default.jpg
-label: pedlars
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/841,2637,634,192/150,/0/default.jpg
+label: philosophy par[ae]netick
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0187'
+order: '0231'
 layout: index_item
 collection: index4
 ---

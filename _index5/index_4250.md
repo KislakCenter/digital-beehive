@@ -1,30 +1,29 @@
 ---
 pid: index_4250
 volume: Volume 3
-image_number: '48'
-head: truce
-entry: "<a href='/digital-beehive/num1/num_0142/'>137 [Truce]</a>"
+image_number: '49'
+head: vertigo
+entry: "<a href='/digital-beehive/num3/num_0786/'>599 [Giddiness]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-059ed2d83"
+item: "#item-f2ac46378"
 unparsed:
-line: 'Head: truce|Entry: 137 [Truce]|#item-059ed2d83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1803,2865,385,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562090097876
-sort_value: '304832865'
+line: 'Head: vertigo|Entry: 599 [Giddiness]|#item-f2ac46378'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/958,3353,395,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659034668
+sort_value: '304923353'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1803,2865,385,124/150,/0/default.jpg
-label: truce
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/958,3353,395,130/150,/0/default.jpg
+label: vertigo
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '212'
+order: '273'
 layout: index_item
 collection: index5
 ---

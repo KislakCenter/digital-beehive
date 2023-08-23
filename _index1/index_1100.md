@@ -2,8 +2,8 @@
 pid: index_1100
 volume: Volume 3
 image_number: '17'
-head: disswasion
-entry: 757 [PAGE_MISSING]
+head: do as thou would be done
+entry: "<a href='/digital-beehive/num5/num_1640/'>1202 [Do as thou w. be done by]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-e9cc1a6c9"
+item: "#item-08f9853a8"
 unparsed:
-line: 'Head: disswasion|Entry: 757 [PAGE_MISSING]|#item-e9cc1a6c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,3529,523,139/full/0/default.jpg
+line: 'Head: do as thou would be done|Entry: 1202 [Do as thou w. be done by]|#item-08f9853a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/768,2266,831,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804797085
-sort_value: '301713529'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560366780104
+sort_value: '301722266'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,3529,523,139/150,/0/default.jpg
-label: disswasion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/768,2266,831,121/150,/0/default.jpg
+label: do as thou would be done
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1099'
 layout: index_item
 collection: index1

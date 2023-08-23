@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2284/'>1534 [Purgatory]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3231/'>purgatory</a>"
+index: "<a href='/digital-beehive/index4/index_3181/'>purgatory</a>"
 item: "#item-cceea3136"
 unparsed:
 line: 'Entry: Purgatory|Topic: Purgatory|Xref: 1534 [Purgatory]|Index: purgatory|#item-cceea3136'

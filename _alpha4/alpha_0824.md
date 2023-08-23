@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha2/alpha_0325/'>feast</a>|<a href='/digital
   href='/digital-beehive/alpha4/alpha_0932/'>Sunday</a>|<a href='/digital-beehive/num4/num_1240/'>930
   [Sabbath]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3476/'>Sabbath</a>"
+index: "<a href='/digital-beehive/index4/index_3423/'>Sabbath</a>"
 item: "#item-6fe1d9d82"
 unparsed:
 line: 'Entry: Sabbath|Topic: Sabbath|Xref: feast|Xref: rest|Xref: Sunday|Xref: 930

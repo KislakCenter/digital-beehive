@@ -2,29 +2,28 @@
 pid: index_1730
 volume: Volume 3
 image_number: '23'
-head: guilty of other sins
-entry: "<a href='/digital-beehive/num10/num_3389/'>2415 [Partake not with the wicked]</a>"
+head: harpocrates
+entry: "<a href='/digital-beehive/num6/num_1814/'>1299 [Silence & Reservedness]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-3ac25d8f7"
+item: "#item-c7f24aeb2"
 unparsed:
-line: 'Head: guilty of other sins|Entry: 2415 [Partake not with the wicked]|#item-3ac25d8f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/156,2832,664,107/full/0/default.jpg
+line: 'Head: harpocrates|Entry: 1299 [Silence & Reservedness]|#item-c7f24aeb2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,2148,585,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233454729
-sort_value: '302312832'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240490965
+sort_value: '302322148'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/156,2832,664,107/150,/0/default.jpg
-label: guilty of other sins
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,2148,585,99/150,/0/default.jpg
+label: harpocrates
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '549'
+order: '571'
 layout: index_item
 collection: index2
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_0426
 volume: Volume 3
-image_number: '10'
-head: to bow
-entry: "<a href='/digital-beehive/num6/num_2175/'>1475 [To Bow]</a>"
+image_number: '11'
+head: branch
+entry: "<a href='/digital-beehive/num2/num_0429/'>361 [Branches]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-25ef7f95d"
+item: "#item-5a5dd9751"
 unparsed:
-line: 'Head: to bow|Entry: 1475 [To Bow]|#item-25ef7f95d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1773,2984,394,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531416994927
-sort_value: '301032984'
+line: 'Head: branch|Entry: 361 [Branches]|#item-5a5dd9751'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/160,364,438,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417532770
+sort_value: '301110364'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1773,2984,394,105/150,/0/default.jpg
-label: to bow
-location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/160,364,438,130/150,/0/default.jpg
+label: branch
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0425'
 layout: index_item
 collection: index1

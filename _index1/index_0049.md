@@ -2,10 +2,8 @@
 pid: index_0049
 volume: Volume 3
 image_number: '7'
-head: adversity
-entry: "<a href='/digital-beehive/alpha1/alpha_0010/'>a</a>|<a href='/digital-beehive/num3/num_1040/'>712
-  [Adversity]</a>|<a href='/digital-beehive/num5/num_1449/'>1074 [Adversity]</a>|<a
-  href='/digital-beehive/num5/num_1707/'>1238 [Adversity]</a>"
+head: advertisemts
+entry: "<a href='/digital-beehive/num11/num_3491/'>4797 [Advertisemts]</a>"
 topic:
 first_letter: A
 page:
@@ -13,20 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-6cba55eed"
+item: "#item-ee1cb18d2"
 unparsed:
-line: 'Head: adversity|Entry: a|Entry: 712 [Adversity]|Entry: 1074 [Adversity]|Entry:
-  1238 [Adversity]|#item-6cba55eed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/910,858,673,117/full/0/default.jpg
+line: 'Head: advertisemts|Entry: 4797 [Advertisemts]|#item-ee1cb18d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/893,916,598,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761116494
-sort_value: '300720858'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761176461
+sort_value: '300720916'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/910,858,673,117/150,/0/default.jpg
-label: adversity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/893,916,598,106/150,/0/default.jpg
+label: advertisemts
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0048'
 layout: index_item
 collection: index1

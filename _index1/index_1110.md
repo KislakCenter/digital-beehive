@@ -2,8 +2,8 @@
 pid: index_1110
 volume: Volume 3
 image_number: '17'
-head: ditto
-entry: "<a href='/digital-beehive/num2/num_0294/'>263 [the said]</a>"
+head: Dominica
+entry: "<a href='/digital-beehive/num7/num_2238/'>1513 [Dominica]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-08043b43a"
+item: "#item-69265ce06"
 unparsed:
-line: 'Head: ditto|Entry: 263 [the said]|#item-08043b43a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/817,1158,398,104/full/0/default.jpg
+line: 'Head: Dominica|Entry: 1513 [Dominica]|#item-69265ce06'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/764,3488,557,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849161512
-sort_value: '301721158'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367445400
+sort_value: '301723488'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/817,1158,398,104/150,/0/default.jpg
-label: ditto
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/764,3488,557,148/150,/0/default.jpg
+label: Dominica
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1109'
 layout: index_item
 collection: index1

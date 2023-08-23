@@ -1,33 +1,30 @@
 ---
 pid: index_2522
 volume: Volume 3
-image_number: '30'
-head: merchants
-entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1049/'>714
-  [a haggler]</a>|<a href='/digital-beehive/num6/num_2150/'>1464 [Merchant]</a>|4610
-  [PAGE_MISSING]"
+image_number: '31'
+head: monarchy
+entry: "<a href='/digital-beehive/alpha3/alpha_0604/'>a</a>|<a href='/digital-beehive/num8/num_2695/'>1763
+  [Monarchy]</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-f1c5cab53"
+item: "#item-3010c2d49"
 unparsed:
-line: 'Head: merchants|Page: p.42 [Image 1.102]|Entry: 109 [A Shop keeper]|Entry:
-  714 [a haggler]|Entry: 1464 [Merchant]|Entry: 4610 [PAGE_MISSING]|#item-f1c5cab53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1134,2315,1075,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269058881
-sort_value: '303032315'
+line: 'Head: monarchy|Entry: a|Entry: 1763 [Monarchy]|#item-3010c2d49'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/880,215,570,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560353687322
+sort_value: '303120215'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1134,2315,1075,138/150,/0/default.jpg
-label: merchants
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/880,215,570,150/150,/0/default.jpg
+label: monarchy
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '604'
+order: '637'
 layout: index_item
 collection: index3
 ---

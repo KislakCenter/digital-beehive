@@ -1,9 +1,10 @@
 ---
 pid: index_1065
 volume: Volume 3
-image_number: '16'
-head: disciples
-entry: "<a href='/digital-beehive/num4/num_1304/'>975 [Disciples]</a>"
+image_number: '17'
+head: disobedience
+entry: "<a href='/digital-beehive/alpha1/alpha_0246/'>a</a>|<a href='/digital-beehive/num8/num_2781/'>1898
+  [Disobedience]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-89a80aa3f"
+item: "#item-6ef930463"
 unparsed:
-line: 'Head: disciples|Entry: 975 [Disciples]|#item-89a80aa3f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1768,3038,476,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784344424
-sort_value: '301633038'
+line: 'Head: disobedience|Entry: a|Entry: 1898 [Disobedience]|#item-6ef930463'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/146,1951,704,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175493527
+sort_value: '301711951'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1768,3038,476,122/150,/0/default.jpg
-label: disciples
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/146,1951,704,140/150,/0/default.jpg
+label: disobedience
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1064'
 layout: index_item
 collection: index1

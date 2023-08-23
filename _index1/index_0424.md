@@ -2,8 +2,8 @@
 pid: index_0424
 volume: Volume 3
 image_number: '10'
-head: bounty
-entry: "<a href='/digital-beehive/alpha1/alpha_0097/'>a</a>"
+head: brain
+entry: "<a href='/digital-beehive/num8/num_2926/'>1993 [Brain]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-e9a80241e"
+item: "#item-6c7ff92ba"
 unparsed:
-line: 'Head: bounty|Entry: a|#item-e9a80241e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,2848,340,110/full/0/default.jpg
+line: 'Head: brain|Entry: 1993 [Brain]|#item-6c7ff92ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1767,3612,370,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531416885399
-sort_value: '301032848'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417430809
+sort_value: '301033612'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,2848,340,110/150,/0/default.jpg
-label: bounty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1767,3612,370,135/150,/0/default.jpg
+label: brain
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0423'
 layout: index_item
 collection: index1

@@ -2,30 +2,29 @@
 pid: index_3443
 volume: Volume 3
 image_number: '40'
-head: romance
-entry: "<a href='/digital-beehive/alpha4/alpha_0818/'>a</a>|<a href='/digital-beehive/num6/num_1998/'>1393
-  [Romances]</a>"
+head: Saints
+entry: "<a href='/digital-beehive/alpha4/alpha_0829/'>a</a>|<a href='/digital-beehive/num9/num_3091/'>2149
+  [Saints]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6af490f6b"
+item: "#item-98b7d7407"
 unparsed:
-line: 'Head: romance|Entry: a|Entry: 1393 [Romances]|#item-6af490f6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/full/0/default.jpg
+line: 'Head: Saints|Entry: a|Entry: 2149 [Saints]|#item-98b7d7407'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1849,2985,493,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233052220
-sort_value: '304020819'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235263548
+sort_value: '304032985'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/150,/0/default.jpg
-label: romance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1849,2985,493,143/150,/0/default.jpg
+label: Saints
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0691'
+order: '0735'
 layout: index_item
 collection: index4
 ---

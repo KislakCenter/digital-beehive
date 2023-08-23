@@ -2,8 +2,8 @@
 pid: index_3711
 volume: Volume 3
 image_number: '43'
-head: silver
-entry: "<a href='/digital-beehive/num4/num_1139/'>887 [Silver]</a>"
+head: snorting
+entry: "<a href='/digital-beehive/num3/num_0791/'>601 [Snorting]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ab6ecc19f"
+item: "#item-660c780a7"
 unparsed:
-line: 'Head: silver|Entry: 887 [Silver]|#item-ab6ecc19f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/170,1828,445,135/full/0/default.jpg
+line: 'Head: snorting|Entry: 601 [Snorting]|#item-660c780a7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1584,1069,423,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582252626
-sort_value: '304311828'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585366321
+sort_value: '304331069'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/170,1828,445,135/150,/0/default.jpg
-label: silver
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1584,1069,423,142/150,/0/default.jpg
+label: snorting
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0959'
+order: '1003'
 layout: index_item
 collection: index4
 ---

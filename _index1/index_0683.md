@@ -2,28 +2,29 @@
 pid: index_0683
 volume: Volume 3
 image_number: '13'
-head: to claw
-entry: "<a href='/digital-beehive/num7/num_2536/'>1657 [Scratch]</a>"
+head: clock dials
+entry:
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/digital-beehive/toc/toc1_053/'>p.3
+  [Image 1.63]</a>|<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-3f40bb6d3"
+item: "#item-24d72b8f4"
 unparsed:
-line: 'Head: to claw|Entry: 1657 [Scratch]|#item-3f40bb6d3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/151,3179,463,128/full/0/default.jpg
+line: 'Head: clock dials|Page: p.2 [Image 1.62]|Page: p.3 [Image 1.63]|Page: p.39
+  [Image 1.99]|#item-24d72b8f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/840,1264,632,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536333510934
-sort_value: '301313179'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536334586720
+sort_value: '301321264'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/151,3179,463,128/150,/0/default.jpg
-label: to claw
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/840,1264,632,125/150,/0/default.jpg
+label: clock dials
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0682'
 layout: index_item
 collection: index1

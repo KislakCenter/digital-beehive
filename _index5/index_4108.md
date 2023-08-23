@@ -1,10 +1,9 @@
 ---
 pid: index_4108
 volume: Volume 3
-image_number: '47'
-head: theft
-entry: "<a href='/digital-beehive/num4/num_1079/'>866 [Stealing]</a>|<a href='/digital-beehive/num9/num_3031/'>2094
-  [Theft]</a>"
+image_number: '48'
+head: toleration
+entry: "<a href='/digital-beehive/num3/num_0720/'>565 [License]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3bb05830f"
+item: "#item-933235288"
 unparsed:
-line: 'Head: theft|Entry: 866 [Stealing]|Entry: 2094 [Theft]|#item-3bb05830f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/911,950,559,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532720355964
-sort_value: '304720950'
+line: 'Head: toleration|Entry: 565 [License]|#item-933235288'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/486,848,509,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559852426052
+sort_value: '304810848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/911,950,559,114/150,/0/default.jpg
-label: theft
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/486,848,509,100/150,/0/default.jpg
+label: toleration
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '070'
+order: '131'
 layout: index_item
 collection: index5
 ---

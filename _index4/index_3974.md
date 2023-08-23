@@ -1,10 +1,9 @@
 ---
 pid: index_3974
 volume: Volume 3
-image_number: '45'
-head: sufficient
-entry: "<a href='/digital-beehive/num1/num_0230/'>218 [Sufficient]</a>|<a href='/digital-beehive/num6/num_2054/'>1419
-  [Enough]</a>"
+image_number: '46'
+head: synagogues
+entry: "<a href='/digital-beehive/num8/num_2814/'>1916 [Synagogues]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2e22fb72f"
+item: "#item-88f0c46b9"
 unparsed:
-line: 'Head: sufficient|Entry: 218 [Sufficient]|Entry: 1419 [Enough]|#item-2e22fb72f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1604,3325,613,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530470924020
-sort_value: '304533325'
+line: 'Head: synagogues|Entry: 1916 [Synagogues]|#item-88f0c46b9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1107,3163,481,97/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531741997492
+sort_value: '304623163'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1604,3325,613,113/150,/0/default.jpg
-label: sufficient
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1107,3163,481,97/150,/0/default.jpg
+label: synagogues
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1222'
+order: '1266'
 layout: index_item
 collection: index4
 ---

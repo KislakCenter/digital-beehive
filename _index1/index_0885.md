@@ -2,28 +2,27 @@
 pid: index_0885
 volume: Volume 3
 image_number: '15'
-head: courtesie
+head: creed
 entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0680/'>civility</a>"
+see: "<a href='/digital-beehive/index1/index_0209/'>artic. of faith</a>"
 index:
-item: "#item-f7044a5ed"
+item: "#item-2ac541842"
 unparsed:
-line: 'Head: courtesie|See: civility|#item-f7044a5ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/149,2581,709,142/full/0/default.jpg
+line: 'Head: creed|See: artic. of faith|#item-2ac541842'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/860,916,742,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974965472
-sort_value: '301512581'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577315548
+sort_value: '301520916'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/149,2581,709,142/150,/0/default.jpg
-label: courtesie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/860,916,742,167/150,/0/default.jpg
+label: creed
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0884'
 layout: index_item
 collection: index1

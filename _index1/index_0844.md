@@ -1,29 +1,28 @@
 ---
 pid: index_0844
 volume: Volume 3
-image_number: '14'
-head: copy
-entry: "<a href='/digital-beehive/num2/num_0563/'>452 [Copy]</a>"
+image_number: '15'
+head: corrupted
+entry: "<a href='/digital-beehive/num3/num_0758/'>587 [Corrupted]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1343/'>exemplar</a>"
+see:
 index:
-item: "#item-169833124"
+item: "#item-b69d2c115"
 unparsed:
-line: 'Head: copy|See: exemplar|Entry: 452 [Copy]|#item-169833124'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1830,2377,709,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559880868
-sort_value: '301432377'
+line: 'Head: corrupted|Entry: 587 [Corrupted]|#item-b69d2c115'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/160,274,560,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537973858507
+sort_value: '301510274'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1830,2377,709,102/150,/0/default.jpg
-label: copy
-location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/160,274,560,149/150,/0/default.jpg
+label: corrupted
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0843'
 layout: index_item
 collection: index1

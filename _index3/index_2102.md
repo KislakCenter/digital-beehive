@@ -1,9 +1,9 @@
 ---
 pid: index_2102
 volume: Volume 3
-image_number: '26'
-head: John Bapt
-entry: "<a href='/digital-beehive/alpha3/alpha_0490/'>a</a>"
+image_number: '27'
+head: juice
+entry: "<a href='/digital-beehive/num5/num_1712/'>1240 [Juice]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-950123adc"
+item: "#item-7a1ecdf79"
 unparsed:
-line: 'Head: John Bapt|Entry: a|#item-950123adc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1859,2167,291,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559752008947
-sort_value: '302632167'
+line: 'Head: juice|Entry: 1240 [Juice]|#item-7a1ecdf79'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/154,2174,353,97/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758496571
+sort_value: '302712174'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1859,2167,291,114/150,/0/default.jpg
-label: John Bapt
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/154,2174,353,97/150,/0/default.jpg
+label: juice
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '184'
+order: '217'
 layout: index_item
 collection: index3
 ---

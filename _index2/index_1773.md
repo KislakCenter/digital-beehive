@@ -2,29 +2,28 @@
 pid: index_1773
 volume: Volume 3
 image_number: '23'
-head: hazard
-entry:
+head: Heraclitus
+entry: "<a href='/digital-beehive/num7/num_2434/'>1612 [Democritus & Heraclitus]</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0048/'>adventure</a>"
+see:
 index:
-item: "#item-8988557ba"
+item: "#item-2750fd938"
 unparsed:
-line: 'Head: hazard|See: adventure|#item-8988557ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/814,3540,673,164/full/0/default.jpg
+line: 'Head: Heraclitus|Entry: 1612 [Democritus & Heraclitus]|#item-2750fd938'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1509,2995,456,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241946776
-sort_value: '302323540'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559572052146
+sort_value: '302332995'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/814,3540,673,164/150,/0/default.jpg
-label: hazard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1509,2995,456,100/150,/0/default.jpg
+label: Heraclitus
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '592'
+order: '614'
 layout: index_item
 collection: index2
 ---

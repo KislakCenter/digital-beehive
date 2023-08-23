@@ -2,28 +2,27 @@
 pid: index_0594
 volume: Volume 3
 image_number: '12'
-head: chameleon
-entry: "<a href='/digital-beehive/num5/num_1721/'>1245 [Salamander]</a>"
+head: charity
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2301/'>love</a>"
 index:
-item: "#item-7fbb4d36c"
+item: "#item-e2c36d38a"
 unparsed:
-line: 'Head: chameleon|Entry: 1245 [Salamander]|#item-7fbb4d36c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,2656,560,117/full/0/default.jpg
+line: 'Head: charity|See: love|#item-e2c36d38a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,3479,552,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532102290076
-sort_value: '301222656'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443568155
+sort_value: '301223479'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,2656,560,117/150,/0/default.jpg
-label: chameleon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,3479,552,136/150,/0/default.jpg
+label: charity
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0593'
 layout: index_item
 collection: index1

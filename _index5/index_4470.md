@@ -1,9 +1,9 @@
 ---
 pid: index_4470
 volume: Volume 3
-image_number: '51'
-head: want of love
-entry: "<a href='/digital-beehive/num5/num_1338/'>1003 [Want of Love]</a>"
+image_number: '52'
+head: whole
+entry: 772 [PAGE_MISSING]
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-217747f59"
+item: "#item-e0571c26c"
 unparsed:
-line: 'Head: want of love|Entry: 1003 [Want of Love]|#item-217747f59'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1646,1620,454,97/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647909276
-sort_value: '305131620'
+line: 'Head: whole|Entry: 772 [PAGE_MISSING]|#item-e0571c26c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1768,890,470,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560971590321
+sort_value: '305230890'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1646,1620,454,97/150,/0/default.jpg
-label: want of love
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1768,890,470,124/150,/0/default.jpg
+label: whole
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '432'
+order: '493'
 layout: index_item
 collection: index5
 ---

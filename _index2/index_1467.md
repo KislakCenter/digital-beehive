@@ -1,9 +1,9 @@
 ---
 pid: index_1467
 volume: Volume 3
-image_number: '20'
-head: a fit
-entry: "<a href='/digital-beehive/num9/num_3056/'>2118 [Fit or Paroxysm]</a>"
+image_number: '21'
+head: to fold
+entry: "<a href='/digital-beehive/num4/num_1180/'>907 [To fold or wrap]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-74afcdfcc"
+item: "#item-93ae23aaa"
 unparsed:
-line: 'Head: a fit|Entry: 2118 [Fit or Paroxysm]|#item-74afcdfcc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1801,1938,411,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562615225761
-sort_value: '302031938'
+line: 'Head: to fold|Entry: 907 [To fold or wrap]|#item-93ae23aaa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/185,859,400,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531233024099
+sort_value: '302110859'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1801,1938,411,159/150,/0/default.jpg
-label: a fit
-location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/185,859,400,128/150,/0/default.jpg
+label: to fold
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '286'
+order: '308'
 layout: index_item
 collection: index2
 ---

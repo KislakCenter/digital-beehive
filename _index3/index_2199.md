@@ -1,9 +1,9 @@
 ---
 pid: index_2199
 volume: Volume 3
-image_number: '27'
-head: lapidaria
-entry: "<a href='/digital-beehive/num6/num_2025/'>1406 [Lapidaria]</a>"
+image_number: '28'
+head: to lean on
+entry: 825 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ac2b3087d"
+item: "#item-295755682"
 unparsed:
-line: 'Head: lapidaria|Entry: 1406 [Lapidaria]|#item-ac2b3087d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1552,1025,502,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835265165
-sort_value: '302731025'
+line: 'Head: to lean on|Entry: 825 [PAGE_MISSING]|#item-295755682'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/389,1531,557,97/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842012711
+sort_value: '302811531'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1552,1025,502,156/150,/0/default.jpg
-label: lapidaria
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/389,1531,557,97/150,/0/default.jpg
+label: to lean on
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '281'
+order: '314'
 layout: index_item
 collection: index3
 ---

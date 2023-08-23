@@ -2,8 +2,8 @@
 pid: index_1349
 volume: Volume 3
 image_number: '19'
-head: exorcism
-entry: "<a href='/digital-beehive/alpha2/alpha_0302/'>a</a>"
+head: Ezekiel
+entry: "<a href='/digital-beehive/num9/num_3106/'>2164 [Ezekiel]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ac3445f82"
+item: "#item-f8278db89"
 unparsed:
-line: 'Head: exorcism|Entry: a|#item-ac3445f82'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1112,458,128/full/0/default.jpg
+line: 'Head: Ezekiel|Entry: 2164 [Ezekiel]|#item-f8278db89'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1512,3591,537,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043359609
-sort_value: '301931112'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561398317016
+sort_value: '301933591'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1112,458,128/150,/0/default.jpg
-label: exorcism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1512,3591,537,135/150,/0/default.jpg
+label: Ezekiel
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '168'
+order: '190'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,27 @@
 pid: index_0544
 volume: Volume 3
 image_number: '12'
-head: Carnaval
-entry:
+head: castration
+entry: 816 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
+see:
 index:
-item: "#item-fe7df6756"
+item: "#item-2254bc37a"
 unparsed:
-line: 'Head: Carnaval|See: bacchanals|#item-fe7df6756'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,436,750,159/full/0/default.jpg
+line: 'Head: castration|Entry: 816 [PAGE_MISSING]|#item-2254bc37a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/402,1715,558,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531496675405
-sort_value: '301210436'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532097960660
+sort_value: '301211715'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,436,750,159/150,/0/default.jpg
-label: Carnaval
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/402,1715,558,144/150,/0/default.jpg
+label: castration
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0543'
 layout: index_item
 collection: index1

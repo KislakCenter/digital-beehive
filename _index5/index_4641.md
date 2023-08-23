@@ -1,30 +1,29 @@
 ---
 pid: index_4641
 volume: Volume 3
-image_number: '53'
-head: year of release
-entry: "<a href='/digital-beehive/num6/num_2052/'>1418 [To Remit]</a>"
+image_number: '54'
+head: Vernish
+entry:
 topic:
-first_letter: Y
+first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0711/'>Colour</a>"
 index:
-item: "#item-a486663c0"
+item: "#item-e6678525f"
 unparsed:
-line: 'Head: year of release|Entry: 1418 [To Remit]|#item-a486663c0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1601,1950,602,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798952558
-sort_value: '305331950'
+line: 'Type: Index|Insertion: [:45.]|Head: Vernish|See: Colour|#item-e6678525f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1048,3173,660,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955938706
+sort_value: '305423173'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1601,1950,602,124/150,/0/default.jpg
-label: year of release
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1048,3173,660,152/150,/0/default.jpg
+label: Vernish
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '603'
+order: '664'
 layout: index_item
 collection: index5
 ---

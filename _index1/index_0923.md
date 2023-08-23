@@ -2,28 +2,28 @@
 pid: index_0923
 volume: Volume 3
 image_number: '15'
-head: cucumers
-entry: "<a href='/digital-beehive/num3/num_0949/'>678 [Cucumers]</a>"
+head: dam[m]age
+entry: "<a href='/digital-beehive/alpha1/alpha_0207/'>a</a>|<a href='/digital-beehive/num6/num_2059/'>1422
+  [Dam[m]age]</a>"
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
 see:
 index:
-item: "#item-074579e96"
+item: "#item-588ddfb8a"
 unparsed:
-line: 'Head: cucumers|Entry: 678 [Cucumers]|#item-074579e96'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/833,3171,466,113/full/0/default.jpg
+line: 'Head: dam[m]age|Entry: a|Entry: 1422 [Dam[m]age]|#item-588ddfb8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1486,1064,671,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538578015354
-sort_value: '301523171'
+annotation_uri: http://dev.llgc.org.uk/annotation/1506976621639
+sort_value: '301531064'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/833,3171,466,113/150,/0/default.jpg
-label: cucumers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1486,1064,671,131/150,/0/default.jpg
+label: dam[m]age
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0922'
 layout: index_item
 collection: index1

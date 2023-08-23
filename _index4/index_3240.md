@@ -2,29 +2,29 @@
 pid: index_3240
 volume: Volume 3
 image_number: '38'
-head: pusillan
-entry:
+head: rape
+entry: "<a href='/digital-beehive/alpha4/alpha_0779/'>a</a>|<a href='/digital-beehive/num2/num_0277/'>253
+  [Rape]</a>"
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1378/'>faintheart</a>"
+see:
 index:
-item: "#item-ff196699f"
+item: "#item-e08df4235"
 unparsed:
-line: 'Head: pusillan|See: faintheart|#item-ff196699f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/391,2319,804,142/full/0/default.jpg
+line: 'Head: rape|Entry: a|Entry: 253 [Rape]|#item-e08df4235'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1832,577,509,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452520637
-sort_value: '303812319'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460383574
+sort_value: '303830577'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/391,2319,804,142/150,/0/default.jpg
-label: pusillan
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1832,577,509,140/150,/0/default.jpg
+label: rape
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0488'
+order: '0532'
 layout: index_item
 collection: index4
 ---

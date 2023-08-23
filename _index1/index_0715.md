@@ -2,28 +2,30 @@
 pid: index_0715
 volume: Volume 3
 image_number: '13'
-head: coins
-entry:
+head: comedy
+entry: "<a href='/digital-beehive/alpha1/alpha_0156/'>a</a>|<a href='/digital-beehive/num4/num_1188/'>909
+  [Comedies]</a>|<a href='/digital-beehive/num6/num_1969/'>1380 [Comedie]</a>|4558
+  [PAGE_MISSING]"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
+page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a7096c539"
+item: "#item-73c5f622f"
 unparsed:
-line: 'Head: coins|Page: p.6 [Image 1.66]|#item-a7096c539'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/863,3075,330,131/full/0/default.jpg
+line: 'Head: comedy|Page: p.41 [Image 1.101]|Entry: a|Entry: 909 [Comedies]|Entry:
+  1380 [Comedie]|Entry: 4558 [PAGE_MISSING]|#item-73c5f622f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1543,1103,732,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608930571
-sort_value: '301323075'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610589800
+sort_value: '301331103'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/863,3075,330,131/150,/0/default.jpg
-label: coins
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1543,1103,732,160/150,/0/default.jpg
+label: comedy
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0714'
 layout: index_item
 collection: index1

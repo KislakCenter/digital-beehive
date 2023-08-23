@@ -2,8 +2,9 @@
 pid: index_0066
 volume: Volume 3
 image_number: '7'
-head: afterwards
-entry: "<a href='/digital-beehive/num1/num_0269/'>248 [Long ago]</a>"
+head: after sweet sowre
+entry: "<a href='/digital-beehive/num1/num_0010/'>10 [After high floods (: come :)
+  low ebbs]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ecd235efe"
+item: "#item-40dcb51f1"
 unparsed:
-line: 'Head: afterwards|Entry: 248 [Long ago]|#item-ecd235efe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/909,2199,536,125/full/0/default.jpg
+line: 'Head: after sweet sowre|Entry: 10 [After high floods (: come :) low ebbs]|#item-40dcb51f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,2401,659,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766719489
-sort_value: '300722199'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766871092
+sort_value: '300722401'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/909,2199,536,125/150,/0/default.jpg
-label: afterwards
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,2401,659,139/150,/0/default.jpg
+label: after sweet sowre
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0065'
 layout: index_item
 collection: index1

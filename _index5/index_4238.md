@@ -1,30 +1,29 @@
 ---
 pid: index_4238
 volume: Volume 3
-image_number: '48'
-head: tricks
-entry: "<a href='/digital-beehive/num5/num_1688/'>1228 [Craftiness]</a>"
+image_number: '49'
+head: vendue
+entry: "<a href='/digital-beehive/num6/num_2068/'>1425 [Vendue]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
-add: craftiness
+add:
 xref:
 see:
 index:
-item: "#item-f3e024523"
+item: "#item-369989edd"
 unparsed:
-line: 'Head: tricks|Entry: 1228 [Craftiness]|Add: craftiness|#item-f3e024523'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1806,1292,524,254/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088664170
-sort_value: '304831292'
+line: 'Head: vendue|Entry: 1425 [Vendue]|#item-369989edd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/921,2098,455,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658521490
+sort_value: '304922098'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1806,1292,524,254/150,/0/default.jpg
-label: tricks
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/921,2098,455,100/150,/0/default.jpg
+label: vendue
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '200'
+order: '261'
 layout: index_item
 collection: index5
 ---

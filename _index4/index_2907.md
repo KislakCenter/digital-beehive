@@ -1,10 +1,12 @@
 ---
 pid: index_2907
 volume: Volume 3
-image_number: '34'
-head: passion of Xst
-entry: "<a href='/digital-beehive/alpha4/alpha_0691/'>a</a>|<a href='/digital-beehive/num4/num_1331/'>998
-  [Passion or Suffering of Xst]</a>"
+image_number: '35'
+head: perfection
+entry: "<a href='/digital-beehive/alpha4/alpha_0702/'>a</a>|<a href='/digital-beehive/num1/num_0061/'>60
+  [Perfection]</a>|<a href='/digital-beehive/num3/num_0726/'>569 [Perfection from
+  Sin]</a>|<a href='/digital-beehive/num5/num_1462/'>1084 [Perfection]</a>|<a href='/digital-beehive/num8/num_2683/'>1753
+  [Sinless Perfection]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +14,20 @@ add:
 xref:
 see:
 index:
-item: "#item-8d8b0c045"
+item: "#item-7937d5a2c"
 unparsed:
-line: 'Head: passion of Xst|Entry: a|Entry: 998 [Passion or Suffering of Xst]|#item-8d8b0c045'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1838,686,711,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495037926
-sort_value: '303430686'
+line: 'Head: perfection|Entry: a|Entry: 60 [Perfection]|Entry: 569 [Perfection from
+  Sin]|Entry: 1084 [Perfection]|Entry: 1753 [Sinless Perfection]|#item-7937d5a2c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/107,2154,823,194/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973052618
+sort_value: '303512154'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1838,686,711,159/150,/0/default.jpg
-label: passion of Xst
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/107,2154,823,194/150,/0/default.jpg
+label: perfection
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0155'
+order: '0199'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: 799 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index4/index_3621/'>Self love</a>"
+index: "<a href='/digital-beehive/index4/index_3565/'>Self love</a>"
 item: "#item-50089957d"
 unparsed:
 line: 'Entry: Self love|Topic: Self love|Xref: 799 [PAGE_MISSING]|Index: Self love|#item-50089957d'

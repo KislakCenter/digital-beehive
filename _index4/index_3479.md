@@ -1,10 +1,9 @@
 ---
 pid: index_3479
 volume: Volume 3
-image_number: '40'
-head: Sacramt
-entry: "<a href='/digital-beehive/alpha4/alpha_0825/'>a</a>|<a href='/digital-beehive/num9/num_2968/'>2033
-  [Sacramts]</a>"
+image_number: '41'
+head: to scald
+entry: "<a href='/digital-beehive/num3/num_0933/'>672 [To Burn]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-04b1fa71a"
+item: "#item-58f555fa2"
 unparsed:
-line: 'Head: Sacramt|Entry: a|Entry: 2033 [Sacramts]|#item-04b1fa71a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1812,1281,571,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234654837
-sort_value: '304031281'
+line: 'Head: to scald|Entry: 672 [To Burn]|#item-58f555fa2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/140,2871,442,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240061130
+sort_value: '304112871'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1812,1281,571,116/150,/0/default.jpg
-label: Sacramt
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/140,2871,442,160/150,/0/default.jpg
+label: to scald
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0727'
+order: '0771'
 layout: index_item
 collection: index4
 ---

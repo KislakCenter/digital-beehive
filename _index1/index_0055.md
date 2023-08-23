@@ -2,8 +2,8 @@
 pid: index_0055
 volume: Volume 3
 image_number: '7'
-head: "[AE]sop"
-entry: "<a href='/digital-beehive/num2/num_0349/'>305 [[AE]sop]</a>"
+head: "[ae]tna"
+entry: "<a href='/digital-beehive/num1/num_0171/'>163 [Mountain]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-c2b701dde"
+item: "#item-044279208"
 unparsed:
-line: 'Head: [AE]sop|Entry: 305 [[AE]sop]|#item-c2b701dde'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/905,1262,331,103/full/0/default.jpg
+line: 'Head: [ae]tna|Entry: 163 [Mountain]|#item-044279208'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,1321,370,69/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765812501
-sort_value: '300721262'
+annotation_uri: http://dev.llgc.org.uk/annotation/1491192728859
+sort_value: '300721321'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/905,1262,331,103/150,/0/default.jpg
-label: "[AE]sop"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,1321,370,69/150,/0/default.jpg
+label: "[ae]tna"
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0054'
 layout: index_item
 collection: index1

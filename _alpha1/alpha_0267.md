@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0168/'>161 [Drunkeness]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1162/'>drunken[n]ess</a>"
+index: "<a href='/digital-beehive/index1/index_1142/'>drunken[n]ess</a>"
 item: "#item-18aa7dc9f"
 unparsed:
 line: 'Entry: Drunkeness|Topic: Drunkeness|Xref: 161 [Drunkeness]|Index: drunken[n]ess|#item-18aa7dc9f'

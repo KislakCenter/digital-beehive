@@ -1,9 +1,9 @@
 ---
 pid: index_2700
 volume: Volume 3
-image_number: '32'
-head: new york
-entry: "<a href='/digital-beehive/num7/num_2259/'>1523 [New York]</a>"
+image_number: '33'
+head: now
+entry: "<a href='/digital-beehive/num4/num_1165/'>897 [Now]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-480f892c5"
+item: "#item-a37684d0f"
 unparsed:
-line: 'Head: new york|Entry: 1523 [New York]|#item-480f892c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1122,2225,460,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442568651
-sort_value: '303222225'
+line: 'Head: now|Entry: 897 [Now]|#item-a37684d0f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/172,263,392,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536332993884
+sort_value: '303310263'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1122,2225,460,145/150,/0/default.jpg
-label: new york
-location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/172,263,392,120/150,/0/default.jpg
+label: now
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '782'
+order: '815'
 layout: index_item
 collection: index3
 ---

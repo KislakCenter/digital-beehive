@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3474/'>rust</a>"
+index: "<a href='/digital-beehive/index4/index_3421/'>rust</a>"
 item: "#item-44da30ab4"
 unparsed:
 line: 'Entry: Rust|Topic: Rust|Index: rust|#item-44da30ab4'

@@ -1,9 +1,9 @@
 ---
 pid: index_3948
 volume: Volume 3
-image_number: '45'
-head: stuffs to wear
-entry: "<a href='/digital-beehive/num6/num_2019/'>1404 [Stuffs to wear]</a>"
+image_number: '46'
+head: surreptitious
+entry: 4737 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1e57298cd"
+item: "#item-bcb8f463e"
 unparsed:
-line: 'Head: stuffs to wear|Entry: 1404 [Stuffs to wear]|#item-1e57298cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1588,268,634,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530466983914
-sort_value: '304530268'
+line: 'Head: surreptitious|Entry: 4737 [PAGE_MISSING]|#item-bcb8f463e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1102,503,562,80/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531684247657
+sort_value: '304620503'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1588,268,634,135/150,/0/default.jpg
-label: stuffs to wear
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1102,503,562,80/150,/0/default.jpg
+label: surreptitious
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1196'
+order: '1240'
 layout: index_item
 collection: index4
 ---

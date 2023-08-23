@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1103/'>872 [Promise]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3188/'>promise</a>"
+index: "<a href='/digital-beehive/index4/index_3138/'>promise</a>"
 item: "#item-37b8c35f1"
 unparsed:
 line: 'Entry: Promise|Topic: Promise|Xref: 872 [Promise]|Index: promise|#item-37b8c35f1'

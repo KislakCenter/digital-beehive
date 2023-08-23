@@ -1,30 +1,29 @@
 ---
 pid: index_4502
 volume: Volume 3
-image_number: '52'
-head: weasel
-entry:
+image_number: '53'
+head: false wit
+entry: 4562 [PAGE_MISSING]
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-04eaaf75c"
+item: "#item-547fd237d"
 unparsed:
-line: 'Head: weasel|Page: p.34 [Image 1.94]|#item-04eaaf75c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/448,2773,469,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961126653
-sort_value: '305212773'
+line: 'Head: false wit|Entry: 4562 [PAGE_MISSING]|#item-547fd237d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/195,1429,485,86/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792050115
+sort_value: '305311429'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/448,2773,469,160/150,/0/default.jpg
-label: weasel
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/195,1429,485,86/150,/0/default.jpg
+label: false wit
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '464'
+order: '525'
 layout: index_item
 collection: index5
 ---

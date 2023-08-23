@@ -2,9 +2,8 @@
 pid: index_4080
 volume: Volume 3
 image_number: '47'
-head: temperance
-entry: "<a href='/digital-beehive/alpha5/alpha_0946/'>a</a>|<a href='/digital-beehive/num6/num_1760/'>1269
-  [Temperance]</a>"
+head: thumb
+entry:
 topic:
 first_letter: T
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3b1a668dc"
+item: "#item-00870319d"
 unparsed:
-line: 'Head: temperance|Entry: a|Entry: 1269 [Temperance]|#item-3b1a668dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/190,1378,538,124/full/0/default.jpg
+line: 'Head: thumb|#item-00870319d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1598,908,254,58/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528921542638
-sort_value: '304711378'
+annotation_uri: http://dev.llgc.org.uk/annotation/1552667189818
+sort_value: '304730908'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/190,1378,538,124/150,/0/default.jpg
-label: temperance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1598,908,254,58/150,/0/default.jpg
+label: thumb
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '042'
+order: '103'
 layout: index_item
 collection: index5
 ---

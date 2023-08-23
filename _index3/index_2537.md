@@ -2,8 +2,8 @@
 pid: index_2537
 volume: Volume 3
 image_number: '31'
-head: miser
-entry: 727 [PAGE_MISSING]
+head: moral law
+entry: "<a href='/digital-beehive/num8/num_2749/'>1815 [Moral]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-519026337"
+item: "#item-1e2e54727"
 unparsed:
-line: 'Head: miser|Entry: 727 [PAGE_MISSING]|#item-519026337'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,591,376,166/full/0/default.jpg
+line: 'Head: moral law|Entry: 1815 [Moral]|#item-1e2e54727'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/851,1729,416,74/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350962230
-sort_value: '303110591'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355836700
+sort_value: '303121729'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,591,376,166/150,/0/default.jpg
-label: miser
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/851,1729,416,74/150,/0/default.jpg
+label: moral law
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '619'
+order: '652'
 layout: index_item
 collection: index3
 ---

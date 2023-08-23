@@ -2,29 +2,29 @@
 pid: index_1615
 volume: Volume 3
 image_number: '22'
-head: to give
-entry:
+head: God's goodness
+entry: "<a href='/digital-beehive/alpha2/alpha_0370/'>a</a>|<a href='/digital-beehive/num2/num_0392/'>338
+  [Mercy]</a>|<a href='/digital-beehive/num10/num_3264/'>2299 [God's goodness]</a>"
 topic:
 first_letter: G
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1610/'>gift</a>"
+see:
 index:
-item: "#item-b0c6b6c72"
+item: "#item-88c8a70f7"
 unparsed:
-line: 'Head: to give|See: gift|#item-b0c6b6c72'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/421,2432,501,170/full/0/default.jpg
+line: 'Head: God''s goodness|Entry: a|Entry: 338 [Mercy]|Entry: 2299 [God''s goodness]|#item-88c8a70f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1171,1893,705,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043744966
-sort_value: '302212432'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047383271
+sort_value: '302221893'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/421,2432,501,170/150,/0/default.jpg
-label: to give
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1171,1893,705,128/150,/0/default.jpg
+label: God's goodness
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '434'
+order: '456'
 layout: index_item
 collection: index2
 ---

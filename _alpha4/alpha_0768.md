@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Christianity</a>|<a href='/
   href='/digital-beehive/num5/num_1412/'>1053 [Objections agt. the Quakers answered]</a>|<a
   href='/digital-beehive/num1/num_0226/'>214 [Quakers]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3246/'>Quakers</a>"
+index: "<a href='/digital-beehive/index4/index_3196/'>Quakers</a>"
 item: "#item-6908449d1"
 unparsed:
 line: 'Entry: Quaker|Topic: Quaker|Xref: Christianity|Xref: Saints|Xref: 1053 [Objections

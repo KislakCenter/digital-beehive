@@ -1,30 +1,29 @@
 ---
 pid: index_2113
 volume: Volume 3
-image_number: '26'
-head: joy after sorrow
-entry: "<a href='/digital-beehive/num1/num_0004/'>4 [After Sowre comes the Sweet]</a>"
+image_number: '27'
+head: Geo. Keith
+entry: "<a href='/digital-beehive/num5/num_1395/'>1042 [George Keith]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7e0aa4c3f"
+item: "#item-4c77a0a5a"
 unparsed:
-line: 'Head: joy after sorrow|Entry: 4 [After Sowre comes the Sweet]|#item-7e0aa4c3f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1837,3125,521,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754720433
-sort_value: '302633125'
+line: 'Head: Geo. Keith|Entry: 1042 [George Keith]|#item-4c77a0a5a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/100,3202,551,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759525539
+sort_value: '302713202'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1837,3125,521,143/150,/0/default.jpg
-label: joy after sorrow
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/100,3202,551,158/150,/0/default.jpg
+label: Geo. Keith
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '195'
+order: '228'
 layout: index_item
 collection: index3
 ---

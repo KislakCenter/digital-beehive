@@ -2,8 +2,8 @@
 pid: index_3414
 volume: Volume 3
 image_number: '40'
-head: rhetorick
-entry: "<a href='/digital-beehive/num2/num_0588/'>472 [Rhetorick]</a>"
+head: rules false
+entry: "<a href='/digital-beehive/num1/num_0143/'>138 [False Rules]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-aa67dac55"
+item: "#item-5fdece7e1"
 unparsed:
-line: 'Head: rhetorick|Entry: 472 [Rhetorick]|#item-aa67dac55'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/452,996,511,144/full/0/default.jpg
+line: 'Head: rules false|Entry: 138 [False Rules]|#item-5fdece7e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1133,3151,407,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231638407
-sort_value: '304010996'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234131360
+sort_value: '304023151'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/452,996,511,144/150,/0/default.jpg
-label: rhetorick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1133,3151,407,103/150,/0/default.jpg
+label: rules false
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0662'
+order: '0706'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,29 @@
 pid: index_1455
 volume: Volume 3
 image_number: '20'
-head: bonefire
-entry: "<a href='/digital-beehive/num5/num_1424/'>1058 [Bonfires]</a>"
+head: flie
+entry: "<a href='/digital-beehive/alpha2/alpha_0335/'>a</a>|<a href='/digital-beehive/num5/num_1337/'>1002
+  [Flies]</a>"
 topic:
 first_letter: F
-page:
+page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-733dd30b6"
+item: "#item-d81bbe2a3"
 unparsed:
-line: 'Head: bonefire|Entry: 1058 [Bonfires]|#item-733dd30b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1819,1028,516,232/full/0/default.jpg
+line: 'Head: flie|Page: p.36 [Image 1.96]|Entry: a|Entry: 1002 [Flies]|#item-d81bbe2a3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1804,3150,570,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613471042
-sort_value: '302031028'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562617576536
+sort_value: '302033150'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1819,1028,516,232/150,/0/default.jpg
-label: bonefire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1804,3150,570,181/150,/0/default.jpg
+label: flie
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '274'
+order: '296'
 layout: index_item
 collection: index2
 ---

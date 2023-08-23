@@ -1,9 +1,10 @@
 ---
 pid: index_0534
 volume: Volume 3
-image_number: '11'
-head: captain
-entry: "<a href='/digital-beehive/alpha1/alpha_0121/'>a</a>"
+image_number: '12'
+head: Carolina
+entry: "<a href='/digital-beehive/num3/num_0894/'>651 [Carolina]</a>|<a href='/digital-beehive/num7/num_2253/'>1520
+  [Carolina]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-71ae3b0e1"
+item: "#item-9000af069"
 unparsed:
-line: 'Head: captain|Entry: a|#item-71ae3b0e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,2854,427,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531496074850
-sort_value: '301132854'
+line: 'Head: Carolina|Entry: 651 [Carolina]|Entry: 1520 [Carolina]|#item-9000af069'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/404,575,645,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496800609
+sort_value: '301210575'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,2854,427,134/150,/0/default.jpg
-label: captain
-location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/404,575,645,114/150,/0/default.jpg
+label: Carolina
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0533'
 layout: index_item
 collection: index1

@@ -2,9 +2,8 @@
 pid: index_0378
 volume: Volume 3
 image_number: '10'
-head: bishop
-entry: "<a href='/digital-beehive/alpha1/alpha_0082/'>a</a>|<a href='/digital-beehive/num2/num_0619/'>494
-  [Bishop]</a>|<a href='/digital-beehive/num10/num_3407/'>2431 [Bishop]</a>"
+head: blanc verse
+entry: "<a href='/digital-beehive/num7/num_2379/'>1585 [Verses]</a>"
 topic:
 first_letter: B
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-22b9a14a3"
+item: "#item-42fb60a32"
 unparsed:
-line: 'Head: bishop|Entry: a|Entry: 494 [Bishop]|Entry: 2431 [Bishop]|#item-22b9a14a3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1089,1153,612,138/full/0/default.jpg
+line: 'Head: blanc verse|Entry: 1585 [Verses]|#item-42fb60a32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1090,1930,600,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531150264984
-sort_value: '301021153'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531150732751
+sort_value: '301021930'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1089,1153,612,138/150,/0/default.jpg
-label: bishop
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1090,1930,600,106/150,/0/default.jpg
+label: blanc verse
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0377'
 layout: index_item
 collection: index1

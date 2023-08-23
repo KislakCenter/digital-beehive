@@ -1,9 +1,9 @@
 ---
 pid: index_3776
 volume: Volume 3
-image_number: '43'
-head: Societies athenian S.
-entry: "<a href='/digital-beehive/num7/num_2282/'>1533 [Athenian Oracle]</a>"
+image_number: '44'
+head: spelling
+entry: "<a href='/digital-beehive/num7/num_2436/'>1612 [Spelling]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-caeceeedb"
+item: "#item-15c574158"
 unparsed:
-line: 'Head: Societies athenian S.|Entry: 1533 [Athenian Oracle]|#item-caeceeedb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1596,1898,585,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586140194
-sort_value: '304331898'
+line: 'Head: spelling|Entry: 1612 [Spelling]|#item-15c574158'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1106,1689,506,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529789825339
+sort_value: '304421689'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1596,1898,585,147/150,/0/default.jpg
-label: Societies athenian S.
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1106,1689,506,132/150,/0/default.jpg
+label: spelling
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1024'
+order: '1068'
 layout: index_item
 collection: index4
 ---

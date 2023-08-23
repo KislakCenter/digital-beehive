@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0398/'>hardning</a>|<a href='/digital-beehive/alpha4/alpha_0860/'>Selfwilledness</a>|<a
   href='/digital-beehive/alpha4/alpha_0925/'>Stubbornness</a>|743 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_2763/'>obstinacy</a>"
+index: "<a href='/digital-beehive/index4/index_2719/'>obstinacy</a>"
 item: "#item-54e99134f"
 unparsed:
 line: 'Entry: Obstinacy|Topic: Obstinacy|Xref: hardning|Xref: Selfwilledness |Xref:

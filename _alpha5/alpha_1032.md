@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0613/'>Mortifying</a>|<a href='/digital-beehive/num11/num_3583/'>4887
   [broad & small Way]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4497/'>way broad & small</a>"
+index: "<a href='/digital-beehive/index5/index_4428/'>way broad & small</a>"
 item: "#item-2a93f5b88"
 unparsed:
 line: 'Entry: Broad & small way|Topic: Broad & small way|Xref: Mortifying|Xref: 4887

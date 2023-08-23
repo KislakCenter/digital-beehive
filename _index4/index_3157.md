@@ -2,29 +2,28 @@
 pid: index_3157
 volume: Volume 3
 image_number: '37'
-head: primum mobile
-entry: "<a href='/digital-beehive/num5/num_1604/'>1176 [Heaven]</a>"
+head: protestation
+entry: "<a href='/digital-beehive/num10/num_3479/'>4491 [Protestation]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0990/'>denial</a>"
 index:
-item: "#item-c679ad477"
+item: "#item-82138d250"
 unparsed:
-line: 'Head: primum mobile|Entry: 1176 [Heaven]|#item-c679ad477'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2968,639,137/full/0/default.jpg
+line: 'Head: protestation|See: denial|Entry: 4491 [Protestation]|#item-82138d250'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1495,2043,752,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867077069
-sort_value: '303712968'
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869501978
+sort_value: '303732043'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2968,639,137/150,/0/default.jpg
-label: primum mobile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1495,2043,752,150/150,/0/default.jpg
+label: protestation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0405'
+order: '0449'
 layout: index_item
 collection: index4
 ---

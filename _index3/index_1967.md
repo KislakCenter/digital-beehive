@@ -2,29 +2,29 @@
 pid: index_1967
 volume: Volume 3
 image_number: '25'
-head: impertinent
-entry:
+head: inconsiderable
+entry: "<a href='/digital-beehive/num1/num_0239/'>224 [Considerable]</a>|<a href='/digital-beehive/num3/num_0765/'>589
+  [Base]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0018/'>absurd</a>"
+see:
 index:
-item: "#item-3b05e5804"
+item: "#item-366d8ffe3"
 unparsed:
-line: 'Head: impertinent|See: absurd|#item-3b05e5804'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/873,1517,645,122/full/0/default.jpg
+line: 'Head: inconsiderable|Entry: 224 [Considerable]|Entry: 589 [Base]|#item-366d8ffe3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1582,1743,708,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665792877
-sort_value: '302521517'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671455843
+sort_value: '302531743'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/873,1517,645,122/150,/0/default.jpg
-label: impertinent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1582,1743,708,152/150,/0/default.jpg
+label: inconsiderable
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '049'
+order: '082'
 layout: index_item
 collection: index3
 ---

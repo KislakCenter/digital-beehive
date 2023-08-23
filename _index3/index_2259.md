@@ -2,8 +2,8 @@
 pid: index_2259
 volume: Volume 3
 image_number: '28'
-head: "[:39.]"
-entry:
+head: limit
+entry: 749 [PAGE_MISSING]|<a href='/digital-beehive/num8/num_2736/'>1802 [Limit]</a>
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b7d4d143e"
-unparsed: 'Type: Index|Insertion Xref: [:39.]|#item-b7d4d143e'
-line: 'Type: Index|Insertion Xref: [:39.]|#item-b7d4d143e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1658,541,244,132/full/0/default.jpg
+item: "#item-1e252a19c"
+unparsed:
+line: 'Head: limit|Entry: 749 [PAGE_MISSING]|Entry: 1802 [Limit]|#item-1e252a19c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1837,999,578,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560199433980
-sort_value: '302820541'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848655641
+sort_value: '302830999'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1658,541,244,132/150,/0/default.jpg
-label: "[:39.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1837,999,578,146/150,/0/default.jpg
+label: limit
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4707/'>lesson</a>"
-order: '341'
+order: '374'
 layout: index_item
 collection: index3
 ---

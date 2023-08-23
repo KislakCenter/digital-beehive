@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0681/'>Pardon</a>|<a href='/digital-beehive/num6/num_1936/'>1363
   [Pardon & Remission of Sins]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3358/'>remission</a>"
+index: "<a href='/digital-beehive/index4/index_3306/'>remission</a>"
 item: "#item-891f6fb74"
 unparsed:
 line: 'Entry: Remission of Sins|Topic: Remission of Sins|Xref: Pardon|Xref: 1363 [Pardon

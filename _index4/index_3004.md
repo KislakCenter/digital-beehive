@@ -1,9 +1,9 @@
 ---
 pid: index_3004
 volume: Volume 3
-image_number: '35'
-head: pigions
-entry: "<a href='/digital-beehive/num3/num_0762/'>588 [Dove]</a>"
+image_number: '36'
+head: pocket
+entry: "<a href='/digital-beehive/alpha4/alpha_0718/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2eca340da"
+item: "#item-d6d65b194"
 unparsed:
-line: 'Head: pigions|Entry: 588 [Dove]|#item-2eca340da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1533,963,737,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976154759
-sort_value: '303530963'
+line: 'Head: pocket|Entry: a|#item-d6d65b194'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/458,1943,396,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208121710
+sort_value: '303611943'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1533,963,737,126/150,/0/default.jpg
-label: pigions
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/458,1943,396,117/150,/0/default.jpg
+label: pocket
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0252'
+order: '0296'
 layout: index_item
 collection: index4
 ---

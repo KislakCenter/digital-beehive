@@ -2,9 +2,8 @@
 pid: index_2662
 volume: Volume 3
 image_number: '32'
-head: naughtiness
-entry: "<a href='/digital-beehive/alpha3/alpha_0637/'>a</a>|<a href='/digital-beehive/num6/num_2087/'>1432
-  [Naughtiness]</a>"
+head: nickname
+entry: "<a href='/digital-beehive/num1/num_0190/'>181 [Nick-name]</a>"
 topic:
 first_letter: N
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-24388fb57"
+item: "#item-527755e09"
 unparsed:
-line: 'Head: naughtiness|Entry: a|Entry: 1432 [Naughtiness]|#item-24388fb57'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/383,2259,719,170/full/0/default.jpg
+line: 'Head: nickname|Entry: 181 [Nick-name]|#item-527755e09'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1150,2949,534,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438525804
-sort_value: '303212259'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560443415103
+sort_value: '303222949'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/383,2259,719,170/150,/0/default.jpg
-label: naughtiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1150,2949,534,133/150,/0/default.jpg
+label: nickname
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '744'
+order: '777'
 layout: index_item
 collection: index3
 ---

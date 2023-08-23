@@ -2,29 +2,27 @@
 pid: index_0265
 volume: Volume 3
 image_number: '9'
-head: backbiting
-entry: "<a href='/digital-beehive/num2/num_0454/'>375 [Backbiting]</a>|<a href='/digital-beehive/num10/num_3428/'>4449
-  [Backbiting]</a>"
+head: bail
+entry:
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3939/'>surety</a>"
 index:
-item: "#item-5356062ed"
+item: "#item-636920845"
 unparsed:
-line: 'Head: backbiting|Entry: 375 [Backbiting]|Entry: 4449 [Backbiting]|#item-5356062ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/196,3290,699,130/full/0/default.jpg
+line: 'Head: bail|See: surety|#item-636920845'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/891,459,481,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504210985250
-sort_value: '300913290'
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403306784
+sort_value: '300920459'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/196,3290,699,130/150,/0/default.jpg
-label: backbiting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/891,459,481,126/150,/0/default.jpg
+label: bail
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0264'
 layout: index_item
 collection: index1

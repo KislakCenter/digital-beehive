@@ -1,30 +1,29 @@
 ---
 pid: index_4062
 volume: Volume 3
-image_number: '46'
-head: tart
-entry:
+image_number: '47'
+head: thorns
+entry: "<a href='/digital-beehive/num3/num_0822/'>615 [Thorns]</a>"
 topic:
 first_letter: T
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4334/'>vinegar</a>"
+see:
 index:
-item: "#item-1355497d2"
+item: "#item-e47f21517"
 unparsed:
-line: 'Head: tart|See: vinegar|#item-1355497d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1820,2854,463,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743482790
-sort_value: '304632854'
+line: 'Head: thorns|Entry: 615 [Thorns]|#item-e47f21517'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/903,2413,311,89/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532722912496
+sort_value: '304722413'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1820,2854,463,98/150,/0/default.jpg
-label: tart
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/903,2413,311,89/150,/0/default.jpg
+label: thorns
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '024'
+order: '085'
 layout: index_item
 collection: index5
 ---

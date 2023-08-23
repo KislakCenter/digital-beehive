@@ -2,29 +2,28 @@
 pid: index_0731
 volume: Volume 3
 image_number: '13'
-head: comet
-entry: "<a href='/digital-beehive/alpha1/alpha_0157/'>a</a>|<a href='/digital-beehive/num7/num_2603/'>1690
-  [Comet]</a>"
+head: common prayer
+entry: "<a href='/digital-beehive/num2/num_0286/'>259 [Com[m]on Prayer Book]</a>|<a
+  href='/digital-beehive/num10/num_3429/'>4449 [Common Prayer's]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_078/'>p.28 [Image 1.88]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-ac684d5bf"
+item: "#item-4c13d7eec"
 unparsed:
-line: 'Head: comet|Page: p.28 [Image 1.88]|Entry: a|Entry: 1690 [Comet]|#item-ac684d5bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1535,1372,691,136/full/0/default.jpg
+line: 'Head: common prayer|Entry: 259 [Com[m]on Prayer Book]|Entry: 4449 [Common Prayer''s]|#item-4c13d7eec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1543,2609,660,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610685291
-sort_value: '301331372'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611950885
+sort_value: '301332609'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1535,1372,691,136/150,/0/default.jpg
-label: comet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1543,2609,660,111/150,/0/default.jpg
+label: common prayer
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0730'
 layout: index_item
 collection: index1

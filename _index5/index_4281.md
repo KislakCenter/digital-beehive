@@ -1,30 +1,29 @@
 ---
 pid: index_4281
 volume: Volume 3
-image_number: '49'
-head: tyger
-entry: "<a href='/digital-beehive/alpha5/alpha_0989/'>a</a>"
+image_number: '50'
+head: umbrella
+entry: "<a href='/digital-beehive/num3/num_0874/'>641 [an umbrage]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b3a078c2c"
+item: "#item-4e6ce3abd"
 unparsed:
-line: 'Head: tyger|Entry: a|#item-b3a078c2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,3092,325,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657269602
-sort_value: '304913092'
+line: 'Head: umbrella|Entry: 641 [an umbrage]|#item-4e6ce3abd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/494,400,454,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560871674547
+sort_value: '305010400'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,3092,325,134/150,/0/default.jpg
-label: tyger
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/494,400,454,108/150,/0/default.jpg
+label: umbrella
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '243'
+order: '304'
 layout: index_item
 collection: index5
 ---

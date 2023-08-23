@@ -1,30 +1,29 @@
 ---
 pid: index_4507
 volume: Volume 3
-image_number: '52'
-head: weaver shuttle
-entry:
+image_number: '53'
+head: within
+entry: "<a href='/digital-beehive/num3/num_0757/'>586 [Within]</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a25080fbc"
+item: "#item-80c18a1dc"
 unparsed:
-line: 'Head: weaver shuttle|Page: p.38 [Image 1.98]|#item-a25080fbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/468,3322,545,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961253987
-sort_value: '305213322'
+line: 'Head: within|Entry: 586 [Within]|#item-80c18a1dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/191,1983,410,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792496177
+sort_value: '305311983'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/468,3322,545,122/150,/0/default.jpg
-label: weaver shuttle
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/191,1983,410,95/150,/0/default.jpg
+label: within
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '469'
+order: '530'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,29 @@
 pid: index_4257
 volume: Volume 3
 image_number: '49'
-head: truth from ye pulpits
-entry: "<a href='/digital-beehive/num3/num_0665/'>530 [Truths from the pulpit]</a>"
+head: victory
+entry: "<a href='/digital-beehive/alpha5/alpha_0996/'>a</a>|<a href='/digital-beehive/num5/num_1702/'>1235
+  [Victory]</a>|4661 [PAGE_MISSING]"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4690add9c"
+item: "#item-f6bfbfcb5"
 unparsed:
-line: 'Head: truth from ye pulpits|Entry: 530 [Truths from the pulpit]|#item-4690add9c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/220,345,628,122/full/0/default.jpg
+line: 'Head: victory|Entry: a|Entry: 1235 [Victory]|Entry: 4661 [PAGE_MISSING]|#item-f6bfbfcb5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,764,683,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655233947
-sort_value: '304910345'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659711020
+sort_value: '304930764'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/220,345,628,122/150,/0/default.jpg
-label: truth from ye pulpits
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,764,683,106/150,/0/default.jpg
+label: victory
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '219'
+order: '280'
 layout: index_item
 collection: index5
 ---

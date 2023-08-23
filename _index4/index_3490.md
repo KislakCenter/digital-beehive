@@ -1,9 +1,10 @@
 ---
 pid: index_3490
 volume: Volume 3
-image_number: '40'
-head: saffron
-entry: "<a href='/digital-beehive/num7/num_2512/'>1646 [Saffron]</a>"
+image_number: '41'
+head: schism
+entry: "<a href='/digital-beehive/num3/num_0635/'>505 [Sect]</a>|<a href='/digital-beehive/num6/num_1955/'>1373
+  [Sects]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1e0b6d8d8"
+item: "#item-d4b71e864"
 unparsed:
-line: 'Head: saffron|Entry: 1646 [Saffron]|#item-1e0b6d8d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1828,2393,432,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235120350
-sort_value: '304032393'
+line: 'Head: schism|Entry: 505 [Sect]|Entry: 1373 [Sects]|#item-d4b71e864'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/837,894,633,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240409266
+sort_value: '304120894'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1828,2393,432,103/150,/0/default.jpg
-label: saffron
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/837,894,633,132/150,/0/default.jpg
+label: schism
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0738'
+order: '0782'
 layout: index_item
 collection: index4
 ---

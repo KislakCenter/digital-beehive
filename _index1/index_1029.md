@@ -2,8 +2,9 @@
 pid: index_1029
 volume: Volume 3
 image_number: '16'
-head: destruction
-entry: 744 [PAGE_MISSING]
+head: difficulty
+entry: "<a href='/digital-beehive/alpha1/alpha_0238/'>a</a>|<a href='/digital-beehive/num1/num_0103/'>100
+  [Difficulty]</a>|<a href='/digital-beehive/num6/num_1799/'>1290 [Difficulty]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-11707f99d"
+item: "#item-b14e8ba3b"
 unparsed:
-line: 'Head: destruction|Entry: 744 [PAGE_MISSING]|#item-11707f99d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1062,3131,613,148/full/0/default.jpg
+line: 'Head: difficulty|Entry: a|Entry: 100 [Difficulty]|Entry: 1290 [Difficulty]|#item-b14e8ba3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1855,1532,701,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605248959
-sort_value: '301623131'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923797564
+sort_value: '301631532'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1062,3131,613,148/150,/0/default.jpg
-label: destruction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1855,1532,701,113/150,/0/default.jpg
+label: difficulty
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1028'
 layout: index_item
 collection: index1

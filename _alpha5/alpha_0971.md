@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0892/'>Slowness</a>|<a href='/digital-beehive/num1/num_0020/'>20
   [Too late]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4183/'>too slow or quick</a>"
+index: "<a href='/digital-beehive/index5/index_4120/'>too slow or quick</a>"
 item: "#item-5bc71e62e"
 unparsed:
 line: 'Entry: Too slow or quick|Topic: Too slow or quick|Xref: Slowness|Xref: 20 [Too

@@ -1,10 +1,9 @@
 ---
 pid: index_4067
 volume: Volume 3
-image_number: '46'
-head: tautology
-entry: "<a href='/digital-beehive/alpha5/alpha_0942/'>a</a>|<a href='/digital-beehive/num5/num_1486/'>1097
-  [Tautology]</a>"
+image_number: '47'
+head: thread
+entry: "<a href='/digital-beehive/num5/num_1545/'>1136 [Thread]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-170679ed3"
+item: "#item-089e24d6e"
 unparsed:
-line: 'Head: tautology|Entry: a|Entry: 1097 [Tautology]|#item-170679ed3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1784,3243,593,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528984784363
-sort_value: '304633243'
+line: 'Head: thread|Entry: 1136 [Thread]|#item-089e24d6e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/896,3039,347,85/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532876694360
+sort_value: '304723039'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1784,3243,593,130/150,/0/default.jpg
-label: tautology
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/896,3039,347,85/150,/0/default.jpg
+label: thread
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '029'
+order: '090'
 layout: index_item
 collection: index5
 ---

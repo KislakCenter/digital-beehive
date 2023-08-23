@@ -1,29 +1,28 @@
 ---
 pid: index_0427
 volume: Volume 3
-image_number: '10'
-head: bowels
-entry:
+image_number: '11'
+head: branded
+entry: "<a href='/digital-beehive/num3/num_1031/'>707 [Branded]</a>"
 topic:
 first_letter: B
 page:
 add:
 xref:
-see: 802 [PAGE_MISSING]
+see:
 index:
-item: "#item-2e56261dc"
+item: "#item-38a49bfd6"
 unparsed:
-line: 'Head: bowels|See: 802 [PAGE_MISSING]|#item-2e56261dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3064,464,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417083596
-sort_value: '301033064'
+line: 'Head: branded|Entry: 707 [Branded]|#item-38a49bfd6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/163,489,450,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417585827
+sort_value: '301110489'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3064,464,125/150,/0/default.jpg
-label: bowels
-location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/163,489,450,138/150,/0/default.jpg
+label: branded
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0426'
 layout: index_item
 collection: index1

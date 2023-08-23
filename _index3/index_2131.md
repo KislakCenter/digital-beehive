@@ -2,31 +2,28 @@
 pid: index_2131
 volume: Volume 3
 image_number: '27'
-head: judge
-entry: "<a href='/digital-beehive/alpha3/alpha_0496/'>a</a>|<a href='/digital-beehive/num7/num_2526/'>1652
-  [Judge]</a>|4517 [PAGE_MISSING]"
+head: kitchin stuff
+entry: "<a href='/digital-beehive/num6/num_2161/'>1469 [To a kitchin belongs]</a>"
 topic:
-first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+first_letter: K
+page:
 add:
 xref:
 see:
 index:
-item: "#item-581b8b4f9"
+item: "#item-5080e0ede"
 unparsed:
-line: 'Head: judge|Page: p.42 [Image 1.102]|Entry: a|Entry: 1652 [Judge]|Entry: 4517
-  [PAGE_MISSING]|#item-581b8b4f9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/125,1504,734,128/full/0/default.jpg
+line: 'Head: kitchin stuff|Entry: 1469 [To a kitchin belongs]|#item-5080e0ede'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/847,1642,427,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559757511905
-sort_value: '302711504'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762199160
+sort_value: '302721642'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/125,1504,734,128/150,/0/default.jpg
-label: judge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/847,1642,427,138/150,/0/default.jpg
+label: kitchin stuff
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '213'
+order: '246'
 layout: index_item
 collection: index3
 ---

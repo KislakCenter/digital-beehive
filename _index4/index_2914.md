@@ -1,31 +1,31 @@
 ---
 pid: index_2914
 volume: Volume 3
-image_number: '34'
-head: pasture
-entry: "<a href='/digital-beehive/num4/num_1116/'>878 [Pasture]</a>|<a href='/digital-beehive/num9/num_3093/'>2151
-  [Grass & Pasture]</a>"
+image_number: '35'
+head: periwig
+entry: "<a href='/digital-beehive/num6/num_1882/'>1337 [Hair & Perriwigs]</a>|<a href='/digital-beehive/num10/num_3396/'>2422
+  [Hair & Periwigs]</a>"
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1706/'>hair</a>"
 index:
-item: "#item-3192019d5"
+item: "#item-6d1102818"
 unparsed:
-line: 'Head: pasture|Entry: 878 [Pasture]|Entry: 2151 [Grass & Pasture]|#item-3192019d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1803,1399,659,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495251815
-sort_value: '303431399'
+line: 'Head: periwig|Page: p.43 [Image 1.103]|See: hair|Entry: 1337 [Hair & Perriwigs]|Entry:
+  2422 [Hair & Periwigs]|#item-6d1102818'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/164,3086,707,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973267822
+sort_value: '303513086'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1803,1399,659,163/150,/0/default.jpg
-label: pasture
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/164,3086,707,145/150,/0/default.jpg
+label: periwig
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0162'
+order: '0206'
 layout: index_item
 collection: index4
 ---

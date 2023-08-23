@@ -1,31 +1,30 @@
 ---
 pid: index_3643
 volume: Volume 3
-image_number: '42'
-head: sermon
-entry: "<a href='/digital-beehive/num6/num_2032/'>1409 [a Sermon]</a>|<a href='/digital-beehive/num10/num_3463/'>4475
-  [Sermon]</a>"
+image_number: '43'
+head: sighs
+entry: "<a href='/digital-beehive/alpha4/alpha_0875/'>a</a>|<a href='/digital-beehive/num7/num_2668/'>1740
+  [Sighe]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-796f171f1"
+item: "#item-a8263e53e"
 unparsed:
-line: 'Head: sermon|Entry: 1409 [a Sermon]|Entry: 4475 [Sermon]|#item-796f171f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1119,812,689,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573737796
-sort_value: '304220812'
+line: 'Head: sighs|Page: p.42 [Image 1.102]|Entry: a|Entry: 1740 [Sighe]|#item-a8263e53e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/187,538,632,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577578496
+sort_value: '304310538'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1119,812,689,132/150,/0/default.jpg
-label: sermon
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/187,538,632,170/150,/0/default.jpg
+label: sighs
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0891'
+order: '0935'
 layout: index_item
 collection: index4
 ---

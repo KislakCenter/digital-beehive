@@ -1,31 +1,29 @@
 ---
 pid: index_4230
 volume: Volume 3
-image_number: '48'
-head: trees
-entry: "<a href='/digital-beehive/alpha5/alpha_0984/'>a</a>|<a href='/digital-beehive/num7/num_2517/'>1648
-  [Trees]</a>"
+image_number: '49'
+head: vapours
+entry: "<a href='/digital-beehive/num2/num_0462/'>383 [Clouds]</a>"
 topic:
-first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+first_letter: U/V
+page:
 add:
 xref:
 see:
 index:
-item: "#item-2a5498cf1"
+item: "#item-79dc08984"
 unparsed:
-line: 'Head: trees|Page: p.32 [Image 1.92]|Entry: a|Entry: 1648 [Trees]|#item-2a5498cf1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1778,693,673,157/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562087658971
-sort_value: '304830693'
+line: 'Head: vapours|Entry: 383 [Clouds]|#item-79dc08984'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/946,1418,432,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657867889
+sort_value: '304921418'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1778,693,673,157/150,/0/default.jpg
-label: trees
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/946,1418,432,108/150,/0/default.jpg
+label: vapours
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '192'
+order: '253'
 layout: index_item
 collection: index5
 ---

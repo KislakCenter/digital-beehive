@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>alms</a>|<a href='/digital-
   href='/digital-beehive/alpha1/alpha_0101/'>Bribe</a>|<a href='/digital-beehive/num3/num_0636/'>506
   [Gift]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1610/'>gift</a>"
+index: "<a href='/digital-beehive/index2/index_1583/'>gift</a>"
 item: "#item-a7f1c4050"
 unparsed:
 line: 'Entry: Gift|Topic: Gift|Xref: alms|Xref: liberality|Xref: Bribe|Xref: 506 [Gift]|Index:

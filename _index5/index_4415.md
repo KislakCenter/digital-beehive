@@ -1,30 +1,29 @@
 ---
 pid: index_4415
 volume: Volume 3
-image_number: '51'
-head: unseemly
-entry: "<a href='/digital-beehive/num3/num_1033/'>709 [Unseemly]</a>"
+image_number: '52'
+head: washing of feet
+entry: "<a href='/digital-beehive/alpha5/alpha_1028/'>a</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e53ed72cd"
+item: "#item-07b2fd919"
 unparsed:
-line: 'Head: unseemly|Entry: 709 [Unseemly]|#item-e53ed72cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/199,1102,536,182/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645499386
-sort_value: '305111102'
+line: 'Head: washing of feet|Entry: a|#item-07b2fd919'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/481,442,442,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960071824
+sort_value: '305210442'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/199,1102,536,182/150,/0/default.jpg
-label: unseemly
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/481,442,442,123/150,/0/default.jpg
+label: washing of feet
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '377'
+order: '438'
 layout: index_item
 collection: index5
 ---

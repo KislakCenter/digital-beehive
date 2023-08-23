@@ -2,8 +2,8 @@
 pid: index_2646
 volume: Volume 3
 image_number: '32'
-head: "[:7.]"
-entry:
+head: nevertheless
+entry: 857 [PAGE_MISSING]|<a href='/digital-beehive/num4/num_1297/'>973 [Not withstanding]</a>
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e9ecca89a"
-unparsed: 'Type: Index|Insertion Xref: [:7.]|#item-e9ecca89a'
-line: 'Type: Index|Insertion Xref: [:7.]|#item-e9ecca89a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/975,1076,185,143/full/0/default.jpg
+item: "#item-3d22f323f"
+unparsed:
+line: 'Head: nevertheless|Entry: 857 [PAGE_MISSING]|Entry: 973 [Not withstanding]|#item-3d22f323f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1145,1256,645,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437536192
-sort_value: '303211076'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442162372
+sort_value: '303221256'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/975,1076,185,143/150,/0/default.jpg
-label: "[:7.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1145,1256,645,137/150,/0/default.jpg
+label: nevertheless
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4670/'>national Constitutions</a>"
-order: '728'
+order: '761'
 layout: index_item
 collection: index3
 ---

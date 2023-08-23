@@ -1,9 +1,10 @@
 ---
 pid: index_4529
 volume: Volume 3
-image_number: '52'
-head: whereas
-entry: 860 [PAGE_MISSING]
+image_number: '53'
+head: wonder
+entry: "<a href='/digital-beehive/alpha5/alpha_1054/'>a</a>|<a href='/digital-beehive/num6/num_2062/'>1423
+  [Wonder]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-618821249"
+item: "#item-d8d033f7a"
 unparsed:
-line: 'Head: whereas|Entry: 860 [PAGE_MISSING]|#item-618821249'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1062,3039,524,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560970012560
-sort_value: '305223039'
+line: 'Head: wonder|Entry: a|Entry: 1423 [Wonder]|#item-d8d033f7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,1037,517,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796197843
+sort_value: '305321037'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1062,3039,524,138/150,/0/default.jpg
-label: whereas
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,1037,517,109/150,/0/default.jpg
+label: wonder
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '491'
+order: '552'
 layout: index_item
 collection: index5
 ---

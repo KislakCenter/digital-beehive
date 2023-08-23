@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1337/'>1002 [Flies]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1480/'>flie</a>"
+index: "<a href='/digital-beehive/index2/index_1455/'>flie</a>"
 item: "#item-4b9a56ee5"
 unparsed:
 line: 'Entry: Flies|Topic: Flies|Xref: 1002 [Flies]|Index: flie|#item-4b9a56ee5'

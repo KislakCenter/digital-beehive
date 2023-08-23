@@ -2,9 +2,8 @@
 pid: index_3722
 volume: Volume 3
 image_number: '43'
-head: sin always
-entry: "<a href='/digital-beehive/num7/num_2624/'>1700 [Continuance]</a>|<a href='/digital-beehive/num10/num_3402/'>2427
-  [Sin as long as we live]</a>"
+head: Socrates
+entry: "<a href='/digital-beehive/num5/num_1550/'>1140 [Socrates]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-62cda65a6"
+item: "#item-8e3ea6c29"
 unparsed:
-line: 'Head: sin always|Entry: 1700 [Continuance]|Entry: 2427 [Sin as long as we live]|#item-62cda65a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/178,3178,737,129/full/0/default.jpg
+line: 'Head: Socrates|Entry: 1140 [Socrates]|#item-8e3ea6c29'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1597,2235,508,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582631573
-sort_value: '304313178'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586243745
+sort_value: '304332235'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/178,3178,737,129/150,/0/default.jpg
-label: sin always
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1597,2235,508,124/150,/0/default.jpg
+label: Socrates
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0970'
+order: '1014'
 layout: index_item
 collection: index4
 ---

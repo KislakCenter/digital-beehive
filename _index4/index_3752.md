@@ -1,9 +1,9 @@
 ---
 pid: index_3752
 volume: Volume 3
-image_number: '43'
-head: slippery
-entry: 821 [PAGE_MISSING]
+image_number: '44'
+head: soul of Christ
+entry: "<a href='/digital-beehive/num6/num_2119/'>1448 [Soul of Christ]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ec978f1cd"
+item: "#item-b16d8059d"
 unparsed:
-line: 'Head: slippery|Entry: 821 [PAGE_MISSING]|#item-ec978f1cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/898,2562,556,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584705593
-sort_value: '304322562'
+line: 'Head: soul of Christ|Entry: 1448 [Soul of Christ]|#item-b16d8059d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/560,2465,510,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529705359633
+sort_value: '304412465'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/898,2562,556,123/150,/0/default.jpg
-label: slippery
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/560,2465,510,102/150,/0/default.jpg
+label: soul of Christ
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1000'
+order: '1044'
 layout: index_item
 collection: index4
 ---

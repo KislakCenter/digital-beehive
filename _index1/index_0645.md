@@ -1,32 +1,31 @@
 ---
 pid: index_0645
 volume: Volume 3
-image_number: '12'
-head: Christ
-entry: "<a href='/digital-beehive/alpha1/alpha_0147/'>a</a>|<a href='/digital-beehive/num2/num_0298/'>266
-  [Christ]</a>|<a href='/digital-beehive/num3/num_0659/'>526 [Xst Jesus]</a>|<a href='/digital-beehive/num5/num_1400/'>1046
-  [Christ]</a>|<a href='/digital-beehive/num6/num_1933/'>1361 [Christ Jesus]</a>"
+image_number: '13'
+head: church
+entry: "<a href='/digital-beehive/alpha1/alpha_0150/'>a</a>|<a href='/digital-beehive/num1/num_0223/'>211
+  [Church]</a>|<a href='/digital-beehive/num5/num_1378/'>1030 [Church]</a>|<a href='/digital-beehive/num6/num_1946/'>1369
+  [Church of Christ]</a>|4721 [PAGE_MISSING]"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_096/'>p.46 [Image 1.106]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-1ec82c400"
+item: "#item-a8bc1fa87"
 unparsed:
-line: 'Head: Christ|Page: p.46 [Image 1.106]|Entry: a|Entry: 266 [Christ]|Entry: 526
-  [Xst Jesus]|Entry: 1046 [Christ]|Entry: 1361 [Christ Jesus]|#item-1ec82c400'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1823,3371,675,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532461900579
-sort_value: '301233371'
+line: 'Head: church|Entry: a|Entry: 211 [Church]|Entry: 1030 [Church]|Entry: 1369
+  [Church of Christ]|Entry: 4721 [PAGE_MISSING]|#item-a8bc1fa87'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/163,1251,672,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532619513806
+sort_value: '301311251'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1823,3371,675,168/150,/0/default.jpg
-label: Christ
-location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/163,1251,672,133/150,/0/default.jpg
+label: church
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0644'
 layout: index_item
 collection: index1

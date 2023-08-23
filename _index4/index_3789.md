@@ -2,8 +2,9 @@
 pid: index_3789
 volume: Volume 3
 image_number: '44'
-head: some
-entry: "<a href='/digital-beehive/num4/num_1085/'>867 [Some]</a>"
+head: spirit
+entry: "<a href='/digital-beehive/alpha4/alpha_0907/'>a</a>|<a href='/digital-beehive/num6/num_1891/'>1341
+  [Spirits]</a>|<a href='/digital-beehive/num7/num_2488/'>1636 [Spirits]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-25305ffa2"
+item: "#item-d4e7b9645"
 unparsed:
-line: 'Head: some|Entry: 867 [Some]|#item-25305ffa2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/559,265,396,82/full/0/default.jpg
+line: 'Head: spirit|Entry: a|Entry: 1341 [Spirits]|Entry: 1636 [Spirits]|#item-d4e7b9645'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1094,3338,647,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529700638311
-sort_value: '304410265'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288875216
+sort_value: '304423338'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/559,265,396,82/150,/0/default.jpg
-label: some
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1094,3338,647,125/150,/0/default.jpg
+label: spirit
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1037'
+order: '1081'
 layout: index_item
 collection: index4
 ---

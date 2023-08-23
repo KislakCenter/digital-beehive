@@ -2,8 +2,8 @@
 pid: index_1953
 volume: Volume 3
 image_number: '25'
-head: ill name
-entry: "<a href='/digital-beehive/num1/num_0011/'>11 [Ill Name]</a>"
+head: in
+entry: "<a href='/digital-beehive/num5/num_1392/'>1040 [In]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9d636b7ee"
+item: "#item-e970114b5"
 unparsed:
-line: 'Head: ill name|Entry: 11 [Ill Name]|#item-9d636b7ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/134,3504,418,88/full/0/default.jpg
+line: 'Head: in|Entry: 1040 [In]|#item-e970114b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1585,297,332,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559663059753
-sort_value: '302513504'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669394415
+sort_value: '302530297'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/134,3504,418,88/150,/0/default.jpg
-label: ill name
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1585,297,332,88/150,/0/default.jpg
+label: in
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '035'
+order: '068'
 layout: index_item
 collection: index3
 ---

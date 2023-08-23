@@ -1,9 +1,9 @@
 ---
 pid: index_4054
 volume: Volume 3
-image_number: '46'
-head: tame
-entry: 772 [PAGE_MISSING]
+image_number: '47'
+head: thin
+entry: "<a href='/digital-beehive/num2/num_0355/'>310 [Leanness]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-8f34b17d5"
+item: "#item-22a27f0d6"
 unparsed:
-line: 'Head: tame|Entry: 772 [PAGE_MISSING]|#item-8f34b17d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1842,2025,373,84/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743030895
-sort_value: '304632025'
+line: 'Head: thin|Entry: 310 [Leanness]|#item-22a27f0d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,1640,343,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532720836176
+sort_value: '304721640'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1842,2025,373,84/150,/0/default.jpg
-label: tame
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,1640,343,138/150,/0/default.jpg
+label: thin
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '016'
+order: '077'
 layout: index_item
 collection: index5
 ---

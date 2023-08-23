@@ -2,8 +2,8 @@
 pid: index_2640
 volume: Volume 3
 image_number: '32'
-head: hard names
-entry: "<a href='/digital-beehive/num3/num_0678/'>538 [Reviling, so called]</a>"
+head: Nero
+entry: "<a href='/digital-beehive/num4/num_1283/'>961 [Nero]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5d2bdc577"
+item: "#item-c6f9f6b34"
 unparsed:
-line: 'Head: hard names|Entry: 538 [Reviling, so called]|#item-5d2bdc577'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,458,527,103/full/0/default.jpg
+line: 'Head: Nero|Entry: 961 [Nero]|#item-c6f9f6b34'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1188,775,308,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560436789645
-sort_value: '303210458'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441356161
+sort_value: '303220775'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,458,527,103/150,/0/default.jpg
-label: hard names
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1188,775,308,93/150,/0/default.jpg
+label: Nero
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '722'
+order: '755'
 layout: index_item
 collection: index3
 ---

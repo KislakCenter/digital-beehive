@@ -2,29 +2,28 @@
 pid: index_3264
 volume: Volume 3
 image_number: '38'
-head: to quiet
-entry: 1864 [PAGE_MISSING]
+head: to receive
+entry: "<a href='/digital-beehive/num6/num_2002/'>1395 [To Receive]</a>"
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-92f02a5e3"
+item: "#item-0caf0b17c"
 unparsed:
-line: 'Head: to quiet|Entry: 1864 [PAGE_MISSING]|#item-92f02a5e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1170,1278,525,96/full/0/default.jpg
+line: 'Head: to receive|Entry: 1395 [To Receive]|#item-0caf0b17c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1819,2795,638,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455252630
-sort_value: '303821278'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461972072
+sort_value: '303832795'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1170,1278,525,96/150,/0/default.jpg
-label: to quiet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1819,2795,638,172/150,/0/default.jpg
+label: to receive
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0512'
+order: '0556'
 layout: index_item
 collection: index4
 ---

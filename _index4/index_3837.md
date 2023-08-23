@@ -1,31 +1,29 @@
 ---
 pid: index_3837
 volume: Volume 3
-image_number: '44'
-head: spices
-entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>|<a href='/digital-beehive/num8/num_2855/'>1937
-  [Spices]</a>"
+image_number: '45'
+head: sterility
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0293/'>barren[n]ess</a>"
 index:
-item: "#item-730c04aab"
+item: "#item-26bd82276"
 unparsed:
-line: 'Head: spices|Entry: a|Entry: 1937 [Spices]|#item-730c04aab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1118,2272,476,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942166942
-sort_value: '304422272'
+line: 'Head: sterility|See: barren[n]ess|#item-26bd82276'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,1689,705,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290050527
+sort_value: '304511689'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1118,2272,476,112/150,/0/default.jpg
-label: spices
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,1689,705,149/150,/0/default.jpg
+label: sterility
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1085'
+order: '1129'
 layout: index_item
 collection: index4
 ---

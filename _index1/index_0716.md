@@ -2,8 +2,8 @@
 pid: index_0716
 volume: Volume 3
 image_number: '13'
-head: cokonuts
-entry: "<a href='/digital-beehive/num7/num_2240/'>1514 [Barbada or Barbuda]</a>"
+head: comely
+entry: 731 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-9f5ea84e5"
+item: "#item-62bd5d064"
 unparsed:
-line: 'Head: cokonuts|Entry: 1514 [Barbada or Barbuda]|#item-9f5ea84e5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/845,3183,452,126/full/0/default.jpg
+line: 'Head: comely|Entry: 731 [PAGE_MISSING]|#item-62bd5d064'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1554,1263,420,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536609025504
-sort_value: '301323183'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610617396
+sort_value: '301331263'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/845,3183,452,126/150,/0/default.jpg
-label: cokonuts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1554,1263,420,105/150,/0/default.jpg
+label: comely
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0715'
 layout: index_item
 collection: index1

@@ -1,30 +1,31 @@
 ---
 pid: index_3209
 volume: Volume 3
-image_number: '37'
-head: proud
-entry:
+image_number: '38'
+head: quick
+entry: "<a href='/digital-beehive/alpha4/alpha_0772/'>a</a>|<a href='/digital-beehive/num11/num_3568/'>4872
+  [Quick]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3151/'>pride</a>"
+see:
 index:
-item: "#item-92bcf0e17"
+item: "#item-5f1cbc8f4"
 unparsed:
-line: 'Head: proud|See: pride|#item-92bcf0e17'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1476,2297,525,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869546668
-sort_value: '303732297'
+line: 'Head: quick|Entry: a|Entry: 4872 [Quick]|#item-5f1cbc8f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1185,799,519,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455106178
+sort_value: '303820799'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1476,2297,525,119/150,/0/default.jpg
-label: proud
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '0457'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1185,799,519,140/150,/0/default.jpg
+label: quick
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+issue: Pastorius appears to have written 1872 under this entry. However, he likely
+  meant to write 4872 [Quick].
+order: '0501'
 layout: index_item
 collection: index4
 ---

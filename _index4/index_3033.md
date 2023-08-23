@@ -1,31 +1,29 @@
 ---
 pid: index_3033
 volume: Volume 3
-image_number: '35'
-head: planets
-entry: "<a href='/digital-beehive/alpha4/alpha_0715/'>a</a>|<a href='/digital-beehive/num6/num_2042/'>1414
-  [Seven Planets]</a>|1874 [PAGE_MISSING]"
+image_number: '36'
+head: possessed
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0988/'>demoniack</a>"
 index:
-item: "#item-95ee194f5"
+item: "#item-b1248b52a"
 unparsed:
-line: 'Head: planets|Entry: a|Entry: 1414 [Seven Planets]|Entry: 1874 [PAGE_MISSING]|#item-95ee194f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1500,3346,724,198/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977283981
-sort_value: '303533346'
+line: 'Head: possessed|See: demoniack|#item-b1248b52a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1180,1502,724,174/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438763533
+sort_value: '303621502'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1500,3346,724,198/150,/0/default.jpg
-label: planets
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1180,1502,724,174/150,/0/default.jpg
+label: possessed
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0281'
+order: '0325'
 layout: index_item
 collection: index4
 ---

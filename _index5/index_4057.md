@@ -1,9 +1,9 @@
 ---
 pid: index_4057
 volume: Volume 3
-image_number: '46'
-head: tape
-entry: "<a href='/digital-beehive/num2/num_0406/'>348 [a Band]</a>"
+image_number: '47'
+head: thirst
+entry: "<a href='/digital-beehive/alpha5/alpha_0955/'>a</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ea92a5a21"
+item: "#item-37735fce9"
 unparsed:
-line: 'Head: tape|Entry: 348 [a Band]|#item-ea92a5a21'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1834,2426,353,83/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743252839
-sort_value: '304632426'
+line: 'Head: thirst|Entry: a|#item-37735fce9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/919,1890,352,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517315139
+sort_value: '304721890'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1834,2426,353,83/150,/0/default.jpg
-label: tape
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/919,1890,352,101/150,/0/default.jpg
+label: thirst
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '019'
+order: '080'
 layout: index_item
 collection: index5
 ---

@@ -2,8 +2,9 @@
 pid: index_2480
 volume: Volume 3
 image_number: '30'
-head: memoirs
-entry: "<a href='/digital-beehive/num6/num_2051/'>1418 [Notes & Papers]</a>"
+head: mine. minerals
+entry: "<a href='/digital-beehive/alpha3/alpha_0598/'>a</a>|<a href='/digital-beehive/num9/num_3096/'>2154
+  [Mineral]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bc5a56485"
+item: "#item-4844f4227"
 unparsed:
-line: 'Head: memoirs|Entry: 1418 [Notes & Papers]|#item-bc5a56485'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1129,1781,491,104/full/0/default.jpg
+line: 'Head: mine. minerals|Entry: a|Entry: 2154 [Mineral]|#item-4844f4227'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,2248,643,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268371386
-sort_value: '303021781'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274415273
+sort_value: '303032248'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1129,1781,491,104/150,/0/default.jpg
-label: memoirs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,2248,643,137/150,/0/default.jpg
+label: mine. minerals
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '562'
+order: '595'
 layout: index_item
 collection: index3
 ---

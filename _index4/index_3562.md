@@ -1,9 +1,10 @@
 ---
 pid: index_3562
 volume: Volume 3
-image_number: '41'
-head: scriptures impro[per] express
-entry: "<a href='/digital-beehive/num3/num_1078/'>725 [Catachresis]</a>"
+image_number: '42'
+head: Self holiness
+entry: "<a href='/digital-beehive/num2/num_0340/'>300 [Self holiness, Self righteous]</a>|<a
+  href='/digital-beehive/num10/num_3442/'>4459 [Self holiness]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-88252a02a"
+item: "#item-055cdeea0"
 unparsed:
-line: 'Head: scriptures impro[per] express|Entry: 725 [Catachresis]|#item-88252a02a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,2738,636,88/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241555250
-sort_value: '304122738'
+line: 'Head: Self holiness|Entry: 300 [Self holiness, Self righteous]|Entry: 4459
+  [Self holiness]|#item-055cdeea0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/413,1580,753,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244583455
+sort_value: '304211580'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,2738,636,88/150,/0/default.jpg
-label: scriptures impro[per] express
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/413,1580,753,153/150,/0/default.jpg
+label: Self holiness
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0810'
+order: '0854'
 layout: index_item
 collection: index4
 ---

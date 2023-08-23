@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0448/'>Idolatry</a>|<a href='/digital-beehive/num4/num_1274/'>955
   [Images]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1956/'>images</a>"
+index: "<a href='/digital-beehive/index3/index_1923/'>images</a>"
 item: "#item-5c5901a59"
 unparsed:
 line: 'Entry: Images|Topic: Images|Xref: Idolatry|Xref: 955 [Images]|Index: images|#item-5c5901a59'

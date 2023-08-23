@@ -2,28 +2,27 @@
 pid: index_0483
 volume: Volume 3
 image_number: '11'
-head: "[:27.]"
-entry:
+head: butts
+entry: 4577 [PAGE_MISSING]
 topic:
-first_letter: C
+first_letter: B
 page:
 add:
 xref:
 see:
 index:
-item: "#item-dc183efb8"
-unparsed: 'Type: Index|Insertion Xref: [:27.]|#item-dc183efb8'
-line: 'Type: Index|Insertion Xref: [:27.]|#item-dc183efb8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1413,1596,152,88/full/0/default.jpg
+item: "#item-41e9c063f"
+unparsed:
+line: 'Head: butts|Entry: 4577 [PAGE_MISSING]|#item-41e9c063f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/886,2504,378,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275409261
-sort_value: '301121596'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421921068
+sort_value: '301122504'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1413,1596,152,88/150,/0/default.jpg
-label: "[:27.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/886,2504,378,103/150,/0/default.jpg
+label: butts
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4692/'>Dr. Burnet</a>"
 order: '0482'
 layout: index_item
 collection: index1

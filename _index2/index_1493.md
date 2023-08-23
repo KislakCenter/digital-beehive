@@ -2,29 +2,29 @@
 pid: index_1493
 volume: Volume 3
 image_number: '21'
-head: following
-entry: 853 [PAGE_MISSING]
+head: fort
+entry: "<a href='/digital-beehive/alpha2/alpha_0345/'>a</a>|<a href='/digital-beehive/num2/num_0338/'>298
+  [Fortress]</a>"
 topic:
 first_letter: F
 page:
-add: Imitation
+add:
 xref:
 see:
 index:
-item: "#item-c014a9ad1"
+item: "#item-e56a26260"
 unparsed:
-line: 'Head: following|Entry: 853 [PAGE_MISSING]|Add: Imitation|#item-c014a9ad1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/185,988,533,191/full/0/default.jpg
+line: 'Head: fort|Entry: a|Entry: 298 [Fortress]|#item-e56a26260'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/171,3482,468,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565622540634
-sort_value: '302110988'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531762744756
+sort_value: '302113482'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/185,988,533,191/150,/0/default.jpg
-label: following
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/171,3482,468,142/150,/0/default.jpg
+label: fort
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '312'
+order: '334'
 layout: index_item
 collection: index2
 ---

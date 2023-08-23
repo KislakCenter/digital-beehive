@@ -2,8 +2,8 @@
 pid: index_3343
 volume: Volume 3
 image_number: '39'
-head: "[:38.]"
-entry:
+head: to restrain
+entry: "<a href='/digital-beehive/num5/num_1418/'>1055 [To Restrain]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7816bd5f4"
-unparsed: 'Type: Index|Insertion Xref: [:38.]|#item-7816bd5f4'
-line: 'Type: Index|Insertion Xref: [:38.]|#item-7816bd5f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/683,2527,169,126/full/0/default.jpg
+item: "#item-4655efa18"
+unparsed:
+line: 'Head: to restrain|Entry: 1055 [To Restrain]|#item-4655efa18'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1486,2020,624,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277589841
-sort_value: '303912527'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229977216
+sort_value: '303932020'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/683,2527,169,126/150,/0/default.jpg
-label: "[:38.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1486,2020,624,156/150,/0/default.jpg
+label: to restrain
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4706/'>reign</a>"
-order: '0591'
+order: '0635'
 layout: index_item
 collection: index4
 ---

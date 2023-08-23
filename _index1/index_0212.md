@@ -2,28 +2,27 @@
 pid: index_0212
 volume: Volume 3
 image_number: '8'
-head: arrogancy
-entry:
+head: as if
+entry: "<a href='/digital-beehive/num8/num_2705/'>1773 [Lord's Supper]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3151/'>pride</a>|<a href='/digital-beehive/index4/index_3921/'>stoutness</a>"
+see:
 index:
-item: "#item-5c111e5f0"
+item: "#item-851f883ef"
 unparsed:
-line: 'Head: arrogancy|See: pride|See: stoutness|#item-5c111e5f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1799,1217,594,206/full/0/default.jpg
+line: 'Head: as if|Entry: 1773 [Lord''s Supper]|#item-851f883ef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,1892,356,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631327494
-sort_value: '300831217'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631600159
+sort_value: '300831892'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1799,1217,594,206/150,/0/default.jpg
-label: arrogancy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,1892,356,119/150,/0/default.jpg
+label: as if
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0211'
 layout: index_item
 collection: index1

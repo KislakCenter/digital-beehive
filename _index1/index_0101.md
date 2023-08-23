@@ -2,28 +2,28 @@
 pid: index_0101
 volume: Volume 3
 image_number: '7'
-head: allure
-entry:
+head: almanack
+entry: "<a href='/digital-beehive/alpha1/alpha_0021/'>a</a>|<a href='/digital-beehive/num6/num_1770/'>1275
+  [Almanack]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1273/'>enticing</a>"
+see:
 index:
-item: "#item-7cbcc64d4"
+item: "#item-514fb4554"
 unparsed:
-line: 'Head: allure|See: enticing|#item-7cbcc64d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1715,501,144/full/0/default.jpg
+line: 'Head: almanack|Entry: a|Entry: 1275 [Almanack]|#item-514fb4554'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1597,1912,568,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769857812
-sort_value: '300731715'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770090341
+sort_value: '300731912'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1715,501,144/150,/0/default.jpg
-label: allure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1597,1912,568,129/150,/0/default.jpg
+label: almanack
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0100'
 layout: index_item
 collection: index1

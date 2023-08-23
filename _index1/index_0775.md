@@ -2,28 +2,27 @@
 pid: index_0775
 volume: Volume 3
 image_number: '14'
-head: concord
-entry:
+head: conformity occasional
+entry: 1839 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4355/'>unanimity</a>"
+see:
 index:
-item: "#item-3e388510e"
+item: "#item-f911ec12c"
 unparsed:
-line: 'Head: concord|See: unanimity|#item-3e388510e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/409,2113,758,162/full/0/default.jpg
+line: 'Head: conformity occasional|Entry: 1839 [PAGE_MISSING]|#item-f911ec12c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/394,3556,621,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216607618
-sort_value: '301412113'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537217009102
+sort_value: '301413556'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/409,2113,758,162/150,/0/default.jpg
-label: concord
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/394,3556,621,95/150,/0/default.jpg
+label: conformity occasional
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0774'
 layout: index_item
 collection: index1

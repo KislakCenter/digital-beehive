@@ -2,9 +2,8 @@
 pid: index_0763
 volume: Volume 3
 image_number: '14'
-head: complements
-entry: "<a href='/digital-beehive/alpha1/alpha_0166/'>a</a>|<a href='/digital-beehive/num2/num_0458/'>380
-  [Course Complements]</a>|4496 [PAGE_MISSING]"
+head: concupiscence
+entry: "<a href='/digital-beehive/alpha1/alpha_0167/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-4c3cb95f4"
+item: "#item-fc0000069"
 unparsed:
-line: 'Head: complements|Entry: a|Entry: 380 [Course Complements]|Entry: 4496 [PAGE_MISSING]|#item-4c3cb95f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/429,918,697,133/full/0/default.jpg
+line: 'Head: concupiscence|Entry: a|#item-fc0000069'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/405,2358,593,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215311712
-sort_value: '301410918'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216649964
+sort_value: '301412358'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/429,918,697,133/150,/0/default.jpg
-label: complements
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/405,2358,593,144/150,/0/default.jpg
+label: concupiscence
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0762'
 layout: index_item
 collection: index1

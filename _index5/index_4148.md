@@ -1,30 +1,29 @@
 ---
 pid: index_4148
 volume: Volume 3
-image_number: '47'
-head: tidings
-entry:
+image_number: '48'
+head: train
+entry: "<a href='/digital-beehive/num4/num_1081/'>866 [Train]</a>"
 topic:
 first_letter: T
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2702/'>news</a>"
+see:
 index:
-item: "#item-0b45d8e69"
+item: "#item-0601934cb"
 unparsed:
-line: 'Head: tidings|See: news|#item-0b45d8e69'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1580,1485,594,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294682080
-sort_value: '304731485'
+line: 'Head: train|Entry: 866 [Train]|#item-0601934cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1111,1671,401,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561485417111
+sort_value: '304821671'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1580,1485,594,170/150,/0/default.jpg
-label: tidings
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1111,1671,401,123/150,/0/default.jpg
+label: train
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '110'
+order: '171'
 layout: index_item
 collection: index5
 ---

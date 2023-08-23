@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num5/num_1356/'>1015 [Some English Latin]</a>|<a
   href='/digital-beehive/num11/num_3521/'>4825 [Latin]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2216/'>latin</a>"
+index: "<a href='/digital-beehive/index3/index_2180/'>latin</a>"
 item: "#item-22ec67ff1"
 unparsed:
 line: 'Entry: Latin|Topic: Latin|Xref: 1015 [Some English Latin]|Xref: 4825 [Latin]|Index:

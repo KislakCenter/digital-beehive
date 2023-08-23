@@ -2,28 +2,27 @@
 pid: index_1116
 volume: Volume 3
 image_number: '17'
-head: divination
-entry: "<a href='/digital-beehive/num6/num_1837/'>1315 [Divination]</a>"
+head: dove
+entry: "<a href='/digital-beehive/num3/num_0762/'>588 [Dove]</a>"
 topic:
 first_letter: D
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-792e354ab"
+item: "#item-bdc15c94b"
 unparsed:
-line: 'Head: divination|Entry: 1315 [Divination]|#item-792e354ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/730,1789,672,117/full/0/default.jpg
+line: 'Head: dove|Page: p.35 [Image 1.95]|Entry: 588 [Dove]|#item-bdc15c94b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1440,869,595,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560366522554
-sort_value: '301721789'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367832995
+sort_value: '301730869'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/730,1789,672,117/150,/0/default.jpg
-label: divination
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1440,869,595,155/150,/0/default.jpg
+label: dove
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1115'
 layout: index_item
 collection: index1

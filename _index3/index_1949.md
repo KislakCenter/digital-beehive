@@ -2,9 +2,9 @@
 pid: index_1949
 volume: Volume 3
 image_number: '25'
-head: ignorance
-entry: "<a href='/digital-beehive/alpha3/alpha_0456/'>a</a>|<a href='/digital-beehive/num3/num_0876/'>642
-  [Ignorance]</a>|<a href='/digital-beehive/num8/num_2732/'>1798 [Ignorance]</a>"
+head: impudence
+entry: "<a href='/digital-beehive/num2/num_0587/'>471 [Impudence]</a>|<a href='/digital-beehive/num3/num_1058/'>718
+  [Shameless]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-37c331d05"
+item: "#item-fdf079dbc"
 unparsed:
-line: 'Head: ignorance|Entry: a|Entry: 642 [Ignorance]|Entry: 1798 [Ignorance]|#item-37c331d05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/150,3100,714,141/full/0/default.jpg
+line: 'Head: impudence|Entry: 471 [Impudence]|Entry: 718 [Shameless]|#item-fdf079dbc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/849,3027,650,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559662338880
-sort_value: '302513100'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668118328
+sort_value: '302523027'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/150,3100,714,141/150,/0/default.jpg
-label: ignorance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/849,3027,650,146/150,/0/default.jpg
+label: impudence
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '031'
+order: '064'
 layout: index_item
 collection: index3
 ---

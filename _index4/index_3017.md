@@ -1,30 +1,29 @@
 ---
 pid: index_3017
 volume: Volume 3
-image_number: '35'
-head: pious frauds
-entry: "<a href='/digital-beehive/num8/num_2725/'>1791 [Holy Cheats]</a>"
+image_number: '36'
+head: pomegranate
+entry: 4667 [PAGE_MISSING]
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-8bac3e119"
+item: "#item-7655f7350"
 unparsed:
-line: 'Head: pious frauds|Entry: 1791 [Holy Cheats]|#item-8bac3e119'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1493,1858,602,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976709037
-sort_value: '303531858'
+line: 'Head: pomegranate|Page: p.33 [Image 1.93]|Entry: 4667 [PAGE_MISSING]|#item-7655f7350'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/405,3336,787,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438113398
+sort_value: '303613336'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1493,1858,602,140/150,/0/default.jpg
-label: pious frauds
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/405,3336,787,138/150,/0/default.jpg
+label: pomegranate
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0265'
+order: '0309'
 layout: index_item
 collection: index4
 ---

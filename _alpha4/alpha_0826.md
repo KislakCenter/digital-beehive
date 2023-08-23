@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1718/'>1244 [Sacrifices]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3482/'>Sacrifice</a>"
+index: "<a href='/digital-beehive/index4/index_3429/'>Sacrifice</a>"
 item: "#item-4c33b6bc0"
 unparsed:
 line: 'Entry: Sacrifice|Topic: Sacrifice|Xref: 1244 [Sacrifices]|Index: Sacrifice|#item-4c33b6bc0'

@@ -2,8 +2,8 @@
 pid: index_0806
 volume: Volume 3
 image_number: '14'
-head: consequently
-entry: "<a href='/digital-beehive/num7/num_2635/'>1710 [Needs]</a>"
+head: contempt of the world
+entry: "<a href='/digital-beehive/num8/num_2846/'>1931 [Contempt]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d910d47f1"
+item: "#item-016d13215"
 unparsed:
-line: 'Head: consequently|Entry: 1710 [Needs]|#item-d910d47f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1142,1789,649,132/full/0/default.jpg
+line: 'Head: contempt of the world|Entry: 1931 [Contempt]|#item-016d13215'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1133,3387,611,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541607164
-sort_value: '301421789'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537542289899
+sort_value: '301423387'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1142,1789,649,132/150,/0/default.jpg
-label: consequently
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1133,3387,611,85/150,/0/default.jpg
+label: contempt of the world
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0805'
 layout: index_item
 collection: index1

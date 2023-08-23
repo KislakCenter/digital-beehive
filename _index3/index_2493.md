@@ -1,31 +1,29 @@
 ---
 pid: index_2493
 volume: Volume 3
-image_number: '30'
-head: merry
-entry: "<a href='/digital-beehive/num6/num_1995/'>1392 [Joy]</a>|<a href='/digital-beehive/num8/num_2865/'>1940
-  [Joy]</a>"
+image_number: '31'
+head: miscarry
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4354/'>untimely</a>"
 index:
-item: "#item-c8dfa3810"
+item: "#item-fafa8c453"
 unparsed:
-line: 'Head: merry|Entry: 1392 [Joy]|Entry: 1940 [Joy]|#item-c8dfa3810'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1122,3173,593,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269649560
-sort_value: '303023173'
+line: 'Head: miscarry|See: untimely|#item-fafa8c453'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/157,260,719,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350499044
+sort_value: '303110260'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1122,3173,593,140/150,/0/default.jpg
-label: merry
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/157,260,719,152/150,/0/default.jpg
+label: miscarry
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '575'
+order: '608'
 layout: index_item
 collection: index3
 ---

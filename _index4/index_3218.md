@@ -1,30 +1,29 @@
 ---
 pid: index_3218
 volume: Volume 3
-image_number: '37'
-head: psaltery
-entry: "<a href='/digital-beehive/num10/num_3312/'>2341 [Harp]</a>"
+image_number: '38'
+head: quince
+entry: "<a href='/digital-beehive/num8/num_2708/'>1776 [Quince]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1215dbd0d"
+item: "#item-fba8a7d9b"
 unparsed:
-line: 'Head: psaltery|Entry: 2341 [Harp]|#item-1215dbd0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,3230,601,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869815305
-sort_value: '303733230'
+line: 'Head: quince|Entry: 1776 [Quince]|#item-fba8a7d9b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1184,1681,363,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455320537
+sort_value: '303821681'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,3230,601,124/150,/0/default.jpg
-label: psaltery
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1184,1681,363,113/150,/0/default.jpg
+label: quince
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0466'
+order: '0510'
 layout: index_item
 collection: index4
 ---

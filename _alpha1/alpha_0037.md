@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1279/'>959 [apocryphis]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0166/'>apocrypha</a>"
+index: "<a href='/digital-beehive/index1/index_0160/'>apocrypha</a>"
 item: "#item-4c389f708"
 unparsed:
 line: 'Entry: Apocrypha|Topic: Apocrypha|Xref: 959 [apocryphis]|Index: apocrypha|#item-4c389f708'

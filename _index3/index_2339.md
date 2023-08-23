@@ -2,31 +2,28 @@
 pid: index_2339
 volume: Volume 3
 image_number: '29'
-head: love
-entry: "<a href='/digital-beehive/alpha3/alpha_0556/'>a</a>|<a href='/digital-beehive/num2/num_0542/'>438
-  [Love]</a>|<a href='/digital-beehive/num5/num_1454/'>1077 [Love]</a>|<a href='/digital-beehive/num10/num_3433/'>4452
-  [Love]</a>"
+head: Magellanica
+entry: "<a href='/digital-beehive/num5/num_1565/'>1147 [Magellanica]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-678ef107c"
+item: "#item-20eb33f0e"
 unparsed:
-line: 'Head: love|Entry: a|Entry: 438 [Love]|Entry: 1077 [Love]|Entry: 4452 [Love]|#item-678ef107c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1944,713,104/full/0/default.jpg
+line: 'Head: Magellanica|Entry: 1147 [Magellanica]|#item-20eb33f0e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/839,2121,567,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178876145
-sort_value: '302911944'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186480428
+sort_value: '302922121'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1944,713,104/150,/0/default.jpg
-label: love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/839,2121,567,128/150,/0/default.jpg
+label: Magellanica
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '421'
+order: '454'
 layout: index_item
 collection: index3
 ---

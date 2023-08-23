@@ -1,10 +1,10 @@
 ---
 pid: index_2899
 volume: Volume 3
-image_number: '34'
-head: partiality
-entry: "<a href='/digital-beehive/alpha4/alpha_0689/'>a</a>|<a href='/digital-beehive/num4/num_1189/'>910
-  [Partial]</a>|4575 [PAGE_MISSING]"
+image_number: '35'
+head: Wm. Pen[n]
+entry: "<a href='/digital-beehive/num5/num_1482/'>1095 [William Pen[n]'s]</a>|<a href='/digital-beehive/num7/num_2580/'>1678
+  [Wm. Pen[n]]</a>|<a href='/digital-beehive/num8/num_2897/'>1970 [Wm. Penn's]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-64d406f95"
+item: "#item-4820df2d5"
 unparsed:
-line: 'Head: partiality|Entry: a|Entry: 910 [Partial]|Entry: 4575 [PAGE_MISSING]|#item-64d406f95'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1077,3148,897,171/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494746333
-sort_value: '303423148'
+line: 'Head: Wm. Pen[n]|Entry: 1095 [William Pen[n]''s]|Entry: 1678 [Wm. Pen[n]]|Entry:
+  1970 [Wm. Penn''s]|#item-4820df2d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/145,1313,707,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972566752
+sort_value: '303511313'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1077,3148,897,171/150,/0/default.jpg
-label: partiality
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/145,1313,707,149/150,/0/default.jpg
+label: Wm. Pen[n]
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0147'
+order: '0191'
 layout: index_item
 collection: index4
 ---

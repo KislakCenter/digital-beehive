@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1199/'>912 [To Wooe]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0884/'>to court</a>"
+index: "<a href='/digital-beehive/index1/index_0867/'>to court</a>"
 item: "#item-0bb39d954"
 unparsed:
 line: 'Entry: to Court or to Wooe|Topic: to Court or to Wooe|Xref: 912 [To Wooe]|Index:

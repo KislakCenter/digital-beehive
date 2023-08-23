@@ -1,30 +1,29 @@
 ---
 pid: index_4499
 volume: Volume 3
-image_number: '52'
-head: to wean
-entry:
+image_number: '53'
+head: 7. wise men of Greece
+entry: "<a href='/digital-beehive/num2/num_0573/'>460 [Wise men of Greece]</a>"
 topic:
 first_letter: W
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3968/'>suck</a>"
+see:
 index:
-item: "#item-b96ff55bf"
+item: "#item-41aaccc93"
 unparsed:
-line: 'Head: to wean|See: suck|#item-b96ff55bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/484,2308,601,178/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961007003
-sort_value: '305212308'
+line: 'Head: 7. wise men of Greece|Entry: 460 [Wise men of Greece]|#item-41aaccc93'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/181,1081,694,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791774419
+sort_value: '305311081'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/484,2308,601,178/150,/0/default.jpg
-label: to wean
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/181,1081,694,119/150,/0/default.jpg
+label: 7. wise men of Greece
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '461'
+order: '522'
 layout: index_item
 collection: index5
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0167/'>Concupiscence</a>|<a href='/digital-beehive/num5/num_1621/'>1187
   [Affections]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0058/'>affections</a>"
+index: "<a href='/digital-beehive/index1/index_0057/'>affections</a>"
 item: "#item-24beb43cc"
 unparsed:
 line: 'Entry: Affections|Topic: Affections|Xref: Concupiscence|Xref: 1187 [Affections]|Index:

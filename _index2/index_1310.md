@@ -2,9 +2,8 @@
 pid: index_1310
 volume: Volume 3
 image_number: '19'
-head: ethiopian
-entry: "<a href='/digital-beehive/num2/num_0461/'>382 [Neger or Negro]</a>|<a href='/digital-beehive/num7/num_2470/'>1628
-  [Negro]</a>"
+head: exchange
+entry: 4526 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d65ed80e3"
+item: "#item-af16fb8d6"
 unparsed:
-line: 'Head: ethiopian|Entry: 382 [Neger or Negro]|Entry: 1628 [Negro]|#item-d65ed80e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/874,595,630,160/full/0/default.jpg
+line: 'Head: exchange|Entry: 4526 [PAGE_MISSING]|#item-af16fb8d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/831,3171,558,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350805523
-sort_value: '301920595'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360366093
+sort_value: '301923171'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/874,595,630,160/150,/0/default.jpg
-label: ethiopian
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/831,3171,558,117/150,/0/default.jpg
+label: exchange
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '129'
+order: '151'
 layout: index_item
 collection: index2
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0366/'>Gloss</a>|<a href='/digital-beehive/num4/num_1224/'>923
   [Interpretation]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2078/'>interpretation</a>"
+index: "<a href='/digital-beehive/index3/index_2043/'>interpretation</a>"
 item: "#item-d54a87d8f"
 unparsed:
 line: 'Entry: Interpretation|Topic: Interpretation|Xref: Gloss|Xref: 923 [Interpretation]|Index:

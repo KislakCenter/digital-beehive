@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0207/'>dam[m]age</a>|<a href='/digital-beehive/num5/num_1569/'>1151
   [Loss]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2335/'>loss</a>"
+index: "<a href='/digital-beehive/index3/index_2297/'>loss</a>"
 item: "#item-87e1e9d3e"
 unparsed:
 line: 'Entry: Losse|Topic: Losse|Xref: dam[m]age|Xref: 1151 [Loss]|Index: loss|#item-87e1e9d3e'

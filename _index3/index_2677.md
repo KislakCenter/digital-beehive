@@ -2,29 +2,28 @@
 pid: index_2677
 volume: Volume 3
 image_number: '32'
-head: neesing
-entry:
+head: to nod. wincken
+entry: "<a href='/digital-beehive/num9/num_3146/'>2202 [To Nod : to becken]</a>"
 topic:
 first_letter: N
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3767/'>Sneez</a>"
+see:
 index:
-item: "#item-a9e91958e"
+item: "#item-0dedb6aa8"
 unparsed:
-line: 'Head: neesing|See: Sneez|#item-a9e91958e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/373,3510,582,148/full/0/default.jpg
+line: 'Head: to nod. wincken|Entry: 2202 [To Nod : to becken]|#item-0dedb6aa8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1836,1109,678,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439550512
-sort_value: '303213510'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448507727
+sort_value: '303231109'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/373,3510,582,148/150,/0/default.jpg
-label: neesing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1836,1109,678,129/150,/0/default.jpg
+label: to nod. wincken
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '759'
+order: '792'
 layout: index_item
 collection: index3
 ---

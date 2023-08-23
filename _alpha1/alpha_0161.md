@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0342/'>Forbidden things</a>|<a href='/digital-beehive/alpha4/alpha_0748/'>Prohibition</a>|<a
   href='/digital-beehive/num5/num_1394/'>1041 [Com[m]andments]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0736/'>com[m]andmts</a>"
+index: "<a href='/digital-beehive/index1/index_0722/'>com[m]andmts</a>"
 item: "#item-342367654"
 unparsed:
 line: 'Entry: Com[m]andments|Topic: Com[m]andments|Xref: Forbidden things|Xref: Prohibition|Xref:

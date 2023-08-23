@@ -2,32 +2,31 @@
 pid: index_2343
 volume: Volume 3
 image_number: '29'
-head: love of our neighbour
-entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>|<a href='/digital-beehive/num5/num_1457/'>1079
-  [Love of Neighbours]</a>|<a href='/digital-beehive/num10/num_3426/'>4447 [Love of
-  Neighbours]</a>"
+head: magnanimity
+entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>|<a href='/digital-beehive/num3/num_0664/'>529
+  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1690/'>1229
+  [Magnanimity]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ec9e131c5"
+item: "#item-fb96256fd"
 unparsed:
-line: 'Head: love of our neighbour|Entry: a|Entry: 1079 [Love of Neighbours]|Entry:
-  4447 [Love of Neighbours]|#item-ec9e131c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/174,2226,673,133/full/0/default.jpg
+line: 'Head: magnanimity|Entry: a|Entry: 529 [Magnanimity]|Entry: 795 [PAGE_MISSING]|Entry:
+  1229 [Magnanimity]|#item-fb96256fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2629,670,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179385665
-sort_value: '302912226'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560187021929
+sort_value: '302922629'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/174,2226,673,133/150,/0/default.jpg
-label: love of our neighbour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2629,670,147/150,/0/default.jpg
+label: magnanimity
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '425'
+order: '458'
 layout: index_item
 collection: index3
 ---

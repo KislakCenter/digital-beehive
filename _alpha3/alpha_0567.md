@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0366/'>318 [Magistrates]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2379/'>magistrate</a>"
+index: "<a href='/digital-beehive/index3/index_2341/'>magistrate</a>"
 item: "#item-39f583755"
 unparsed:
 line: 'Entry: Magistrate|Topic: Magistrate|Xref: 318 [Magistrates]|Index: magistrate|#item-39f583755'

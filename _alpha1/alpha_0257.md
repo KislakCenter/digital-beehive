@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2110/'>1445 [Dismissing]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1064/'>discharge</a>"
+index: "<a href='/digital-beehive/index1/index_1044/'>discharge</a>"
 item: "#item-980f3a073"
 unparsed:
 line: 'Entry: Discharge|Topic: Discharge|Xref: 1445 [Dismissing]|Index: discharge|#item-980f3a073'

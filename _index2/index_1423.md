@@ -2,9 +2,9 @@
 pid: index_1423
 volume: Volume 3
 image_number: '20'
-head: feast, i.e. holy day
-entry: "<a href='/digital-beehive/alpha2/alpha_0324/'>a</a>|<a href='/digital-beehive/num5/num_1477/'>1093
-  [Holy days]</a>"
+head: finally
+entry: "<a href='/digital-beehive/num4/num_1235/'>928 [Last]</a>|<a href='/digital-beehive/num4/num_1236/'>928
+  [Finally]</a>"
 topic:
 first_letter: F
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-590b78fe7"
+item: "#item-f8d91b1ca"
 unparsed:
-line: 'Head: feast, i.e. holy day|Entry: a|Entry: 1093 [Holy days]|#item-590b78fe7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1127,1433,741,168/full/0/default.jpg
+line: 'Head: finally|Entry: 928 [Last]|Entry: 928 [Finally]|#item-f8d91b1ca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1785,342,513,195/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562184002175
-sort_value: '302021433'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562600306114
+sort_value: '302030342'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1127,1433,741,168/150,/0/default.jpg
-label: feast, i.e. holy day
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1785,342,513,195/150,/0/default.jpg
+label: finally
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '242'
+order: '264'
 layout: index_item
 collection: index2
 ---

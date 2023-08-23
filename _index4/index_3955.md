@@ -1,9 +1,9 @@
 ---
 pid: index_3955
 volume: Volume 3
-image_number: '45'
-head: subornation
-entry: 797 [PAGE_MISSING]
+image_number: '46'
+head: Swan
+entry: "<a href='/digital-beehive/alpha4/alpha_0938/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-35bed98ea"
+item: "#item-6b353595f"
 unparsed:
-line: 'Head: subornation|Entry: 797 [PAGE_MISSING]|#item-35bed98ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1597,1013,516,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530467554706
-sort_value: '304531013'
+line: 'Head: Swan|Entry: a|#item-6b353595f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1085,1198,466,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565293236517
+sort_value: '304621198'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1597,1013,516,108/150,/0/default.jpg
-label: subornation
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1085,1198,466,105/150,/0/default.jpg
+label: Swan
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1203'
+order: '1247'
 layout: index_item
 collection: index4
 ---

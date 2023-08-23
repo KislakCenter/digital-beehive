@@ -2,28 +2,27 @@
 pid: index_0612
 volume: Volume 3
 image_number: '12'
-head: charnelhouse
-entry:
+head: chevy-chase
+entry: "<a href='/digital-beehive/num11/num_3496/'>4802 [Chevy chase]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-2f6dfd57d"
+item: "#item-7f63fb207"
 unparsed:
-line: 'Head: charnelhouse|Page: p.44 [Image 1.104]|#item-2f6dfd57d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1826,569,644,138/full/0/default.jpg
+line: 'Head: chevy-chase|Entry: 4802 [Chevy chase]|#item-7f63fb207'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1813,1577,627,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443903911
-sort_value: '301230569'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459807427
+sort_value: '301231577'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1826,569,644,138/150,/0/default.jpg
-label: charnelhouse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1813,1577,627,138/150,/0/default.jpg
+label: chevy-chase
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0611'
 layout: index_item
 collection: index1

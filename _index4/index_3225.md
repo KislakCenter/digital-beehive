@@ -2,29 +2,28 @@
 pid: index_3225
 volume: Volume 3
 image_number: '38'
-head: to pulverize
-entry: 736 [PAGE_MISSING]
+head: Rabbies
+entry: "<a href='/digital-beehive/num7/num_2316/'>1553 [Rabbies]</a>"
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-236424dc7"
+item: "#item-2169ec358"
 unparsed:
-line: 'Head: to pulverize|Entry: 736 [PAGE_MISSING]|#item-236424dc7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/438,755,593,144/full/0/default.jpg
+line: 'Head: Rabbies|Entry: 1553 [Rabbies]|#item-2169ec358'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1180,2443,535,237/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452002588
-sort_value: '303810755'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558459360078
+sort_value: '303822443'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/438,755,593,144/150,/0/default.jpg
-label: to pulverize
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1180,2443,535,237/150,/0/default.jpg
+label: Rabbies
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0473'
+order: '0517'
 layout: index_item
 collection: index4
 ---

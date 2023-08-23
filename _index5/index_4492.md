@@ -1,8 +1,8 @@
 ---
 pid: index_4492
 volume: Volume 3
-image_number: '52'
-head: washing pot
+image_number: '53'
+head: wine press
 entry:
 topic:
 first_letter: W
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f6fdaa5ed"
+item: "#item-a958593d0"
 unparsed:
-line: 'Head: washing pot|Page: p.38 [Image 1.98]|#item-f6fdaa5ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/489,1463,506,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960617785
-sort_value: '305211463'
+line: 'Head: wine press|Page: p.38 [Image 1.98]|#item-a958593d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/175,387,413,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791253082
+sort_value: '305310387'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/489,1463,506,145/150,/0/default.jpg
-label: washing pot
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/175,387,413,121/150,/0/default.jpg
+label: wine press
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '454'
+order: '515'
 layout: index_item
 collection: index5
 ---

@@ -1,29 +1,29 @@
 ---
 pid: index_0428
 volume: Volume 3
-image_number: '10'
-head: bowl
-entry: 733 [PAGE_MISSING]
+image_number: '11'
+head: brandywine
+entry: "<a href='/digital-beehive/num1/num_0174/'>166 [Brandy-wine]</a>|<a href='/digital-beehive/num6/num_1832/'>1310
+  [Brandy & Aqua vite]</a>"
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-359e46e97"
+item: "#item-5d2430142"
 unparsed:
-line: 'Head: bowl|Page: p.38 [Image 1.98]|Entry: 733 [PAGE_MISSING]|#item-359e46e97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1772,3180,519,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417124801
-sort_value: '301033180'
+line: 'Head: brandywine|Entry: 166 [Brandy-wine]|Entry: 1310 [Brandy & Aqua vite]|#item-5d2430142'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,608,658,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417715910
+sort_value: '301110608'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1772,3180,519,116/150,/0/default.jpg
-label: bowl
-location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,608,658,137/150,/0/default.jpg
+label: brandywine
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0427'
 layout: index_item
 collection: index1

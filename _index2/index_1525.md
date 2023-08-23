@@ -2,9 +2,8 @@
 pid: index_1525
 volume: Volume 3
 image_number: '21'
-head: foundation
-entry: "<a href='/digital-beehive/alpha2/alpha_0347/'>a</a>|<a href='/digital-beehive/num5/num_1351/'>1011
-  [Ground & Foundation]</a>|<a href='/digital-beehive/num10/num_3237/'>2276 [Foundation]</a>"
+head: frost
+entry: "<a href='/digital-beehive/num7/num_2518/'>1649 [Frost]</a>"
 topic:
 first_letter: F
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3220111a4"
+item: "#item-40ecb3b8a"
 unparsed:
-line: 'Head: foundation|Entry: a|Entry: 1011 [Ground & Foundation]|Entry: 2276 [Foundation]|#item-3220111a4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/889,816,639,136/full/0/default.jpg
+line: 'Head: frost|Entry: 1649 [Frost]|#item-40ecb3b8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/849,3210,378,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508356527916
-sort_value: '302120816'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784499900
+sort_value: '302123210'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/889,816,639,136/150,/0/default.jpg
-label: foundation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/849,3210,378,153/150,/0/default.jpg
+label: frost
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '344'
+order: '366'
 layout: index_item
 collection: index2
 ---

@@ -2,9 +2,8 @@
 pid: index_1602
 volume: Volume 3
 image_number: '22'
-head: by gess
-entry: "<a href='/digital-beehive/num1/num_0130/'>125 [Conjectures]</a>|<a href='/digital-beehive/num4/num_1243/'>932
-  [Conjecture]</a>"
+head: glyster
+entry: "<a href='/digital-beehive/num9/num_3086/'>2145 [Glyster]</a>"
 topic:
 first_letter: G
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b0be343ef"
+item: "#item-72659344c"
 unparsed:
-line: 'Head: by gess|Entry: 125 [Conjectures]|Entry: 932 [Conjecture]|#item-b0be343ef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/427,1155,525,127/full/0/default.jpg
+line: 'Head: glyster|Entry: 2145 [Glyster]|#item-72659344c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1116,720,480,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042834323
-sort_value: '302211155'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561045758638
+sort_value: '302220720'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/427,1155,525,127/150,/0/default.jpg
-label: by gess
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1116,720,480,133/150,/0/default.jpg
+label: glyster
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '421'
+order: '443'
 layout: index_item
 collection: index2
 ---

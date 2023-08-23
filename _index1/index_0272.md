@@ -2,28 +2,27 @@
 pid: index_0272
 volume: Volume 3
 image_number: '9'
-head: bail
-entry:
+head: ballast
+entry: 4708 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3998/'>surety</a>"
+see:
 index:
-item: "#item-636920845"
+item: "#item-c6784a24e"
 unparsed:
-line: 'Head: bail|See: surety|#item-636920845'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/891,459,481,126/full/0/default.jpg
+line: 'Head: ballast|Entry: 4708 [PAGE_MISSING]|#item-c6784a24e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,1149,383,70/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403306784
-sort_value: '300920459'
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403550057
+sort_value: '300921149'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/891,459,481,126/150,/0/default.jpg
-label: bail
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,1149,383,70/150,/0/default.jpg
+label: ballast
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0271'
 layout: index_item
 collection: index1

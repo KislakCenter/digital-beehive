@@ -2,28 +2,27 @@
 pid: index_0404
 volume: Volume 3
 image_number: '10'
-head: bodily shapes
-entry: "<a href='/digital-beehive/num6/num_2176/'>1476 [Bodily Shape]</a>"
+head: books for the fire
+entry: "<a href='/digital-beehive/num11/num_3540/'>4844 [Vain Books]</a>"
 topic:
 first_letter: B
-page:
+page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-575257ccc"
+item: "#item-3418a1272"
 unparsed:
-line: 'Head: bodily shapes|Entry: 1476 [Bodily Shape]|#item-575257ccc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1759,652,646,154/full/0/default.jpg
+line: 'Head: books for the fire|Page: p.62 [Image 1.129]|Entry: 4844 [Vain Books]|#item-3418a1272'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1797,1625,691,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531152573312
-sort_value: '301030652'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531154558434
+sort_value: '301031625'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1759,652,646,154/150,/0/default.jpg
-label: bodily shapes
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1797,1625,691,135/150,/0/default.jpg
+label: books for the fire
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0403'
 layout: index_item
 collection: index1

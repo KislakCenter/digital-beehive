@@ -2,29 +2,28 @@
 pid: index_4561
 volume: Volume 3
 image_number: '53'
-head: wine press
-entry:
+head: wrinkle
+entry: "<a href='/digital-beehive/alpha5/alpha_1071/'>a</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a958593d0"
+item: "#item-88deead0b"
 unparsed:
-line: 'Head: wine press|Page: p.38 [Image 1.98]|#item-a958593d0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/175,387,413,121/full/0/default.jpg
+line: 'Head: wrinkle|Entry: a|#item-88deead0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1588,930,433,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791253082
-sort_value: '305310387'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798578784
+sort_value: '305330930'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/175,387,413,121/150,/0/default.jpg
-label: wine press
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1588,930,433,117/150,/0/default.jpg
+label: wrinkle
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '523'
+order: '584'
 layout: index_item
 collection: index5
 ---

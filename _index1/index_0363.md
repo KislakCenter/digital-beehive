@@ -2,8 +2,8 @@
 pid: index_0363
 volume: Volume 3
 image_number: '10'
-head: to bestow
-entry: "<a href='/digital-beehive/num3/num_1050/'>715 [To Swap]</a>"
+head: bigamy
+entry: "<a href='/digital-beehive/num2/num_0562/'>452 [Bigamy]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-e037bdae9"
+item: "#item-94196207b"
 unparsed:
-line: 'Head: to bestow|Entry: 715 [To Swap]|#item-e037bdae9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/307,2800,393,131/full/0/default.jpg
+line: 'Head: bigamy|Entry: 452 [Bigamy]|#item-94196207b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1086,490,419,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531148675133
-sort_value: '301012800'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531149273792
+sort_value: '301020490'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/307,2800,393,131/150,/0/default.jpg
-label: to bestow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1086,490,419,136/150,/0/default.jpg
+label: bigamy
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0362'
 layout: index_item
 collection: index1

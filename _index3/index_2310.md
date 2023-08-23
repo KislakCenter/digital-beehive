@@ -1,30 +1,29 @@
 ---
 pid: index_2310
 volume: Volume 3
-image_number: '28'
-head: to live
-entry:
+image_number: '29'
+head: disordinate love
+entry: "<a href='/digital-beehive/num10/num_3435/'>4454 [Disordinate Love]</a>"
 topic:
 first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2283/'>life</a>"
+see:
 index:
-item: "#item-89c3cf86a"
+item: "#item-3da94f461"
 unparsed:
-line: 'Head: to live|See: life|#item-89c3cf86a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1814,2299,528,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849621519
-sort_value: '302832299'
+line: 'Head: disordinate love|Entry: 4454 [Disordinate Love]|#item-3da94f461'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,2568,642,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179816488
+sort_value: '302912568'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1814,2299,528,164/150,/0/default.jpg
-label: to live
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,2568,642,107/150,/0/default.jpg
+label: disordinate love
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '392'
+order: '425'
 layout: index_item
 collection: index3
 ---

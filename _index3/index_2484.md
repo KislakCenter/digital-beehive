@@ -2,29 +2,28 @@
 pid: index_2484
 volume: Volume 3
 image_number: '30'
-head: menonists
-entry: "<a href='/digital-beehive/num1/num_0164/'>157 [Anabaptist]</a>"
+head: ministers of Gospel
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3064/'>Preachers</a>|<a href='/digital-beehive/index5/index_4011/'>Teachers</a>"
 index:
-item: "#item-77589c900"
+item: "#item-adfa67363"
 unparsed:
-line: 'Head: menonists|Entry: 157 [Anabaptist]|#item-77589c900'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1120,2119,480,95/full/0/default.jpg
+line: 'Head: ministers of Gospel|See: Preachers|See: Teachers|#item-adfa67363'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1818,2649,684,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268603139
-sort_value: '303022119'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274608284
+sort_value: '303032649'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1120,2119,480,95/150,/0/default.jpg
-label: menonists
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1818,2649,684,136/150,/0/default.jpg
+label: ministers of Gospel
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '566'
+order: '599'
 layout: index_item
 collection: index3
 ---

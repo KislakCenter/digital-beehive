@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>epicurism</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1372/'>eye lust</a>"
+index: "<a href='/digital-beehive/index2/index_1348/'>eye lust</a>"
 item: "#item-992a5ce4c"
 unparsed:
 line: 'Entry: lust of the eye|Topic: lust of the eye|Xref: epicurism|Index: eye lust|#item-992a5ce4c'

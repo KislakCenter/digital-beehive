@@ -2,8 +2,8 @@
 pid: index_1219
 volume: Volume 3
 image_number: '18'
-head: elders
-entry: "<a href='/digital-beehive/num3/num_0826/'>617 [Elders]</a>"
+head: emulation
+entry: 828 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d89339fb7"
+item: "#item-ea35cbe7f"
 unparsed:
-line: 'Head: elders|Entry: 617 [Elders]|#item-d89339fb7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1135,2029,395,112/full/0/default.jpg
+line: 'Head: emulation|Entry: 828 [PAGE_MISSING]|#item-ea35cbe7f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1841,471,546,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674457684
-sort_value: '301822029'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745195800
+sort_value: '301830471'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1135,2029,395,112/150,/0/default.jpg
-label: elders
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1841,471,546,135/150,/0/default.jpg
+label: emulation
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '038'
+order: '060'
 layout: index_item
 collection: index2
 ---

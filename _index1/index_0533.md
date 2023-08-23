@@ -1,30 +1,28 @@
 ---
 pid: index_0533
 volume: Volume 3
-image_number: '11'
-head: capital offence
-entry: "<a href='/digital-beehive/alpha1/alpha_0120/'>a</a>|<a href='/digital-beehive/num3/num_0866/'>638
-  [Capital Offences]</a>"
+image_number: '12'
+head: Carnaval
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0255/'>bacchanals</a>"
 index:
-item: "#item-51a813e34"
+item: "#item-fe7df6756"
 unparsed:
-line: 'Head: capital offence|Entry: a|Entry: 638 [Capital Offences]|#item-51a813e34'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,2713,718,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531496060203
-sort_value: '301132713'
+line: 'Head: Carnaval|See: bacchanals|#item-fe7df6756'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,436,750,159/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496675405
+sort_value: '301210436'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,2713,718,143/150,/0/default.jpg
-label: capital offence
-location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,436,750,159/150,/0/default.jpg
+label: Carnaval
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0532'
 layout: index_item
 collection: index1

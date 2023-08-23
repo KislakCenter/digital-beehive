@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1925/'>1357 [Moon]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2574/'>moon</a>"
+index: "<a href='/digital-beehive/index3/index_2533/'>moon</a>"
 item: "#item-81a8ed7ca"
 unparsed:
 line: 'Entry: Moon|Topic: Moon|Xref: 1357 [Moon]|Index: moon|#item-81a8ed7ca'

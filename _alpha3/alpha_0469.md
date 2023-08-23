@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0152/'>Civil</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1995/'>incivility</a>"
+index: "<a href='/digital-beehive/index3/index_1960/'>incivility</a>"
 item: "#item-123fb86c5"
 unparsed:
 line: 'Entry: Incivility|Topic: Incivility|Xref: Civil|Index: incivility|#item-123fb86c5'

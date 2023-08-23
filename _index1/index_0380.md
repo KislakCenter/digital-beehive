@@ -2,8 +2,8 @@
 pid: index_0380
 volume: Volume 3
 image_number: '10'
-head: biting
-entry: 852 [PAGE_MISSING]
+head: to bleach
+entry: "<a href='/digital-beehive/num3/num_1072/'>723 [To Bleach]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-a9e797fa6"
+item: "#item-0c8445698"
 unparsed:
-line: 'Head: biting|Entry: 852 [PAGE_MISSING]|#item-a9e797fa6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1070,1356,442,192/full/0/default.jpg
+line: 'Head: to bleach|Entry: 723 [To Bleach]|#item-0c8445698'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2205,531,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565633548411
-sort_value: '301021356'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531150830723
+sort_value: '301022205'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1070,1356,442,192/150,/0/default.jpg
-label: biting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2205,531,136/150,/0/default.jpg
+label: to bleach
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0379'
 layout: index_item
 collection: index1

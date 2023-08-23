@@ -2,8 +2,8 @@
 pid: index_2380
 volume: Volume 3
 image_number: '29'
-head: magna Charta
-entry: "<a href='/digital-beehive/num3/num_0862/'>635 [Great Charter of England]</a>"
+head: manuscripts of mine own
+entry: "<a href='/digital-beehive/num7/num_2233/'>1511 [Protestant Religion]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bd6ad6f2e"
+item: "#item-d41e25954"
 unparsed:
-line: 'Head: magna Charta|Entry: 635 [Great Charter of England]|#item-bd6ad6f2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2482,610,163/full/0/default.jpg
+line: 'Head: manuscripts of mine own|Entry: 1511 [Protestant Religion]|#item-d41e25954'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1506,3015,542,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186860898
-sort_value: '302922482'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196877210
+sort_value: '302933015'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2482,610,163/150,/0/default.jpg
-label: magna Charta
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1506,3015,542,113/150,/0/default.jpg
+label: manuscripts of mine own
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '462'
+issue: The listed entry is on the page following the intended point of reference. 
+order: '495'
 layout: index_item
 collection: index3
 ---

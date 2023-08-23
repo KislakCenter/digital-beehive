@@ -1,10 +1,9 @@
 ---
 pid: index_3123
 volume: Volume 3
-image_number: '36'
-head: prejudice
-entry: "<a href='/digital-beehive/num3/num_0803/'>607 [Prejudice]</a>|<a href='/digital-beehive/num9/num_3111/'>2168
-  [Prejudice]</a>"
+image_number: '37'
+head: proclamation
+entry: "<a href='/digital-beehive/num6/num_1790/'>1285 [an Edict]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3d09c3281"
+item: "#item-562ca9cda"
 unparsed:
-line: 'Head: prejudice|Entry: 607 [Prejudice]|Entry: 2168 [Prejudice]|#item-3d09c3281'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1830,2398,682,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440692218
-sort_value: '303632398'
+line: 'Head: proclamation|Entry: 1285 [an Edict]|#item-562ca9cda'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/767,1406,642,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867978489
+sort_value: '303721406'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1830,2398,682,170/150,/0/default.jpg
-label: prejudice
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/767,1406,642,125/150,/0/default.jpg
+label: proclamation
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0371'
+order: '0415'
 layout: index_item
 collection: index4
 ---

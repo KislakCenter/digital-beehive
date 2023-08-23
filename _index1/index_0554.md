@@ -2,8 +2,9 @@
 pid: index_0554
 volume: Volume 3
 image_number: '12'
-head: to cast down
-entry: "<a href='/digital-beehive/num4/num_1164/'>897 [To cast down]</a>"
+head: catholick
+entry: "<a href='/digital-beehive/alpha1/alpha_0129/'>a</a>|<a href='/digital-beehive/num8/num_2748/'>1814
+  [Catholick]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-fb7adc1e8"
+item: "#item-be9f2c171"
 unparsed:
-line: 'Head: to cast down|Entry: 897 [To cast down]|#item-fb7adc1e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/410,1574,606,134/full/0/default.jpg
+line: 'Head: catholick|Entry: a|Entry: 1814 [Catholick]|#item-be9f2c171'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/412,3013,623,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532097937762
-sort_value: '301211574'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098686443
+sort_value: '301213013'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/410,1574,606,134/150,/0/default.jpg
-label: to cast down
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/412,3013,623,124/150,/0/default.jpg
+label: catholick
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0553'
 layout: index_item
 collection: index1

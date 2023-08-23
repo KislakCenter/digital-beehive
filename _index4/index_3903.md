@@ -2,29 +2,28 @@
 pid: index_3903
 volume: Volume 3
 image_number: '45'
-head: a still
-entry: "<a href='/digital-beehive/num3/num_0768/'>592 [Distilling]</a>"
+head: subtlety
+entry: "<a href='/digital-beehive/num5/num_1688/'>1228 [Craftiness]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
-add:
+page:
+add: "<a href='/digital-beehive/index5/index_4501/'>Wit</a>"
 xref:
 see:
 index:
-item: "#item-1bd50898c"
+item: "#item-2beaf9f64"
 unparsed:
-line: 'Head: a still|Page: p.38 [Image 1.98]|Entry: 592 [Distilling]|#item-1bd50898c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/191,2443,579,126/full/0/default.jpg
+line: 'Head: subtlety|Entry: 1228 [Craftiness]|Add: Wit|#item-2beaf9f64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1604,1921,702,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290315091
-sort_value: '304512443'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530468933796
+sort_value: '304531921'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/191,2443,579,126/150,/0/default.jpg
-label: a still
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1604,1921,702,141/150,/0/default.jpg
+label: subtlety
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1151'
+order: '1195'
 layout: index_item
 collection: index4
 ---

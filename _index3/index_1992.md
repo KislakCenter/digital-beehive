@@ -1,30 +1,29 @@
 ---
 pid: index_1992
 volume: Volume 3
-image_number: '25'
-head: incendiary
-entry: "<a href='/digital-beehive/num2/num_0442/'>369 [Incendiary]</a>"
+image_number: '26'
+head: infallibility
+entry: "<a href='/digital-beehive/num1/num_0032/'>32 [Infallibility]</a>"
 topic:
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a9335a205"
+item: "#item-e1c3937d9"
 unparsed:
-line: 'Head: incendiary|Page: p.30 [Image 1.90]|Entry: 369 [Incendiary]|#item-a9335a205'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,645,593,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559669868464
-sort_value: '302530645'
+line: 'Head: infallibility|Entry: 32 [Infallibility]|#item-e1c3937d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/457,822,531,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559743941001
+sort_value: '302610822'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,645,593,147/150,/0/default.jpg
-label: incendiary
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/457,822,531,160/150,/0/default.jpg
+label: infallibility
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '074'
+order: '107'
 layout: index_item
 collection: index3
 ---

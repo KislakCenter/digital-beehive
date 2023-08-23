@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0091/'>Boasting</a>|<a href='/digital-beehive/alpha2/alpha_0384/'>Grandeur</a>|819
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3151/'>pride</a>"
+index: "<a href='/digital-beehive/index4/index_3101/'>pride</a>"
 item: "#item-37a8f0cc4"
 unparsed:
 line: 'Entry: Pride|Topic: Pride|Xref: Boasting|Xref: Grandeur|Xref: 819 [PAGE_MISSING]|Index:

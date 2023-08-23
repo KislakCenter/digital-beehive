@@ -1,30 +1,29 @@
 ---
 pid: index_2995
 volume: Volume 3
-image_number: '35'
-head: physicians Names
-entry: "<a href='/digital-beehive/num9/num_3173/'>2228 [Noia Medicorum]</a>"
+image_number: '36'
+head: pledge
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2881/'>pawn</a>"
 index:
-item: "#item-c8af6cb5e"
+item: "#item-69e18b989"
 unparsed:
-line: 'Head: physicians Names|Entry: 2228 [Noia Medicorum]|#item-c8af6cb5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/839,3464,722,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975725437
-sort_value: '303523464'
+line: 'Head: pledge|See: pawn|#item-69e18b989'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/489,1121,599,175/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544207651001
+sort_value: '303611121'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/839,3464,722,165/150,/0/default.jpg
-label: physicians Names
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/489,1121,599,175/150,/0/default.jpg
+label: pledge
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0243'
+order: '0287'
 layout: index_item
 collection: index4
 ---

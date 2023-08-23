@@ -2,29 +2,28 @@
 pid: index_3267
 volume: Volume 3
 image_number: '38'
-head: quill
-entry: "<a href='/digital-beehive/num2/num_0508/'>411 [Quill]</a>"
+head: recompense
+entry: 733 [PAGE_MISSING]
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2e7c6277e"
+item: "#item-62dce0cae"
 unparsed:
-line: 'Head: quill|Entry: 411 [Quill]|#item-2e7c6277e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1182,1605,432,108/full/0/default.jpg
+line: 'Head: recompense|Entry: 733 [PAGE_MISSING]|#item-62dce0cae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1838,3177,591,197/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455302103
-sort_value: '303821605'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558462057436
+sort_value: '303833177'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1182,1605,432,108/150,/0/default.jpg
-label: quill
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1838,3177,591,197/150,/0/default.jpg
+label: recompense
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0515'
+order: '0559'
 layout: index_item
 collection: index4
 ---

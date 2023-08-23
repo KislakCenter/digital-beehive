@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0287/'>enmity</a>|747 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index2/index_1767/'>hatred</a>"
+index: "<a href='/digital-beehive/index2/index_1736/'>hatred</a>"
 item: "#item-703cad630"
 unparsed:
 line: 'Entry: Hatred|Topic: Hatred|Xref: enmity|Xref: 747 [PAGE_MISSING]|Index: hatred|#item-703cad630'

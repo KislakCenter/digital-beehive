@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num8/num_2693/'>1761 [Cat]</a>|<a href='/digital-beehive/num7/num_2271/'>1529
   [wild Cats]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0558/'>cat</a>"
+index: "<a href='/digital-beehive/index1/index_0547/'>cat</a>"
 item: "#item-e3c49318a"
 unparsed:
 line: 'Topic: Cat|Entry: Cat|Xref: 1761 [Cat]|Xref: 1529 [wild Cats]|Index: cat|#item-e3c49318a'

@@ -11,7 +11,7 @@ add:
 xref: "[WORD_ILLEGIBLE]|<a href='/digital-beehive/alpha3/alpha_0464/'>Impat</a>|<a
   href='/digital-beehive/num3/num_0640/'>509 [Patience]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2918/'>patience</a>"
+index: "<a href='/digital-beehive/index4/index_2871/'>patience</a>"
 item: "#item-9387b1eed"
 unparsed:
 line: 'Entry: Patience|Topic: Patience|Xref: [WORD_ILLEGIBLE]|Xref: Impat|Xref: 509

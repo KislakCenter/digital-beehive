@@ -1,9 +1,9 @@
 ---
 pid: index_3400
 volume: Volume 3
-image_number: '39'
-head: retorsion
-entry: "<a href='/digital-beehive/num6/num_2129/'>1453 [Argument ad hominem]</a>"
+image_number: '40'
+head: rosin
+entry: "<a href='/digital-beehive/num9/num_3085/'>2145 [Turpentine]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5288b7e08"
+item: "#item-14714ac57"
 unparsed:
-line: 'Head: retorsion|Entry: 1453 [Argument ad hominem]|#item-5288b7e08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1486,2613,644,182/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230172341
-sort_value: '303932613'
+line: 'Head: rosin|Entry: 2145 [Turpentine]|#item-14714ac57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,1818,417,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233633379
+sort_value: '304021818'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1486,2613,644,182/150,/0/default.jpg
-label: retorsion
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,1818,417,127/150,/0/default.jpg
+label: rosin
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0648'
+order: '0692'
 layout: index_item
 collection: index4
 ---

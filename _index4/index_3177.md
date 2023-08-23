@@ -1,30 +1,29 @@
 ---
 pid: index_3177
 volume: Volume 3
-image_number: '37'
-head: to produce
-entry:
+image_number: '38'
+head: punctilio
+entry: "<a href='/digital-beehive/num3/num_0690/'>546 [Punctilio]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0460/'>bring</a>"
+see:
 index:
-item: "#item-43cd0ddd9"
+item: "#item-07c616c6f"
 unparsed:
-line: 'Head: to produce|See: bring|#item-43cd0ddd9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/781,1889,643,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868144830
-sort_value: '303721889'
+line: 'Head: punctilio|Entry: 546 [Punctilio]|#item-07c616c6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/423,1033,509,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452046104
+sort_value: '303811033'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/781,1889,643,149/150,/0/default.jpg
-label: to produce
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/423,1033,509,139/150,/0/default.jpg
+label: punctilio
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0425'
+order: '0469'
 layout: index_item
 collection: index4
 ---

@@ -1,11 +1,9 @@
 ---
 pid: index_3695
 volume: Volume 3
-image_number: '42'
-head: sickness
-entry: "<a href='/digital-beehive/alpha4/alpha_0874/'>a</a>|<a href='/digital-beehive/num6/num_1793/'>1287
-  [Distemper]</a>|<a href='/digital-beehive/num7/num_2465/'>1626 [Distemper]</a>|<a
-  href='/digital-beehive/num10/num_3454/'>4469 [Sickness]</a>"
+image_number: '43'
+head: slippery
+entry: 821 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5a7f6cef8"
+item: "#item-ec978f1cd"
 unparsed:
-line: 'Head: sickness|Entry: a|Entry: 1287 [Distemper]|Entry: 1626 [Distemper]|Entry:
-  4469 [Sickness]|#item-5a7f6cef8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,3496,761,192/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576756624
-sort_value: '304233496'
+line: 'Head: slippery|Entry: 821 [PAGE_MISSING]|#item-ec978f1cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/898,2562,556,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584705593
+sort_value: '304322562'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,3496,761,192/150,/0/default.jpg
-label: sickness
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/898,2562,556,123/150,/0/default.jpg
+label: slippery
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0943'
+order: '0987'
 layout: index_item
 collection: index4
 ---

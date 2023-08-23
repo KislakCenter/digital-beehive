@@ -2,8 +2,8 @@
 pid: index_0564
 volume: Volume 3
 image_number: '12'
-head: catharrs
-entry: "<a href='/digital-beehive/num3/num_0772/'>594 [Catarrhs, Inveterate Coughs]</a>"
+head: celandine
+entry: "<a href='/digital-beehive/num3/num_0937/'>674 [Celandine]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-aa10f13c0"
+item: "#item-94a068d3a"
 unparsed:
-line: 'Head: catharrs|Entry: 594 [Catarrhs, Inveterate Coughs]|#item-aa10f13c0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/395,2885,546,133/full/0/default.jpg
+line: 'Head: celandine|Entry: 674 [Celandine]|#item-94a068d3a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1125,869,530,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098619389
-sort_value: '301212885'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532099102070
+sort_value: '301220869'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/395,2885,546,133/150,/0/default.jpg
-label: catharrs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1125,869,530,111/150,/0/default.jpg
+label: celandine
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0563'
 layout: index_item
 collection: index1

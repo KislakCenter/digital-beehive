@@ -1,9 +1,10 @@
 ---
 pid: index_3095
 volume: Volume 3
-image_number: '36'
-head: gun pouder
-entry: "<a href='/digital-beehive/num5/num_1643/'>1203 [Pistol Pouder]</a>"
+image_number: '37'
+head: pretty
+entry: "<a href='/digital-beehive/num3/num_0670/'>535 [Incomparable]</a>|<a href='/digital-beehive/num3/num_0671/'>535
+  [Excellent]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-74ded3cf4"
+item: "#item-9a32d8a0d"
 unparsed:
-line: 'Head: gun pouder|Entry: 1203 [Pistol Pouder]|#item-74ded3cf4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1148,2904,648,179/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439163192
-sort_value: '303622904'
+line: 'Head: pretty|Entry: 535 [Incomparable]|Entry: 535 [Excellent]|#item-9a32d8a0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/102,1548,382,185/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866422539
+sort_value: '303711548'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1148,2904,648,179/150,/0/default.jpg
-label: gun pouder
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/102,1548,382,185/150,/0/default.jpg
+label: pretty
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0343'
+order: '0387'
 layout: index_item
 collection: index4
 ---

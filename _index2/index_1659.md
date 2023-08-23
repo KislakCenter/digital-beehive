@@ -2,29 +2,28 @@
 pid: index_1659
 volume: Volume 3
 image_number: '22'
-head: God's will
-entry:
+head: grandeur
+entry: "<a href='/digital-beehive/alpha2/alpha_0384/'>a</a>"
 topic:
 first_letter: G
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4549/'>will</a>"
+see:
 index:
-item: "#item-1acaf7ea5"
+item: "#item-09f29094f"
 unparsed:
-line: 'Head: God''s will|See: will|#item-1acaf7ea5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1168,2804,446,140/full/0/default.jpg
+line: 'Head: grandeur|Entry: a|#item-09f29094f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1853,2349,369,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050651570
-sort_value: '302222804'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053259828
+sort_value: '302232349'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1168,2804,446,140/150,/0/default.jpg
-label: God's will
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1853,2349,369,146/150,/0/default.jpg
+label: grandeur
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '478'
+order: '500'
 layout: index_item
 collection: index2
 ---

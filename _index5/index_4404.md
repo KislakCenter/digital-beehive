@@ -1,30 +1,29 @@
 ---
 pid: index_4404
 volume: Volume 3
-image_number: '50'
-head: unlimited
-entry: "<a href='/digital-beehive/num10/num_3390/'>2416 [Unlimited]</a>"
+image_number: '51'
+head: wanton love
+entry: "<a href='/digital-beehive/num6/num_2015/'>1402 [Lasciviousness]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ecf7540b0"
+item: "#item-d6281c206"
 unparsed:
-line: 'Head: unlimited|Entry: 2416 [Unlimited]|#item-ecf7540b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1075,3145,564,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560882999818
-sort_value: '305023145'
+line: 'Head: wanton love|Entry: 1402 [Lasciviousness]|#item-d6281c206'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1649,2034,566,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648005410
+sort_value: '305132034'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1075,3145,564,110/150,/0/default.jpg
-label: unlimited
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1649,2034,566,130/150,/0/default.jpg
+label: wanton love
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '366'
+order: '427'
 layout: index_item
 collection: index5
 ---

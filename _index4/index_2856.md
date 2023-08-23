@@ -2,8 +2,8 @@
 pid: index_2856
 volume: Volume 3
 image_number: '34'
-head: painting
-entry: "<a href='/digital-beehive/num3/num_0735/'>575 [Painting]</a>"
+head: pasquil
+entry: "<a href='/digital-beehive/alpha4/alpha_0690/'>a</a>|1836 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-aadd15fb1"
+item: "#item-5c0052cf0"
 unparsed:
-line: 'Head: painting|Entry: 575 [Painting]|#item-aadd15fb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/446,2749,592,164/full/0/default.jpg
+line: 'Head: pasquil|Entry: a|Entry: 1836 [PAGE_MISSING]|#item-5c0052cf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1841,221,614,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425859834
-sort_value: '303412749'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494905676
+sort_value: '303430221'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/446,2749,592,164/150,/0/default.jpg
-label: painting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1841,221,614,184/150,/0/default.jpg
+label: pasquil
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0104'
+order: '0148'
 layout: index_item
 collection: index4
 ---

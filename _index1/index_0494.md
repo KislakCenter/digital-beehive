@@ -2,29 +2,27 @@
 pid: index_0494
 volume: Volume 3
 image_number: '11'
-head: butter
-entry: "<a href='/digital-beehive/alpha1/alpha_0113/'>a</a>|<a href='/digital-beehive/num8/num_2776/'>1895
-  [Butter]</a>"
+head: caduceus
+entry: "<a href='/digital-beehive/num9/num_3095/'>2153 [Mercurius]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-dc0d3f6ff"
+item: "#item-0013a4096"
 unparsed:
-line: 'Head: butter|Entry: a|Entry: 1895 [Butter]|#item-dc0d3f6ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/878,2573,522,115/full/0/default.jpg
+line: 'Head: caduceus|Entry: 2153 [Mercurius]|#item-0013a4096'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/873,3590,562,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421994690
-sort_value: '301122573'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493973521
+sort_value: '301123590'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/878,2573,522,115/150,/0/default.jpg
-label: butter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/873,3590,562,103/150,/0/default.jpg
+label: caduceus
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0493'
 layout: index_item
 collection: index1

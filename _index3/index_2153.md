@@ -2,29 +2,29 @@
 pid: index_2153
 volume: Volume 3
 image_number: '27'
-head: kibes
-entry: "<a href='/digital-beehive/num5/num_1715/'>1241 [Chilblain]</a>"
+head: lame
+entry: "<a href='/digital-beehive/alpha3/alpha_0510/'>a</a>|<a href='/digital-beehive/num9/num_3080/'>2140
+  [Lame]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-0a76989cf"
+item: "#item-4ec3af142"
 unparsed:
-line: 'Head: kibes|Entry: 1241 [Chilblain]|#item-0a76989cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/864,250,374,156/full/0/default.jpg
+line: 'Head: lame|Entry: a|Entry: 2140 [Lame]|#item-4ec3af142'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1577,319,530,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761140990
-sort_value: '302720250'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832531597
+sort_value: '302730319'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/864,250,374,156/150,/0/default.jpg
-label: kibes
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1577,319,530,126/150,/0/default.jpg
+label: lame
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '235'
+order: '268'
 layout: index_item
 collection: index3
 ---

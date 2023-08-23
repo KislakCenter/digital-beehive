@@ -2,8 +2,8 @@
 pid: index_1770
 volume: Volume 3
 image_number: '23'
-head: haughtiness
-entry: "<a href='/digital-beehive/num5/num_1678/'>1224 [Insolence]</a>"
+head: hen
+entry: "<a href='/digital-beehive/alpha2/alpha_0415/'>a</a>|791 [PAGE_MISSING]"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ea505f647"
+item: "#item-d0181fd98"
 unparsed:
-line: 'Head: haughtiness|Entry: 1224 [Insolence]|#item-ea505f647'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/818,3187,551,141/full/0/default.jpg
+line: 'Head: hen|Entry: a|Entry: 791 [PAGE_MISSING]|#item-d0181fd98'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1512,2728,488,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241414503
-sort_value: '302323187'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571805067
+sort_value: '302332728'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/818,3187,551,141/150,/0/default.jpg
-label: haughtiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1512,2728,488,150/150,/0/default.jpg
+label: hen
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '589'
+issue: The intended page reference cannot be determined.
+order: '611'
 layout: index_item
 collection: index2
 ---

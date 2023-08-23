@@ -2,29 +2,28 @@
 pid: index_1524
 volume: Volume 3
 image_number: '21'
-head: to foster
-entry:
+head: front
+entry: "<a href='/digital-beehive/num7/num_2547/'>1662 [Front]</a>"
 topic:
 first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3968/'>suck</a>"
+see:
 index:
-item: "#item-a6dae9385"
+item: "#item-818b1a642"
 unparsed:
-line: 'Head: to foster|See: suck|#item-a6dae9385'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/893,696,632,99/full/0/default.jpg
+line: 'Head: front|Entry: 1662 [Front]|#item-818b1a642'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/847,3101,393,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531763030417
-sort_value: '302120696'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784402958
+sort_value: '302123101'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/893,696,632,99/150,/0/default.jpg
-label: to foster
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/847,3101,393,139/150,/0/default.jpg
+label: front
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '343'
+order: '365'
 layout: index_item
 collection: index2
 ---

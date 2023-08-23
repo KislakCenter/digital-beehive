@@ -1,29 +1,29 @@
 ---
 pid: index_0637
 volume: Volume 3
-image_number: '12'
-head: chimney
-entry: "<a href='/digital-beehive/alpha1/alpha_0145/'>a</a>"
+image_number: '13'
+head: christianity
+entry: "<a href='/digital-beehive/alpha1/alpha_0149/'>a</a>|<a href='/digital-beehive/num1/num_0228/'>216
+  [Christians]</a>|<a href='/digital-beehive/num9/num_3194/'>2247 [Christian]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e3e3d8ebc"
+item: "#item-cc56d4a62"
 unparsed:
-line: 'Head: chimney|Page: p.8 [Image 1.68]|Entry: a|#item-e3e3d8ebc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1818,2705,538,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532461182664
-sort_value: '301232705'
+line: 'Head: christianity|Entry: a|Entry: 216 [Christians]|Entry: 2247 [Christian]|#item-cc56d4a62'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/141,486,701,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532618444140
+sort_value: '301310486'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1818,2705,538,124/150,/0/default.jpg
-label: chimney
-location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/141,486,701,153/150,/0/default.jpg
+label: christianity
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0636'
 layout: index_item
 collection: index1

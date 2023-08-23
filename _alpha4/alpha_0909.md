@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3863/'>spring. brun[n]</a>"
+index: "<a href='/digital-beehive/index4/index_3805/'>spring. brun[n]</a>"
 item: "#item-df12bfd87"
 unparsed:
 line: 'Entry: Spring|Topic: Spring|Index: spring. brun[n]|#item-df12bfd87'

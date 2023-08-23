@@ -2,8 +2,8 @@
 pid: index_0441
 volume: Volume 3
 image_number: '11'
-head: breadth
-entry: 827 [PAGE_MISSING]
+head: brewing
+entry: 4615 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-341933dca"
+item: "#item-d5633354a"
 unparsed:
-line: 'Head: breadth|Entry: 827 [PAGE_MISSING]|#item-341933dca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/159,1028,461,124/full/0/default.jpg
+line: 'Head: brewing|Entry: 4615 [PAGE_MISSING]|#item-d5633354a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1799,502,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417943017
-sort_value: '301111028'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565371034202
+sort_value: '301111799'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/159,1028,461,124/150,/0/default.jpg
-label: breadth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1799,502,144/150,/0/default.jpg
+label: brewing
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0440'
 layout: index_item
 collection: index1

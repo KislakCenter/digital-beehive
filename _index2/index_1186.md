@@ -2,8 +2,8 @@
 pid: index_1186
 volume: Volume 3
 image_number: '18'
-head: earnest money
-entry: "<a href='/digital-beehive/num3/num_0689/'>546 [[WORD_MISSING]]</a>"
+head: edom
+entry: "<a href='/digital-beehive/num8/num_2785/'>1901 [Esau]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-593ccc608"
+item: "#item-edcacdb30"
 unparsed:
-line: 'Head: earnest money|Entry: 546 [[WORD_MISSING]]|#item-593ccc608'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/424,2227,483,95/full/0/default.jpg
+line: 'Head: edom|Entry: 1901 [Esau]|#item-edcacdb30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1133,888,406,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666986380
-sort_value: '301812227'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672178044
+sort_value: '301820888'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/424,2227,483,95/150,/0/default.jpg
-label: earnest money
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1133,888,406,95/150,/0/default.jpg
+label: edom
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '005'
+order: '027'
 layout: index_item
 collection: index2
 ---

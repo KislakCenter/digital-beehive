@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0691/'>Passion</a>|<a href='/digit
   [horrid Cruelties, practised by Papists upon Protestants]</a>|<a href='/digital-beehive/num2/num_0626/'>498
   [Sufferings]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3972/'>sufferings</a>"
+index: "<a href='/digital-beehive/index4/index_3913/'>sufferings</a>"
 item: "#item-5355ee380"
 unparsed:
 line: 'Entry: Suffering|Topic: Suffering|Xref: Passion|Xref: 515 [horrid Cruelties,

@@ -2,29 +2,31 @@
 pid: index_1312
 volume: Volume 3
 image_number: '19'
-head: Eva
-entry:
+head: excom[m]unication
+entry: "<a href='/digital-beehive/num1/num_0026/'>26 [Excom[m]unication]</a>|<a href='/digital-beehive/num4/num_1166/'>897
+  [Excom[m]unication]</a>|<a href='/digital-beehive/num4/num_1270/'>951 [Excom[m]unication]</a>|<a
+  href='/digital-beehive/num8/num_2726/'>1792 [Excommunication]</a>"
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0039/'>Adam</a>"
+see:
 index:
-item: "#item-d11c69e4c"
+item: "#item-f5bab9463"
 unparsed:
-line: 'Head: Eva|See: Adam|#item-d11c69e4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/878,802,545,128/full/0/default.jpg
+line: 'Head: excom[m]unication|Entry: 26 [Excom[m]unication]|Entry: 897 [Excom[m]unication]|Entry:
+  951 [Excom[m]unication]|Entry: 1792 [Excommunication]|#item-f5bab9463'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/837,3352,696,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565296916442
-sort_value: '301920802'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560364111842
+sort_value: '301923352'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/878,802,545,128/150,/0/default.jpg
-label: Eva
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/837,3352,696,177/150,/0/default.jpg
+label: excom[m]unication
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '131'
+order: '153'
 layout: index_item
 collection: index2
 ---

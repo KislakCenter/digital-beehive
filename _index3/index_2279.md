@@ -2,8 +2,8 @@
 pid: index_2279
 volume: Volume 3
 image_number: '28'
-head: licentiousness
-entry: "<a href='/digital-beehive/num3/num_0721/'>565 [too much liberty]</a>"
+head: loathing
+entry: 779 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-25e4137ee"
+item: "#item-326382182"
 unparsed:
-line: 'Head: licentiousness|Entry: 565 [too much liberty]|#item-25e4137ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1111,2420,585,120/full/0/default.jpg
+line: 'Head: loathing|Entry: 779 [PAGE_MISSING]|#item-326382182'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1806,2892,480,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846310155
-sort_value: '302822420'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559850111967
+sort_value: '302832892'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1111,2420,585,120/150,/0/default.jpg
-label: licentiousness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1806,2892,480,177/150,/0/default.jpg
+label: loathing
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '361'
+order: '394'
 layout: index_item
 collection: index3
 ---

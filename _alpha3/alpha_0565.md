@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2358/'>lowse</a>"
+index: "<a href='/digital-beehive/index3/index_2320/'>lowse</a>"
 item: "#item-d6cf9e3b6"
 unparsed:
 line: 'Entry: Lowse|Topic: Lowse|Index: lowse|#item-d6cf9e3b6'

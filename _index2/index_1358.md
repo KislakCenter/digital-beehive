@@ -1,30 +1,33 @@
 ---
 pid: index_1358
 volume: Volume 3
-image_number: '19'
-head: extasy
-entry:
+image_number: '20'
+head: Faith
+entry: "<a href='/digital-beehive/alpha2/alpha_0312/'>a</a>|<a href='/digital-beehive/num1/num_0137/'>132
+  [Faith & Patience]</a>|<a href='/digital-beehive/num2/num_0485/'>397 [Faith]</a>|<a
+  href='/digital-beehive/num7/num_2609/'>1693 [Faith]</a>|<a href='/digital-beehive/num9/num_3067/'>2127
+  [Faith]</a>|<a href='/digital-beehive/num2/num_0559/'>449 [Implicite Faith]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
-add:
+add: "<a href='/digital-beehive/index3/index_1936/'>implicit</a>"
 xref:
-see: "<a href='/digital-beehive/index5/index_4212/'>trance</a>"
+see:
 index:
-item: "#item-b2ea76ad4"
+item: "#item-897aa4f44"
 unparsed:
-line: 'Head: extasy|See: trance|#item-b2ea76ad4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1523,2004,694,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396070669
-sort_value: '301932004'
+line: 'Head: Faith|Entry: a|Entry: 132 [Faith & Patience]|Entry: 397 [Faith]|Entry:
+  1693 [Faith]|Entry: 2127 [Faith]|Add: implicit|Entry: 449 [Implicite Faith]|#item-897aa4f44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/374,1055,756,256/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561401055471
+sort_value: '302011055'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1523,2004,694,144/150,/0/default.jpg
-label: extasy
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/374,1055,756,256/150,/0/default.jpg
+label: Faith
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '177'
+order: '199'
 layout: index_item
 collection: index2
 ---

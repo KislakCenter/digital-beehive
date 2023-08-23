@@ -2,29 +2,27 @@
 pid: index_0058
 volume: Volume 3
 image_number: '7'
-head: affections
-entry: "<a href='/digital-beehive/alpha1/alpha_0012/'>a</a>|<a href='/digital-beehive/num5/num_1621/'>1187
-  [Affections]</a>"
+head: affinity
+entry:
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3295/'>relation</a>"
 index:
-item: "#item-ef17e84d9"
+item: "#item-fecec7dce"
 unparsed:
-line: 'Head: affections|Entry: a|Entry: 1187 [Affections]|#item-ef17e84d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/896,1511,547,150/full/0/default.jpg
+line: 'Head: affinity|See: relation|#item-fecec7dce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/893,1602,585,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766204750
-sort_value: '300721511'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766304493
+sort_value: '300721602'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/896,1511,547,150/150,/0/default.jpg
-label: affections
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/893,1602,585,160/150,/0/default.jpg
+label: affinity
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0057'
 layout: index_item
 collection: index1

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0582/'>Mediator</a>|<a href='/digital-beehive/num10/num_3420/'>2443
   [Intercession]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2075/'>intercession</a>"
+index: "<a href='/digital-beehive/index3/index_2040/'>intercession</a>"
 item: "#item-d1e0e3d41"
 unparsed:
 line: 'Entry: Intercession|Topic: Intercession|Xref: Mediator|Xref: 2443 [Intercession]|Index:

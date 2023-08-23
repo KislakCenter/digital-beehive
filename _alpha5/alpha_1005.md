@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>faith</a>|<a href='/digital-beehive/num9/num_3005/'>2070
   [Unbelief]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4359/'>unbelief</a>"
+index: "<a href='/digital-beehive/index5/index_4290/'>unbelief</a>"
 item: "#item-4cd97847c"
 unparsed:
 line: 'Entry: Unbelief|Topic: Unbelief|Xref: faith|Xref: 2070 [Unbelief]|Index: unbelief|#item-4cd97847c'

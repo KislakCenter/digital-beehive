@@ -2,8 +2,8 @@
 pid: index_0566
 volume: Volume 3
 image_number: '12'
-head: catmint
-entry: "<a href='/digital-beehive/alpha1/alpha_0130/'>a</a>"
+head: cellar
+entry: 826 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-0ff71ed08"
+item: "#item-6cb55557d"
 unparsed:
-line: 'Head: catmint|Entry: a|#item-0ff71ed08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,3168,486,104/full/0/default.jpg
+line: 'Head: cellar|Entry: 826 [PAGE_MISSING]|#item-6cb55557d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1121,1108,382,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098701641
-sort_value: '301213168'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532099271839
+sort_value: '301221108'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,3168,486,104/150,/0/default.jpg
-label: catmint
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1121,1108,382,103/150,/0/default.jpg
+label: cellar
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0565'
 layout: index_item
 collection: index1

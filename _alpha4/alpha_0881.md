@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0884/'>Sincerity</a>|<a href='/dig
   [Little will suffice Nature]</a>|<a href='/digital-beehive/num7/num_2327/'>1559
   [Simplicity]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3716/'>simplicity</a>"
+index: "<a href='/digital-beehive/index4/index_3659/'>simplicity</a>"
 item: "#item-77c871f61"
 unparsed:
 line: 'Entry: Simplicity|Topic: Simplicity|Xref: Sincerity|Xref: 45 [Little will suffice

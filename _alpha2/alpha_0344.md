@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0588/'>memory</a>|<a href='/digital-beehive/num3/num_1004/'>697
   [Forgetfulness]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1509/'>forgetfulness</a>"
+index: "<a href='/digital-beehive/index2/index_1484/'>forgetfulness</a>"
 item: "#item-f6cafa35f"
 unparsed:
 line: 'Entry: Forgetfulness|Topic: Forgetfulness|Xref: memory|Xref: 697 [Forgetfulness]|Index:

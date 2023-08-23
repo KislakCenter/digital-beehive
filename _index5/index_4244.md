@@ -1,30 +1,30 @@
 ---
 pid: index_4244
 volume: Volume 3
-image_number: '48'
-head: triumph
-entry:
+image_number: '49'
+head: venom
+entry: "<a href='/digital-beehive/alpha5/alpha_0994/'>a</a>|<a href='/digital-beehive/num7/num_2293/'>1540
+  [Poisoning]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4325/'>victory</a>"
+see:
 index:
-item: "#item-5b098d0c1"
+item: "#item-7a1cf5213"
 unparsed:
-line: 'Head: triumph|See: victory|#item-5b098d0c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1796,2180,629,193/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089405326
-sort_value: '304832180'
+line: 'Head: venom|Entry: a|Entry: 1540 [Poisoning]|#item-7a1cf5213'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/962,2713,499,71/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658738560
+sort_value: '304922713'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1796,2180,629,193/150,/0/default.jpg
-label: triumph
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/962,2713,499,71/150,/0/default.jpg
+label: venom
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '206'
+order: '267'
 layout: index_item
 collection: index5
 ---

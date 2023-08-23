@@ -2,8 +2,8 @@
 pid: index_2944
 volume: Volume 3
 image_number: '35'
-head: pencil
-entry: 4532 [PAGE_MISSING]
+head: phylacteries
+entry: "<a href='/digital-beehive/num8/num_2805/'>1911 [Phylacteries]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7e8666a61"
+item: "#item-c45098871"
 unparsed:
-line: 'Head: pencil|Entry: 4532 [PAGE_MISSING]|#item-7e8666a61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/130,1120,497,115/full/0/default.jpg
+line: 'Head: phylacteries|Entry: 1911 [Phylacteries]|#item-c45098871'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/870,3128,545,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972468885
-sort_value: '303511120'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974927689
+sort_value: '303523128'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/130,1120,497,115/150,/0/default.jpg
-label: pencil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/870,3128,545,158/150,/0/default.jpg
+label: phylacteries
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0192'
+order: '0236'
 layout: index_item
 collection: index4
 ---

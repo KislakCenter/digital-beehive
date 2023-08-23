@@ -1,30 +1,29 @@
 ---
 pid: index_1669
 volume: Volume 3
-image_number: '22'
-head: goose
-entry: "<a href='/digital-beehive/alpha2/alpha_0376/'>a</a>|4620 [PAGE_MISSING]"
+image_number: '23'
+head: gravel
+entry: "<a href='/digital-beehive/num3/num_0776/'>596 [The Stone Gravel of the Kidneys]</a>"
 topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-c3361d414"
+item: "#item-1e0cd44fa"
 unparsed:
-line: 'Head: goose|Page: p.35 [Image 1.95]|Entry: a|Entry: 4620 [PAGE_MISSING]|#item-c3361d414'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1836,599,606,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561051945598
-sort_value: '302230599'
+line: 'Head: gravel|Entry: 596 [The Stone Gravel of the Kidneys]|#item-1e0cd44fa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/149,237,370,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559227265630
+sort_value: '302310237'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1836,599,606,142/150,/0/default.jpg
-label: goose
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/149,237,370,141/150,/0/default.jpg
+label: gravel
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '488'
+order: '510'
 layout: index_item
 collection: index2
 ---

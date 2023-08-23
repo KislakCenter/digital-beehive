@@ -2,30 +2,28 @@
 pid: index_4589
 volume: Volume 3
 image_number: '53'
-head: womanish
-entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>|<a href='/digital-beehive/num6/num_1987/'>1388
-  [Love of Women]</a>"
+head: Zunfften
+entry: "<a href='/digital-beehive/num3/num_0860/'>634 [Trade]</a>|4556 [PAGE_MISSING]"
 topic:
-first_letter: W
+first_letter: Z
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4e633adab"
+item: "#item-4388fe131"
 unparsed:
-line: 'Head: womanish|Entry: a|Entry: 1388 [Love of Women]|#item-4e633adab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/154,3334,645,116/full/0/default.jpg
+line: 'Head: Zunfften|Entry: 634 [Trade]|Entry: 4556 [PAGE_MISSING]|#item-4388fe131'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1529,3574,745,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793636828
-sort_value: '305313334'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560870642214
+sort_value: '305333574'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/154,3334,645,116/150,/0/default.jpg
-label: womanish
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1529,3574,745,139/150,/0/default.jpg
+label: Zunfften
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '551'
+order: '612'
 layout: index_item
 collection: index5
 ---

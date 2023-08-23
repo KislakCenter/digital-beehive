@@ -2,8 +2,8 @@
 pid: index_3050
 volume: Volume 3
 image_number: '36'
-head: plums
-entry: "<a href='/digital-beehive/num3/num_0988/'>691 [Plums]</a>"
+head: powder
+entry: 736 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e2ec2476c"
+item: "#item-20f8d672d"
 unparsed:
-line: 'Head: plums|Entry: 691 [Plums]|#item-e2ec2476c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/472,1684,393,96/full/0/default.jpg
+line: 'Head: powder|Entry: 736 [PAGE_MISSING]|#item-20f8d672d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1148,3547,448,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208054382
-sort_value: '303611684'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439303342
+sort_value: '303623547'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/472,1684,393,96/150,/0/default.jpg
-label: plums
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1148,3547,448,86/150,/0/default.jpg
+label: powder
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0298'
+order: '0342'
 layout: index_item
 collection: index4
 ---

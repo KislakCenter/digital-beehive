@@ -1,30 +1,29 @@
 ---
 pid: index_2606
 volume: Volume 3
-image_number: '31'
-head: mouse
-entry: "<a href='/digital-beehive/alpha3/alpha_0618/'>a</a>"
+image_number: '32'
+head: nativity
+entry:
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7db48f6ff"
+item: "#item-79ef3a393"
 unparsed:
-line: 'Head: mouse|Entry: a|#item-7db48f6ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,728,345,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360696210
-sort_value: '303130728'
+line: 'Head: nativity|#item-79ef3a393'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/393,1356,310,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437714005
+sort_value: '303211356'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,728,345,128/150,/0/default.jpg
-label: mouse
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/393,1356,310,114/150,/0/default.jpg
+label: nativity
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '688'
+order: '721'
 layout: index_item
 collection: index3
 ---

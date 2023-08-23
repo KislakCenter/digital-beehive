@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0144/'>Chiliasm</a>|<a href='/digital-beehive/num5/num_1402/'>1047
   [Coming of God and Christ]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0734/'>coming of Christ</a>"
+index: "<a href='/digital-beehive/index1/index_0720/'>coming of Christ</a>"
 item: "#item-e202e67bc"
 unparsed:
 line: 'Entry: Coming of Christ|Topic: Coming of Christ|Xref: Chiliasm|Xref: 1047 [Coming

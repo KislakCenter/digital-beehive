@@ -2,8 +2,9 @@
 pid: index_1236
 volume: Volume 3
 image_number: '18'
-head: embryo
-entry: "<a href='/digital-beehive/num6/num_2172/'>1474 [Embryo]</a>"
+head: English man and woman
+entry: "<a href='/digital-beehive/num6/num_2168/'>1473 [England]</a>|<a href='/digital-beehive/num6/num_2169/'>1473
+  [Englishman]</a>|4498 [PAGE_MISSING]"
 topic:
 first_letter: E
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-a13f4a5ae"
+item: "#item-378414bfd"
 unparsed:
-line: 'Head: embryo|Entry: 1474 [Embryo]|#item-a13f4a5ae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,3329,421,116/full/0/default.jpg
+line: 'Head: English man and woman|Entry: 1473 [England]|Entry: 1473 [Englishman]|Entry:
+  4498 [PAGE_MISSING]|#item-378414bfd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1813,1920,643,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744021370
-sort_value: '301823329'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758094857
+sort_value: '301831920'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,3329,421,116/150,/0/default.jpg
-label: embryo
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1813,1920,643,142/150,/0/default.jpg
+label: English man and woman
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '055'
+order: '077'
 layout: index_item
 collection: index2
 ---

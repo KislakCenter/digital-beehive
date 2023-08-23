@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0590/'>Mercy</a>|<a href='/digital-beehive/num10/num_3200/'>2251
   [Unmerciful]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4405/'>unmerciful</a>"
+index: "<a href='/digital-beehive/index5/index_4336/'>unmerciful</a>"
 item: "#item-2e68f38de"
 unparsed:
 line: 'Entry: Unmercifullness|Topic: Unmercifullness|Xref: Mercy|Xref: 2251 [Unmerciful]|Index:

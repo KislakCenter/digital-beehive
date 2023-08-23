@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num10/num_3320/'>2349 [Gravity]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1702/'>gravity</a>"
+index: "<a href='/digital-beehive/index2/index_1671/'>gravity</a>"
 item: "#item-62b38a997"
 unparsed:
 line: 'Entry: Gravity|Topic: Gravity|Xref: 2349 [Gravity]|Index: gravity|#item-62b38a997'

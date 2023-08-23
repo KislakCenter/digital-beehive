@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0525/'>423 [Self-murder]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3622/'>Self murder</a>"
+index: "<a href='/digital-beehive/index4/index_3566/'>Self murder</a>"
 item: "#item-477bae7df"
 unparsed:
 line: 'Entry: Self murder|Topic: Self murder|Xref: 423 [Self-murder]|Index: Self murder|#item-477bae7df'

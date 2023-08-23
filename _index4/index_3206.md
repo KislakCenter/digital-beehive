@@ -1,32 +1,29 @@
 ---
 pid: index_3206
 volume: Volume 3
-image_number: '37'
-head: protestants
-entry: "<a href='/digital-beehive/num1/num_0084/'>83 [Protestant]</a>|<a href='/digital-beehive/num7/num_2233/'>1511
-  [Protestant Religion]</a>|<a href='/digital-beehive/num10/num_3218/'>2264 [Protestants]</a>"
+image_number: '38'
+head: to quench
+entry: 782 [PAGE_MISSING]
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f84e26f79"
+item: "#item-4b4a3949c"
 unparsed:
-line: 'Head: protestants|Entry: 83 [Protestant]|Entry: 1511 [Protestant Religion]|Entry:
-  2264 [Protestants]|#item-f84e26f79'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,1927,792,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869472203
-sort_value: '303731927'
+line: 'Head: to quench|Entry: 782 [PAGE_MISSING]|#item-4b4a3949c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,439,521,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455041456
+sort_value: '303820439'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,1927,792,135/150,/0/default.jpg
-label: protestants
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,439,521,137/150,/0/default.jpg
+label: to quench
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0454'
+order: '0498'
 layout: index_item
 collection: index4
 ---

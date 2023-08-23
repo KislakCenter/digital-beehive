@@ -2,9 +2,10 @@
 pid: index_2946
 volume: Volume 3
 image_number: '35'
-head: Wm. Pen[n]
-entry: "<a href='/digital-beehive/num5/num_1482/'>1095 [William Pen[n]'s]</a>|<a href='/digital-beehive/num7/num_2580/'>1678
-  [Wm. Pen[n]]</a>|<a href='/digital-beehive/num8/num_2897/'>1970 [Wm. Penn's]</a>"
+head: physician
+entry: "<a href='/digital-beehive/alpha4/alpha_0709/'>a</a>|<a href='/digital-beehive/num6/num_1734/'>1251
+  [Physicians]</a>|<a href='/digital-beehive/num7/num_2484/'>1634 [Physician]</a>|<a
+  href='/digital-beehive/num9/num_3175/'>2229 [Physician]</a>"
 topic:
 first_letter: P
 page:
@@ -12,21 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-4820df2d5"
+item: "#item-113299900"
 unparsed:
-line: 'Head: Wm. Pen[n]|Entry: 1095 [William Pen[n]''s]|Entry: 1678 [Wm. Pen[n]]|Entry:
-  1970 [Wm. Penn''s]|#item-4820df2d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/145,1313,707,149/full/0/default.jpg
+line: 'Head: physician|Entry: a|Entry: 1251 [Physicians]|Entry: 1634 [Physician]|Entry:
+  2229 [Physician]|#item-113299900'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/858,3304,746,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972566752
-sort_value: '303511313'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975624921
+sort_value: '303523304'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/145,1313,707,149/150,/0/default.jpg
-label: Wm. Pen[n]
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/858,3304,746,151/150,/0/default.jpg
+label: physician
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0194'
+order: '0238'
 layout: index_item
 collection: index4
 ---

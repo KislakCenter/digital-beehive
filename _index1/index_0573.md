@@ -2,8 +2,9 @@
 pid: index_0573
 volume: Volume 3
 image_number: '12'
-head: to cease
-entry: "<a href='/digital-beehive/num2/num_0301/'>268 [to Cease]</a>"
+head: certainly
+entry: "<a href='/digital-beehive/num4/num_1203/'>914 [Security]</a>|<a href='/digital-beehive/num9/num_3157/'>2213
+  [I am Sure]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-accf19374"
+item: "#item-dd20065c2"
 unparsed:
-line: 'Head: to cease|Entry: 268 [to Cease]|#item-accf19374'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1133,635,480,123/full/0/default.jpg
+line: 'Head: certainly|Entry: 914 [Security]|Entry: 2213 [I am Sure]|#item-dd20065c2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1118,1775,676,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098956050
-sort_value: '301220635'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532099725406
+sort_value: '301221775'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1133,635,480,123/150,/0/default.jpg
-label: to cease
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1118,1775,676,115/150,/0/default.jpg
+label: certainly
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0572'
 layout: index_item
 collection: index1

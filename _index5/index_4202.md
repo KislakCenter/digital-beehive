@@ -1,9 +1,9 @@
 ---
 pid: index_4202
 volume: Volume 3
-image_number: '48'
-head: tournamt
-entry: "<a href='/digital-beehive/num6/num_1862/'>1325 [a Tournament]</a>"
+image_number: '49'
+head: to turn
+entry: "<a href='/digital-beehive/num4/num_1147/'>889 [To Turn]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4417c36e9"
+item: "#item-dbfdf33d1"
 unparsed:
-line: 'Head: tournamt|Entry: 1325 [a Tournament]|#item-4417c36e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1092,566,489,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561482272117
-sort_value: '304820566'
+line: 'Head: to turn|Entry: 889 [To Turn]|#item-dbfdf33d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/199,1688,419,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656588027
+sort_value: '304911688'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1092,566,489,125/150,/0/default.jpg
-label: tournamt
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/199,1688,419,123/150,/0/default.jpg
+label: to turn
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '164'
+order: '225'
 layout: index_item
 collection: index5
 ---

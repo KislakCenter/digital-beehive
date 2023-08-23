@@ -1,9 +1,9 @@
 ---
 pid: index_3498
 volume: Volume 3
-image_number: '40'
-head: salamander
-entry: "<a href='/digital-beehive/num5/num_1721/'>1245 [Salamander]</a>"
+image_number: '41'
+head: scorn
+entry: "<a href='/digital-beehive/alpha4/alpha_0840/'>a</a>|814 [PAGE_MISSING]"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5fe2f6efe"
+item: "#item-22ba831e8"
 unparsed:
-line: 'Head: salamander|Entry: 1245 [Salamander]|#item-5fe2f6efe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235309496
-sort_value: '304033098'
+line: 'Head: scorn|Entry: a|Entry: 814 [PAGE_MISSING]|#item-22ba831e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/851,1953,491,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240998582
+sort_value: '304121953'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/150,/0/default.jpg
-label: salamander
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/851,1953,491,120/150,/0/default.jpg
+label: scorn
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0746'
+order: '0790'
 layout: index_item
 collection: index4
 ---

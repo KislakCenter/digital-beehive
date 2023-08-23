@@ -2,8 +2,8 @@
 pid: index_0259
 volume: Volume 3
 image_number: '9'
-head: Baal
-entry: "<a href='/digital-beehive/num8/num_2824/'>1919 [Baal]</a>"
+head: backsliding
+entry: "<a href='/digital-beehive/num7/num_2469/'>1628 [Relapses]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-b0c6e8a96"
+item: "#item-9ec26fbf7"
 unparsed:
-line: 'Head: Baal|Entry: 1919 [Baal]|#item-b0c6e8a96'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/194,2725,375,129/full/0/default.jpg
+line: 'Head: backsliding|Entry: 1628 [Relapses]|#item-9ec26fbf7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/196,3350,589,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504210675155
-sort_value: '300912725'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016672465
+sort_value: '300913350'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/194,2725,375,129/150,/0/default.jpg
-label: Baal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/196,3350,589,123/150,/0/default.jpg
+label: backsliding
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0258'
 layout: index_item
 collection: index1

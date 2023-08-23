@@ -2,8 +2,9 @@
 pid: index_3056
 volume: Volume 3
 image_number: '36'
-head: pocks small
-entry: "<a href='/digital-beehive/num2/num_0447/'>371 [small pocks]</a>"
+head: praise of men
+entry: "<a href='/digital-beehive/alpha5/num_1506/'>a</a>|<a href='/digital-beehive/num5/num_1506/'>1112
+  [Praise of God or Men]</a>|1871 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,21 @@ add:
 xref:
 see:
 index:
-item: "#item-67b4151f5"
+item: "#item-0e5a423f4"
 unparsed:
-line: 'Head: pocks small|Entry: 371 [small pocks]|#item-67b4151f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/390,2109,636,119/full/0/default.jpg
+line: 'Head: praise of men|Entry: a|Entry: 1112 [Praise of God or Men]|Entry: 1871
+  [PAGE_MISSING]|#item-0e5a423f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1908,619,667,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208203581
-sort_value: '303612109'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439863205
+sort_value: '303630619'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/390,2109,636,119/150,/0/default.jpg
-label: pocks small
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1908,619,667,112/150,/0/default.jpg
+label: praise of men
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '0304'
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
+order: '0348'
 layout: index_item
 collection: index4
 ---

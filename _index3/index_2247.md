@@ -2,29 +2,28 @@
 pid: index_2247
 volume: Volume 3
 image_number: '28'
-head: Dan. Leeds
-entry: "<a href='/digital-beehive/num6/num_1776/'>1278 [Daniel Leeds]</a>"
+head: to live well
+entry: "<a href='/digital-beehive/num7/num_2224/'>1506 [To Live well]</a>"
 topic:
 first_letter: L
 page:
-add:
+add: "<a href='/digital-beehive/index5/index_4030/'>term</a>"
 xref:
 see:
 index:
-item: "#item-b1b46f42e"
+item: "#item-c21643520"
 unparsed:
-line: 'Head: Dan. Leeds|Entry: 1278 [Daniel Leeds]|#item-b1b46f42e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/361,3013,551,102/full/0/default.jpg
+line: 'Head: to live well|Entry: 1506 [To Live well]|Add: term|#item-c21643520'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1142,2868,541,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842716901
-sort_value: '302813013'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559847033745
+sort_value: '302822868'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/361,3013,551,102/150,/0/default.jpg
-label: Dan. Leeds
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1142,2868,541,175/150,/0/default.jpg
+label: to live well
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '329'
+order: '362'
 layout: index_item
 collection: index3
 ---

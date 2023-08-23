@@ -1,30 +1,29 @@
 ---
 pid: index_4322
 volume: Volume 3
-image_number: '49'
-head: to vex
+image_number: '50'
+head: universal Church
 entry:
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2965/'>perplex</a>|<a href='/digital-beehive/index5/index_4247/'>trouble</a>"
+see:
 index:
-item: "#item-994d33754"
+item: "#item-aa7ee6dfd"
 unparsed:
-line: 'Head: to vex|See: perplex|See: trouble|#item-994d33754'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,371,740,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659561107
-sort_value: '304930371'
+line: 'Head: universal Church|#item-aa7ee6dfd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1110,1648,376,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560881285539
+sort_value: '305021648'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,371,740,158/150,/0/default.jpg
-label: to vex
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1110,1648,376,123/150,/0/default.jpg
+label: universal Church
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '284'
+order: '345'
 layout: index_item
 collection: index5
 ---

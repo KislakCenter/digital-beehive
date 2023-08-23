@@ -2,29 +2,28 @@
 pid: index_4164
 volume: Volume 3
 image_number: '48'
-head: toad
+head: treasure houses
 entry:
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1550/'>frog</a>"
+see:
 index:
-item: "#item-999c97a00"
+item: "#item-99fde9bb3"
 unparsed:
-line: 'Head: toad|See: frog|#item-999c97a00'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,264,451,136/full/0/default.jpg
+line: 'Head: treasure houses|Page: p.6 [Image 1.66]|#item-99fde9bb3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1785,320,502,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844746251
-sort_value: '304810264'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561490336099
+sort_value: '304830320'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,264,451,136/150,/0/default.jpg
-label: toad
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1785,320,502,156/150,/0/default.jpg
+label: treasure houses
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '126'
+order: '187'
 layout: index_item
 collection: index5
 ---

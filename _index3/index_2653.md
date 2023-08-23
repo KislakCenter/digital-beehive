@@ -2,9 +2,8 @@
 pid: index_2653
 volume: Volume 3
 image_number: '32'
-head: natural man
-entry: "<a href='/digital-beehive/num1/num_0050/'>50 [Natural man]</a>|<a href='/digital-beehive/num9/num_3015/'>2080
-  [Natural man]</a>"
+head: new inventions
+entry: "<a href='/digital-beehive/num2/num_0310/'>275 [New Inventions]</a>"
 topic:
 first_letter: N
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-79594899d"
+item: "#item-e96a3e5b8"
 unparsed:
-line: 'Head: natural man|Entry: 50 [Natural man]|Entry: 2080 [Natural man]|#item-79594899d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,1691,571,51/full/0/default.jpg
+line: 'Head: new inventions|Entry: 275 [New Inventions]|#item-e96a3e5b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1119,2038,617,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437959582
-sort_value: '303211691'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442536199
+sort_value: '303222038'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,1691,571,51/150,/0/default.jpg
-label: natural man
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1119,2038,617,100/150,/0/default.jpg
+label: new inventions
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '735'
+order: '768'
 layout: index_item
 collection: index3
 ---

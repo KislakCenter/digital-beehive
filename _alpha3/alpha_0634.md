@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0664/'>Old Adam</a>|<a href='/digital-beehive/num5/num_1465/'>1086
   [Natural]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2651/'>natural</a>"
+index: "<a href='/digital-beehive/index3/index_2608/'>natural</a>"
 item: "#item-ce551c783"
 unparsed:
 line: 'Entry: Natural|Topic: Natural|Xref: Old Adam|Xref: 1086 [Natural]|Index: natural|#item-ce551c783'

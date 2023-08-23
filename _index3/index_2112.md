@@ -1,33 +1,29 @@
 ---
 pid: index_2112
 volume: Volume 3
-image_number: '26'
-head: joy
-entry: "<a href='/digital-beehive/alpha3/alpha_0491/'>a</a>|832 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_1995/'>1392 [Joy]</a>|<a href='/digital-beehive/num8/num_2865/'>1940
-  [Joy]</a>"
+image_number: '27'
+head: ivy
+entry: "<a href='/digital-beehive/num7/num_2511/'>1646 [Ivy]</a>"
 topic:
 first_letter: I/J
-page:
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-02f6aa1ec"
+item: "#item-497758b3d"
 unparsed:
-line: 'Head: joy|Entry: a|Entry: 832 [PAGE_MISSING]|Entry: 1392 [Joy]|Entry: 1940
-  [Joy]|#item-02f6aa1ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1841,3036,657,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754627695
-sort_value: '302633036'
+line: 'Head: ivy|Page: p.33 [Image 1.93]|Entry: 1646 [Ivy]|#item-497758b3d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/130,2999,466,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759441380
+sort_value: '302712999'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1841,3036,657,121/150,/0/default.jpg
-label: joy
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/130,2999,466,153/150,/0/default.jpg
+label: ivy
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '194'
+order: '227'
 layout: index_item
 collection: index3
 ---

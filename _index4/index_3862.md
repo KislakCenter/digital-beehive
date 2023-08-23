@@ -1,9 +1,9 @@
 ---
 pid: index_3862
 volume: Volume 3
-image_number: '44'
-head: spoon
-entry: "<a href='/digital-beehive/num8/num_2753/'>1819 [Spoon]</a>"
+image_number: '45'
+head: stoutness
+entry: "<a href='/digital-beehive/num6/num_1847/'>1319 [Stoutness]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3dae3567d"
+item: "#item-6641f453b"
 unparsed:
-line: 'Head: spoon|Entry: 1819 [Spoon]|#item-3dae3567d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1825,1647,381,78/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530105301406
-sort_value: '304431647'
+line: 'Head: stoutness|Entry: 1319 [Stoutness]|#item-6641f453b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/898,870,417,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530449632330
+sort_value: '304520870'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1825,1647,381,78/150,/0/default.jpg
-label: spoon
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/898,870,417,117/150,/0/default.jpg
+label: stoutness
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1110'
+order: '1154'
 layout: index_item
 collection: index4
 ---

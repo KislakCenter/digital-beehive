@@ -2,28 +2,27 @@
 pid: index_0439
 volume: Volume 3
 image_number: '11'
-head: brave
-entry:
+head: breed
+entry: "<a href='/digital-beehive/num8/num_2927/'>1994 [good Breed]</a>"
 topic:
 first_letter: B
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1330/'>excellent</a>|<a href='/digital-beehive/index5/index_4518/'>well</a>"
+see:
 index:
-item: "#item-947f4a65c"
+item: "#item-c86a82836"
 unparsed:
-line: 'Head: brave|See: excellent|See: well|#item-947f4a65c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,755,729,161/full/0/default.jpg
+line: 'Head: breed|Entry: 1994 [good Breed]|#item-c86a82836'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/158,1631,387,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417813872
-sort_value: '301110755'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531418485037
+sort_value: '301111631'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,755,729,161/150,/0/default.jpg
-label: brave
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/158,1631,387,92/150,/0/default.jpg
+label: breed
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: The meaning of "it. man" cannot be determined.
-insertion_xref:
+issue:
 order: '0438'
 layout: index_item
 collection: index1

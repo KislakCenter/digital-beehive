@@ -1,10 +1,9 @@
 ---
 pid: index_2897
 volume: Volume 3
-image_number: '34'
-head: partakers
-entry: "<a href='/digital-beehive/alpha4/alpha_0688/'>a</a>|<a href='/digital-beehive/num10/num_3337/'>2364
-  [To Com[m]unicate & partake]</a>"
+image_number: '35'
+head: pencil
+entry: 4532 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a14134c3c"
+item: "#item-7e8666a61"
 unparsed:
-line: 'Head: partakers|Entry: a|Entry: 2364 [To Com[m]unicate & partake]|#item-a14134c3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1112,3023,673,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494650292
-sort_value: '303423023'
+line: 'Head: pencil|Entry: 4532 [PAGE_MISSING]|#item-7e8666a61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/130,1120,497,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972468885
+sort_value: '303511120'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1112,3023,673,170/150,/0/default.jpg
-label: partakers
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/130,1120,497,115/150,/0/default.jpg
+label: pencil
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0145'
+order: '0189'
 layout: index_item
 collection: index4
 ---

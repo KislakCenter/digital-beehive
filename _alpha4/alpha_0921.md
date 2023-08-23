@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0204/'>Curiosity</a>|858 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3927/'>strange business</a>"
+index: "<a href='/digital-beehive/index4/index_3868/'>strange business</a>"
 item: "#item-bf2362a54"
 unparsed:
 line: 'Entry: Strange buseness|Topic: Strange buseness|Xref: Curiosity|Xref: 858 [PAGE_MISSING]|Index:

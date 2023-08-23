@@ -2,28 +2,28 @@
 pid: index_0935
 volume: Volume 3
 image_number: '15'
-head: to cut
-entry: 838 [PAGE_MISSING]
+head: day
+entry: "<a href='/digital-beehive/alpha1/alpha_0211/'>a</a>|<a href='/digital-beehive/num6/num_2116/'>1447
+  [Day]</a>"
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4dcd2ab54"
+item: "#item-e6884194d"
 unparsed:
-line: 'Head: to cut|Entry: 838 [PAGE_MISSING]|#item-4dcd2ab54'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1577,608,408,77/full/0/default.jpg
+line: 'Head: day|Entry: a|Entry: 1447 [Day]|#item-e6884194d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1551,1973,475,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390739294
-sort_value: '301530608'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507321988619
+sort_value: '301531973'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1577,608,408,77/150,/0/default.jpg
-label: to cut
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1551,1973,475,98/150,/0/default.jpg
+label: day
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0934'
 layout: index_item
 collection: index1

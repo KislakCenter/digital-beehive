@@ -1,11 +1,10 @@
 ---
 pid: index_3559
 volume: Volume 3
-image_number: '41'
-head: Scriptures
-entry: "<a href='/digital-beehive/alpha4/alpha_0841/'>a</a>|<a href='/digital-beehive/num4/num_1223/'>922
-  [H. Scripture]</a>|<a href='/digital-beehive/num5/num_1376/'>1028 [h: Scriptures]</a>|<a
-  href='/digital-beehive/num9/num_3181/'>2235 [H: Scriptures]</a>"
+image_number: '42'
+head: Self examina[ti]on
+entry: "<a href='/digital-beehive/num5/num_1504/'>1111 [Examine]</a>|<a href='/digital-beehive/num10/num_3245/'>2284
+  [Self-Examination]</a>"
 topic:
 first_letter: S
 page:
@@ -13,21 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5d964af2c"
+item: "#item-f5ce036f2"
 unparsed:
-line: 'Head: Scriptures|Entry: a|Entry: 922 [H. Scripture]|Entry: 1028 [h: Scriptures]|Entry:
-  2235 [H: Scriptures]|#item-5d964af2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2458,734,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241344714
-sort_value: '304122458'
+line: 'Head: Self examina[ti]on|Entry: 1111 [Examine]|Entry: 2284 [Self-Examination]|#item-f5ce036f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/360,1291,787,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244340193
+sort_value: '304211291'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/877,2458,734,158/150,/0/default.jpg
-label: Scriptures
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/360,1291,787,111/150,/0/default.jpg
+label: Self examina[ti]on
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0807'
+order: '0851'
 layout: index_item
 collection: index4
 ---

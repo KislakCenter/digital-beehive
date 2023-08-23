@@ -1,9 +1,9 @@
 ---
 pid: index_4481
 volume: Volume 3
-image_number: '51'
-head: warts
-entry: "<a href='/digital-beehive/num6/num_1883/'>1337 [Corns : Warts]</a>"
+image_number: '52'
+head: will of God
+entry: "<a href='/digital-beehive/alpha5/alpha_1040/'>a</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-435af9d2a"
+item: "#item-ed8e57bad"
 unparsed:
-line: 'Head: warts|Entry: 1337 [Corns : Warts]|#item-435af9d2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3359,471,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648585843
-sort_value: '305133359'
+line: 'Head: will of God|Entry: a|#item-ed8e57bad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1766,2329,452,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972231447
+sort_value: '305232329'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3359,471,112/150,/0/default.jpg
-label: warts
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1766,2329,452,125/150,/0/default.jpg
+label: will of God
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '443'
+order: '504'
 layout: index_item
 collection: index5
 ---

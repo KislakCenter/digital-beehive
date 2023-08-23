@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0565/'>Lowse</a>|<a href='/digital-beehive/alpha2/alpha_0333/'>Flea</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0473/'>bugs</a>"
+index: "<a href='/digital-beehive/index1/index_0464/'>bugs</a>"
 item: "#item-fe1ae6c9a"
 unparsed:
 line: 'Entry: Bugs|Topic: Bugs|Xref: Lowse|Xref: Flea|Index: bugs|#item-fe1ae6c9a'

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0220/'>Defence</a>|<a href='/digital-beehive/alpha2/alpha_0371/'>Gods
   help</a>|1855 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3205/'>protection</a>"
+index: "<a href='/digital-beehive/index4/index_3155/'>protection</a>"
 item: "#item-8801776b3"
 unparsed:
 line: 'Entry: Protection|Topic: Protection|Xref: Defence|Xref: Gods help|Xref: 1855

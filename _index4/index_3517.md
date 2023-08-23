@@ -2,29 +2,28 @@
 pid: index_3517
 volume: Volume 3
 image_number: '41'
-head: sanctification
-entry: "<a href='/digital-beehive/num4/num_1322/'>990 [Holiness]</a>"
+head: Sea man
+entry: 764 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1854/'>holiness</a>"
+see:
 index:
-item: "#item-5a4a0f290"
+item: "#item-510f587f7"
 unparsed:
-line: 'Head: sanctification|See: holiness|Entry: 990 [Holiness]|#item-5a4a0f290'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/156,1556,746,158/full/0/default.jpg
+line: 'Head: Sea man|Entry: 764 [PAGE_MISSING]|#item-510f587f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1549,541,451,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238976500
-sort_value: '304111556'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242213079
+sort_value: '304130541'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/156,1556,746,158/150,/0/default.jpg
-label: sanctification
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1549,541,451,94/150,/0/default.jpg
+label: Sea man
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0765'
+order: '0809'
 layout: index_item
 collection: index4
 ---

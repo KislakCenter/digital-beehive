@@ -1,9 +1,9 @@
 ---
 pid: index_2911
 volume: Volume 3
-image_number: '34'
-head: past danger
-entry: "<a href='/digital-beehive/num2/num_0509/'>411 [Past all Danger]</a>"
+image_number: '35'
+head: peripatetici
+entry: "<a href='/digital-beehive/num5/num_1433/'>1064 [Peripatetick]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0c953c4c5"
+item: "#item-840a87a8a"
 unparsed:
-line: 'Head: past danger|Entry: 411 [Past all Danger]|#item-0c953c4c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1813,1147,618,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495160388
-sort_value: '303431147'
+line: 'Head: peripatetici|Entry: 1064 [Peripatetick]|#item-840a87a8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/122,2716,639,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973166225
+sort_value: '303512716'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1813,1147,618,166/150,/0/default.jpg
-label: past danger
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/122,2716,639,154/150,/0/default.jpg
+label: peripatetici
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0159'
+order: '0203'
 layout: index_item
 collection: index4
 ---

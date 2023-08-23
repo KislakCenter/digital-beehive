@@ -2,8 +2,8 @@
 pid: index_3525
 volume: Volume 3
 image_number: '41'
-head: Savin
-entry: "<a href='/digital-beehive/num3/num_0993/'>692 [Savin]</a>"
+head: second sight
+entry: "<a href='/digital-beehive/num6/num_1836/'>1314 [Second sighted]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-738631f07"
+item: "#item-974dc24cb"
 unparsed:
-line: 'Head: Savin|Entry: 692 [Savin]|#item-738631f07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/192,2103,407,116/full/0/default.jpg
+line: 'Head: second sight|Entry: 1314 [Second sighted]|#item-974dc24cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1567,1349,644,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239253263
-sort_value: '304112103'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242506168
+sort_value: '304131349'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/192,2103,407,116/150,/0/default.jpg
-label: Savin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1567,1349,644,142/150,/0/default.jpg
+label: second sight
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0773'
+order: '0817'
 layout: index_item
 collection: index4
 ---

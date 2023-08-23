@@ -1,31 +1,29 @@
 ---
 pid: index_2532
 volume: Volume 3
-image_number: '30'
-head: miracle
-entry: "<a href='/digital-beehive/alpha3/alpha_0599/'>a</a>|<a href='/digital-beehive/num1/num_0261/'>243
-  [Miracles]</a>|<a href='/digital-beehive/num9/num_3074/'>2134 [Miracle]</a>"
+image_number: '31'
+head: monuments
+entry:
 topic:
 first_letter: M
-page:
+page: "<a href='/digital-beehive/toc/toc1_059/'>p.9 [Image 1.69]</a>"
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0465/'>buildings</a>"
 index:
-item: "#item-4a0e73f5b"
+item: "#item-7ed991387"
 unparsed:
-line: 'Head: miracle|Entry: a|Entry: 243 [Miracles]|Entry: 2134 [Miracle]|#item-4a0e73f5b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1833,3431,670,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275087270
-sort_value: '303033431'
+line: 'Head: monuments|Page: p.9 [Image 1.69]|See: buildings|#item-7ed991387'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/862,1140,783,201/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355410332
+sort_value: '303121140'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1833,3431,670,114/150,/0/default.jpg
-label: miracle
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/862,1140,783,201/150,/0/default.jpg
+label: monuments
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '614'
+order: '647'
 layout: index_item
 collection: index3
 ---

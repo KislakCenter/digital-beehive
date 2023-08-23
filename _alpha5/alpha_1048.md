@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2285/'>1535 [Lycanthropia]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4586/'>wolf</a>"
+index: "<a href='/digital-beehive/index5/index_4516/'>wolf</a>"
 item: "#item-3595fd35e"
 unparsed:
 line: 'Entry: Wolf|Topic: Wolf|Xref: 1535 [Lycanthropia]|Index: wolf|#item-3595fd35e'

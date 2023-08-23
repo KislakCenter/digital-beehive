@@ -2,8 +2,8 @@
 pid: index_2550
 volume: Volume 3
 image_number: '31'
-head: mixture
-entry: 740 [PAGE_MISSING]
+head: Moscovy
+entry: "<a href='/digital-beehive/num5/num_1530/'>1127 [Moscovy]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-010819252"
+item: "#item-0c3329c2e"
 unparsed:
-line: 'Head: mixture|Entry: 740 [PAGE_MISSING]|#item-010819252'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/172,2073,447,164/full/0/default.jpg
+line: 'Head: Moscovy|Entry: 1127 [Moscovy]|#item-0c3329c2e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/834,2814,435,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352251605
-sort_value: '303112073'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356639019
+sort_value: '303122814'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/172,2073,447,164/150,/0/default.jpg
-label: mixture
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/834,2814,435,163/150,/0/default.jpg
+label: Moscovy
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '632'
+order: '665'
 layout: index_item
 collection: index3
 ---

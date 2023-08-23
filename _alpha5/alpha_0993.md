@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0437/'>hotchpotch</a>|<a href='/digital-beehive/alpha3/alpha_0574/'>many
   men</a>|<a href='/digital-beehive/alpha5/alpha_1013/'>unstableness</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4298/'>variety</a>"
+index: "<a href='/digital-beehive/index5/index_4231/'>variety</a>"
 item: "#item-971d9fe72"
 unparsed:
 line: 'Entry: Variety|Topic: Variety|Xref: hotchpotch|Xref: many men|Xref: unstableness|Index:

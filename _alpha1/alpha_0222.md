@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0702/'>Perfection</a>|<a href='/digital-beehive/alpha4/alpha_0747/'>Progress</a>|<a
   href='/digital-beehive/num6/num_1963/'>1377 [Great with young]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0993/'>degree</a>"
+index: "<a href='/digital-beehive/index1/index_0974/'>degree</a>"
 item: "#item-b4234514f"
 unparsed:
 line: 'Entry: Degree|Topic: Degree|Xref: Perfection|Xref: Progress|Xref: 1377 [Great

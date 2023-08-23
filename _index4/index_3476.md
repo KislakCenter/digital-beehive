@@ -1,10 +1,9 @@
 ---
 pid: index_3476
 volume: Volume 3
-image_number: '40'
-head: Sabbath
-entry: "<a href='/digital-beehive/alpha4/alpha_0824/'>a</a>|<a href='/digital-beehive/num4/num_1240/'>930
-  [Sabbath]</a>|<a href='/digital-beehive/num7/num_2385/'>1589 [Sabbath]</a>"
+image_number: '41'
+head: say so
+entry: "<a href='/digital-beehive/num6/num_2048/'>1417 [Say so]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a1aa7c2f5"
+item: "#item-6eca4121c"
 unparsed:
-line: 'Head: Sabbath|Entry: a|Entry: 930 [Sabbath]|Entry: 1589 [Sabbath]|#item-a1aa7c2f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1817,1007,657,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234498089
-sort_value: '304031007'
+line: 'Head: say so|Entry: 1417 [Say so]|#item-6eca4121c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/165,2527,395,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240009251
+sort_value: '304112527'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1817,1007,657,164/150,/0/default.jpg
-label: Sabbath
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/165,2527,395,144/150,/0/default.jpg
+label: say so
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0724'
+order: '0768'
 layout: index_item
 collection: index4
 ---

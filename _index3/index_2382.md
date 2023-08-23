@@ -2,8 +2,10 @@
 pid: index_2382
 volume: Volume 3
 image_number: '29'
-head: magnete
-entry: 826 [PAGE_MISSING]
+head: many men many minds
+entry: "<a href='/digital-beehive/alpha3/alpha_0574/'>a</a>|<a href='/digital-beehive/num5/num_1469/'>1088
+  [Many men, many minds]</a>|<a href='/digital-beehive/num10/num_3461/'>4474 [Many
+  heads, many minds]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-172e1f28f"
+item: "#item-096039f79"
 unparsed:
-line: 'Head: magnete|Entry: 826 [PAGE_MISSING]|#item-172e1f28f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/831,2750,453,132/full/0/default.jpg
+line: 'Head: many men many minds|Entry: a|Entry: 1088 [Many men, many minds]|Entry:
+  4474 [Many heads, many minds]|#item-096039f79'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1509,3250,663,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560187080475
-sort_value: '302922750'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560197060121
+sort_value: '302933250'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/831,2750,453,132/150,/0/default.jpg
-label: magnete
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1509,3250,663,119/150,/0/default.jpg
+label: many men many minds
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '464'
+order: '497'
 layout: index_item
 collection: index3
 ---

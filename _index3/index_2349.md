@@ -2,29 +2,28 @@
 pid: index_2349
 volume: Volume 3
 image_number: '29'
-head: wanton love
-entry: "<a href='/digital-beehive/num6/num_2015/'>1402 [Lasciviousness]</a>"
+head: majesty
+entry: "<a href='/digital-beehive/num1/num_0073/'>72 [Majesty]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
-add: womanish
+add:
 xref:
 see:
 index:
-item: "#item-e66fc7bb6"
+item: "#item-150100733"
 unparsed:
-line: 'Head: wanton love|Entry: 1402 [Lasciviousness]|Add: womanish|#item-e66fc7bb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/157,2612,541,165/full/0/default.jpg
+line: 'Head: majesty|Entry: 72 [Majesty]|#item-150100733'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/834,3308,401,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179909760
-sort_value: '302912612'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189676336
+sort_value: '302923308'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/157,2612,541,165/150,/0/default.jpg
-label: wanton love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/834,3308,401,179/150,/0/default.jpg
+label: majesty
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '431'
+order: '464'
 layout: index_item
 collection: index3
 ---

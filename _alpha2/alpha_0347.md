@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1351/'>1011 [Ground & Foundation]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1525/'>foundation</a>"
+index: "<a href='/digital-beehive/index2/index_1499/'>foundation</a>"
 item: "#item-27f0de06e"
 unparsed:
 line: 'Entry: Foundation|Topic: Foundation|Xref: 1011 [Ground & Foundation]|Index:

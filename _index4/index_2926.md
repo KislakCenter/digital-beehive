@@ -1,9 +1,10 @@
 ---
 pid: index_2926
 volume: Volume 3
-image_number: '34'
-head: pavemt
-entry: "<a href='/digital-beehive/num11/num_3567/'>4871 [Pavement]</a>"
+image_number: '35'
+head: pestilence
+entry: "<a href='/digital-beehive/alpha4/alpha_0707/'>a</a>|<a href='/digital-beehive/num7/num_2661/'>1734
+  [Pestilence]</a>|<a href='/digital-beehive/num9/num_3113/'>2170 [Pestilence]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7c34e855a"
+item: "#item-0ddce70bf"
 unparsed:
-line: 'Head: pavemt|Entry: 4871 [Pavement]|#item-7c34e855a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1793,2333,636,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495773110
-sort_value: '303432333'
+line: 'Head: pestilence|Entry: a|Entry: 1734 [Pestilence]|Entry: 2170 [Pestilence]|#item-0ddce70bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/822,1165,718,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974237170
+sort_value: '303521165'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1793,2333,636,112/150,/0/default.jpg
-label: pavemt
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/822,1165,718,136/150,/0/default.jpg
+label: pestilence
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0174'
+order: '0218'
 layout: index_item
 collection: index4
 ---

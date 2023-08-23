@@ -1,30 +1,30 @@
 ---
 pid: index_3457
 volume: Volume 3
-image_number: '40'
-head: roughness
-entry: 861 [PAGE_MISSING]
+image_number: '41'
+head: Salutation
+entry: "<a href='/digital-beehive/num1/num_0079/'>78 [Salutations]</a>|<a href='/digital-beehive/num6/num_2197/'>1489
+  [Salutation]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5ee5734cf"
+item: "#item-6181a1f6d"
 unparsed:
-line: 'Head: roughness|Entry: 861 [PAGE_MISSING]|#item-5ee5734cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1156,2136,473,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233752493
-sort_value: '304022136'
+line: 'Head: Salutation|Entry: 78 [Salutations]|Entry: 1489 [Salutation]|#item-6181a1f6d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/144,1025,635,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238507551
+sort_value: '304111025'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1156,2136,473,152/150,/0/default.jpg
-label: roughness
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/144,1025,635,157/150,/0/default.jpg
+label: Salutation
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0705'
+order: '0749'
 layout: index_item
 collection: index4
 ---

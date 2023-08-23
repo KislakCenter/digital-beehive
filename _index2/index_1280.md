@@ -2,8 +2,8 @@
 pid: index_1280
 volume: Volume 3
 image_number: '19'
-head: epidemical
-entry: "<a href='/digital-beehive/num6/num_1869/'>1330 [To infect]</a>"
+head: esteem
+entry: 829 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-da27a0159"
+item: "#item-7ba8d319d"
 unparsed:
-line: 'Head: epidemical|Entry: 1330 [To infect]|#item-da27a0159'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/129,565,596,130/full/0/default.jpg
+line: 'Head: esteem|Entry: 829 [PAGE_MISSING]|#item-7ba8d319d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/124,3298,432,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842657352
-sort_value: '301910565'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560348634230
+sort_value: '301913298'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/129,565,596,130/150,/0/default.jpg
-label: epidemical
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/124,3298,432,150/150,/0/default.jpg
+label: esteem
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '099'
+order: '121'
 layout: index_item
 collection: index2
 ---

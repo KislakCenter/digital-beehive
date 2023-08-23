@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3096/'>2154 [Mineral]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2521/'>mine. minerals</a>"
+index: "<a href='/digital-beehive/index3/index_2480/'>mine. minerals</a>"
 item: "#item-e1289ca34"
 unparsed:
 line: 'Entry: Mine Minerals|Topic: Mine Minerals|Xref: 2154 [Mineral]|Index: mine.

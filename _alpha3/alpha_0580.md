@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2449/'>mathematicks</a>"
+index: "<a href='/digital-beehive/index3/index_2409/'>mathematicks</a>"
 item: "#item-3a11d51b2"
 unparsed:
 line: 'Entry: Mathematicks|Topic: Mathematicks|Index: mathematicks|#item-3a11d51b2'

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0236/'>222 [Shrovetide]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
+index: "<a href='/digital-beehive/index1/index_0255/'>bacchanals</a>"
 item: "#item-3d0b04143"
 unparsed:
 line: 'Entry: Bacchanals|Topic: Bacchanals|Xref: 222 [Shrovetide]|Index: bacchanals|#item-3d0b04143'

@@ -2,8 +2,8 @@
 pid: index_0593
 volume: Volume 3
 image_number: '12'
-head: chamber pot
-entry: 809 [PAGE_MISSING]
+head: chariots
+entry: "<a href='/digital-beehive/num5/num_1584/'>1162 [Carriage]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ab1261919"
+item: "#item-658b7a665"
 unparsed:
-line: 'Head: chamber pot|Entry: 809 [PAGE_MISSING]|#item-ab1261919'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1127,2545,440,127/full/0/default.jpg
+line: 'Head: chariots|Entry: 1162 [Carriage]|#item-658b7a665'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1129,3435,432,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532100838116
-sort_value: '301222545'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443545970
+sort_value: '301223435'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1127,2545,440,127/150,/0/default.jpg
-label: chamber pot
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1129,3435,432,98/150,/0/default.jpg
+label: chariots
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0592'
 layout: index_item
 collection: index1

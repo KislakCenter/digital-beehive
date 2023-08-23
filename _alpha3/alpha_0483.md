@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0861/'>Sense</a>|<a href='/digital-beehive/num1/num_0158/'>152
   [Insensibleness]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2060/'>insensibleness</a>"
+index: "<a href='/digital-beehive/index3/index_2025/'>insensibleness</a>"
 item: "#item-090ffa5e5"
 unparsed:
 line: 'Entry: Insensibleness|Topic: Insensibleness|Xref: Sense|Xref: 152 [Insensibleness]|Index:

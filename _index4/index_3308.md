@@ -1,9 +1,9 @@
 ---
 pid: index_3308
 volume: Volume 3
-image_number: '38'
-head: how to read the bible
-entry: "<a href='/digital-beehive/num10/num_3444/'>4461 [The Bible we should read]</a>"
+image_number: '39'
+head: remora
+entry: "<a href='/digital-beehive/num7/num_2283/'>1534 [Remora]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5ff128513"
+item: "#item-d94179e6a"
 unparsed:
-line: 'Head: how to read the bible|Entry: 4461 [The Bible we should read]|#item-5ff128513'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1867,1968,676,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461366361
-sort_value: '303831968'
+line: 'Head: remora|Entry: 1534 [Remora]|#item-d94179e6a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/767,1050,562,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469002263
+sort_value: '303921050'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1867,1968,676,129/150,/0/default.jpg
-label: how to read the bible
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/767,1050,562,149/150,/0/default.jpg
+label: remora
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0556'
+order: '0600'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_1194
 volume: Volume 3
 image_number: '18'
-head: east Indies
-entry: "<a href='/digital-beehive/num6/num_2192/'>1486 [East Indies]</a>"
+head: egyptians
+entry: "<a href='/digital-beehive/num7/num_2334/'>1561 [[AE]gyptians]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ee8df147d"
+item: "#item-004123490"
 unparsed:
-line: 'Head: east Indies|Entry: 1486 [East Indies]|#item-ee8df147d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/413,2796,453,127/full/0/default.jpg
+line: 'Head: egyptians|Entry: 1561 [[AE]gyptians]|#item-004123490'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1151,1700,515,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667912478
-sort_value: '301812796'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673683402
+sort_value: '301821700'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/413,2796,453,127/150,/0/default.jpg
-label: east Indies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1151,1700,515,138/150,/0/default.jpg
+label: egyptians
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '013'
+order: '035'
 layout: index_item
 collection: index2
 ---

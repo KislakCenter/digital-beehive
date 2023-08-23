@@ -2,29 +2,30 @@
 pid: index_2533
 volume: Volume 3
 image_number: '31'
-head: misapply
-entry: "<a href='/digital-beehive/num5/num_1381/'>1032 [misapply]</a>"
+head: moon
+entry: "<a href='/digital-beehive/alpha3/alpha_0609/'>a</a>|<a href='/digital-beehive/num6/num_1925/'>1357
+  [Moon]</a>|<a href='/digital-beehive/num9/num_3048/'>2110 [Moon]</a>"
 topic:
 first_letter: M
-page:
+page: "<a href='/digital-beehive/toc/toc1_078/'>p.28 [Image 1.88]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-cef4bd8bd"
+item: "#item-c6ea6df6e"
 unparsed:
-line: 'Head: misapply|Entry: 1032 [misapply]|#item-cef4bd8bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/184,225,504,120/full/0/default.jpg
+line: 'Head: moon|Page: p.28 [Image 1.88]|Entry: a|Entry: 1357 [Moon]|Entry: 2110
+  [Moon]|#item-c6ea6df6e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/866,1323,661,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350469074
-sort_value: '303110225'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355560685
+sort_value: '303121323'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/184,225,504,120/150,/0/default.jpg
-label: misapply
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/866,1323,661,133/150,/0/default.jpg
+label: moon
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '615'
+order: '648'
 layout: index_item
 collection: index3
 ---

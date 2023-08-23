@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0356/'>funeral</a>|<a href='/digital-beehive/alpha2/alpha_0388/'>grave</a>|<a
   href='/digital-beehive/num4/num_1160/'>894 [Burial]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0480/'>burial</a>"
+index: "<a href='/digital-beehive/index1/index_0471/'>burial</a>"
 item: "#item-1fd7dd617"
 unparsed:
 line: 'Entry: Burial|Topic: Burial|Xref: funeral|Xref: grave|Xref: 894 [Burial]|Index:

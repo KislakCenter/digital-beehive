@@ -1,30 +1,29 @@
 ---
 pid: index_1690
 volume: Volume 3
-image_number: '22'
-head: grandeur
-entry: "<a href='/digital-beehive/alpha2/alpha_0384/'>a</a>"
+image_number: '23'
+head: guard
+entry:
 topic:
 first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0913/'>custody</a>"
 index:
-item: "#item-09f29094f"
+item: "#item-431a74825"
 unparsed:
-line: 'Head: grandeur|Entry: a|#item-09f29094f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1853,2349,369,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053259828
-sort_value: '302232349'
+line: 'Head: guard|See: custody|#item-431a74825'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/149,1945,521,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232111206
+sort_value: '302311945'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1853,2349,369,146/150,/0/default.jpg
-label: grandeur
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/149,1945,521,136/150,/0/default.jpg
+label: guard
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '509'
+order: '531'
 layout: index_item
 collection: index2
 ---

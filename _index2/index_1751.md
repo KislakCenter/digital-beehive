@@ -2,8 +2,9 @@
 pid: index_1751
 volume: Volume 3
 image_number: '23'
-head: to happen
-entry: 833 [PAGE_MISSING]
+head: heathens
+entry: "<a href='/digital-beehive/alpha2/alpha_0409/'>a</a>|<a href='/digital-beehive/num6/num_2134/'>1456
+  [Heathens]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f17e1fb5f"
+item: "#item-08daf1459"
 unparsed:
-line: 'Head: to happen|Entry: 833 [PAGE_MISSING]|#item-f17e1fb5f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/831,1303,483,141/full/0/default.jpg
+line: 'Head: heathens|Entry: a|Entry: 1456 [Heathens]|#item-08daf1459'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1553,967,612,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239476518
-sort_value: '302321303'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244125644
+sort_value: '302330967'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/831,1303,483,141/150,/0/default.jpg
-label: to happen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1553,967,612,118/150,/0/default.jpg
+label: heathens
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '570'
+order: '592'
 layout: index_item
 collection: index2
 ---

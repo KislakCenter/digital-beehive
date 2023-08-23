@@ -1,9 +1,11 @@
 ---
 pid: index_3589
 volume: Volume 3
-image_number: '41'
-head: sedition
-entry: "<a href='/digital-beehive/num5/num_1634/'>1197 [Rebellion]</a>"
+image_number: '42'
+head: servant & service
+entry: "<a href='/digital-beehive/alpha4/alpha_0863/'>a</a>|<a href='/digital-beehive/num5/num_1699/'>1233
+  [Servants]</a>|<a href='/digital-beehive/num5/num_1700/'>1233 [friendliest office]</a>|4553
+  [PAGE_MISSING]"
 topic:
 first_letter: S
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-3b9935ca1"
+item: "#item-b3e1eb422"
 unparsed:
-line: 'Head: sedition|Entry: 1197 [Rebellion]|#item-3b9935ca1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1590,2399,532,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242915179
-sort_value: '304132399'
+line: 'Head: servant & service|Entry: a|Entry: 1233 [Servants]|Entry: 1233 [friendliest
+  office]|Entry: 4553 [PAGE_MISSING]|#item-b3e1eb422'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1104,1078,747,167/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573935178
+sort_value: '304221078'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1590,2399,532,159/150,/0/default.jpg
-label: sedition
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1104,1078,747,167/150,/0/default.jpg
+label: servant & service
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0837'
+order: '0881'
 layout: index_item
 collection: index4
 ---

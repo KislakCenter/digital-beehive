@@ -2,28 +2,27 @@
 pid: index_0277
 volume: Volume 3
 image_number: '9'
-head: baldness
-entry: "<a href='/digital-beehive/alpha1/alpha_0054/'>a</a>|4831 [PAGE_MISSING]"
+head: bank
+entry:
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4163/'>treasure</a>"
 index:
-item: "#item-19fb3de50"
+item: "#item-121ec3414"
 unparsed:
-line: 'Head: baldness|Page: p.43 [Image 1.103]|Entry: a|Entry: 4831 [PAGE_MISSING]|#item-19fb3de50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/899,926,682,163/full/0/default.jpg
+line: 'Head: bank|See: treasure|#item-121ec3414'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1562,591,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403183123
-sort_value: '300920926'
+annotation_uri: http://dev.llgc.org.uk/annotation/1505404121976
+sort_value: '300921562'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/899,926,682,163/150,/0/default.jpg
-label: baldness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1562,591,171/150,/0/default.jpg
+label: bank
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0276'
 layout: index_item
 collection: index1

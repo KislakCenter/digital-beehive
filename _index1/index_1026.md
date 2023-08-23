@@ -2,9 +2,8 @@
 pid: index_1026
 volume: Volume 3
 image_number: '16'
-head: desperation
-entry: "<a href='/digital-beehive/num1/num_0008/'>8 [Desperation]</a>|<a href='/digital-beehive/num3/num_0833/'>620
-  [Despair]</a>|<a href='/digital-beehive/num7/num_2602/'>1689 [Despair]</a>"
+head: to die colours
+entry: "<a href='/digital-beehive/num7/num_2628/'>1704 [Tinctare, Colour or Dye]</a>"
 topic:
 first_letter: D
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-36a237e6b"
+item: "#item-763f5f98e"
 unparsed:
-line: 'Head: desperation|Entry: 8 [Desperation]|Entry: 620 [Despair]|Entry: 1689 [Despair]|#item-36a237e6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1065,2767,804,105/full/0/default.jpg
+line: 'Head: to die colours|Entry: 1704 [Tinctare, Colour or Dye]|#item-763f5f98e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1827,1178,534,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605159611
-sort_value: '301622767'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783642445
+sort_value: '301631178'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1065,2767,804,105/150,/0/default.jpg
-label: desperation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1827,1178,534,101/150,/0/default.jpg
+label: to die colours
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1025'
 layout: index_item
 collection: index1

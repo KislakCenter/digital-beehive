@@ -1,9 +1,9 @@
 ---
 pid: index_2086
 volume: Volume 3
-image_number: '26'
-head: to introduce
-entry: "<a href='/digital-beehive/num7/num_2555/'>1666 [To bring in]</a>"
+image_number: '27'
+head: irreligion
+entry: "<a href='/digital-beehive/num6/num_2057/'>1421 [Atheism]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ff05190e9"
+item: "#item-9ce298fba"
 unparsed:
-line: 'Head: to introduce|Entry: 1666 [To bring in]|#item-ff05190e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1843,612,549,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750856868
-sort_value: '302630612'
+line: 'Head: irreligion|Entry: 1421 [Atheism]|#item-9ce298fba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/161,635,478,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756593249
+sort_value: '302710635'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1843,612,549,103/150,/0/default.jpg
-label: to introduce
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/161,635,478,139/150,/0/default.jpg
+label: irreligion
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '168'
+order: '201'
 layout: index_item
 collection: index3
 ---

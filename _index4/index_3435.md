@@ -2,29 +2,29 @@
 pid: index_3435
 volume: Volume 3
 image_number: '40'
-head: to rise
-entry: "<a href='/digital-beehive/num4/num_1195/'>912 [To Rise]</a>"
+head: safety
+entry: "<a href='/digital-beehive/num4/num_1203/'>914 [Security]</a>|<a href='/digital-beehive/num4/num_1206/'>914
+  [Safety]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-61d10e4e8"
+item: "#item-ccf1e9fbc"
 unparsed:
-line: 'Head: to rise|Entry: 912 [To Rise]|#item-61d10e4e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/432,3072,385,144/full/0/default.jpg
+line: 'Head: safety|Entry: 914 [Security]|Entry: 914 [Safety]|#item-ccf1e9fbc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1833,2243,363,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232555309
-sort_value: '304013072'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234941684
+sort_value: '304032243'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/432,3072,385,144/150,/0/default.jpg
-label: to rise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1833,2243,363,113/150,/0/default.jpg
+label: safety
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0683'
+order: '0727'
 layout: index_item
 collection: index4
 ---

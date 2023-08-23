@@ -2,30 +2,28 @@
 pid: index_2143
 volume: Volume 3
 image_number: '27'
-head: justice of the peace
-entry: "<a href='/digital-beehive/num8/num_2771/'>1835 [Justice of the Peace]</a>|4752
-  [PAGE_MISSING]"
+head: Korb
+entry:
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0990/'>denial</a>"
 index:
-item: "#item-c22e8fd90"
+item: "#item-bf8c26ff0"
 unparsed:
-line: 'Head: justice of the peace|Entry: 1835 [Justice of the Peace]|Entry: 4752 [PAGE_MISSING]|#item-c22e8fd90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/158,2627,677,111/full/0/default.jpg
+line: 'Head: Korb|See: denial|#item-bf8c26ff0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,2762,439,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758944766
-sort_value: '302712627'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559831720844
+sort_value: '302722762'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/158,2627,677,111/150,/0/default.jpg
-label: justice of the peace
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,2762,439,98/150,/0/default.jpg
+label: Korb
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '225'
+issue: It is unclear why Pastorius links "Korb" with "denial."
+order: '258'
 layout: index_item
 collection: index3
 ---

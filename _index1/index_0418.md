@@ -2,28 +2,27 @@
 pid: index_0418
 volume: Volume 3
 image_number: '10'
-head: Boston
-entry: "<a href='/digital-beehive/num7/num_2258/'>1523 [New England]</a>"
+head: bowels
+entry:
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: 802 [PAGE_MISSING]
 index:
-item: "#item-f6d69941c"
+item: "#item-2e56261dc"
 unparsed:
-line: 'Head: Boston|Entry: 1523 [New England]|#item-f6d69941c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1782,2368,408,90/full/0/default.jpg
+line: 'Head: bowels|See: 802 [PAGE_MISSING]|#item-2e56261dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3064,464,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531416665465
-sort_value: '301032368'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417083596
+sort_value: '301033064'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1782,2368,408,90/150,/0/default.jpg
-label: Boston
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,3064,464,125/150,/0/default.jpg
+label: bowels
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0417'
 layout: index_item
 collection: index1

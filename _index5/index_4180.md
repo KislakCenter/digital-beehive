@@ -2,29 +2,28 @@
 pid: index_4180
 volume: Volume 3
 image_number: '48'
-head: too many
-entry:
+head: a troop
+entry: "<a href='/digital-beehive/num7/num_2621/'>1699 [a Troop]</a>"
 topic:
 first_letter: T
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0534/'>captains</a>"
+see:
 index:
-item: "#item-2510843f6"
+item: "#item-43fc171c5"
 unparsed:
-line: 'Head: too many|See: captains|#item-2510843f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/449,1492,673,142/full/0/default.jpg
+line: 'Head: a troop|Entry: 1699 [a Troop]|#item-43fc171c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1806,2327,504,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274616409
-sort_value: '304811492'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562089522440
+sort_value: '304832327'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/449,1492,673,142/150,/0/default.jpg
-label: too many
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1806,2327,504,177/150,/0/default.jpg
+label: a troop
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '142'
+order: '203'
 layout: index_item
 collection: index5
 ---

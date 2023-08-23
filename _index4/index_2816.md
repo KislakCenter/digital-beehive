@@ -1,30 +1,29 @@
 ---
 pid: index_2816
 volume: Volume 3
-image_number: '33'
-head: Pr. of Orange
-entry: "<a href='/digital-beehive/num6/num_1752/'>1262 [Prince Wm. of Orange]</a>"
+image_number: '34'
+head: Pallas
+entry: "<a href='/digital-beehive/num5/num_1362/'>1019 [Spinning]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5a7ba321f"
+item: "#item-07494ff5e"
 unparsed:
-line: 'Head: Pr. of Orange|Entry: 1262 [Prince Wm. of Orange]|#item-5a7ba321f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1505,1721,632,193/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161942369
-sort_value: '303331721'
+line: 'Head: Pallas|Entry: 1019 [Spinning]|#item-07494ff5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/446,3168,469,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538426339363
+sort_value: '303413168'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1505,1721,632,193/150,/0/default.jpg
-label: Pr. of Orange
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/446,3168,469,156/150,/0/default.jpg
+label: Pallas
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0064'
+order: '0108'
 layout: index_item
 collection: index4
 ---

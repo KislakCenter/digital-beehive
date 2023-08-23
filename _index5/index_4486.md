@@ -2,8 +2,8 @@
 pid: index_4486
 volume: Volume 3
 image_number: '52'
-head: waste
-entry: "<a href='/digital-beehive/num3/num_0751/'>583 [Body]</a>|753 [PAGE_MISSING]"
+head: King William
+entry: "<a href='/digital-beehive/num8/num_2713/'>1781 [King William]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c869fd0bc"
+item: "#item-2a0bb3c50"
 unparsed:
-line: 'Head: waste|Entry: 583 [Body]|Entry: 753 [PAGE_MISSING]|#item-c869fd0bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/545,756,527,88/full/0/default.jpg
+line: 'Head: King William|Entry: 1781 [King William]|#item-2a0bb3c50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1812,3004,582,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960143005
-sort_value: '305210756'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972579086
+sort_value: '305233004'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/545,756,527,88/150,/0/default.jpg
-label: waste
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1812,3004,582,168/150,/0/default.jpg
+label: King William
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '448'
+order: '509'
 layout: index_item
 collection: index5
 ---

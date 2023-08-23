@@ -2,8 +2,8 @@
 pid: index_1296
 volume: Volume 3
 image_number: '19'
-head: errata in print
-entry: "<a href='/digital-beehive/num7/num_2372/'>1581 [Errata's]</a>"
+head: evildoers
+entry: "<a href='/digital-beehive/num2/num_0615/'>491 [Evildoers]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bfa85327e"
+item: "#item-4f001be21"
 unparsed:
-line: 'Head: errata in print|Entry: 1581 [Errata''s]|#item-bfa85327e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/125,2453,661,164/full/0/default.jpg
+line: 'Head: evildoers|Entry: 491 [Evildoers]|#item-4f001be21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/822,1493,506,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276217279
-sort_value: '301912453'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351907489
+sort_value: '301921493'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/125,2453,661,164/150,/0/default.jpg
-label: errata in print
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/822,1493,506,138/150,/0/default.jpg
+label: evildoers
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '115'
+order: '137'
 layout: index_item
 collection: index2
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_2496
 volume: Volume 3
-image_number: '30'
-head: Messias
-entry:
+image_number: '31'
+head: miser
+entry: 727 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0645/'>Christ</a>"
+see:
 index:
-item: "#item-e82ae15cc"
+item: "#item-519026337"
 unparsed:
-line: 'Head: Messias|See: Christ|#item-e82ae15cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1101,3511,522,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269905987
-sort_value: '303023511'
+line: 'Head: miser|Entry: 727 [PAGE_MISSING]|#item-519026337'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,591,376,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350962230
+sort_value: '303110591'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1101,3511,522,169/150,/0/default.jpg
-label: Messias
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,591,376,166/150,/0/default.jpg
+label: miser
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '578'
+order: '611'
 layout: index_item
 collection: index3
 ---

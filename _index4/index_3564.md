@@ -1,9 +1,9 @@
 ---
 pid: index_3564
 volume: Volume 3
-image_number: '41'
-head: scrivener
-entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
+image_number: '42'
+head: Self learning
+entry: "<a href='/digital-beehive/num7/num_2360/'>1573 [Self Learning]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-48e2f1439"
+item: "#item-bcaff5674"
 unparsed:
-line: 'Head: scrivener|Entry: 260 [Scribe or publick Notary]|#item-48e2f1439'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/852,2929,529,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241696255
-sort_value: '304122929'
+line: 'Head: Self learning|Entry: 1573 [Self Learning]|#item-bcaff5674'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/370,1803,644,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244659279
+sort_value: '304211803'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/852,2929,529,142/150,/0/default.jpg
-label: scrivener
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/370,1803,644,113/150,/0/default.jpg
+label: Self learning
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0812'
+order: '0856'
 layout: index_item
 collection: index4
 ---

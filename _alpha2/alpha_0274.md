@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1061/'>World</a>|<a href='/digital-beehive/num9/num_3070/'>2130
   [Earth]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1187/'>earth</a>"
+index: "<a href='/digital-beehive/index2/index_1165/'>earth</a>"
 item: "#item-a3ac6b45a"
 unparsed:
 line: 'Entry: Earth|Topic: Earth|Xref: World|Xref: 2130 [Earth]|Index: earth|#item-a3ac6b45a'

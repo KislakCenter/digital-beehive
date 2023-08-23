@@ -1,32 +1,29 @@
 ---
 pid: index_2307
 volume: Volume 3
-image_number: '28'
-head: little sufficeth
-entry: "<a href='/digital-beehive/num1/num_0045/'>45 [Little will suffice Nature]</a>|<a
-  href='/digital-beehive/num5/num_1581/'>1160 [a Little is sufficient]</a>"
+image_number: '29'
+head: love of money
+entry:
 topic:
 first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0851/'>Covetousness</a>"
 index:
-item: "#item-2f8372714"
+item: "#item-227f351c8"
 unparsed:
-line: 'Head: little sufficeth|Entry: 45 [Little will suffice Nature]|Entry: 1160 [a
-  Little is sufficient]|#item-2f8372714'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1845,2039,551,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849294330
-sort_value: '302832039'
+line: 'Head: love of money|See: Covetousness|#item-227f351c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/161,2365,648,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179670621
+sort_value: '302912365'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1845,2039,551,125/150,/0/default.jpg
-label: little sufficeth
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/161,2365,648,138/150,/0/default.jpg
+label: love of money
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '389'
+order: '422'
 layout: index_item
 collection: index3
 ---

@@ -1,30 +1,30 @@
 ---
 pid: index_2994
 volume: Volume 3
-image_number: '35'
-head: physical books
-entry:
+image_number: '36'
+head: be pleased
+entry: "<a href='/digital-beehive/num2/num_0386/'>333 [Pray]</a>|<a href='/digital-beehive/num5/num_1493/'>1102
+  [Be Pleased]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-321dae27f"
+item: "#item-5117de882"
 unparsed:
-line: 'Head: physical books|Page: p.379 [Image 2.201]|#item-321dae27f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/855,3415,602,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975665557
-sort_value: '303523415'
+line: 'Head: be pleased|Entry: 333 [Pray]|Entry: 1102 [Be Pleased]|#item-5117de882'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/475,992,676,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544207532446
+sort_value: '303610992'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/855,3415,602,120/150,/0/default.jpg
-label: physical books
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/475,992,676,139/150,/0/default.jpg
+label: be pleased
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0242'
+order: '0286'
 layout: index_item
 collection: index4
 ---

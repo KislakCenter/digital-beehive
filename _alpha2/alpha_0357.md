@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2058/'>1421 [Future]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1570/'>future</a>"
+index: "<a href='/digital-beehive/index2/index_1543/'>future</a>"
 item: "#item-bc91c9cd4"
 unparsed:
 line: 'Entry: Future|Topic: Future|Xref: 1421 [Future]|Index: future|#item-bc91c9cd4'

@@ -1,31 +1,29 @@
 ---
 pid: index_4620
 volume: Volume 3
-image_number: '53'
-head: worms
-entry: "<a href='/digital-beehive/num1/num_0166/'>159 [Worm]</a>|<a href='/digital-beehive/num6/num_1895/'>1343
-  [Worms]</a>"
+image_number: '54'
+head: Dr. Burnet
+entry: "<a href='/digital-beehive/num2/num_0536/'>432 [G. Burnet]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-8a3ec3796"
+item: "#item-0171cf8f9"
 unparsed:
-line: 'Head: worms|Entry: 159 [Worm]|Entry: 1343 [Worms]|#item-8a3ec3796'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3228,551,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797543912
-sort_value: '305323228'
+line: 'Type: Index|Insertion: [:27.]|Head: Dr. Burnet|Entry: 432 [G. Burnet]|#item-0171cf8f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1058,577,654,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560953746543
+sort_value: '305420577'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3228,551,100/150,/0/default.jpg
-label: worms
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1058,577,654,162/150,/0/default.jpg
+label: Dr. Burnet
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '582'
+order: '643'
 layout: index_item
 collection: index5
 ---

@@ -2,8 +2,8 @@
 pid: index_1246
 volume: Volume 3
 image_number: '18'
-head: encouragemt
-entry: "<a href='/digital-beehive/num3/num_0801/'>606 [Encouragemt]</a>"
+head: to entangle
+entry: "<a href='/digital-beehive/num6/num_1761/'>1269 [Entangle & disentangle]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f72cec738"
+item: "#item-7135cf86a"
 unparsed:
-line: 'Head: encouragemt|Entry: 606 [Encouragemt]|#item-f72cec738'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1851,860,564,121/full/0/default.jpg
+line: 'Head: to entangle|Entry: 1269 [Entangle & disentangle]|#item-7135cf86a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1847,2838,624,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754562146
-sort_value: '301830860'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835821352
+sort_value: '301832838'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1851,860,564,121/150,/0/default.jpg
-label: encouragemt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1847,2838,624,169/150,/0/default.jpg
+label: to entangle
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '065'
+order: '087'
 layout: index_item
 collection: index2
 ---

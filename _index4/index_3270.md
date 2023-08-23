@@ -1,30 +1,29 @@
 ---
 pid: index_3270
 volume: Volume 3
-image_number: '38'
-head: to quit
-entry: "<a href='/digital-beehive/num5/num_1659/'>1212 [To Leave off]</a>"
+image_number: '39'
+head: record
+entry: 843 [PAGE_MISSING]
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9a6cb2b19"
+item: "#item-002f19043"
 unparsed:
-line: 'Head: to quit|Entry: 1212 [To Leave off]|#item-9a6cb2b19'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1162,1882,499,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455404782
-sort_value: '303821882'
+line: 'Head: record|Entry: 843 [PAGE_MISSING]|#item-002f19043'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/183,229,442,165/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463166463
+sort_value: '303910229'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1162,1882,499,120/150,/0/default.jpg
-label: to quit
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/183,229,442,165/150,/0/default.jpg
+label: record
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0518'
+order: '0562'
 layout: index_item
 collection: index4
 ---

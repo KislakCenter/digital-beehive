@@ -2,8 +2,8 @@
 pid: index_3811
 volume: Volume 3
 image_number: '44'
-head: sound
-entry: "<a href='/digital-beehive/num7/num_2498/'>1640 [Sound]</a>"
+head: stable
+entry: 827 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a34763d20"
+item: "#item-0d36dbf86"
 unparsed:
-line: 'Head: sound|Entry: 1640 [Sound]|#item-a34763d20'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/536,2814,433,98/full/0/default.jpg
+line: 'Head: stable|Entry: 827 [PAGE_MISSING]|#item-0d36dbf86'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1822,2389,409,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529787337261
-sort_value: '304412814'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530105828190
+sort_value: '304432389'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/536,2814,433,98/150,/0/default.jpg
-label: sound
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1822,2389,409,105/150,/0/default.jpg
+label: stable
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1059'
+order: '1103'
 layout: index_item
 collection: index4
 ---

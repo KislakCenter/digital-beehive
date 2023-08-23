@@ -1,9 +1,9 @@
 ---
 pid: index_3783
 volume: Volume 3
-image_number: '43'
-head: soil
-entry: "<a href='/digital-beehive/num2/num_0535/'>432 [Land]</a>"
+image_number: '44'
+head: Turkish Spie
+entry: "<a href='/digital-beehive/num6/num_1841/'>1317 [Mamut]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-32fe2ea66"
+item: "#item-fa0d4bb10"
 unparsed:
-line: 'Head: soil|Entry: 432 [Land]|#item-32fe2ea66'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1598,2726,356,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586387757
-sort_value: '304332726'
+line: 'Head: Turkish Spie|Entry: 1317 [Mamut]|#item-fa0d4bb10'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1107,2663,516,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942413163
+sort_value: '304422663'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1598,2726,356,98/150,/0/default.jpg
-label: soil
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1107,2663,516,105/150,/0/default.jpg
+label: Turkish Spie
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1031'
+order: '1075'
 layout: index_item
 collection: index4
 ---

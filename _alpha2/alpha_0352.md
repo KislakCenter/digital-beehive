@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/num1/num_0001/'>1 [Familiarity]</a>|<a href='/d
   [Poverty parts good fellowship]</a>|<a href='/digital-beehive/num2/num_0532/'>429
   [Friendship]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1546/'>friendship</a>"
+index: "<a href='/digital-beehive/index2/index_1520/'>friendship</a>"
 item: "#item-5f9c379a0"
 unparsed:
 line: 'Entry: Friendship|Topic: Friendship|Xref: 1 [Familiarity]|Xref: 16 [Poverty

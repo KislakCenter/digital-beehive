@@ -2,29 +2,28 @@
 pid: index_1417
 volume: Volume 3
 image_number: '20'
-head: favour & disfavour
-entry: "<a href='/digital-beehive/num6/num_1928/'>1359 [Favour of Princes]</a>"
+head: fight
+entry:
 topic:
 first_letter: F
 page:
 add:
 xref:
-see:
+see: battle|<a href='/digital-beehive/index4/index_3753/'>souldier</a>|<a href='/digital-beehive/index2/index_1407/'>fencing</a>
 index:
-item: "#item-a9b107b5b"
+item: "#item-c7c3f3b78"
 unparsed:
-line: 'Head: favour & disfavour|Entry: 1359 [Favour of Princes]|#item-a9b107b5b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,784,700,153/full/0/default.jpg
+line: 'Head: fight|See: battle|See: souldier|See: fencing|#item-c7c3f3b78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1102,3157,781,233/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661605111
-sort_value: '302020784'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562599426029
+sort_value: '302023157'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,784,700,153/150,/0/default.jpg
-label: favour & disfavour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1102,3157,781,233/150,/0/default.jpg
+label: fight
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '236'
+issue: The intended point of reference for "battle" is unclear.
+order: '258'
 layout: index_item
 collection: index2
 ---

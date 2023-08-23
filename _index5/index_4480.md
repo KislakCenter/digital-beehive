@@ -1,9 +1,9 @@
 ---
 pid: index_4480
 volume: Volume 3
-image_number: '51'
-head: warrant
-entry: 804 [PAGE_MISSING]
+image_number: '52'
+head: will
+entry: "<a href='/digital-beehive/alpha5/alpha_1039/'>a</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-282fea67c"
+item: "#item-6401d8570"
 unparsed:
-line: 'Head: warrant|Entry: 804 [PAGE_MISSING]|#item-282fea67c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3158,488,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648554376
-sort_value: '305133158'
+line: 'Head: will|Entry: a|#item-6401d8570'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1759,2222,302,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972208398
+sort_value: '305232222'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3158,488,133/150,/0/default.jpg
-label: warrant
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1759,2222,302,116/150,/0/default.jpg
+label: will
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '442'
+order: '503'
 layout: index_item
 collection: index5
 ---

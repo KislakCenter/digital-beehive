@@ -1,9 +1,10 @@
 ---
 pid: index_3497
 volume: Volume 3
-image_number: '40'
-head: for my sake
-entry: "<a href='/digital-beehive/num8/num_2761/'>1825 [Sake]</a>"
+image_number: '41'
+head: scolding words
+entry: "<a href='/digital-beehive/num3/num_0955/'>680 [to Chide]</a>|<a href='/digital-beehive/num7/num_2676/'>1747
+  [Scurrilous Epithetes, Scheltwort]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-22a34e6bb"
+item: "#item-58874eac1"
 unparsed:
-line: 'Head: for my sake|Entry: 1825 [Sake]|#item-22a34e6bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1791,3053,652,93/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235289515
-sort_value: '304033053'
+line: 'Head: scolding words|Entry: 680 [to Chide]|Entry: 1747 [Scurrilous Epithetes,
+  Scheltwort]|#item-58874eac1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/829,1787,791,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240970465
+sort_value: '304121787'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1791,3053,652,93/150,/0/default.jpg
-label: for my sake
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/829,1787,791,140/150,/0/default.jpg
+label: scolding words
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0745'
+order: '0789'
 layout: index_item
 collection: index4
 ---

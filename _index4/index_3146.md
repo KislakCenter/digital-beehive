@@ -2,8 +2,9 @@
 pid: index_3146
 volume: Volume 3
 image_number: '37'
-head: to prevail
-entry: "<a href='/digital-beehive/num5/num_1366/'>1021 [Prevail]</a>"
+head: property
+entry: "<a href='/digital-beehive/alpha4/alpha_0753/'>a</a>|<a href='/digital-beehive/num9/num_2947/'>2012
+  [Propriety]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a18169dcf"
+item: "#item-2ae1527c6"
 unparsed:
-line: 'Head: to prevail|Entry: 1021 [Prevail]|#item-a18169dcf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/92,1668,600,161/full/0/default.jpg
+line: 'Head: property|Entry: a|Entry: 2012 [Propriety]|#item-2ae1527c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1477,700,632,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866450482
-sort_value: '303711668'
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869110251
+sort_value: '303730700'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/92,1668,600,161/150,/0/default.jpg
-label: to prevail
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1477,700,632,127/150,/0/default.jpg
+label: property
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0394'
+order: '0438'
 layout: index_item
 collection: index4
 ---

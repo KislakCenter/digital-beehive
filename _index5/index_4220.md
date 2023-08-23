@@ -1,31 +1,29 @@
 ---
 pid: index_4220
 volume: Volume 3
-image_number: '48'
-head: transsubstantia[ti]on
-entry: "<a href='/digital-beehive/num2/num_0512/'>414 [Transsubstantiation]</a>|<a
-  href='/digital-beehive/num8/num_2908/'>1977 [Transsubstantiation]</a>"
+image_number: '49'
+head: Vacancy
+entry: "<a href='/digital-beehive/num5/num_1730/'>1249 [Vacancy]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-10fbeb52d"
+item: "#item-34c811d9b"
 unparsed:
-line: 'Head: transsubstantia[ti]on|Entry: 414 [Transsubstantiation]|Entry: 1977 [Transsubstantiation]|#item-10fbeb52d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1085,2758,873,179/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561488080358
-sort_value: '304822758'
+line: 'Head: Vacancy|Entry: 1249 [Vacancy]|#item-34c811d9b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/941,234,458,210/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657515866
+sort_value: '304920234'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1085,2758,873,179/150,/0/default.jpg
-label: transsubstantia[ti]on
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/941,234,458,210/150,/0/default.jpg
+label: Vacancy
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '182'
+order: '243'
 layout: index_item
 collection: index5
 ---

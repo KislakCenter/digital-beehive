@@ -1,9 +1,9 @@
 ---
 pid: index_1265
 volume: Volume 3
-image_number: '18'
-head: enmity
-entry: "<a href='/digital-beehive/alpha2/alpha_0287/'>a</a>|858 [PAGE_MISSING]"
+image_number: '19'
+head: equipage
+entry: "<a href='/digital-beehive/num4/num_1081/'>866 [Train]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-51d31b5f4"
+item: "#item-64206d8b6"
 unparsed:
-line: 'Head: enmity|Entry: a|Entry: 858 [PAGE_MISSING]|#item-51d31b5f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1851,2466,514,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835246414
-sort_value: '301832466'
+line: 'Head: equipage|Entry: 866 [Train]|#item-64206d8b6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/152,1506,479,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845902535
+sort_value: '301911506'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1851,2466,514,144/150,/0/default.jpg
-label: enmity
-location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/152,1506,479,93/150,/0/default.jpg
+label: equipage
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '084'
+order: '106'
 layout: index_item
 collection: index2
 ---

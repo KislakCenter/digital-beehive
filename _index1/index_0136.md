@@ -2,8 +2,8 @@
 pid: index_0136
 volume: Volume 3
 image_number: '8'
-head: anathema
-entry: "<a href='/digital-beehive/alpha1/alpha_0027/'>a</a>"
+head: and
+entry: "<a href='/digital-beehive/num8/num_2777/'>1896 [And]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d277b3338"
+item: "#item-3375ea36d"
 unparsed:
-line: 'Head: anathema|Entry: a|#item-d277b3338'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/373,1289,507,117/full/0/default.jpg
+line: 'Head: and|Entry: 1896 [And]|#item-3375ea36d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/389,1638,372,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758027656
-sort_value: '300811289'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758383164
+sort_value: '300811638'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/373,1289,507,117/150,/0/default.jpg
-label: anathema
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/389,1638,372,107/150,/0/default.jpg
+label: and
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0135'
 layout: index_item
 collection: index1

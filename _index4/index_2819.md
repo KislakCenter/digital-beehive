@@ -1,31 +1,29 @@
 ---
 pid: index_2819
 volume: Volume 3
-image_number: '33'
-head: order
-entry: "<a href='/digital-beehive/alpha4/alpha_0670/'>a</a>|<a href='/digital-beehive/num1/num_0234/'>221
-  [Order]</a>|4534 [PAGE_MISSING]"
+image_number: '34'
+head: palsie
+entry: "<a href='/digital-beehive/num3/num_0777/'>596 [The Palsie]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5473ff7fb"
+item: "#item-ea04dcc3b"
 unparsed:
-line: 'Head: order|Entry: a|Entry: 221 [Order]|Entry: 4534 [PAGE_MISSING]|#item-5473ff7fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1508,2090,725,172/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538162833869
-sort_value: '303332090'
+line: 'Head: palsie|Entry: 596 [The Palsie]|#item-ea04dcc3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1162,249,498,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538491710692
+sort_value: '303420249'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1508,2090,725,172/150,/0/default.jpg
-label: order
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1162,249,498,153/150,/0/default.jpg
+label: palsie
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0067'
+order: '0111'
 layout: index_item
 collection: index4
 ---

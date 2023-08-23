@@ -2,10 +2,8 @@
 pid: index_0449
 volume: Volume 3
 image_number: '11'
-head: brevity
-entry: "<a href='/digital-beehive/alpha1/alpha_0100/'>a</a>|<a href='/digital-beehive/num2/num_0453/'>374
-  [Brevity]</a>|<a href='/digital-beehive/num4/num_1244/'>932 [Brevity]</a>|<a href='/digital-beehive/num6/num_1879/'>1335
-  [Brevity]</a>|<a href='/digital-beehive/num9/num_2966/'>2031 [Brevity]</a>"
+head: brier
+entry: "<a href='/digital-beehive/num3/num_0822/'>615 [Thorns]</a>"
 topic:
 first_letter: B
 page:
@@ -13,20 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-eff3f88e4"
+item: "#item-7611ec3cc"
 unparsed:
-line: 'Head: brevity|Entry: a|Entry: 374 [Brevity]|Entry: 932 [Brevity]|Entry: 1335
-  [Brevity]|Entry: 2031 [Brevity]|#item-eff3f88e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/145,1693,753,145/full/0/default.jpg
+line: 'Head: brier|Entry: 615 [Thorns]|#item-7611ec3cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/182,2664,348,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531418662125
-sort_value: '301111693'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531419705458
+sort_value: '301112664'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/145,1693,753,145/150,/0/default.jpg
-label: brevity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/182,2664,348,87/150,/0/default.jpg
+label: brier
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0448'
 layout: index_item
 collection: index1

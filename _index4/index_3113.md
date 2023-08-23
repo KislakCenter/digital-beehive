@@ -1,10 +1,10 @@
 ---
 pid: index_3113
 volume: Volume 3
-image_number: '36'
-head: book prayers
-entry: "<a href='/digital-beehive/alpha4/alpha_0729/'>a</a>|<a href='/digital-beehive/num2/num_0285/'>259
-  [Book Prayers]</a>|<a href='/digital-beehive/num7/num_2592/'>1684 [Prayer Books]</a>"
+image_number: '37'
+head: privacy
+entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>|<a href='/digital-beehive/num5/num_1607/'>1178
+  [Privacy]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5495f7beb"
+item: "#item-bd3a634f6"
 unparsed:
-line: 'Head: book prayers|Entry: a|Entry: 259 [Book Prayers]|Entry: 1684 [Prayer Books]|#item-5495f7beb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1877,1361,662,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440176515
-sort_value: '303631361'
+line: 'Head: privacy|Entry: a|Entry: 1178 [Privacy]|#item-bd3a634f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/764,415,598,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867539151
+sort_value: '303720415'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1877,1361,662,117/150,/0/default.jpg
-label: book prayers
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/764,415,598,149/150,/0/default.jpg
+label: privacy
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0361'
+order: '0405'
 layout: index_item
 collection: index4
 ---

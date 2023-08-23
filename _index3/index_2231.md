@@ -2,8 +2,8 @@
 pid: index_2231
 volume: Volume 3
 image_number: '28'
-head: lead. bleij
-entry: 800 [PAGE_MISSING]
+head: Leviathan
+entry: "<a href='/digital-beehive/num8/num_2830/'>1920 [Leviathan]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-93e6dc548"
+item: "#item-f82da6cba"
 unparsed:
-line: 'Head: lead. bleij|Entry: 800 [PAGE_MISSING]|#item-93e6dc548'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/397,1052,500,148/full/0/default.jpg
+line: 'Head: Leviathan|Entry: 1920 [Leviathan]|#item-f82da6cba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1123,1141,506,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841781584
-sort_value: '302811052'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845475345
+sort_value: '302821141'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/397,1052,500,148/150,/0/default.jpg
-label: lead. bleij
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1123,1141,506,99/150,/0/default.jpg
+label: Leviathan
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '313'
+order: '346'
 layout: index_item
 collection: index3
 ---

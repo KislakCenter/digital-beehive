@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0486/'>Intention</a>|<a href='/dig
   [Purposely]</a>|<a href='/digital-beehive/num4/num_1185/'>907 [to the end]</a>|<a
   href='/digital-beehive/num9/num_2936/'>2001 [Purposes]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3237/'>purpose</a>"
+index: "<a href='/digital-beehive/index4/index_3187/'>purpose</a>"
 item: "#item-9f91ad58e"
 unparsed:
 line: 'Entry: Purpose|Topic: Purpose|Xref: Intention|Xref: 907 [Purposely]|Xref: 907

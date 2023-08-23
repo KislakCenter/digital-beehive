@@ -1,9 +1,9 @@
 ---
 pid: index_2389
 volume: Volume 3
-image_number: '29'
-head: Rabbi Maimony
-entry: "<a href='/digital-beehive/num7/num_2316/'>1553 [Rabbies]</a>"
+image_number: '30'
+head: market
+entry: "<a href='/digital-beehive/num3/num_1045/'>714 [Market]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c63bbf304"
+item: "#item-d87de56bd"
 unparsed:
-line: 'Head: Rabbi Maimony|Entry: 1553 [Rabbies]|#item-c63bbf304'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/811,3557,667,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560191777008
-sort_value: '302923557'
+line: 'Head: market|Entry: 714 [Market]|#item-d87de56bd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/405,335,413,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560262887534
+sort_value: '303010335'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/811,3557,667,164/150,/0/default.jpg
-label: Rabbi Maimony
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/405,335,413,108/150,/0/default.jpg
+label: market
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '471'
+order: '504'
 layout: index_item
 collection: index3
 ---

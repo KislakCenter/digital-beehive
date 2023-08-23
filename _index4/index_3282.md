@@ -1,31 +1,29 @@
 ---
 pid: index_3282
 volume: Volume 3
-image_number: '38'
-head: railing
-entry: "<a href='/digital-beehive/alpha4/alpha_0774/'>a</a>|37 [[Railing]]|<a href='/digital-beehive/num4/num_1149/'>890
-  [Railing]</a>"
+image_number: '39'
+head: to refresh
+entry:
 topic:
 first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3211/'>quicken</a>"
 index:
-item: "#item-b1885edce"
+item: "#item-12b3cec00"
 unparsed:
-line: 'Head: railing|Entry: a|Entry: 37 [[Railing]]|Entry: 890 [Railing]|#item-b1885edce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1188,3266,559,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459655271
-sort_value: '303823266'
+line: 'Head: to refresh|See: quicken|#item-12b3cec00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/133,1483,677,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464552129
+sort_value: '303911483'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1188,3266,559,135/150,/0/default.jpg
-label: railing
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/133,1483,677,121/150,/0/default.jpg
+label: to refresh
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0530'
+order: '0574'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_0402
 volume: Volume 3
 image_number: '10'
-head: body of Christ
-entry: a|<a href='/digital-beehive/num3/num_0751/'>583 [Body]</a>
+head: books of several parts
+entry:
 topic:
 first_letter: B
-page:
+page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>|<a href='/digital-beehive/toc/toc2_187/'>p.375
+  [Image 2.197]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a11baee38"
+item: "#item-8802dc054"
 unparsed:
-line: 'Head: body of Christ|Entry: a|Entry: 583 [Body]|#item-a11baee38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,377,417,163/full/0/default.jpg
+line: 'Head: books of several parts|Page: p.62 [Image 1.129]|Page: p.375 [Image 2.197]|#item-8802dc054'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,1437,729,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565635048479
-sort_value: '301030377'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531153084424
+sort_value: '301031437'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,377,417,163/150,/0/default.jpg
-label: body of Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,1437,729,162/150,/0/default.jpg
+label: books of several parts
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified.
-insertion_xref:
+issue:
 order: '0401'
 layout: index_item
 collection: index1

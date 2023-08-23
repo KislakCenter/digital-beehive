@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1001/'>Virginity</a>|<a href='/digital-beehive/num6/num_1825/'>1304
   [Celibate]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0576/'>celibate</a>"
+index: "<a href='/digital-beehive/index1/index_0565/'>celibate</a>"
 item: "#item-9ad056c61"
 unparsed:
 line: 'Entry: Celibate|Topic: Celibate|Xref: Virginity|Xref: 1304 [Celibate]|Index:
@@ -24,8 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/833,4079,600,180/250,/0/default.jpg
 label: Celibate
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
-issue: It is unclear whether "To prevent generation" should be considered a separate
-  entry.
+issue: It is not totally clear whether "To prevent generation" should be considered
+  a separate entry. We have annotated it as part of "Celibate" here.
 also_in_entry:
 order: '134'
 layout: alpha_item

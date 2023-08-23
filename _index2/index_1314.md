@@ -2,8 +2,10 @@
 pid: index_1314
 volume: Volume 3
 image_number: '19'
-head: evasion
-entry: "<a href='/digital-beehive/num2/num_0305/'>271 [Evasion]</a>|4763 [PAGE_MISSING]"
+head: excuse
+entry: "<a href='/digital-beehive/alpha2/alpha_0299/'>a</a>|756 [PAGE_MISSING]|<a
+  href='/digital-beehive/num6/num_2073/'>1427 [Excuse]</a>|<a href='/digital-beehive/num11/num_3565/'>4869
+  [Excuses]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-3700e66e0"
+item: "#item-4461567ca"
 unparsed:
-line: 'Head: evasion|Entry: 271 [Evasion]|Entry: 4763 [PAGE_MISSING]|#item-3700e66e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/848,976,633,141/full/0/default.jpg
+line: 'Head: excuse|Entry: a|Entry: 756 [PAGE_MISSING]|Entry: 1427 [Excuse]|Entry:
+  4869 [Excuses]|#item-4461567ca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/789,3492,738,294/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351133654
-sort_value: '301920976'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560365469519
+sort_value: '301923492'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/848,976,633,141/150,/0/default.jpg
-label: evasion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/789,3492,738,294/150,/0/default.jpg
+label: excuse
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '133'
+order: '155'
 layout: index_item
 collection: index2
 ---

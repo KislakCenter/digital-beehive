@@ -1,30 +1,29 @@
 ---
 pid: index_4134
 volume: Volume 3
-image_number: '47'
-head: to thrive
-entry:
+image_number: '48'
+head: tortoise
+entry: "<a href='/digital-beehive/alpha5/alpha_0976/'>a</a>|4704 [PAGE_MISSING]"
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1719/'>growth</a>"
+see:
 index:
-item: "#item-2994e8074"
+item: "#item-b06a984ac"
 unparsed:
-line: 'Head: to thrive|See: growth|#item-2994e8074'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/885,3366,624,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294499999
-sort_value: '304723366'
+line: 'Head: tortoise|Page: p.36 [Image 1.96]|Entry: a|Entry: 4704 [PAGE_MISSING]|#item-b06a984ac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/459,3341,683,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278129042
+sort_value: '304813341'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/885,3366,624,132/150,/0/default.jpg
-label: to thrive
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/459,3341,683,170/150,/0/default.jpg
+label: tortoise
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '096'
+order: '157'
 layout: index_item
 collection: index5
 ---

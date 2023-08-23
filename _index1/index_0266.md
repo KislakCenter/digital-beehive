@@ -2,8 +2,8 @@
 pid: index_0266
 volume: Volume 3
 image_number: '9'
-head: backsliding
-entry: "<a href='/digital-beehive/num7/num_2469/'>1628 [Relapses]</a>"
+head: bag
+entry: 4637 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-9ec26fbf7"
+item: "#item-366531343"
 unparsed:
-line: 'Head: backsliding|Entry: 1628 [Relapses]|#item-9ec26fbf7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/196,3350,589,123/full/0/default.jpg
+line: 'Head: bag|Entry: 4637 [PAGE_MISSING]|#item-366531343'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/930,518,356,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016672465
-sort_value: '300913350'
+annotation_uri: http://dev.llgc.org.uk/annotation/1505402742025
+sort_value: '300920518'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/196,3350,589,123/150,/0/default.jpg
-label: backsliding
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/930,518,356,100/150,/0/default.jpg
+label: bag
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0265'
 layout: index_item
 collection: index1

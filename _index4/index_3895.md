@@ -2,29 +2,28 @@
 pid: index_3895
 volume: Volume 3
 image_number: '45'
-head: Stephen
-entry: "<a href='/digital-beehive/num2/num_0380/'>331 [St. Stephen]</a>"
+head: submission
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4577/'>yielding</a>"
 index:
-item: "#item-4b4065ae2"
+item: "#item-90b84a133"
 unparsed:
-line: 'Head: Stephen|Entry: 331 [St. Stephen]|#item-4b4065ae2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/214,1637,404,102/full/0/default.jpg
+line: 'Head: submission|See: yielding|#item-90b84a133'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1592,858,657,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530220911126
-sort_value: '304511637'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467522360
+sort_value: '304530858'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/214,1637,404,102/150,/0/default.jpg
-label: Stephen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1592,858,657,154/150,/0/default.jpg
+label: submission
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1143'
+order: '1187'
 layout: index_item
 collection: index4
 ---

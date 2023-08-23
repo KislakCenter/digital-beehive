@@ -1,31 +1,30 @@
 ---
 pid: index_4546
 volume: Volume 3
-image_number: '52'
-head: wife
-entry: "<a href='/digital-beehive/num2/num_0571/'>459 [Wife]</a>|<a href='/digital-beehive/num6/num_2188/'>1483
-  [Wife]</a>"
+image_number: '53'
+head: world
+entry: "<a href='/digital-beehive/alpha5/alpha_1061/'>a</a>|<a href='/digital-beehive/num6/num_1743/'>1256
+  [World]</a>|<a href='/digital-beehive/num8/num_2756/'>1822 [World]</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-ee3f9a6ee"
+item: "#item-dac56a864"
 unparsed:
-line: 'Head: wife|Page: p.42 [Image 1.102]|Entry: 459 [Wife]|Entry: 1483 [Wife]|#item-ee3f9a6ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1772,1785,691,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972099327
-sort_value: '305231785'
+line: 'Head: world|Entry: a|Entry: 1256 [World]|Entry: 1822 [World]|#item-dac56a864'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/855,2878,673,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797346902
+sort_value: '305322878'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1772,1785,691,151/150,/0/default.jpg
-label: wife
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/855,2878,673,129/150,/0/default.jpg
+label: world
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '508'
+order: '569'
 layout: index_item
 collection: index5
 ---

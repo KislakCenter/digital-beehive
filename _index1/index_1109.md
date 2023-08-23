@@ -2,8 +2,8 @@
 pid: index_1109
 volume: Volume 3
 image_number: '17'
-head: ditch
-entry: "<a href='/digital-beehive/num3/num_0943/'>676 [a Ditch]</a>"
+head: to domineer
+entry: "<a href='/digital-beehive/num5/num_1653/'>1209 [To Domineer]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-40e8271d7"
+item: "#item-6fe932a66"
 unparsed:
-line: 'Head: ditch|Entry: 676 [a Ditch]|#item-40e8271d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,1034,483,152/full/0/default.jpg
+line: 'Head: to domineer|Entry: 1209 [To Domineer]|#item-6fe932a66'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/813,3355,579,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849088978
-sort_value: '301721034'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367382043
+sort_value: '301723355'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,1034,483,152/150,/0/default.jpg
-label: ditch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/813,3355,579,153/150,/0/default.jpg
+label: to domineer
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1108'
 layout: index_item
 collection: index1

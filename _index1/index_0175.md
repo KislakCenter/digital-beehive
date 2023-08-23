@@ -2,9 +2,8 @@
 pid: index_0175
 volume: Volume 3
 image_number: '8'
-head: apparel
-entry: "<a href='/digital-beehive/alpha1/alpha_0041/'>a</a>|<a href='/digital-beehive/num1/num_0203/'>194
-  [Apparel]</a>"
+head: to appease
+entry: 1864 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-1fe8c3ae3"
+item: "#item-c3543d030"
 unparsed:
-line: 'Head: apparel|Entry: a|Entry: 194 [Apparel]|#item-1fe8c3ae3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1112,1164,464,121/full/0/default.jpg
+line: 'Head: to appease|Entry: 1864 [PAGE_MISSING]|#item-c3543d030'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1092,1728,535,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760043994
-sort_value: '300821164'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760538449
+sort_value: '300821728'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1112,1164,464,121/150,/0/default.jpg
-label: apparel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1092,1728,535,107/150,/0/default.jpg
+label: to appease
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0174'
 layout: index_item
 collection: index1

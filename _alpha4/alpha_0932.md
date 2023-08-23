@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0325/'>feast</a>|<a href='/digital-beehive/alpha4/alpha_0824/'>Sabbath</a>|<a
   href='/digital-beehive/num3/num_0643/'>511 [First day of the Week]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3984/'>sunday</a>"
+index: "<a href='/digital-beehive/index4/index_3925/'>sunday</a>"
 item: "#item-9a748c2a7"
 unparsed:
 line: 'Entry: Sunday|Topic: Sunday|Xref: feast|Xref: Sabbath|Xref: 511 [First day

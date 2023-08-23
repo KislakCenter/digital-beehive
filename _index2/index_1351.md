@@ -1,30 +1,29 @@
 ---
 pid: index_1351
 volume: Volume 3
-image_number: '19'
-head: expedient
-entry:
+image_number: '20'
+head: factions
+entry: "<a href='/digital-beehive/num1/num_0046/'>46 [Orthodox]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3180/'>profit</a>"
+see:
 index:
-item: "#item-98aa014ab"
+item: "#item-1d8bf301d"
 unparsed:
-line: 'Head: expedient|See: profit|#item-98aa014ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1533,1320,675,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044343774
-sort_value: '301931320'
+line: 'Head: factions|Entry: 46 [Orthodox]|#item-1d8bf301d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/790,384,359,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561399245365
+sort_value: '302010384'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1533,1320,675,106/150,/0/default.jpg
-label: expedient
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/790,384,359,142/150,/0/default.jpg
+label: factions
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '170'
+order: '192'
 layout: index_item
 collection: index2
 ---

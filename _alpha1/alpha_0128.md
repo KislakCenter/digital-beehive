@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0477/'>Information</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0562/'>catechism</a>"
+index: "<a href='/digital-beehive/index1/index_0551/'>catechism</a>"
 item: "#item-317d9da14"
 unparsed:
 line: 'Entry: Catechism|Topic: Catechism|Xref: Information|Index: catechism|#item-317d9da14'

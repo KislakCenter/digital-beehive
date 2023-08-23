@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0106/'>103 [Sordidness]</a>|727 [[PAGE_MISSING],
   Miser]|<a href='/digital-beehive/num1/num_0199/'>190 [Covetousness]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0868/'>covetousness</a>"
+index: "<a href='/digital-beehive/index1/index_0851/'>covetousness</a>"
 item: "#item-036e87c27"
 unparsed:
 line: 'Entry: Covetousness|Topic: Covetousness|Xref: 103 [Sordidness]|Xref: 727 [[PAGE_MISSING],

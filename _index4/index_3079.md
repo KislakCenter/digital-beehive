@@ -2,8 +2,8 @@
 pid: index_3079
 volume: Volume 3
 image_number: '36'
-head: port
-entry: 812 [PAGE_MISSING]
+head: presage
+entry: 836 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-656a6ed26"
+item: "#item-a6a0375c8"
 unparsed:
-line: 'Head: port|Entry: 812 [PAGE_MISSING]|#item-656a6ed26'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1192,1279,315,118/full/0/default.jpg
+line: 'Head: presage|Entry: 836 [PAGE_MISSING]|#item-a6a0375c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1865,3162,495,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438568011
-sort_value: '303621279'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440917010
+sort_value: '303633162'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1192,1279,315,118/150,/0/default.jpg
-label: port
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1865,3162,495,126/150,/0/default.jpg
+label: presage
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0327'
+order: '0371'
 layout: index_item
 collection: index4
 ---

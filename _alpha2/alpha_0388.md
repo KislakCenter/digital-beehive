@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0112/'>Burial</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1699/'>grave</a>"
+index: "<a href='/digital-beehive/index2/index_1668/'>grave</a>"
 item: "#item-e1efb75b2"
 unparsed:
 line: 'Entry: Grave|Topic: Grave|Xref: Burial|Index: grave|#item-e1efb75b2'

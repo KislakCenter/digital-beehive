@@ -2,29 +2,28 @@
 pid: index_1721
 volume: Volume 3
 image_number: '23'
-head: guard
-entry:
+head: hard
+entry: "<a href='/digital-beehive/num3/num_0795/'>603 [Hard]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0931/'>custody</a>"
+see:
 index:
-item: "#item-431a74825"
+item: "#item-4b556dcb4"
 unparsed:
-line: 'Head: guard|See: custody|#item-431a74825'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/149,1945,521,136/full/0/default.jpg
+line: 'Head: hard|Entry: 603 [Hard]|#item-4b556dcb4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,1423,367,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232111206
-sort_value: '302311945'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239567340
+sort_value: '302321423'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/149,1945,521,136/150,/0/default.jpg
-label: guard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,1423,367,91/150,/0/default.jpg
+label: hard
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '540'
+order: '562'
 layout: index_item
 collection: index2
 ---

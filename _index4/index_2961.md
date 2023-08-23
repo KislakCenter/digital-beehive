@@ -2,31 +2,28 @@
 pid: index_2961
 volume: Volume 3
 image_number: '35'
-head: periwig
-entry: "<a href='/digital-beehive/num6/num_1882/'>1337 [Hair & Perriwigs]</a>|<a href='/digital-beehive/num10/num_3396/'>2422
-  [Hair & Periwigs]</a>"
+head: pillory
+entry: 1846 [PAGE_MISSING]
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1737/'>hair</a>"
+see:
 index:
-item: "#item-6d1102818"
+item: "#item-70b747666"
 unparsed:
-line: 'Head: periwig|Page: p.43 [Image 1.103]|See: hair|Entry: 1337 [Hair & Perriwigs]|Entry:
-  2422 [Hair & Periwigs]|#item-6d1102818'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/164,3086,707,145/full/0/default.jpg
+line: 'Head: pillory|Entry: 1846 [PAGE_MISSING]|#item-70b747666'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1520,1347,524,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973267822
-sort_value: '303513086'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976380219
+sort_value: '303531347'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/164,3086,707,145/150,/0/default.jpg
-label: periwig
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1520,1347,524,137/150,/0/default.jpg
+label: pillory
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0209'
+order: '0253'
 layout: index_item
 collection: index4
 ---

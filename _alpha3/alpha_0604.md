@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0502/'>King</a>|<a href='/digital-beehive/num8/num_2695/'>1763
   [Monarchy]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2563/'>monarchy</a>"
+index: "<a href='/digital-beehive/index3/index_2522/'>monarchy</a>"
 item: "#item-713020ad5"
 unparsed:
 line: 'Entry: Monarchy|Topic: Monarchy|Xref: King|Xref: 1763 [Monarchy]|Index: monarchy|#item-713020ad5'

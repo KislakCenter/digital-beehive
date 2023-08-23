@@ -2,30 +2,28 @@
 pid: index_2362
 volume: Volume 3
 image_number: '29'
-head: lukewarm
-entry: "<a href='/digital-beehive/num1/num_0027/'>27 [Lukewarmness]</a>|<a href='/digital-beehive/num8/num_2868/'>1943
-  [Lukewarmness]</a>"
+head: Mamut
+entry: "<a href='/digital-beehive/num6/num_1841/'>1317 [Mamut]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-a0c08400e"
+item: "#item-94133a51f"
 unparsed:
-line: 'Head: lukewarm|Entry: 27 [Lukewarmness]|Entry: 1943 [Lukewarmness]|#item-a0c08400e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,470,580,133/full/0/default.jpg
+line: 'Head: Mamut|Entry: 1317 [Mamut]|#item-94133a51f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560184996286
-sort_value: '302920470'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194354143
+sort_value: '302931232'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,470,580,133/150,/0/default.jpg
-label: lukewarm
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/150,/0/default.jpg
+label: Mamut
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '444'
+order: '477'
 layout: index_item
 collection: index3
 ---

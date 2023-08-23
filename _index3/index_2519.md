@@ -1,10 +1,9 @@
 ---
 pid: index_2519
 volume: Volume 3
-image_number: '30'
-head: mind
-entry: "<a href='/digital-beehive/alpha3/alpha_0597/'>a</a>|<a href='/digital-beehive/num7/num_2453/'>1620
-  [Mind]</a>"
+image_number: '31'
+head: Molinos
+entry: "<a href='/digital-beehive/num4/num_1257/'>939 [Quietists]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4e54db0a0"
+item: "#item-7e4dac028"
 unparsed:
-line: 'Head: mind|Entry: a|Entry: 1620 [Mind]|#item-4e54db0a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1810,2149,500,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274271545
-sort_value: '303032149'
+line: 'Head: Molinos|Entry: 939 [Quietists]|#item-7e4dac028'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/154,3220,422,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560353174279
+sort_value: '303113220'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1810,2149,500,109/150,/0/default.jpg
-label: mind
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/154,3220,422,140/150,/0/default.jpg
+label: Molinos
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '601'
+order: '634'
 layout: index_item
 collection: index3
 ---

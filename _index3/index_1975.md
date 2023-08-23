@@ -2,8 +2,8 @@
 pid: index_1975
 volume: Volume 3
 image_number: '25'
-head: impostumes
-entry: "<a href='/digital-beehive/num3/num_0780/'>597 [Impostumes]</a>"
+head: incredulous
+entry: "<a href='/digital-beehive/num6/num_1740/'>1254 [Scepticism]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bd0bb1e85"
+item: "#item-a713609f8"
 unparsed:
-line: 'Head: impostumes|Entry: 597 [Impostumes]|#item-bd0bb1e85'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/860,2197,476,147/full/0/default.jpg
+line: 'Head: incredulous|Entry: 1254 [Scepticism]|#item-a713609f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1566,2525,571,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666640783
-sort_value: '302522197'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672281312
+sort_value: '302532525'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/860,2197,476,147/150,/0/default.jpg
-label: impostumes
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1566,2525,571,106/150,/0/default.jpg
+label: incredulous
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '057'
+order: '090'
 layout: index_item
 collection: index3
 ---

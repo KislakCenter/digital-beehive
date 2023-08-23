@@ -1,9 +1,9 @@
 ---
 pid: index_3966
 volume: Volume 3
-image_number: '45'
-head: Successively
-entry: "<a href='/digital-beehive/num4/num_1141/'>887 [Successively]</a>"
+image_number: '46'
+head: to swing
+entry: "<a href='/digital-beehive/num8/num_2768/'>1832 [To Swing]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-02002dd90"
+item: "#item-e4dc26a8f"
 unparsed:
-line: 'Head: Successively|Entry: 887 [Successively]|#item-02002dd90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1580,2404,544,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530469402262
-sort_value: '304532404'
+line: 'Head: to swing|Entry: 1832 [To Swing]|#item-e4dc26a8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1095,2472,522,89/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531701449143
+sort_value: '304622472'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1580,2404,544,129/150,/0/default.jpg
-label: Successively
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1095,2472,522,89/150,/0/default.jpg
+label: to swing
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1214'
+order: '1258'
 layout: index_item
 collection: index4
 ---

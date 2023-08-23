@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0883/'>646 [Grace of God]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1683/'>Grace of God</a>"
+index: "<a href='/digital-beehive/index2/index_1652/'>Grace of God</a>"
 item: "#item-f20619d2c"
 unparsed:
 line: 'Entry: Grace of God|Topic: Grace of God|Xref: 646 [Grace of God]|Index: Grace

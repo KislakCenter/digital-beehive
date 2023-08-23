@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num6/num_1743/'>1256 [World]</a>|<a href='/digital-beehive/num6/num_1924/'>1357
   [Sun]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3982/'>sun</a>"
+index: "<a href='/digital-beehive/index4/index_3923/'>sun</a>"
 item: "#item-21648fee6"
 unparsed:
 line: 'Entry: Sun|Topic: Sun|Xref: 1256 [World]|Xref: 1357 [Sun]|Index: sun|#item-21648fee6'

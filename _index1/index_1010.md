@@ -2,8 +2,8 @@
 pid: index_1010
 volume: Volume 3
 image_number: '16'
-head: denmark
-entry: "<a href='/digital-beehive/num6/num_1889/'>1340 [Swedland & Denmark]</a>"
+head: destruction
+entry: 744 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-fd42ac720"
+item: "#item-11707f99d"
 unparsed:
-line: 'Head: denmark|Entry: 1340 [Swedland & Denmark]|#item-fd42ac720'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1097,862,576,116/full/0/default.jpg
+line: 'Head: destruction|Entry: 744 [PAGE_MISSING]|#item-11707f99d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1062,3131,613,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565623900170
-sort_value: '301620862'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605248959
+sort_value: '301623131'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1097,862,576,116/150,/0/default.jpg
-label: denmark
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1062,3131,613,148/150,/0/default.jpg
+label: destruction
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1009'
 layout: index_item
 collection: index1

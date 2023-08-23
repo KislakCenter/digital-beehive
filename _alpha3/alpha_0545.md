@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>Baseness</a>|<a href='/digital-beehive/alpha5/alpha_0968/'>Too
   little</a>|767 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2306/'>little</a>"
+index: "<a href='/digital-beehive/index3/index_2268/'>little</a>"
 item: "#item-f81ed4510"
 unparsed:
 line: 'Entry: Littleness|Topic: Littleness|Xref: Baseness|Xref: Too little|Xref: 767

@@ -2,8 +2,10 @@
 pid: index_3639
 volume: Volume 3
 image_number: '42'
-head: to separate
-entry: 742 [PAGE_MISSING]
+head: sickness
+entry: "<a href='/digital-beehive/alpha4/alpha_0874/'>a</a>|<a href='/digital-beehive/num6/num_1793/'>1287
+  [Distemper]</a>|<a href='/digital-beehive/num7/num_2465/'>1626 [Distemper]</a>|<a
+  href='/digital-beehive/num10/num_3454/'>4469 [Sickness]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-9b4a7aa07"
+item: "#item-5a7f6cef8"
 unparsed:
-line: 'Head: to separate|Entry: 742 [PAGE_MISSING]|#item-9b4a7aa07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1126,384,630,133/full/0/default.jpg
+line: 'Head: sickness|Entry: a|Entry: 1287 [Distemper]|Entry: 1626 [Distemper]|Entry:
+  4469 [Sickness]|#item-5a7f6cef8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,3496,761,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571865954
-sort_value: '304220384'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576756624
+sort_value: '304233496'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1126,384,630,133/150,/0/default.jpg
-label: to separate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,3496,761,192/150,/0/default.jpg
+label: sickness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0887'
+order: '0931'
 layout: index_item
 collection: index4
 ---

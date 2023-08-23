@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0962/'>Time, continued</a>|<a href='/digital-beehive/alpha5/alpha_1015/'>Untimely</a>|818
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index5/index_4154/'>time</a>"
+index: "<a href='/digital-beehive/index5/index_4092/'>time</a>"
 item: "#item-21d76679c"
 unparsed:
 line: 'Entry: Time|Topic: Time|Xref: Time, continued|Xref: Untimely|Xref: 818 [PAGE_MISSING]|Index:
@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/812,4467,600,180/250,/0/default.jpg
 label: Time
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
-issue: The entry continues onto the next page.
+issue: This entry continues this topic on the following page of the Alvearium as Time,
+  continued.
 also_in_entry:
 order: '021'
 layout: alpha_item

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0471/'>Incontinence</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0825/'>continency</a>"
+index: "<a href='/digital-beehive/index1/index_0809/'>continency</a>"
 item: "#item-7842cd78e"
 unparsed:
 line: 'Entry: Continency|Topic: Continency|Xref: Incontinence|Index: continency|#item-7842cd78e'

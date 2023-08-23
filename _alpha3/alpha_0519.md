@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num10/num_3263/'>2298 [Last Words]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2208/'>last words</a>"
+index: "<a href='/digital-beehive/index3/index_2172/'>last words</a>"
 item: "#item-680c357e1"
 unparsed:
 line: 'Entry: Last words|Topic: Last words|Xref: 2298 [Last Words]|Index: last words|#item-680c357e1'

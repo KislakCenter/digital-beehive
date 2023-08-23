@@ -2,30 +2,28 @@
 pid: index_2938
 volume: Volume 3
 image_number: '35'
-head: pedantery
-entry: "<a href='/digital-beehive/alpha4/alpha_0701/'>a</a>|<a href='/digital-beehive/num5/num_1677/'>1224
-  [Pedantry]</a>"
+head: philosopher stone
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0086/'>alchymie</a>"
 index:
-item: "#item-37d5d1b72"
+item: "#item-4ec30a3ed"
 unparsed:
-line: 'Head: pedantery|Entry: a|Entry: 1224 [Pedantry]|#item-37d5d1b72'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/131,505,622,167/full/0/default.jpg
+line: 'Head: philosopher stone|See: alchymie|#item-4ec30a3ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971578021
-sort_value: '303510505'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974701712
+sort_value: '303522523'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/131,505,622,167/150,/0/default.jpg
-label: pedantery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/150,/0/default.jpg
+label: philosopher stone
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0186'
+order: '0230'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_0503
 volume: Volume 3
 image_number: '11'
-head: cabbages
-entry: "<a href='/digital-beehive/num3/num_0939/'>675 [Cabbages]</a>"
+head: calvinists
+entry: 798 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-a3a7966b0"
+item: "#item-d9a4a2198"
 unparsed:
-line: 'Head: cabbages|Entry: 675 [Cabbages]|#item-a3a7966b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/881,3466,507,143/full/0/default.jpg
+line: 'Head: calvinists|Entry: 798 [PAGE_MISSING]|#item-d9a4a2198'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1566,973,563,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493829941
-sort_value: '301123466'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494674330
+sort_value: '301130973'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/881,3466,507,143/150,/0/default.jpg
-label: cabbages
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1566,973,563,123/150,/0/default.jpg
+label: calvinists
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0502'
 layout: index_item
 collection: index1

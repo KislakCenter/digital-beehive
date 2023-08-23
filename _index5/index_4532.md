@@ -1,9 +1,9 @@
 ---
 pid: index_4532
 volume: Volume 3
-image_number: '52'
-head: a little while
-entry: "<a href='/digital-beehive/num5/num_1413/'>1053 [Sometimes]</a>"
+image_number: '53'
+head: wooll
+entry: 851 [PAGE_MISSING]
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-39662508b"
+item: "#item-6c4685bbc"
 unparsed:
-line: 'Head: a little while|Entry: 1053 [Sometimes]|#item-39662508b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1089,3448,633,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560970203029
-sort_value: '305223448'
+line: 'Head: wooll|Entry: 851 [PAGE_MISSING]|#item-6c4685bbc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/871,1433,422,99/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796293229
+sort_value: '305321433'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1089,3448,633,134/150,/0/default.jpg
-label: a little while
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/871,1433,422,99/150,/0/default.jpg
+label: wooll
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '494'
+order: '555'
 layout: index_item
 collection: index5
 ---

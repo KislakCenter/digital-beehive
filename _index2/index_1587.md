@@ -1,30 +1,29 @@
 ---
 pid: index_1587
 volume: Volume 3
-image_number: '21'
-head: to geld
-entry: "<a href='/digital-beehive/num2/num_0347/'>304 [To Geld]</a>"
+image_number: '22'
+head: to give
+entry:
 topic:
 first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1583/'>gift</a>"
 index:
-item: "#item-5397c0b6b"
+item: "#item-b0c6b6c72"
 unparsed:
-line: 'Head: to geld|Entry: 304 [To Geld]|#item-5397c0b6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1529,3265,426,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787776447
-sort_value: '302133265'
+line: 'Head: to give|See: gift|#item-b0c6b6c72'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/421,2432,501,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043744966
+sort_value: '302212432'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1529,3265,426,150/150,/0/default.jpg
-label: to geld
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/421,2432,501,170/150,/0/default.jpg
+label: to give
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '406'
+order: '428'
 layout: index_item
 collection: index2
 ---

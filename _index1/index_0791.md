@@ -2,8 +2,8 @@
 pid: index_0791
 volume: Volume 3
 image_number: '14'
-head: to confront
-entry: "<a href='/digital-beehive/num6/num_2074/'>1427 [To Confront]</a>"
+head: consequently
+entry: "<a href='/digital-beehive/num7/num_2635/'>1710 [Needs]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-01cc9a84f"
+item: "#item-d910d47f1"
 unparsed:
-line: 'Head: to confront|Entry: 1427 [To Confront]|#item-01cc9a84f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1185,251,589,130/full/0/default.jpg
+line: 'Head: consequently|Entry: 1710 [Needs]|#item-d910d47f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1142,1789,649,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541060263
-sort_value: '301420251'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541607164
+sort_value: '301421789'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1185,251,589,130/150,/0/default.jpg
-label: to confront
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1142,1789,649,132/150,/0/default.jpg
+label: consequently
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0790'
 layout: index_item
 collection: index1

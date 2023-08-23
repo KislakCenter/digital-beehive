@@ -1,9 +1,9 @@
 ---
 pid: index_4132
 volume: Volume 3
-image_number: '47'
-head: three
-entry: "<a href='/digital-beehive/num8/num_2821/'>1918 [Three and third]</a>"
+image_number: '48'
+head: tories
+entry: "<a href='/digital-beehive/num8/num_2698/'>1766 [High Church]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-35c623cad"
+item: "#item-d09561fce"
 unparsed:
-line: 'Head: three|Entry: 1918 [Three and third]|#item-35c623cad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/891,3237,366,77/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532876855616
-sort_value: '304723237'
+line: 'Head: tories|Entry: 1766 [High Church]|#item-d09561fce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/482,3171,416,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277245063
+sort_value: '304813171'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/891,3237,366,77/150,/0/default.jpg
-label: three
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/482,3171,416,118/150,/0/default.jpg
+label: tories
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '094'
+order: '155'
 layout: index_item
 collection: index5
 ---

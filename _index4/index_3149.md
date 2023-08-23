@@ -2,8 +2,9 @@
 pid: index_3149
 volume: Volume 3
 image_number: '37'
-head: prey
-entry: "<a href='/digital-beehive/num4/num_1095/'>871 [Prey]</a>"
+head: false prophets
+entry: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num3/num_0666/'>531
+  [unholy man to be a Gospel-minister]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-f74d1033d"
+item: "#item-7920f1dbf"
 unparsed:
-line: 'Head: prey|Entry: 871 [Prey]|#item-f74d1033d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/111,2058,381,166/full/0/default.jpg
+line: 'Head: false prophets|Entry: 41 [False Prophets]|Entry: 531 [unholy man to be
+  a Gospel-minister]|#item-7920f1dbf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1452,1010,535,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866661095
-sort_value: '303712058'
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869200957
+sort_value: '303731010'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/111,2058,381,166/150,/0/default.jpg
-label: prey
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1452,1010,535,135/150,/0/default.jpg
+label: false prophets
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0397'
+order: '0441'
 layout: index_item
 collection: index4
 ---

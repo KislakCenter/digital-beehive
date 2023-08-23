@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0258/'>Doctorship</a>|<a href='/digital-beehive/num2/num_0601/'>480
   [Master of arts]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2446/'>master of arts</a>"
+index: "<a href='/digital-beehive/index3/index_2406/'>master of arts</a>"
 item: "#item-1e49135f2"
 unparsed:
 line: 'Entry: Master of Arts|Topic: Master of Arts|Xref: Doctorship|Xref: 480 [Master

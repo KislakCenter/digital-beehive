@@ -1,10 +1,9 @@
 ---
 pid: index_4162
 volume: Volume 3
-image_number: '47'
-head: titles
-entry: "<a href='/digital-beehive/alpha5/alpha_0964/'>a</a>|<a href='/digital-beehive/num6/num_2092/'>1435
-  [Titles of honour]</a>"
+image_number: '48'
+head: high treason
+entry: "<a href='/digital-beehive/num6/num_1852/'>1321 [High treason]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6f9a43914"
+item: "#item-b8e6ce6bf"
 unparsed:
-line: 'Head: titles|Entry: a|Entry: 1435 [Titles of honour]|#item-6f9a43914'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1655,3288,518,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281509265
-sort_value: '304733288'
+line: 'Head: high treason|Entry: 1321 [High treason]|#item-b8e6ce6bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1125,3489,586,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561489965121
+sort_value: '304823489'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1655,3288,518,136/150,/0/default.jpg
-label: titles
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1125,3489,586,155/150,/0/default.jpg
+label: high treason
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '124'
+order: '185'
 layout: index_item
 collection: index5
 ---

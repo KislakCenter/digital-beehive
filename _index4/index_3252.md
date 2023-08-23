@@ -2,29 +2,28 @@
 pid: index_3252
 volume: Volume 3
 image_number: '38'
-head: quarrelsome
-entry: "<a href='/digital-beehive/num4/num_1169/'>899 [Quarrelsome]</a>"
+head: ravenous birds
+entry: "<a href='/digital-beehive/num6/num_1912/'>1351 [a Kite : a Hawk]</a>"
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-fb1846ca6"
+item: "#item-c4fe547bc"
 unparsed:
-line: 'Head: quarrelsome|Entry: 899 [Quarrelsome]|#item-fb1846ca6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/409,3566,517,110/full/0/default.jpg
+line: 'Head: ravenous birds|Entry: 1351 [a Kite : a Hawk]|#item-c4fe547bc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1816,1417,656,203/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454853715
-sort_value: '303813566'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461151105
+sort_value: '303831417'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/409,3566,517,110/150,/0/default.jpg
-label: quarrelsome
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1816,1417,656,203/150,/0/default.jpg
+label: ravenous birds
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0500'
+order: '0544'
 layout: index_item
 collection: index4
 ---

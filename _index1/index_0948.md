@@ -2,8 +2,8 @@
 pid: index_0948
 volume: Volume 3
 image_number: '15'
-head: darling
-entry: 796 [PAGE_MISSING]|1870 [PAGE_MISSING]
+head: great death
+entry:
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-dc581f8d6"
+item: "#item-a7e32b244"
 unparsed:
-line: 'Head: darling|Entry: 796 [PAGE_MISSING]|Entry: 1870 [PAGE_MISSING]|#item-dc581f8d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1548,1585,603,120/full/0/default.jpg
+line: 'Head: great death|#item-a7e32b244'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1650,3095,361,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391264195
-sort_value: '301531585'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565629717948
+sort_value: '301533095'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1548,1585,603,120/150,/0/default.jpg
-label: darling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1650,3095,361,130/150,/0/default.jpg
+label: great death
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0947'
 layout: index_item
 collection: index1

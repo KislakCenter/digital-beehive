@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1017/'>Unworthy</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4625/'>worthiness</a>"
+index: "<a href='/digital-beehive/index5/index_4554/'>worthiness</a>"
 item: "#item-02c6c11ac"
 unparsed:
 line: 'Entry: Worthiness|Topic: Worthiness|Xref: Unworthy|Index: worthiness|#item-02c6c11ac'

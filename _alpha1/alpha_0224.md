@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0174/'>Considerateness</a>|<a href='/digital-beehive/alpha3/alpha_0585/'>Meditation</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0998/'>deliberation</a>"
+index: "<a href='/digital-beehive/index1/index_0979/'>deliberation</a>"
 item: "#item-8049ac248"
 unparsed:
 line: 'Entry: Deliberation|Topic: Deliberation|Xref: Considerateness|Xref: Meditation|Index:

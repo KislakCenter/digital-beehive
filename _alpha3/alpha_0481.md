@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0763/'>punishmt</a>|761 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2052/'>innocence</a>"
+index: "<a href='/digital-beehive/index3/index_2017/'>innocence</a>"
 item: "#item-21351cd8c"
 unparsed:
 line: 'Entry: Innocence|Topic: Innocence|Xref: punishmt|Xref: 761 [PAGE_MISSING]|Index:

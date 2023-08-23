@@ -1,31 +1,29 @@
 ---
 pid: index_1687
 volume: Volume 3
-image_number: '22'
-head: gram[m]ars
-entry: "<a href='/digital-beehive/alpha2/alpha_0383/'>a</a>"
+image_number: '23'
+head: groves
+entry:
 topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4531/'>wood</a>"
 index:
-item: "#item-831e63a81"
+item: "#item-bf0eddd58"
 unparsed:
-line: 'Head: gram[m]ars|Entry: a|Page: p.379 [Image 2.201]|#item-831e63a81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1829,2037,398,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053020893
-sort_value: '302232037'
+line: 'Head: groves|See: wood|#item-bf0eddd58'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/144,1776,460,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231786393
+sort_value: '302311776'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1829,2037,398,165/150,/0/default.jpg
-label: gram[m]ars
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: Pastorius links to section 358 on page 379. There is currently no protocol
-  for specifying a specific item on a page reference.
-insertion_xref:
-order: '506'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/144,1776,460,112/150,/0/default.jpg
+label: groves
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+issue:
+order: '528'
 layout: index_item
 collection: index2
 ---

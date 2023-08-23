@@ -1,33 +1,29 @@
 ---
 pid: index_2604
 volume: Volume 3
-image_number: '31'
-head: mountebank
-entry: "<a href='/digital-beehive/alpha3/alpha_0616/'>a</a>|<a href='/digital-beehive/num6/num_1875/'>1333
-  [Mountebank]</a>|<a href='/digital-beehive/num10/num_3250/'>2288 [Mountebanck :
-  Quack]</a>"
+image_number: '32'
+head: native
+entry:
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0859/'>Country</a>"
 index:
-item: "#item-132cac763"
+item: "#item-1e66a014d"
 unparsed:
-line: 'Head: mountebank|Entry: a|Entry: 1333 [Mountebank]|Entry: 2288 [Mountebanck
-  : Quack]|#item-132cac763'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1600,524,666,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360524709
-sort_value: '303130524'
+line: 'Head: native|See: Country|#item-1e66a014d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/394,1137,572,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437554753
+sort_value: '303211137'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1600,524,666,147/150,/0/default.jpg
-label: mountebank
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/394,1137,572,152/150,/0/default.jpg
+label: native
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '686'
+order: '719'
 layout: index_item
 collection: index3
 ---

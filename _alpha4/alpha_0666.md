@@ -10,7 +10,7 @@ page:
 add:
 xref: 4630 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index4/index_2790/'>omnipotency</a>"
+index: "<a href='/digital-beehive/index4/index_2746/'>omnipotency</a>"
 item: "#item-69dddeb47"
 unparsed:
 line: 'Entry: Omnipotency|Topic: Omnipotency|Xref: 4630 [PAGE_MISSING]|Index: omnipotency|#item-69dddeb47'

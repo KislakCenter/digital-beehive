@@ -2,29 +2,28 @@
 pid: index_2280
 volume: Volume 3
 image_number: '28'
-head: Lidford law
-entry: "<a href='/digital-beehive/num4/num_1282/'>961 [Too hasty]</a>"
+head: lock
+entry:
 topic:
 first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2117/'>key</a>"
 index:
-item: "#item-85f1f92fb"
+item: "#item-5fdc135d3"
 unparsed:
-line: 'Head: Lidford law|Entry: 961 [Too hasty]|#item-85f1f92fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1088,2476,570,154/full/0/default.jpg
+line: 'Head: lock|See: key|#item-5fdc135d3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1810,2996,362,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846395394
-sort_value: '302822476'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559850150095
+sort_value: '302832996'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1088,2476,570,154/150,/0/default.jpg
-label: Lidford law
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1810,2996,362,175/150,/0/default.jpg
+label: lock
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '362'
+order: '395'
 layout: index_item
 collection: index3
 ---

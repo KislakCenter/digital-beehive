@@ -2,8 +2,8 @@
 pid: index_3508
 volume: Volume 3
 image_number: '41'
-head: salve
-entry: 821 [PAGE_MISSING]
+head: scrivener
+entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e206765f7"
+item: "#item-48e2f1439"
 unparsed:
-line: 'Head: salve|Entry: 821 [PAGE_MISSING]|#item-e206765f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/163,826,364,132/full/0/default.jpg
+line: 'Head: scrivener|Entry: 260 [Scribe or publick Notary]|#item-48e2f1439'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/852,2929,529,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238428582
-sort_value: '304110826'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241696255
+sort_value: '304122929'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/163,826,364,132/150,/0/default.jpg
-label: salve
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/852,2929,529,142/150,/0/default.jpg
+label: scrivener
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0756'
+order: '0800'
 layout: index_item
 collection: index4
 ---

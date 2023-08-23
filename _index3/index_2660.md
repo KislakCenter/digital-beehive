@@ -2,29 +2,28 @@
 pid: index_2660
 volume: Volume 3
 image_number: '32'
-head: good nat
-entry:
+head: niceness
+entry: "<a href='/digital-beehive/num6/num_1913/'>1352 [Niceness]</a>"
 topic:
 first_letter: N
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1597/'>gentleness</a>"
+see:
 index:
-item: "#item-c165266d3"
+item: "#item-ab9988fdb"
 unparsed:
-line: 'Head: good nat|See: gentleness|#item-c165266d3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/382,2088,777,140/full/0/default.jpg
+line: 'Head: niceness|Entry: 1352 [Niceness]|#item-ab9988fdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1150,2860,511,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438420354
-sort_value: '303212088'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560443289286
+sort_value: '303222860'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/382,2088,777,140/150,/0/default.jpg
-label: good nat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1150,2860,511,121/150,/0/default.jpg
+label: niceness
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '742'
+order: '775'
 layout: index_item
 collection: index3
 ---

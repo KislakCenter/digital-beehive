@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1350/'>1010 [Following of Christ]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1961/'>imitation of Christ</a>"
+index: "<a href='/digital-beehive/index3/index_1927/'>imitation of Christ</a>"
 item: "#item-e6337f777"
 unparsed:
 line: 'Entry: Imitation of Christ|Topic: Imitation of Christ|Xref: 1010 [Following

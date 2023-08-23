@@ -1,9 +1,9 @@
 ---
 pid: index_4050
 volume: Volume 3
-image_number: '46'
-head: talent
-entry: "<a href='/digital-beehive/num1/num_0056/'>56 [Talents]</a>"
+image_number: '47'
+head: there
+entry: "<a href='/digital-beehive/num4/num_1242/'>931 [There]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-142c5189b"
+item: "#item-0f141e64d"
 unparsed:
-line: 'Head: talent|Entry: 56 [Talents]|#item-142c5189b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1842,1434,339,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531742796520
-sort_value: '304631434'
+line: 'Head: there|Entry: 931 [There]|#item-0f141e64d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/912,1183,327,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532720673743
+sort_value: '304721183'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1842,1434,339,120/150,/0/default.jpg
-label: talent
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/912,1183,327,106/150,/0/default.jpg
+label: there
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '012'
+order: '073'
 layout: index_item
 collection: index5
 ---

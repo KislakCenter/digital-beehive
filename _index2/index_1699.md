@@ -1,30 +1,29 @@
 ---
 pid: index_1699
 volume: Volume 3
-image_number: '22'
-head: grave
-entry: "<a href='/digital-beehive/alpha2/alpha_0388/'>a</a>"
+image_number: '23'
+head: guilty of other sins
+entry: "<a href='/digital-beehive/num10/num_3389/'>2415 [Partake not with the wicked]</a>"
 topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-ed7255698"
+item: "#item-3ac25d8f7"
 unparsed:
-line: 'Head: grave|Page: p.44 [Image 1.104]|Entry: a|#item-ed7255698'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1854,3499,513,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053724754
-sort_value: '302233499'
+line: 'Head: guilty of other sins|Entry: 2415 [Partake not with the wicked]|#item-3ac25d8f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/156,2832,664,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233454729
+sort_value: '302312832'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1854,3499,513,130/150,/0/default.jpg
-label: grave
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/156,2832,664,107/150,/0/default.jpg
+label: guilty of other sins
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '518'
+order: '540'
 layout: index_item
 collection: index2
 ---

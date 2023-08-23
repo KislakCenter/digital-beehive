@@ -2,8 +2,8 @@
 pid: index_0185
 volume: Volume 3
 image_number: '8'
-head: application
-entry: "<a href='/digital-beehive/num5/num_1380/'>1032 [Application]</a>"
+head: april
+entry: 4576 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-2b3a9eaf7"
+item: "#item-3fd74f041"
 unparsed:
-line: 'Head: application|Entry: 1032 [Application]|#item-2b3a9eaf7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1103,2075,542,135/full/0/default.jpg
+line: 'Head: april|Entry: 4576 [PAGE_MISSING]|#item-3fd74f041'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1085,2707,398,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760846209
-sort_value: '300822075'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761021184
+sort_value: '300822707'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1103,2075,542,135/150,/0/default.jpg
-label: application
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1085,2707,398,110/150,/0/default.jpg
+label: april
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0184'
 layout: index_item
 collection: index1

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num7/num_2261/'>1525 [False Comfort]</a>|<a href='/digital-beehive/num9/num_2950/'>2015
   [Hope]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0733/'>comfort false</a>"
+index: "<a href='/digital-beehive/index1/index_0719/'>comfort false</a>"
 item: "#item-0a6af823f"
 unparsed:
 line: 'Entry: False Comfort|Topic: False Comfort|Xref: 1525 [False Comfort]|Xref:

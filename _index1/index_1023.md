@@ -2,9 +2,8 @@
 pid: index_1023
 volume: Volume 3
 image_number: '16'
-head: desire
-entry: "<a href='/digital-beehive/num1/num_0119/'>115 [Desire]</a>|<a href='/digital-beehive/num5/num_1566/'>1148
-  [Desires]</a>"
+head: dice
+entry: "<a href='/digital-beehive/alpha1/alpha_0235/'>a</a>"
 topic:
 first_letter: D
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-2ac6e4839"
+item: "#item-8600a1cab"
 unparsed:
-line: 'Head: desire|Entry: 115 [Desire]|Entry: 1148 [Desires]|#item-2ac6e4839'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1102,2501,570,131/full/0/default.jpg
+line: 'Head: dice|Entry: a|#item-8600a1cab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1775,856,343,81/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605052802
-sort_value: '301622501'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923485127
+sort_value: '301630856'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1102,2501,570,131/150,/0/default.jpg
-label: desire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1775,856,343,81/150,/0/default.jpg
+label: dice
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1022'
 layout: index_item
 collection: index1

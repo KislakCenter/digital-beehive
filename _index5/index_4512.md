@@ -1,30 +1,30 @@
 ---
 pid: index_4512
 volume: Volume 3
-image_number: '52'
-head: weights
-entry: 833 [PAGE_MISSING]
+image_number: '53'
+head: witnesses
+entry: "<a href='/digital-beehive/num5/num_1345/'>1007 [Witnesses]</a>|<a href='/digital-beehive/num9/num_3153/'>2209
+  [Witness]</a>"
 topic:
 first_letter: W
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4039/'>testimony</a>"
 index:
-item: "#item-65b68b993"
+item: "#item-0be58393f"
 unparsed:
-line: 'Head: weights|Entry: 833 [PAGE_MISSING]|#item-65b68b993'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,773,471,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968239135
-sort_value: '305220773'
+line: 'Head: witnesses|See: testimony|Entry: 1007 [Witnesses]|Entry: 2209 [Witness]|#item-0be58393f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/180,2383,691,202/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792860680
+sort_value: '305312383'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,773,471,132/150,/0/default.jpg
-label: weights
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/180,2383,691,202/150,/0/default.jpg
+label: witnesses
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '474'
+order: '535'
 layout: index_item
 collection: index5
 ---

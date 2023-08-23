@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>Denial</a>|1856 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_1021/'>desertion</a>"
+index: "<a href='/digital-beehive/index1/index_1002/'>desertion</a>"
 item: "#item-26dd25431"
 unparsed:
 line: 'Entry: Desertion|Topic: Desertion|Xref: Denial|Xref: 1856 [PAGE_MISSING]|Index:

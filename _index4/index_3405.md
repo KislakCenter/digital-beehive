@@ -1,11 +1,9 @@
 ---
 pid: index_3405
 volume: Volume 3
-image_number: '39'
-head: revenge
-entry: "<a href='/digital-beehive/alpha4/alpha_0808/'>a</a>|<a href='/digital-beehive/num3/num_0634/'>504
-  [Revenge]</a>|<a href='/digital-beehive/num6/num_1784/'>1282 [Revenge]</a>|<a href='/digital-beehive/num9/num_3192/'>2246
-  [Revenge]</a>"
+image_number: '40'
+head: royalists
+entry: "<a href='/digital-beehive/num8/num_2698/'>1766 [High Church]</a>"
 topic:
 first_letter: R
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b312b39e4"
+item: "#item-b704034f3"
 unparsed:
-line: 'Head: revenge|Entry: a|Entry: 504 [Revenge]|Entry: 1282 [Revenge]|Entry: 2246
-  [Revenge]|#item-b312b39e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1468,3244,868,237/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230547248
-sort_value: '303933244'
+line: 'Head: royalists|Entry: 1766 [High Church]|#item-b704034f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2264,486,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233786077
+sort_value: '304022264'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1468,3244,868,237/150,/0/default.jpg
-label: revenge
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2264,486,125/150,/0/default.jpg
+label: royalists
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0653'
+order: '0697'
 layout: index_item
 collection: index4
 ---

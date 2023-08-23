@@ -1,30 +1,30 @@
 ---
 pid: index_3390
 volume: Volume 3
-image_number: '39'
-head: respect of [per]s
-entry:
+image_number: '40'
+head: romance
+entry: "<a href='/digital-beehive/alpha4/alpha_0818/'>a</a>|<a href='/digital-beehive/num6/num_1998/'>1393
+  [Romances]</a>"
 topic:
 first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3338/'>regard</a>"
+see:
 index:
-item: "#item-4f3534813"
+item: "#item-6af490f6b"
 unparsed:
-line: 'Head: respect of [per]s|See: regard|#item-4f3534813'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1491,1320,796,180/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229760650
-sort_value: '303931320'
+line: 'Head: romance|Entry: a|Entry: 1393 [Romances]|#item-6af490f6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233052220
+sort_value: '304020819'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1491,1320,796,180/150,/0/default.jpg
-label: respect of [per]s
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/150,/0/default.jpg
+label: romance
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0638'
+order: '0682'
 layout: index_item
 collection: index4
 ---

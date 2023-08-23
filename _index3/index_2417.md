@@ -1,30 +1,29 @@
 ---
 pid: index_2417
 volume: Volume 3
-image_number: '29'
-head: manslayer
-entry:
+image_number: '30'
+head: mean men
+entry: 4456 [WORD_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2616/'>murder</a>"
+see:
 index:
-item: "#item-df9a3ab7d"
+item: "#item-48b269d06"
 unparsed:
-line: 'Head: manslayer|See: murder|#item-df9a3ab7d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,2770,639,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196363779
-sort_value: '302932770'
+line: 'Head: mean men|Entry: 4456 [WORD_MISSING]|#item-48b269d06'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/407,2948,487,91/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265784674
+sort_value: '303012948'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,2770,639,105/150,/0/default.jpg
-label: manslayer
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/407,2948,487,91/150,/0/default.jpg
+label: mean men
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '499'
+order: '532'
 layout: index_item
 collection: index3
 ---

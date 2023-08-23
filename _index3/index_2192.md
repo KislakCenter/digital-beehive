@@ -1,30 +1,29 @@
 ---
 pid: index_2192
 volume: Volume 3
-image_number: '27'
-head: lampoon
-entry: 1836 [PAGE_MISSING]
+image_number: '28'
+head: to lay down
+entry: "<a href='/digital-beehive/num2/num_0518/'>417 [Layed]</a>"
 topic:
 first_letter: L
 page:
-add:
+add: "<a href='/digital-beehive/index2/index_1713/'>hands</a>"
 xref:
 see:
 index:
-item: "#item-b660b3906"
+item: "#item-99e2da1df"
 unparsed:
-line: 'Head: lampoon|Entry: 1836 [PAGE_MISSING]|#item-b660b3906'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1567,626,586,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559834419778
-sort_value: '302730626'
+line: 'Head: to lay down|Entry: 417 [Layed]|Add: hands|#item-99e2da1df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/387,653,579,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559841371203
+sort_value: '302810653'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1567,626,586,129/150,/0/default.jpg
-label: lampoon
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/387,653,579,156/150,/0/default.jpg
+label: to lay down
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '274'
+order: '307'
 layout: index_item
 collection: index3
 ---

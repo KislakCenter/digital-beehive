@@ -2,8 +2,8 @@
 pid: index_0527
 volume: Volume 3
 image_number: '11'
-head: canker
-entry: "<a href='/digital-beehive/alpha1/alpha_0119/'>a</a>"
+head: cards
+entry: "<a href='/digital-beehive/alpha1/alpha_0123/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-0ed3c1f5d"
+item: "#item-34500c139"
 unparsed:
-line: 'Head: canker|Entry: a|#item-0ed3c1f5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1576,2189,448,127/full/0/default.jpg
+line: 'Head: cards|Entry: a|#item-34500c139'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,3362,306,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531495334342
-sort_value: '301132189'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496220017
+sort_value: '301133362'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1576,2189,448,127/150,/0/default.jpg
-label: canker
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,3362,306,115/150,/0/default.jpg
+label: cards
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0526'
 layout: index_item
 collection: index1

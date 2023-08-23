@@ -1,9 +1,9 @@
 ---
 pid: index_2425
 volume: Volume 3
-image_number: '29'
-head: marigolds
-entry: "<a href='/digital-beehive/num3/num_0976/'>686 [Marigolds]</a>"
+image_number: '30'
+head: medicoru[m] nomina
+entry: "<a href='/digital-beehive/num9/num_3173/'>2228 [Noia Medicorum]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4e0711290"
+item: "#item-200c7f5da"
 unparsed:
-line: 'Head: marigolds|Entry: 686 [Marigolds]|#item-4e0711290'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,3468,494,157/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560197230520
-sort_value: '302933468'
+line: 'Head: medicoru[m] nomina|Entry: 2228 [Noia Medicorum]|#item-200c7f5da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1077,280,737,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267444628
+sort_value: '303020280'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,3468,494,157/150,/0/default.jpg
-label: marigolds
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1077,280,737,147/150,/0/default.jpg
+label: medicoru[m] nomina
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '507'
+order: '540'
 layout: index_item
 collection: index3
 ---

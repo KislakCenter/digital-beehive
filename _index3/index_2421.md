@@ -1,9 +1,10 @@
 ---
 pid: index_2421
 volume: Volume 3
-image_number: '29'
-head: many
-entry: "<a href='/digital-beehive/num5/num_1437/'>1067 [Many]</a>"
+image_number: '30'
+head: meat
+entry: "<a href='/digital-beehive/alpha3/alpha_0581/'>a</a>|<a href='/digital-beehive/num2/num_0425/'>359
+  [Meat]</a>|<a href='/digital-beehive/num9/num_3098/'>2156 [Meat]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1c08c8035"
+item: "#item-59e563dba"
 unparsed:
-line: 'Head: many|Entry: 1067 [Many]|#item-1c08c8035'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1529,3136,359,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196937804
-sort_value: '302933136'
+line: 'Head: meat|Entry: a|Entry: 359 [Meat]|Entry: 2156 [Meat]|#item-59e563dba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/420,3274,579,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560266226124
+sort_value: '303013274'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1529,3136,359,123/150,/0/default.jpg
-label: many
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/420,3274,579,120/150,/0/default.jpg
+label: meat
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '503'
+order: '536'
 layout: index_item
 collection: index3
 ---

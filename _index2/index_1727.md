@@ -2,29 +2,28 @@
 pid: index_1727
 volume: Volume 3
 image_number: '23'
-head: guild halls
-entry:
+head: harness
+entry: 783 [PAGE_MISSING]
 topic:
-first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
+first_letter: H
+page:
 add:
 xref:
 see:
 index:
-item: "#item-c13111d30"
+item: "#item-6435b3a3c"
 unparsed:
-line: 'Head: guild halls|Page: p.5 [Image 1.65]|#item-c13111d30'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/146,2467,441,144/full/0/default.jpg
+line: 'Head: harness|Entry: 783 [PAGE_MISSING]|#item-6435b3a3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/852,1968,391,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232706451
-sort_value: '302312467'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240088023
+sort_value: '302321968'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/146,2467,441,144/150,/0/default.jpg
-label: guild halls
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/852,1968,391,114/150,/0/default.jpg
+label: harness
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '546'
+order: '568'
 layout: index_item
 collection: index2
 ---

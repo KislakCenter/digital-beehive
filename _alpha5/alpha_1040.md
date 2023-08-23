@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0372/'>Gods Providence</a>|<a href='/digital-beehive/num5/num_1361/'>1019
   [God's Will]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4550/'>will of God</a>"
+index: "<a href='/digital-beehive/index5/index_4481/'>will of God</a>"
 item: "#item-328fe8275"
 unparsed:
 line: 'Entry: Will of God|Topic: Will of God|Xref: Gods Providence|Xref: 1019 [God''s

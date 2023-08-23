@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0384/'>grandeur</a>|795 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2381/'>magnanimity</a>"
+index: "<a href='/digital-beehive/index3/index_2343/'>magnanimity</a>"
 item: "#item-7f4b4bc8a"
 unparsed:
 line: 'Entry: Magnanimity|Topic: Magnanimity|Xref: grandeur|Xref: 795 [PAGE_MISSING]|Index:

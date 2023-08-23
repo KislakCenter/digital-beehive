@@ -1,9 +1,9 @@
 ---
 pid: index_2018
 volume: Volume 3
-image_number: '25'
-head: Indian Corn
-entry: "<a href='/digital-beehive/num7/num_2626/'>1702 [Maiz]</a>"
+image_number: '26'
+head: Innovations
+entry: "<a href='/digital-beehive/num3/num_0657/'>524 [Novelty]</a>|4705 [PAGE_MISSING]"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b71098526"
+item: "#item-3812e78d2"
 unparsed:
-line: 'Head: Indian Corn|Entry: 1702 [Maiz]|#item-b71098526'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1513,3268,394,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672985712
-sort_value: '302533268'
+line: 'Head: Innovations|Entry: 524 [Novelty]|Entry: 4705 [PAGE_MISSING]|#item-3812e78d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/402,3617,731,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559746017369
+sort_value: '302613617'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1513,3268,394,137/150,/0/default.jpg
-label: Indian Corn
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/402,3617,731,117/150,/0/default.jpg
+label: Innovations
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '100'
+order: '133'
 layout: index_item
 collection: index3
 ---

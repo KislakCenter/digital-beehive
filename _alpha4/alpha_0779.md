@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha2/alpha_0343/'>Force</a>|<a href='/digital
   [Compulsion (in Matters of Religion]</a>|<a href='/digital-beehive/num2/num_0277/'>253
   [Rape]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3290/'>rape</a>"
+index: "<a href='/digital-beehive/index4/index_3240/'>rape</a>"
 item: "#item-6d1502d53"
 unparsed:
 line: 'Entry: Rape|Topic: Rape|Xref: Force|Xref: 1049 [Compulsion (in Matters of Religion]|Xref:

@@ -2,30 +2,29 @@
 pid: index_2592
 volume: Volume 3
 image_number: '31'
-head: Moses
-entry: "<a href='/digital-beehive/num4/num_1172/'>901 [Moses]</a>|<a href='/digital-beehive/num7/num_2376/'>1583
-  [Moses]</a>|<a href='/digital-beehive/num8/num_2831/'>1921 [Moses]</a>"
+head: name
+entry: "<a href='/digital-beehive/alpha3/alpha_0631/'>a</a>|<a href='/digital-beehive/num4/num_1300/'>974
+  [Name]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-26d6908d3"
+item: "#item-e9d96acde"
 unparsed:
-line: 'Head: Moses|Entry: 901 [Moses]|Entry: 1583 [Moses]|Entry: 1921 [Moses]|#item-26d6908d3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,2955,649,116/full/0/default.jpg
+line: 'Head: name|Entry: a|Entry: 974 [Name]|#item-e9d96acde'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1534,3437,485,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356750570
-sort_value: '303122955'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560363198015
+sort_value: '303133437'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/835,2955,649,116/150,/0/default.jpg
-label: Moses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1534,3437,485,154/150,/0/default.jpg
+label: name
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '674'
+order: '707'
 layout: index_item
 collection: index3
 ---

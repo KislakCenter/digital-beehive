@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1228/'>926 [New Testament]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4098/'>testament old</a>"
+index: "<a href='/digital-beehive/index5/index_4036/'>testament old</a>"
 item: "#item-d12a4cca7"
 unparsed:
 line: 'Entry: Old Testamt|Topic: Old Testamt|Xref: 926 [New Testament]|Index: testament

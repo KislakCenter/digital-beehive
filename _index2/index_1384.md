@@ -2,9 +2,8 @@
 pid: index_1384
 volume: Volume 3
 image_number: '20'
-head: Faith & Works
-entry: "<a href='/digital-beehive/num4/num_1317/'>987 [Faith & Works]</a>|<a href='/digital-beehive/num11/num_3536/'>4840
-  [Faith and Works]</a>"
+head: fast or firm
+entry: "<a href='/digital-beehive/num3/num_0977/'>686 [Firm]</a>"
 topic:
 first_letter: F
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3e7adf7ef"
+item: "#item-50986245c"
 unparsed:
-line: 'Head: Faith & Works|Entry: 987 [Faith & Works]|Entry: 4840 [Faith and Works]|#item-3e7adf7ef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/344,1333,801,134/full/0/default.jpg
+line: 'Head: fast or firm|Entry: 686 [Firm]|#item-50986245c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,3288,549,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561401410627
-sort_value: '302011333'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660125026
+sort_value: '302013288'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/344,1333,801,134/150,/0/default.jpg
-label: Faith & Works
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,3288,549,114/150,/0/default.jpg
+label: fast or firm
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '203'
+order: '225'
 layout: index_item
 collection: index2
 ---

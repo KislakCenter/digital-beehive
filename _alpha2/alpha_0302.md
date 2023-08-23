@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num7/num_2294/'>1541 [Conjuring]</a>|<a href='/digital-beehive/num7/num_2314/'>1551
   [Exorcism]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1349/'>exorcism</a>"
+index: "<a href='/digital-beehive/index2/index_1325/'>exorcism</a>"
 item: "#item-a42a0b906"
 unparsed:
 line: 'Entry: Exorcism|Topic: Exorcism|Xref: 1541 [Conjuring]|Xref: 1551 [Exorcism]|Index:

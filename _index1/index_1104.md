@@ -2,8 +2,8 @@
 pid: index_1104
 volume: Volume 3
 image_number: '17'
-head: distinction
-entry: "<a href='/digital-beehive/num8/num_2727/'>1793 [Distinction]</a>"
+head: doctrine false
+entry: "<a href='/digital-beehive/num2/num_0452/'>373 [Heterodox]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-5cef91027"
+item: "#item-45ffef8e6"
 unparsed:
-line: 'Head: distinction|Entry: 1793 [Distinction]|#item-5cef91027'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/818,534,549,126/full/0/default.jpg
+line: 'Head: doctrine false|Entry: 373 [Heterodox]|#item-45ffef8e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/797,2713,464,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848616492
-sort_value: '301720534'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367058287
+sort_value: '301722713'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/818,534,549,126/150,/0/default.jpg
-label: distinction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/797,2713,464,137/150,/0/default.jpg
+label: doctrine false
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1103'
 layout: index_item
 collection: index1

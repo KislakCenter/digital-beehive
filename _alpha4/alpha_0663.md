@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num8/num_2804/'>1910 [Oil]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2779/'>oil</a>"
+index: "<a href='/digital-beehive/index4/index_2735/'>oil</a>"
 item: "#item-a229abb24"
 unparsed:
 line: 'Entry: Oil|Topic: Oil|Xref: 1910 [Oil]|Index: oil|#item-a229abb24'

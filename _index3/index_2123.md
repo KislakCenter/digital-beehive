@@ -2,29 +2,28 @@
 pid: index_2123
 volume: Volume 3
 image_number: '27'
-head: island
-entry: "<a href='/digital-beehive/alpha3/alpha_0492/'>a</a>"
+head: to kindle
+entry: "<a href='/digital-beehive/num2/num_0443/'>369 [To Kindle]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-309dc501e"
+item: "#item-c92be57f8"
 unparsed:
-line: 'Head: island|Entry: a|#item-309dc501e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/139,774,299,86/full/0/default.jpg
+line: 'Head: to kindle|Entry: 369 [To Kindle]|#item-c92be57f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/835,671,493,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756695581
-sort_value: '302710774'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761531411
+sort_value: '302720671'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/139,774,299,86/150,/0/default.jpg
-label: island
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/835,671,493,148/150,/0/default.jpg
+label: to kindle
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '205'
+order: '238'
 layout: index_item
 collection: index3
 ---

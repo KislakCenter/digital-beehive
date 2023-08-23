@@ -1,9 +1,9 @@
 ---
 pid: index_3788
 volume: Volume 3
-image_number: '43'
-head: solstice
-entry: "<a href='/digital-beehive/num6/num_1779/'>1280 [Summer]</a>"
+image_number: '44'
+head: Frz. Spira
+entry: "<a href='/digital-beehive/num3/num_0831/'>619 [Francis Spira]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4a7279ee1"
+item: "#item-719a160e5"
 unparsed:
-line: 'Head: solstice|Entry: 1280 [Summer]|#item-4a7279ee1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1581,3357,530,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586581317
-sort_value: '304333357'
+line: 'Head: Frz. Spira|Entry: 619 [Francis Spira]|#item-719a160e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/979,3161,462,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288850756
+sort_value: '304423161'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1581,3357,530,167/150,/0/default.jpg
-label: solstice
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/979,3161,462,157/150,/0/default.jpg
+label: Frz. Spira
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1036'
+order: '1080'
 layout: index_item
 collection: index4
 ---

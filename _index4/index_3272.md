@@ -1,30 +1,31 @@
 ---
 pid: index_3272
 volume: Volume 3
-image_number: '38'
-head: quiver
-entry:
+image_number: '39'
+head: recreation
+entry: "<a href='/digital-beehive/num1/num_0038/'>38 [Recreation. Pastime]</a>|<a
+  href='/digital-beehive/num5/num_1521/'>1123 [Recreation]</a>|1856 [PAGE_MISSING]"
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3683/'>shooting</a>"
+see:
 index:
-item: "#item-e2ae96c47"
+item: "#item-00b2a7552"
 unparsed:
-line: 'Head: quiver|See: shooting|#item-e2ae96c47'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1173,2093,631,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455446400
-sort_value: '303822093'
+line: 'Head: recreation|Entry: 38 [Recreation. Pastime]|Entry: 1123 [Recreation]|Entry:
+  1856 [PAGE_MISSING]|#item-00b2a7552'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/158,543,661,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463226732
+sort_value: '303910543'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1173,2093,631,163/150,/0/default.jpg
-label: quiver
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/158,543,661,138/150,/0/default.jpg
+label: recreation
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0520'
+order: '0564'
 layout: index_item
 collection: index4
 ---

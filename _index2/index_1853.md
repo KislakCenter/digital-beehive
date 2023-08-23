@@ -2,8 +2,8 @@
 pid: index_1853
 volume: Volume 3
 image_number: '24'
-head: hole
-entry: "<a href='/digital-beehive/num4/num_1125/'>881 [make an hole]</a>"
+head: hour
+entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1958/'>1374 [Clock]</a>
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-37e73ef39"
+item: "#item-077bc3635"
 unparsed:
-line: 'Head: hole|Entry: 881 [make an hole]|#item-37e73ef39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1126,1088,337,122/full/0/default.jpg
+line: 'Head: hour|Entry: 758 [PAGE_MISSING]|Entry: 1374 [Clock]|#item-077bc3635'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1840,615,483,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581999247
-sort_value: '302421088'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586316479
+sort_value: '302430615'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1126,1088,337,122/150,/0/default.jpg
-label: hole
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1840,615,483,113/150,/0/default.jpg
+label: hour
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '672'
+order: '694'
 layout: index_item
 collection: index2
 ---

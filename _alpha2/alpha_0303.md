@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Skill</a>|<a href='/digital-beehive/num6/num_1899/'>1345
   [Experience]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1353/'>experience</a>"
+index: "<a href='/digital-beehive/index2/index_1329/'>experience</a>"
 item: "#item-5d82b5199"
 unparsed:
 line: 'Entry: Experience|Topic: Experience|Xref: Skill|Xref: 1345 [Experience]|Index:

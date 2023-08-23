@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index1/index_0699/'>cloke</a>"
+index: "<a href='/digital-beehive/index1/index_0685/'>cloke</a>"
 item: "#item-b30905b40"
 unparsed:
 line: 'Entry: Cloke|Topic: Cloke|Index: cloke|#item-b30905b40'
@@ -22,7 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/847,3029,600,180/250,/0/default.jpg
 label: Cloke
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
-issue: It is unclear whether Pastroius meant to include "coat" as a cross reference.
+issue: It is unclear whether Pastorius meant to include "coat" as a cross reference.
   The solitary "add" at the end of this entry may mark a cross-reference that Pastorius
   mistakenly did not complete.
 also_in_entry:

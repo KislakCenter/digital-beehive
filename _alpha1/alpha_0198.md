@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0835/'>Satyre</a>|<a href='/digital-beehive/alpha5/alpha_1077/'>Zoilus</a>|<a
   href='/digital-beehive/num7/num_2466/'>1627 [Criticism]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0909/'>criticism</a>"
+index: "<a href='/digital-beehive/index1/index_0892/'>criticism</a>"
 item: "#item-91f03c2da"
 unparsed:
 line: 'Entry: Criticism|Topic: Criticism|Xref: Satyre|Xref: Zoilus|Xref: 1627 [Criticism]|Index:

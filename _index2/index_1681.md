@@ -1,9 +1,10 @@
 ---
 pid: index_1681
 volume: Volume 3
-image_number: '22'
-head: graces before meat
-entry: "<a href='/digital-beehive/num11/num_3562/'>4866 [Graces before and after meat]</a>"
+image_number: '23'
+head: grief
+entry: "<a href='/digital-beehive/num3/num_0906/'>658 [Grief]</a>|<a href='/digital-beehive/num10/num_3324/'>2352
+  [Grief]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-dab2a4df7"
+item: "#item-ee1d87f04"
 unparsed:
-line: 'Head: graces before meat|Entry: 4866 [Graces before and after meat]|#item-dab2a4df7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1809,1443,696,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052711845
-sort_value: '302231443'
+line: 'Head: grief|Entry: 658 [Grief]|Entry: 2352 [Grief]|#item-ee1d87f04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/139,1249,488,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230963057
+sort_value: '302311249'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1809,1443,696,146/150,/0/default.jpg
-label: graces before meat
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/139,1249,488,126/150,/0/default.jpg
+label: grief
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '500'
+order: '522'
 layout: index_item
 collection: index2
 ---

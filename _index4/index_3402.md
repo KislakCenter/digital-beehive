@@ -1,10 +1,9 @@
 ---
 pid: index_3402
 volume: Volume 3
-image_number: '39'
-head: revelation
-entry: "<a href='/digital-beehive/alpha4/alpha_0805/'>a</a>|<a href='/digital-beehive/num6/num_1866/'>1328
-  [Revelation]</a>"
+image_number: '40'
+head: to rost
+entry: "<a href='/digital-beehive/num8/num_2782/'>1899 [To Rost]</a>"
 topic:
 first_letter: R
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-85c9b5aef"
+item: "#item-4714337d6"
 unparsed:
-line: 'Head: revelation|Entry: a|Entry: 1328 [Revelation]|#item-85c9b5aef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1496,2866,748,213/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230263097
-sort_value: '303932866'
+line: 'Head: to rost|Entry: 1899 [To Rost]|#item-4714337d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1153,1968,430,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233692513
+sort_value: '304021968'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1496,2866,748,213/150,/0/default.jpg
-label: revelation
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1153,1968,430,93/150,/0/default.jpg
+label: to rost
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0650'
+order: '0694'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_2059
 volume: Volume 3
 image_number: '26'
-head: insects
-entry: 792 [PAGE_MISSING]
+head: invisible
+entry: "<a href='/digital-beehive/num1/num_0188/'>179 [Invisibility]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-10d020022"
+item: "#item-30ea38d11"
 unparsed:
-line: 'Head: insects|Entry: 792 [PAGE_MISSING]|#item-10d020022'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,896,384,135/full/0/default.jpg
+line: 'Head: invisible|Entry: 179 [Invisibility]|#item-30ea38d11'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,1358,446,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747407769
-sort_value: '302620896'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751400388
+sort_value: '302631358'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,896,384,135/150,/0/default.jpg
-label: insects
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,1358,446,153/150,/0/default.jpg
+label: invisible
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '141'
+order: '174'
 layout: index_item
 collection: index3
 ---

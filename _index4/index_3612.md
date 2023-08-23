@@ -2,29 +2,29 @@
 pid: index_3612
 volume: Volume 3
 image_number: '42'
-head: Self defence
-entry:
+head: to shell
+entry: "<a href='/digital-beehive/num3/num_0908/'>659 [to shale, decorticare, potior,
+  to shell]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0988/'>defence</a>"
+see:
 index:
-item: "#item-285a031cd"
+item: "#item-22691975e"
 unparsed:
-line: 'Head: Self defence|See: defence|#item-285a031cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/423,1042,714,111/full/0/default.jpg
+line: 'Head: to shell|Entry: 659 [to shale, decorticare, potior, to shell]|#item-22691975e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1829,373,460,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244219150
-sort_value: '304211042'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575513900
+sort_value: '304230373'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/423,1042,714,111/150,/0/default.jpg
-label: Self defence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1829,373,460,127/150,/0/default.jpg
+label: to shell
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0860'
+order: '0904'
 layout: index_item
 collection: index4
 ---

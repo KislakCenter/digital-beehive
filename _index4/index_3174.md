@@ -1,9 +1,9 @@
 ---
 pid: index_3174
 volume: Volume 3
-image_number: '37'
-head: procrastination
-entry: 851 [PAGE_MISSING]|<a href='/digital-beehive/num11/num_3563/'>4867 [Procrastination]</a>
+image_number: '38'
+head: pulse
+entry: "<a href='/digital-beehive/num6/num_2049/'>1417 [Pulse]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6ecead3bf"
+item: "#item-ee68407d8"
 unparsed:
-line: 'Head: procrastination|Entry: 851 [PAGE_MISSING]|Entry: 4867 [Procrastination]|#item-6ecead3bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/776,1509,707,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868020662
-sort_value: '303721509'
+line: 'Head: pulse|Entry: 1417 [Pulse]|#item-ee68407d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/431,652,404,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558451973099
+sort_value: '303810652'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/776,1509,707,159/150,/0/default.jpg
-label: procrastination
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/431,652,404,112/150,/0/default.jpg
+label: pulse
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0422'
+order: '0466'
 layout: index_item
 collection: index4
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_2205
 volume: Volume 3
-image_number: '27'
-head: last things
-entry: "<a href='/digital-beehive/alpha3/alpha_0515/'>a</a>"
+image_number: '28'
+head: leasure
+entry: "<a href='/digital-beehive/alpha3/alpha_0529/'>a</a>|4639 [PAGE_MISSING]"
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6d0cf51be"
+item: "#item-8d2c95fd9"
 unparsed:
-line: 'Head: last things|Entry: a|#item-6d0cf51be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1552,1711,395,155/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835937597
-sort_value: '302731711'
+line: 'Head: leasure|Entry: a|Entry: 4639 [PAGE_MISSING]|#item-8d2c95fd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/381,2368,607,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842414623
+sort_value: '302812368'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1552,1711,395,155/150,/0/default.jpg
-label: last things
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/381,2368,607,122/150,/0/default.jpg
+label: leasure
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '287'
+order: '320'
 layout: index_item
 collection: index3
 ---

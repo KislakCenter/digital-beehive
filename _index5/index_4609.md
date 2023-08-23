@@ -1,31 +1,29 @@
 ---
 pid: index_4609
 volume: Volume 3
-image_number: '53'
-head: old & new words
-entry: "<a href='/digital-beehive/num11/num_3505/'>4810 [Old & obsolete words : New
-  fangled words]</a>"
+image_number: '54'
+head: calamity
+entry:
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2497/'>misery</a>"
 index:
-item: "#item-6898f208f"
+item: "#item-47531e746"
 unparsed:
-line: 'Head: old & new words|Entry: 4810 [Old & obsolete words : New fangled words]|#item-6898f208f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/874,2030,555,92/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796827396
-sort_value: '305322030'
+line: 'Type: Index|Insertion: [:17.]|Head: calamity|See: misery|#item-47531e746'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/454,2645,552,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560884948643
+sort_value: '305412645'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/874,2030,555,92/150,/0/default.jpg
-label: old & new words
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/454,2645,552,109/150,/0/default.jpg
+label: calamity
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '571'
+order: '632'
 layout: index_item
 collection: index5
 ---

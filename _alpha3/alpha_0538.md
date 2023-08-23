@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0537/'>Liberty of Conscience</a>|<a
   href='/digital-beehive/num3/num_0710/'>557 [Liberty of Conscience]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2276/'>liberty of Conscience</a>"
+index: "<a href='/digital-beehive/index3/index_2239/'>liberty of Conscience</a>"
 item: "#item-cd345b6c4"
 unparsed:
 line: 'Entry: Liberty of Conscience, continued|Topic: Liberty of Conscience, continued|Xref:

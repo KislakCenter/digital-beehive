@@ -2,28 +2,27 @@
 pid: index_0705
 volume: Volume 3
 image_number: '13'
-head: clubs
-entry: 4556 [PAGE_MISSING]
+head: collation
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0776/'>confront</a>"
 index:
-item: "#item-3018c5a6f"
+item: "#item-e1e6eb693"
 unparsed:
-line: 'Head: clubs|Entry: 4556 [PAGE_MISSING]|#item-3018c5a6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/858,2088,362,90/full/0/default.jpg
+line: 'Head: collation|See: confront|#item-e1e6eb693'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/849,3564,687,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536607741132
-sort_value: '301322088'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536609187472
+sort_value: '301323564'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/858,2088,362,90/150,/0/default.jpg
-label: clubs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/849,3564,687,125/150,/0/default.jpg
+label: collation
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0704'
 layout: index_item
 collection: index1

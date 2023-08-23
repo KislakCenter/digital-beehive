@@ -1,30 +1,29 @@
 ---
 pid: index_4636
 volume: Volume 3
-image_number: '53'
-head: Y
+image_number: '54'
+head: Confederacy
 entry:
 topic:
-first_letter: Y
-page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
+first_letter: insertion
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0096/'>alliance</a>"
 index:
-item: "#item-3c0be044c"
+item: "#item-6a91f2777"
 unparsed:
-line: 'Head: Y|Page: p.41 [Image 1.101]|#item-3c0be044c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1589,1422,283,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798760598
-sort_value: '305331422'
+line: 'Type: Index|Insertion: [:40.]|Head: Confederacy|See: alliance|#item-6a91f2777'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1047,2434,830,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955602023
+sort_value: '305422434'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1589,1422,283,151/150,/0/default.jpg
-label: Y
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1047,2434,830,160/150,/0/default.jpg
+label: Confederacy
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '598'
+order: '659'
 layout: index_item
 collection: index5
 ---

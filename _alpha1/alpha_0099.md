@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0408/'>heart</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0445/'>breast</a>"
+index: "<a href='/digital-beehive/index1/index_0436/'>breast</a>"
 item: "#item-c36f426c7"
 unparsed:
 line: 'Entry: Breast|Topic: Breast|Xref: heart|Index: breast|#item-c36f426c7'

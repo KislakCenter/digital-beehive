@@ -1,30 +1,29 @@
 ---
 pid: index_2502
 volume: Volume 3
-image_number: '30'
-head: metempsychosis
-entry: "<a href='/digital-beehive/num1/num_0055/'>55 [Metempsychosis]</a>"
+image_number: '31'
+head: missionaries
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0164/'>apostles</a>"
 index:
-item: "#item-aee5ef7fd"
+item: "#item-e9d7c5c87"
 unparsed:
-line: 'Head: metempsychosis|Entry: 55 [Metempsychosis]|#item-aee5ef7fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1841,664,575,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273536464
-sort_value: '303030664'
+line: 'Head: missionaries|See: apostles|#item-e9d7c5c87'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/178,1194,688,159/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351733266
+sort_value: '303111194'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1841,664,575,131/150,/0/default.jpg
-label: metempsychosis
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/178,1194,688,159/150,/0/default.jpg
+label: missionaries
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '584'
+order: '617'
 layout: index_item
 collection: index3
 ---

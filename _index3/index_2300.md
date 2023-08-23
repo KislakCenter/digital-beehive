@@ -1,9 +1,9 @@
 ---
 pid: index_2300
 volume: Volume 3
-image_number: '28'
-head: linnen
-entry: 806 [PAGE_MISSING]
+image_number: '29'
+head: lotteries
+entry: "<a href='/digital-beehive/num1/num_0091/'>89 [Lotteries (Glückshafen)]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-886979d15"
+item: "#item-27746065d"
 unparsed:
-line: 'Head: linnen|Entry: 806 [PAGE_MISSING]|#item-886979d15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1834,1255,434,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848753320
-sort_value: '302831255'
+line: 'Head: lotteries|Entry: 89 [Lotteries (Glückshafen)]|#item-27746065d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178684866
+sort_value: '302911900'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1834,1255,434,107/150,/0/default.jpg
-label: linnen
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/150,/0/default.jpg
+label: lotteries
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '382'
+order: '415'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,8 @@
 pid: index_1521
 volume: Volume 3
 image_number: '21'
-head: fortnight
-entry: "<a href='/digital-beehive/num2/num_0574/'>460 [Week]</a>"
+head: friendship parted by poverty
+entry: "<a href='/digital-beehive/num1/num_0016/'>16 [Poverty parts good fellowship]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7e1547c87"
+item: "#item-11bed1097"
 unparsed:
-line: 'Head: fortnight|Entry: 460 [Week]|#item-7e1547c87'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/895,404,615,125/full/0/default.jpg
+line: 'Head: friendship parted by poverty|Entry: 16 [Poverty parts good fellowship]|#item-11bed1097'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/858,2676,727,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762854283
-sort_value: '302120404'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784200885
+sort_value: '302122676'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/895,404,615,125/150,/0/default.jpg
-label: fortnight
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/858,2676,727,153/150,/0/default.jpg
+label: friendship parted by poverty
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '340'
+order: '362'
 layout: index_item
 collection: index2
 ---

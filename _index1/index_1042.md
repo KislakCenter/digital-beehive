@@ -2,8 +2,8 @@
 pid: index_1042
 volume: Volume 3
 image_number: '16'
-head: dice
-entry: "<a href='/digital-beehive/alpha1/alpha_0235/'>a</a>"
+head: disbelieve
+entry: "<a href='/digital-beehive/num3/num_1026/'>705 [believe]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-8600a1cab"
+item: "#item-1a0683297"
 unparsed:
-line: 'Head: dice|Entry: a|#item-8600a1cab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1775,856,343,81/full/0/default.jpg
+line: 'Head: disbelieve|Entry: 705 [believe]|#item-1a0683297'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1790,2658,480,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923485127
-sort_value: '301630856'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541784141979
+sort_value: '301632658'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1775,856,343,81/150,/0/default.jpg
-label: dice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1790,2658,480,94/150,/0/default.jpg
+label: disbelieve
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1041'
 layout: index_item
 collection: index1

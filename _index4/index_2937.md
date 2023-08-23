@@ -2,29 +2,28 @@
 pid: index_2937
 volume: Volume 3
 image_number: '35'
-head: peccadillo
-entry: "<a href='/digital-beehive/num3/num_0690/'>546 [Punctilio]</a>"
+head: books of Ph. Society
+entry:
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.202]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-efa671205"
+item: "#item-2de79c801"
 unparsed:
-line: 'Head: peccadillo|Entry: 546 [Punctilio]|#item-efa671205'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/113,378,526,155/full/0/default.jpg
+line: 'Head: books of Ph. Society|Page: p.380 [Image 2.202]|#item-2de79c801'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/839,2334,848,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971552370
-sort_value: '303510378'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974625764
+sort_value: '303522334'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/113,378,526,155/150,/0/default.jpg
-label: peccadillo
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/839,2334,848,159/150,/0/default.jpg
+label: books of Ph. Society
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0185'
+order: '0229'
 layout: index_item
 collection: index4
 ---

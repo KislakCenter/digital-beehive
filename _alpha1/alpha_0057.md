@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0255/'>237 [Reckoning]</a>|4660 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0286/'>bankrupt</a>"
+index: "<a href='/digital-beehive/index1/index_0279/'>bankrupt</a>"
 item: "#item-d97f25c3b"
 unparsed:
 line: 'Entry: Bancrupt|Topic: Bancrupt|Xref: 237 [Reckoning]|Xref: 4660 [PAGE_MISSING]|Index:

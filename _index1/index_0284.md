@@ -2,28 +2,27 @@
 pid: index_0284
 volume: Volume 3
 image_number: '9'
-head: bank
-entry:
+head: barbarism
+entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>"
 topic:
 first_letter: B
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4226/'>treasure</a>"
+see:
 index:
-item: "#item-121ec3414"
+item: "#item-6cce0abf6"
 unparsed:
-line: 'Head: bank|See: treasure|#item-121ec3414'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1562,591,171/full/0/default.jpg
+line: 'Head: barbarism|Entry: 537 [Terms in didascalia]|#item-6cce0abf6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/908,2444,477,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505404121976
-sort_value: '300921562'
+annotation_uri: http://dev.llgc.org.uk/annotation/1506104324001
+sort_value: '300922444'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1562,591,171/150,/0/default.jpg
-label: bank
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/908,2444,477,104/150,/0/default.jpg
+label: barbarism
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0283'
 layout: index_item
 collection: index1

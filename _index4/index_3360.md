@@ -1,30 +1,29 @@
 ---
 pid: index_3360
 volume: Volume 3
-image_number: '39'
-head: remora
-entry: "<a href='/digital-beehive/num7/num_2283/'>1534 [Remora]</a>"
+image_number: '40'
+head: revolution
+entry:
 topic:
 first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2461/'>metempsychosis</a>"
 index:
-item: "#item-d94179e6a"
+item: "#item-67585363e"
 unparsed:
-line: 'Head: remora|Entry: 1534 [Remora]|#item-d94179e6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/767,1050,562,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469002263
-sort_value: '303921050'
+line: 'Head: revolution|See: metempsychosis|#item-67585363e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/454,776,721,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231488418
+sort_value: '304010776'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/767,1050,562,149/150,/0/default.jpg
-label: remora
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/454,776,721,164/150,/0/default.jpg
+label: revolution
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0608'
+order: '0652'
 layout: index_item
 collection: index4
 ---

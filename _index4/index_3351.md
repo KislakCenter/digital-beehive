@@ -2,29 +2,28 @@
 pid: index_3351
 volume: Volume 3
 image_number: '39'
-head: reliques of God's Image
-entry:
+head: book of revelations
+entry: "<a href='/digital-beehive/alpha4/alpha_0806/'>a</a>"
 topic:
 first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1387/'>Fall</a>"
+see:
 index:
-item: "#item-10a05341a"
+item: "#item-f1885c574"
 unparsed:
-line: 'Head: reliques of God''s Image|See: Fall|#item-10a05341a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/106,3433,782,168/full/0/default.jpg
+line: 'Head: book of revelations|Entry: a|#item-f1885c574'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1468,2998,550,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468763646
-sort_value: '303913433'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230281642
+sort_value: '303932998'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/106,3433,782,168/150,/0/default.jpg
-label: reliques of God's Image
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1468,2998,550,153/150,/0/default.jpg
+label: book of revelations
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0599'
+order: '0643'
 layout: index_item
 collection: index4
 ---

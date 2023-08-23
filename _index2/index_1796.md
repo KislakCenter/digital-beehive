@@ -1,9 +1,9 @@
 ---
 pid: index_1796
 volume: Volume 3
-image_number: '23'
-head: helpless
-entry: "<a href='/digital-beehive/num3/num_0833/'>620 [Despair]</a>"
+image_number: '24'
+head: to hide
+entry: 811 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-cb9f51c9f"
+item: "#item-716ca448c"
 unparsed:
-line: 'Head: helpless|Entry: 620 [Despair]|#item-cb9f51c9f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1535,2353,439,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571242963
-sort_value: '302332353'
+line: 'Head: to hide|Entry: 811 [PAGE_MISSING]|#item-716ca448c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/405,1685,444,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576330208
+sort_value: '302411685'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1535,2353,439,124/150,/0/default.jpg
-label: helpless
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/405,1685,444,104/150,/0/default.jpg
+label: to hide
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '615'
+order: '637'
 layout: index_item
 collection: index2
 ---

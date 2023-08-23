@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/digital-beehive/alpha1/alpha_0065/'>Baudry</a>|[WORD_ILLEGIBLE]|<a
   href='/digital-beehive/num3/num_0729/'>571 [Fornication or Whoredom]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4541/'>whoredom</a>"
+index: "<a href='/digital-beehive/index5/index_4472/'>whoredom</a>"
 item: "#item-74d7d6014"
 unparsed:
 line: 'Entry: Whoredom|Topic: Whoredom|Xref: Adultery|Xref: Baudry|Xref: [WORD_ILLEGIBLE]|Xref:
@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/799,3044,600,180/250,/0/default.jpg
 label: Whoredom
 location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
-issue: The point of reference for "Stews' is unclear.
+issue: Damage to the manuscript has made the topic of one of this entry's cross references
+  illegible.
 also_in_entry:
 order: '096'
 layout: alpha_item

@@ -2,8 +2,8 @@
 pid: index_2457
 volume: Volume 3
 image_number: '30'
-head: meaning
-entry: "<a href='/digital-beehive/num3/num_0821/'>614 [Meaning]</a>"
+head: metalla potabilia
+entry: "<a href='/digital-beehive/num9/num_3020/'>2084 [Metalla potabilia]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7e73ebde4"
+item: "#item-be801e751"
 unparsed:
-line: 'Head: meaning|Entry: 614 [Meaning]|#item-7e73ebde4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,2881,418,130/full/0/default.jpg
+line: 'Head: metalla potabilia|Entry: 2084 [Metalla potabilia]|#item-be801e751'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1859,264,644,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265683474
-sort_value: '303012881'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273201430
+sort_value: '303030264'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,2881,418,130/150,/0/default.jpg
-label: meaning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1859,264,644,114/150,/0/default.jpg
+label: metalla potabilia
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '539'
+order: '572'
 layout: index_item
 collection: index3
 ---

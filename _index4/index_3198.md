@@ -1,31 +1,29 @@
 ---
 pid: index_3198
 volume: Volume 3
-image_number: '37'
-head: prophets
-entry: "<a href='/digital-beehive/alpha4/alpha_0755/'>a</a>|<a href='/digital-beehive/num4/num_1333/'>1000
-  [Prophets]</a>"
+image_number: '38'
+head: to quake
+entry: "<a href='/digital-beehive/num3/num_0852/'>629 [To Quake]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-18936ccab"
+item: "#item-b14a0629c"
 unparsed:
-line: 'Head: prophets|Entry: a|Entry: 1000 [Prophets]|#item-18936ccab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1498,903,580,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869156410
-sort_value: '303730903'
+line: 'Head: to quake|Entry: 629 [To Quake]|#item-b14a0629c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/375,3072,571,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454708780
+sort_value: '303813072'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1498,903,580,175/150,/0/default.jpg
-label: prophets
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/375,3072,571,156/150,/0/default.jpg
+label: to quake
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0446'
+order: '0490'
 layout: index_item
 collection: index4
 ---

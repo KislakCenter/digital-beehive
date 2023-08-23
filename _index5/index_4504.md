@@ -1,30 +1,33 @@
 ---
 pid: index_4504
 volume: Volume 3
-image_number: '52'
-head: weather cock
-entry:
+image_number: '53'
+head: witchcraft
+entry: "<a href='/digital-beehive/alpha5/alpha_1047/'>a</a>|<a href='/digital-beehive/num6/num_1834/'>1312
+  [Witchcraft]</a>|<a href='/digital-beehive/num7/num_2287/'>1536 [Witchcraft]</a>|<a
+  href='/digital-beehive/num7/num_2321/'>1556 [Bewitch]</a>|<a href='/digital-beehive/num9/num_3190/'>2243
+  [Sorcery or Witchcraft]</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e444b01d4"
+item: "#item-e069f9d76"
 unparsed:
-line: 'Head: weather cock|Page: p.29 [Image 1.89]|#item-e444b01d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/485,3071,471,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961178682
-sort_value: '305213071'
+line: 'Head: witchcraft|Entry: a|Entry: 1312 [Witchcraft]|Entry: 1536 [Witchcraft]|Entry:
+  1556 [Bewitch]|Entry: 2243 [Sorcery or Witchcraft]|#item-e069f9d76'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/181,1666,726,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792265321
+sort_value: '305311666'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/485,3071,471,141/150,/0/default.jpg
-label: weather cock
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/181,1666,726,150/150,/0/default.jpg
+label: witchcraft
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '466'
+order: '527'
 layout: index_item
 collection: index5
 ---

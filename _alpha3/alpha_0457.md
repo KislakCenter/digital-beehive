@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0805/'>revelation</a>|<a href='/digital-beehive/num5/num_1375/'>1027
   [Illumination]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1954/'>illumination</a>"
+index: "<a href='/digital-beehive/index3/index_1921/'>illumination</a>"
 item: "#item-7c6ed06fa"
 unparsed:
 line: 'Entry: Illumination|Topic: Illumination|XRef: revelation|XRef: 1027 [Illumination]|Index:

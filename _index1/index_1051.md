@@ -1,9 +1,9 @@
 ---
 pid: index_1051
 volume: Volume 3
-image_number: '16'
-head: dilem[m]a
-entry: "<a href='/digital-beehive/num1/num_0250/'>232 [Dilem[m]a]</a>"
+image_number: '17'
+head: discourse
+entry: "<a href='/digital-beehive/num2/num_0328/'>291 [Discourse]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ac0419e71"
+item: "#item-01aac9230"
 unparsed:
-line: 'Head: dilem[m]a|Entry: 232 [Dilem[m]a]|#item-ac0419e71'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1800,1783,464,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783820679
-sort_value: '301631783'
+line: 'Head: discourse|Entry: 291 [Discourse]|#item-01aac9230'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,519,519,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803659092
+sort_value: '301710519'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1800,1783,464,96/150,/0/default.jpg
-label: dilem[m]a
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,519,519,116/150,/0/default.jpg
+label: discourse
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1050'
 layout: index_item
 collection: index1

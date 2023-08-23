@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0497/'>Judgment</a>|<a href='/digital-beehive/alpha2/alpha_0413/'>Hell</a>|<a
   href='/digital-beehive/num8/num_2751/'>1817 [Damnation]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0778/'>condemnation</a>"
+index: "<a href='/digital-beehive/index1/index_0764/'>condemnation</a>"
 item: "#item-32151da3d"
 unparsed:
 line: 'Entry: Condemnation|Topic: Condemnation|Xref: Judgment|Xref: Hell|Xref: 1817

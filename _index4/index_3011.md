@@ -1,31 +1,29 @@
 ---
 pid: index_3011
 volume: Volume 3
-image_number: '35'
-head: pimples
-entry: "<a href='/digital-beehive/num5/num_1614/'>1183 [Pimples, redness & inflam[m]ation
-  in the face]</a>"
+image_number: '36'
+head: poetical toys
+entry:
 topic:
 first_letter: P
-page:
+page: "<a href='/digital-beehive/toc/toc1_247/'>p.79 [Image 1.257]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-504a0a72a"
+item: "#item-87cc8ae4f"
 unparsed:
-line: 'Head: pimples|Entry: 1183 [Pimples, redness & inflam[m]ation in the face]|#item-504a0a72a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1517,1527,487,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976434408
-sort_value: '303531527'
+line: 'Head: poetical toys|Page: p.79 [Image 1.257]|#item-87cc8ae4f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/444,2662,577,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548437908063
+sort_value: '303612662'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1517,1527,487,119/150,/0/default.jpg
-label: pimples
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '0259'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/444,2662,577,141/150,/0/default.jpg
+label: poetical toys
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+issue: The page reference refers to Pastorius's older system of pagination.
+order: '0303'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0650/'>520 [Judas]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2129/'>Judas</a>"
+index: "<a href='/digital-beehive/index3/index_2094/'>Judas</a>"
 item: "#item-ad3e5c21a"
 unparsed:
 line: 'Entry: Judas|Topic: Judas|Xref: 520 [Judas]|Index: Judas|#item-ad3e5c21a'

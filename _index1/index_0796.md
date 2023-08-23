@@ -2,9 +2,9 @@
 pid: index_0796
 volume: Volume 3
 image_number: '14'
-head: conjuring
-entry: "<a href='/digital-beehive/num7/num_2294/'>1541 [Conjuring]</a>|<a href='/digital-beehive/num11/num_3560/'>4864
-  [Conjuring]</a>"
+head: conspiracy
+entry: "<a href='/digital-beehive/num2/num_0487/'>398 [Fifth-monarchy men]</a>|<a
+  href='/digital-beehive/num7/num_2222/'>1505 [Conspiracy]</a>"
 topic:
 first_letter: C
 page:
@@ -12,20 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-802193cdc"
+item: "#item-f17c19975"
 unparsed:
-line: 'Head: conjuring|Entry: 1541 [Conjuring]|Entry: 4864 [Conjuring]|#item-802193cdc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,744,698,131/full/0/default.jpg
+line: 'Head: conspiracy|Entry: 398 [Fifth-monarchy men]|Entry: 1505 [Conspiracy]|#item-f17c19975'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1147,2334,665,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541233190
-sort_value: '301420744'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541842657
+sort_value: '301422334'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,744,698,131/150,/0/default.jpg
-label: conjuring
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1147,2334,665,125/150,/0/default.jpg
+label: conspiracy
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: Pastorius appears to have written 1864 under this entry. However, he likely
-  meant to write 4864 [Conjuring].
-insertion_xref:
+issue:
 order: '0795'
 layout: index_item
 collection: index1

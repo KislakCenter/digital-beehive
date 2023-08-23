@@ -1,32 +1,29 @@
 ---
 pid: index_4557
 volume: Volume 3
-image_number: '52'
-head: wind
-entry: "<a href='/digital-beehive/alpha5/alpha_1042/'>a</a>|<a href='/digital-beehive/num6/num_1764/'>1271
-  [Wind]</a>|<a href='/digital-beehive/num9/num_3102/'>2160 [Wind]</a>"
+image_number: '53'
+head: wrath
+entry: "<a href='/digital-beehive/alpha5/alpha_1069/'>a</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-e86a4a246"
+item: "#item-677ec7e4f"
 unparsed:
-line: 'Head: wind|Page: p.29 [Image 1.89]|Entry: a|Entry: 1271 [Wind]|Entry: 2160
-  [Wind]|#item-e86a4a246'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1786,3263,728,171/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972707160
-sort_value: '305233263'
+line: 'Head: wrath|Entry: a|#item-677ec7e4f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1597,627,356,91/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798440613
+sort_value: '305330627'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1786,3263,728,171/150,/0/default.jpg
-label: wind
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1597,627,356,91/150,/0/default.jpg
+label: wrath
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '519'
+order: '580'
 layout: index_item
 collection: index5
 ---

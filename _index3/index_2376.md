@@ -2,9 +2,8 @@
 pid: index_2376
 volume: Volume 3
 image_number: '29'
-head: madness
-entry: 804 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_2130/'>1453 [Mad]</a>|4519
-  [PAGE_MISSING]
+head: man[n]a
+entry: "<a href='/digital-beehive/num5/num_1483/'>1095 [Manna]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-47ae216fe"
+item: "#item-ea3b7da6b"
 unparsed:
-line: 'Head: madness|Entry: 804 [PAGE_MISSING]|Entry: 1453 [Mad]|Entry: 4519 [PAGE_MISSING]|#item-47ae216fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/860,2000,697,146/full/0/default.jpg
+line: 'Head: man[n]a|Entry: 1095 [Manna]|#item-ea3b7da6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1535,2705,345,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186411666
-sort_value: '302922000'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196335159
+sort_value: '302932705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/860,2000,697,146/150,/0/default.jpg
-label: madness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1535,2705,345,117/150,/0/default.jpg
+label: man[n]a
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '458'
+order: '491'
 layout: index_item
 collection: index3
 ---

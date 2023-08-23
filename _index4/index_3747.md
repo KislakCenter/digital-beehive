@@ -1,9 +1,9 @@
 ---
 pid: index_3747
 volume: Volume 3
-image_number: '43'
-head: sleepwalkers
-entry: "<a href='/digital-beehive/num7/num_2430/'>1610 [Sleeping-Walk(:ing:)ers]</a>"
+image_number: '44'
+head: a sore
+entry: "<a href='/digital-beehive/num4/num_1211/'>916 [Sore]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7d02a08ad"
+item: "#item-321cf3772"
 unparsed:
-line: 'Head: sleepwalkers|Entry: 1610 [Sleeping-Walk(:ing:)ers]|#item-7d02a08ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/865,2293,646,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584534606
-sort_value: '304322293'
+line: 'Head: a sore|Entry: 916 [Sore]|#item-321cf3772'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/567,1750,352,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529704100394
+sort_value: '304411750'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/865,2293,646,139/150,/0/default.jpg
-label: sleepwalkers
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/567,1750,352,128/150,/0/default.jpg
+label: a sore
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0995'
+order: '1039'
 layout: index_item
 collection: index4
 ---

@@ -1,31 +1,29 @@
 ---
 pid: index_4445
 volume: Volume 3
-image_number: '51'
-head: usurpation
-entry: "<a href='/digital-beehive/num3/num_0849/'>628 [Invasion]</a>|<a href='/digital-beehive/num8/num_2898/'>1970
-  [Usurpation]</a>"
+image_number: '52'
+head: Welch
+entry: "<a href='/digital-beehive/num2/num_0561/'>451 [Welsh or Old Britan]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-a847986ff"
+item: "#item-6cbb7e27b"
 unparsed:
-line: 'Head: usurpation|Entry: 628 [Invasion]|Entry: 1970 [Usurpation]|#item-a847986ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/951,1608,714,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646844597
-sort_value: '305121608'
+line: 'Head: Welch|Entry: 451 [Welsh or Old Britan]|#item-6cbb7e27b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,951,373,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968632145
+sort_value: '305220951'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/951,1608,714,137/150,/0/default.jpg
-label: usurpation
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,951,373,118/150,/0/default.jpg
+label: Welch
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '407'
+order: '468'
 layout: index_item
 collection: index5
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_3679
 volume: Volume 3
-image_number: '42'
-head: shirt
-entry: 808 [PAGE_MISSING]
+image_number: '43'
+head: skeleton
+entry: "<a href='/digital-beehive/num6/num_1971/'>1381 [Skeleton]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-590a0c493"
+item: "#item-5d6dead9a"
 unparsed:
-line: 'Head: shirt|Entry: 808 [PAGE_MISSING]|#item-590a0c493'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,1578,436,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576094288
-sort_value: '304231578'
+line: 'Head: skeleton|Page: p.44 [Image 1.104]|Entry: 1381 [Skeleton]|#item-5d6dead9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,1185,635,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583248785
+sort_value: '304321185'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,1578,436,129/150,/0/default.jpg
-label: shirt
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,1185,635,144/150,/0/default.jpg
+label: skeleton
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0927'
+order: '0971'
 layout: index_item
 collection: index4
 ---

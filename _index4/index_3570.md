@@ -1,30 +1,30 @@
 ---
 pid: index_3570
 volume: Volume 3
-image_number: '41'
-head: Sea books
-entry:
+image_number: '42'
+head: Self profit
+entry: "<a href='/digital-beehive/alpha4/alpha_0859/'>a</a>|<a href='/digital-beehive/num2/num_0566/'>455
+  [Self-profit]</a>|<a href='/digital-beehive/num7/num_2460/'>1623 [Self Profit]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a8d284cf7"
+item: "#item-0eb164c43"
 unparsed:
-line: 'Head: Sea books|Page: p.379 [Image 2.201]|#item-a8d284cf7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1584,342,466,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241950699
-sort_value: '304130342'
+line: 'Head: Self profit|Entry: a|Entry: 455 [Self-profit]|Entry: 1623 [Self Profit]|#item-0eb164c43'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/387,2236,717,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244857373
+sort_value: '304212236'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1584,342,466,117/150,/0/default.jpg
-label: Sea books
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/387,2236,717,139/150,/0/default.jpg
+label: Self profit
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0818'
+order: '0862'
 layout: index_item
 collection: index4
 ---

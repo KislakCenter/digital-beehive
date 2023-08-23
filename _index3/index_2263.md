@@ -2,9 +2,8 @@
 pid: index_2263
 volume: Volume 3
 image_number: '28'
-head: letter
-entry: "<a href='/digital-beehive/alpha3/alpha_0533/'>a</a>|<a href='/digital-beehive/num2/num_0602/'>481
-  [Letter]</a>"
+head: linsey woolsey
+entry: "<a href='/digital-beehive/num7/num_2437/'>1613 [Linsey Woolsey]</a>"
 topic:
 first_letter: L
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7fe1ea5c9"
+item: "#item-27b41dccd"
 unparsed:
-line: 'Head: letter|Entry: a|Entry: 481 [Letter]|#item-7fe1ea5c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1140,789,466,85/full/0/default.jpg
+line: 'Head: linsey woolsey|Entry: 1613 [Linsey Woolsey]|#item-27b41dccd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1834,1378,555,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844569352
-sort_value: '302820789'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848810845
+sort_value: '302831378'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1140,789,466,85/150,/0/default.jpg
-label: letter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1834,1378,555,169/150,/0/default.jpg
+label: linsey woolsey
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '345'
+order: '378'
 layout: index_item
 collection: index3
 ---

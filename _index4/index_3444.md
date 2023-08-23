@@ -2,29 +2,28 @@
 pid: index_3444
 volume: Volume 3
 image_number: '40'
-head: Roman Empire
-entry: "<a href='/digital-beehive/num10/num_3212/'>2260 [Roman Empire]</a>"
+head: for my sake
+entry: "<a href='/digital-beehive/num8/num_2761/'>1825 [Sake]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e45f2244e"
+item: "#item-22a34e6bb"
 unparsed:
-line: 'Head: Roman Empire|Entry: 2260 [Roman Empire]|#item-e45f2244e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1144,905,677,158/full/0/default.jpg
+line: 'Head: for my sake|Entry: 1825 [Sake]|#item-22a34e6bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1791,3053,652,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233301423
-sort_value: '304020905'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235289515
+sort_value: '304033053'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1144,905,677,158/150,/0/default.jpg
-label: Roman Empire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1791,3053,652,93/150,/0/default.jpg
+label: for my sake
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0692'
+order: '0736'
 layout: index_item
 collection: index4
 ---

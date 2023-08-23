@@ -2,8 +2,8 @@
 pid: index_3049
 volume: Volume 3
 image_number: '36'
-head: plumage
-entry: "<a href='/digital-beehive/num2/num_0283/'>257 [Feathers]</a>"
+head: to pour out
+entry: 782 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-312a1eed2"
+item: "#item-54c6d6142"
 unparsed:
-line: 'Head: plumage|Entry: 257 [Feathers]|#item-312a1eed2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/453,1621,517,112/full/0/default.jpg
+line: 'Head: to pour out|Entry: 782 [PAGE_MISSING]|#item-54c6d6142'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1155,3431,584,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208035177
-sort_value: '303611621'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439274683
+sort_value: '303623431'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/453,1621,517,112/150,/0/default.jpg
-label: plumage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1155,3431,584,163/150,/0/default.jpg
+label: to pour out
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0297'
+order: '0341'
 layout: index_item
 collection: index4
 ---

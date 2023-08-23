@@ -2,29 +2,28 @@
 pid: index_1554
 volume: Volume 3
 image_number: '21'
-head: frowardness
-entry: 735 [PAGE_MISSING]
+head: garland
+entry:
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0898/'>Crown</a>"
 index:
-item: "#item-3f0b063d9"
+item: "#item-774144189"
 unparsed:
-line: 'Head: frowardness|Entry: 735 [PAGE_MISSING]|#item-3f0b063d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/821,3348,573,169/full/0/default.jpg
+line: 'Head: garland|See: Crown|#item-774144189'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1539,2620,564,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784612952
-sort_value: '302123348'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787186826
+sort_value: '302132620'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/821,3348,573,169/150,/0/default.jpg
-label: frowardness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1539,2620,564,116/150,/0/default.jpg
+label: garland
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '373'
+order: '395'
 layout: index_item
 collection: index2
 ---

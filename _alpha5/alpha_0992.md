@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0980/'>Transitory</a>|<a href='/digital-beehive/num7/num_2541/'>1659
   [Vanitatis Triumphus]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4296/'>vanity</a>"
+index: "<a href='/digital-beehive/index5/index_4229/'>vanity</a>"
 item: "#item-f07610be2"
 unparsed:
 line: 'Entry: Vanity|Topic: Vanity|Xref: Transitory|Xref: 1659 [Vanitatis Triumphus]|Index:

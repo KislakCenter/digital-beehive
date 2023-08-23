@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0293/'>equity</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Law</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3426/'>right</a>"
+index: "<a href='/digital-beehive/index4/index_3373/'>right</a>"
 item: "#item-779d48b46"
 unparsed:
 line: 'Entry: Right|Topic: Right|Xref: equity|Xref: Law|Index: right|#item-779d48b46'

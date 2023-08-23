@@ -1,9 +1,9 @@
 ---
 pid: index_2391
 volume: Volume 3
-image_number: '29'
-head: "[:4.]"
-entry:
+image_number: '30'
+head: Marlborough
+entry: "<a href='/digital-beehive/num6/num_1877/'>1334 [Marlborough]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9a06bbb61"
-unparsed: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
-line: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/2139,370,183,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560199596809
-sort_value: '302930370'
+item: "#item-17b6f038f"
+unparsed:
+line: 'Head: Marlborough|Entry: 1334 [Marlborough]|#item-17b6f038f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,509,578,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560262988698
+sort_value: '303010509'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/2139,370,183,131/150,/0/default.jpg
-label: "[:4.]"
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,509,578,139/150,/0/default.jpg
+label: Marlborough
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4667/'>Lord Major</a>"
-order: '473'
+order: '506'
 layout: index_item
 collection: index3
 ---

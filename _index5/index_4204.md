@@ -1,9 +1,9 @@
 ---
 pid: index_4204
 volume: Volume 3
-image_number: '48'
-head: towel
-entry: "<a href='/digital-beehive/num3/num_0816/'>612 [Shoe Clout]</a>"
+image_number: '49'
+head: by turns
+entry: 729 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7cf31bb55"
+item: "#item-0b092da6a"
 unparsed:
-line: 'Head: towel|Entry: 612 [Shoe Clout]|#item-7cf31bb55'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1115,782,383,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561483903912
-sort_value: '304820782'
+line: 'Head: by turns|Entry: 729 [PAGE_MISSING]|#item-0b092da6a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/188,1895,497,184/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656778269
+sort_value: '304911895'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1115,782,383,121/150,/0/default.jpg
-label: towel
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/188,1895,497,184/150,/0/default.jpg
+label: by turns
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '166'
+order: '227'
 layout: index_item
 collection: index5
 ---

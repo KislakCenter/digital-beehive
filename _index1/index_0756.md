@@ -2,28 +2,27 @@
 pid: index_0756
 volume: Volume 3
 image_number: '14'
-head: compass
-entry: "<a href='/digital-beehive/num6/num_2206/'>1497 [Seamans Compass]</a>"
+head: conception
+entry: "<a href='/digital-beehive/num3/num_0879/'>644 [Conception, or Conceiving]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-93facfae2"
+item: "#item-52d3e9b0b"
 unparsed:
-line: 'Head: compass|Page: p.39 [Image 1.99]|Entry: 1497 [Seamans Compass]|#item-93facfae2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/446,240,540,139/full/0/default.jpg
+line: 'Head: conception|Entry: 644 [Conception, or Conceiving]|#item-52d3e9b0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/429,1593,535,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215074744
-sort_value: '301410240'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215559855
+sort_value: '301411593'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/446,240,540,139/150,/0/default.jpg
-label: compass
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/429,1593,535,124/150,/0/default.jpg
+label: conception
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0755'
 layout: index_item
 collection: index1

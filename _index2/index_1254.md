@@ -1,9 +1,9 @@
 ---
 pid: index_1254
 volume: Volume 3
-image_number: '18'
-head: England new
-entry: 766 [PAGE_MISSING]
+image_number: '19'
+head: Epictetus
+entry: "<a href='/digital-beehive/num5/num_1416/'>1054 [Epictetus]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ef0f60d21"
+item: "#item-b75094686"
 unparsed:
-line: 'Head: England new|Entry: 766 [PAGE_MISSING]|#item-ef0f60d21'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1823,1568,403,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756254114
-sort_value: '301831568'
+line: 'Head: Epictetus|Entry: 1054 [Epictetus]|#item-b75094686'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/153,385,442,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559840593885
+sort_value: '301910385'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1823,1568,403,94/150,/0/default.jpg
-label: England new
-location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/153,385,442,148/150,/0/default.jpg
+label: Epictetus
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '073'
+order: '095'
 layout: index_item
 collection: index2
 ---

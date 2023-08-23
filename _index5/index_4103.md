@@ -1,30 +1,33 @@
 ---
 pid: index_4103
 volume: Volume 3
-image_number: '47'
-head: thalmud
-entry: "<a href='/digital-beehive/num2/num_0629/'>500 [Thalmud]</a>"
+image_number: '48'
+head: tobacco
+entry: "<a href='/digital-beehive/alpha5/alpha_0965/'>a</a>|<a href='/digital-beehive/num4/num_1249/'>935
+  [Tobacco]</a>|<a href='/digital-beehive/num6/num_2063/'>1423 [Tobacco]</a>|4585
+  [PAGE_MISSING]"
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>|<a href='/digital-beehive/toc/toc1_092/'>p.42
+  [Image 1.102]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-675e0ba9a"
+item: "#item-cc0206d28"
 unparsed:
-line: 'Head: thalmud|Entry: 500 [Thalmud]|#item-675e0ba9a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/920,264,411,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532719634528
-sort_value: '304720264'
+line: 'Head: tobacco|Page: p.38 [Image 1.98]|Page: p.42 [Image 1.102]|Entry: a|Entry:
+  935 [Tobacco]|Entry: 1423 [Tobacco]|Entry: 4585 [PAGE_MISSING]|#item-cc0206d28|'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/468,395,623,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844879878
+sort_value: '304810395'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/920,264,411,162/150,/0/default.jpg
-label: thalmud
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/468,395,623,157/150,/0/default.jpg
+label: tobacco
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '065'
+order: '126'
 layout: index_item
 collection: index5
 ---

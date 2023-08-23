@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/alpha3/alpha_0485/'>Intemperance</a>|<a
   href='/digital-beehive/num4/num_1323/'>990 [Revelling]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3404/'>revelling. sauß und schmauß</a>"
+index: "<a href='/digital-beehive/index4/index_3352/'>revelling. sauß und schmauß</a>"
 item: "#item-c80f58e9c"
 unparsed:
 line: 'Entry: Revelling|Topic: Revelling|Xref: Epicurism|Xref: Intemperance|Xref:

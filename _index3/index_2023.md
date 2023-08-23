@@ -2,30 +2,28 @@
 pid: index_2023
 volume: Volume 3
 image_number: '26'
-head: indulgence
-entry: "<a href='/digital-beehive/num3/num_0925/'>667 [Indulgence]</a>|<a href='/digital-beehive/num5/num_1630/'>1195
-  [Indulgence]</a>"
+head: inscriptions
+entry: "<a href='/digital-beehive/alpha3/alpha_0482/'>a</a>"
 topic:
 first_letter: I/J
-page:
+page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-ee8bf5940"
+item: "#item-d99fbd113"
 unparsed:
-line: 'Head: indulgence|Entry: 667 [Indulgence]|Entry: 1195 [Indulgence]|#item-ee8bf5940'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/395,463,733,159/full/0/default.jpg
+line: 'Head: inscriptions|Page: p.2 [Image 1.62]|Entry: a|#item-d99fbd113'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,743,678,183/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674460103
-sort_value: '302610463'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747359676
+sort_value: '302620743'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/395,463,733,159/150,/0/default.jpg
-label: indulgence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,743,678,183/150,/0/default.jpg
+label: inscriptions
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '105'
+order: '138'
 layout: index_item
 collection: index3
 ---

@@ -1,30 +1,28 @@
 ---
 pid: index_0743
 volume: Volume 3
-image_number: '13'
-head: common goods
-entry: "<a href='/digital-beehive/alpha1/alpha_0162/'>a</a>|<a href='/digital-beehive/num5/num_1599/'>1172
-  [Community of Goods]</a>"
+image_number: '14'
+head: pair of compasses
+entry:
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-1336369fe"
+item: "#item-f43e79ef2"
 unparsed:
-line: 'Head: common goods|Entry: a|Entry: 1172 [Community of Goods]|#item-1336369fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1542,2406,523,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611730674
-sort_value: '301332406'
+line: 'Head: pair of compasses|Page: p.39 [Image 1.99]|#item-f43e79ef2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/431,358,699,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215102295
+sort_value: '301410358'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1542,2406,523,142/150,/0/default.jpg
-label: common goods
-location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/431,358,699,137/150,/0/default.jpg
+label: pair of compasses
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0742'
 layout: index_item
 collection: index1

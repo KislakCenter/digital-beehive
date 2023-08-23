@@ -1,9 +1,10 @@
 ---
 pid: index_4153
 volume: Volume 3
-image_number: '47'
-head: timbrel
-entry: "<a href='/digital-beehive/num8/num_2746/'>1812 [Musick]</a>"
+image_number: '48'
+head: transitory
+entry: "<a href='/digital-beehive/alpha5/alpha_0980/'>a</a>|<a href='/digital-beehive/num5/num_1572/'>1153
+  [Transitory]</a>|<a href='/digital-beehive/num10/num_3455/'>4470 [Transitory]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7e690ea50"
+item: "#item-6e3f2a86b"
 unparsed:
-line: 'Head: timbrel|Entry: 1812 [Musick]|#item-7e690ea50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1613,2163,419,71/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552670831623
-sort_value: '304732163'
+line: 'Head: transitory|Entry: a|Entry: 1153 [Transitory]|Entry: 4470 [Transitory]|#item-6e3f2a86b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1102,2210,730,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561486980022
+sort_value: '304822210'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1613,2163,419,71/150,/0/default.jpg
-label: timbrel
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1102,2210,730,148/150,/0/default.jpg
+label: transitory
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '115'
+order: '176'
 layout: index_item
 collection: index5
 ---

@@ -1,30 +1,28 @@
 ---
 pid: index_0961
 volume: Volume 3
-image_number: '15'
-head: to speak of dead men
-entry: "<a href='/digital-beehive/num10/num_3253/'>2290 [To speak of them that are
-  dead]</a>"
+image_number: '16'
+head: decree
+entry: "<a href='/digital-beehive/num8/num_2829/'>1920 [Decree]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3337/'>resolution</a>"
 index:
-item: "#item-107679c7e"
+item: "#item-290d04093"
 unparsed:
-line: 'Head: to speak of dead men|Entry: 2290 [To speak of them that are dead]|#item-107679c7e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1520,2536,624,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391840662
-sort_value: '301532536'
+line: 'Head: decree|See: resolution|Entry: 1920 [Decree]|#item-290d04093'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/363,906,705,193/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540570158116
+sort_value: '301610906'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1520,2536,624,95/150,/0/default.jpg
-label: to speak of dead men
-location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/363,906,705,193/150,/0/default.jpg
+label: decree
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0960'
 layout: index_item
 collection: index1

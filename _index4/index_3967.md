@@ -1,9 +1,10 @@
 ---
 pid: index_3967
 volume: Volume 3
-image_number: '45'
-head: such
-entry: "<a href='/digital-beehive/num1/num_0222/'>210 [Such like]</a>"
+image_number: '46'
+head: Switzers
+entry: "<a href='/digital-beehive/num2/num_0411/'>351 [Switzerland]</a>|<a href='/digital-beehive/num6/num_1950/'>1371
+  [Swissers]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0cea1b536"
+item: "#item-cb6b064b3"
 unparsed:
-line: 'Head: such|Entry: 210 [Such like]|#item-0cea1b536'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1610,2511,333,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530469484174
-sort_value: '304532511'
+line: 'Head: Switzers|Entry: 351 [Switzerland]|Entry: 1371 [Swissers]|#item-cb6b064b3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1073,2512,614,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565293346712
+sort_value: '304622512'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1610,2511,333,128/150,/0/default.jpg
-label: such
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1073,2512,614,119/150,/0/default.jpg
+label: Switzers
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1215'
+order: '1259'
 layout: index_item
 collection: index4
 ---

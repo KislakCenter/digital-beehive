@@ -2,8 +2,8 @@
 pid: index_0991
 volume: Volume 3
 image_number: '16'
-head: degenerating
-entry: "<a href='/digital-beehive/num1/num_0014/'>14 [Degenerating]</a>"
+head: denmark
+entry: "<a href='/digital-beehive/num6/num_1889/'>1340 [Swedland & Denmark]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-44a173dd4"
+item: "#item-fd42ac720"
 unparsed:
-line: 'Head: degenerating|Entry: 14 [Degenerating]|#item-44a173dd4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/324,2143,570,137/full/0/default.jpg
+line: 'Head: denmark|Entry: 1340 [Swedland & Denmark]|#item-fd42ac720'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1097,862,576,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572234733
-sort_value: '301612143'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565623900170
+sort_value: '301620862'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/324,2143,570,137/150,/0/default.jpg
-label: degenerating
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1097,862,576,116/150,/0/default.jpg
+label: denmark
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0990'
 layout: index_item
 collection: index1

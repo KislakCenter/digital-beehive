@@ -2,30 +2,28 @@
 pid: index_3634
 volume: Volume 3
 image_number: '42'
-head: Seneca
-entry: "<a href='/digital-beehive/num5/num_1489/'>1099 [Seneca]</a>|<a href='/digital-beehive/num5/num_1675/'>1223
-  [Seneca]</a>"
+head: shrovetide
+entry: "<a href='/digital-beehive/num1/num_0236/'>222 [Shrovetide]</a>"
 topic:
 first_letter: S
 page:
-add:
+add: bacchanals
 xref:
 see:
 index:
-item: "#item-84063c76c"
+item: "#item-ab72e1229"
 unparsed:
-line: 'Head: Seneca|Entry: 1099 [Seneca]|Entry: 1223 [Seneca]|#item-84063c76c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/403,3108,653,138/full/0/default.jpg
+line: 'Head: shrovetide|Entry: 222 [Shrovetide]|Add: bacchanals|#item-ab72e1229'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1789,2877,630,193/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245154591
-sort_value: '304213108'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576573915
+sort_value: '304232877'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/403,3108,653,138/150,/0/default.jpg
-label: Seneca
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1789,2877,630,193/150,/0/default.jpg
+label: shrovetide
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0882'
+order: '0926'
 layout: index_item
 collection: index4
 ---

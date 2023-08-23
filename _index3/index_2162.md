@@ -2,30 +2,28 @@
 pid: index_2162
 volume: Volume 3
 image_number: '27'
-head: king
-entry: "<a href='/digital-beehive/alpha3/alpha_0502/'>a</a>|<a href='/digital-beehive/num5/num_1648/'>1207
-  [King]</a>|1873 [PAGE_MISSING]"
+head: lanthorn
+entry: 1852 [PAGE_MISSING]
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f4d02b164"
+item: "#item-2027220d4"
 unparsed:
-line: 'Head: king|Entry: a|Entry: 1207 [King]|Entry: 1873 [PAGE_MISSING]|#item-f4d02b164'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,1066,541,183/full/0/default.jpg
+line: 'Head: lanthorn|Entry: 1852 [PAGE_MISSING]|#item-2027220d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1560,976,491,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761736103
-sort_value: '302721066'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835160687
+sort_value: '302730976'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,1066,541,183/150,/0/default.jpg
-label: king
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1560,976,491,87/150,/0/default.jpg
+label: lanthorn
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '244'
+order: '277'
 layout: index_item
 collection: index3
 ---

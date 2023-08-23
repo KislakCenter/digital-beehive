@@ -2,8 +2,8 @@
 pid: index_3728
 volume: Volume 3
 image_number: '43'
-head: singularity
-entry: "<a href='/digital-beehive/num5/num_1516/'>1121 [Singularity]</a>"
+head: Soli Deo Gloria
+entry: "<a href='/digital-beehive/num6/num_2190/'>1484 [Soli Deo gloria]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1bd112643"
+item: "#item-8ccc15c23"
 unparsed:
-line: 'Head: singularity|Entry: 1121 [Singularity]|#item-1bd112643'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/825,475,466,113/full/0/default.jpg
+line: 'Head: Soli Deo Gloria|Entry: 1484 [Soli Deo gloria]|#item-8ccc15c23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1607,2882,603,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582876784
-sort_value: '304320475'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586464501
+sort_value: '304332882'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/825,475,466,113/150,/0/default.jpg
-label: singularity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1607,2882,603,181/150,/0/default.jpg
+label: Soli Deo Gloria
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0976'
+order: '1020'
 layout: index_item
 collection: index4
 ---

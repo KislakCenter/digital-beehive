@@ -1,30 +1,29 @@
 ---
 pid: index_3764
 volume: Volume 3
-image_number: '43'
-head: snail
-entry:
+image_number: '44'
+head: speaker
+entry: 4665 [PAGE_MISSING]
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
-add: "<a href='/digital-beehive/index4/index_3667/'>shells</a>"
+page:
+add:
 xref:
 see:
 index:
-item: "#item-9727486f9"
+item: "#item-52a404c86"
 unparsed:
-line: 'Head: snail|Page: p.36 [Image 1.96]|Add: shells|#item-9727486f9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1559,513,521,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585092411
-sort_value: '304330513'
+line: 'Head: speaker|Entry: 4665 [PAGE_MISSING]|#item-52a404c86'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1119,498,434,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529788468193
+sort_value: '304420498'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1559,513,521,175/150,/0/default.jpg
-label: snail
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1119,498,434,95/150,/0/default.jpg
+label: speaker
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1012'
+order: '1056'
 layout: index_item
 collection: index4
 ---

@@ -2,9 +2,8 @@
 pid: index_3326
 volume: Volume 3
 image_number: '39'
-head: red
-entry: "<a href='/digital-beehive/alpha5/num_1894/'>a</a>|<a href='/digital-beehive/num6/num_1894/'>1343
-  [Red-(:hair:)face]</a>"
+head: reprobates
+entry: "<a href='/digital-beehive/num1/num_0144/'>139 [Reprobates]</a>"
 topic:
 first_letter: R
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b4d6d5268"
+item: "#item-acae272a9"
 unparsed:
-line: 'Head: red|Entry: a|Entry: 1343 [Red-(:hair:)face]|#item-b4d6d5268'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/154,778,426,124/full/0/default.jpg
+line: 'Head: reprobates|Entry: 139 [Reprobates]|#item-acae272a9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/819,3209,588,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463321815
-sort_value: '303910778'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469637672
+sort_value: '303923209'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/154,778,426,124/150,/0/default.jpg
-label: red
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/819,3209,588,112/150,/0/default.jpg
+label: reprobates
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified.
-insertion_xref:
-order: '0574'
+issue:
+order: '0618'
 layout: index_item
 collection: index4
 ---

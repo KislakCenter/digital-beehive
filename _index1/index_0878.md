@@ -2,28 +2,27 @@
 pid: index_0878
 volume: Volume 3
 image_number: '15'
-head: native Country
-entry: "<a href='/digital-beehive/alpha1/alpha_0187/'>a</a>"
+head: crane
+entry:
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-ae1379b05"
+item: "#item-c699badc8"
 unparsed:
-line: 'Head: native Country|Entry: a|#item-ae1379b05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/142,2081,651,132/full/0/default.jpg
+line: 'Head: crane|Page: p.35 [Image 1.95]|#item-c699badc8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/154,3615,424,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974679002
-sort_value: '301512081'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537975348617
+sort_value: '301513615'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/142,2081,651,132/150,/0/default.jpg
-label: native Country
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/154,3615,424,141/150,/0/default.jpg
+label: crane
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0877'
 layout: index_item
 collection: index1

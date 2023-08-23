@@ -2,30 +2,28 @@
 pid: index_2468
 volume: Volume 3
 image_number: '30'
-head: mediocrity
-entry: "<a href='/digital-beehive/alpha3/alpha_0584/'>a</a>|<a href='/digital-beehive/num5/num_1495/'>1103
-  [Mediocrity]</a>"
+head: midnight
+entry: 765 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2685/'>noon</a>"
 index:
-item: "#item-b1e3af3b9"
+item: "#item-39c0dcce9"
 unparsed:
-line: 'Head: mediocrity|Entry: a|Entry: 1103 [Mediocrity]|#item-b1e3af3b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1069,381,693,151/full/0/default.jpg
+line: 'Head: midnight|See: noon|Entry: 765 [PAGE_MISSING]|#item-39c0dcce9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,1201,652,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267656083
-sort_value: '303020381'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273787400
+sort_value: '303031201'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1069,381,693,151/150,/0/default.jpg
-label: mediocrity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,1201,652,146/150,/0/default.jpg
+label: midnight
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '550'
+order: '583'
 layout: index_item
 collection: index3
 ---

@@ -1,32 +1,29 @@
 ---
 pid: index_1369
 volume: Volume 3
-image_number: '19'
-head: eye
-entry: "<a href='/digital-beehive/alpha2/alpha_0307/'>a</a>|757 [[PAGE_MISSING]]|<a
-  href='/digital-beehive/num7/num_2381/'>1587 [Eyes]</a>|4728 [[PAGE_MISSING]]"
+image_number: '20'
+head: fame
+entry:
 topic:
-first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+first_letter: F
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3330/'>reputation</a>"
 index:
-item: "#item-9c40fd517"
+item: "#item-87f3e5531"
 unparsed:
-line: 'Head: eye|Page: p.43 [Image 1.103]|Entry: a|Entry: 757 [[PAGE_MISSING]]|Entry:
-  1587 [Eyes]|Entry: 4728 [[PAGE_MISSING]]|#item-9c40fd517'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1504,3323,801,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561397807920
-sort_value: '301933323'
+line: 'Head: fame|See: reputation|#item-87f3e5531'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/380,2054,749,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655843401
+sort_value: '302012054'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1504,3323,801,135/150,/0/default.jpg
-label: eye
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '188'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/380,2054,749,141/150,/0/default.jpg
+label: fame
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+issue: The meaning of "it. report" cannot be determined.
+order: '210'
 layout: index_item
 collection: index2
 ---

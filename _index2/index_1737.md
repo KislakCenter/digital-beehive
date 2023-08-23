@@ -2,9 +2,8 @@
 pid: index_1737
 volume: Volume 3
 image_number: '23'
-head: hair
-entry: "<a href='/digital-beehive/alpha2/alpha_0394/'>a</a>|<a href='/digital-beehive/num6/num_1882/'>1337
-  [Hair & Perriwigs]</a>|<a href='/digital-beehive/num10/num_3396/'>2422 [Hair & Periwigs]</a>"
+head: to have
+entry: 863 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-66d989896"
+item: "#item-83da0dc1d"
 unparsed:
-line: 'Head: hair|Entry: a|Entry: 1337 [Hair & Perriwigs]|Entry: 2422 [Hair & Periwigs]|#item-66d989896'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/153,3493,615,121/full/0/default.jpg
+line: 'Head: to have|Entry: 863 [PAGE_MISSING]|#item-83da0dc1d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/817,2947,419,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234459732
-sort_value: '302313493'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241000099
+sort_value: '302322947'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/153,3493,615,121/150,/0/default.jpg
-label: hair
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/817,2947,419,99/150,/0/default.jpg
+label: to have
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '556'
+order: '578'
 layout: index_item
 collection: index2
 ---

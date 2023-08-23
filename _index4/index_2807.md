@@ -1,9 +1,9 @@
 ---
 pid: index_2807
 volume: Volume 3
-image_number: '33'
-head: opium
-entry: "<a href='/digital-beehive/num5/num_1661/'>1213 [Poppy-Juice]</a>"
+image_number: '34'
+head: Oxford
+entry: 4587 [PAGE_MISSING]
 topic:
 first_letter: O
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-18fcd5b60"
+item: "#item-7d058d9a8"
 unparsed:
-line: 'Head: opium|Entry: 1213 [Poppy-Juice]|#item-18fcd5b60'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1506,763,474,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161384833
-sort_value: '303330763'
+line: 'Head: Oxford|Entry: 4587 [PAGE_MISSING]|#item-7d058d9a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/467,2239,559,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425741692
+sort_value: '303412239'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1506,763,474,136/150,/0/default.jpg
-label: opium
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/467,2239,559,150/150,/0/default.jpg
+label: Oxford
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0055'
+order: '0099'
 layout: index_item
 collection: index4
 ---

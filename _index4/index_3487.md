@@ -1,9 +1,9 @@
 ---
 pid: index_3487
 volume: Volume 3
-image_number: '40'
-head: safe conduct
-entry: 726 [PAGE_MISSING]
+image_number: '41'
+head: to scatter
+entry: "<a href='/digital-beehive/num2/num_0607/'>485 [to Scatter]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c0c071d98"
+item: "#item-e6e8b0587"
 unparsed:
-line: 'Head: safe conduct|Entry: 726 [PAGE_MISSING]|#item-c0c071d98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1819,2109,604,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234921882
-sort_value: '304032109'
+line: 'Head: to scatter|Entry: 485 [to Scatter]|#item-e6e8b0587'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,516,467,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240301322
+sort_value: '304120516'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1819,2109,604,148/150,/0/default.jpg
-label: safe conduct
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,516,467,118/150,/0/default.jpg
+label: to scatter
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0735'
+order: '0779'
 layout: index_item
 collection: index4
 ---

@@ -1,9 +1,11 @@
 ---
 pid: index_2305
 volume: Volume 3
-image_number: '28'
-head: to list sould
-entry: "<a href='/digital-beehive/num2/num_0614/'>490 [To list souldiers]</a>"
+image_number: '29'
+head: love of our neighbour
+entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>|<a href='/digital-beehive/num5/num_1457/'>1079
+  [Love of Neighbours]</a>|<a href='/digital-beehive/num10/num_3426/'>4447 [Love of
+  Neighbours]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-4cf8586fd"
+item: "#item-ec9e131c5"
 unparsed:
-line: 'Head: to list sould|Entry: 490 [To list souldiers]|#item-4cf8586fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1835,1863,555,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849090006
-sort_value: '302831863'
+line: 'Head: love of our neighbour|Entry: a|Entry: 1079 [Love of Neighbours]|Entry:
+  4447 [Love of Neighbours]|#item-ec9e131c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/174,2226,673,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179385665
+sort_value: '302912226'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1835,1863,555,113/150,/0/default.jpg
-label: to list sould
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/174,2226,673,133/150,/0/default.jpg
+label: love of our neighbour
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '387'
+order: '420'
 layout: index_item
 collection: index3
 ---

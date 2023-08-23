@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0027/'>Anathema</a>|<a href='/digital-beehive/num1/num_0029/'>29
   [Curse]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2396/'>malediction</a>"
+index: "<a href='/digital-beehive/index3/index_2357/'>malediction</a>"
 item: "#item-0605a4c00"
 unparsed:
 line: 'Entry: Malediction|Topic: Malediction|Xref: Anathema|Xref: 29 [Curse]|Index:

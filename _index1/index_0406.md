@@ -2,8 +2,8 @@
 pid: index_0406
 volume: Volume 3
 image_number: '10'
-head: boldness
-entry: "<a href='/digital-beehive/alpha1/alpha_0093/'>a</a>"
+head: border
+entry: 749 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-2bb375b10"
+item: "#item-19ee2bfe5"
 unparsed:
-line: 'Head: boldness|Entry: a|#item-2bb375b10'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1792,910,404,157/full/0/default.jpg
+line: 'Head: border|Entry: 749 [PAGE_MISSING]|#item-19ee2bfe5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1792,1871,417,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531152623079
-sort_value: '301030910'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531416065760
+sort_value: '301031871'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1792,910,404,157/150,/0/default.jpg
-label: boldness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1792,1871,417,136/150,/0/default.jpg
+label: border
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0405'
 layout: index_item
 collection: index1

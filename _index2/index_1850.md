@@ -2,8 +2,8 @@
 pid: index_1850
 volume: Volume 3
 image_number: '24'
-head: hive
-entry: "<a href='/digital-beehive/num7/num_2343/'>1565 [Hive]</a>"
+head: hot
+entry: 787 [PAGE_MISSING]
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-15c2377c4"
+item: "#item-3285a9bfe"
 unparsed:
-line: 'Head: hive|Entry: 1565 [Hive]|#item-15c2377c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1137,686,355,157/full/0/default.jpg
+line: 'Head: hot|Entry: 787 [PAGE_MISSING]|#item-3285a9bfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1862,244,281,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198295948
-sort_value: '302420686'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585939045
+sort_value: '302430244'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1137,686,355,157/150,/0/default.jpg
-label: hive
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1862,244,281,111/150,/0/default.jpg
+label: hot
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '669'
+order: '691'
 layout: index_item
 collection: index2
 ---

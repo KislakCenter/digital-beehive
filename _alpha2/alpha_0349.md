@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0194/'>Craftiness</a>|<a href='/di
   href='/digital-beehive/alpha4/alpha_0848/'>Seducing</a>|<a href='/digital-beehive/num2/num_0467/'>384
   [Fraud]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1532/'>fraud</a>"
+index: "<a href='/digital-beehive/index2/index_1506/'>fraud</a>"
 item: "#item-ddc5b9956"
 unparsed:
 line: 'Entry: Fraud|Topic: Fraud|Xref: Craftiness|Xref: Stratagem|Xref: Seducing|Xref:

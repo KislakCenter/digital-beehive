@@ -1,30 +1,29 @@
 ---
 pid: index_2505
 volume: Volume 3
-image_number: '30'
-head: metonymy
-entry: 841 [PAGE_MISSING]
+image_number: '31'
+head: mistress
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2295/'>Lord</a>"
 index:
-item: "#item-cbcc1f54f"
+item: "#item-a5e28a314"
 unparsed:
-line: 'Head: metonymy|Entry: 841 [PAGE_MISSING]|#item-cbcc1f54f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,891,507,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273649078
-sort_value: '303030891'
+line: 'Head: mistress|See: Lord|#item-a5e28a314'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,1548,510,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352015123
+sort_value: '303111548'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,891,507,118/150,/0/default.jpg
-label: metonymy
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,1548,510,156/150,/0/default.jpg
+label: mistress
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '587'
+order: '620'
 layout: index_item
 collection: index3
 ---

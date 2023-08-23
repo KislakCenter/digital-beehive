@@ -2,28 +2,27 @@
 pid: index_0727
 volume: Volume 3
 image_number: '13'
-head: comb
-entry: "<a href='/digital-beehive/num3/num_0917/'>663 [Comb]</a>"
+head: com[m]ons
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2867/'>pasture</a>"
 index:
-item: "#item-f875a16fe"
+item: "#item-a96fc89d4"
 unparsed:
-line: 'Head: comb|Entry: 663 [Comb]|#item-f875a16fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,956,357,108/full/0/default.jpg
+line: 'Head: com[m]ons|See: pasture|#item-a96fc89d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,2288,612,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610409517
-sort_value: '301330956'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611567642
+sort_value: '301332288'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,956,357,108/150,/0/default.jpg
-label: comb
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,2288,612,96/150,/0/default.jpg
+label: com[m]ons
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0726'
 layout: index_item
 collection: index1

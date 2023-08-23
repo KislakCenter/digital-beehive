@@ -1,9 +1,9 @@
 ---
 pid: index_2517
 volume: Volume 3
-image_number: '30'
-head: Milton
-entry: 4786 [PAGE_MISSING]
+image_number: '31'
+head: mole n[ae]vus
+entry: "<a href='/digital-beehive/num6/num_2158/'>1468 [Mole : Müttermal]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b82a77c9a"
+item: "#item-e642f9b3b"
 unparsed:
-line: 'Head: Milton|Entry: 4786 [PAGE_MISSING]|#item-b82a77c9a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/2122,2085,371,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274214148
-sort_value: '303032085'
+line: 'Head: mole n[ae]vus|Entry: 1468 [Mole : Müttermal]|#item-e642f9b3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/184,2960,480,94/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352917898
+sort_value: '303112960'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/2122,2085,371,120/150,/0/default.jpg
-label: Milton
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/184,2960,480,94/150,/0/default.jpg
+label: mole n[ae]vus
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '599'
+order: '632'
 layout: index_item
 collection: index3
 ---

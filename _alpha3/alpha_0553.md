@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2333/'>Lord</a>"
+index: "<a href='/digital-beehive/index3/index_2295/'>Lord</a>"
 item: "#item-e3affb3e0"
 unparsed:
 line: 'Entry: Lord|Topic: Lord|Index: Lord|#item-e3affb3e0'
@@ -22,8 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/306,1006,600,180/250,/0/default.jpg
 label: Lord
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
-issue: It is unclear whether "a Miss, or Mistress" should be considered a separate
-  entry.
+issue:
 also_in_entry:
 order: '106'
 layout: alpha_item

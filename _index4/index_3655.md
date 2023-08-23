@@ -1,10 +1,9 @@
 ---
 pid: index_3655
 volume: Volume 3
-image_number: '42'
-head: shadow
-entry: "<a href='/digital-beehive/alpha4/alpha_0866/'>a</a>|<a href='/digital-beehive/num3/num_0873/'>641
-  [the Shadow]</a>"
+image_number: '43'
+head: similitude
+entry: "<a href='/digital-beehive/alpha4/alpha_0879/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d57e2b20b"
+item: "#item-bddbfc384"
 unparsed:
-line: 'Head: shadow|Entry: a|Entry: 641 [the Shadow]|#item-d57e2b20b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1101,2048,526,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574655260
-sort_value: '304222048'
+line: 'Head: similitude|Entry: a|#item-bddbfc384'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/164,1943,568,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582268254
+sort_value: '304311943'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1101,2048,526,164/150,/0/default.jpg
-label: shadow
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/164,1943,568,140/150,/0/default.jpg
+label: similitude
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0903'
+order: '0947'
 layout: index_item
 collection: index4
 ---

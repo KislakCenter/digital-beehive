@@ -2,29 +2,28 @@
 pid: index_3431
 volume: Volume 3
 image_number: '40'
-head: rimes
-entry: "<a href='/digital-beehive/num7/num_2379/'>1585 [Verses]</a>"
+head: saddle
+entry: "<a href='/digital-beehive/num4/num_1096/'>871 [a Saddle]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-03bca2c24"
+item: "#item-9c649f151"
 unparsed:
-line: 'Head: rimes|Entry: 1585 [Verses]|#item-03bca2c24'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/440,2671,400,80/full/0/default.jpg
+line: 'Head: saddle|Entry: 871 [a Saddle]|#item-9c649f151'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1778,1716,490,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232387458
-sort_value: '304012671'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234814991
+sort_value: '304031716'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/440,2671,400,80/150,/0/default.jpg
-label: rimes
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1778,1716,490,129/150,/0/default.jpg
+label: saddle
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0679'
+order: '0723'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_1289
 volume: Volume 3
 image_number: '19'
-head: equity
-entry: "<a href='/digital-beehive/alpha2/alpha_0293/'>a</a>"
+head: evangelists
+entry:
 topic:
 first_letter: E
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1640/'>gospel</a>"
 index:
-item: "#item-f8727988e"
+item: "#item-17332b14b"
 unparsed:
-line: 'Head: equity|Entry: a|#item-f8727988e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/143,1567,347,136/full/0/default.jpg
+line: 'Head: evangelists|See: gospel|#item-17332b14b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/855,832,697,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845927522
-sort_value: '301911567'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350963400
+sort_value: '301920832'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/143,1567,347,136/150,/0/default.jpg
-label: equity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/855,832,697,184/150,/0/default.jpg
+label: evangelists
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '108'
+order: '130'
 layout: index_item
 collection: index2
 ---

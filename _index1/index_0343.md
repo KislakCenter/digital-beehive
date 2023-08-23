@@ -2,8 +2,8 @@
 pid: index_0343
 volume: Volume 3
 image_number: '10'
-head: behemoth
-entry: "<a href='/digital-beehive/alpha1/alpha_0075/'>a</a>"
+head: benum[m]b'd
+entry: "<a href='/digital-beehive/num10/num_3476/'>4488 [Benumm'ed]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-3041bd8a3"
+item: "#item-ad767c9cb"
 unparsed:
-line: 'Head: behemoth|Entry: a|#item-3041bd8a3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/391,694,450,127/full/0/default.jpg
+line: 'Head: benum[m]b''d|Entry: 4488 [Benumm''ed]|#item-ad767c9cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/377,1452,653,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531146771783
-sort_value: '301010694'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531147668132
+sort_value: '301011452'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/391,694,450,127/150,/0/default.jpg
-label: behemoth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/377,1452,653,115/150,/0/default.jpg
+label: benum[m]b'd
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0342'
 layout: index_item
 collection: index1

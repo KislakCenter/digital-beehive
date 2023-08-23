@@ -1,30 +1,29 @@
 ---
 pid: index_2426
 volume: Volume 3
-image_number: '29'
-head: mariners
-entry: 764 [PAGE_MISSING]
+image_number: '30'
+head: medicine books
+entry:
 topic:
 first_letter: M
-page:
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-8cd8407cf"
+item: "#item-72064cf15"
 unparsed:
-line: 'Head: mariners|Entry: 764 [PAGE_MISSING]|#item-8cd8407cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1511,3576,488,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560197249447
-sort_value: '302933576'
+line: 'Head: medicine books|Page: p.379 [Image 2.201]|#item-72064cf15'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1118,286,457,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267248226
+sort_value: '303020286'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1511,3576,488,110/150,/0/default.jpg
-label: mariners
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1118,286,457,109/150,/0/default.jpg
+label: medicine books
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '508'
+order: '541'
 layout: index_item
 collection: index3
 ---

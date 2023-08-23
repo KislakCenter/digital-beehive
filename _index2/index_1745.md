@@ -2,8 +2,9 @@
 pid: index_1745
 volume: Volume 3
 image_number: '23'
-head: handkerchief
-entry: 4578 [PAGE_MISSING]
+head: health
+entry: "<a href='/digital-beehive/alpha2/alpha_0406/'>a</a>|<a href='/digital-beehive/num7/num_2225/'>1506
+  [Health]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1c8ac9f9c"
+item: "#item-0fd515aa3"
 unparsed:
-line: 'Head: handkerchief|Entry: 4578 [PAGE_MISSING]|#item-1c8ac9f9c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/857,724,594,106/full/0/default.jpg
+line: 'Head: health|Entry: a|Entry: 1506 [Health]|#item-0fd515aa3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1559,391,467,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238479565
-sort_value: '302320724'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242318979
+sort_value: '302330391'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/857,724,594,106/150,/0/default.jpg
-label: handkerchief
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1559,391,467,101/150,/0/default.jpg
+label: health
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '564'
+order: '586'
 layout: index_item
 collection: index2
 ---

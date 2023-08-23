@@ -2,29 +2,31 @@
 pid: index_4581
 volume: Volume 3
 image_number: '53'
-head: without Christ
-entry: "<a href='/digital-beehive/num2/num_0320/'>284 [Without Xst]</a>"
+head: Zeal
+entry: "<a href='/digital-beehive/alpha5/alpha_1076/'>a</a>|<a href='/digital-beehive/num5/num_1354/'>1013
+  [Zeal]</a>|<a href='/digital-beehive/num7/num_2618/'>1697 [Zeal]</a>|<a href='/digital-beehive/num9/num_2949/'>2014
+  [Zeal]</a>|<a href='/digital-beehive/num10/num_3259/'>2295 [Zeal]</a>"
 topic:
-first_letter: W
+first_letter: Z
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2ed880806"
+item: "#item-5f1c2da86"
 unparsed:
-line: 'Head: without Christ|Entry: 284 [Without Xst]|#item-2ed880806'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/186,2283,452,118/full/0/default.jpg
+line: 'Head: Zeal|Entry: a|Entry: 1013 [Zeal]|Entry: 1697 [Zeal]|Entry: 2014 [Zeal]|Entry:
+  2295 [Zeal]|#item-5f1c2da86'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1564,3038,759,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792762311
-sort_value: '305312283'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560869555172
+sort_value: '305333038'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/186,2283,452,118/150,/0/default.jpg
-label: without Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1564,3038,759,177/150,/0/default.jpg
+label: Zeal
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '543'
+order: '604'
 layout: index_item
 collection: index5
 ---

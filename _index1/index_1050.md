@@ -1,9 +1,9 @@
 ---
 pid: index_1050
 volume: Volume 3
-image_number: '16'
-head: digression
-entry: "<a href='/digital-beehive/num2/num_0403/'>347 [Digression]</a>"
+image_number: '17'
+head: discourage
+entry: "<a href='/digital-beehive/num3/num_1013/'>701 [Discourage]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-28cffae74"
+item: "#item-76511c98e"
 unparsed:
-line: 'Head: digression|Entry: 347 [Digression]|#item-28cffae74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1780,1663,526,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783796508
-sort_value: '301631663'
+line: 'Head: discourage|Entry: 701 [Discourage]|#item-76511c98e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/132,419,538,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803636385
+sort_value: '301710419'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1780,1663,526,130/150,/0/default.jpg
-label: digression
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/132,419,538,126/150,/0/default.jpg
+label: discourage
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1049'
 layout: index_item
 collection: index1

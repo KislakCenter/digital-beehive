@@ -2,30 +2,28 @@
 pid: index_3511
 volume: Volume 3
 image_number: '41'
-head: "[:36.]"
+head: scurrility
 entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0462/'>buffoonry</a>"
 index:
-item: "#item-df57c1fe1"
-unparsed: 'Type: Index|Insertion Xref: [:36.]|#item-df57c1fe1'
-line: 'Type: Index|Insertion Xref: [:36.]|#item-df57c1fe1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/783,1105,151,124/full/0/default.jpg
+item: "#item-26e0f5347"
+unparsed:
+line: 'Head: scurrility|See: buffoonry|#item-26e0f5347'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/886,3281,723,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277795428
-sort_value: '304111105'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241806571
+sort_value: '304123281'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/783,1105,151,124/150,/0/default.jpg
-label: "[:36.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/886,3281,723,172/150,/0/default.jpg
+label: scurrility
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4704/'>Salvation of Children
-  & Idiots</a>"
-order: '0759'
+order: '0803'
 layout: index_item
 collection: index4
 ---

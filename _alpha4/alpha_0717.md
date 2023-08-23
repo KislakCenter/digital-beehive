@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/alpha3/alpha_0512/'>Lasciviousness</a>|<a
   href='/digital-beehive/num4/num_1127/'>882 [Pleasure]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3042/'>pleasure</a>"
+index: "<a href='/digital-beehive/index4/index_2993/'>pleasure</a>"
 item: "#item-3209a6757"
 unparsed:
 line: 'Entry: Pleasure|Topic: Pleasure|Xref: Epicurism|Xref: Lasciviousness|Xref:

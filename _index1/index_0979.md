@@ -2,8 +2,8 @@
 pid: index_0979
 volume: Volume 3
 image_number: '16'
-head: decently
-entry: "<a href='/digital-beehive/num3/num_0844/'>624 [Handsomlyness]</a>"
+head: deliberation
+entry: "<a href='/digital-beehive/alpha1/alpha_0224/'>a</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-27c6f7303"
+item: "#item-d4c4d6de8"
 unparsed:
-line: 'Head: decently|Entry: 624 [Handsomlyness]|#item-27c6f7303'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/389,812,402,165/full/0/default.jpg
+line: 'Head: deliberation|Entry: a|#item-d4c4d6de8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/345,2953,514,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540570105331
-sort_value: '301610812'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507576923710
+sort_value: '301612953'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/389,812,402,165/150,/0/default.jpg
-label: decently
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/345,2953,514,92/150,/0/default.jpg
+label: deliberation
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: The meaning of the underlining in this entry cannot be determined.
-insertion_xref:
+issue:
 order: '0978'
 layout: index_item
 collection: index1

@@ -2,8 +2,8 @@
 pid: index_1958
 volume: Volume 3
 image_number: '25'
-head: "[:47.]"
-entry:
+head: incense
+entry: "<a href='/digital-beehive/num8/num_2793/'>1904 [Incense]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-62eccffee"
-unparsed: 'Type: Index|Insertion Xref: [:47.]|#item-62eccffee'
-line: 'Type: Index|Insertion Xref: [:47.]|#item-62eccffee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1441,712,130,119/full/0/default.jpg
+item: "#item-30b5be789"
+unparsed:
+line: 'Head: incense|Entry: 1904 [Incense]|#item-30b5be789'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1573,737,451,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198490302
-sort_value: '302520712'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670713555
+sort_value: '302530737'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1441,712,130,119/150,/0/default.jpg
-label: "[:47.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1573,737,451,117/150,/0/default.jpg
+label: incense
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4715/'>Em (or Im)bossing</a>"
-order: '040'
+order: '073'
 layout: index_item
 collection: index3
 ---

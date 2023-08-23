@@ -1,9 +1,9 @@
 ---
 pid: index_3478
 volume: Volume 3
-image_number: '40'
-head: sack
-entry: 4637 [PAGE_MISSING]
+image_number: '41'
+head: scabine
+entry: "<a href='/digital-beehive/alpha4/alpha_0837/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5c00da219"
+item: "#item-e43295dd5"
 unparsed:
-line: 'Head: sack|Entry: 4637 [PAGE_MISSING]|#item-5c00da219'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,1209,353,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234627074
-sort_value: '304031209'
+line: 'Head: scabine|Entry: a|#item-e43295dd5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/147,2775,388,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240038077
+sort_value: '304112775'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,1209,353,107/150,/0/default.jpg
-label: sack
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/147,2775,388,108/150,/0/default.jpg
+label: scabine
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0726'
+order: '0770'
 layout: index_item
 collection: index4
 ---

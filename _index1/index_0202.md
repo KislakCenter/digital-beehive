@@ -2,28 +2,27 @@
 pid: index_0202
 volume: Volume 3
 image_number: '8'
-head: aristaenetus
-entry: "<a href='/digital-beehive/num11/num_3500/'>4805 [Arist[ae]netus]</a>"
+head: arms. wappen o waffen
+entry: "<a href='/digital-beehive/num2/num_0282/'>257 [Arms]</a>"
 topic:
 first_letter: A
-page:
-add:
+page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
+add: Weapons
 xref:
 see:
 index:
-item: "#item-09d66c045"
+item: "#item-3795465ac"
 unparsed:
-line: 'Head: aristaenetus|Entry: 4805 [Arist[ae]netus]|#item-09d66c045'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1816,440,605,74/full/0/default.jpg
+line: 'Head: arms. wappen o waffen|Page: p.5 [Image 1.65]|Entry: 257 [Arms]|Add: Weapons|#item-3795465ac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1811,808,529,187/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491248304075
-sort_value: '300830440'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631294469
+sort_value: '300830808'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1816,440,605,74/150,/0/default.jpg
-label: aristaenetus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1811,808,529,187/150,/0/default.jpg
+label: arms. wappen o waffen
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0201'
 layout: index_item
 collection: index1

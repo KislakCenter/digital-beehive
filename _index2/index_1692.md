@@ -1,30 +1,29 @@
 ---
 pid: index_1692
 volume: Volume 3
-image_number: '22'
-head: grant
-entry:
+image_number: '23'
+head: guardian angels
+entry: "<a href='/digital-beehive/num9/num_3140/'>2196 [Guardian Angels]</a>"
 topic:
 first_letter: G
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1615/'>give</a>|<a href='/digital-beehive/index5/index_4648/'>yield</a>"
+see:
 index:
-item: "#item-21f11dd00"
+item: "#item-6dd319f91"
 unparsed:
-line: 'Head: grant|See: give|See: yield|#item-21f11dd00'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1852,2441,594,191/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053339704
-sort_value: '302232441'
+line: 'Head: guardian angels|Entry: 2196 [Guardian Angels]|#item-6dd319f91'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/182,2120,526,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232291881
+sort_value: '302312120'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1852,2441,594,191/150,/0/default.jpg
-label: grant
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/182,2120,526,163/150,/0/default.jpg
+label: guardian angels
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '511'
+order: '533'
 layout: index_item
 collection: index2
 ---

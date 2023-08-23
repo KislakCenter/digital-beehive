@@ -1,9 +1,9 @@
 ---
 pid: index_2707
 volume: Volume 3
-image_number: '32'
-head: nicolaitans
-entry: 1843 [PAGE_MISSING]
+image_number: '33'
+head: nymph[ae]
+entry: "<a href='/digital-beehive/num9/num_3059/'>2120 [Nymph[ae]]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b141e6e6a"
+item: "#item-9bbd1687f"
 unparsed:
-line: 'Head: nicolaitans|Entry: 1843 [PAGE_MISSING]|#item-b141e6e6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,3053,611,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560445616478
-sort_value: '303223053'
+line: 'Head: nymph[ae]|Entry: 2120 [Nymph[ae]]|#item-9bbd1687f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/147,1153,580,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536346624107
+sort_value: '303311153'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,3053,611,109/150,/0/default.jpg
-label: nicolaitans
-location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/147,1153,580,149/150,/0/default.jpg
+label: nymph[ae]
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '789'
+order: '822'
 layout: index_item
 collection: index3
 ---

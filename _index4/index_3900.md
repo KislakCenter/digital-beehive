@@ -2,8 +2,8 @@
 pid: index_3900
 volume: Volume 3
 image_number: '45'
-head: stick
-entry: 852 [PAGE_MISSING]
+head: substance
+entry: 732 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3338/'>2365 [Substance]</a>
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4d5ceaf13"
+item: "#item-6fbb46545"
 unparsed:
-line: 'Head: stick|Entry: 852 [PAGE_MISSING]|#item-4d5ceaf13'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/201,2166,342,100/full/0/default.jpg
+line: 'Head: substance|Entry: 732 [PAGE_MISSING]|Entry: 2365 [Substance]|#item-6fbb46545'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1598,1537,690,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530221206321
-sort_value: '304512166'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530468633494
+sort_value: '304531537'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/201,2166,342,100/150,/0/default.jpg
-label: stick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1598,1537,690,95/150,/0/default.jpg
+label: substance
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1148'
+order: '1192'
 layout: index_item
 collection: index4
 ---

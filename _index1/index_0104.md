@@ -2,9 +2,8 @@
 pid: index_0104
 volume: Volume 3
 image_number: '7'
-head: almanack
-entry: "<a href='/digital-beehive/alpha1/alpha_0021/'>a</a>|<a href='/digital-beehive/num6/num_1770/'>1275
-  [Almanack]</a>"
+head: almost Christians
+entry: "<a href='/digital-beehive/num6/num_2208/'>1498 [Almost Xstians]</a>"
 topic:
 first_letter: A
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-514fb4554"
+item: "#item-23d2b94f6"
 unparsed:
-line: 'Head: almanack|Entry: a|Entry: 1275 [Almanack]|#item-514fb4554'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1597,1912,568,129/full/0/default.jpg
+line: 'Head: almost Christians|Entry: 1498 [Almost Xstians]|#item-23d2b94f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1591,2100,532,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770090341
-sort_value: '300731912'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770305570
+sort_value: '300732100'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1597,1912,568,129/150,/0/default.jpg
-label: almanack
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1591,2100,532,133/150,/0/default.jpg
+label: almost Christians
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0103'
 layout: index_item
 collection: index1

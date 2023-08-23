@@ -2,8 +2,8 @@
 pid: index_3168
 volume: Volume 3
 image_number: '37'
-head: privy parts
-entry: "<a href='/digital-beehive/num2/num_0570/'>458 [Privy parts]</a>"
+head: psaltery
+entry: "<a href='/digital-beehive/num10/num_3312/'>2341 [Harp]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ce41a5f3c"
+item: "#item-1215dbd0d"
 unparsed:
-line: 'Head: privy parts|Entry: 458 [Privy parts]|#item-ce41a5f3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,936,441,121/full/0/default.jpg
+line: 'Head: psaltery|Entry: 2341 [Harp]|#item-1215dbd0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,3230,601,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867668788
-sort_value: '303720936'
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869815305
+sort_value: '303733230'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,936,441,121/150,/0/default.jpg
-label: privy parts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,3230,601,124/150,/0/default.jpg
+label: psaltery
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0416'
+order: '0460'
 layout: index_item
 collection: index4
 ---

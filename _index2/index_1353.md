@@ -1,31 +1,32 @@
 ---
 pid: index_1353
 volume: Volume 3
-image_number: '19'
-head: experience
-entry: "<a href='/digital-beehive/alpha2/alpha_0303/'>a</a>|<a href='/digital-beehive/num6/num_1899/'>1345
-  [Experience]</a>"
+image_number: '20'
+head: failings of Saints
+entry: "<a href='/digital-beehive/num4/num_1276/'>956 [Failings of good men]</a>|<a
+  href='/digital-beehive/num5/num_1642/'>1203 [Fault]</a>|<a href='/digital-beehive/num9/num_3195/'>2248
+  [Church of England]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-268299e97"
+item: "#item-9cb741fc4"
 unparsed:
-line: 'Head: experience|Entry: a|Entry: 1345 [Experience]|#item-268299e97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1515,1485,713,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561045656937
-sort_value: '301931485'
+line: 'Head: failings of Saints|Entry: 956 [Failings of good men]|Entry: 1203 [Fault]|Entry:
+  2248 [Church of England]|#item-9cb741fc4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/364,485,834,167/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561399680699
+sort_value: '302010485'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1515,1485,713,137/150,/0/default.jpg
-label: experience
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/364,485,834,167/150,/0/default.jpg
+label: failings of Saints
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '172'
+order: '194'
 layout: index_item
 collection: index2
 ---

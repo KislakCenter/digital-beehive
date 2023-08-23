@@ -2,8 +2,8 @@
 pid: index_0063
 volume: Volume 3
 image_number: '7'
-head: "[:2.]"
-entry:
+head: afternoon
+entry: 765 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,20 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d8eeffd36"
-unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-d8eeffd36'
-line: 'Type: Index|Insertion Xref: [:2.]|#item-d8eeffd36'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1480,1894,128,68/full/0/default.jpg
+item: "#item-f925cf6ba"
+unparsed:
+line: 'Head: afternoon|Entry: 765 [PAGE_MISSING]|#item-f925cf6ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/901,2102,544,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558888490390
-sort_value: '300721894'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766680838
+sort_value: '300722102'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1480,1894,128,68/150,/0/default.jpg
-label: "[:2.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/901,2102,544,128/150,/0/default.jpg
+label: afternoon
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>to scare, affright,
-  or fright</a>|<a href='/digital-beehive/index5/index_4665/'>fringes</a>"
 order: '0062'
 layout: index_item
 collection: index1

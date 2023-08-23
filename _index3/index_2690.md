@@ -2,8 +2,8 @@
 pid: index_2690
 volume: Volume 3
 image_number: '32'
-head: nevertheless
-entry: 857 [PAGE_MISSING]|<a href='/digital-beehive/num4/num_1297/'>973 [Not withstanding]</a>
+head: notary
+entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3d22f323f"
+item: "#item-8d448ea85"
 unparsed:
-line: 'Head: nevertheless|Entry: 857 [PAGE_MISSING]|Entry: 973 [Not withstanding]|#item-3d22f323f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1145,1256,645,137/full/0/default.jpg
+line: 'Head: notary|Entry: 260 [Scribe or publick Notary]|#item-8d448ea85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2256,419,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442162372
-sort_value: '303221256'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449359856
+sort_value: '303232256'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1145,1256,645,137/150,/0/default.jpg
-label: nevertheless
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2256,419,129/150,/0/default.jpg
+label: notary
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '772'
+order: '805'
 layout: index_item
 collection: index3
 ---

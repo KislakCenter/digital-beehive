@@ -2,8 +2,10 @@
 pid: index_1882
 volume: Volume 3
 image_number: '24'
-head: hostage
-entry: "<a href='/digital-beehive/num9/num_3000/'>2065 [To give Hostage]</a>"
+head: hypocrisy
+entry: "<a href='/digital-beehive/alpha2/alpha_0444/'>a</a>|<a href='/digital-beehive/num5/num_1490/'>1100
+  [Hypocrisy]</a>|<a href='/digital-beehive/num7/num_2307/'>1549 [Hypocrisy]</a>|<a
+  href='/digital-beehive/num8/num_2906/'>1975 [Hypocrisie]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-a7a20c7f4"
+item: "#item-973126bdd"
 unparsed:
-line: 'Head: hostage|Entry: 2065 [To give Hostage]|#item-a7a20c7f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1865,213,535,113/full/0/default.jpg
+line: 'Head: hypocrisy|Entry: a|Entry: 1100 [Hypocrisy]|Entry: 1549 [Hypocrisy]|Entry:
+  1975 [Hypocrisie]|#item-973126bdd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1852,3265,681,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584828663
-sort_value: '302430213'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559589022131
+sort_value: '302433265'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1865,213,535,113/150,/0/default.jpg
-label: hostage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1852,3265,681,172/150,/0/default.jpg
+label: hypocrisy
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '701'
+order: '723'
 layout: index_item
 collection: index2
 ---

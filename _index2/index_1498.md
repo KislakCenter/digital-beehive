@@ -2,30 +2,28 @@
 pid: index_1498
 volume: Volume 3
 image_number: '21'
-head: forbearance
-entry: "<a href='/digital-beehive/alpha2/alpha_0341/'>a</a>|<a href='/digital-beehive/num7/num_2562/'>1669
-  [Forbearance]</a>"
+head: to foster
+entry:
 topic:
 first_letter: F
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3909/'>suck</a>"
 index:
-item: "#item-da9c660ec"
+item: "#item-a6dae9385"
 unparsed:
-line: 'Head: forbearance|Entry: a|Entry: 1669 [Forbearance]|#item-da9c660ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/160,1626,681,131/full/0/default.jpg
+line: 'Head: to foster|See: suck|#item-a6dae9385'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/893,696,632,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508355105878
-sort_value: '302111626'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531763030417
+sort_value: '302120696'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/160,1626,681,131/150,/0/default.jpg
-label: forbearance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/893,696,632,99/150,/0/default.jpg
+label: to foster
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '317'
+order: '339'
 layout: index_item
 collection: index2
 ---

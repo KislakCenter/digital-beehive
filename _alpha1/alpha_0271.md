@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1853/'>1322 [Mamuts Valet]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1177/'>dwarf</a>"
+index: "<a href='/digital-beehive/index1/index_1155/'>dwarf</a>"
 item: "#item-3b6571f85"
 unparsed:
 line: 'Entry: Dwarf|Topic: Dwarf|Xref: 1322 [Mamuts Valet]|Index: dwarf|#item-3b6571f85'

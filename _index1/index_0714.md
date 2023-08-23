@@ -2,8 +2,8 @@
 pid: index_0714
 volume: Volume 3
 image_number: '13'
-head: coffee
-entry: "<a href='/digital-beehive/num6/num_1901/'>1346 [Coffee : Tea : Chocolate]</a>"
+head: come on!
+entry: 4560 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-7bcfcd62f"
+item: "#item-949460883"
 unparsed:
-line: 'Head: coffee|Entry: 1346 [Coffee : Tea : Chocolate]|#item-7bcfcd62f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/848,2945,399,178/full/0/default.jpg
+line: 'Head: come on!|Entry: 4560 [PAGE_MISSING]|#item-949460883'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1656,1004,512,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608802064
-sort_value: '301322945'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610452369
+sort_value: '301331004'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/848,2945,399,178/150,/0/default.jpg
-label: coffee
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1656,1004,512,110/150,/0/default.jpg
+label: come on!
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0713'
 layout: index_item
 collection: index1

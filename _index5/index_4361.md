@@ -1,30 +1,29 @@
 ---
 pid: index_4361
 volume: Volume 3
-image_number: '50'
-head: unchangeable
-entry:
+image_number: '51'
+head: vomit
+entry: "<a href='/digital-beehive/num2/num_0341/'>301 [Vomit]</a>"
 topic:
 first_letter: U/V
-page:
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4354/'>unalt</a>"
+see:
 index:
-item: "#item-edf576c4c"
+item: "#item-52bb0bf8e"
 unparsed:
-line: 'Head: unchangeable|See: unalt|#item-edf576c4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/483,1595,685,161/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872545875
-sort_value: '305011595'
+line: 'Head: vomit|Page: p.42 [Image 1.102]|Entry: 301 [Vomit]|#item-52bb0bf8e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/224,3180,506,185/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646052903
+sort_value: '305113180'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/483,1595,685,161/150,/0/default.jpg
-label: unchangeable
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/224,3180,506,185/150,/0/default.jpg
+label: vomit
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '323'
+order: '384'
 layout: index_item
 collection: index5
 ---

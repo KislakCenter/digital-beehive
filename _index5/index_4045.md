@@ -1,30 +1,29 @@
 ---
 pid: index_4045
 volume: Volume 3
-image_number: '46'
-head: tail
-entry: "<a href='/digital-beehive/num3/num_0733/'>573 [a Tail]</a>"
+image_number: '47'
+head: thee & thou
+entry: "<a href='/digital-beehive/num7/num_2236/'>1512 [Thee & thou]</a>"
 topic:
 first_letter: T
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4066/'>thouing</a>"
 index:
-item: "#item-fd1f350c3"
+item: "#item-d670cb381"
 unparsed:
-line: 'Head: tail|Entry: 573 [a Tail]|#item-fd1f350c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1792,896,438,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564498397016
-sort_value: '304630896'
+line: 'Head: thee & thou|See: thouing|Entry: 1512 [Thee & thou]|#item-d670cb381'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/885,774,744,165/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294327005
+sort_value: '304720774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1792,896,438,145/150,/0/default.jpg
-label: tail
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/885,774,744,165/150,/0/default.jpg
+label: thee & thou
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '007'
+order: '068'
 layout: index_item
 collection: index5
 ---

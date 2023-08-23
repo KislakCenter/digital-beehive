@@ -2,29 +2,28 @@
 pid: index_1772
 volume: Volume 3
 image_number: '23'
-head: hawk
-entry: "<a href='/digital-beehive/num6/num_1912/'>1351 [a Kite : a Hawk]</a>"
+head: Henry VIII. K. of E
+entry: 1838 [PAGE_MISSING]
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-1ac2fb880"
+item: "#item-6f6e14478"
 unparsed:
-line: 'Head: hawk|Page: p.35 [Image 1.95]|Entry: 1351 [a Kite : a Hawk]|#item-1ac2fb880'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/811,3419,510,155/full/0/default.jpg
+line: 'Head: Henry VIII. K. of E|Entry: 1838 [PAGE_MISSING]|#item-6f6e14478'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1517,2944,543,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241902040
-sort_value: '302323419'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571979960
+sort_value: '302332944'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/811,3419,510,155/150,/0/default.jpg
-label: hawk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1517,2944,543,86/150,/0/default.jpg
+label: Henry VIII. K. of E
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '591'
+order: '613'
 layout: index_item
 collection: index2
 ---

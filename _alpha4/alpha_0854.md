@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1109/'>874 [Self hatred]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3617/'>Self hatred</a>"
+index: "<a href='/digital-beehive/index4/index_3561/'>Self hatred</a>"
 item: "#item-e1efa3c08"
 unparsed:
 line: 'Entry: Self hatred|Topic: Self hatred|Xref: 874 [Self hatred]|Index: Self hatred|#item-e1efa3c08'

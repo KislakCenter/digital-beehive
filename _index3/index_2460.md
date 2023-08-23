@@ -2,8 +2,8 @@
 pid: index_2460
 volume: Volume 3
 image_number: '30'
-head: measels
-entry: "<a href='/digital-beehive/num8/num_2862/'>1939 [Measels]</a>"
+head: metaphysicks
+entry: "<a href='/digital-beehive/alpha3/alpha_0593/'>a</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-75491b0ba"
+item: "#item-37b2da10d"
 unparsed:
-line: 'Head: measels|Entry: 1939 [Measels]|#item-75491b0ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/416,3075,460,125/full/0/default.jpg
+line: 'Head: metaphysicks|Entry: a|#item-37b2da10d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,539,506,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265925006
-sort_value: '303013075'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273473683
+sort_value: '303030539'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/416,3075,460,125/150,/0/default.jpg
-label: measels
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,539,506,147/150,/0/default.jpg
+label: metaphysicks
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '542'
+order: '575'
 layout: index_item
 collection: index3
 ---

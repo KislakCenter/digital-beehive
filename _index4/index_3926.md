@@ -1,30 +1,31 @@
 ---
 pid: index_3926
 volume: Volume 3
-image_number: '45'
-head: strange
-entry: "<a href='/digital-beehive/alpha4/alpha_0920/'>a</a>|4579 [PAGE_MISSING]"
+image_number: '46'
+head: sundials
+entry:
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/digital-beehive/toc/toc1_053/'>p.3
+  [Image 1.63]</a>|<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-501e16a4e"
+item: "#item-37fc08b10"
 unparsed:
-line: 'Head: strange|Entry: a|Entry: 4579 [PAGE_MISSING]|#item-501e16a4e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/894,1266,570,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290702643
-sort_value: '304521266'
+line: 'Head: sundials|Page: p.2 [Image 1.62]|Page: p.3 [Image 1.63]|Page: p.39 [Image
+  1.99]|#item-37fc08b10'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/426,1266,537,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473197541
+sort_value: '304611266'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/894,1266,570,139/150,/0/default.jpg
-label: strange
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/426,1266,537,125/150,/0/default.jpg
+label: sundials
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1174'
+order: '1218'
 layout: index_item
 collection: index4
 ---

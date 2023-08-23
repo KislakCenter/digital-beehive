@@ -2,10 +2,8 @@
 pid: index_1942
 volume: Volume 3
 image_number: '25'
-head: Jews
-entry: "<a href='/digital-beehive/alpha3/alpha_0453/'>a</a>|<a href='/digital-beehive/num3/num_0719/'>564
-  [Jews]</a>|<a href='/digital-beehive/num6/num_2193/'>1487 [Jews]</a>|<a href='/digital-beehive/num9/num_2962/'>2027
-  [Jew]</a>"
+head: imprecation
+entry: "<a href='/digital-beehive/num5/num_1455/'>1078 [Curse]</a>"
 topic:
 first_letter: I/J
 page:
@@ -13,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-35a8c43a3"
+item: "#item-cc259d673"
 unparsed:
-line: 'Head: Jews|Entry: a|Entry: 564 [Jews]|Entry: 1487 [Jews]|Entry: 2027 [Jew]|#item-35a8c43a3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/160,2389,675,105/full/0/default.jpg
+line: 'Head: imprecation|Entry: 1078 [Curse]|#item-cc259d673'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/866,2412,544,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661442705
-sort_value: '302512389'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667055440
+sort_value: '302522412'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/160,2389,675,105/150,/0/default.jpg
-label: Jews
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/866,2412,544,119/150,/0/default.jpg
+label: imprecation
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '024'
+order: '057'
 layout: index_item
 collection: index3
 ---

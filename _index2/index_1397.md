@@ -2,30 +2,29 @@
 pid: index_1397
 volume: Volume 3
 image_number: '20'
-head: famine
-entry: "<a href='/digital-beehive/num3/num_1036/'>710 [Hunger]</a>|<a href='/digital-beehive/num9/num_3032/'>2095
-  [Hunger]</a>"
+head: fear of death
+entry: "<a href='/digital-beehive/num5/num_1701/'>1234 [Fear & Contempt of Death]</a>|4605
+  [PAGE_MISSING]"
 topic:
 first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1905/'>hunger</a>"
+see:
 index:
-item: "#item-bcf36dddd"
+item: "#item-5a886f50b"
 unparsed:
-line: 'Head: famine|See: hunger|Entry: 710 [Hunger]|Entry: 2095 [Hunger]|#item-bcf36dddd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/381,2515,756,194/full/0/default.jpg
+line: 'Head: fear of death|Entry: 1234 [Fear & Contempt of Death]|Entry: 4605 [PAGE_MISSING]|#item-5a886f50b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1144,1166,719,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658293462
-sort_value: '302012515'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562183762763
+sort_value: '302021166'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/381,2515,756,194/150,/0/default.jpg
-label: famine
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1144,1166,719,158/150,/0/default.jpg
+label: fear of death
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '216'
+order: '238'
 layout: index_item
 collection: index2
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_2395
 volume: Volume 3
-image_number: '29'
-head: malabaria
-entry: "<a href='/digital-beehive/num6/num_2153/'>1465 [Malabarians]</a>"
+image_number: '30'
+head: martial discipline
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4405/'>war</a>"
 index:
-item: "#item-b95e73c64"
+item: "#item-c8bb7cbb6"
 unparsed:
-line: 'Head: malabaria|Entry: 1465 [Malabarians]|#item-b95e73c64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1546,710,513,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194050155
-sort_value: '302930710'
+line: 'Head: martial discipline|See: war|#item-c8bb7cbb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/397,836,739,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263371644
+sort_value: '303010836'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1546,710,513,114/150,/0/default.jpg
-label: malabaria
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/397,836,739,145/150,/0/default.jpg
+label: martial discipline
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '477'
+order: '510'
 layout: index_item
 collection: index3
 ---

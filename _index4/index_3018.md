@@ -1,9 +1,9 @@
 ---
 pid: index_3018
 volume: Volume 3
-image_number: '35'
-head: pipe
-entry: 768 [PAGE_MISSING]
+image_number: '36'
+head: pomp
+entry: 781 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-25a2b555a"
+item: "#item-29ab169bf"
 unparsed:
-line: 'Head: pipe|Entry: 768 [PAGE_MISSING]|#item-25a2b555a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1527,1920,432,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976729314
-sort_value: '303531920'
+line: 'Head: pomp|Entry: 781 [PAGE_MISSING]|#item-29ab169bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/391,3468,518,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438134463
+sort_value: '303613468'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1527,1920,432,116/150,/0/default.jpg
-label: pipe
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/391,3468,518,134/150,/0/default.jpg
+label: pomp
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0266'
+order: '0310'
 layout: index_item
 collection: index4
 ---

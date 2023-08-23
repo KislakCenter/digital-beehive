@@ -1,10 +1,9 @@
 ---
 pid: index_4065
 volume: Volume 3
-image_number: '46'
-head: taste
-entry: "<a href='/digital-beehive/num1/num_0163/'>156 [Taste]</a>|<a href='/digital-beehive/num9/num_3040/'>2103
-  [Taste]</a>"
+image_number: '47'
+head: thoughts governmt of th
+entry: "<a href='/digital-beehive/num6/num_1812/'>1297 [Governmt of thoughts]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-dec46a4da"
+item: "#item-b8556be97"
 unparsed:
-line: 'Head: taste|Entry: 156 [Taste]|Entry: 2103 [Taste]|#item-dec46a4da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1829,3108,470,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743716167
-sort_value: '304633108'
+line: 'Head: thoughts governmt of th|Entry: 1297 [Governmt of thoughts]|#item-b8556be97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/855,2759,722,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532876472460
+sort_value: '304722759'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1829,3108,470,103/150,/0/default.jpg
-label: taste
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/855,2759,722,158/150,/0/default.jpg
+label: thoughts governmt of th
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '027'
+order: '088'
 layout: index_item
 collection: index5
 ---

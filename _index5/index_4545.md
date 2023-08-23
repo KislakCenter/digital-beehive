@@ -1,10 +1,9 @@
 ---
 pid: index_4545
 volume: Volume 3
-image_number: '52'
-head: widowhood
-entry: "<a href='/digital-beehive/alpha5/alpha_1038/'>a</a>|<a href='/digital-beehive/num7/num_2444/'>1615
-  [Widow]</a>"
+image_number: '53'
+head: workmen
+entry: 4608 [PAGE_MISSING]
 topic:
 first_letter: W
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d9a51351a"
+item: "#item-05ad5f6c9"
 unparsed:
-line: 'Head: widowhood|Entry: a|Entry: 1615 [Widow]|#item-d9a51351a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1763,1634,652,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972015564
-sort_value: '305231634'
+line: 'Head: workmen|Entry: 4608 [PAGE_MISSING]|#item-05ad5f6c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,2830,536,88/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797276353
+sort_value: '305322830'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1763,1634,652,135/150,/0/default.jpg
-label: widowhood
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,2830,536,88/150,/0/default.jpg
+label: workmen
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '507'
+order: '568'
 layout: index_item
 collection: index5
 ---

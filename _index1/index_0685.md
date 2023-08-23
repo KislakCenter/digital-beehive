@@ -2,8 +2,8 @@
 pid: index_0685
 volume: Volume 3
 image_number: '13'
-head: to cleanse
-entry: "<a href='/digital-beehive/num3/num_0907/'>659 [Purge]</a>"
+head: cloke
+entry: "<a href='/digital-beehive/alpha1/alpha_0154/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-829be16b8"
+item: "#item-721e9956a"
 unparsed:
-line: 'Head: to cleanse|Entry: 659 [Purge]|#item-829be16b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/full/0/default.jpg
+line: 'Head: cloke|Entry: a|#item-721e9956a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/856,1493,376,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536333738126
-sort_value: '301313399'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536607015431
+sort_value: '301321493'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/150,/0/default.jpg
-label: to cleanse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/856,1493,376,138/150,/0/default.jpg
+label: cloke
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0684'
 layout: index_item
 collection: index1

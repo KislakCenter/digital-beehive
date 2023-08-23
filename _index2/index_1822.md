@@ -2,8 +2,9 @@
 pid: index_1822
 volume: Volume 3
 image_number: '24'
-head: Hesiodus
-entry: 823 [PAGE_MISSING]
+head: holiness
+entry: "<a href='/digital-beehive/alpha2/alpha_0427/'>a</a>|<a href='/digital-beehive/num4/num_1322/'>990
+  [Holiness]</a>|<a href='/digital-beehive/num9/num_2960/'>2025 [Holiness]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3eaee79a8"
+item: "#item-24ad8915e"
 unparsed:
-line: 'Head: Hesiodus|Entry: 823 [PAGE_MISSING]|#item-3eaee79a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/418,1029,466,145/full/0/default.jpg
+line: 'Head: holiness|Entry: a|Entry: 990 [Holiness]|Entry: 2025 [Holiness]|#item-24ad8915e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1147,1212,541,191/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575516313
-sort_value: '302411029'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582176530
+sort_value: '302421212'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/418,1029,466,145/150,/0/default.jpg
-label: Hesiodus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1147,1212,541,191/150,/0/default.jpg
+label: holiness
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '641'
+order: '663'
 layout: index_item
 collection: index2
 ---

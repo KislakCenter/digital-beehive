@@ -2,32 +2,31 @@
 pid: index_1284
 volume: Volume 3
 image_number: '19'
-head: epitaphs
-entry: "<a href='/digital-beehive/alpha2/alpha_0290/'>a</a>|<a href='/digital-beehive/num1/num_0265/'>245
-  [Epitaphs]</a>|<a href='/digital-beehive/num6/num_2154/'>1466 [Epitaphs]</a>"
+head: eternity
+entry: "<a href='/digital-beehive/alpha2/alpha_0296/'>a</a>|<a href='/digital-beehive/num5/num_1554/'>1142
+  [Eternity]</a>|<a href='/digital-beehive/num10/num_3331/'>2358 [Eternity]</a>|<a
+  href='/digital-beehive/num10/num_3460/'>4474 [Eternity]</a>"
 topic:
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_061/'>p.11 [Image 1.71]</a>|<a href='/digital-beehive/toc/toc1_075/'>p.25
-  [Image 1.85]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-f1c99f7be"
+item: "#item-33b54bb52"
 unparsed:
-line: 'Head: epitaphs|Page: p.11 [Image 1.71]|Page: p.25 [Image 1.85]|Entry: a|Entry:
-  245 [Epitaphs]|Entry: 1466 [Epitaphs]|#item-f1c99f7be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/146,976,582,187/full/0/default.jpg
+line: 'Head: eternity|Entry: a|Entry: 1142 [Eternity]|Entry: 2358 [Eternity]|Entry:
+  4474 [Eternity]|#item-33b54bb52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/874,391,683,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843824080
-sort_value: '301910976'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350271184
+sort_value: '301920391'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/146,976,582,187/150,/0/default.jpg
-label: epitaphs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/874,391,683,143/150,/0/default.jpg
+label: eternity
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '103'
+order: '125'
 layout: index_item
 collection: index2
 ---

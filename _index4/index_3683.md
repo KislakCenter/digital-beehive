@@ -1,10 +1,9 @@
 ---
 pid: index_3683
 volume: Volume 3
-image_number: '42'
-head: shooting
-entry: "<a href='/digital-beehive/alpha4/alpha_0873/'>a</a>|<a href='/digital-beehive/num7/num_2264/'>1526
-  [Shooting]</a>"
+image_number: '43'
+head: skillfully
+entry: "<a href='/digital-beehive/num8/num_2712/'>1780 [Expert]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2480e53da"
+item: "#item-9339cd36d"
 unparsed:
-line: 'Head: shooting|Entry: a|Entry: 1526 [Shooting]|#item-2480e53da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1805,2063,598,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576294122
-sort_value: '304232063'
+line: 'Head: skillfully|Entry: 1780 [Expert]|#item-9339cd36d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/879,1513,515,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583392589
+sort_value: '304321513'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1805,2063,598,130/150,/0/default.jpg
-label: shooting
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/879,1513,515,102/150,/0/default.jpg
+label: skillfully
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0931'
+order: '0975'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0702/'>Perfection</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2954/'>perfection</a>"
+index: "<a href='/digital-beehive/index4/index_2907/'>perfection</a>"
 item: "#item-13966475b"
 unparsed:
 line: 'Entry: Perfection, continued|Topic: Perfection, continued|Xref: Perfection|Index:

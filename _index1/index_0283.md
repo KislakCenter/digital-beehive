@@ -2,9 +2,8 @@
 pid: index_0283
 volume: Volume 3
 image_number: '9'
-head: banishmt
-entry: "<a href='/digital-beehive/alpha1/alpha_0055/'>a</a>|<a href='/digital-beehive/num5/num_1612/'>1182
-  [Banishment]</a>"
+head: barbadoes
+entry: "<a href='/digital-beehive/num7/num_2235/'>1512 [Barbadoes]</a>"
 topic:
 first_letter: B
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-f176acf71"
+item: "#item-b8a8f5bee"
 unparsed:
-line: 'Head: banishmt|Entry: a|Entry: 1182 [Banishment]|#item-f176acf71'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/893,1423,603,123/full/0/default.jpg
+line: 'Head: barbadoes|Entry: 1512 [Barbadoes]|#item-b8a8f5bee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/881,2307,501,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505404051718
-sort_value: '300921423'
+annotation_uri: http://dev.llgc.org.uk/annotation/1505404927996
+sort_value: '300922307'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/893,1423,603,123/150,/0/default.jpg
-label: banishmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/881,2307,501,113/150,/0/default.jpg
+label: barbadoes
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0282'
 layout: index_item
 collection: index1

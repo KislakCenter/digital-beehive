@@ -2,8 +2,9 @@
 pid: index_1311
 volume: Volume 3
 image_number: '19'
-head: etymology
-entry: "<a href='/digital-beehive/num2/num_0281/'>256 [Allusions]</a>"
+head: exclamation
+entry: "<a href='/digital-beehive/num2/num_0385/'>333 [Exclam[m]ations or Interjections]</a>|4645
+  [PAGE_MISSING]"
 topic:
 first_letter: E
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-76f911c27"
+item: "#item-c6579c41c"
 unparsed:
-line: 'Head: etymology|Entry: 256 [Allusions]|#item-76f911c27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/863,716,539,163/full/0/default.jpg
+line: 'Head: exclamation|Entry: 333 [Exclam[m]ations or Interjections]|Entry: 4645
+  [PAGE_MISSING]|#item-c6579c41c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/825,3224,746,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350908478
-sort_value: '301920716'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361206469
+sort_value: '301923224'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/863,716,539,163/150,/0/default.jpg
-label: etymology
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/825,3224,746,123/150,/0/default.jpg
+label: exclamation
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '130'
+order: '152'
 layout: index_item
 collection: index2
 ---

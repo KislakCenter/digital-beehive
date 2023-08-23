@@ -1,9 +1,9 @@
 ---
 pid: index_1149
 volume: Volume 3
-image_number: '17'
-head: to drieshave
-entry: "<a href='/digital-beehive/num3/num_1048/'>714 [to rid one of his money]</a>"
+image_number: '18'
+head: durable
+entry: "<a href='/digital-beehive/num9/num_2937/'>2002 [Lasting]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-32157ee40"
+item: "#item-5c4475cca"
 unparsed:
-line: 'Head: to drieshave|Entry: 714 [to rid one of his money]|#item-32157ee40'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1507,2011,600,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452565433
-sort_value: '301732011'
+line: 'Head: durable|Entry: 2002 [Lasting]|#item-5c4475cca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/431,886,519,81/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559663879808
+sort_value: '301810886'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1507,2011,600,126/150,/0/default.jpg
-label: to drieshave
-location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/431,886,519,81/150,/0/default.jpg
+label: durable
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1148'
 layout: index_item
 collection: index1

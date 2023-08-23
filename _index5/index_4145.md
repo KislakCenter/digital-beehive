@@ -1,9 +1,10 @@
 ---
 pid: index_4145
 volume: Volume 3
-image_number: '47'
-head: Tiberius C[ae]sar
-entry: "<a href='/digital-beehive/num10/num_3334/'>2361 [Tiberius C[ae]sar]</a>"
+image_number: '48'
+head: trade
+entry: "<a href='/digital-beehive/alpha5/alpha_0977/'>a</a>|<a href='/digital-beehive/num3/num_0860/'>634
+  [Trade]</a>|<a href='/digital-beehive/num8/num_2931/'>1997 [Trade]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-540048bd6"
+item: "#item-4db18ceec"
 unparsed:
-line: 'Head: Tiberius C[ae]sar|Entry: 2361 [Tiberius C[ae]sar]|#item-540048bd6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1543,1164,686,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278736806
-sort_value: '304731164'
+line: 'Head: trade|Entry: a|Entry: 634 [Trade]|Entry: 1997 [Trade]|#item-4db18ceec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1117,1263,622,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561484773263
+sort_value: '304821263'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1543,1164,686,109/150,/0/default.jpg
-label: Tiberius C[ae]sar
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1117,1263,622,121/150,/0/default.jpg
+label: trade
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '107'
+order: '168'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,28 @@
 pid: index_3229
 volume: Volume 3
 image_number: '38'
-head: punning
-entry: 4569 [PAGE_MISSING]
+head: radish
+entry: "<a href='/digital-beehive/num3/num_0990/'>691 [Radishes]</a>"
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-146f7f94a"
+item: "#item-c6e07356d"
 unparsed:
-line: 'Head: punning|Entry: 4569 [PAGE_MISSING]|#item-146f7f94a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/424,1255,600,115/full/0/default.jpg
+line: 'Head: radish|Entry: 691 [Radishes]|#item-c6e07356d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,2880,412,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452109875
-sort_value: '303811255'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558459550161
+sort_value: '303822880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/424,1255,600,115/150,/0/default.jpg
-label: punning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,2880,412,134/150,/0/default.jpg
+label: radish
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0477'
+order: '0521'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0135/'>Celibate</a>|<a href='/digital-beehive/alpha1/alpha_0139/'>Chastity</a>|<a
   href='/digital-beehive/num9/num_2943/'>2008 [Virgins]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4341/'>virginity</a>"
+index: "<a href='/digital-beehive/index5/index_4272/'>virginity</a>"
 item: "#item-d23541ad7"
 unparsed:
 line: 'Entry: Virginity|Topic: Virginity|Xref: Celibate|Xref: Chastity|Xref: 2008

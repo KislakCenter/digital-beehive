@@ -1,30 +1,29 @@
 ---
 pid: index_4625
 volume: Volume 3
-image_number: '53'
-head: worthiness
-entry: "<a href='/digital-beehive/alpha5/alpha_1066/'>a</a>"
+image_number: '54'
+head: pindar
+entry: 4653 [PAGE_MISSING]
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4b82e3fd9"
+item: "#item-27f2f0b77"
 unparsed:
-line: 'Head: worthiness|Entry: a|#item-4b82e3fd9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1598,269,481,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798355013
-sort_value: '305330269'
+line: 'Type: Index|Insertion: [:31.]|Head: pindar|Entry: 4653 [PAGE_MISSING]|#item-27f2f0b77'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1068,1230,417,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954273637
+sort_value: '305421230'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1598,269,481,123/150,/0/default.jpg
-label: worthiness
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1068,1230,417,109/150,/0/default.jpg
+label: pindar
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '587'
+order: '648'
 layout: index_item
 collection: index5
 ---

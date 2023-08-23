@@ -10,7 +10,7 @@ page:
 add:
 xref: 753 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index4/index_3176/'>prodigality</a>"
+index: "<a href='/digital-beehive/index4/index_3126/'>prodigality</a>"
 item: "#item-fd5f35404"
 unparsed:
 line: 'Entry: Prodigality|Topic: Prodigality|Xref: 753 [PAGE_MISSING]|Index: prodigality|#item-fd5f35404'

@@ -1,9 +1,9 @@
 ---
 pid: index_2314
 volume: Volume 3
-image_number: '28'
-head: liver
-entry: "<a href='/digital-beehive/num3/num_0774/'>595 [Liver]</a>"
+image_number: '29'
+head: lovers leap
+entry: 4714 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5de36d4e4"
+item: "#item-d870ef2e6"
 unparsed:
-line: 'Head: liver|Entry: 595 [Liver]|#item-5de36d4e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1816,2647,350,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849906386
-sort_value: '302832647'
+line: 'Head: lovers leap|Entry: 4714 [PAGE_MISSING]|#item-d870ef2e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,2848,569,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180162139
+sort_value: '302912848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1816,2647,350,116/150,/0/default.jpg
-label: liver
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,2848,569,122/150,/0/default.jpg
+label: lovers leap
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '396'
+order: '429'
 layout: index_item
 collection: index3
 ---

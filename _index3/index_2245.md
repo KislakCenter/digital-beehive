@@ -2,29 +2,28 @@
 pid: index_2245
 volume: Volume 3
 image_number: '28'
-head: lechery
-entry:
+head: lie given
+entry: "<a href='/digital-beehive/num8/num_2930/'>1996 [Lie given]</a>"
 topic:
 first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0938/'>dainty</a>"
+see:
 index:
-item: "#item-7a66f2665"
+item: "#item-53b9b2f6a"
 unparsed:
-line: 'Head: lechery|See: dainty|#item-7a66f2665'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/379,2860,574,168/full/0/default.jpg
+line: 'Head: lie given|Entry: 1996 [Lie given]|#item-53b9b2f6a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,2724,471,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842576721
-sort_value: '302812860'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846677159
+sort_value: '302822724'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/379,2860,574,168/150,/0/default.jpg
-label: lechery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,2724,471,112/150,/0/default.jpg
+label: lie given
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '327'
+order: '360'
 layout: index_item
 collection: index3
 ---

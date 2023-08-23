@@ -2,28 +2,27 @@
 pid: index_0995
 volume: Volume 3
 image_number: '16'
-head: dehorta[ti]on
-entry:
+head: to deprehend
+entry: "<a href='/digital-beehive/num3/num_1018/'>702 [To deprehend]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1100/'>diswasion</a>"
+see:
 index:
-item: "#item-21ec01a1a"
+item: "#item-de6b456e8"
 unparsed:
-line: 'Head: dehorta[ti]on|See: diswasion|#item-21ec01a1a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/343,2685,705,120/full/0/default.jpg
+line: 'Head: to deprehend|Entry: 702 [To deprehend]|#item-de6b456e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1127,1326,610,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572601442
-sort_value: '301612685'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541604790161
+sort_value: '301621326'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/343,2685,705,120/150,/0/default.jpg
-label: dehorta[ti]on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1127,1326,610,133/150,/0/default.jpg
+label: to deprehend
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0994'
 layout: index_item
 collection: index1

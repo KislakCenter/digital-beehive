@@ -1,11 +1,9 @@
 ---
 pid: index_2222
 volume: Volume 3
-image_number: '27'
-head: Law
-entry: "<a href='/digital-beehive/alpha3/alpha_0523/'>a</a>|<a href='/digital-beehive/num4/num_1324/'>991
-  [Law]</a>|<a href='/digital-beehive/num7/num_2631/'>1707 [Law inwardly engraven]</a>|<a
-  href='/digital-beehive/num8/num_2901/'>1972 [Laws]</a>"
+image_number: '28'
+head: less
+entry: "<a href='/digital-beehive/num3/num_0899/'>653 [Less]</a>"
 topic:
 first_letter: L
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-048500050"
+item: "#item-c2a0a9073"
 unparsed:
-line: 'Head: Law|Entry: a|Entry: 991 [Law]|Entry: 1707 [Law inwardly engraven]|Entry:
-  1972 [Laws]|#item-048500050'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1513,3350,709,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837231971
-sort_value: '302733350'
+line: 'Head: less|Entry: 653 [Less]|#item-c2a0a9073'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1145,510,314,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844232234
+sort_value: '302820510'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1513,3350,709,154/150,/0/default.jpg
-label: Law
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1145,510,314,162/150,/0/default.jpg
+label: less
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '304'
+order: '337'
 layout: index_item
 collection: index3
 ---

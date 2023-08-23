@@ -2,29 +2,29 @@
 pid: index_1656
 volume: Volume 3
 image_number: '22'
-head: God's vengeange
-entry: "<a href='/digital-beehive/num2/num_0581/'>466 [Gods Vengeance]</a>"
+head: gram[m]ars
+entry: "<a href='/digital-beehive/alpha2/alpha_0383/'>a</a>"
 topic:
 first_letter: G
-page:
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-989accad8"
+item: "#item-831e63a81"
 unparsed:
-line: 'Head: God''s vengeange|Entry: 466 [Gods Vengeance]|#item-989accad8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1163,2551,538,124/full/0/default.jpg
+line: 'Head: gram[m]ars|Entry: a|Page: p.379 [Image 2.201]|#item-831e63a81'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1829,2037,398,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561048118856
-sort_value: '302222551'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053020893
+sort_value: '302232037'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1163,2551,538,124/150,/0/default.jpg
-label: God's vengeange
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1829,2037,398,165/150,/0/default.jpg
+label: gram[m]ars
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '475'
+issue: Pastorius links to section 358 on page 379. There is currently no protocol
+  for specifying a specific item on a page reference.
+order: '497'
 layout: index_item
 collection: index2
 ---

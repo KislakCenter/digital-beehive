@@ -2,28 +2,27 @@
 pid: index_1131
 volume: Volume 3
 image_number: '17'
-head: door
-entry: "<a href='/digital-beehive/num3/num_0834/'>621 [Door]</a>"
+head: drink
+entry: "<a href='/digital-beehive/alpha1/alpha_0266/'>a</a>|775 [PAGE_MISSING]"
 topic:
 first_letter: D
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-f12cabe5a"
+item: "#item-1b96031ab"
 unparsed:
-line: 'Head: door|Page: p.8 [Image 1.68]|Entry: 621 [Door]|#item-f12cabe5a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1459,279,480,139/full/0/default.jpg
+line: 'Head: drink|Entry: a|Entry: 775 [PAGE_MISSING]|#item-1b96031ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1547,2270,468,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367542413
-sort_value: '301730279'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560452644205
+sort_value: '301732270'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1459,279,480,139/150,/0/default.jpg
-label: door
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1547,2270,468,133/150,/0/default.jpg
+label: drink
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1130'
 layout: index_item
 collection: index1

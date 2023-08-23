@@ -2,8 +2,8 @@
 pid: index_3800
 volume: Volume 3
 image_number: '44'
-head: sope
-entry: "<a href='/digital-beehive/num4/num_1234/'>927 [Sope]</a>"
+head: to spoil
+entry: 1880 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d91ae04a8"
+item: "#item-c0abbb37f"
 unparsed:
-line: 'Head: sope|Entry: 927 [Sope]|#item-d91ae04a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/579,1233,357,115/full/0/default.jpg
+line: 'Head: to spoil|Entry: 1880 [PAGE_MISSING]|#item-c0abbb37f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1821,1235,430,73/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529703812108
-sort_value: '304411233'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530104811322
+sort_value: '304431235'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/579,1233,357,115/150,/0/default.jpg
-label: sope
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1821,1235,430,73/150,/0/default.jpg
+label: to spoil
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1048'
+order: '1092'
 layout: index_item
 collection: index4
 ---

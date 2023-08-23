@@ -2,29 +2,28 @@
 pid: index_3250
 volume: Volume 3
 image_number: '38'
-head: quantity
-entry: 856 [PAGE_MISSING]
+head: ratio Statis
+entry:
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3015/'>politick</a>"
 index:
-item: "#item-4f4ebef61"
+item: "#item-dbe9435f7"
 unparsed:
-line: 'Head: quantity|Entry: 856 [PAGE_MISSING]|#item-4f4ebef61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/435,3383,452,111/full/0/default.jpg
+line: 'Head: ratio Statis|See: politick|#item-dbe9435f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1864,1302,704,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454783099
-sort_value: '303813383'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460989613
+sort_value: '303831302'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/435,3383,452,111/150,/0/default.jpg
-label: quantity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1864,1302,704,135/150,/0/default.jpg
+label: ratio Statis
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0498'
+order: '0542'
 layout: index_item
 collection: index4
 ---

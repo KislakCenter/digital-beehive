@@ -2,31 +2,28 @@
 pid: index_2225
 volume: Volume 3
 image_number: '28'
-head: lawsuit
-entry: 790 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_2111/'>1445 [Law Suit]</a>|4451
-  [WORD_MISSING]
+head: lethargy
+entry: "<a href='/digital-beehive/num2/num_0329/'>292 [Drowsiness]</a>"
 topic:
 first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3171/'>process</a>"
+see:
 index:
-item: "#item-72691f5c3"
+item: "#item-83d7654ef"
 unparsed:
-line: 'Head: lawsuit|See: process|Entry: 790 [PAGE_MISSING]|Entry: 1445 [Law Suit]|Entry:
-  4451 [WORD_MISSING]|#item-72691f5c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/406,245,760,179/full/0/default.jpg
+line: 'Head: lethargy|Entry: 292 [Drowsiness]|#item-83d7654ef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1129,709,440,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559838724012
-sort_value: '302810245'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844510203
+sort_value: '302820709'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/406,245,760,179/150,/0/default.jpg
-label: lawsuit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1129,709,440,117/150,/0/default.jpg
+label: lethargy
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '307'
+order: '340'
 layout: index_item
 collection: index3
 ---

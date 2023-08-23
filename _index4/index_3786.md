@@ -1,11 +1,10 @@
 ---
 pid: index_3786
 volume: Volume 3
-image_number: '43'
-head: solitude
-entry: "<a href='/digital-beehive/alpha4/alpha_0897/'>a</a>|<a href='/digital-beehive/num5/num_1597/'>1170
-  [Solitude]</a>|<a href='/digital-beehive/num7/num_2447/'>1617 [Solitude]</a>|4564
-  [PAGE_MISSING]"
+image_number: '44'
+head: to spin
+entry: "<a href='/digital-beehive/num3/num_1029/'>706 [To Spin]</a>|<a href='/digital-beehive/num5/num_1362/'>1019
+  [Spinning]</a>"
 topic:
 first_letter: S
 page:
@@ -13,21 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4b1943712"
+item: "#item-85f37a183"
 unparsed:
-line: 'Head: solitude|Entry: a|Entry: 1170 [Solitude]|Entry: 1617 [Solitude]|Entry:
-  4564 [PAGE_MISSING]|#item-4b1943712'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1587,3040,603,172/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586512801
-sort_value: '304333040'
+line: 'Head: to spin|Entry: 706 [To Spin]|Entry: 1019 [Spinning]|#item-85f37a183'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1087,2965,591,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942741499
+sort_value: '304422965'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1587,3040,603,172/150,/0/default.jpg
-label: solitude
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1087,2965,591,107/150,/0/default.jpg
+label: to spin
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1034'
+order: '1078'
 layout: index_item
 collection: index4
 ---

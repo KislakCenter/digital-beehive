@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0976/'>Tortoise</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3667/'>shells of snails</a>"
+index: "<a href='/digital-beehive/index4/index_3611/'>shells of snails</a>"
 item: "#item-b3badbfc6"
 unparsed:
 line: 'Entry: Shells of Snails|Topic: Shells of Snails|Xref: Tortoise|Index: shells

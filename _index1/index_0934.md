@@ -2,28 +2,27 @@
 pid: index_0934
 volume: Volume 3
 image_number: '15'
-head: Cuts
-entry: 4526 [PAGE_MISSING]
+head: dawning
+entry:
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4208/'>twilight</a>"
 index:
-item: "#item-a82a4bb93"
+item: "#item-9498f0f80"
 unparsed:
-line: 'Head: Cuts|Entry: 4526 [PAGE_MISSING]|#item-a82a4bb93'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/2025,563,294,136/full/0/default.jpg
+line: 'Head: dawning|See: twilight|#item-9498f0f80'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1455,1875,839,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390774680
-sort_value: '301530563'
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391523109
+sort_value: '301531875'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/2025,563,294,136/150,/0/default.jpg
-label: Cuts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1455,1875,839,160/150,/0/default.jpg
+label: dawning
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0933'
 layout: index_item
 collection: index1

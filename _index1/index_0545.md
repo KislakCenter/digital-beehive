@@ -2,9 +2,8 @@
 pid: index_0545
 volume: Volume 3
 image_number: '12'
-head: Carolina
-entry: "<a href='/digital-beehive/num3/num_0894/'>651 [Carolina]</a>|<a href='/digital-beehive/num7/num_2253/'>1520
-  [Carolina]</a>"
+head: casualty
+entry: "<a href='/digital-beehive/alpha1/alpha_0126/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-9000af069"
+item: "#item-065362c62"
 unparsed:
-line: 'Head: Carolina|Entry: 651 [Carolina]|Entry: 1520 [Carolina]|#item-9000af069'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/404,575,645,114/full/0/default.jpg
+line: 'Head: casualty|Entry: a|#item-065362c62'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,1847,487,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531496800609
-sort_value: '301210575'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532097977746
+sort_value: '301211847'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/404,575,645,114/150,/0/default.jpg
-label: Carolina
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,1847,487,130/150,/0/default.jpg
+label: casualty
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0544'
 layout: index_item
 collection: index1

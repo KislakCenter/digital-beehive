@@ -2,8 +2,8 @@
 pid: index_1301
 volume: Volume 3
 image_number: '19'
-head: "[:9.]"
-entry:
+head: to exaggerate
+entry: "<a href='/digital-beehive/num3/num_0732/'>573 [To aggravate]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a89e1dac1"
-unparsed: 'Type: Index|Insertion Xref: [:9.]|#item-a89e1dac1'
-line: 'Type: Index|Insertion Xref: [:9.]|#item-a89e1dac1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/689,2962,169,143/full/0/default.jpg
+item: "#item-52a6e61bc"
+unparsed:
+line: 'Head: to exaggerate|Entry: 573 [To aggravate]|#item-52a6e61bc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/847,2074,662,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276361075
-sort_value: '301912962'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352756703
+sort_value: '301922074'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/689,2962,169,143/150,/0/default.jpg
-label: "[:9.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/847,2074,662,153/150,/0/default.jpg
+label: to exaggerate
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4672/'>Spouse, espousing</a>"
-order: '120'
+order: '142'
 layout: index_item
 collection: index2
 ---

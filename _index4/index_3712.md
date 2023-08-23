@@ -2,8 +2,8 @@
 pid: index_3712
 volume: Volume 3
 image_number: '43'
-head: similitude
-entry: "<a href='/digital-beehive/alpha4/alpha_0879/'>a</a>"
+head: snot
+entry: "<a href='/digital-beehive/num3/num_0836/'>621 [Snot]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bddbfc384"
+item: "#item-499addbc8"
 unparsed:
-line: 'Head: similitude|Entry: a|#item-bddbfc384'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/164,1943,568,140/full/0/default.jpg
+line: 'Head: snot|Entry: 621 [Snot]|#item-499addbc8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1565,1183,378,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582268254
-sort_value: '304311943'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585407741
+sort_value: '304331183'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/164,1943,568,140/150,/0/default.jpg
-label: similitude
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1565,1183,378,127/150,/0/default.jpg
+label: snot
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0960'
+order: '1004'
 layout: index_item
 collection: index4
 ---

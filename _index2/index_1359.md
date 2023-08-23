@@ -1,30 +1,29 @@
 ---
 pid: index_1359
 volume: Volume 3
-image_number: '19'
-head: extemporary
-entry: "<a href='/digital-beehive/num2/num_0516/'>416 [Extemporality]</a>"
+image_number: '20'
+head: Faith & Patience
+entry: "<a href='/digital-beehive/num1/num_0137/'>132 [Faith & Patience]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c1db4b550"
+item: "#item-eaf07262a"
 unparsed:
-line: 'Head: extemporary|Entry: 416 [Extemporality]|#item-c1db4b550'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1518,2142,617,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396195899
-sort_value: '301932142'
+line: 'Head: Faith & Patience|Entry: 132 [Faith & Patience]|#item-eaf07262a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/356,1231,642,168/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561401283900
+sort_value: '302011231'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1518,2142,617,141/150,/0/default.jpg
-label: extemporary
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/356,1231,642,168/150,/0/default.jpg
+label: Faith & Patience
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '178'
+order: '200'
 layout: index_item
 collection: index2
 ---

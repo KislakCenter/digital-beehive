@@ -1,32 +1,30 @@
 ---
 pid: index_4538
 volume: Volume 3
-image_number: '52'
-head: white
-entry: "<a href='/digital-beehive/alpha1/alpha_0084/'>a</a>|<a href='/digital-beehive/num8/num_2876/'>1951
-  [White]</a>"
+image_number: '53'
+head: old & new words
+entry: "<a href='/digital-beehive/num11/num_3505/'>4810 [Old & obsolete words : New
+  fangled words]</a>"
 topic:
 first_letter: W
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0381/'>black</a>"
+see:
 index:
-item: "#item-486d91cbf"
+item: "#item-6898f208f"
 unparsed:
-line: 'Head: white|See: black|Entry: a|Entry: 1951 [White]|#item-486d91cbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1781,761,693,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971561962
-sort_value: '305230761'
+line: 'Head: old & new words|Entry: 4810 [Old & obsolete words : New fangled words]|#item-6898f208f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/874,2030,555,92/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796827396
+sort_value: '305322030'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1781,761,693,144/150,/0/default.jpg
-label: white
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified. It is likely
-  he means to direct the reader to the alphabetical entry "Blackness."
-insertion_xref:
-order: '500'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/874,2030,555,92/150,/0/default.jpg
+label: old & new words
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+issue:
+order: '561'
 layout: index_item
 collection: index5
 ---

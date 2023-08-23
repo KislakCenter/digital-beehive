@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1929/'>1359 [Taxes]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4068/'>tax</a>"
+index: "<a href='/digital-beehive/index5/index_4007/'>tax</a>"
 item: "#item-71ea8abaf"
 unparsed:
 line: 'Entry: Tax|Topic: Tax|Xref: 1359 [Taxes]|Index: tax|#item-71ea8abaf'

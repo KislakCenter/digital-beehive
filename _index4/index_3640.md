@@ -1,30 +1,29 @@
 ---
 pid: index_3640
 volume: Volume 3
-image_number: '42'
-head: separation
-entry:
+image_number: '43'
+head: side
+entry: 804 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3587/'>sect</a>|shirm"
+see:
 index:
-item: "#item-0aa6dfd18"
+item: "#item-a7e51ec2c"
 unparsed:
-line: 'Head: separation|See: sect|See: shirm|#item-0aa6dfd18'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1095,474,696,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573582624
-sort_value: '304220474'
+line: 'Head: side|Entry: 804 [PAGE_MISSING]|#item-a7e51ec2c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/187,276,332,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577471504
+sort_value: '304310276'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1095,474,696,131/150,/0/default.jpg
-label: separation
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: The intended point of reference for "shirm" is unclear.
-insertion_xref:
-order: '0888'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/187,276,332,116/150,/0/default.jpg
+label: side
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+issue:
+order: '0932'
 layout: index_item
 collection: index4
 ---

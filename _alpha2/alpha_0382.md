@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index2/index_1703/'>gray hairs</a>"
+index: "<a href='/digital-beehive/index2/index_1672/'>gray hairs</a>"
 item: "#item-de238db6b"
 unparsed:
 line: 'Entry: Gray Hairs|Topic: Gray Hairs|Index: gray hairs|#item-de238db6b'

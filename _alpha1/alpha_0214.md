@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0213/'>Death</a>|<a href='/digital-beehive/num3/num_0638/'>507
   [Death passed upon all men]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0965/'>death</a>"
+index: "<a href='/digital-beehive/index1/index_0946/'>death</a>"
 item: "#item-0f8d9dba5"
 unparsed:
 line: 'Entry: Death, continued|Topic: Death, continued|Xref: Death|Xref: 507 [Death

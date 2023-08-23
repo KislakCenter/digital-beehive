@@ -1,9 +1,10 @@
 ---
 pid: index_3132
 volume: Volume 3
-image_number: '36'
-head: presbyterians
-entry: 798 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3482/'>4494 [Presbyterians]</a>
+image_number: '37'
+head: progress
+entry: "<a href='/digital-beehive/alpha4/alpha_0747/'>a</a>|<a href='/digital-beehive/num6/num_1986/'>1387
+  [Progress]</a>|4740 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3c2f1c737"
+item: "#item-c1a681a26"
 unparsed:
-line: 'Head: presbyterians|Entry: 798 [PAGE_MISSING]|Entry: 4494 [Presbyterians]|#item-3c2f1c737'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1844,3535,688,172/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548441050471
-sort_value: '303633535'
+line: 'Head: progress|Entry: a|Entry: 1387 [Progress]|Entry: 4740 [PAGE_MISSING]|#item-c1a681a26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/771,2475,716,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564084280593
+sort_value: '303722475'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1844,3535,688,172/150,/0/default.jpg
-label: presbyterians
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/771,2475,716,148/150,/0/default.jpg
+label: progress
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0380'
+order: '0424'
 layout: index_item
 collection: index4
 ---

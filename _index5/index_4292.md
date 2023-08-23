@@ -1,30 +1,29 @@
 ---
 pid: index_4292
 volume: Volume 3
-image_number: '49'
-head: valley
-entry: "<a href='/digital-beehive/num3/num_0975/'>686 [Valley]</a>"
+image_number: '50'
+head: unchangeable
+entry:
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4285/'>unalt</a>"
 index:
-item: "#item-e52c8434c"
+item: "#item-edf576c4c"
 unparsed:
-line: 'Head: valley|Entry: 686 [Valley]|#item-e52c8434c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/941,931,361,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657711316
-sort_value: '304920931'
+line: 'Head: unchangeable|See: unalt|#item-edf576c4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/483,1595,685,161/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872545875
+sort_value: '305011595'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/941,931,361,125/150,/0/default.jpg
-label: valley
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/483,1595,685,161/150,/0/default.jpg
+label: unchangeable
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '254'
+order: '315'
 layout: index_item
 collection: index5
 ---

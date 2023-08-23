@@ -2,29 +2,28 @@
 pid: index_2888
 volume: Volume 3
 image_number: '34'
-head: parricide
-entry: "<a href='/digital-beehive/num11/num_3503/'>4808 [Parricide]</a>"
+head: pearl
+entry: "<a href='/digital-beehive/num9/num_3049/'>2111 [Pearls]</a>"
 topic:
 first_letter: P
-page:
-add:
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add: Jewel
 xref:
 see:
 index:
-item: "#item-ee9ea2143"
+item: "#item-5b5c4a140"
 unparsed:
-line: 'Head: parricide|Entry: 4808 [Parricide]|#item-ee9ea2143'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1140,2262,614,181/full/0/default.jpg
+line: 'Head: pearl|Page: p.32 [Image 1.92]|Entry: 2111 [Pearls]|Add: Jewel|#item-5b5c4a140'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1808,3381,707,208/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494378330
-sort_value: '303422262'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538496055792
+sort_value: '303433381'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1140,2262,614,181/150,/0/default.jpg
-label: parricide
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1808,3381,707,208/150,/0/default.jpg
+label: pearl
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0136'
+order: '0180'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_1623
 volume: Volume 3
 image_number: '22'
-head: globe
-entry: "<a href='/digital-beehive/num2/num_0334/'>295 [Ball playing]</a>"
+head: God's proprieties
+entry: 1886 [PAGE_MISSING]
 topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-be1907b8f"
+item: "#item-e376ee0f9"
 unparsed:
-line: 'Head: globe|Page: p.26 [Image 1.86]|Entry: 295 [Ball playing]|#item-be1907b8f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/425,3384,506,131/full/0/default.jpg
+line: 'Head: God''s proprieties|Entry: 1886 [PAGE_MISSING]|#item-e376ee0f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1161,2310,578,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044273585
-sort_value: '302213384'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047827165
+sort_value: '302222310'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/425,3384,506,131/150,/0/default.jpg
-label: globe
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1161,2310,578,103/150,/0/default.jpg
+label: God's proprieties
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '442'
+order: '464'
 layout: index_item
 collection: index2
 ---

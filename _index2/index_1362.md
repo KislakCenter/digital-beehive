@@ -1,33 +1,29 @@
 ---
 pid: index_1362
 volume: Volume 3
-image_number: '19'
-head: external worship
-entry: "<a href='/digital-beehive/alpha2/alpha_0306/'>a</a>|<a href='/digital-beehive/num1/num_0218/'>207
-  [Outside religion]</a>|<a href='/digital-beehive/num6/num_1947/'>1369 [Outside Religion]</a>|<a
-  href='/digital-beehive/num8/num_2932/'>1998 [External Worship]</a>"
+image_number: '20'
+head: faithlessness
+entry: "<a href='/digital-beehive/num3/num_0728/'>570 [Faithless]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4dd205fcb"
+item: "#item-bfaba61dc"
 unparsed:
-line: 'Head: external worship|Entry: a|Entry: 207 [Outside religion]|Entry: 1369 [Outside
-  Religion]|Entry: 1998 [External Worship]|#item-4dd205fcb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1504,2471,727,171/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396729387
-sort_value: '301932471'
+line: 'Head: faithlessness|Entry: 570 [Faithless]|#item-bfaba61dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/371,1541,614,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561401593465
+sort_value: '302011541'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1504,2471,727,171/150,/0/default.jpg
-label: external worship
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/371,1541,614,170/150,/0/default.jpg
+label: faithlessness
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '181'
+order: '203'
 layout: index_item
 collection: index2
 ---

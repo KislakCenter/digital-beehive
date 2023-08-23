@@ -2,29 +2,28 @@
 pid: index_1711
 volume: Volume 3
 image_number: '23'
-head: green
-entry: "<a href='/digital-beehive/num8/num_2688/'>1757 [Green]</a>"
+head: ham[m]er
+entry: 756 [PAGE_MISSING]
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-dc6d17ebd"
+item: "#item-2be0592a2"
 unparsed:
-line: 'Head: green|Entry: 1757 [Green]|#item-dc6d17ebd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,1210,398,88/full/0/default.jpg
+line: 'Head: ham[m]er|Entry: 756 [PAGE_MISSING]|#item-2be0592a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/848,459,356,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230629707
-sort_value: '302311210'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238185375
+sort_value: '302320459'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,1210,398,88/150,/0/default.jpg
-label: green
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/848,459,356,99/150,/0/default.jpg
+label: ham[m]er
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '530'
+order: '552'
 layout: index_item
 collection: index2
 ---

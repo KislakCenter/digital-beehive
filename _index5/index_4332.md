@@ -1,31 +1,29 @@
 ---
 pid: index_4332
 volume: Volume 3
-image_number: '49'
-head: vine
-entry: "<a href='/digital-beehive/alpha5/alpha_0998/'>a</a>|<a href='/digital-beehive/num8/num_2922/'>1990
-  [Vin[e]yards]</a>"
+image_number: '50'
+head: unless
+entry: "<a href='/digital-beehive/num1/num_0096/'>93 [Exception]</a>"
 topic:
 first_letter: U/V
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-084edad39"
+item: "#item-d004dde64"
 unparsed:
-line: 'Head: vine|Page: p.32 [Image 1.92]|Entry: a|Entry: 1990 [Vin[e]yards]|#item-084edad39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1636,1464,592,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660581551
-sort_value: '304931464'
+line: 'Head: unless|Entry: 93 [Exception]|#item-d004dde64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1096,2946,319,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882490957
+sort_value: '305022946'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1636,1464,592,130/150,/0/default.jpg
-label: vine
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1096,2946,319,135/150,/0/default.jpg
+label: unless
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '294'
+order: '355'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,27 @@
 pid: index_0507
 volume: Volume 3
 image_number: '11'
-head: cake
-entry: 726 [PAGE_MISSING]
+head: can
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3042/'>pot</a>"
 index:
-item: "#item-9c2a5b2f3"
+item: "#item-00c3a7dea"
 unparsed:
-line: 'Head: cake|Entry: 726 [PAGE_MISSING]|#item-9c2a5b2f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1572,353,381,113/full/0/default.jpg
+line: 'Head: can|See: pot|#item-00c3a7dea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1575,1358,424,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494105755
-sort_value: '301130353'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494854335
+sort_value: '301131358'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1572,353,381,113/150,/0/default.jpg
-label: cake
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1575,1358,424,132/150,/0/default.jpg
+label: can
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0506'
 layout: index_item
 collection: index1

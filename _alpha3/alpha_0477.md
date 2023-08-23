@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0128/'>Catechism</a>|<a href='/digital-beehive/alpha1/alpha_0259/'>doctrine</a>|<a
   href='/digital-beehive/num5/num_1605/'>1176 [to Inform]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2038/'>information</a>"
+index: "<a href='/digital-beehive/index3/index_2003/'>information</a>"
 item: "#item-aee722ed8"
 unparsed:
 line: 'Entry: Information|Topic: Information|Xref: Catechism|Xref: doctrine|Xref:

@@ -1,9 +1,10 @@
 ---
 pid: index_3563
 volume: Volume 3
-image_number: '41'
-head: scriptures uncertainty
-entry: "<a href='/digital-beehive/num2/num_0342/'>301 [Uncertainty of the h. Scripture]</a>"
+image_number: '42'
+head: Self knowledge
+entry: "<a href='/digital-beehive/alpha4/alpha_0855/'>a</a>|<a href='/digital-beehive/num1/num_0221/'>210
+  [Self-knowledge]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ddcffbc44"
+item: "#item-b3db62192"
 unparsed:
-line: 'Head: scriptures uncertainty|Entry: 301 [Uncertainty of the h. Scripture]|#item-ddcffbc44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/846,2774,652,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241670700
-sort_value: '304122774'
+line: 'Head: Self knowledge|Entry: a|Entry: 210 [Self-knowledge]|#item-b3db62192'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/396,1705,715,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244627402
+sort_value: '304211705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/846,2774,652,156/150,/0/default.jpg
-label: scriptures uncertainty
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/396,1705,715,119/150,/0/default.jpg
+label: Self knowledge
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0811'
+order: '0855'
 layout: index_item
 collection: index4
 ---

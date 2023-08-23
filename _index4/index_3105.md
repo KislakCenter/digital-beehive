@@ -1,9 +1,9 @@
 ---
 pid: index_3105
 volume: Volume 3
-image_number: '36'
-head: praise of God
-entry: a
+image_number: '37'
+head: primitive Xtians
+entry: "<a href='/digital-beehive/num5/num_1432/'>1064 [Primitive Christians]</a>"
 topic:
 first_letter: P
 page:
@@ -11,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-fd6b6e3f3"
+item: "#item-e70b17368"
 unparsed:
-line: 'Head: praise of God|Entry: a|#item-fd6b6e3f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1918,538,536,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439529286
-sort_value: '303630538'
+line: 'Head: primitive Xtians|Entry: 1064 [Primitive Christians]|#item-e70b17368'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2789,608,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866995981
+sort_value: '303712789'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1918,538,536,96/150,/0/default.jpg
-label: praise of God
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: The "a" links to an alphabetical entry which is indexed more than once. There
-  is no protocol at this point to handle multiple indexing for alphabetical entries.
-insertion_xref:
-order: '0353'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2789,608,153/150,/0/default.jpg
+label: primitive Xtians
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+issue:
+order: '0397'
 layout: index_item
 collection: index4
 ---

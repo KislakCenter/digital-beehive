@@ -1,30 +1,29 @@
 ---
 pid: index_2525
 volume: Volume 3
-image_number: '30'
-head: ministers of Gospel
-entry:
+image_number: '31'
+head: mongrel
+entry: 821 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3114/'>Preachers</a>|<a href='/digital-beehive/index5/index_4072/'>Teachers</a>"
+see:
 index:
-item: "#item-adfa67363"
+item: "#item-7b2b615b6"
 unparsed:
-line: 'Head: ministers of Gospel|See: Preachers|See: Teachers|#item-adfa67363'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1818,2649,684,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274608284
-sort_value: '303032649'
+line: 'Head: mongrel|Entry: 821 [PAGE_MISSING]|#item-7b2b615b6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/867,643,475,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560354901147
+sort_value: '303120643'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1818,2649,684,136/150,/0/default.jpg
-label: ministers of Gospel
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/867,643,475,134/150,/0/default.jpg
+label: mongrel
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '607'
+order: '640'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,8 @@
 pid: index_0550
 volume: Volume 3
 image_number: '12'
-head: carrots
-entry: "<a href='/digital-beehive/num3/num_0941/'>676 [Carrots]</a>"
+head: catchpoll
+entry: "<a href='/digital-beehive/num1/num_0103/'>100 [Difficulty]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-fd771109d"
+item: "#item-71597bff8"
 unparsed:
-line: 'Head: carrots|Entry: 676 [Carrots]|#item-fd771109d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/407,1170,492,109/full/0/default.jpg
+line: 'Head: catchpoll|Entry: 100 [Difficulty]|#item-71597bff8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,2503,540,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532097643864
-sort_value: '301211170'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098446850
+sort_value: '301212503'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/407,1170,492,109/150,/0/default.jpg
-label: carrots
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,2503,540,167/150,/0/default.jpg
+label: catchpoll
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0549'
 layout: index_item
 collection: index1

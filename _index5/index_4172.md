@@ -2,8 +2,8 @@
 pid: index_4172
 volume: Volume 3
 image_number: '48'
-head: tomorrow
-entry: "<a href='/digital-beehive/num8/num_2802/'>1908 [Tomorrow]</a>|4668 [PAGE_MISSING]"
+head: tribunal
+entry: 861 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-cf4ef5b96"
+item: "#item-2353dc02e"
 unparsed:
-line: 'Head: tomorrow|Entry: 1908 [Tomorrow]|Entry: 4668 [PAGE_MISSING]|#item-cf4ef5b96'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/454,896,507,208/full/0/default.jpg
+line: 'Head: tribunal|Entry: 861 [PAGE_MISSING]|#item-2353dc02e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1798,1191,535,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274548342
-sort_value: '304810896'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562088530263
+sort_value: '304831191'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/454,896,507,208/150,/0/default.jpg
-label: tomorrow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1798,1191,535,149/150,/0/default.jpg
+label: tribunal
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '134'
+order: '195'
 layout: index_item
 collection: index5
 ---

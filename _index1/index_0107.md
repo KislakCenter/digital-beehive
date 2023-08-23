@@ -2,8 +2,8 @@
 pid: index_0107
 volume: Volume 3
 image_number: '7'
-head: almost
-entry: 781 [PAGE_MISSING]
+head: alphabetu[m] rhytmicu[m]
+entry: "<a href='/digital-beehive/num7/num_2625/'>1701 [Patience]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ca2e9c949"
+item: "#item-763abcbac"
 unparsed:
-line: 'Head: almost|Entry: 781 [PAGE_MISSING]|#item-ca2e9c949'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1601,2024,368,113/full/0/default.jpg
+line: 'Head: alphabetu[m] rhytmicu[m]|Entry: 1701 [Patience]|#item-763abcbac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1589,2397,718,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770214673
-sort_value: '300732024'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770489922
+sort_value: '300732397'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1601,2024,368,113/150,/0/default.jpg
-label: almost
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1589,2397,718,139/150,/0/default.jpg
+label: alphabetu[m] rhytmicu[m]
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0106'
 layout: index_item
 collection: index1

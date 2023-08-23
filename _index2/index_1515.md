@@ -2,8 +2,8 @@
 pid: index_1515
 volume: Volume 3
 image_number: '21'
-head: "[:19.]"
-entry:
+head: frenzy
+entry: "<a href='/digital-beehive/num2/num_0517/'>417 [Rage]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5e320c6fe"
-unparsed: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
-line: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/716,3211,152,101/full/0/default.jpg
+item: "#item-bd85186b1"
+unparsed:
+line: 'Head: frenzy|Entry: 417 [Rage]|#item-bd85186b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/866,2201,400,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560782489609
-sort_value: '302113211'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532619110574
+sort_value: '302122201'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/716,3211,152,101/150,/0/default.jpg
-label: "[:19.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/866,2201,400,91/150,/0/default.jpg
+label: frenzy
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4683/'>forrest</a>"
-order: '334'
+order: '356'
 layout: index_item
 collection: index2
 ---

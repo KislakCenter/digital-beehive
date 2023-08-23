@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0452/'>Jesus</a>|<a href='/digital-beehive/num2/num_0298/'>266
   [Christ]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0645/'>Christ</a>"
+index: "<a href='/digital-beehive/index1/index_0632/'>Christ</a>"
 item: "#item-594547e43"
 unparsed:
 line: 'Entry: Christ|Topic: Christ|Xref: Jesus|Xref: 266 [Christ]|Index: Christ|#item-594547e43'

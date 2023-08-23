@@ -2,8 +2,8 @@
 pid: index_0556
 volume: Volume 3
 image_number: '12'
-head: casualty
-entry: "<a href='/digital-beehive/alpha1/alpha_0126/'>a</a>"
+head: Cato
+entry: "<a href='/digital-beehive/num5/num_1670/'>1219 [Cato]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-065362c62"
+item: "#item-00185a1f4"
 unparsed:
-line: 'Head: casualty|Entry: a|#item-065362c62'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,1847,487,130/full/0/default.jpg
+line: 'Head: Cato|Entry: 1219 [Cato]|#item-00185a1f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/392,3267,401,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532097977746
-sort_value: '301211847'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098753013
+sort_value: '301213267'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,1847,487,130/150,/0/default.jpg
-label: casualty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/392,3267,401,147/150,/0/default.jpg
+label: Cato
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0555'
 layout: index_item
 collection: index1

@@ -2,8 +2,8 @@
 pid: index_2863
 volume: Volume 3
 image_number: '34'
-head: palmistrie
-entry: "<a href='/digital-beehive/num7/num_2277/'>1531 [Chiromancy]</a>"
+head: past
+entry: "<a href='/digital-beehive/alpha4/alpha_0692/'>a</a>|865 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6d3525cfa"
+item: "#item-f5da90474"
 unparsed:
-line: 'Head: palmistrie|Entry: 1531 [Chiromancy]|#item-6d3525cfa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/425,3355,609,194/full/0/default.jpg
+line: 'Head: past|Entry: a|Entry: 865 [PAGE_MISSING]|#item-f5da90474'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1822,1077,501,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538426469613
-sort_value: '303413355'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495124192
+sort_value: '303431077'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/425,3355,609,194/150,/0/default.jpg
-label: palmistrie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1822,1077,501,137/150,/0/default.jpg
+label: past
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0111'
+order: '0155'
 layout: index_item
 collection: index4
 ---

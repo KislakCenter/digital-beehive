@@ -2,28 +2,28 @@
 pid: index_0463
 volume: Volume 3
 image_number: '11'
-head: brokers
-entry:
+head: buffoon
+entry: "<a href='/digital-beehive/alpha1/alpha_0107/'>a</a>|<a href='/digital-beehive/num6/num_2094/'>1436
+  [Buffoons : Obscenity]</a>"
 topic:
 first_letter: B
-page:
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2928/'>pawn</a>"
+see:
 index:
-item: "#item-458cc1dbf"
+item: "#item-5d5257f83"
 unparsed:
-line: 'Head: brokers|See: pawn|#item-458cc1dbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/164,3196,523,121/full/0/default.jpg
+line: 'Head: buffoon|Page: p.42 [Image 1.102]|Entry: a|Entry: 1436 [Buffoons : Obscenity]|#item-5d5257f83'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/883,566,687,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419921173
-sort_value: '301113196'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531420396542
+sort_value: '301120566'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/164,3196,523,121/150,/0/default.jpg
-label: brokers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/883,566,687,148/150,/0/default.jpg
+label: buffoon
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0462'
 layout: index_item
 collection: index1

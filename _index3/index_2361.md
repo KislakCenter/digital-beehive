@@ -2,30 +2,28 @@
 pid: index_2361
 volume: Volume 3
 image_number: '29'
-head: Ludov. XIV
-entry: "<a href='/digital-beehive/num6/num_1848/'>1319 [Ludovicus XIV]</a>|<a href='/digital-beehive/num8/num_2916/'>1984
-  [Ludovicus XIV]</a>"
+head: malt
+entry: 4613 [PAGE_MISSING]
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2985c963e"
+item: "#item-225f52c8b"
 unparsed:
-line: 'Head: Ludov. XIV|Entry: 1319 [Ludovicus XIV]|Entry: 1984 [Ludovicus XIV]|#item-2985c963e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/860,372,593,144/full/0/default.jpg
+line: 'Head: malt|Entry: 4613 [PAGE_MISSING]|#item-225f52c8b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,1177,378,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560184879704
-sort_value: '302920372'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194214909
+sort_value: '302931177'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/860,372,593,144/150,/0/default.jpg
-label: Ludov. XIV
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,1177,378,88/150,/0/default.jpg
+label: malt
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '443'
+order: '476'
 layout: index_item
 collection: index3
 ---

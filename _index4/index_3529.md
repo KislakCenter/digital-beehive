@@ -2,29 +2,29 @@
 pid: index_3529
 volume: Volume 3
 image_number: '41'
-head: a saw
-entry: "<a href='/digital-beehive/num3/num_0748/'>581 [To Saw]</a>"
+head: secret writing or num.
+entry: "<a href='/digital-beehive/num6/num_2185/'>1481 [Secret Writing]</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.300]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-6bad285b1"
+item: "#item-19d9ec7e9"
 unparsed:
-line: 'Head: a saw|Entry: 581 [To Saw]|#item-6bad285b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,2385,353,116/full/0/default.jpg
+line: 'Head: secret writing or num.|Page: p.380 [Image 2.300]|Entry: 1481 [Secret
+  Writing]|#item-19d9ec7e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1576,1845,641,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239417589
-sort_value: '304112385'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242663038
+sort_value: '304131845'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,2385,353,116/150,/0/default.jpg
-label: a saw
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1576,1845,641,127/150,/0/default.jpg
+label: secret writing or num.
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0777'
+order: '0821'
 layout: index_item
 collection: index4
 ---

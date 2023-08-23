@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0579/'>Master</a>|813 [PAGE_MISSING]|<a
   href='/digital-beehive/num6/num_1854/'>1322 [Capucins]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3645/'>servant & service</a>"
+index: "<a href='/digital-beehive/index4/index_3589/'>servant & service</a>"
 item: "#item-3513bb2bd"
 unparsed:
 line: 'Entry: Service|Topic: Service|Xref: Master|Xref: 813 [PAGE_MISSING]|Xref: 1322

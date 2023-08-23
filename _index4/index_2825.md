@@ -1,30 +1,29 @@
 ---
 pid: index_2825
 volume: Volume 3
-image_number: '33'
-head: Origines
-entry: "<a href='/digital-beehive/num7/num_2355/'>1571 [Origenes]</a>"
+image_number: '34'
+head: papists cruelty
+entry: "<a href='/digital-beehive/num3/num_0646/'>514 [Cruelty]</a>|4634 [PAGE_MISSING]"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1fa210768"
+item: "#item-4172485ff"
 unparsed:
-line: 'Head: Origines|Entry: 1571 [Origenes]|#item-1fa210768'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1477,2687,661,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538163641781
-sort_value: '303332687'
+line: 'Head: papists cruelty|Entry: 514 [Cruelty]|Entry: 4634 [PAGE_MISSING]|#item-4172485ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1167,758,736,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492678550
+sort_value: '303420758'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1477,2687,661,168/150,/0/default.jpg
-label: Origines
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1167,758,736,145/150,/0/default.jpg
+label: papists cruelty
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0073'
+order: '0117'
 layout: index_item
 collection: index4
 ---

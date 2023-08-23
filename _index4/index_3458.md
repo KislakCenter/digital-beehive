@@ -1,30 +1,29 @@
 ---
 pid: index_3458
 volume: Volume 3
-image_number: '40'
-head: royalists
-entry: "<a href='/digital-beehive/num8/num_2698/'>1766 [High Church]</a>"
+image_number: '41'
+head: samaritans
+entry: "<a href='/digital-beehive/num8/num_2904/'>1974 [Samaritans]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-b704034f3"
+item: "#item-7dbf16e5b"
 unparsed:
-line: 'Head: royalists|Entry: 1766 [High Church]|#item-b704034f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2264,486,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233786077
-sort_value: '304022264'
+line: 'Head: samaritans|Entry: 1974 [Samaritans]|#item-7dbf16e5b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/171,1128,633,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238758580
+sort_value: '304111128'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1140,2264,486,125/150,/0/default.jpg
-label: royalists
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/171,1128,633,115/150,/0/default.jpg
+label: samaritans
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0706'
+order: '0750'
 layout: index_item
 collection: index4
 ---

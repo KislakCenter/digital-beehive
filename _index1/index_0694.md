@@ -2,9 +2,8 @@
 pid: index_0694
 volume: Volume 3
 image_number: '13'
-head: clime
-entry: "<a href='/digital-beehive/num3/num_0891/'>649 [Country]</a>|<a href='/digital-beehive/num6/num_1893/'>1342
-  [Climate]</a>"
+head: coal
+entry: "<a href='/digital-beehive/num5/num_1542/'>1134 [Coal]</a>"
 topic:
 first_letter: C
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-a84ea3044"
+item: "#item-5f4c3f96f"
 unparsed:
-line: 'Head: clime|Entry: 649 [Country]|Entry: 1342 [Climate]|#item-a84ea3044'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/854,933,605,129/full/0/default.jpg
+line: 'Head: coal|Entry: 1134 [Coal]|#item-5f4c3f96f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/867,2386,344,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536334352478
-sort_value: '301320933'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536607933940
+sort_value: '301322386'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/854,933,605,129/150,/0/default.jpg
-label: clime
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/867,2386,344,114/150,/0/default.jpg
+label: coal
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0693'
 layout: index_item
 collection: index1

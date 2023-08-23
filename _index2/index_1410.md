@@ -2,9 +2,8 @@
 pid: index_1410
 volume: Volume 3
 image_number: '20'
-head: fasting
-entry: "<a href='/digital-beehive/alpha2/alpha_0318/'>a</a>|<a href='/digital-beehive/num4/num_1111/'>876
-  [Fasting]</a>"
+head: fetters
+entry: 4506 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-eb1d35f09"
+item: "#item-48a91919e"
 unparsed:
-line: 'Head: fasting|Entry: a|Entry: 876 [Fasting]|#item-eb1d35f09'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/397,3432,552,156/full/0/default.jpg
+line: 'Head: fetters|Entry: 4506 [PAGE_MISSING]|#item-48a91919e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1125,2489,479,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660445306
-sort_value: '302013432'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562185560817
+sort_value: '302022489'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/397,3432,552,156/150,/0/default.jpg
-label: fasting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1125,2489,479,137/150,/0/default.jpg
+label: fetters
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '229'
+order: '251'
 layout: index_item
 collection: index2
 ---

@@ -1,29 +1,28 @@
 ---
 pid: index_1157
 volume: Volume 3
-image_number: '17'
-head: dross
-entry:
+image_number: '18'
+head: dying bed
+entry: "<a href='/digital-beehive/num5/num_1434/'>1065 [Agony]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1059/'>dirt</a>"
+see:
 index:
-item: "#item-b995b4b56"
+item: "#item-c5071e5b7"
 unparsed:
-line: 'Head: dross|See: dirt|#item-b995b4b56'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1450,2920,521,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560453108811
-sort_value: '301732920'
+line: 'Head: dying bed|Entry: 1065 [Agony]|#item-c5071e5b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/430,1485,421,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665225218
+sort_value: '301811485'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1450,2920,521,156/150,/0/default.jpg
-label: dross
-location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/430,1485,421,122/150,/0/default.jpg
+label: dying bed
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1156'
 layout: index_item
 collection: index1

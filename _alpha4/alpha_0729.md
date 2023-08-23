@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0285/'>259 [Book Prayers]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3113/'>book prayers</a>"
+index: "<a href='/digital-beehive/index4/index_3063/'>book prayers</a>"
 item: "#item-b752fcc73"
 unparsed:
 line: 'Entry: Book prayers|Topic: Book prayers|Xref: 259 [Book Prayers]|Index: book

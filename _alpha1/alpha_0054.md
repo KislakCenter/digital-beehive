@@ -10,7 +10,7 @@ page:
 add:
 xref: 4831 [WORD_ILLEGIBLE]
 see:
-index: "<a href='/digital-beehive/index1/index_0277/'>baldness</a>"
+index: "<a href='/digital-beehive/index1/index_0270/'>baldness</a>"
 item: "#item-5e7055462"
 unparsed:
 line: 'Entry: Baldness|Topic: Baldness|Xref: 4831 [WORD_ILLEGIBLE]|#item-5e7055462|Index:

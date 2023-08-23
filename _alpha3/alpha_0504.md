@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3145/'>2201 [King's evil]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2164/'>kings Evil</a>"
+index: "<a href='/digital-beehive/index3/index_2128/'>kings Evil</a>"
 item: "#item-434846485"
 unparsed:
 line: 'Entry: Kings evil|Topic: Kings evil|Xref: 2201 [King''s evil]|Index: kings

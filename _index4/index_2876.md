@@ -2,29 +2,28 @@
 pid: index_2876
 volume: Volume 3
 image_number: '34'
-head: paraphrase
-entry:
+head: patriots
+entry: "<a href='/digital-beehive/num6/num_1999/'>1394 [Patriots]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1626/'>gloss</a>"
+see:
 index:
-item: "#item-e7fe1ad2b"
+item: "#item-600277d89"
 unparsed:
-line: 'Head: paraphrase|See: gloss|#item-e7fe1ad2b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1139,1293,714,217/full/0/default.jpg
+line: 'Head: patriots|Entry: 1394 [Patriots]|#item-600277d89'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1820,2142,539,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538493690931
-sort_value: '303421293'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495692384
+sort_value: '303432142'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1139,1293,714,217/150,/0/default.jpg
-label: paraphrase
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1820,2142,539,146/150,/0/default.jpg
+label: patriots
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0124'
+order: '0168'
 layout: index_item
 collection: index4
 ---

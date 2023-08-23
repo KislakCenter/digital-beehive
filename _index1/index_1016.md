@@ -2,28 +2,27 @@
 pid: index_1016
 volume: Volume 3
 image_number: '16'
-head: deputy
-entry: 752 [PAGE_MISSING]
+head: device
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0979/'>deliberation</a>"
 index:
-item: "#item-6cb392e1f"
+item: "#item-ecbe553ee"
 unparsed:
-line: 'Head: deputy|Entry: 752 [PAGE_MISSING]|#item-6cb392e1f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1061,1606,485,115/full/0/default.jpg
+line: 'Head: device|See: deliberation|#item-ecbe553ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1810,278,729,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541604845309
-sort_value: '301621606'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783225034
+sort_value: '301630278'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1061,1606,485,115/150,/0/default.jpg
-label: deputy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1810,278,729,119/150,/0/default.jpg
+label: device
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1015'
 layout: index_item
 collection: index1

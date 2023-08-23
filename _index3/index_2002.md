@@ -1,10 +1,11 @@
 ---
 pid: index_2002
 volume: Volume 3
-image_number: '25'
-head: inconsiderable
-entry: "<a href='/digital-beehive/num1/num_0239/'>224 [Considerable]</a>|<a href='/digital-beehive/num3/num_0765/'>589
-  [Base]</a>"
+image_number: '26'
+head: influence
+entry: "<a href='/digital-beehive/num6/num_2144/'>1460 [Influence of the Planets]</a>|<a
+  href='/digital-beehive/num7/num_2393/'>1593 [Influence]</a>|<a href='/digital-beehive/num9/num_3090/'>2148
+  [Influence]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-366d8ffe3"
+item: "#item-d636e54e0"
 unparsed:
-line: 'Head: inconsiderable|Entry: 224 [Considerable]|Entry: 589 [Base]|#item-366d8ffe3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1582,1743,708,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671455843
-sort_value: '302531743'
+line: 'Head: influence|Entry: 1460 [Influence of the Planets]|Entry: 1593 [Influence]|Entry:
+  2148 [Influence]|#item-d636e54e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/423,2053,776,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744757556
+sort_value: '302612053'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1582,1743,708,152/150,/0/default.jpg
-label: inconsiderable
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/423,2053,776,140/150,/0/default.jpg
+label: influence
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '084'
+order: '117'
 layout: index_item
 collection: index3
 ---

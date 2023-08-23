@@ -2,29 +2,28 @@
 pid: index_4563
 volume: Volume 3
 image_number: '53'
-head: wink
-entry: "<a href='/digital-beehive/num11/num_3518/'>4822 [a Winking]</a>"
+head: writing secret
+entry:
 topic:
 first_letter: W
-page:
+page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.300]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-55f00d338"
+item: "#item-63a51121d"
 unparsed:
-line: 'Head: wink|Entry: 4822 [a Winking]|#item-55f00d338'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/195,579,377,88/full/0/default.jpg
+line: 'Head: writing secret|Page: p.380 [Image 2.300]|#item-63a51121d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1565,1152,500,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791360129
-sort_value: '305310579'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798663201
+sort_value: '305331152'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/195,579,377,88/150,/0/default.jpg
-label: wink
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1565,1152,500,148/150,/0/default.jpg
+label: writing secret
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '525'
+order: '586'
 layout: index_item
 collection: index5
 ---

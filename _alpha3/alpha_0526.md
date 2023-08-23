@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0640/'>negligence</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2230/'>laziness</a>"
+index: "<a href='/digital-beehive/index3/index_2194/'>laziness</a>"
 item: "#item-ae64ce079"
 unparsed:
 line: 'Entry: Laziness|Topic: Laziness|Xref: negligence|Index: laziness|#item-ae64ce079'

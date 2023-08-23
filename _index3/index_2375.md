@@ -2,29 +2,28 @@
 pid: index_2375
 volume: Volume 3
 image_number: '29'
-head: Machiavellus
-entry: "<a href='/digital-beehive/num3/num_0707/'>556 [Machiavellus]</a>"
+head: manner
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1487/'>form</a>|<a href='/digital-beehive/index1/index_0914/'>custom</a>"
 index:
-item: "#item-2b56f0fd1"
+item: "#item-31de29b16"
 unparsed:
-line: 'Head: Machiavellus|Entry: 556 [Machiavellus]|#item-2b56f0fd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/836,1897,555,113/full/0/default.jpg
+line: 'Head: manner|See: form|See: custom|#item-31de29b16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2600,696,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186314831
-sort_value: '302921897'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196222265
+sort_value: '302932600'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/836,1897,555,113/150,/0/default.jpg
-label: Machiavellus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2600,696,125/150,/0/default.jpg
+label: manner
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '457'
+order: '490'
 layout: index_item
 collection: index3
 ---

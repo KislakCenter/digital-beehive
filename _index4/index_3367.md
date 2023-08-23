@@ -1,9 +1,11 @@
 ---
 pid: index_3367
 volume: Volume 3
-image_number: '39'
-head: to repair
-entry: "<a href='/digital-beehive/num3/num_1010/'>699 [Repair]</a>"
+image_number: '40'
+head: riches
+entry: "<a href='/digital-beehive/alpha4/alpha_0811/'>a</a>|854 [PAGE_MISSING]|<a
+  href='/digital-beehive/num6/num_2108/'>1444 [Riches]</a>|<a href='/digital-beehive/num10/num_3365/'>2392
+  [Riches]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-30b026513"
+item: "#item-3935c5596"
 unparsed:
-line: 'Head: to repair|Entry: 699 [Repair]|#item-30b026513'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/776,1915,587,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469260050
-sort_value: '303921915'
+line: 'Head: riches|Entry: a|Entry: 854 [PAGE_MISSING]|Entry: 1444 [Riches]|Entry:
+  2392 [Riches]|#item-3935c5596'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/456,1593,815,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231799274
+sort_value: '304011593'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/776,1915,587,140/150,/0/default.jpg
-label: to repair
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/456,1593,815,144/150,/0/default.jpg
+label: riches
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0615'
+order: '0659'
 layout: index_item
 collection: index4
 ---

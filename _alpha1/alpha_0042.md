@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1835/'>1313 [Spectres]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0176/'>apparitions</a>"
+index: "<a href='/digital-beehive/index1/index_0170/'>apparitions</a>"
 item: "#item-70846fcea"
 unparsed:
 line: 'Entry: Apparition|Topic: Apparition|Xref: 1313 [Spectres]|Index: apparitions|#item-70846fcea'

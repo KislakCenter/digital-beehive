@@ -2,8 +2,8 @@
 pid: index_2031
 volume: Volume 3
 image_number: '26'
-head: infant killing
-entry: "<a href='/digital-beehive/alpha3/alpha_0474/'>a</a>"
+head: in spight
+entry: "<a href='/digital-beehive/num3/num_0820/'>614 [In Spight]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a73f077c1"
+item: "#item-ac3decd78"
 unparsed:
-line: 'Head: infant killing|Entry: a|#item-a73f077c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/440,1275,469,173/full/0/default.jpg
+line: 'Head: in spight|Entry: 614 [In Spight]|#item-ac3decd78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1158,1669,449,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744168230
-sort_value: '302611275'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748006712
+sort_value: '302621669'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/440,1275,469,173/150,/0/default.jpg
-label: infant killing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1158,1669,449,139/150,/0/default.jpg
+label: in spight
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '113'
+order: '146'
 layout: index_item
 collection: index3
 ---

@@ -2,29 +2,28 @@
 pid: index_2535
 volume: Volume 3
 image_number: '31'
-head: mischief
-entry: "<a href='/digital-beehive/num6/num_2059/'>1422 [Dam[m]age]</a>"
+head: moose
+entry: "<a href='/digital-beehive/num7/num_2270/'>1529 [Moose : Elk]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2399/'>malignity</a>"
+see:
 index:
-item: "#item-a0fd3b583"
+item: "#item-724f0aac4"
 unparsed:
-line: 'Head: mischief|See: malignity|Entry: 1422 [Dam[m]age]|#item-a0fd3b583'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/163,334,704,199/full/0/default.jpg
+line: 'Head: moose|Entry: 1529 [Moose : Elk]|#item-724f0aac4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/876,1560,395,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350588141
-sort_value: '303110334'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355670477
+sort_value: '303121560'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/163,334,704,199/150,/0/default.jpg
-label: mischief
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/876,1560,395,134/150,/0/default.jpg
+label: moose
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '617'
+order: '650'
 layout: index_item
 collection: index3
 ---

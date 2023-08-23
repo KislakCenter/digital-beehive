@@ -1,30 +1,29 @@
 ---
 pid: index_4611
 volume: Volume 3
-image_number: '53'
-head: work
-entry: "<a href='/digital-beehive/alpha5/alpha_1059/'>a</a>"
+image_number: '54'
+head: forrest
+entry:
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4531/'>wood</a>"
 index:
-item: "#item-9777e87db"
+item: "#item-355b318ec"
 unparsed:
-line: 'Head: work|Entry: a|#item-9777e87db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/876,2239,360,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796989988
-sort_value: '305322239'
+line: 'Type: Index|Insertion: [:19.]|Head: forrest|See: wood|#item-355b318ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/400,2812,671,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885069116
+sort_value: '305412812'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/876,2239,360,99/150,/0/default.jpg
-label: work
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/400,2812,671,138/150,/0/default.jpg
+label: forrest
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '573'
+order: '634'
 layout: index_item
 collection: index5
 ---

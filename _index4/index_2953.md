@@ -2,29 +2,28 @@
 pid: index_2953
 volume: Volume 3
 image_number: '35'
-head: perdition
-entry:
+head: piece
+entry: "<a href='/digital-beehive/num3/num_1059/'>718 [Piece]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2335/'>loss</a>"
+see:
 index:
-item: "#item-3aafb5524"
+item: "#item-bb90a7220"
 unparsed:
-line: 'Head: perdition|See: loss|#item-3aafb5524'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/129,2034,664,156/full/0/default.jpg
+line: 'Head: piece|Entry: 718 [Piece]|#item-bb90a7220'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1485,518,400,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972838158
-sort_value: '303512034'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975933980
+sort_value: '303530518'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/129,2034,664,156/150,/0/default.jpg
-label: perdition
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1485,518,400,130/150,/0/default.jpg
+label: piece
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0201'
+order: '0245'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_0602
 volume: Volume 3
 image_number: '12'
-head: chapters
-entry: "<a href='/digital-beehive/num10/num_3349/'>2376 [Chapters & Verses]</a>"
+head: chastity
+entry: "<a href='/digital-beehive/alpha1/alpha_0139/'>a</a>|794 [PAGE_MISSING]"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ad3e9328b"
+item: "#item-dd712068b"
 unparsed:
-line: 'Head: chapters|Entry: 2376 [Chapters & Verses]|#item-ad3e9328b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,3259,487,119/full/0/default.jpg
+line: 'Head: chastity|Entry: a|Entry: 794 [PAGE_MISSING]|#item-dd712068b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1817,817,550,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443056910
-sort_value: '301223259'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532444066093
+sort_value: '301230817'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,3259,487,119/150,/0/default.jpg
-label: chapters
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1817,817,550,134/150,/0/default.jpg
+label: chastity
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0601'
 layout: index_item
 collection: index1

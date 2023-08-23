@@ -1,9 +1,9 @@
 ---
 pid: index_3377
 volume: Volume 3
-image_number: '39'
-head: reproach
-entry: "<a href='/digital-beehive/num2/num_0460/'>381 [Invective]</a>"
+image_number: '40'
+head: rime. reiff
+entry: "<a href='/digital-beehive/num2/num_0465/'>383 [Rime upon the ground]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d2950da69"
+item: "#item-f26a47423"
 unparsed:
-line: 'Head: reproach|Entry: 381 [Invective]|#item-d2950da69'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/794,3090,584,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469616842
-sort_value: '303923090'
+line: 'Head: rime. reiff|Entry: 383 [Rime upon the ground]|#item-f26a47423'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/443,2571,555,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232269028
+sort_value: '304012571'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/794,3090,584,105/150,/0/default.jpg
-label: reproach
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/443,2571,555,137/150,/0/default.jpg
+label: rime. reiff
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0625'
+order: '0669'
 layout: index_item
 collection: index4
 ---

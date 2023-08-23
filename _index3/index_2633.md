@@ -1,31 +1,29 @@
 ---
 pid: index_2633
 volume: Volume 3
-image_number: '31'
-head: nakedness
-entry: "<a href='/digital-beehive/alpha3/alpha_0630/'>a</a>|<a href='/digital-beehive/num2/num_0627/'>499
-  [Nackedness]</a>|<a href='/digital-beehive/num10/num_3467/'>4479 [Nakedness]</a>"
+image_number: '32'
+head: neesing
+entry:
 topic:
 first_letter: N
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3710/'>Sneez</a>"
 index:
-item: "#item-edf9151e3"
+item: "#item-a9e91958e"
 unparsed:
-line: 'Head: nakedness|Entry: a|Entry: 499 [Nackedness]|Entry: 4479 [Nakedness]|#item-edf9151e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1541,3308,736,173/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560363100859
-sort_value: '303133308'
+line: 'Head: neesing|See: Sneez|#item-a9e91958e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/373,3510,582,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439550512
+sort_value: '303213510'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1541,3308,736,173/150,/0/default.jpg
-label: nakedness
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/373,3510,582,148/150,/0/default.jpg
+label: neesing
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '715'
+order: '748'
 layout: index_item
 collection: index3
 ---

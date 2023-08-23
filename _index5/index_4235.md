@@ -1,30 +1,29 @@
 ---
 pid: index_4235
 volume: Volume 3
-image_number: '48'
-head: ten tribes of Isr.
-entry: "<a href='/digital-beehive/num6/num_2193/'>1487 [Jews]</a>"
+image_number: '49'
+head: vaunting
+entry:
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0392/'>boast</a>"
 index:
-item: "#item-50880e096"
+item: "#item-fbdac6d57"
 unparsed:
-line: 'Head: ten tribes of Isr.|Entry: 1487 [Jews]|#item-50880e096'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1798,1000,684,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088159745
-sort_value: '304831000'
+line: 'Head: vaunting|See: boast|#item-fbdac6d57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/956,1922,644,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658415016
+sort_value: '304921922'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1798,1000,684,143/150,/0/default.jpg
-label: ten tribes of Isr.
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/956,1922,644,117/150,/0/default.jpg
+label: vaunting
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '197'
+order: '258'
 layout: index_item
 collection: index5
 ---

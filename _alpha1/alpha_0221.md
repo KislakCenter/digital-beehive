@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0069/'>Beauty</a>|4571 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0990/'>deformity</a>"
+index: "<a href='/digital-beehive/index1/index_0971/'>deformity</a>"
 item: "#item-15a565036"
 unparsed:
 line: 'Entry: Deformity|Topic: Deformity|Xref: Beauty|Xref: 4571 [PAGE_MISSING]|Index:

@@ -2,30 +2,29 @@
 pid: index_2165
 volume: Volume 3
 image_number: '27'
-head: kiss
-entry: "<a href='/digital-beehive/alpha3/alpha_0505/'>a</a>|<a href='/digital-beehive/num8/num_2798/'>1905
-  [Kissing]</a>"
+head: large
+entry: "<a href='/digital-beehive/num3/num_0861/'>635 [Great, rich & eminent Persons]</a>|800
+  [PAGE_MISSING]"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-63df50127"
+item: "#item-9d0ceed6a"
 unparsed:
-line: 'Head: kiss|Entry: a|Entry: 1905 [Kissing]|#item-63df50127'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/852,1424,443,180/full/0/default.jpg
+line: 'Head: large|Entry: 635 [Great, rich & eminent Persons]|Entry: 800 [PAGE_MISSING]|#item-9d0ceed6a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1572,1283,469,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761983010
-sort_value: '302721424'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835569557
+sort_value: '302731283'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/852,1424,443,180/150,/0/default.jpg
-label: kiss
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1572,1283,469,145/150,/0/default.jpg
+label: large
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '247'
+order: '280'
 layout: index_item
 collection: index3
 ---

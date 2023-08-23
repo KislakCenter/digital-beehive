@@ -1,31 +1,29 @@
 ---
 pid: index_2598
 volume: Volume 3
-image_number: '31'
-head: motion
-entry: "<a href='/digital-beehive/alpha3/alpha_0614/'>a</a>|<a href='/digital-beehive/num4/num_1278/'>958
-  [Motions]</a>"
+image_number: '32'
+head: hard names
+entry: "<a href='/digital-beehive/num3/num_0678/'>538 [Reviling, so called]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-75b9383e0"
+item: "#item-5d2bdc577"
 unparsed:
-line: 'Head: motion|Entry: a|Entry: 958 [Motions]|#item-75b9383e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/831,3318,502,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356975334
-sort_value: '303123318'
+line: 'Head: hard names|Entry: 538 [Reviling, so called]|#item-5d2bdc577'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,458,527,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560436789645
+sort_value: '303210458'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/831,3318,502,127/150,/0/default.jpg
-label: motion
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,458,527,103/150,/0/default.jpg
+label: hard names
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '680'
+order: '713'
 layout: index_item
 collection: index3
 ---

@@ -2,29 +2,28 @@
 pid: index_3448
 volume: Volume 3
 image_number: '40'
-head: root
-entry: "<a href='/digital-beehive/num2/num_0440/'>368 [Root]</a>"
+head: sale
+entry: "<a href='/digital-beehive/num3/num_1045/'>714 [Market]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-84afff1f8"
+item: "#item-ea7f66eff"
 unparsed:
-line: 'Head: root|Entry: 368 [Root]|#item-84afff1f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1170,1350,326,98/full/0/default.jpg
+line: 'Head: sale|Entry: 714 [Market]|#item-ea7f66eff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1827,3438,350,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233466297
-sort_value: '304021350'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235448764
+sort_value: '304033438'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1170,1350,326,98/150,/0/default.jpg
-label: root
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1827,3438,350,112/150,/0/default.jpg
+label: sale
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0696'
+order: '0740'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_1714
 volume: Volume 3
 image_number: '23'
-head: grinning
-entry: 4707 [PAGE_MISSING]
+head: handkerchief
+entry: 4578 [PAGE_MISSING]
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ec422f2e7"
+item: "#item-1c8ac9f9c"
 unparsed:
-line: 'Head: grinning|Entry: 4707 [PAGE_MISSING]|#item-ec422f2e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/158,1457,449,111/full/0/default.jpg
+line: 'Head: handkerchief|Entry: 4578 [PAGE_MISSING]|#item-1c8ac9f9c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/857,724,594,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231161465
-sort_value: '302311457'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238479565
+sort_value: '302320724'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/158,1457,449,111/150,/0/default.jpg
-label: grinning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/857,724,594,106/150,/0/default.jpg
+label: handkerchief
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '533'
+order: '555'
 layout: index_item
 collection: index2
 ---

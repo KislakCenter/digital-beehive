@@ -2,30 +2,28 @@
 pid: index_3445
 volume: Volume 3
 image_number: '40'
-head: Rome
-entry: "<a href='/digital-beehive/alpha4/alpha_0819/'>a</a>|<a href='/digital-beehive/num6/num_2122/'>1450
-  [Rome]</a>"
+head: salamander
+entry: "<a href='/digital-beehive/num5/num_1721/'>1245 [Salamander]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2ba8be2e0"
+item: "#item-5fe2f6efe"
 unparsed:
-line: 'Head: Rome|Entry: a|Entry: 1450 [Rome]|#item-2ba8be2e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1160,1004,491,152/full/0/default.jpg
+line: 'Head: salamander|Entry: 1245 [Salamander]|#item-5fe2f6efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233355853
-sort_value: '304021004'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235309496
+sort_value: '304033098'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1160,1004,491,152/150,/0/default.jpg
-label: Rome
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/150,/0/default.jpg
+label: salamander
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0693'
+order: '0737'
 layout: index_item
 collection: index4
 ---

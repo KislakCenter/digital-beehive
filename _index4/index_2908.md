@@ -1,31 +1,29 @@
 ---
 pid: index_2908
 volume: Volume 3
-image_number: '34'
-head: passions
-entry: "<a href='/digital-beehive/num1/num_0123/'>119 [Passions]</a>|<a href='/digital-beehive/num9/num_2978/'>2043
-  [Passions]</a>"
+image_number: '35'
+head: to perform
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1099/'>do</a>"
 index:
-item: "#item-115249413"
+item: "#item-7df8eacf5"
 unparsed:
-line: 'Head: passions|Entry: 119 [Passions]|Entry: 2043 [Passions]|#item-115249413'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1820,791,673,237/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495066492
-sort_value: '303430791'
+line: 'Head: to perform|See: do|#item-7df8eacf5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/100,2296,573,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973084783
+sort_value: '303512296'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1820,791,673,237/150,/0/default.jpg
-label: passions
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/100,2296,573,145/150,/0/default.jpg
+label: to perform
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0156'
+order: '0200'
 layout: index_item
 collection: index4
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_3386
 volume: Volume 3
-image_number: '39'
-head: reserved
-entry:
+image_number: '40'
+head: rock
+entry: "<a href='/digital-beehive/num8/num_2811/'>1914 [Rock]</a>"
 topic:
 first_letter: R
-page:
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-dd9ecc4e1"
+item: "#item-02ac0e439"
 unparsed:
-line: 'Head: reserved|#item-dd9ecc4e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1498,845,373,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1575398429225
-sort_value: '303930845'
+line: 'Head: rock|Page: p.32 [Image 1.92]|Entry: 1914 [Rock]|#item-02ac0e439'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1173,361,576,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232840500
+sort_value: '304020361'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1498,845,373,124/150,/0/default.jpg
-label: reserved
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1173,361,576,133/150,/0/default.jpg
+label: rock
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0634'
+order: '0678'
 layout: index_item
 collection: index4
 ---

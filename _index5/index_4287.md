@@ -1,10 +1,9 @@
 ---
 pid: index_4287
 volume: Volume 3
-image_number: '49'
-head: vagabonds
-entry: "<a href='/digital-beehive/alpha5/alpha_0991/'>a</a>|<a href='/digital-beehive/num3/num_0841/'>623
-  [Vagabond]</a>"
+image_number: '50'
+head: unarmed
+entry: "<a href='/digital-beehive/num8/num_2707/'>1775 [Unarmed]</a>"
 topic:
 first_letter: U/V
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bec0a5262"
+item: "#item-9fce19fd1"
 unparsed:
-line: 'Head: vagabonds|Entry: a|Entry: 623 [Vagabond]|#item-bec0a5262'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/929,428,593,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657551109
-sort_value: '304920428'
+line: 'Head: unarmed|Entry: 1775 [Unarmed]|#item-9fce19fd1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/439,1013,532,82/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872182365
+sort_value: '305011013'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/929,428,593,147/150,/0/default.jpg
-label: vagabonds
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/439,1013,532,82/150,/0/default.jpg
+label: unarmed
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '249'
+order: '310'
 layout: index_item
 collection: index5
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1902/'>1346 [Thunder & Lightning]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4143/'>thunder</a>"
+index: "<a href='/digital-beehive/index5/index_4081/'>thunder</a>"
 item: "#item-40bb469ee"
 unparsed:
 line: 'Entry: Thunder|Topic: Thunder|Xref: 1346 [Thunder & Lightning]|Index: thunder|#item-40bb469ee'

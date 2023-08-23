@@ -1,30 +1,29 @@
 ---
 pid: index_3024
 volume: Volume 3
-image_number: '35'
-head: pity
-entry:
+image_number: '36'
+head: popularity
+entry: "<a href='/digital-beehive/num2/num_0455/'>377 [Popularity]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0758/'>compassion</a>"
+see:
 index:
-item: "#item-3021d2f85"
+item: "#item-ff20adbe8"
 unparsed:
-line: 'Head: pity|See: compassion|#item-3021d2f85'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1496,2541,690,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977034816
-sort_value: '303532541'
+line: 'Head: popularity|Entry: 377 [Popularity]|#item-ff20adbe8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1201,872,525,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438408084
+sort_value: '303620872'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1496,2541,690,140/150,/0/default.jpg
-label: pity
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1201,872,525,143/150,/0/default.jpg
+label: popularity
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0272'
+order: '0316'
 layout: index_item
 collection: index4
 ---

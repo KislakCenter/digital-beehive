@@ -2,31 +2,28 @@
 pid: index_2368
 volume: Volume 3
 image_number: '29'
-head: lust
-entry: "<a href='/digital-beehive/num6/num_2015/'>1402 [Lasciviousness]</a>"
+head: mandrakes
+entry: "<a href='/digital-beehive/num8/num_2861/'>1939 [Mandrakes]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
-add: "<a href='/digital-beehive/index1/index_0777/'>Concup</a>|<a href='/digital-beehive/index3/index_2202/'>lasciv</a>|<a
-  href='/digital-beehive/index4/index_3042/'>pleasure</a>|<a href='/digital-beehive/index2/index_1372/'>eye</a>"
+add:
 xref:
 see:
 index:
-item: "#item-510e75603"
+item: "#item-99d7d1566"
 unparsed:
-line: 'Head: lust|Entry: 1402 [Lasciviousness]|Add: Concup|Add: lasciv|Add: pleasure|Add:
-  eye|#item-510e75603'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/851,924,646,184/full/0/default.jpg
+line: 'Head: mandrakes|Entry: 1939 [Mandrakes]|#item-99d7d1566'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1548,1821,551,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185535453
-sort_value: '302920924'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195450838
+sort_value: '302931821'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/851,924,646,184/150,/0/default.jpg
-label: lust
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1548,1821,551,121/150,/0/default.jpg
+label: mandrakes
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '450'
+order: '483'
 layout: index_item
 collection: index3
 ---

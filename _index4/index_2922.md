@@ -1,9 +1,9 @@
 ---
 pid: index_2922
 volume: Volume 3
-image_number: '34'
-head: patriarchs
-entry: "<a href='/digital-beehive/num11/num_3535/'>4839 [Patriarchs]</a>"
+image_number: '35'
+head: person
+entry: "<a href='/digital-beehive/alpha4/alpha_0705/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-dfb7ba6a6"
+item: "#item-1a3d585fd"
 unparsed:
-line: 'Head: patriarchs|Entry: 4839 [Patriarchs]|#item-dfb7ba6a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1830,2078,599,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495604199
-sort_value: '303432078'
+line: 'Head: person|Entry: a|#item-1a3d585fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/819,653,393,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974096793
+sort_value: '303520653'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1830,2078,599,167/150,/0/default.jpg
-label: patriarchs
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/819,653,393,119/150,/0/default.jpg
+label: person
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0170'
+order: '0214'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_3611
 volume: Volume 3
 image_number: '42'
-head: Self deceit
-entry: "<a href='/digital-beehive/num6/num_1970/'>1380 [Self-deceit]</a>"
+head: shells of snails
+entry: "<a href='/digital-beehive/alpha4/alpha_0871/'>a</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ef6f3cd94"
+item: "#item-bd0c3c135"
 unparsed:
-line: 'Head: Self deceit|Entry: 1380 [Self-deceit]|#item-ef6f3cd94'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,1014,500,76/full/0/default.jpg
+line: 'Head: shells of snails|Entry: a|#item-bd0c3c135'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1842,249,635,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244197412
-sort_value: '304211014'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575492237
+sort_value: '304230249'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,1014,500,76/150,/0/default.jpg
-label: Self deceit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1842,249,635,147/150,/0/default.jpg
+label: shells of snails
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0859'
+order: '0903'
 layout: index_item
 collection: index4
 ---

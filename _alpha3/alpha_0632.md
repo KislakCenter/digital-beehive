@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num8/num_2869/'>1944 [Name of God]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2635/'>name of God</a>|<a href='/digital-beehive/index2/index_1648/'>God's
+index: "<a href='/digital-beehive/index3/index_2593/'>name of God</a>|<a href='/digital-beehive/index2/index_1619/'>God's
   name</a>"
 item: "#item-e00d8e332"
 unparsed:

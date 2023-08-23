@@ -2,31 +2,29 @@
 pid: index_1453
 volume: Volume 3
 image_number: '20'
-head: fire
-entry: "<a href='/digital-beehive/alpha2/alpha_0328/'>a</a>|<a href='/digital-beehive/num5/num_1570/'>1152
-  [Fire]</a>|<a href='/digital-beehive/num8/num_2881/'>1956 [Fire]</a>"
+head: flesh
+entry: "<a href='/digital-beehive/alpha2/alpha_0334/'>a</a>|<a href='/digital-beehive/num3/num_0655/'>522
+  [Flesh]</a>"
 topic:
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a1eb3df1d"
+item: "#item-52fb37308"
 unparsed:
-line: 'Head: fire|Page: p.30 [Image 1.90]|Entry: a|Entry: 1152 [Fire]|Entry: 1956
-  [Fire]|#item-a1eb3df1d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1793,816,740,187/full/0/default.jpg
+line: 'Head: flesh|Entry: a|Entry: 522 [Flesh]|#item-52fb37308'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,2881,483,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613126400
-sort_value: '302030816'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562617390813
+sort_value: '302032881'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1793,816,740,187/150,/0/default.jpg
-label: fire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,2881,483,166/150,/0/default.jpg
+label: flesh
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '272'
+order: '294'
 layout: index_item
 collection: index2
 ---

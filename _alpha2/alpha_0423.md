@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0384/'>Grandeur</a>|<a href='/digital-beehive/num4/num_1132/'>883
   [highness]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1833/'>highness</a>"
+index: "<a href='/digital-beehive/index2/index_1801/'>highness</a>"
 item: "#item-61f20e887"
 unparsed:
 line: 'Entry: Highness|Topic: Highness|Xref: Grandeur|Xref: 883 [highness]|Index:

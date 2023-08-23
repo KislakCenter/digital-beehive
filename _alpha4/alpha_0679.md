@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0210/'>201 [Orthodox Paradoxes]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2875/'>paradox</a>"
+index: "<a href='/digital-beehive/index4/index_2829/'>paradox</a>"
 item: "#item-294cea577"
 unparsed:
 line: 'Entry: Paradox|Topic: Paradox|Xref: 201 [Orthodox Paradoxes]|Index: paradox|#item-294cea577'

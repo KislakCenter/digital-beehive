@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0123/'>Cards</a>|<a href='/digital-beehive/alpha1/alpha_0235/'>Dice</a>|<a
   href='/digital-beehive/num3/num_1064/'>720 [Playing]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3040/'>play</a>"
+index: "<a href='/digital-beehive/index4/index_2991/'>play</a>"
 item: "#item-709c4345e"
 unparsed:
 line: 'Entry: Play|Topic: Play|Xref: Cards|Xref: Dice|Xref: 720 [Playing]|Index: play|#item-709c4345e'

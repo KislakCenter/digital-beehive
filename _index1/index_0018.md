@@ -24,7 +24,6 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/187,1631
 label: absurdity
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0017'
 layout: index_item
 collection: index1

@@ -2,29 +2,28 @@
 pid: index_2030
 volume: Volume 3
 image_number: '26'
-head: infant baptism
-entry: "<a href='/digital-beehive/num2/num_0511/'>413 [Infant baptism]</a>"
+head: to inspect
+entry: 4801 [WORD_MISSING]
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3839/'>Steward</a>"
 index:
-item: "#item-50d6d9719"
+item: "#item-3a4ddaf09"
 unparsed:
-line: 'Head: infant baptism|Entry: 413 [Infant baptism]|#item-50d6d9719'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/464,1205,620,134/full/0/default.jpg
+line: 'Head: to inspect|See: Steward|Entry: 4801 [WORD_MISSING]|#item-3a4ddaf09'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1148,1614,843,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744137484
-sort_value: '302611205'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747927767
+sort_value: '302621614'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/464,1205,620,134/150,/0/default.jpg
-label: infant baptism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1148,1614,843,121/150,/0/default.jpg
+label: to inspect
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '112'
+order: '145'
 layout: index_item
 collection: index3
 ---

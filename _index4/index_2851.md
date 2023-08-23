@@ -2,29 +2,28 @@
 pid: index_2851
 volume: Volume 3
 image_number: '34'
-head: ox
-entry: "<a href='/digital-beehive/alpha4/alpha_0676/'>a</a>"
+head: 'partakers of oth: Sins'
+entry: "<a href='/digital-beehive/num10/num_3389/'>2415 [Partake not with the wicked]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-02b868b32"
+item: "#item-0e2eecca7"
 unparsed:
-line: 'Head: ox|Entry: a|#item-02b868b32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/472,2184,305,111/full/0/default.jpg
+line: 'Head: partakers of oth: Sins|Entry: 2415 [Partake not with the wicked]|#item-0e2eecca7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,3098,678,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425715650
-sort_value: '303412184'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494698453
+sort_value: '303423098'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/472,2184,305,111/150,/0/default.jpg
-label: ox
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,3098,678,146/150,/0/default.jpg
+label: 'partakers of oth: Sins'
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0099'
+order: '0143'
 layout: index_item
 collection: index4
 ---

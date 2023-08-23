@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2632/'>1708 [Quarter granted]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3254/'>quarter</a>|<a href='/digital-beehive/index4/index_3255/'>winter
+index: "<a href='/digital-beehive/index4/index_3204/'>quarter</a>|<a href='/digital-beehive/index4/index_3205/'>winter
   quarter</a>"
 item: "#item-35fe5d3ef"
 unparsed:

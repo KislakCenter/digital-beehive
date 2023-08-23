@@ -1,30 +1,29 @@
 ---
 pid: index_2116
 volume: Volume 3
-image_number: '26'
-head: iron
-entry: "<a href='/digital-beehive/alpha3/alpha_0493/'>a</a>|4549 [PAGE_MISSING]"
+image_number: '27'
+head: Tho. of Kempis
+entry: "<a href='/digital-beehive/num5/num_1349/'>1009 [Thomas of Kempis]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-12928c94a"
+item: "#item-58914e255"
 unparsed:
-line: 'Head: iron|Entry: a|Entry: 4549 [PAGE_MISSING]|#item-12928c94a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,3500,492,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754890156
-sort_value: '302633500'
+line: 'Head: Tho. of Kempis|Entry: 1009 [Thomas of Kempis]|#item-58914e255'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/121,3530,613,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759660997
+sort_value: '302713530'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1854,3500,492,133/150,/0/default.jpg
-label: iron
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/121,3530,613,127/150,/0/default.jpg
+label: Tho. of Kempis
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '198'
+order: '231'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,8 @@
 pid: index_0188
 volume: Volume 3
 image_number: '8'
-head: approaching
-entry: "<a href='/digital-beehive/num3/num_0747/'>581 [to Approach]</a>"
+head: arabia
+entry: "<a href='/digital-beehive/num6/num_1960/'>1375 [Arabians]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-6d26a4a84"
+item: "#item-11159294e"
 unparsed:
-line: 'Head: approaching|Entry: 581 [to Approach]|#item-6d26a4a84'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1099,2507,581,140/full/0/default.jpg
+line: 'Head: arabia|Entry: 1375 [Arabians]|#item-11159294e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1107,3008,419,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760926009
-sort_value: '300822507'
+annotation_uri: http://dev.llgc.org.uk/annotation/1491239829752
+sort_value: '300823008'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1099,2507,581,140/150,/0/default.jpg
-label: approaching
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1107,3008,419,128/150,/0/default.jpg
+label: arabia
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0187'
 layout: index_item
 collection: index1

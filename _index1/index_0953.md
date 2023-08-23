@@ -2,29 +2,27 @@
 pid: index_0953
 volume: Volume 3
 image_number: '15'
-head: day
-entry: "<a href='/digital-beehive/alpha1/alpha_0211/'>a</a>|<a href='/digital-beehive/num6/num_2116/'>1447
-  [Day]</a>"
+head: debauch
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3352/'>revelling</a>"
 index:
-item: "#item-e6884194d"
+item: "#item-c9db7a647"
 unparsed:
-line: 'Head: day|Entry: a|Entry: 1447 [Day]|#item-e6884194d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1551,1973,475,98/full/0/default.jpg
+line: 'Head: debauch|See: revelling|#item-c9db7a647'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1535,3474,717,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507321988619
-sort_value: '301531973'
+annotation_uri: http://dev.llgc.org.uk/annotation/1540392491289
+sort_value: '301533474'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1551,1973,475,98/150,/0/default.jpg
-label: day
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1535,3474,717,134/150,/0/default.jpg
+label: debauch
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0952'
 layout: index_item
 collection: index1

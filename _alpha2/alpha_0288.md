@@ -10,7 +10,7 @@ page:
 add:
 xref: 730 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index2/index_1276/'>envy</a>"
+index: "<a href='/digital-beehive/index2/index_1253/'>envy</a>"
 item: "#item-4aae041fe"
 unparsed:
 line: 'Entry: Envy|Topic: Envy|Xref: 730 [PAGE_MISSING]|Index: envy|#item-4aae041fe'

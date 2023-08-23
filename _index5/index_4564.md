@@ -2,8 +2,9 @@
 pid: index_4564
 volume: Volume 3
 image_number: '53'
-head: "[:5.]"
-entry:
+head: wrong
+entry: "<a href='/digital-beehive/num1/num_0005/'>5 [Wrong]</a>|<a href='/digital-beehive/num5/num_1511/'>1116
+  [Injury]</a>"
 topic:
 first_letter: W
 page:
@@ -11,21 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7e14edb67"
-unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-7e14edb67'
-line: 'Type: Index|Insertion Xref: [:5.]|#item-7e14edb67'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/746,592,153,127/full/0/default.jpg
+item: "#item-322511ca5"
+unparsed:
+line: 'Head: wrong|Entry: 5 [Wrong]|Entry: 1116 [Injury]|#item-322511ca5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1598,1276,430,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791382455
-sort_value: '305310592'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798740565
+sort_value: '305331276'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/746,592,153,127/150,/0/default.jpg
-label: "[:5.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1598,1276,430,192/150,/0/default.jpg
+label: wrong
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
-  or winnow</a>"
-order: '526'
+order: '587'
 layout: index_item
 collection: index5
 ---

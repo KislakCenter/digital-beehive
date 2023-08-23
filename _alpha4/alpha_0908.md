@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num4/num_1319/'>989 [Spiritual Iniquities]</a>|<a
   href='/digital-beehive/num4/num_1320/'>989 [Spiritual Discerning]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3848/'>spiritual</a>"
+index: "<a href='/digital-beehive/index4/index_3791/'>spiritual</a>"
 item: "#item-2a449c272"
 unparsed:
 line: 'Entry: Spiritual|Topic: Spiritual|Xref: 989 [Spiritual Iniquities]|Xref: 989

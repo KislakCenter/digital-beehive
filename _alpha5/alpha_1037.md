@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0572/'>malignity</a>|<a href='/digital-beehive/alpha3/alpha_0637/'>naughtiness</a>|<a
   href='/digital-beehive/num2/num_0373/'>324 [Wickedness]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4544/'>wickedness</a>"
+index: "<a href='/digital-beehive/index5/index_4475/'>wickedness</a>"
 item: "#item-6129e9c82"
 unparsed:
 line: 'Entry: Wickedness|Topic: Wickedness|Xref: malignity|Xref: naughtiness|Xref:
