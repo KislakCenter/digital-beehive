@@ -25,8 +25,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/365,4511,600,180/250,/0/default.jpg
 label: Epicurism
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-issue: 'Damage partially obscures the cross reference to 1087 [Epicures], but we have
-  chosen to link to it. '
+issue: Damage partially obscures the cross reference to 1087 [Epicures], but we have
+  chosen to link to it.
 also_in_entry:
 order: '017'
 layout: alpha_item
