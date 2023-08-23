@@ -2,8 +2,9 @@
 pid: index_3714
 volume: Volume 3
 image_number: '43'
-head: simony
-entry: "<a href='/digital-beehive/alpha4/alpha_0880/'>a</a>"
+head: snuff
+entry: "<a href='/digital-beehive/num2/num_0557/'>447 [Snuff]</a>|<a href='/digital-beehive/num2/num_0596/'>476
+  [Sneezing]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-13b708162"
+item: "#item-167a41ee3"
 unparsed:
-line: 'Head: simony|Entry: a|#item-13b708162'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/172,2204,415,135/full/0/default.jpg
+line: 'Head: snuff|Entry: 447 [Snuff]|Entry: 476 [Sneezing]|#item-167a41ee3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,1407,507,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582329163
-sort_value: '304312204'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585516485
+sort_value: '304331407'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/172,2204,415,135/150,/0/default.jpg
-label: simony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,1407,507,152/150,/0/default.jpg
+label: snuff
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0962'
+order: '1006'
 layout: index_item
 collection: index4
 ---

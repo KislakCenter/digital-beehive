@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0508/'>Labour</a>|<a href='/digita
   href='/digital-beehive/alpha5/alpha_1029/'>Watchfulness</a>|<a href='/digital-beehive/num4/num_1226/'>924
   [Diligence]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1052/'>diligence</a>"
+index: "<a href='/digital-beehive/index1/index_1033/'>diligence</a>"
 item: "#item-6419df951"
 unparsed:
 line: 'Entry: Diligence|Topic: Diligence|Xref: Labour|Xref: Laziness|Xref: Watchfulness|Xref:

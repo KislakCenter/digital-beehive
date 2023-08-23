@@ -2,8 +2,8 @@
 pid: index_1199
 volume: Volume 3
 image_number: '18'
-head: ebbing & flowing
-entry: "<a href='/digital-beehive/num5/num_1723/'>1246 [Ebbing and Flowing]</a>"
+head: election of Kings
+entry: 4722 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e821e4873"
+item: "#item-96eb7ff86"
 unparsed:
-line: 'Head: ebbing & flowing|Entry: 1246 [Ebbing and Flowing]|#item-e821e4873'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/375,3408,752,177/full/0/default.jpg
+line: 'Head: election of Kings|Entry: 4722 [PAGE_MISSING]|#item-96eb7ff86'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1168,2174,464,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668391981
-sort_value: '301813408'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674612456
+sort_value: '301822174'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/375,3408,752,177/150,/0/default.jpg
-label: ebbing & flowing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1168,2174,464,152/150,/0/default.jpg
+label: election of Kings
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '018'
+order: '040'
 layout: index_item
 collection: index2
 ---

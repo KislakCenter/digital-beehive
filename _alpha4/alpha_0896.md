@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0796/'>603 [Flaccid]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3781/'>soft</a>"
+index: "<a href='/digital-beehive/index4/index_3724/'>soft</a>"
 item: "#item-bf50f33bf"
 unparsed:
 line: 'Entry: Soft|Topic: Soft|Xref: 603 [Flaccid]|Index: soft|#item-bf50f33bf'

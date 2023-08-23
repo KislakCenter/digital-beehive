@@ -1,30 +1,30 @@
 ---
 pid: index_4158
 volume: Volume 3
-image_number: '47'
-head: tin
-entry:
+image_number: '48'
+head: travelling
+entry: "<a href='/digital-beehive/alpha5/alpha_0981/'>a</a>|<a href='/digital-beehive/num5/num_1567/'>1149
+  [Travelling]</a>"
 topic:
 first_letter: T
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2978/'>pewter</a>"
+see:
 index:
-item: "#item-a23ef3708"
+item: "#item-f39c23f1a"
 unparsed:
-line: 'Head: tin|See: pewter|#item-a23ef3708'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1606,2819,487,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281050415
-sort_value: '304732819'
+line: 'Head: travelling|Entry: a|Entry: 1149 [Travelling]|#item-f39c23f1a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1094,2915,622,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561489549293
+sort_value: '304822915'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1606,2819,487,129/150,/0/default.jpg
-label: tin
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1094,2915,622,176/150,/0/default.jpg
+label: travelling
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '120'
+order: '181'
 layout: index_item
 collection: index5
 ---

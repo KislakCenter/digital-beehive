@@ -2,29 +2,28 @@
 pid: index_1211
 volume: Volume 3
 image_number: '18'
-head: effect
-entry: 761 [PAGE_MISSING]
+head: embl. Recreations
+entry:
 topic:
 first_letter: E
-page:
+page: "<a href='/digital-beehive/toc/toc1_075/'>p.25 [Image 1.85]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-4a876c5e3"
+item: "#item-7c4a27ae8"
 unparsed:
-line: 'Head: effect|Entry: 761 [PAGE_MISSING]|#item-4a876c5e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1187,1131,398,166/full/0/default.jpg
+line: 'Head: embl. Recreations|Page: p.25 [Image 1.85]|#item-7c4a27ae8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1138,3200,760,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673084477
-sort_value: '301821131'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559743932805
+sort_value: '301823200'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1187,1131,398,166/150,/0/default.jpg
-label: effect
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1138,3200,760,127/150,/0/default.jpg
+label: embl. Recreations
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '030'
+order: '052'
 layout: index_item
 collection: index2
 ---

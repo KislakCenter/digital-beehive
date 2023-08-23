@@ -1,30 +1,29 @@
 ---
 pid: index_2095
 volume: Volume 3
-image_number: '26'
-head: invitation
-entry: 804 [PAGE_MISSING]
+image_number: '27'
+head: Judith
+entry: "<a href='/digital-beehive/num11/num_3556/'>4860 [Judith]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3980/'>Sum[m]ons</a>"
+see:
 index:
-item: "#item-d80324991"
+item: "#item-ea4e7a53d"
 unparsed:
-line: 'Head: invitation|See: Sum[m]ons|Entry: 804 [PAGE_MISSING]|#item-d80324991'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1501,632,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751466838
-sort_value: '302631501'
+line: 'Head: Judith|Entry: 4860 [Judith]|#item-ea4e7a53d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/164,1432,452,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559757375639
+sort_value: '302711432'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1501,632,138/150,/0/default.jpg
-label: invitation
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/164,1432,452,112/150,/0/default.jpg
+label: Judith
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '177'
+order: '210'
 layout: index_item
 collection: index3
 ---

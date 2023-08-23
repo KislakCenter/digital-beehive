@@ -2,8 +2,8 @@
 pid: index_0809
 volume: Volume 3
 image_number: '14'
-head: considerateness
-entry: 751 [PAGE_MISSING]
+head: continency
+entry: "<a href='/digital-beehive/alpha1/alpha_0178/'>a</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-5700d405a"
+item: "#item-4b8143562"
 unparsed:
-line: 'Head: considerateness|Entry: 751 [PAGE_MISSING]|#item-5700d405a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1143,2170,650,141/full/0/default.jpg
+line: 'Head: continency|Entry: a|#item-4b8143562'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1876,255,532,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541765907
-sort_value: '301422170'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559205471
+sort_value: '301430255'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1143,2170,650,141/150,/0/default.jpg
-label: considerateness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1876,255,532,153/150,/0/default.jpg
+label: continency
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0808'
 layout: index_item
 collection: index1

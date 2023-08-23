@@ -1,30 +1,29 @@
 ---
 pid: index_3207
 volume: Volume 3
-image_number: '37'
-head: protestation
-entry: "<a href='/digital-beehive/num10/num_3479/'>4491 [Protestation]</a>"
+image_number: '38'
+head: Queen
+entry:
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1009/'>denial</a>"
+see: "<a href='/digital-beehive/index3/index_2126/'>king</a>"
 index:
-item: "#item-82138d250"
+item: "#item-1a4a2e57e"
 unparsed:
-line: 'Head: protestation|See: denial|Entry: 4491 [Protestation]|#item-82138d250'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1495,2043,752,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869501978
-sort_value: '303732043'
+line: 'Head: Queen|See: king|#item-1a4a2e57e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1154,543,520,174/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455056347
+sort_value: '303820543'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1495,2043,752,150/150,/0/default.jpg
-label: protestation
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1154,543,520,174/150,/0/default.jpg
+label: Queen
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0455'
+order: '0499'
 layout: index_item
 collection: index4
 ---

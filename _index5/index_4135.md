@@ -1,30 +1,29 @@
 ---
 pid: index_4135
 volume: Volume 3
-image_number: '47'
-head: throat
-entry: "<a href='/digital-beehive/num3/num_0957/'>681 [Throat]</a>"
+image_number: '48'
+head: torturing
+entry: "<a href='/digital-beehive/num2/num_0520/'>419 [Torturing]</a>"
 topic:
 first_letter: T
 page:
-add: neck
+add:
 xref:
 see:
 index:
-item: "#item-7e91cd1f6"
+item: "#item-6cb85a76d"
 unparsed:
-line: 'Head: throat|Entry: 681 [Throat]|Add: neck |#item-7e91cd1f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/905,3444,353,177/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532878627819
-sort_value: '304723444'
+line: 'Head: torturing|Entry: 419 [Torturing]|#item-6cb85a76d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,3592,577,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278370090
+sort_value: '304813592'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/905,3444,353,177/150,/0/default.jpg
-label: throat
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,3592,577,160/150,/0/default.jpg
+label: torturing
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '097'
+order: '158'
 layout: index_item
 collection: index5
 ---

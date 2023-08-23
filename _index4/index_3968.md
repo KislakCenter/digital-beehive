@@ -1,9 +1,9 @@
 ---
 pid: index_3968
 volume: Volume 3
-image_number: '45'
-head: suck
-entry: "<a href='/digital-beehive/alpha4/alpha_0928/'>a</a>"
+image_number: '46'
+head: swooning
+entry: 728 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a11ac9fc6"
+item: "#item-c91eaff06"
 unparsed:
-line: 'Head: suck|Entry: a|#item-a11ac9fc6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1624,2633,261,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530469497305
-sort_value: '304532633'
+line: 'Head: swooning|Entry: 728 [PAGE_MISSING]|#item-c91eaff06'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1098,2662,476,90/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531702388747
+sort_value: '304622662'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1624,2633,261,103/150,/0/default.jpg
-label: suck
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1098,2662,476,90/150,/0/default.jpg
+label: swooning
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1216'
+order: '1260'
 layout: index_item
 collection: index4
 ---

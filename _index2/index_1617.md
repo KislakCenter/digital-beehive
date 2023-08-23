@@ -2,8 +2,8 @@
 pid: index_1617
 volume: Volume 3
 image_number: '22'
-head: Glaucha hospital
-entry: "<a href='/digital-beehive/num6/num_2043/'>1415 [Hospital]</a>"
+head: God hiding himself
+entry: "<a href='/digital-beehive/num9/num_2938/'>2003 [God hides himself]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d2e6eff2d"
+item: "#item-c5420366d"
 unparsed:
-line: 'Head: Glaucha hospital|Entry: 1415 [Hospital]|#item-d2e6eff2d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/433,2742,681,134/full/0/default.jpg
+line: 'Head: God hiding himself|Entry: 2003 [God hides himself]|#item-c5420366d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1167,2026,651,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043947767
-sort_value: '302212742'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047570067
+sort_value: '302222026'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/433,2742,681,134/150,/0/default.jpg
-label: Glaucha hospital
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1167,2026,651,85/150,/0/default.jpg
+label: God hiding himself
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '436'
+order: '458'
 layout: index_item
 collection: index2
 ---

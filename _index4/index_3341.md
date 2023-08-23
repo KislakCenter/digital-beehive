@@ -2,8 +2,8 @@
 pid: index_3341
 volume: Volume 3
 image_number: '39'
-head: to reject
-entry: 806 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3148/'>2204 [Refusal]</a>
+head: restitution
+entry: "<a href='/digital-beehive/num2/num_0496/'>405 [Restitution]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d70918643"
+item: "#item-f299ce24d"
 unparsed:
-line: 'Head: to reject|Entry: 806 [PAGE_MISSING]|Entry: 2204 [Refusal]|#item-d70918643'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/116,2466,652,129/full/0/default.jpg
+line: 'Head: restitution|Entry: 405 [Restitution]|#item-f299ce24d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1509,1724,616,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464979097
-sort_value: '303912466'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229903965
+sort_value: '303931724'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/116,2466,652,129/150,/0/default.jpg
-label: to reject
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1509,1724,616,189/150,/0/default.jpg
+label: restitution
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0589'
+order: '0633'
 layout: index_item
 collection: index4
 ---

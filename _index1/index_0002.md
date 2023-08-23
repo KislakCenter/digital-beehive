@@ -23,7 +23,6 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/162,268,
 label: Abatemt
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0001'
 layout: index_item
 collection: index1

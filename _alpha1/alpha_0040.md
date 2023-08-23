@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num11/num_3487/'>4794 [Apothecary]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0172/'>apothecary</a>"
+index: "<a href='/digital-beehive/index1/index_0166/'>apothecary</a>"
 item: "#item-31ae4a109"
 unparsed:
 line: 'Entry: [WORD_MISSING]|Topic: Apothecary|Xref: 4794 [Apothecary]|Index: apothecary|#item-31ae4a109'

@@ -1,9 +1,9 @@
 ---
 pid: index_3020
 volume: Volume 3
-image_number: '35'
-head: piss
-entry: 805 [PAGE_MISSING]
+image_number: '36'
+head: poor man defendt
+entry: "<a href='/digital-beehive/num1/num_0167/'>160 [Gods help]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e49353683"
+item: "#item-c859ed304"
 unparsed:
-line: 'Head: piss|Entry: 805 [PAGE_MISSING]|#item-e49353683'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1526,2161,410,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976772640
-sort_value: '303532161'
+line: 'Head: poor man defendt|Entry: 160 [Gods help]|#item-c859ed304'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1189,375,681,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438258254
+sort_value: '303620375'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1526,2161,410,150/150,/0/default.jpg
-label: piss
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1189,375,681,150/150,/0/default.jpg
+label: poor man defendt
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0268'
+order: '0312'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,27 @@
 pid: index_1041
 volume: Volume 3
 image_number: '16'
-head: diamant
-entry: "<a href='/digital-beehive/num7/num_2496/'>1639 [Adamas]</a>"
+head: disappointmt
+entry: "<a href='/digital-beehive/num2/num_0586/'>470 [Disappointmt]</a>|1861 [PAGE_MISSING]"
 topic:
 first_letter: D
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-b511008ed"
+item: "#item-4cdd63587"
 unparsed:
-line: 'Head: diamant|Page: p.32 [Image 1.92]|Entry: 1639 [Adamas]|#item-b511008ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1777,731,685,125/full/0/default.jpg
+line: 'Head: disappointmt|Entry: 470 [Disappointmt]|Entry: 1861 [PAGE_MISSING]|#item-4cdd63587'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1737,2604,744,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783511112
-sort_value: '301630731'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541784115199
+sort_value: '301632604'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1777,731,685,125/150,/0/default.jpg
-label: diamant
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1737,2604,744,105/150,/0/default.jpg
+label: disappointmt
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1040'
 layout: index_item
 collection: index1

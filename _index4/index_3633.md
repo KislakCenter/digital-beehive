@@ -2,8 +2,8 @@
 pid: index_3633
 volume: Volume 3
 image_number: '42'
-head: to send
-entry: "<a href='/digital-beehive/num3/num_0973/'>685 [To Send away]</a>"
+head: shout
+entry: "<a href='/digital-beehive/num8/num_2837/'>1925 [to Shout]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d33b63050"
+item: "#item-0eba24752"
 unparsed:
-line: 'Head: to send|Entry: 685 [To Send away]|#item-d33b63050'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/422,2990,445,143/full/0/default.jpg
+line: 'Head: shout|Entry: 1925 [to Shout]|#item-0eba24752'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1786,2824,370,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245127299
-sort_value: '304212990'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576491601
+sort_value: '304232824'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/422,2990,445,143/150,/0/default.jpg
-label: to send
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1786,2824,370,113/150,/0/default.jpg
+label: shout
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0881'
+order: '0925'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0857/'>Self-murther</a>|<a href='/digital-beehive/num2/num_0526/'>424
   [Fear of death]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0970/'>fear of Death</a>"
+index: "<a href='/digital-beehive/index1/index_0951/'>fear of Death</a>"
 item: "#item-802c3c09e"
 unparsed:
 line: 'Entry: Fear of Death|Topic: Fear of Death|Xref: Self-murther|Xref: 424 [Fear

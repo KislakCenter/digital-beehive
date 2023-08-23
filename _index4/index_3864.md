@@ -1,10 +1,9 @@
 ---
 pid: index_3864
 volume: Volume 3
-image_number: '44'
-head: spring. frühling
-entry: "<a href='/digital-beehive/alpha4/alpha_0910/'>a</a>|<a href='/digital-beehive/num7/num_2679/'>1749
-  [Spring]</a>"
+image_number: '45'
+head: to Strain a gnat
+entry: "<a href='/digital-beehive/num1/num_0185/'>177 [Strain a gnat]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-22634b21f"
+item: "#item-cbc71dafe"
 unparsed:
-line: 'Head: spring. frühling|Entry: a|Entry: 1749 [Spring]|#item-22634b21f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1831,1790,681,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530105531298
-sort_value: '304431790'
+line: 'Head: to Strain a gnat|Entry: 177 [Strain a gnat]|#item-cbc71dafe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/890,1050,540,80/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290625063
+sort_value: '304521050'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1831,1790,681,137/150,/0/default.jpg
-label: spring. frühling
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/890,1050,540,80/150,/0/default.jpg
+label: to Strain a gnat
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1112'
+order: '1156'
 layout: index_item
 collection: index4
 ---

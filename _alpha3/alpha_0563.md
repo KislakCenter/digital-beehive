@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0176/'>contempt</a>|4576 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2347/'>love of the world</a>"
+index: "<a href='/digital-beehive/index3/index_2309/'>love of the world</a>"
 item: "#item-0b0db11ac"
 unparsed:
 line: 'Entry: Love of the world|Topic: Love of the world|XRef: contempt|XRef: 4576

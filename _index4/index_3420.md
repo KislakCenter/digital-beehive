@@ -2,10 +2,8 @@
 pid: index_3420
 volume: Volume 3
 image_number: '40'
-head: riches
-entry: "<a href='/digital-beehive/alpha4/alpha_0811/'>a</a>|854 [PAGE_MISSING]|<a
-  href='/digital-beehive/num6/num_2108/'>1444 [Riches]</a>|<a href='/digital-beehive/num10/num_3365/'>2392
-  [Riches]</a>"
+head: rush
+entry: "<a href='/digital-beehive/num3/num_0944/'>676 [Rush]</a>"
 topic:
 first_letter: R
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3935c5596"
+item: "#item-a2b9d84a6"
 unparsed:
-line: 'Head: riches|Entry: a|Entry: 854 [PAGE_MISSING]|Entry: 1444 [Riches]|Entry:
-  2392 [Riches]|#item-3935c5596'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/456,1593,815,144/full/0/default.jpg
+line: 'Head: rush|Entry: 676 [Rush]|#item-a2b9d84a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1841,584,401,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231799274
-sort_value: '304011593'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234429005
+sort_value: '304030584'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/456,1593,815,144/150,/0/default.jpg
-label: riches
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1841,584,401,141/150,/0/default.jpg
+label: rush
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0668'
+order: '0712'
 layout: index_item
 collection: index4
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_4416
 volume: Volume 3
-image_number: '51'
-head: unseen
-entry: "<a href='/digital-beehive/num4/num_1120/'>879 [unseen]</a>"
+image_number: '52'
+head: wasps
+entry:
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1455/'>flies</a>"
 index:
-item: "#item-e61465d54"
+item: "#item-bab19515b"
 unparsed:
-line: 'Head: unseen|Entry: 879 [unseen]|#item-e61465d54'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/226,1245,369,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645544288
-sort_value: '305111245'
+line: 'Head: wasps|See: flies|#item-bab19515b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/545,583,477,165/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960093163
+sort_value: '305210583'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/226,1245,369,149/150,/0/default.jpg
-label: unseen
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/545,583,477,165/150,/0/default.jpg
+label: wasps
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '378'
+order: '439'
 layout: index_item
 collection: index5
 ---

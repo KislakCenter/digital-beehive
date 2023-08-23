@@ -1,30 +1,29 @@
 ---
 pid: index_4659
 volume: Volume 3
-image_number: '53'
-head: Zuz
-entry: "<a href='/digital-beehive/num8/num_2820/'>1917 [Zuz]</a>"
+image_number: '54'
+head: to like
+entry:
 topic:
-first_letter: Z
+first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0184/'>approbation</a>"
 index:
-item: "#item-ea5895bcc"
+item: "#item-a1ec520c5"
 unparsed:
-line: 'Head: Zuz|Entry: 1917 [Zuz]|#item-ea5895bcc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/2039,3496,281,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560870289974
-sort_value: '305333496'
+line: 'Type: Index|Insertion: [:62.]|Head: to like|See: approbation|#item-a1ec520c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1764,2244,736,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957495704
+sort_value: '305432244'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/2039,3496,281,121/150,/0/default.jpg
-label: Zuz
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1764,2244,736,164/150,/0/default.jpg
+label: to like
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '621'
+order: '682'
 layout: index_item
 collection: index5
 ---

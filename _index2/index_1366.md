@@ -1,30 +1,30 @@
 ---
 pid: index_1366
 volume: Volume 3
-image_number: '19'
-head: extraordinary
-entry: "<a href='/digital-beehive/num4/num_1156/'>893 [Extraordinary]</a>"
+image_number: '20'
+head: false Christs
+entry: "<a href='/digital-beehive/num6/num_1817/'>1300 [False Christs]</a>|<a href='/digital-beehive/num10/num_3323/'>2352
+  [False Christs]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ed6e953a1"
+item: "#item-b80604565"
 unparsed:
-line: 'Head: extraordinary|Entry: 893 [Extraordinary]|#item-ed6e953a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1525,2975,588,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561397120235
-sort_value: '301932975'
+line: 'Head: false Christs|Entry: 1300 [False Christs]|Entry: 2352 [False Christs]|#item-b80604565'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/398,1842,717,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561402081497
+sort_value: '302011842'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1525,2975,588,135/150,/0/default.jpg
-label: extraordinary
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/398,1842,717,111/150,/0/default.jpg
+label: false Christs
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '185'
+order: '207'
 layout: index_item
 collection: index2
 ---

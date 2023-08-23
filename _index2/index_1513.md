@@ -2,9 +2,9 @@
 pid: index_1513
 volume: Volume 3
 image_number: '21'
-head: formality
-entry: "<a href='/digital-beehive/num1/num_0244/'>229 [Formality]</a>|<a href='/digital-beehive/num6/num_2163/'>1470
-  [Form without Power]</a>"
+head: french
+entry: "<a href='/digital-beehive/alpha2/alpha_0351/'>a</a>|<a href='/digital-beehive/num6/num_1795/'>1288
+  [French]</a>|4644 [PAGE_MISSING]"
 topic:
 first_letter: F
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-026640b39"
+item: "#item-5c9e32b4d"
 unparsed:
-line: 'Head: formality|Entry: 229 [Formality]|Entry: 1470 [Form without Power]|#item-026640b39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/172,3023,689,137/full/0/default.jpg
+line: 'Head: french|Entry: a|Entry: 1288 [French]|Entry: 4644 [PAGE_MISSING]|#item-5c9e32b4d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/870,2068,675,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762378339
-sort_value: '302113023'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532619002953
+sort_value: '302122068'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/172,3023,689,137/150,/0/default.jpg
-label: formality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/870,2068,675,105/150,/0/default.jpg
+label: french
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '332'
+order: '354'
 layout: index_item
 collection: index2
 ---

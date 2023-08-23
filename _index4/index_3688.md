@@ -1,9 +1,9 @@
 ---
 pid: index_3688
 volume: Volume 3
-image_number: '42'
-head: short of breath
-entry: "<a href='/digital-beehive/num2/num_0594/'>475 [Shortness of breath]</a>"
+image_number: '43'
+head: slaughter
+entry: "<a href='/digital-beehive/num1/num_0253/'>235 [Battel]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a70c732f3"
+item: "#item-ec46f97dd"
 unparsed:
-line: 'Head: short of breath|Entry: 475 [Shortness of breath]|#item-a70c732f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1785,2746,581,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576472024
-sort_value: '304232746'
+line: 'Head: slaughter|Entry: 235 [Battel]|#item-ec46f97dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,2056,592,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583547375
+sort_value: '304322056'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1785,2746,581,122/150,/0/default.jpg
-label: short of breath
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,2056,592,144/150,/0/default.jpg
+label: slaughter
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0936'
+order: '0980'
 layout: index_item
 collection: index4
 ---

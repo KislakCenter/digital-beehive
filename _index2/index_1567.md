@@ -1,31 +1,29 @@
 ---
 pid: index_1567
 volume: Volume 3
-image_number: '21'
-head: further
-entry: "<a href='/digital-beehive/num3/num_0809/'>609 [Further]</a>|<a href='/digital-beehive/num6/num_2056/'>1420
-  [Secondly]</a>"
+image_number: '22'
+head: Geneva
+entry: "<a href='/digital-beehive/num6/num_1956/'>1373 [Geneva]</a>"
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1d105e62f"
+item: "#item-bd0c480e8"
 unparsed:
-line: 'Head: further|Entry: 609 [Further]|Entry: 1420 [Secondly]|#item-1d105e62f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1546,1391,659,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786198212
-sort_value: '302131391'
+line: 'Head: Geneva|Entry: 1373 [Geneva]|#item-bd0c480e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/419,532,429,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042048191
+sort_value: '302210532'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1546,1391,659,152/150,/0/default.jpg
-label: further
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/419,532,429,121/150,/0/default.jpg
+label: Geneva
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '386'
+order: '408'
 layout: index_item
 collection: index2
 ---

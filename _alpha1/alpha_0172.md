@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0145/'>140 [Conscience]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0801/'>conscience</a>"
+index: "<a href='/digital-beehive/index1/index_0786/'>conscience</a>"
 item: "#item-2d10e0793"
 unparsed:
 line: 'Entry: Conscience|Topic: Conscience|Xref: 140 [Conscience]|Index: conscience|#item-2d10e0793'

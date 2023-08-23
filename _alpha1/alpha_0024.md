@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0731/'>Precedency</a>|<a href='/digital-beehive/num5/num_1577/'>1156
   [Ambition]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0122/'>ambition</a>"
+index: "<a href='/digital-beehive/index1/index_0118/'>ambition</a>"
 item: "#item-6c6b63904"
 unparsed:
 line: 'Entry: Ambition|Topic: Ambition|Xref: Precedency|Xref: 1156 [Ambition]|Index:

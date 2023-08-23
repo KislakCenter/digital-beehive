@@ -2,8 +2,8 @@
 pid: index_2049
 volume: Volume 3
 image_number: '26'
-head: ink
-entry: "<a href='/digital-beehive/num2/num_0507/'>410 [Ink-horn]</a>"
+head: intricate
+entry: "<a href='/digital-beehive/num6/num_1761/'>1269 [Entangle & disentangle]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-78b87f6bb"
+item: "#item-cbf48ccb1"
 unparsed:
-line: 'Head: ink|Entry: 410 [Ink-horn]|#item-78b87f6bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/414,3271,320,120/full/0/default.jpg
+line: 'Head: intricate|Entry: 1269 [Entangle & disentangle]|#item-cbf48ccb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1857,419,477,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745555764
-sort_value: '302613271'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750664051
+sort_value: '302630419'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/414,3271,320,120/150,/0/default.jpg
-label: ink
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1857,419,477,117/150,/0/default.jpg
+label: intricate
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '131'
+order: '164'
 layout: index_item
 collection: index3
 ---

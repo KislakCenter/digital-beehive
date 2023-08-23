@@ -1,30 +1,29 @@
 ---
 pid: index_3094
 volume: Volume 3
-image_number: '36'
-head: potter
-entry: "<a href='/digital-beehive/num4/num_1163/'>897 [Pottersshop]</a>"
+image_number: '37'
+head: pretense
+entry: "<a href='/digital-beehive/num1/num_0136/'>131 [Pretext]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1314/'>excuse</a>|pretext"
 index:
-item: "#item-b965c8066"
+item: "#item-27a51d969"
 unparsed:
-line: 'Head: potter|Page: p.42 [Image 1.102]|Entry: 897 [Pottersshop]|#item-b965c8066'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1149,2772,601,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439135497
-sort_value: '303622772'
+line: 'Head: pretense|See: excuse|See: pretext|Entry: 131 [Pretext]|#item-27a51d969'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/86,1375,746,206/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565204500348
+sort_value: '303711375'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1149,2772,601,146/150,/0/default.jpg
-label: potter
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '0342'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/86,1375,746,206/150,/0/default.jpg
+label: pretense
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+issue: The intended point of reference for "pretext" is unclear.
+order: '0386'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,27 @@
 pid: index_0409
 volume: Volume 3
 image_number: '10'
-head: books
-entry: "<a href='/digital-beehive/alpha1/alpha_0094/'>a</a>|<a href='/digital-beehive/num5/num_1398/'>1044
-  [Books]</a>|4594 [PAGE_MISSING]"
+head: bossed
+entry: "<a href='/digital-beehive/num3/num_1056/'>717 [Bossed]</a>"
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-0cadc7ad0"
+item: "#item-e81d6b5d5"
 unparsed:
-line: 'Head: books|Page: p.41 [Image 1.101]|Entry: a|Entry: 1044 [Books]|Entry: 4594
-  [PAGE_MISSING]|#item-0cadc7ad0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,1268,734,169/full/0/default.jpg
+line: 'Head: bossed|Entry: 717 [Bossed]|#item-e81d6b5d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,2278,398,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531152921255
-sort_value: '301031268'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531416578348
+sort_value: '301032278'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,1268,734,169/150,/0/default.jpg
-label: books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,2278,398,133/150,/0/default.jpg
+label: bossed
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0408'
 layout: index_item
 collection: index1

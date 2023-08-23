@@ -2,8 +2,8 @@
 pid: index_2688
 volume: Volume 3
 image_number: '32'
-head: nettles
-entry: "<a href='/digital-beehive/num3/num_0972/'>685 [Nettles]</a>"
+head: not
+entry: "<a href='/digital-beehive/num4/num_1329/'>996 [Not]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ca4fa8d27"
+item: "#item-04251707f"
 unparsed:
-line: 'Head: nettles|Entry: 685 [Nettles]|#item-ca4fa8d27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1179,1030,386,102/full/0/default.jpg
+line: 'Head: not|Entry: 996 [Not]|#item-04251707f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2143,279,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441900152
-sort_value: '303221030'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449229025
+sort_value: '303232143'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1179,1030,386,102/150,/0/default.jpg
-label: nettles
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2143,279,101/150,/0/default.jpg
+label: not
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '770'
+order: '803'
 layout: index_item
 collection: index3
 ---

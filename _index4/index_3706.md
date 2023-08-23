@@ -2,8 +2,8 @@
 pid: index_3706
 volume: Volume 3
 image_number: '43'
-head: significa[ti]on
-entry: 798 [PAGE_MISSING]
+head: smooth
+entry: 830 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-49b7df76c"
+item: "#item-c6b2de4d9"
 unparsed:
-line: 'Head: significa[ti]on|Entry: 798 [PAGE_MISSING]|#item-49b7df76c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/175,1183,575,197/full/0/default.jpg
+line: 'Head: smooth|Entry: 830 [PAGE_MISSING]|#item-c6b2de4d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1574,391,442,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581961952
-sort_value: '304311183'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585047188
+sort_value: '304330391'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/175,1183,575,197/150,/0/default.jpg
-label: significa[ti]on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1574,391,442,131/150,/0/default.jpg
+label: smooth
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0954'
+order: '0998'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num6/num_1898/'>1344 [Red-haired]</a>|<a href='/digital-beehive/num6/num_1894/'>1343
   [Red-(:hair:)face]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3327/'>redhaired</a>"
+index: "<a href='/digital-beehive/index4/index_3276/'>redhaired</a>"
 item: "#item-a1062b13d"
 unparsed:
 line: 'Entry: Redhaired|Topic: Redhaired|Xref: 1344 [Red-haired]|Xref: 1343 [Red-(:hair:)face]|Index:

@@ -2,29 +2,29 @@
 pid: index_4178
 volume: Volume 3
 image_number: '48'
-head: too late
-entry: "<a href='/digital-beehive/num6/num_1741/'>1255 [Too Late]</a>"
+head: trivial
+entry: "<a href='/digital-beehive/num1/num_0239/'>224 [Considerable]</a>|<a href='/digital-beehive/num3/num_0642/'>510
+  [So trivial a thing]</a>"
 topic:
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-9f450cc8c"
+item: "#item-589ae4b5d"
 unparsed:
-line: 'Head: too late|Page: p.44 [Image 1.104]|Entry: 1255 [Too Late]|#item-9f450cc8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/483,1283,652,122/full/0/default.jpg
+line: 'Head: trivial|Entry: 224 [Considerable]|Entry: 510 [So trivial a thing]|#item-589ae4b5d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1790,2036,602,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273955708
-sort_value: '304811283'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562089378233
+sort_value: '304832036'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/483,1283,652,122/150,/0/default.jpg
-label: too late
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1790,2036,602,143/150,/0/default.jpg
+label: trivial
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '140'
+order: '201'
 layout: index_item
 collection: index5
 ---

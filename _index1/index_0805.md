@@ -2,9 +2,8 @@
 pid: index_0805
 volume: Volume 3
 image_number: '14'
-head: consequence
-entry: "<a href='/digital-beehive/alpha1/alpha_0173/'>a</a>|<a href='/digital-beehive/num6/num_2115/'>1447
-  [Consequence]</a>"
+head: contempt of riches
+entry: "<a href='/digital-beehive/num5/num_1674/'>1221 [Contemn Riches]</a>"
 topic:
 first_letter: C
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ca79788b6"
+item: "#item-7920ed435"
 unparsed:
-line: 'Head: consequence|Entry: a|Entry: 1447 [Consequence]|#item-ca79788b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1155,1714,684,118/full/0/default.jpg
+line: 'Head: contempt of riches|Entry: 1221 [Contemn Riches]|#item-7920ed435'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1137,3314,623,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541566922
-sort_value: '301421714'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537542262731
+sort_value: '301423314'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1155,1714,684,118/150,/0/default.jpg
-label: consequence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1137,3314,623,104/150,/0/default.jpg
+label: contempt of riches
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0804'
 layout: index_item
 collection: index1

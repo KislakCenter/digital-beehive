@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1469/'>1088 [Many men, many minds]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2422/'>many men many minds</a>"
+index: "<a href='/digital-beehive/index3/index_2382/'>many men many minds</a>"
 item: "#item-b18b9fcd1"
 unparsed:
 line: 'Entry: Many men, many minds|Topic: Many men, many minds|Xref: 1088 [Many men,

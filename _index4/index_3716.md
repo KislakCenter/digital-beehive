@@ -2,30 +2,28 @@
 pid: index_3716
 volume: Volume 3
 image_number: '43'
-head: simplicity
-entry: "<a href='/digital-beehive/alpha4/alpha_0881/'>a</a>|<a href='/digital-beehive/num7/num_2327/'>1559
-  [Simplicity]</a>"
+head: so
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4082/'>thus</a>"
 index:
-item: "#item-b8f24657e"
+item: "#item-70621c3a4"
 unparsed:
-line: 'Head: simplicity|Entry: a|Entry: 1559 [Simplicity]|#item-b8f24657e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/179,2458,602,120/full/0/default.jpg
+line: 'Head: so|See: thus|#item-70621c3a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,1616,322,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582379343
-sort_value: '304312458'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586020760
+sort_value: '304331616'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/179,2458,602,120/150,/0/default.jpg
-label: simplicity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,1616,322,98/150,/0/default.jpg
+label: so
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0964'
+order: '1008'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_2972/'>2037 [Nominal Christians]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0650/'>christendom</a>"
+index: "<a href='/digital-beehive/index1/index_0636/'>christendom</a>"
 item: "#item-0b0ff0fcd"
 unparsed:
 line: 'Entry: Christendom|Topic: Christendom|Xref: 2037 [Nominal Christians]|Index:

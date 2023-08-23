@@ -2,8 +2,8 @@
 pid: index_0394
 volume: Volume 3
 image_number: '10'
-head: blood of Christ
-entry: "<a href='/digital-beehive/alpha1/alpha_0089/'>a</a>|834 [PAGE_MISSING]"
+head: body of Christ
+entry: a|<a href='/digital-beehive/num3/num_0751/'>583 [Body]</a>
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-a77820ded"
+item: "#item-a11baee38"
 unparsed:
-line: 'Head: blood of Christ|Entry: a|Entry: 834 [PAGE_MISSING]|#item-a77820ded'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1082,2869,657,126/full/0/default.jpg
+line: 'Head: body of Christ|Entry: a|Entry: 583 [Body]|#item-a11baee38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,377,417,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531151646286
-sort_value: '301022869'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565635048479
+sort_value: '301030377'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1082,2869,657,126/150,/0/default.jpg
-label: blood of Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,377,417,163/150,/0/default.jpg
+label: body of Christ
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue:
-insertion_xref:
+issue: Pastorius lists "a" but no alphabetical entry can be identified.
 order: '0393'
 layout: index_item
 collection: index1

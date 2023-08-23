@@ -2,9 +2,8 @@
 pid: index_3066
 volume: Volume 3
 image_number: '36'
-head: polygamy
-entry: "<a href='/digital-beehive/alpha4/alpha_0721/'>a</a>|<a href='/digital-beehive/num4/num_1292/'>969
-  [Polygamy]</a>"
+head: precedency
+entry: "<a href='/digital-beehive/alpha4/alpha_0731/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1bb371d0f"
+item: "#item-e2af07b89"
 unparsed:
-line: 'Head: polygamy|Entry: a|Entry: 969 [Polygamy]|#item-1bb371d0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/436,3195,600,156/full/0/default.jpg
+line: 'Head: precedency|Entry: a|#item-e2af07b89'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1868,1659,553,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438085290
-sort_value: '303613195'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440322576
+sort_value: '303631659'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/436,3195,600,156/150,/0/default.jpg
-label: polygamy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1868,1659,553,96/150,/0/default.jpg
+label: precedency
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0314'
+order: '0358'
 layout: index_item
 collection: index4
 ---

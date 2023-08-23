@@ -2,29 +2,28 @@
 pid: index_2252
 volume: Volume 3
 image_number: '28'
-head: legion
-entry: "<a href='/digital-beehive/num7/num_2272/'>1529 [Legion]</a>"
+head: lightning
+entry:
 topic:
 first_letter: L
-page:
+page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4081/'>thunder</a>"
 index:
-item: "#item-31c3dbe80"
+item: "#item-7703d350f"
 unparsed:
-line: 'Head: legion|Entry: 1529 [Legion]|#item-31c3dbe80'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/419,3488,479,167/full/0/default.jpg
+line: 'Head: lightning|Page: p.29 [Image 1.89]|See: thunder|#item-7703d350f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1850,285,567,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842953101
-sort_value: '302813488'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848179969
+sort_value: '302830285'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/419,3488,479,167/150,/0/default.jpg
-label: legion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1850,285,567,173/150,/0/default.jpg
+label: lightning
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '334'
+order: '367'
 layout: index_item
 collection: index3
 ---

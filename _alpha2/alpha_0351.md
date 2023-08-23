@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1795/'>1288 [French]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1539/'>french</a>"
+index: "<a href='/digital-beehive/index2/index_1513/'>french</a>"
 item: "#item-a2c7ebd98"
 unparsed:
 line: 'Entry: French|Topic: French|Xref: 1288 [French]|Index: french|#item-a2c7ebd98'

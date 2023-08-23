@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num2/num_0351/'>307 [Repentance]</a>|1885 [PAGE_MISSING]|<a
   href='/digital-beehive/alpha1/alpha_0223/'>Delay</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3370/'>repentance late</a>"
+index: "<a href='/digital-beehive/index4/index_3318/'>repentance late</a>"
 item: "#item-d55b9edbb"
 unparsed:
 line: 'Entry: Late Repentance|Topic: Late Repentance|Xref: 307 [Repentance]|Xref:

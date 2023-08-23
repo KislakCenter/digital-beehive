@@ -1,30 +1,29 @@
 ---
 pid: index_3575
 volume: Volume 3
-image_number: '41'
-head: seal
-entry: "<a href='/digital-beehive/alpha4/alpha_0843/'>a</a>"
+image_number: '42'
+head: Selling. to sell
+entry: "<a href='/digital-beehive/num3/num_0798/'>604 [to Sell]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-d41f11af0"
+item: "#item-7b2a60320"
 unparsed:
-line: 'Head: seal|Page: p.7 [Image 1.67]|Entry: a|#item-d41f11af0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1531,743,407,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242260022
-sort_value: '304130743'
+line: 'Head: Selling. to sell|Entry: 604 [to Sell]|#item-7b2a60320'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/337,2712,559,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559245015862
+sort_value: '304212712'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1531,743,407,128/150,/0/default.jpg
-label: seal
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/337,2712,559,132/150,/0/default.jpg
+label: Selling. to sell
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0823'
+order: '0867'
 layout: index_item
 collection: index4
 ---

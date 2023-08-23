@@ -1,9 +1,10 @@
 ---
 pid: index_4066
 volume: Volume 3
-image_number: '46'
-head: taverns
-entry: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>"
+image_number: '47'
+head: thouing
+entry: "<a href='/digital-beehive/alpha5/alpha_0956/'>a</a>|<a href='/digital-beehive/num1/num_0229/'>217
+  [Thouing]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b21149333"
+item: "#item-5dee8af62"
 unparsed:
-line: 'Head: taverns|Entry: 201 [Taverns]|#item-b21149333'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1799,3180,452,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564498548027
-sort_value: '304633180'
+line: 'Head: thouing|Entry: a|Entry: 217 [Thouing]|#item-5dee8af62'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/908,2900,445,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517465561
+sort_value: '304722900'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1799,3180,452,114/150,/0/default.jpg
-label: taverns
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/908,2900,445,135/150,/0/default.jpg
+label: thouing
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '028'
+order: '089'
 layout: index_item
 collection: index5
 ---

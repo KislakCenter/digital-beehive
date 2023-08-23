@@ -2,29 +2,28 @@
 pid: index_1545
 volume: Volume 3
 image_number: '21'
-head: friend union
-entry: "<a href='/digital-beehive/num6/num_1816/'>1300 [Union of Friends]</a>"
+head: Gainsaying
+entry: 823 [PAGE_MISSING]
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9428d43df"
+item: "#item-9f12c071e"
 unparsed:
-line: 'Head: friend union|Entry: 1300 [Union of Friends]|#item-9428d43df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/862,2456,510,62/full/0/default.jpg
+line: 'Head: Gainsaying|Entry: 823 [PAGE_MISSING]|#item-9f12c071e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1552,1932,569,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560783910765
-sort_value: '302122456'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786441739
+sort_value: '302131932'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/862,2456,510,62/150,/0/default.jpg
-label: friend union
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1552,1932,569,118/150,/0/default.jpg
+label: Gainsaying
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '364'
+order: '386'
 layout: index_item
 collection: index2
 ---

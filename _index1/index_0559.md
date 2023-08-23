@@ -2,8 +2,9 @@
 pid: index_0559
 volume: Volume 3
 image_number: '12'
-head: catachresis
-entry: "<a href='/digital-beehive/num3/num_1078/'>725 [Catachresis]</a>"
+head: cause
+entry: "<a href='/digital-beehive/alpha1/alpha_0132/'>a</a>|780 [PAGE_MISSING]|4741
+  [PAGE_MISSING]"
 topic:
 first_letter: C
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-19becdf3e"
+item: "#item-8a26dd416"
 unparsed:
-line: 'Head: catachresis|Entry: 725 [Catachresis]|#item-19becdf3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/408,2204,599,140/full/0/default.jpg
+line: 'Head: cause|Entry: a|Entry: 780 [PAGE_MISSING]|Entry: 4741 [PAGE_MISSING]|#item-8a26dd416'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1142,328,631,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098341962
-sort_value: '301212204'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098834677
+sort_value: '301220328'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/408,2204,599,140/150,/0/default.jpg
-label: catachresis
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1142,328,631,119/150,/0/default.jpg
+label: cause
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0558'
 layout: index_item
 collection: index1

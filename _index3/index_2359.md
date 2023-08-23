@@ -2,29 +2,28 @@
 pid: index_2359
 volume: Volume 3
 image_number: '29'
-head: loyalty
+head: malevolence
 entry:
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0096/'>allegiance</a>"
+see: "<a href='/digital-beehive/index2/index_1736/'>hatred</a>"
 index:
-item: "#item-28c78933a"
+item: "#item-a34031ccd"
 unparsed:
-line: 'Head: loyalty|See: allegiance|#item-28c78933a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/162,3334,679,161/full/0/default.jpg
+line: 'Head: malevolence|See: hatred|#item-a34031ccd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1553,999,639,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180609888
-sort_value: '302913334'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194158091
+sort_value: '302930999'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/162,3334,679,161/150,/0/default.jpg
-label: loyalty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1553,999,639,154/150,/0/default.jpg
+label: malevolence
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '441'
+order: '474'
 layout: index_item
 collection: index3
 ---

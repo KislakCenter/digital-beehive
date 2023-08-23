@@ -2,8 +2,8 @@
 pid: index_1278
 volume: Volume 3
 image_number: '19'
-head: epic poem
-entry: "<a href='/digital-beehive/num11/num_3522/'>4826 [Epic]</a>"
+head: establishmt
+entry: "<a href='/digital-beehive/num1/num_0148/'>143 [Establishmt]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3aebe26ca"
+item: "#item-15c73ba39"
 unparsed:
-line: 'Head: epic poem|Entry: 4826 [Epic]|#item-3aebe26ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/144,462,549,113/full/0/default.jpg
+line: 'Head: establishmt|Entry: 143 [Establishmt]|#item-15c73ba39'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/123,2995,561,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841052417
-sort_value: '301910462'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560282111107
+sort_value: '301912995'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/144,462,549,113/150,/0/default.jpg
-label: epic poem
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/123,2995,561,160/150,/0/default.jpg
+label: establishmt
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '097'
+order: '119'
 layout: index_item
 collection: index2
 ---

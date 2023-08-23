@@ -1,9 +1,9 @@
 ---
 pid: index_3305
 volume: Volume 3
-image_number: '38'
-head: readiness
-entry: 541 [WORD_MISSING]
+image_number: '39'
+head: remiss
+entry: 797 [PAGE_MISSING]
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4e56a0208"
+item: "#item-c6946fdd9"
 unparsed:
-line: 'Head: readiness|Entry: 541 [WORD_MISSING]|#item-4e56a0208'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1838,1665,447,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461185240
-sort_value: '303831665'
+line: 'Head: remiss|Entry: 797 [PAGE_MISSING]|#item-c6946fdd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/779,710,469,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468942799
+sort_value: '303920710'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1838,1665,447,165/150,/0/default.jpg
-label: readiness
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/779,710,469,151/150,/0/default.jpg
+label: remiss
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0553'
+order: '0597'
 layout: index_item
 collection: index4
 ---

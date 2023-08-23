@@ -2,9 +2,8 @@
 pid: index_0165
 volume: Volume 3
 image_number: '8'
-head: ape
-entry: "<a href='/digital-beehive/alpha1/alpha_0036/'>a</a>|802 [PAGE_MISSING]|<a
-  href='/digital-beehive/num7/num_2473/'>1630 [Apes]</a>"
+head: apostles Creed
+entry: "<a href='/digital-beehive/num6/num_1870/'>1330 [Apostle's Creed]</a>"
 topic:
 first_letter: A
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-2f6387b09"
+item: "#item-be91a827b"
 unparsed:
-line: 'Head: ape|Entry: a|Entry: 802 [PAGE_MISSING]|Entry: 1630 [Apes]|#item-2f6387b09'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1124,399,474,104/full/0/default.jpg
+line: 'Head: apostles Creed |Entry: 1330 [Apostle''s Creed]|#item-be91a827b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1107,886,516,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759525634
-sort_value: '300820399'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759904746
+sort_value: '300820886'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1124,399,474,104/150,/0/default.jpg
-label: ape
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1107,886,516,111/150,/0/default.jpg
+label: apostles Creed
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0164'
 layout: index_item
 collection: index1

@@ -2,8 +2,8 @@
 pid: index_2431
 volume: Volume 3
 image_number: '30'
-head: Marlborough
-entry: "<a href='/digital-beehive/num6/num_1877/'>1334 [Marlborough]</a>"
+head: to meet
+entry: 863 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-17b6f038f"
+item: "#item-71bc4ae95"
 unparsed:
-line: 'Head: Marlborough|Entry: 1334 [Marlborough]|#item-17b6f038f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,509,578,139/full/0/default.jpg
+line: 'Head: to meet|Entry: 863 [PAGE_MISSING]|#item-71bc4ae95'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1129,851,456,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560262988698
-sort_value: '303010509'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267868103
+sort_value: '303020851'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,509,578,139/150,/0/default.jpg
-label: Marlborough
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1129,851,456,107/150,/0/default.jpg
+label: to meet
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '513'
+order: '546'
 layout: index_item
 collection: index3
 ---

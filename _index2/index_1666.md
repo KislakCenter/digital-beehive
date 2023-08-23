@@ -2,8 +2,8 @@
 pid: index_1666
 volume: Volume 3
 image_number: '22'
-head: golden age
-entry: "<a href='/digital-beehive/num5/num_1509/'>1114 [Golden Age]</a>"
+head: gratis
+entry: 737 [PAGE_MISSING]
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4a5b46caf"
+item: "#item-77e7c5d31"
 unparsed:
-line: 'Head: golden age|Entry: 1114 [Golden Age]|#item-4a5b46caf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1843,256,540,153/full/0/default.jpg
+line: 'Head: gratis|Entry: 737 [PAGE_MISSING]|#item-77e7c5d31'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,3226,415,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561051858188
-sort_value: '302230256'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053651990
+sort_value: '302233226'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1843,256,540,153/150,/0/default.jpg
-label: golden age
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,3226,415,144/150,/0/default.jpg
+label: gratis
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '485'
+order: '507'
 layout: index_item
 collection: index2
 ---

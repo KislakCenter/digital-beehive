@@ -1,33 +1,29 @@
 ---
 pid: index_4653
 volume: Volume 3
-image_number: '53'
-head: Zeal
-entry: "<a href='/digital-beehive/alpha5/alpha_1076/'>a</a>|<a href='/digital-beehive/num5/num_1354/'>1013
-  [Zeal]</a>|<a href='/digital-beehive/num7/num_2618/'>1697 [Zeal]</a>|<a href='/digital-beehive/num9/num_2949/'>2014
-  [Zeal]</a>|<a href='/digital-beehive/num10/num_3259/'>2295 [Zeal]</a>"
+image_number: '54'
+head: Sap
+entry: "<a href='/digital-beehive/num5/num_1712/'>1240 [Juice]</a>"
 topic:
-first_letter: Z
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5f1c2da86"
+item: "#item-1ac16ab12"
 unparsed:
-line: 'Head: Zeal|Entry: a|Entry: 1013 [Zeal]|Entry: 1697 [Zeal]|Entry: 2014 [Zeal]|Entry:
-  2295 [Zeal]|#item-5f1c2da86'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1564,3038,759,177/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560869555172
-sort_value: '305333038'
+line: 'Type: Index|Insertion: [:56.]|Head: Sap|Entry: 1240 [Juice]|#item-1ac16ab12'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1767,1425,466,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956707249
+sort_value: '305431425'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1564,3038,759,177/150,/0/default.jpg
-label: Zeal
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1767,1425,466,144/150,/0/default.jpg
+label: Sap
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '615'
+order: '676'
 layout: index_item
 collection: index5
 ---

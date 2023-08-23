@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0184/'>176 [Indifferency]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0042/'>adiaphory</a>"
+index: "<a href='/digital-beehive/index1/index_0041/'>adiaphory</a>"
 item: "#item-d38a0df93"
 unparsed:
 line: 'Entry: Adiaphory|Topic: Adiaphory|Xref: 176 [Indifferency]|Index: adiaphory|#item-d38a0df93'

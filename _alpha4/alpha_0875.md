@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1035/'>Weeping</a>|<a href='/digital-beehive/num7/num_2668/'>1740
   [Sighe]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3700/'>sighs</a>"
+index: "<a href='/digital-beehive/index4/index_3643/'>sighs</a>"
 item: "#item-1f1ca4933"
 unparsed:
 line: 'Entry: Sighs|Topic: Sighs|Xref: Weeping|Xref: 1740 [Sighe]|Index: sighs|#item-1f1ca4933'

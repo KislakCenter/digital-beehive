@@ -2,9 +2,8 @@
 pid: index_2074
 volume: Volume 3
 image_number: '26'
-head: intention
-entry: "<a href='/digital-beehive/alpha3/alpha_0486/'>a</a>|<a href='/digital-beehive/num5/num_1502/'>1109
-  [Intention]</a>"
+head: Joseph
+entry: "<a href='/digital-beehive/num7/num_2502/'>1642 [Joseph]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5f7b5c547"
+item: "#item-718822762"
 unparsed:
-line: 'Head: intention|Entry: a|Entry: 1109 [Intention]|#item-5f7b5c547'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1139,2674,602,156/full/0/default.jpg
+line: 'Head: Joseph|Entry: 1642 [Joseph]|#item-718822762'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1833,2783,443,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748953627
-sort_value: '302622674'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559754401840
+sort_value: '302632783'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1139,2674,602,156/150,/0/default.jpg
-label: intention
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1833,2783,443,120/150,/0/default.jpg
+label: Joseph
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '156'
+order: '189'
 layout: index_item
 collection: index3
 ---

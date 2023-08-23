@@ -2,8 +2,8 @@
 pid: index_3515
 volume: Volume 3
 image_number: '41'
-head: Samson
-entry: "<a href='/digital-beehive/num7/num_2342/'>1565 [Samson]</a>"
+head: Sea devil
+entry: "<a href='/digital-beehive/num6/num_2166/'>1472 [Sea-Devil]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-afa828d60"
+item: "#item-dfd4db042"
 unparsed:
-line: 'Head: Samson|Entry: 1565 [Samson]|#item-afa828d60'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/133,1367,461,129/full/0/default.jpg
+line: 'Head: Sea devil|Entry: 1472 [Sea-Devil]|#item-dfd4db042'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1563,411,459,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238922101
-sort_value: '304111367'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242051635
+sort_value: '304130411'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/133,1367,461,129/150,/0/default.jpg
-label: Samson
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1563,411,459,132/150,/0/default.jpg
+label: Sea devil
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0763'
+order: '0807'
 layout: index_item
 collection: index4
 ---

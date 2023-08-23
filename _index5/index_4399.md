@@ -1,30 +1,30 @@
 ---
 pid: index_4399
 volume: Volume 3
-image_number: '50'
-head: unlawful
-entry: "<a href='/digital-beehive/num7/num_2419/'>1603 [Unlawful]</a>"
+image_number: '51'
+head: want
+entry: "<a href='/digital-beehive/alpha5/alpha_1023/'>a</a>|<a href='/digital-beehive/num6/num_1910/'>1350
+  [Want]</a>|<a href='/digital-beehive/num11/num_3582/'>4886 [Want]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-8e1a0e995"
+item: "#item-7dc449910"
 unparsed:
-line: 'Head: unlawful|Entry: 1603 [Unlawful]|#item-8e1a0e995'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1090,2644,518,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560882272461
-sort_value: '305022644'
+line: 'Head: want|Entry: a|Entry: 1350 [Want]|Entry: 4886 [Want]|#item-7dc449910'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1649,1514,624,97/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647853311
+sort_value: '305131514'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1090,2644,518,152/150,/0/default.jpg
-label: unlawful
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1649,1514,624,97/150,/0/default.jpg
+label: want
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '361'
+order: '422'
 layout: index_item
 collection: index5
 ---

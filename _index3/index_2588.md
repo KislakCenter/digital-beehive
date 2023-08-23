@@ -2,30 +2,28 @@
 pid: index_2588
 volume: Volume 3
 image_number: '31'
-head: mortifying
-entry: "<a href='/digital-beehive/alpha3/alpha_0613/'>a</a>|<a href='/digital-beehive/num6/num_1744/'>1257
-  [Mortification]</a>"
+head: Nadir
+entry: 809 [PAGE_MISSING]
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-3ab03c1de"
+item: "#item-525b16c27"
 unparsed:
-line: 'Head: mortifying|Entry: a|Entry: 1257 [Mortification]|#item-3ab03c1de'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/838,2491,588,135/full/0/default.jpg
+line: 'Head: Nadir|Entry: 809 [PAGE_MISSING]|#item-525b16c27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3029,391,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356518884
-sort_value: '303122491'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362621818
+sort_value: '303133029'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/838,2491,588,135/150,/0/default.jpg
-label: mortifying
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3029,391,169/150,/0/default.jpg
+label: Nadir
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '670'
+order: '703'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,8 @@
 pid: index_0407
 volume: Volume 3
 image_number: '10'
-head: bone
-entry: 801 [PAGE_MISSING]
+head: to bore
+entry: "<a href='/digital-beehive/num2/num_0515/'>416 [To Bore]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-623b77c75"
+item: "#item-13b6b5b2e"
 unparsed:
-line: 'Head: bone|Entry: 801 [PAGE_MISSING]|#item-623b77c75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,1050,348,107/full/0/default.jpg
+line: 'Head: to bore|Entry: 416 [To Bore]|#item-13b6b5b2e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1784,2009,422,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531152647597
-sort_value: '301031050'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531416204393
+sort_value: '301032009'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,1050,348,107/150,/0/default.jpg
-label: bone
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1784,2009,422,99/150,/0/default.jpg
+label: to bore
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0406'
 layout: index_item
 collection: index1

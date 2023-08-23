@@ -2,8 +2,8 @@
 pid: index_0351
 volume: Volume 3
 image_number: '10'
-head: benum[m]b'd
-entry: "<a href='/digital-beehive/num10/num_3476/'>4488 [Benumm'ed]</a>"
+head: besides the purpose
+entry: "<a href='/digital-beehive/num3/num_0924/'>666 [In vain]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ad767c9cb"
+item: "#item-4161d27a7"
 unparsed:
-line: 'Head: benum[m]b''d|Entry: 4488 [Benumm''ed]|#item-ad767c9cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/377,1452,653,115/full/0/default.jpg
+line: 'Head: besides the purpose|Entry: 666 [In vain]|#item-4161d27a7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/363,2309,580,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531147668132
-sort_value: '301011452'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531148160495
+sort_value: '301012309'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/377,1452,653,115/150,/0/default.jpg
-label: benum[m]b'd
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/363,2309,580,127/150,/0/default.jpg
+label: besides the purpose
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0350'
 layout: index_item
 collection: index1

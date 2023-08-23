@@ -2,8 +2,8 @@
 pid: index_0263
 volume: Volume 3
 image_number: '9'
-head: Bacchus
-entry: "<a href='/digital-beehive/num9/num_3024/'>2087 [Drunckenness]</a>"
+head: bad man
+entry: "<a href='/digital-beehive/num8/num_2690/'>1759 [ill natur'd man]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-7935ee5df"
+item: "#item-5a0f7e347"
 unparsed:
-line: 'Head: Bacchus|Entry: 2087 [Drunckenness]|#item-7935ee5df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/155,3123,501,105/full/0/default.jpg
+line: 'Head: bad man|Entry: 1759 [ill natur''d man]|#item-5a0f7e347'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,342,441,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016589381
-sort_value: '300913123'
+annotation_uri: http://dev.llgc.org.uk/annotation/1505402518107
+sort_value: '300920342'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/155,3123,501,105/150,/0/default.jpg
-label: Bacchus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,342,441,94/150,/0/default.jpg
+label: bad man
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0262'
 layout: index_item
 collection: index1

@@ -1,30 +1,30 @@
 ---
 pid: index_4437
 volume: Volume 3
-image_number: '51'
-head: to uphold
-entry: "<a href='/digital-beehive/num6/num_1887/'>1339 [To maintain]</a>"
+image_number: '52'
+head: weaver
+entry: "<a href='/digital-beehive/alpha5/num_0141/'>a</a>|<a href='/digital-beehive/num1/num_0141/'>136
+  [Weaver]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7a6b75675"
+item: "#item-c43100589"
 unparsed:
-line: 'Head: to uphold|Entry: 1339 [To maintain]|#item-7a6b75675'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/942,679,533,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646558312
-sort_value: '305120679'
+line: 'Head: weaver|Entry: a|Entry: 136 [Weaver]|#item-c43100589'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/477,3265,552,99/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560961237276
+sort_value: '305213265'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/942,679,533,142/150,/0/default.jpg
-label: to uphold
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '399'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/477,3265,552,99/150,/0/default.jpg
+label: weaver
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+issue: Pastorius lists "a" but no alphabetical entry can be identified.
+order: '460'
 layout: index_item
 collection: index5
 ---

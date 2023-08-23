@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0266/'>Drink</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4119/'>thirst</a>"
+index: "<a href='/digital-beehive/index5/index_4057/'>thirst</a>"
 item: "#item-ca7158b5d"
 unparsed:
 line: 'Entry: Thirst|Topic: Thirst|Xref: Drink|Index: thirst|#item-ca7158b5d'

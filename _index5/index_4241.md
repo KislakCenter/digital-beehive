@@ -1,31 +1,29 @@
 ---
 pid: index_4241
 volume: Volume 3
-image_number: '48'
-head: trinity
-entry: "<a href='/digital-beehive/alpha5/alpha_0985/'>a</a>|<a href='/digital-beehive/num3/num_0867/'>639
-  [Trinity]</a>|<a href='/digital-beehive/num6/num_2123/'>1450 [Trinity]</a>"
+image_number: '49'
+head: venial sin
+entry: "<a href='/digital-beehive/num2/num_0388/'>335 [mortal & venial sins]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2fe6b51e1"
+item: "#item-1e50d73b4"
 unparsed:
-line: 'Head: trinity|Entry: a|Entry: 639 [Trinity]|Entry: 1450 [Trinity]|#item-2fe6b51e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1803,1788,646,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089021392
-sort_value: '304831788'
+line: 'Head: venial sin|Entry: 335 [mortal & venial sins]|#item-1e50d73b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/947,2443,517,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658664692
+sort_value: '304922443'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1803,1788,646,143/150,/0/default.jpg
-label: trinity
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/947,2443,517,111/150,/0/default.jpg
+label: venial sin
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '203'
+order: '264'
 layout: index_item
 collection: index5
 ---

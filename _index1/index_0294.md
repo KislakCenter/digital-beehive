@@ -2,8 +2,9 @@
 pid: index_0294
 volume: Volume 3
 image_number: '9'
-head: "[:18.]"
-entry:
+head: baseness
+entry: "<a href='/digital-beehive/alpha1/alpha_0062/'>a</a>|<a href='/digital-beehive/num3/num_0765/'>589
+  [Base]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-e054b74df"
-unparsed: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
-line: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1410,2729,170,121/full/0/default.jpg
+item: "#item-b5383cd3f"
+unparsed:
+line: 'Head: baseness|Entry: a|Entry: 589 [Base]|#item-b5383cd3f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/897,3318,481,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559591394306
-sort_value: '300922729'
+annotation_uri: http://dev.llgc.org.uk/annotation/1506105689365
+sort_value: '300923318'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1410,2729,170,121/150,/0/default.jpg
-label: "[:18.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/897,3318,481,162/150,/0/default.jpg
+label: baseness
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4682/'>Barclay</a>"
 order: '0293'
 layout: index_item
 collection: index1

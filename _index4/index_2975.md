@@ -2,30 +2,28 @@
 pid: index_2975
 volume: Volume 3
 image_number: '35'
-head: petition
-entry: "<a href='/digital-beehive/num3/num_0897/'>652 [Petition, Request]</a>|4767
-  [PAGE_MISSING]"
+head: pity
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0744/'>compassion</a>"
 index:
-item: "#item-d81ab7943"
+item: "#item-3021d2f85"
 unparsed:
-line: 'Head: petition|Entry: 652 [Petition, Request]|Entry: 4767 [PAGE_MISSING]|#item-d81ab7943'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/847,1371,636,155/full/0/default.jpg
+line: 'Head: pity|See: compassion|#item-3021d2f85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1496,2541,690,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974301545
-sort_value: '303521371'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977034816
+sort_value: '303532541'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/847,1371,636,155/150,/0/default.jpg
-label: petition
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1496,2541,690,140/150,/0/default.jpg
+label: pity
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0223'
+order: '0267'
 layout: index_item
 collection: index4
 ---

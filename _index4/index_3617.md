@@ -2,30 +2,28 @@
 pid: index_3617
 volume: Volume 3
 image_number: '42'
-head: Self hatred
-entry: "<a href='/digital-beehive/alpha4/alpha_0854/'>a</a>|<a href='/digital-beehive/num4/num_1109/'>874
-  [Self hatred]</a>"
+head: shield
+entry: 849 [PAGE_MISSING]
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-4c8f5fdf2"
+item: "#item-7dbd59aa6"
 unparsed:
-line: 'Head: Self hatred|Entry: a|Entry: 874 [Self hatred]|#item-4c8f5fdf2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/376,1484,695,116/full/0/default.jpg
+line: 'Head: shield|Page: p.40 [Image 1.100]|Entry: 849 [PAGE_MISSING]|#item-7dbd59aa6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1834,763,589,178/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244498317
-sort_value: '304211484'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575773023
+sort_value: '304230763'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/376,1484,695,116/150,/0/default.jpg
-label: Self hatred
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1834,763,589,178/150,/0/default.jpg
+label: shield
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0865'
+order: '0909'
 layout: index_item
 collection: index4
 ---

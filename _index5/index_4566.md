@@ -2,29 +2,28 @@
 pid: index_4566
 volume: Volume 3
 image_number: '53'
-head: wire
-entry: 1883 [PAGE_MISSING]
+head: yard
+entry: 771 [PAGE_MISSING]
 topic:
-first_letter: W
+first_letter: Y
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f55f22007"
+item: "#item-b875e8f7c"
 unparsed:
-line: 'Head: wire|Entry: 1883 [PAGE_MISSING]|#item-f55f22007'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/200,734,369,92/full/0/default.jpg
+line: 'Head: yard|Entry: 771 [PAGE_MISSING]|#item-b875e8f7c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1557,1527,349,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791445971
-sort_value: '305310734'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798778427
+sort_value: '305331527'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/200,734,369,92/150,/0/default.jpg
-label: wire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1557,1527,349,143/150,/0/default.jpg
+label: yard
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '528'
+order: '589'
 layout: index_item
 collection: index5
 ---

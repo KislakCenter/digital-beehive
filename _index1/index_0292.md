@@ -2,9 +2,8 @@
 pid: index_0292
 volume: Volume 3
 image_number: '9'
-head: barber Surgeon
-entry: "<a href='/digital-beehive/alpha1/alpha_0060/'>a</a>|<a href='/digital-beehive/num4/num_1214/'>917
-  [Surgery]</a>"
+head: barn
+entry: 4614 [PAGE_MISSING]
 topic:
 first_letter: B
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-321d6279f"
+item: "#item-9ace3e520"
 unparsed:
-line: 'Head: barber Surgeon|Entry: a|Entry: 917 [Surgery]|#item-321d6279f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/905,2586,633,135/full/0/default.jpg
+line: 'Head: barn|Entry: 4614 [PAGE_MISSING]|#item-9ace3e520'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/900,3145,388,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506104371779
-sort_value: '300922586'
+annotation_uri: http://dev.llgc.org.uk/annotation/1506105570287
+sort_value: '300923145'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/905,2586,633,135/150,/0/default.jpg
-label: barber Surgeon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/900,3145,388,94/150,/0/default.jpg
+label: barn
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0291'
 layout: index_item
 collection: index1

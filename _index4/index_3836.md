@@ -1,10 +1,9 @@
 ---
 pid: index_3836
 volume: Volume 3
-image_number: '44'
-head: sperma
-entry: "<a href='/digital-beehive/num5/num_1426/'>1059 [Sperma]</a>|<a href='/digital-beehive/num5/num_1425/'>1059
-  [Seed]</a>"
+image_number: '45'
+head: Stephen
+entry: "<a href='/digital-beehive/num2/num_0380/'>331 [St. Stephen]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-191f5b85b"
+item: "#item-4b4065ae2"
 unparsed:
-line: 'Head: sperma|Entry: 1059 [Sperma]|Entry: 1059 [Seed]|#item-191f5b85b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1099,2124,530,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942109685
-sort_value: '304422124'
+line: 'Head: Stephen|Entry: 331 [St. Stephen]|#item-4b4065ae2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/214,1637,404,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530220911126
+sort_value: '304511637'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1099,2124,530,141/150,/0/default.jpg
-label: sperma
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/214,1637,404,102/150,/0/default.jpg
+label: Stephen
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1084'
+order: '1128'
 layout: index_item
 collection: index4
 ---

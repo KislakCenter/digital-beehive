@@ -2,29 +2,28 @@
 pid: index_1722
 volume: Volume 3
 image_number: '23'
-head: guardian
-entry: "<a href='/digital-beehive/alpha2/alpha_0390/'>a</a>"
+head: hardship
+entry: "<a href='/digital-beehive/num6/num_1799/'>1290 [Difficulty]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c08440780"
+item: "#item-f3f17b099"
 unparsed:
-line: 'Head: guardian|Entry: a|#item-c08440780'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/152,2087,391,120/full/0/default.jpg
+line: 'Head: hardship|Entry: 1290 [Difficulty]|#item-f3f17b099'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,1468,456,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232160401
-sort_value: '302312087'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239683896
+sort_value: '302321468'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/152,2087,391,120/150,/0/default.jpg
-label: guardian
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/837,1468,456,129/150,/0/default.jpg
+label: hardship
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '541'
+order: '563'
 layout: index_item
 collection: index2
 ---

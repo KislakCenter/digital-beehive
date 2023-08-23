@@ -1,9 +1,9 @@
 ---
 pid: index_2009
 volume: Volume 3
-image_number: '25'
-head: incredible
-entry: 774 [PAGE_MISSING]
+image_number: '26'
+head: inhumanity
+entry: "<a href='/digital-beehive/alpha3/alpha_0478/'>a</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-593b3b7f7"
+item: "#item-228e33fb9"
 unparsed:
-line: 'Head: incredible|Entry: 774 [PAGE_MISSING]|#item-593b3b7f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1565,2474,520,90/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672175272
-sort_value: '302532474'
+line: 'Head: inhumanity|Entry: a|#item-228e33fb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/406,2742,498,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745229743
+sort_value: '302612742'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1565,2474,520,90/150,/0/default.jpg
-label: incredible
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/406,2742,498,156/150,/0/default.jpg
+label: inhumanity
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '091'
+order: '124'
 layout: index_item
 collection: index3
 ---

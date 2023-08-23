@@ -2,30 +2,29 @@
 pid: index_3251
 volume: Volume 3
 image_number: '38'
-head: quarrel
-entry: "<a href='/digital-beehive/num2/num_0414/'>352 [Strife]</a>|<a href='/digital-beehive/num9/num_3110/'>2167
-  [Strife]</a>"
+head: raven
+entry: "<a href='/digital-beehive/alpha4/alpha_0778/'>a</a>|<a href='/digital-beehive/num6/num_1912/'>1351
+  [a Kite : a Hawk]</a>"
 topic:
-first_letter: Q
-page:
+first_letter: R
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3941/'>strife</a>"
+see:
 index:
-item: "#item-8d4b26071"
+item: "#item-c85beeec7"
 unparsed:
-line: 'Head: quarrel|See: strife|Entry: 352 [Strife]|Entry: 2167 [Strife]|#item-8d4b26071'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/371,3466,870,129/full/0/default.jpg
+line: 'Head: raven|Page: p.35 [Image 1.95]|Entry: a|Entry: 1351 [a Kite : a Hawk]|#item-c85beeec7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1852,1378,680,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454829727
-sort_value: '303813466'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461023830
+sort_value: '303831378'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/371,3466,870,129/150,/0/default.jpg
-label: quarrel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1852,1378,680,115/150,/0/default.jpg
+label: raven
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0499'
+order: '0543'
 layout: index_item
 collection: index4
 ---

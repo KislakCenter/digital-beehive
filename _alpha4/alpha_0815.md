@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3125/'>2181 [Ring-leader]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3433/'>ring leader</a>"
+index: "<a href='/digital-beehive/index4/index_3380/'>ring leader</a>"
 item: "#item-fb6fd31b4"
 unparsed:
 line: 'Entry: Ringleader|Topic: Ringleader|Xref: 2181 [Ring-leader]|Index: ring leader|#item-fb6fd31b4'

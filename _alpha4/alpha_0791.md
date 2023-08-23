@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1064/'>Worship</a>|<a href='/digital-beehive/num1/num_0241/'>226
   [Religion]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3349/'>religion</a>"
+index: "<a href='/digital-beehive/index4/index_3297/'>religion</a>"
 item: "#item-4ae715664"
 unparsed:
 line: 'Entry: Religion|Topic: Religion|Xref: Worship|Xref: 226 [Religion]|Index: religion|#item-4ae715664'

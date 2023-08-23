@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1963/'>1377 [Great with young]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0370/'>big with child</a>"
+index: "<a href='/digital-beehive/index1/index_0362/'>big with child</a>"
 item: "#item-280551e59"
 unparsed:
 line: 'Entry: Big with child|Topic: Big with child|Xref: 1377 [Great with young]|Index:

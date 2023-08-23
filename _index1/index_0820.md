@@ -2,9 +2,9 @@
 pid: index_0820
 volume: Volume 3
 image_number: '14'
-head: contempt
-entry: "<a href='/digital-beehive/alpha1/alpha_0176/'>a</a>|<a href='/digital-beehive/num2/num_0302/'>269
-  [Contempt]</a>|4775 [PAGE_MISSING]"
+head: conversation
+entry: "<a href='/digital-beehive/num1/num_0129/'>124 [Conversation]</a>|<a href='/digital-beehive/num6/num_1812/'>1297
+  [Governmt of thoughts]</a>"
 topic:
 first_letter: C
 page:
@@ -12,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-55a27b994"
+item: "#item-9106b218c"
 unparsed:
-line: 'Head: contempt|Entry: a|Entry: 269 [Contempt]|Entry: 4775 [PAGE_MISSING]|#item-55a27b994'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1132,3231,723,121/full/0/default.jpg
+line: 'Head: conversation|Entry: 124 [Conversation]|Entry: 1297 [Governmt of thoughts]|#item-9106b218c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1844,1712,716,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542237168
-sort_value: '301423231'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559608508
+sort_value: '301431712'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1132,3231,723,121/150,/0/default.jpg
-label: contempt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1844,1712,716,125/150,/0/default.jpg
+label: conversation
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0819'
 layout: index_item
 collection: index1

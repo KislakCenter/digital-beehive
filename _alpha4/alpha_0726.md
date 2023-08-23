@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/dig
   href='/digital-beehive/alpha3/alpha_0476/'>Infirmity</a>|<a href='/digital-beehive/num10/num_3335/'>2362
   [Power]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3102/'>power</a>"
+index: "<a href='/digital-beehive/index4/index_3052/'>power</a>"
 item: "#item-6b67d5259"
 unparsed:
 line: 'Entry: Power|Topic: Power|Xref: Authority|Xref: Force|Xref: Infirmity|Xref:

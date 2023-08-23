@@ -2,28 +2,27 @@
 pid: index_0444
 volume: Volume 3
 image_number: '11'
-head: breakfast
-entry: "<a href='/digital-beehive/num5/num_1669/'>1218 [Break-fast]</a>"
+head: bridge
+entry: "<a href='/digital-beehive/alpha1/alpha_0103/'>a</a>"
 topic:
 first_letter: B
-page:
+page: "<a href='/digital-beehive/toc/toc1_059/'>p.9 [Image 1.69]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-0c79b54fb"
+item: "#item-502546850"
 unparsed:
-line: 'Head: breakfast|Entry: 1218 [Break-fast]|#item-0c79b54fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1292,519,139/full/0/default.jpg
+line: 'Head: bridge|Page: p.9 [Image 1.69]|Entry: a|#item-502546850'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/162,2133,467,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531418149449
-sort_value: '301111292'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531419231617
+sort_value: '301112133'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1292,519,139/150,/0/default.jpg
-label: breakfast
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/162,2133,467,173/150,/0/default.jpg
+label: bridge
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0443'
 layout: index_item
 collection: index1

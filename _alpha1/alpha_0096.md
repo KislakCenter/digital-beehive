@@ -10,7 +10,7 @@ page:
 add:
 xref: 777 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index1/index_0420/'>bothways</a>"
+index: "<a href='/digital-beehive/index1/index_0412/'>bothways</a>"
 item: "#item-645a795ec"
 unparsed:
 line: 'Entry: Bothways|Topic: Bothways|Xref: 777 [PAGE_MISSING]|Index: bothways|#item-645a795ec'

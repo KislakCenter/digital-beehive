@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0025/'>Amending</a>|<a href='/digital-beehive/alpha1/alpha_0138/'>Change</a>|<a
   href='/digital-beehive/num2/num_0608/'>486 [Reformation]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3332/'>reformation</a>"
+index: "<a href='/digital-beehive/index4/index_3281/'>reformation</a>"
 item: "#item-5a9359b30"
 unparsed:
 line: 'Entry: Reformation|Topic: Reformation|Xref: Amending|Xref: Change|Xref: 486

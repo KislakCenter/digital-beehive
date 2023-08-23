@@ -2,32 +2,28 @@
 pid: index_2450
 volume: Volume 3
 image_number: '30'
-head: matter, eijter
-entry: "<a href='/digital-beehive/num3/num_0759/'>587 [Corruption & Matter, Eijter]</a>"
+head: merit of Christ
+entry: "<a href='/digital-beehive/num5/num_1340/'>1004 [Christs outward Satisfaction]</a>"
 topic:
 first_letter: M
 page:
-add: 831 [PAGE_MISSING; thing]|4592 [PAGE_MISSING; theme]
+add:
 xref:
 see:
 index:
-item: "#item-2dd387dbd"
+item: "#item-2f6bb7b6b"
 unparsed:
-line: 'Head: matter, eijter|Entry: 587 [Corruption & Matter, Eijter]|Add: 831 [PAGE_MISSING;
-  thing]|Add: 4592 [PAGE_MISSING; theme]|#item-2dd387dbd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/394,2209,775,209/full/0/default.jpg
+line: 'Head: merit of Christ|Entry: 1004 [Christs outward Satisfaction]|#item-2f6bb7b6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1107,2880,540,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265264338
-sort_value: '303012209'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269473621
+sort_value: '303022880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/394,2209,775,209/150,/0/default.jpg
-label: matter, eijter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1107,2880,540,147/150,/0/default.jpg
+label: merit of Christ
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: Pastorius appears to create a reference to 1592. However, it is likely that
-  this was an error, and he meant to cross-reference 4592, which is on a missing page
-  of the Alvearium but appears elsewhere in the index under "theme."
-insertion_xref:
-order: '532'
+issue:
+order: '565'
 layout: index_item
 collection: index3
 ---

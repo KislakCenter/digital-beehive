@@ -2,29 +2,29 @@
 pid: index_2148
 volume: Volume 3
 image_number: '27'
-head: Geo. Keith
-entry: "<a href='/digital-beehive/num5/num_1395/'>1042 [George Keith]</a>"
+head: Lacedemonians & Laconism
+entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/num5/num_1595/'>1169
+  [Laconism]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4c77a0a5a"
+item: "#item-da0925928"
 unparsed:
-line: 'Head: Geo. Keith|Entry: 1042 [George Keith]|#item-4c77a0a5a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/100,3202,551,158/full/0/default.jpg
+line: 'Head: Lacedemonians & Laconism|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-da0925928'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/825,3132,701,213/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759525539
-sort_value: '302713202'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832308714
+sort_value: '302723132'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/100,3202,551,158/150,/0/default.jpg
-label: Geo. Keith
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/825,3132,701,213/150,/0/default.jpg
+label: Lacedemonians & Laconism
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '230'
+order: '263'
 layout: index_item
 collection: index3
 ---

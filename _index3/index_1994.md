@@ -1,30 +1,29 @@
 ---
 pid: index_1994
 volume: Volume 3
-image_number: '25'
-head: incest
-entry: "<a href='/digital-beehive/num3/num_0727/'>570 [Incest]</a>"
+image_number: '26'
+head: infancy
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0620/'>Childhood</a>"
 index:
-item: "#item-27146b0db"
+item: "#item-086ab94c5"
 unparsed:
-line: 'Head: incest|Entry: 570 [Incest]|#item-27146b0db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,801,360,83/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559670743143
-sort_value: '302530801'
+line: 'Head: infancy|See: Childhood|#item-086ab94c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/451,1058,638,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744055955
+sort_value: '302611058'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1572,801,360,83/150,/0/default.jpg
-label: incest
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/451,1058,638,151/150,/0/default.jpg
+label: infancy
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '076'
+order: '109'
 layout: index_item
 collection: index3
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_4593
 volume: Volume 3
-image_number: '53'
-head: woman's Courses
-entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2528/'>1653 [Menstrua]</a>
+image_number: '54'
+head: fringes
+entry: "<a href='/digital-beehive/num8/num_2789/'>1902 [Fringes]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-0a5d33f70"
+item: "#item-3c74e2113"
 unparsed:
-line: 'Head: woman''s Courses|Entry: 838 [PAGE_MISSING]|Entry: 1653 [Menstrua]|#item-0a5d33f70'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/878,291,657,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560794501597
-sort_value: '305320291'
+line: 'Type: Index|Insertion: [:2.]|Head: fringes|Entry: 1902 [Fringes]|#item-3c74e2113'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/361,679,563,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560867263218
+sort_value: '305410679'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/878,291,657,149/150,/0/default.jpg
-label: woman's Courses
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/361,679,563,100/150,/0/default.jpg
+label: fringes
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '555'
+order: '616'
 layout: index_item
 collection: index5
 ---

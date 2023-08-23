@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0766/'>590 [artificial Wines]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4560/'>wine</a>"
+index: "<a href='/digital-beehive/index5/index_4491/'>wine</a>"
 item: "#item-f6c5d1c85"
 unparsed:
 line: 'Entry: Wine|Topic: Wine|Xref: 590 [artificial Wines]|Index: wine|#item-f6c5d1c85'

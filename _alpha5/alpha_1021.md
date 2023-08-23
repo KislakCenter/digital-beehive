@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0098/'>95 [a Vulgar Spirited man]</a>|<a
   href='/digital-beehive/num5/num_1544/'>1136 [Vulgar]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4453/'>the vulgar</a>"
+index: "<a href='/digital-beehive/index5/index_4384/'>the vulgar</a>"
 item: "#item-f749e0afc"
 unparsed:
 line: 'Entry: the Vulgar|Topic: the Vulgar|Xref: 95 [a Vulgar Spirited man]|Xref:

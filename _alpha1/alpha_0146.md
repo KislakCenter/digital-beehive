@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0350/'>Free Will</a>|<a href='/digital-beehive/num5/num_1494/'>1103
   [Choice]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0642/'>choice</a>"
+index: "<a href='/digital-beehive/index1/index_0629/'>choice</a>"
 item: "#item-4c6d1a50d"
 unparsed:
 line: 'Entry: Choice|Topic: Choice|Xref: Free Will|Xref: 1103 [Choice]|Index: choice|#item-4c6d1a50d'

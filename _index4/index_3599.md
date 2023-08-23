@@ -1,9 +1,10 @@
 ---
 pid: index_3599
 volume: Volume 3
-image_number: '41'
-head: selah
-entry: "<a href='/digital-beehive/num8/num_2836/'>1925 [Selah]</a>"
+image_number: '42'
+head: shadow
+entry: "<a href='/digital-beehive/alpha4/alpha_0866/'>a</a>|<a href='/digital-beehive/num3/num_0873/'>641
+  [the Shadow]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5731c3404"
+item: "#item-d57e2b20b"
 unparsed:
-line: 'Head: selah|Entry: 1925 [Selah]|#item-5731c3404'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1608,3492,363,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243266641
-sort_value: '304133492'
+line: 'Head: shadow|Entry: a|Entry: 641 [the Shadow]|#item-d57e2b20b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1101,2048,526,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574655260
+sort_value: '304222048'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1608,3492,363,106/150,/0/default.jpg
-label: selah
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1101,2048,526,164/150,/0/default.jpg
+label: shadow
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0847'
+order: '0891'
 layout: index_item
 collection: index4
 ---

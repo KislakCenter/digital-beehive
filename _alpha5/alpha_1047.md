@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1834/'>1312 [Witchcraft]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4574/'>witchcraft</a>"
+index: "<a href='/digital-beehive/index5/index_4504/'>witchcraft</a>"
 item: "#item-6d7b3a01f"
 unparsed:
 line: 'Entry: Witchcraft|Topic: Witchcraft|Xref: 1312 [Witchcraft]|Index: witchcraft|#item-6d7b3a01f'

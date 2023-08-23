@@ -1,9 +1,9 @@
 ---
 pid: index_3495
 volume: Volume 3
-image_number: '40'
-head: sailer
-entry: 764 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3423/'>2445 [Sailer]</a>
+image_number: '41'
+head: sciences
+entry: "<a href='/digital-beehive/num1/num_0177/'>169 [Art]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bf995e57c"
+item: "#item-67a1e66fe"
 unparsed:
-line: 'Head: sailer|Entry: 764 [PAGE_MISSING]|Entry: 2445 [Sailer]|#item-bf995e57c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1835,2860,573,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235238850
-sort_value: '304032860'
+line: 'Head: sciences|Entry: 169 [Art]|#item-67a1e66fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/862,1534,468,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240679804
+sort_value: '304121534'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1835,2860,573,132/150,/0/default.jpg
-label: sailer
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/862,1534,468,148/150,/0/default.jpg
+label: sciences
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0743'
+order: '0787'
 layout: index_item
 collection: index4
 ---

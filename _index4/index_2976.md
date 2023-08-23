@@ -2,29 +2,28 @@
 pid: index_2976
 volume: Volume 3
 image_number: '35'
-head: petitio principij
-entry: "<a href='/digital-beehive/num7/num_2320/'>1556 [Petitio principij]</a>"
+head: pitiful
+entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2497/'>miserable</a>"
 index:
-item: "#item-edcb9279e"
+item: "#item-fcc5adf6f"
 unparsed:
-line: 'Head: petitio principij|Entry: 1556 [Petitio principij]|#item-edcb9279e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/830,1472,700,117/full/0/default.jpg
+line: 'Head: pitiful|See: miserable|#item-fcc5adf6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1525,2600,751,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974392543
-sort_value: '303521472'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977053228
+sort_value: '303532600'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/830,1472,700,117/150,/0/default.jpg
-label: petitio principij
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1525,2600,751,161/150,/0/default.jpg
+label: pitiful
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0224'
+order: '0268'
 layout: index_item
 collection: index4
 ---

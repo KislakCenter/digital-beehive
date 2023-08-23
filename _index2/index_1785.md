@@ -1,30 +1,30 @@
 ---
 pid: index_1785
 volume: Volume 3
-image_number: '23'
-head: heavenly things
-entry: "<a href='/digital-beehive/alpha2/alpha_0411/'>a</a>"
+image_number: '24'
+head: hermit
+entry: "<a href='/digital-beehive/alpha2/alpha_0421/'>a</a>|<a href='/digital-beehive/num9/num_3030/'>2093
+  [Hermit]</a>"
 topic:
 first_letter: H
-page:
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-dbcd5abc2"
+item: "#item-9d676a8bb"
 unparsed:
-line: 'Head: heavenly things|Entry: a|#item-dbcd5abc2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1556,1293,553,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244438093
-sort_value: '302331293'
+line: 'Head: hermit|Page: p.37 [Image 1.97]|Entry: a|Entry: 2093 [Hermit]|#item-9d676a8bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/435,689,652,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574923454
+sort_value: '302410689'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1556,1293,553,136/150,/0/default.jpg
-label: heavenly things
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/435,689,652,150/150,/0/default.jpg
+label: hermit
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '604'
+order: '626'
 layout: index_item
 collection: index2
 ---

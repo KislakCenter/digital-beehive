@@ -2,9 +2,9 @@
 pid: index_4176
 volume: Volume 3
 image_number: '48'
-head: too hasty
-entry: "<a href='/digital-beehive/alpha5/alpha_0967/'>a</a>|<a href='/digital-beehive/num4/num_1282/'>961
-  [Too hasty]</a>"
+head: trinity
+entry: "<a href='/digital-beehive/alpha5/alpha_0985/'>a</a>|<a href='/digital-beehive/num3/num_0867/'>639
+  [Trinity]</a>|<a href='/digital-beehive/num6/num_2123/'>1450 [Trinity]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-58d6b0f09"
+item: "#item-2fe6b51e1"
 unparsed:
-line: 'Head: too hasty|Entry: a |Entry: 961 [Too hasty]|#item-58d6b0f09'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/478,1152,481,150/full/0/default.jpg
+line: 'Head: trinity|Entry: a|Entry: 639 [Trinity]|Entry: 1450 [Trinity]|#item-2fe6b51e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1803,1788,646,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273552660
-sort_value: '304811152'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562089021392
+sort_value: '304831788'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/478,1152,481,150/150,/0/default.jpg
-label: too hasty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1803,1788,646,143/150,/0/default.jpg
+label: trinity
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '138'
+order: '199'
 layout: index_item
 collection: index5
 ---

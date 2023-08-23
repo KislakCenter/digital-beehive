@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1706/'>1237 [Earthquakes]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1189/'>earthquake</a>"
+index: "<a href='/digital-beehive/index2/index_1167/'>earthquake</a>"
 item: "#item-aada765c4"
 unparsed:
 line: 'Entry: Earthquake|Topic: Earthquake|XRef: 1237 [Earthquakes]|Index: earthquake|#item-aada765c4'

@@ -2,29 +2,28 @@
 pid: index_2040
 volume: Volume 3
 image_number: '26'
-head: ingenious
-entry:
+head: intercession
+entry: "<a href='/digital-beehive/alpha3/alpha_0487/'>a</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4571/'>wit</a>"
+see:
 index:
-item: "#item-a50e616ee"
+item: "#item-19c631cea"
 unparsed:
-line: 'Head: ingenious|See: wit|#item-a50e616ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/429,2399,543,205/full/0/default.jpg
+line: 'Head: intercession|Entry: a|#item-19c631cea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1157,2814,488,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744994040
-sort_value: '302612399'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748990702
+sort_value: '302622814'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/429,2399,543,205/150,/0/default.jpg
-label: ingenious
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1157,2814,488,117/150,/0/default.jpg
+label: intercession
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '122'
+order: '155'
 layout: index_item
 collection: index3
 ---

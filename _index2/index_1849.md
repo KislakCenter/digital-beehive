@@ -2,8 +2,8 @@
 pid: index_1849
 volume: Volume 3
 image_number: '24'
-head: hither
-entry: "<a href='/digital-beehive/num2/num_0524/'>422 [Hither]</a>"
+head: hostage
+entry: "<a href='/digital-beehive/num9/num_3000/'>2065 [To give Hostage]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-fc67ca024"
+item: "#item-a7a20c7f4"
 unparsed:
-line: 'Head: hither|Entry: 422 [Hither]|#item-fc67ca024'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,573,391,114/full/0/default.jpg
+line: 'Head: hostage|Entry: 2065 [To give Hostage]|#item-a7a20c7f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1865,213,535,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581342386
-sort_value: '302420573'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584828663
+sort_value: '302430213'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,573,391,114/150,/0/default.jpg
-label: hither
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1865,213,535,113/150,/0/default.jpg
+label: hostage
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '668'
+order: '690'
 layout: index_item
 collection: index2
 ---

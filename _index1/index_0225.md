@@ -2,9 +2,8 @@
 pid: index_0225
 volume: Volume 3
 image_number: '8'
-head: assault
-entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1884/''>1338 [To Assault
-  : besiege]</a>|<a href=''/digital-beehive/num9/num_3010/''>2075 [Attack]</a>'
+head: at first
+entry: "<a href='/digital-beehive/num2/num_0624/'>497 [At the first]</a>"
 topic:
 first_letter: A
 page:
@@ -12,20 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-cc62b5fe4"
+item: "#item-2d84d625c"
 unparsed:
-line: 'Head: assault|Entry: 742 [PAGE_MISSING]|Entry: 1338 [To Assault : besiege]|Entry:
-  2075 [Attack]|#item-cc62b5fe4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1764,2573,784,162/full/0/default.jpg
+line: 'Head: at first|Entry: 497 [At the first]|#item-2d84d625c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1800,3375,448,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631802107
-sort_value: '300832573'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565632069519
+sort_value: '300833375'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1764,2573,784,162/150,/0/default.jpg
-label: assault
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1800,3375,448,134/150,/0/default.jpg
+label: at first
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0224'
 layout: index_item
 collection: index1

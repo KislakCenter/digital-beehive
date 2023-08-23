@@ -2,29 +2,28 @@
 pid: index_1875
 volume: Volume 3
 image_number: '24'
-head: horse leech
-entry:
+head: hurricane
+entry: "<a href='/digital-beehive/num2/num_0445/'>370 [Storm]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-8d074f5a6"
+item: "#item-c63273102"
 unparsed:
-line: 'Head: horse leech|Page: p.37 [Image 1.97]|#item-8d074f5a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1135,3026,443,137/full/0/default.jpg
+line: 'Head: hurricane|Entry: 370 [Storm]|#item-c63273102'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1843,2399,511,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584067674
-sort_value: '302423026'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588246863
+sort_value: '302432399'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1135,3026,443,137/150,/0/default.jpg
-label: horse leech
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1843,2399,511,117/150,/0/default.jpg
+label: hurricane
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '694'
+order: '716'
 layout: index_item
 collection: index2
 ---

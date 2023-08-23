@@ -2,29 +2,28 @@
 pid: index_3427
 volume: Volume 3
 image_number: '40'
-head: right or wrong
-entry: "<a href='/digital-beehive/num7/num_2652/'>1727 [Ill gotten goods]</a>"
+head: Sacheverell
+entry: "<a href='/digital-beehive/num7/num_2578/'>1677 [Sacheverell]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-501c0d3ec"
+item: "#item-5eb4e541c"
 unparsed:
-line: 'Head: right or wrong|Entry: 1727 [Ill gotten goods]|#item-501c0d3ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/446,2264,636,114/full/0/default.jpg
+line: 'Head: Sacheverell|Entry: 1677 [Sacheverell]|#item-5eb4e541c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1811,1379,597,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232042828
-sort_value: '304012264'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234691757
+sort_value: '304031379'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/446,2264,636,114/150,/0/default.jpg
-label: right or wrong
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1811,1379,597,132/150,/0/default.jpg
+label: Sacheverell
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0675'
+order: '0719'
 layout: index_item
 collection: index4
 ---

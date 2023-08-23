@@ -2,9 +2,10 @@
 pid: index_3065
 volume: Volume 3
 image_number: '36'
-head: politick
-entry: "<a href='/digital-beehive/alpha4/alpha_0720/'>a</a>|<a href='/digital-beehive/num5/num_1334/'>1001
-  [Politick]</a>|<a href='/digital-beehive/num7/num_2673/'>1744 [Politick]</a>"
+head: bad preachers
+entry: "<a href='/digital-beehive/num1/num_0042/'>42 [False ministers]</a>|<a href='/digital-beehive/num6/num_1756/'>1264
+  [False Teachers]</a>|<a href='/digital-beehive/num8/num_2717/'>1784 [False Teachers]</a>|<a
+  href='/digital-beehive/num10/num_3217/'>2263 [False Teachers]</a>|4500 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -12,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-e67bd475c"
+item: "#item-43ab5fd6e"
 unparsed:
-line: 'Head: politick|Entry: a|Entry: 1001 [Politick]|Entry: 1744 [Politick]|#item-e67bd475c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/410,3072,752,139/full/0/default.jpg
+line: 'Head: bad preachers|Entry: 42 [False ministers]|Entry: 1264 [False Teachers]|Entry:
+  1784 [False Teachers]|Entry: 2263 [False Teachers]|Entry: 4500 [PAGE_MISSING]|#item-43ab5fd6e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1901,1549,654,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438057776
-sort_value: '303613072'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440302820
+sort_value: '303631549'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/410,3072,752,139/150,/0/default.jpg
-label: politick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1901,1549,654,162/150,/0/default.jpg
+label: bad preachers
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0313'
+order: '0357'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_1102
 volume: Volume 3
 image_number: '17'
-head: distilling
-entry: "<a href='/digital-beehive/num3/num_0768/'>592 [Distilling]</a>"
+head: doctor of divinity
+entry:
 topic:
 first_letter: D
-page:
+page: "<a href='/digital-beehive/toc/toc1_127/'>p.66.2 [Image 1.138]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-9a2f2ea53"
+item: "#item-51a8ecea4"
 unparsed:
-line: 'Head: distilling|Entry: 592 [Distilling]|#item-9a2f2ea53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/774,373,587,123/full/0/default.jpg
+line: 'Head: doctor of divinity|Page: p.66.2 [Image 1.138]|#item-51a8ecea4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/824,2488,685,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843392041
-sort_value: '301720373'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560366927363
+sort_value: '301722488'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/774,373,587,123/150,/0/default.jpg
-label: distilling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/824,2488,685,156/150,/0/default.jpg
+label: doctor of divinity
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue:
-insertion_xref:
+issue: Pastorius links to section 47 on page 66. There is currently no protocol for
+  specifying a specific item on a page reference.
 order: '1101'
 layout: index_item
 collection: index1

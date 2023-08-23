@@ -1,30 +1,29 @@
 ---
 pid: index_2114
 volume: Volume 3
-image_number: '26'
-head: irksomness
-entry: "<a href='/digital-beehive/num3/num_0915/'>662 [Irksomness]</a>"
+image_number: '27'
+head: to keep back
+entry: 828 [PAGE_MISSING]
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ebc70f0cc"
+item: "#item-701e34976"
 unparsed:
-line: 'Head: irksomness|Entry: 662 [Irksomness]|#item-ebc70f0cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1855,3282,501,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754790834
-sort_value: '302633282'
+line: 'Head: to keep back|Entry: 828 [PAGE_MISSING]|#item-701e34976'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/133,3357,528,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759573504
+sort_value: '302713357'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1855,3282,501,133/150,/0/default.jpg
-label: irksomness
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/133,3357,528,148/150,/0/default.jpg
+label: to keep back
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '196'
+order: '229'
 layout: index_item
 collection: index3
 ---

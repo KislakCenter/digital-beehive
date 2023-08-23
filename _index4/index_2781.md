@@ -2,29 +2,28 @@
 pid: index_2781
 volume: Volume 3
 image_number: '33'
-head: oister
-entry: "<a href='/digital-beehive/num6/num_2011/'>1398 [Oister]</a>"
+head: Origines
+entry: "<a href='/digital-beehive/num7/num_2355/'>1571 [Origenes]</a>"
 topic:
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-0104e7d84"
+item: "#item-1fa210768"
 unparsed:
-line: 'Head: oister|Page: p.36 [Image 1.96]|Entry: 1398 [Oister]|#item-0104e7d84'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/851,1337,577,133/full/0/default.jpg
+line: 'Head: Origines|Entry: 1571 [Origenes]|#item-1fa210768'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1477,2687,661,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348210030
-sort_value: '303321337'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163641781
+sort_value: '303332687'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/851,1337,577,133/150,/0/default.jpg
-label: oister
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1477,2687,661,168/150,/0/default.jpg
+label: Origines
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0029'
+order: '0073'
 layout: index_item
 collection: index4
 ---

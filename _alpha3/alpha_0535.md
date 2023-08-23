@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>alms</a>|<a href='/digital-beehive/alpha2/alpha_0363/'>gift</a>|<a
   href='/digital-beehive/num5/num_1529/'>1127 [Liberality]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2273/'>liberality</a>"
+index: "<a href='/digital-beehive/index3/index_2236/'>liberality</a>"
 item: "#item-8b9784d52"
 unparsed:
 line: 'Entry: Liberality|Topic: Liberality|Xref: alms|Xref: gift|Xref: 1127 [Liberality]|Index:

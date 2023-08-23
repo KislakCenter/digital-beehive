@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0147/'>Christ</a>|<a href='/digital-beehive/alpha4/alpha_0834/'>Saviour</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1940/'>Jesus</a>"
+index: "<a href='/digital-beehive/index3/index_1907/'>Jesus</a>"
 item: "#item-fc54ff4b7"
 unparsed:
 line: 'Entry: Jesus|Topic: Jesus|Xref: Christ|Xref: Saviour|Index: Jesus|#item-fc54ff4b7'

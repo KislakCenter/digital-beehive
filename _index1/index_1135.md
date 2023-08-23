@@ -2,10 +2,8 @@
 pid: index_1135
 volume: Volume 3
 image_number: '17'
-head: doubt
-entry: "<a href='/digital-beehive/alpha1/alpha_0263/'>a</a>|<a href='/digital-beehive/num3/num_1025/'>705
-  [Doubtfulness]</a>|<a href='/digital-beehive/num4/num_1217/'>918 [Doubtful]</a>|<a
-  href='/digital-beehive/num9/num_2996/'>2061 [Doubt]</a>"
+head: drop
+entry: "<a href='/digital-beehive/num3/num_0998/'>694 [a Drop]</a>"
 topic:
 first_letter: D
 page:
@@ -13,20 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-708c2d23b"
+item: "#item-041a86045"
 unparsed:
-line: 'Head: doubt|Entry: a|Entry: 705 [Doubtfulness]|Entry: 918 [Doubtful]|Entry:
-  2061 [Doubt]|#item-708c2d23b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1451,754,787,144/full/0/default.jpg
+line: 'Head: drop|Entry: 694 [a Drop]|#item-041a86045'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1456,2677,364,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367766739
-sort_value: '301730754'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560453024692
+sort_value: '301732677'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1451,754,787,144/150,/0/default.jpg
-label: doubt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1456,2677,364,124/150,/0/default.jpg
+label: drop
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1134'
 layout: index_item
 collection: index1

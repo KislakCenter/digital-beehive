@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0633/'>503 [Perseverance]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2209/'>to last or endure</a>"
+index: "<a href='/digital-beehive/index3/index_2173/'>to last or endure</a>"
 item: "#item-4e2aa1b9a"
 unparsed:
 line: 'Entry: To Last|Topic: To Last|Xref: 503 [Perseverance]|Index: to last or endure|#item-4e2aa1b9a'

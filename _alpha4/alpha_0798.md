@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0763/'>Punishmt</a>|<a href='/digi
   [Strain a gnat]</a>|<a href='/digital-beehive/num1/num_0197/'>188 [Reproof]</a>|<a
   href='/digital-beehive/num4/num_1237/'>928 [Reproof]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3379/'>reproof</a>"
+index: "<a href='/digital-beehive/index4/index_3327/'>reproof</a>"
 item: "#item-619af4159"
 unparsed:
 line: 'Entry: Reproof|Topic: Reproof|Xref: Punishmt|Xref: 177 [Strain a gnat]|Xref:

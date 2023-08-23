@@ -2,10 +2,8 @@
 pid: index_0082
 volume: Volume 3
 image_number: '7'
-head: agriculture
-entry: "<a href='/digital-beehive/alpha1/alpha_0016/'>a</a>|<a href='/digital-beehive/num5/num_1535/'>1130
-  [Agriculture]</a>|<a href='/digital-beehive/num11/num_3559/'>4863 [Agriculture &
-  Country life]</a>"
+head: alacrity
+entry: "<a href='/digital-beehive/num6/num_1839/'>1316 [Alacrity]</a>"
 topic:
 first_letter: A
 page:
@@ -13,20 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-41b808974"
+item: "#item-85f6d865b"
 unparsed:
-line: 'Head: agriculture|Entry: a|Entry: 1130 [Agriculture]|Entry: 4863 [Agriculture
-  & Country life]|#item-41b808974'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1610,254,683,139/full/0/default.jpg
+line: 'Head: alacrity|Entry: 1316 [Alacrity]|#item-85f6d865b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1613,441,446,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767789045
-sort_value: '300730254'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767900037
+sort_value: '300730441'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1610,254,683,139/150,/0/default.jpg
-label: agriculture
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1613,441,446,141/150,/0/default.jpg
+label: alacrity
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0081'
 layout: index_item
 collection: index1

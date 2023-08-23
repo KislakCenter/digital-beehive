@@ -2,8 +2,8 @@
 pid: index_0124
 volume: Volume 3
 image_number: '8'
-head: amen
-entry: "<a href='/digital-beehive/num2/num_0621/'>495 [Yes]</a>"
+head: amnestia
+entry: "<a href='/digital-beehive/num3/num_1004/'>697 [Forgetfulness]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-5f45773ab"
+item: "#item-3fd44c235"
 unparsed:
-line: 'Head: amen|Entry: 495 [Yes]|#item-5f45773ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/384,216,420,151/full/0/default.jpg
+line: 'Head: amnestia|Entry: 697 [Forgetfulness]|#item-3fd44c235'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/391,580,503,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564757519205
-sort_value: '300810216'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757658465
+sort_value: '300810580'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/384,216,420,151/150,/0/default.jpg
-label: amen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/391,580,503,158/150,/0/default.jpg
+label: amnestia
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0123'
 layout: index_item
 collection: index1

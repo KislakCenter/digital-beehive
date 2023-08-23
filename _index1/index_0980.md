@@ -2,28 +2,27 @@
 pid: index_0980
 volume: Volume 3
 image_number: '16'
-head: decree
-entry: "<a href='/digital-beehive/num8/num_2829/'>1920 [Decree]</a>"
+head: delicacy
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3389/'>resolution</a>"
+see: "<a href='/digital-beehive/index1/index_0920/'>dainty</a>|<a href='/digital-beehive/index5/index_4501/'>wit</a>"
 index:
-item: "#item-290d04093"
+item: "#item-90f566525"
 unparsed:
-line: 'Head: decree|See: resolution|Entry: 1920 [Decree]|#item-290d04093'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/363,906,705,193/full/0/default.jpg
+line: 'Head: delicacy|See: dainty|See: wit|#item-90f566525'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/341,3061,742,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540570158116
-sort_value: '301610906'
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572731411
+sort_value: '301613061'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/363,906,705,193/150,/0/default.jpg
-label: decree
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/341,3061,742,141/150,/0/default.jpg
+label: delicacy
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0979'
 layout: index_item
 collection: index1

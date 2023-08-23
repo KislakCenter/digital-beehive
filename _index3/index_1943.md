@@ -2,29 +2,28 @@
 pid: index_1943
 volume: Volume 3
 image_number: '25'
-head: wandering Jew
-entry: "<a href='/digital-beehive/num6/num_1874/'>1332 [Wandring Jew]</a>"
+head: imprisonmt
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3112/'>prison</a>"
 index:
-item: "#item-ec7abe356"
+item: "#item-45948aa65"
 unparsed:
-line: 'Head: wandering Jew|Entry: 1332 [Wandring Jew]|#item-ec7abe356'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/147,2473,620,136/full/0/default.jpg
+line: 'Head: imprisonmt|See: prison|#item-45948aa65'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661555122
-sort_value: '302512473'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667079955
+sort_value: '302522460'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/147,2473,620,136/150,/0/default.jpg
-label: wandering Jew
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/150,/0/default.jpg
+label: imprisonmt
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '025'
+order: '058'
 layout: index_item
 collection: index3
 ---

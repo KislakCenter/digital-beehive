@@ -2,29 +2,28 @@
 pid: index_1724
 volume: Volume 3
 image_number: '23'
-head: guest
-entry: 4608 [PAGE_MISSING]
+head: hare
+entry: "<a href='/digital-beehive/alpha2/alpha_0399/'>a</a>"
 topic:
-first_letter: G
-page:
+first_letter: H
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-199acac44"
+item: "#item-e423fdca4"
 unparsed:
-line: 'Head: guest|Entry: 4608 [PAGE_MISSING]|#item-199acac44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/148,2198,359,68/full/0/default.jpg
+line: 'Head: hare|Page: p.34 [Image 1.94]|Entry: a|#item-e423fdca4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,1607,451,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232373971
-sort_value: '302312198'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239856850
+sort_value: '302321607'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/148,2198,359,68/150,/0/default.jpg
-label: guest
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/840,1607,451,145/150,/0/default.jpg
+label: hare
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '543'
+order: '565'
 layout: index_item
 collection: index2
 ---

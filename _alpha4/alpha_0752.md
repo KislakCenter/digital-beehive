@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0751/'>Proof</a>|<a href='/digital
   href='/digital-beehive/num9/num_3143/'>2199 [Argument]</a>|<a href='/digital-beehive/num4/num_1200/'>913
   [Proof]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3192/'>proof or evidence</a>"
+index: "<a href='/digital-beehive/index4/index_3142/'>proof or evidence</a>"
 item: "#item-e4d9f00a8"
 unparsed:
 line: 'Entry: Proof, continued|Topic: Proof|Xref: Proof|Xref: Testimony|Xref: 2199
@@ -25,7 +25,11 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/807,214,600,180/250,/0/default.jpg
 label: Proof, continued
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
-issue: The point of reference for "argument" is unclear.
+issue: The points of reference for "Trial" and "Essay" are not entirely clear, as
+  there are no alphabetical entries for these terms. The Octavo Index indicates that
+  783 [Argument, trial or essay] may be the earliest occurrence of these topics in
+  the Numerical section of the Alvearium, but the page where it would appear is missing
+  from the manuscript.
 also_in_entry:
 order: '100'
 layout: alpha_item

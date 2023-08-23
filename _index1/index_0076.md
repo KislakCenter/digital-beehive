@@ -2,28 +2,28 @@
 pid: index_0076
 volume: Volume 3
 image_number: '7'
-head: aggravate
-entry: "<a href='/digital-beehive/num3/num_0732/'>573 [To aggravate]</a>"
+head: agony
+entry: "<a href='/digital-beehive/alpha1/alpha_0013/'>a</a>|<a href='/digital-beehive/num5/num_1434/'>1065
+  [Agony]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4622/'>worse</a>"
+see:
 index:
-item: "#item-fc752fad1"
+item: "#item-617650a3e"
 unparsed:
-line: 'Head: aggravate|See: worse|Entry: 573 [To aggravate]|#item-fc752fad1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3041,696,125/full/0/default.jpg
+line: 'Head: agony|Entry: a|Entry: 1065 [Agony]|#item-617650a3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3173,465,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767478157
-sort_value: '300723041'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767567535
+sort_value: '300723173'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3041,696,125/150,/0/default.jpg
-label: aggravate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/900,3173,465,119/150,/0/default.jpg
+label: agony
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0075'
 layout: index_item
 collection: index1

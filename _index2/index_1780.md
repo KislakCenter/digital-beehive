@@ -1,10 +1,10 @@
 ---
 pid: index_1780
 volume: Volume 3
-image_number: '23'
-head: hear-say
-entry: 779 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3188/'>2242 [Report &
-  Hear-say]</a>
+image_number: '24'
+head: heresy
+entry: "<a href='/digital-beehive/alpha2/alpha_0418/'>a</a>|<a href='/digital-beehive/num3/num_0711/'>558
+  [Heresy]</a>|1841 [PAGE_MISSING]"
 topic:
 first_letter: H
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9a4831ed5"
+item: "#item-e109238c6"
 unparsed:
-line: 'Head: hear-say|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & Hear-say]|#item-9a4831ed5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1555,816,640,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243768697
-sort_value: '302330816'
+line: 'Head: heresy|Entry: a|Entry: 558 [Heresy]|Entry: 1841 [PAGE_MISSING]|#item-e109238c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/439,244,674,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574040341
+sort_value: '302410244'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1555,816,640,95/150,/0/default.jpg
-label: hear-say
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/439,244,674,150/150,/0/default.jpg
+label: heresy
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '599'
+order: '621'
 layout: index_item
 collection: index2
 ---

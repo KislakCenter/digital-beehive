@@ -1,9 +1,9 @@
 ---
 pid: index_2416
 volume: Volume 3
-image_number: '29'
-head: man[n]a
-entry: "<a href='/digital-beehive/num5/num_1483/'>1095 [Manna]</a>"
+image_number: '30'
+head: meaning
+entry: "<a href='/digital-beehive/num3/num_0821/'>614 [Meaning]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ea3b7da6b"
+item: "#item-7e73ebde4"
 unparsed:
-line: 'Head: man[n]a|Entry: 1095 [Manna]|#item-ea3b7da6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1535,2705,345,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196335159
-sort_value: '302932705'
+line: 'Head: meaning|Entry: 614 [Meaning]|#item-7e73ebde4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,2881,418,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265683474
+sort_value: '303012881'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1535,2705,345,117/150,/0/default.jpg
-label: man[n]a
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,2881,418,130/150,/0/default.jpg
+label: meaning
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '498'
+order: '531'
 layout: index_item
 collection: index3
 ---

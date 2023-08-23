@@ -1,10 +1,9 @@
 ---
 pid: index_4496
 volume: Volume 3
-image_number: '52'
-head: way
-entry: "<a href='/digital-beehive/alpha5/alpha_1031/'>a</a>|<a href='/digital-beehive/num5/num_1344/'>1007
-  [Way]</a>"
+image_number: '53'
+head: wire
+entry: 1883 [PAGE_MISSING]
 topic:
 first_letter: W
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9d994c03f"
+item: "#item-f55f22007"
 unparsed:
-line: 'Head: way|Entry: a|Entry: 1007 [Way]|#item-9d994c03f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/471,1864,457,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960807167
-sort_value: '305211864'
+line: 'Head: wire|Entry: 1883 [PAGE_MISSING]|#item-f55f22007'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/200,734,369,92/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791445971
+sort_value: '305310734'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/471,1864,457,141/150,/0/default.jpg
-label: way
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/200,734,369,92/150,/0/default.jpg
+label: wire
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '458'
+order: '519'
 layout: index_item
 collection: index5
 ---

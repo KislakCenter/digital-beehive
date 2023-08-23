@@ -2,28 +2,27 @@
 pid: index_0673
 volume: Volume 3
 image_number: '13'
-head: circumspect
+head: clear
 entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0809/'>considerate</a>"
+see: "<a href='/digital-beehive/index4/index_2981/'>plain</a>"
 index:
-item: "#item-41878201f"
+item: "#item-0fe83e2d8"
 unparsed:
-line: 'Head: circumspect|See: considerate|#item-41878201f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/143,2294,753,187/full/0/default.jpg
+line: 'Head: clear|See: plain|#item-0fe83e2d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/156,3548,486,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536332355104
-sort_value: '301312294'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333830774
+sort_value: '301313548'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/143,2294,753,187/150,/0/default.jpg
-label: circumspect
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/156,3548,486,130/150,/0/default.jpg
+label: clear
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0672'
 layout: index_item
 collection: index1

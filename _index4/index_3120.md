@@ -1,10 +1,9 @@
 ---
 pid: index_3120
 volume: Volume 3
-image_number: '36'
-head: predestination
-entry: "<a href='/digital-beehive/alpha4/alpha_0732/'>a</a>|<a href='/digital-beehive/num1/num_0243/'>228
-  [Predestination]</a>|<a href='/digital-beehive/num9/num_3176/'>2230 [Predestination]</a>"
+image_number: '37'
+head: to proceed
+entry: "<a href='/digital-beehive/num10/num_3313/'>2342 [To proceed]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ce5e783d9"
+item: "#item-e2b6403dd"
 unparsed:
-line: 'Head: predestination|Entry: a|Entry: 228 [Predestination]|Entry: 2230 [Predestination]|#item-ce5e783d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1871,2006,690,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440543597
-sort_value: '303632006'
+line: 'Head: to proceed|Entry: 2342 [To proceed]|#item-e2b6403dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/809,1141,606,86/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867733913
+sort_value: '303721141'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1871,2006,690,160/150,/0/default.jpg
-label: predestination
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/809,1141,606,86/150,/0/default.jpg
+label: to proceed
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0368'
+order: '0412'
 layout: index_item
 collection: index4
 ---

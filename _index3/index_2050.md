@@ -2,8 +2,8 @@
 pid: index_2050
 volume: Volume 3
 image_number: '26'
-head: Inkhorn
-entry: "<a href='/digital-beehive/num2/num_0507/'>410 [Ink-horn]</a>"
+head: intrigue
+entry: "<a href='/digital-beehive/num3/num_0882/'>645 [Intrigue]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0892f5c85"
+item: "#item-d97e46327"
 unparsed:
-line: 'Head: Inkhorn|Entry: 410 [Ink-horn]|#item-0892f5c85'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/714,3281,433,119/full/0/default.jpg
+line: 'Head: intrigue|Entry: 645 [Intrigue]|#item-d97e46327'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1863,486,442,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745580815
-sort_value: '302613281'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750757463
+sort_value: '302630486'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/714,3281,433,119/150,/0/default.jpg
-label: Inkhorn
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1863,486,442,138/150,/0/default.jpg
+label: intrigue
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '132'
+order: '165'
 layout: index_item
 collection: index3
 ---

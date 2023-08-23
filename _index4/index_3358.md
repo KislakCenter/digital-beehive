@@ -1,9 +1,9 @@
 ---
 pid: index_3358
 volume: Volume 3
-image_number: '39'
-head: remission
-entry: "<a href='/digital-beehive/alpha4/alpha_0793/'>a</a>"
+image_number: '40'
+head: reviling
+entry: "<a href='/digital-beehive/num3/num_0678/'>538 [Reviling, so called]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1691e9e84"
+item: "#item-6f77128e7"
 unparsed:
-line: 'Head: remission|Entry: a|#item-1691e9e84'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/771,816,513,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468960767
-sort_value: '303920816'
+line: 'Head: reviling|Entry: 538 [Reviling, so called]|#item-6f77128e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/444,561,476,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231123186
+sort_value: '304010561'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/771,816,513,145/150,/0/default.jpg
-label: remission
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/444,561,476,134/150,/0/default.jpg
+label: reviling
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0606'
+order: '0650'
 layout: index_item
 collection: index4
 ---

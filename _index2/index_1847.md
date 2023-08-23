@@ -2,29 +2,28 @@
 pid: index_1847
 volume: Volume 3
 image_number: '24'
-head: histories prophane
-entry:
+head: hospitality
+entry: "<a href='/digital-beehive/alpha2/alpha_0436/'>a</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_097/'>p.47 [Image 1.107]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-cf949cc50"
+item: "#item-a0f35d184"
 unparsed:
-line: 'Head: histories prophane|Page: p.47 [Image 1.107]|#item-cf949cc50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,351,537,105/full/0/default.jpg
+line: 'Head: hospitality|Entry: a|#item-a0f35d184'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,3522,468,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580913047
-sort_value: '302420351'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584684762
+sort_value: '302423522'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,351,537,105/150,/0/default.jpg
-label: histories prophane
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,3522,468,173/150,/0/default.jpg
+label: hospitality
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '666'
+order: '688'
 layout: index_item
 collection: index2
 ---

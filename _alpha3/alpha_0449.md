@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1819/'>1301 [Jealous]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1933/'>Jealousie</a>"
+index: "<a href='/digital-beehive/index3/index_1900/'>Jealousie</a>"
 item: "#item-d56a0a1f2"
 unparsed:
 line: 'Entry: Jealousy|Topic: Jealousy|Xref: 1301 [Jealous]|Index: Jealousie|#item-d56a0a1f2'

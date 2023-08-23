@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2501/'>metaphysicks</a>"
+index: "<a href='/digital-beehive/index3/index_2460/'>metaphysicks</a>"
 item: "#item-0755d4391"
 unparsed:
 line: 'Entry: Metaphysics|Topic: Metaphysics|Index: metaphysicks|#item-0755d4391'

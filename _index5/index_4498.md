@@ -1,10 +1,11 @@
 ---
 pid: index_4498
 volume: Volume 3
-image_number: '52'
-head: weakness
-entry: "<a href='/digital-beehive/num2/num_0374/'>325 [Infirmity]</a>|<a href='/digital-beehive/num7/num_2644/'>1719
-  [Infirmity]</a>|4754 [PAGE_MISSING]"
+image_number: '53'
+head: the wise man
+entry: "<a href='/digital-beehive/num6/num_1810/'>1296 [Wise man]</a>|<a href='/digital-beehive/num6/num_1985/'>1387
+  [a Wise Man]</a>|<a href='/digital-beehive/num7/num_2605/'>1691 [Persons of unspotted
+  Reputation]</a>"
 topic:
 first_letter: W
 page:
@@ -12,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-153b2b1b0"
+item: "#item-20b001214"
 unparsed:
-line: 'Head: weakness|Entry: 325 [Infirmity]|Entry: 1719 [Infirmity]|Entry: 4754 [PAGE_MISSING]|#item-153b2b1b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/486,2150,611,177/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960979093
-sort_value: '305212150'
+line: 'Head: the wise man|Entry: 1296 [Wise man]|Entry: 1387 [a Wise Man]|Entry: 1691
+  [Persons of unspotted Reputation]|#item-20b001214'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/175,937,725,183/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791668002
+sort_value: '305310937'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/486,2150,611,177/150,/0/default.jpg
-label: weakness
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/175,937,725,183/150,/0/default.jpg
+label: the wise man
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '460'
+order: '521'
 layout: index_item
 collection: index5
 ---

@@ -2,8 +2,9 @@
 pid: index_0774
 volume: Volume 3
 image_number: '14'
-head: concoction
-entry: 766 [PAGE_MISSING]
+head: conformity
+entry: "<a href='/digital-beehive/num2/num_0618/'>493 [Conformity]</a>|<a href='/digital-beehive/num6/num_1782/'>1281
+  [Conformity]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-43a0245f4"
+item: "#item-196284c7a"
 unparsed:
-line: 'Head: concoction|Entry: 766 [PAGE_MISSING]|#item-43a0245f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/406,2004,576,135/full/0/default.jpg
+line: 'Head: conformity|Entry: 493 [Conformity]|Entry: 1281 [Conformity]|#item-196284c7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/389,3495,746,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216584706
-sort_value: '301412004'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216978717
+sort_value: '301413495'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/406,2004,576,135/150,/0/default.jpg
-label: concoction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/389,3495,746,103/150,/0/default.jpg
+label: conformity
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0773'
 layout: index_item
 collection: index1

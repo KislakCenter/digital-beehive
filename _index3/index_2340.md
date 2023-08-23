@@ -2,30 +2,28 @@
 pid: index_2340
 volume: Volume 3
 image_number: '29'
-head: love of God
-entry: "<a href='/digital-beehive/alpha3/alpha_0557/'>a</a>|<a href='/digital-beehive/num9/num_2975/'>2040
-  [Love of God]</a>"
+head: magick
+entry: "<a href='/digital-beehive/num7/num_2545/'>1661 [Magick]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-cd02cf49f"
+item: "#item-4935df44b"
 unparsed:
-line: 'Head: love of God|Entry: a|Entry: 2040 [Love of God]|#item-cd02cf49f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/173,2023,503,92/full/0/default.jpg
+line: 'Head: magick|Entry: 1661 [Magick]|#item-4935df44b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,2218,396,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178945887
-sort_value: '302912023'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186536423
+sort_value: '302922218'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/173,2023,503,92/150,/0/default.jpg
-label: love of God
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,2218,396,151/150,/0/default.jpg
+label: magick
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '422'
+order: '455'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,8 @@
 pid: index_2560
 volume: Volume 3
 image_number: '31'
-head: Molinos
-entry: "<a href='/digital-beehive/num4/num_1257/'>939 [Quietists]</a>"
+head: motto
+entry: "<a href='/digital-beehive/alpha3/alpha_0615/'>a</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7e4dac028"
+item: "#item-d9321ad16"
 unparsed:
-line: 'Head: Molinos|Entry: 939 [Quietists]|#item-7e4dac028'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/154,3220,422,140/full/0/default.jpg
+line: 'Head: motto|Entry: a|#item-d9321ad16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1568,245,353,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560353174279
-sort_value: '303113220'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360247740
+sort_value: '303130245'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/154,3220,422,140/150,/0/default.jpg
-label: Molinos
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1568,245,353,97/150,/0/default.jpg
+label: motto
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '642'
+order: '675'
 layout: index_item
 collection: index3
 ---

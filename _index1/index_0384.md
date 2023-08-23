@@ -2,28 +2,27 @@
 pid: index_0384
 volume: Volume 3
 image_number: '10'
-head: blame
-entry:
+head: blockhead
+entry: "<a href='/digital-beehive/alpha1/alpha_0087/'>a</a>|750 [PAGE_MISSING]"
 topic:
 first_letter: B
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1729/'>guilt</a>"
+see:
 index:
-item: "#item-a7be5efc7"
+item: "#item-fdcd39339"
 unparsed:
-line: 'Head: blame|See: guilt|#item-a7be5efc7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1082,1765,541,128/full/0/default.jpg
+line: 'Head: blockhead|Entry: a|Entry: 750 [PAGE_MISSING]|#item-fdcd39339'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1085,2628,551,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565019866847
-sort_value: '301021765'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531151550959
+sort_value: '301022628'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1082,1765,541,128/150,/0/default.jpg
-label: blame
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1085,2628,551,141/150,/0/default.jpg
+label: blockhead
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0383'
 layout: index_item
 collection: index1

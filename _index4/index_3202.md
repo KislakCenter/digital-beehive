@@ -1,31 +1,29 @@
 ---
 pid: index_3202
 volume: Volume 3
-image_number: '37'
-head: propriety
-entry: "<a href='/digital-beehive/alpha4/alpha_0756/'>a</a>|<a href='/digital-beehive/num9/num_2947/'>2012
-  [Propriety]</a>"
+image_number: '38'
+head: quarrelsome
+entry: "<a href='/digital-beehive/num4/num_1169/'>899 [Quarrelsome]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6eec518f1"
+item: "#item-fb1846ca6"
 unparsed:
-line: 'Head: propriety|Entry: a|Entry: 2012 [Propriety]|#item-6eec518f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1500,1417,614,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869339060
-sort_value: '303731417'
+line: 'Head: quarrelsome|Entry: 899 [Quarrelsome]|#item-fb1846ca6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/409,3566,517,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454853715
+sort_value: '303813566'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1500,1417,614,119/150,/0/default.jpg
-label: propriety
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/409,3566,517,110/150,/0/default.jpg
+label: quarrelsome
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0450'
+order: '0494'
 layout: index_item
 collection: index4
 ---

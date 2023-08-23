@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0355/'>310 [Leanness]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2236/'>lean[n]ess</a>"
+index: "<a href='/digital-beehive/index3/index_2200/'>lean[n]ess</a>"
 item: "#item-611d33851"
 unparsed:
 line: 'Entry: Leanness|Topic: Leanness|XRef: 310 [Leanness]|Index: lean[n]ess|#item-611d33851'

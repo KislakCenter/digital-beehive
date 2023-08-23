@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0587/'>Member</a>|<a href='/digital-beehive/num3/num_0751/'>583
   [Body]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0401/'>body</a>"
+index: "<a href='/digital-beehive/index1/index_0393/'>body</a>"
 item: "#item-4e1fb40cc"
 unparsed:
 line: 'Entry: Body|Topic: Body|Xref: Member|Xref: 583 [Body]|Index: body|#item-4e1fb40cc'

@@ -1,9 +1,12 @@
 ---
 pid: index_2919
 volume: Volume 3
-image_number: '34'
-head: patres
-entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
+image_number: '35'
+head: persecution
+entry: "<a href='/digital-beehive/alpha4/alpha_0704/'>a</a>|<a href='/digital-beehive/num5/num_1476/'>1092
+  [Persecution]</a>|<a href='/digital-beehive/num8/num_2686/'>1756 [Persecution]</a>|<a
+  href='/digital-beehive/num10/num_3231/'>2272 [Persecution]</a>|<a href='/digital-beehive/num10/num_3459/'>4473
+  [Persecution]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +14,20 @@ add:
 xref:
 see:
 index:
-item: "#item-adf4d9f87"
+item: "#item-6ebb08ccd"
 unparsed:
-line: 'Head: patres|Entry: 73 [the Fathers]|#item-adf4d9f87'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1812,1907,558,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495553454
-sort_value: '303431907'
+line: 'Head: persecution|Entry: a|Entry: 1092 [Persecution]|Entry: 1756 [Persecution]|Entry:
+  2272 [Persecution]|Entry: 4473 [Persecution]|#item-6ebb08ccd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/811,286,717,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973969666
+sort_value: '303520286'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1812,1907,558,139/150,/0/default.jpg
-label: patres
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/811,286,717,153/150,/0/default.jpg
+label: persecution
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0167'
+order: '0211'
 layout: index_item
 collection: index4
 ---

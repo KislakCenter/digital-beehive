@@ -1,30 +1,29 @@
 ---
 pid: index_1786
 volume: Volume 3
-image_number: '23'
-head: heavenly minded
-entry: "<a href='/digital-beehive/num5/num_1373/'>1026 [Heavenly minded]</a>"
+image_number: '24'
+head: hern
+entry:
 topic:
 first_letter: H
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-9fa2773cc"
+item: "#item-87f0f4d96"
 unparsed:
-line: 'Head: heavenly minded|Entry: 1026 [Heavenly minded]|#item-9fa2773cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1536,1358,517,86/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244582576
-sort_value: '302331358'
+line: 'Head: hern|Page: p.35 [Image 1.95]|#item-87f0f4d96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/443,802,328,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575073602
+sort_value: '302410802'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1536,1358,517,86/150,/0/default.jpg
-label: heavenly minded
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/443,802,328,153/150,/0/default.jpg
+label: hern
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '605'
+order: '627'
 layout: index_item
 collection: index2
 ---

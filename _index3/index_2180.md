@@ -2,29 +2,29 @@
 pid: index_2180
 volume: Volume 3
 image_number: '27'
-head: Kropf
-entry: "<a href='/digital-beehive/num3/num_0958/'>681 [Wen]</a>"
+head: latin
+entry: "<a href='/digital-beehive/alpha3/alpha_0520/'>a</a>|<a href='/digital-beehive/num11/num_3521/'>4825
+  [Latin]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c389406e2"
+item: "#item-229c00e23"
 unparsed:
-line: 'Head: Kropf|Entry: 681 [Wen]|#item-c389406e2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/826,2781,326,122/full/0/default.jpg
+line: 'Head: latin|Entry: a|Entry: 4825 [Latin]|#item-229c00e23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1528,2825,495,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559831874567
-sort_value: '302722781'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836664349
+sort_value: '302732825'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/826,2781,326,122/150,/0/default.jpg
-label: Kropf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1528,2825,495,119/150,/0/default.jpg
+label: latin
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '262'
+order: '295'
 layout: index_item
 collection: index3
 ---

@@ -1,29 +1,29 @@
 ---
 pid: index_1066
 volume: Volume 3
-image_number: '16'
-head: discipline
-entry: "<a href='/digital-beehive/alpha1/alpha_0241/'>a</a>"
+image_number: '17'
+head: disorder
+entry: "<a href='/digital-beehive/alpha1/alpha_0247/'>a</a>|<a href='/digital-beehive/num4/num_1238/'>929
+  [Disorder]</a>"
 topic:
 first_letter: D
 page:
-add: "<a href='/digital-beehive/index2/index_1200/'>Eccles</a>|<a href='/digital-beehive/index3/index_2435/'>martial</a>"
+add:
 xref:
 see:
 index:
-item: "#item-b6407c228"
+item: "#item-8e9b95dcd"
 unparsed:
-line: 'Head: discipline|Entry: a|Add: Eccles|Add: martial|#item-b6407c228'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1783,3156,707,244/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174648413
-sort_value: '301633156'
+line: 'Head: disorder|Entry: a|Entry: 929 [Disorder]|#item-8e9b95dcd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/158,2071,535,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175628315
+sort_value: '301712071'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1783,3156,707,244/150,/0/default.jpg
-label: discipline
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: The meaning of "it. education" cannot be determined.
-insertion_xref:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/158,2071,535,113/150,/0/default.jpg
+label: disorder
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+issue:
 order: '1065'
 layout: index_item
 collection: index1

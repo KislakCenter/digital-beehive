@@ -2,28 +2,27 @@
 pid: index_0908
 volume: Volume 3
 image_number: '15'
-head: criminal
-entry:
+head: cup
+entry: 733 [PAGE_MISSING]
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0533/'>capital</a>"
+see:
 index:
-item: "#item-6cde0d081"
+item: "#item-265839893"
 unparsed:
-line: 'Head: criminal|See: capital|#item-6cde0d081'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/869,1511,685,128/full/0/default.jpg
+line: 'Head: cup|Page: p.38 [Image 1.98]|Entry: 733 [PAGE_MISSING]|#item-265839893'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/848,3409,463,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577472917
-sort_value: '301521511'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578062159
+sort_value: '301523409'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/869,1511,685,128/150,/0/default.jpg
-label: criminal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/848,3409,463,114/150,/0/default.jpg
+label: cup
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0907'
 layout: index_item
 collection: index1

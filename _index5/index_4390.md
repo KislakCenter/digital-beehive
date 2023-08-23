@@ -1,30 +1,29 @@
 ---
 pid: index_4390
 volume: Volume 3
-image_number: '50'
-head: universal Grace
-entry: "<a href='/digital-beehive/num1/num_0248/'>231 [Universal grace]</a>"
+image_number: '51'
+head: waggon
+entry: "<a href='/digital-beehive/num5/num_1584/'>1162 [Carriage]</a>"
 topic:
-first_letter: U/V
-page:
+first_letter: W
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-0215ff88b"
+item: "#item-a7464b884"
 unparsed:
-line: 'Head: universal Grace|Entry: 231 [Universal grace]|#item-0215ff88b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1127,1518,667,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560879570675
-sort_value: '305021518'
+line: 'Head: waggon|Page: p.38 [Image 1.98]|Entry: 1162 [Carriage]|#item-a7464b884'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1640,344,626,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647524296
+sort_value: '305130344'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1127,1518,667,134/150,/0/default.jpg
-label: universal Grace
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1640,344,626,116/150,/0/default.jpg
+label: waggon
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '352'
+order: '413'
 layout: index_item
 collection: index5
 ---

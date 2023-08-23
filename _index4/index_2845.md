@@ -2,29 +2,29 @@
 pid: index_2845
 volume: Volume 3
 image_number: '34'
-head: outside
-entry: "<a href='/digital-beehive/num2/num_0541/'>437 [External Appearance]</a>"
+head: parsimony
+entry: "<a href='/digital-beehive/alpha4/alpha_0686/'>a</a>|<a href='/digital-beehive/num5/num_1510/'>1115
+  [Frugality]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7339828b7"
+item: "#item-2aa38cbc5"
 unparsed:
-line: 'Head: outside|Entry: 437 [External Appearance]|#item-7339828b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/477,1509,452,144/full/0/default.jpg
+line: 'Head: parsimony|Entry: a|Entry: 1115 [Frugality]|#item-2aa38cbc5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,2536,709,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425448404
-sort_value: '303411509'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494502343
+sort_value: '303422536'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/477,1509,452,144/150,/0/default.jpg
-label: outside
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,2536,709,161/150,/0/default.jpg
+label: parsimony
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0093'
+order: '0137'
 layout: index_item
 collection: index4
 ---

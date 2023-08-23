@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0109/'>buffoonry</a>|<a href='/digital-beehive/num5/num_1514/'>1119
   [Jest]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1937/'>jesting</a>"
+index: "<a href='/digital-beehive/index3/index_1904/'>jesting</a>"
 item: "#item-8fd26eddf"
 unparsed:
 line: 'Entry: Jesting|Topic: Jesting|Xref: buffoonry|XRef: 1119 [Jest]|Index: jesting|#item-8fd26eddf'

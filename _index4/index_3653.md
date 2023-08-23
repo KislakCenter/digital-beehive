@@ -1,30 +1,29 @@
 ---
 pid: index_3653
 volume: Volume 3
-image_number: '42'
-head: sex
-entry: "<a href='/digital-beehive/num1/num_0175/'>167 [Sexes]</a>"
+image_number: '43'
+head: silkworm
+entry: "<a href='/digital-beehive/num7/num_2326/'>1558 [Silkworm]</a>"
 topic:
 first_letter: S
-page:
-add: "<a href='/digital-beehive/index1/index_0599/'>change</a>"
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+add:
 xref:
 see:
 index:
-item: "#item-e88be887b"
+item: "#item-0e104c57a"
 unparsed:
-line: 'Head: sex|Entry: 167 [Sexes]|Add: change|#item-e88be887b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1106,1855,384,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574459469
-sort_value: '304221855'
+line: 'Head: silkworm|Page: p.37 [Image 1.97]|Entry: 1558 [Silkworm]|#item-0e104c57a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/169,1700,639,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582212936
+sort_value: '304311700'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1106,1855,384,143/150,/0/default.jpg
-label: sex
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/169,1700,639,140/150,/0/default.jpg
+label: silkworm
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0901'
+order: '0945'
 layout: index_item
 collection: index4
 ---

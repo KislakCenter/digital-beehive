@@ -1,31 +1,29 @@
 ---
 pid: index_2603
 volume: Volume 3
-image_number: '31'
-head: mountain
-entry: "<a href='/digital-beehive/num1/num_0171/'>163 [Mountain]</a>|<a href='/digital-beehive/num9/num_3021/'>2084
-  [Mountain]</a>"
+image_number: '32'
+head: narrow
+entry: 827 [PAGE_MISSING]
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-88daf21af"
+item: "#item-715c6ff52"
 unparsed:
-line: 'Head: mountain|Entry: 163 [Mountain]|Entry: 2084 [Mountain]|#item-88daf21af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1576,446,656,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360452252
-sort_value: '303130446'
+line: 'Head: narrow|Entry: 827 [PAGE_MISSING]|#item-715c6ff52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1019,437,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437513790
+sort_value: '303211019'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1576,446,656,110/150,/0/default.jpg
-label: mountain
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1019,437,106/150,/0/default.jpg
+label: narrow
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '685'
+order: '718'
 layout: index_item
 collection: index3
 ---

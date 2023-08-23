@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0202/'>Cruelty</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3650/'>severity</a>"
+index: "<a href='/digital-beehive/index4/index_3594/'>severity</a>"
 item: "#item-248d6ff8e"
 unparsed:
 line: 'Entry: Severity|Topic: Severity|Xref: Cruelty|Index: severity|#item-248d6ff8e'

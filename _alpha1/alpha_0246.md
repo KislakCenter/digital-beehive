@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num8/num_2781/'>1898 [Disobedience]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1085/'>disobedience</a>"
+index: "<a href='/digital-beehive/index1/index_1065/'>disobedience</a>"
 item: "#item-ab66bd9fd"
 unparsed:
 line: 'Entry: Disobedience|Topic: Disobedience|Xref: 1898 [Disobedience]|Index: disobedience|#item-ab66bd9fd'

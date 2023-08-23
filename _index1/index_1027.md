@@ -2,8 +2,8 @@
 pid: index_1027
 volume: Volume 3
 image_number: '16'
-head: despight
-entry: "<a href='/digital-beehive/num3/num_0820/'>614 [In Spight]</a>"
+head: diet
+entry: "<a href='/digital-beehive/alpha1/alpha_0236/'>a</a>|4735 [PAGE_MISSING]"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-44e49460d"
+item: "#item-da528d330"
 unparsed:
-line: 'Head: despight|Entry: 614 [In Spight]|#item-44e49460d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1057,2855,531,153/full/0/default.jpg
+line: 'Head: diet|Entry: a|Entry: 4735 [PAGE_MISSING]|#item-da528d330'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1763,1227,513,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605181654
-sort_value: '301622855'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923553169
+sort_value: '301631227'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1057,2855,531,153/150,/0/default.jpg
-label: despight
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1763,1227,513,115/150,/0/default.jpg
+label: diet
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1026'
 layout: index_item
 collection: index1

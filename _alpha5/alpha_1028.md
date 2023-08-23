@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1428/'>1061 [Washing]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4484/'>washing of feet</a>"
+index: "<a href='/digital-beehive/index5/index_4415/'>washing of feet</a>"
 item: "#item-4acdc4419"
 unparsed:
 line: 'Entry: Washing of feet|Topic: Washing of feet|Xref: 1061 [Washing]|Index: washing

@@ -2,28 +2,28 @@
 pid: index_1025
 volume: Volume 3
 image_number: '16'
-head: desola[ti]on
-entry:
+head: to die
+entry: "<a href='/digital-beehive/num6/num_1745/'>1257 [To Die]</a>|<a href='/digital-beehive/num9/num_3120/'>2176
+  [To Die]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1029/'>destruction</a>"
+see:
 index:
-item: "#item-237faaac9"
+item: "#item-c60864bca"
 unparsed:
-line: 'Head: desola[ti]on|See: destruction|#item-237faaac9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1051,2692,774,114/full/0/default.jpg
+line: 'Head: to die|Entry: 1257 [To Die]|Entry: 2176 [To Die]|#item-c60864bca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1799,1092,589,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605109139
-sort_value: '301622692'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783591122
+sort_value: '301631092'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1051,2692,774,114/150,/0/default.jpg
-label: desola[ti]on
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1799,1092,589,110/150,/0/default.jpg
+label: to die
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1024'
 layout: index_item
 collection: index1

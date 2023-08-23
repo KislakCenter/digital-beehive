@@ -2,9 +2,8 @@
 pid: index_2698
 volume: Volume 3
 image_number: '32'
-head: new terms
-entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>|<a
-  href='/digital-beehive/num6/num_1938/'>1364 [Casuists]</a>"
+head: novice
+entry: 811 [PAGE_MISSING]
 topic:
 first_letter: N
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-42851bcde"
+item: "#item-7e6ba13b1"
 unparsed:
-line: 'Head: new terms|Entry: 537 [Terms in didascalia]|Entry: 1364 [Casuists]|#item-42851bcde'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1136,2111,634,80/full/0/default.jpg
+line: 'Head: novice|Entry: 811 [PAGE_MISSING]|#item-7e6ba13b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1808,3329,414,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442557379
-sort_value: '303222111'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449998965
+sort_value: '303233329'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1136,2111,634,80/150,/0/default.jpg
-label: new terms
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1808,3329,414,100/150,/0/default.jpg
+label: novice
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '780'
+order: '813'
 layout: index_item
 collection: index3
 ---

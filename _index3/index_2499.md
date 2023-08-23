@@ -1,10 +1,9 @@
 ---
 pid: index_2499
 volume: Volume 3
-image_number: '30'
-head: metamorphosing
-entry: "<a href='/digital-beehive/num3/num_0893/'>650 [Transformation]</a>|<a href='/digital-beehive/num7/num_2521/'>1650
-  [Transmutation]</a>"
+image_number: '31'
+head: misplaced love
+entry: "<a href='/digital-beehive/num10/num_3435/'>4454 [Disordinate Love]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5aef9463b"
+item: "#item-1b87d2d21"
 unparsed:
-line: 'Head: metamorphosing|Entry: 650 [Transformation]|Entry: 1650 [Transmutation]|#item-5aef9463b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1841,305,665,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273268104
-sort_value: '303030305'
+line: 'Head: misplaced love|Entry: 4454 [Disordinate Love]|#item-1b87d2d21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/192,921,640,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351196612
+sort_value: '303110921'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1841,305,665,150/150,/0/default.jpg
-label: metamorphosing
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/192,921,640,100/150,/0/default.jpg
+label: misplaced love
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '581'
+order: '614'
 layout: index_item
 collection: index3
 ---

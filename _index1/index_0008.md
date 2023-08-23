@@ -25,7 +25,6 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/178,696,
 label: ability
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0007'
 layout: index_item
 collection: index1

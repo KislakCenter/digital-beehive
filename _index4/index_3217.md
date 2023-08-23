@@ -1,30 +1,29 @@
 ---
 pid: index_3217
 volume: Volume 3
-image_number: '37'
-head: psalm
-entry: "<a href='/digital-beehive/alpha4/alpha_0761/'>a</a>|1867 [PAGE_MISSING]"
+image_number: '38'
+head: quill
+entry: "<a href='/digital-beehive/num2/num_0508/'>411 [Quill]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-682b05911"
+item: "#item-2e7c6277e"
 unparsed:
-line: 'Head: psalm|Entry: a|Entry: 1867 [PAGE_MISSING]|#item-682b05911'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1484,3159,471,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869792120
-sort_value: '303733159'
+line: 'Head: quill|Entry: 411 [Quill]|#item-2e7c6277e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1182,1605,432,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455302103
+sort_value: '303821605'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1484,3159,471,130/150,/0/default.jpg
-label: psalm
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1182,1605,432,108/150,/0/default.jpg
+label: quill
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0465'
+order: '0509'
 layout: index_item
 collection: index4
 ---

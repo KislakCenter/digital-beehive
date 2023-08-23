@@ -2,9 +2,8 @@
 pid: index_0620
 volume: Volume 3
 image_number: '12'
-head: cheese
-entry: "<a href='/digital-beehive/alpha1/alpha_0140/'>a</a>|<a href='/digital-beehive/num7/num_2520/'>1649
-  [Cheese]</a>"
+head: childhood
+entry: "<a href='/digital-beehive/alpha1/alpha_0143/'>a</a>|1865 [PAGE_MISSING]"
 topic:
 first_letter: C
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-50b64158a"
+item: "#item-3419f0784"
 unparsed:
-line: 'Head: cheese|Entry: a|Entry: 1649 [Cheese]|#item-50b64158a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1819,1173,507,133/full/0/default.jpg
+line: 'Head: childhood|Entry: a|Entry: 1865 [PAGE_MISSING]|#item-3419f0784'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1833,2321,560,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459471102
-sort_value: '301231173'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460951400
+sort_value: '301232321'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1819,1173,507,133/150,/0/default.jpg
-label: cheese
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1833,2321,560,111/150,/0/default.jpg
+label: childhood
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0619'
 layout: index_item
 collection: index1

@@ -1,9 +1,9 @@
 ---
 pid: index_1054
 volume: Volume 3
-image_number: '16'
-head: dimm sighted
-entry: "<a href='/digital-beehive/num9/num_3144/'>2200 [Blindness]</a>"
+image_number: '17'
+head: disentangle
+entry: "<a href='/digital-beehive/num6/num_1761/'>1269 [Entangle & disentangle]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-47e42fded"
+item: "#item-b82df68a7"
 unparsed:
-line: 'Head: dimm sighted|Entry: 2200 [Blindness]|#item-47e42fded'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1779,2098,619,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783915816
-sort_value: '301632098'
+line: 'Head: disentangle|Entry: 1269 [Entangle & disentangle]|#item-b82df68a7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/140,861,606,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803737752
+sort_value: '301710861'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1779,2098,619,102/150,/0/default.jpg
-label: dimm sighted
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/140,861,606,140/150,/0/default.jpg
+label: disentangle
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1053'
 layout: index_item
 collection: index1

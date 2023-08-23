@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0863/'>Servant</a>|<a href='/digital-beehive/num6/num_1855/'>1323
   [Master's]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2445/'>master</a>"
+index: "<a href='/digital-beehive/index3/index_2405/'>master</a>"
 item: "#item-25255fee1"
 unparsed:
 line: 'Entry: Master|Topic: Master|Xref: Servant|Xref: 1323 [Master''s]|Index: master|#item-25255fee1'

@@ -1,30 +1,29 @@
 ---
 pid: index_3214
 volume: Volume 3
-image_number: '37'
-head: provocation
-entry: "<a href='/digital-beehive/num1/num_0124/'>120 [Provoke]</a>"
+image_number: '38'
+head: to quiet
+entry: 1864 [PAGE_MISSING]
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f412b26fc"
+item: "#item-92f02a5e3"
 unparsed:
-line: 'Head: provocation|Entry: 120 [Provoke]|#item-f412b26fc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1476,2761,573,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869714183
-sort_value: '303732761'
+line: 'Head: to quiet|Entry: 1864 [PAGE_MISSING]|#item-92f02a5e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1170,1278,525,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455252630
+sort_value: '303821278'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1476,2761,573,125/150,/0/default.jpg
-label: provocation
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1170,1278,525,96/150,/0/default.jpg
+label: to quiet
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0462'
+order: '0506'
 layout: index_item
 collection: index4
 ---

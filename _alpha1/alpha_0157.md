@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0596/'>Miller</a>|<a href='/digital-beehive/num7/num_2603/'>1690
   [Comet]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0731/'>comet</a>"
+index: "<a href='/digital-beehive/index1/index_0717/'>comet</a>"
 item: "#item-dbe0e399d"
 unparsed:
 line: 'Entry: Comet|Topic: Comet|Xref: Miller|Xref: 1690 [Comet]|Index: comet|#item-dbe0e399d'

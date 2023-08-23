@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0120/'>Capital offence</a>|<a href='/digital-beehive/alpha4/alpha_0883/'>Sin</a>|<a
   href='/digital-beehive/alpha5/alpha_1037/'>Wickedness</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0907/'>crime</a>"
+index: "<a href='/digital-beehive/index1/index_0890/'>crime</a>"
 item: "#item-3c2215f76"
 unparsed:
 line: 'Entry: Crime|Topic: Crime|Xref: Capital offence|Xref: Sin|Xref: Wickedness|Index:

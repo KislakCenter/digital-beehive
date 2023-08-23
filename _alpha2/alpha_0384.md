@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0735/'>Pride</a>|<a href='/digital
   href='/digital-beehive/alpha3/alpha_0568/'>magnanimity</a>|<a href='/digital-beehive/num4/num_1132/'>883
   [highness]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1690/'>grandeur</a>"
+index: "<a href='/digital-beehive/index2/index_1659/'>grandeur</a>"
 item: "#item-d2c4ae635"
 unparsed:
 line: 'Entry: Grandeur|Topic: Grandeur|Xref: Pride|Xref: highness|Xref: magnanimity|Xref:

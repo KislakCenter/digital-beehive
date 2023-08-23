@@ -1,9 +1,9 @@
 ---
 pid: index_4114
 volume: Volume 3
-image_number: '47'
-head: the sd.
-entry: "<a href='/digital-beehive/num2/num_0294/'>263 [the said]</a>"
+image_number: '48'
+head: too high
+entry: 1869 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-32baed87b"
+item: "#item-2aeec3bab"
 unparsed:
-line: 'Head: the sd.|Entry: 263 [the said]|#item-32baed87b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/911,1376,399,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532720777891
-sort_value: '304721376'
+line: 'Head: too high|Entry: 1869 [PAGE_MISSING]|#item-2aeec3bab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/498,1214,460,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273702036
+sort_value: '304811214'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/911,1376,399,123/150,/0/default.jpg
-label: the sd.
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/498,1214,460,131/150,/0/default.jpg
+label: too high
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '076'
+order: '137'
 layout: index_item
 collection: index5
 ---

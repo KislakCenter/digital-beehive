@@ -1,30 +1,29 @@
 ---
 pid: index_2415
 volume: Volume 3
-image_number: '29'
-head: manner
-entry:
+image_number: '30'
+head: meal
+entry: 797 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1512/'>form</a>|<a href='/digital-beehive/index1/index_0932/'>custom</a>"
+see:
 index:
-item: "#item-31de29b16"
+item: "#item-ceb916181"
 unparsed:
-line: 'Head: manner|See: form|See: custom|#item-31de29b16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2600,696,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196222265
-sort_value: '302932600'
+line: 'Head: meal|Entry: 797 [PAGE_MISSING]|#item-ceb916181'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,2736,330,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265638017
+sort_value: '303012736'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1543,2600,696,125/150,/0/default.jpg
-label: manner
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/415,2736,330,144/150,/0/default.jpg
+label: meal
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '497'
+order: '530'
 layout: index_item
 collection: index3
 ---

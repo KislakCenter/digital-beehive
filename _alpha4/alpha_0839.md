@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0259/'>doctrine</a>|<a href='/digital-beehive/alpha3/alpha_0530/'>Learning</a>|<a
   href='/digital-beehive/alpha5/alpha_1009/'>University</a>|839 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3547/'>schole</a>"
+index: "<a href='/digital-beehive/index4/index_3491/'>schole</a>"
 item: "#item-238832d52"
 unparsed:
 line: 'Entry: Schoole|Topic: Schoole|Xref: doctrine|Xref: Learning|Xref: University|Xref:

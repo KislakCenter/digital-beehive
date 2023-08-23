@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0582/'>mediator</a>|<a href='/digital-beehive/num4/num_1144/'>888
   [Peace-making]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2931/'>peacemaker</a>"
+index: "<a href='/digital-beehive/index4/index_2884/'>peacemaker</a>"
 item: "#item-fb8af06a3"
 unparsed:
 line: 'Entry: Peacemaker|Topic: Peacemaker|Xref: mediator|Xref: 888 [Peace-making]|Index:

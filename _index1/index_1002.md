@@ -2,28 +2,27 @@
 pid: index_1002
 volume: Volume 3
 image_number: '16'
-head: deliverance
-entry: "<a href='/digital-beehive/num4/num_1219/'>920 [Delivering]</a>"
+head: desertion
+entry: "<a href='/digital-beehive/alpha1/alpha_0231/'>a</a>"
 topic:
 first_letter: D
 page:
-add:
+add: "<a href='/digital-beehive/index4/index_3418/'>run[n] away</a>"
 xref:
 see:
 index:
-item: "#item-c5f4e7e5d"
+item: "#item-fb2a1c9f4"
 unparsed:
-line: 'Head: deliverance|Entry: 920 [Delivering]|#item-c5f4e7e5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/369,3418,563,127/full/0/default.jpg
+line: 'Head: desertion|Entry: a|Add: run[n] away|#item-fb2a1c9f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1103,2210,538,201/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572828145
-sort_value: '301613418'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923086013
+sort_value: '301622210'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/369,3418,563,127/150,/0/default.jpg
-label: deliverance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1103,2210,538,201/150,/0/default.jpg
+label: desertion
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1001'
 layout: index_item
 collection: index1

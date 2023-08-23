@@ -2,8 +2,8 @@
 pid: index_2558
 volume: Volume 3
 image_number: '31'
-head: mole n[ae]vus
-entry: "<a href='/digital-beehive/num6/num_2158/'>1468 [Mole : Müttermal]</a>"
+head: motions involuntary
+entry: "<a href='/digital-beehive/num5/num_1519/'>1122 [Involuntary Motions]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e642f9b3b"
+item: "#item-3891b7f23"
 unparsed:
-line: 'Head: mole n[ae]vus|Entry: 1468 [Mole : Müttermal]|#item-e642f9b3b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/184,2960,480,94/full/0/default.jpg
+line: 'Head: motions involuntary|Entry: 1122 [Involuntary Motions]|#item-3891b7f23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/803,3386,546,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352917898
-sort_value: '303112960'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560357021869
+sort_value: '303123386'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/184,2960,480,94/150,/0/default.jpg
-label: mole n[ae]vus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/803,3386,546,139/150,/0/default.jpg
+label: motions involuntary
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '640'
+order: '673'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,8 @@
 pid: index_2656
 volume: Volume 3
 image_number: '32'
-head: natural defect
-entry: "<a href='/digital-beehive/num7/num_2487/'>1635 [Natural Defect]</a>"
+head: new york
+entry: "<a href='/digital-beehive/num7/num_2259/'>1523 [New York]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bec38205b"
+item: "#item-480f892c5"
 unparsed:
-line: 'Head: natural defect|Entry: 1635 [Natural Defect]|#item-bec38205b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/380,1794,499,95/full/0/default.jpg
+line: 'Head: new york|Entry: 1523 [New York]|#item-480f892c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1122,2225,460,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438133315
-sort_value: '303211794'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442568651
+sort_value: '303222225'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/380,1794,499,95/150,/0/default.jpg
-label: natural defect
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1122,2225,460,145/150,/0/default.jpg
+label: new york
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '738'
+order: '771'
 layout: index_item
 collection: index3
 ---

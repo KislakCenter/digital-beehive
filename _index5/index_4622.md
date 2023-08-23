@@ -1,31 +1,30 @@
 ---
 pid: index_4622
 volume: Volume 3
-image_number: '53'
-head: worse & worst
-entry: "<a href='/digital-beehive/num3/num_0731/'>573 [Worse]</a>|<a href='/digital-beehive/num7/num_2478/'>1632
-  [Worse]</a>"
+image_number: '54'
+head: gnashing of t.
+entry: "<a href='/digital-beehive/num9/num_3155/'>2211 [Gnashing the teeth]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f4af7e24f"
+item: "#item-d4776ffd9"
 unparsed:
-line: 'Head: worse & worst|Entry: 573 [Worse]|Entry: 1632 [Worse]|#item-f4af7e24f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3346,692,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797627649
-sort_value: '305323346'
+line: 'Type: Index|Insertion: [:29.]|Head: gnashing of t.|Entry: 2211 [Gnashing the
+  teeth]|#item-d4776ffd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1033,896,764,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954065882
+sort_value: '305420896'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3346,692,129/150,/0/default.jpg
-label: worse & worst
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1033,896,764,155/150,/0/default.jpg
+label: gnashing of t.
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '584'
+order: '645'
 layout: index_item
 collection: index5
 ---

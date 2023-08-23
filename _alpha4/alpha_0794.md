@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0365/'>glory</a>|<a href='/digital-beehive/alpha4/alpha_0799/'>Reputation</a>|<a
   href='/digital-beehive/alpha2/alpha_0431/'>honour</a>|4541 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3365/'>renown</a>"
+index: "<a href='/digital-beehive/index4/index_3313/'>renown</a>"
 item: "#item-162f83da9"
 unparsed:
 line: 'Entry: Renown|Topic: Renown|Xref: glory|Xref: Reputation|Xref: honour|Xref:

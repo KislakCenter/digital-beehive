@@ -2,8 +2,8 @@
 pid: index_0592
 volume: Volume 3
 image_number: '12'
-head: chamber
-entry: "<a href='/digital-beehive/num4/num_1107/'>873 [Chamber]</a>"
+head: characters magical
+entry: "<a href='/digital-beehive/num7/num_2295/'>1542 [homerical Medicines]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-49447c7ca"
+item: "#item-5988f6a01"
 unparsed:
-line: 'Head: chamber|Entry: 873 [Chamber]|#item-49447c7ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1130,2450,459,114/full/0/default.jpg
+line: 'Head: characters magical|Entry: 1542 [homerical Medicines]|#item-5988f6a01'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1127,3376,585,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532100787131
-sort_value: '301222450'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443247318
+sort_value: '301223376'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1130,2450,459,114/150,/0/default.jpg
-label: chamber
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1127,3376,585,116/150,/0/default.jpg
+label: characters magical
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0591'
 layout: index_item
 collection: index1

@@ -1,9 +1,9 @@
 ---
 pid: index_1697
 volume: Volume 3
-image_number: '22'
-head: gratis
-entry: 737 [PAGE_MISSING]
+image_number: '23'
+head: good Guile
+entry: "<a href='/digital-beehive/num6/num_2126/'>1452 [good Guile]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-77e7c5d31"
+item: "#item-51ef4d07d"
 unparsed:
-line: 'Head: gratis|Entry: 737 [PAGE_MISSING]|#item-77e7c5d31'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,3226,415,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053651990
-sort_value: '302233226'
+line: 'Head: good Guile|Entry: 1452 [good Guile]|#item-51ef4d07d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,2619,539,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233240605
+sort_value: '302312619'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1839,3226,415,144/150,/0/default.jpg
-label: gratis
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,2619,539,155/150,/0/default.jpg
+label: good Guile
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '516'
+order: '538'
 layout: index_item
 collection: index2
 ---

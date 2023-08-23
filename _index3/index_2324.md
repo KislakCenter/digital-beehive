@@ -2,8 +2,9 @@
 pid: index_2324
 volume: Volume 3
 image_number: '29'
-head: long sufferance
-entry: "<a href='/digital-beehive/alpha3/alpha_0550/'>a</a>"
+head: lukewarm
+entry: "<a href='/digital-beehive/num1/num_0027/'>27 [Lukewarmness]</a>|<a href='/digital-beehive/num8/num_2868/'>1943
+  [Lukewarmness]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7cc86e7d9"
+item: "#item-a0c08400e"
 unparsed:
-line: 'Head: long sufferance|Entry: a|#item-7cc86e7d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,412,488,148/full/0/default.jpg
+line: 'Head: lukewarm|Entry: 27 [Lukewarmness]|Entry: 1943 [Lukewarmness]|#item-a0c08400e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,470,580,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560177109619
-sort_value: '302910412'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560184996286
+sort_value: '302920470'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,412,488,148/150,/0/default.jpg
-label: long sufferance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,470,580,133/150,/0/default.jpg
+label: lukewarm
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '406'
+order: '439'
 layout: index_item
 collection: index3
 ---

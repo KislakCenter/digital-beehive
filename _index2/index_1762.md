@@ -2,29 +2,29 @@
 pid: index_1762
 volume: Volume 3
 image_number: '23'
-head: hart
-entry:
+head: hell
+entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>|<a href='/digital-beehive/num5/num_1451/'>1076
+  [Hell]</a>|<a href='/digital-beehive/num8/num_2886/'>1961 [Hell]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0985/'>deer</a>"
+see:
 index:
-item: "#item-194a3123e"
+item: "#item-5d2375bab"
 unparsed:
-line: 'Head: hart|Page: p.34 [Image 1.94]|See: deer|#item-194a3123e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/836,2197,549,133/full/0/default.jpg
+line: 'Head: hell|Entry: a|Entry: 1076 [Hell]|Entry: 1961 [Hell]|#item-5d2375bab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1536,2142,513,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240544532
-sort_value: '302322197'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559570824168
+sort_value: '302332142'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/836,2197,549,133/150,/0/default.jpg
-label: hart
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1536,2142,513,133/150,/0/default.jpg
+label: hell
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '581'
+order: '603'
 layout: index_item
 collection: index2
 ---

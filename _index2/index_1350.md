@@ -1,30 +1,30 @@
 ---
 pid: index_1350
 volume: Volume 3
-image_number: '19'
-head: expectation
-entry: "<a href='/digital-beehive/num2/num_0612/'>489 [Expectation]</a>"
+image_number: '20'
+head: Fables
+entry: "<a href='/digital-beehive/alpha2/alpha_0309/'>a</a>|<a href='/digital-beehive/num6/num_2023/'>1405
+  [Fable]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-90cc89cc1"
+item: "#item-691c5d7fd"
 unparsed:
-line: 'Head: expectation|Entry: 489 [Expectation]|#item-90cc89cc1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1541,1245,599,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044099469
-sort_value: '301931245'
+line: 'Head: Fables|Entry: a|Entry: 1405 [Fable]|#item-691c5d7fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/355,290,516,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561398784733
+sort_value: '302010290'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1541,1245,599,122/150,/0/default.jpg
-label: expectation
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/355,290,516,141/150,/0/default.jpg
+label: Fables
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '169'
+order: '191'
 layout: index_item
 collection: index2
 ---

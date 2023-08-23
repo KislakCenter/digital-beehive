@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1405/'>1049 [Compulsion (in Matters of Religion]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1501/'>force</a>"
+index: "<a href='/digital-beehive/index2/index_1476/'>force</a>"
 item: "#item-05b93e1d2"
 unparsed:
 line: 'Entry: Force|Topic: Force|Xref: 1049 [Compulsion (in Matters of Religion]|Index:

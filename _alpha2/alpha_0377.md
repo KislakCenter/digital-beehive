@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0952/'>New Testament</a>|<a href='/digital-beehive/num4/num_1289/'>967
   [Gospel]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1671/'>gospel</a>"
+index: "<a href='/digital-beehive/index2/index_1640/'>gospel</a>"
 item: "#item-5cd91f76f"
 unparsed:
 line: 'Entry: Gospel|Topic: Gospel|Xref: New Testament|Xref: 967 [Gospel]|Index: gospel|#item-5cd91f76f'

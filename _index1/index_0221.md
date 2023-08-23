@@ -2,8 +2,9 @@
 pid: index_0221
 volume: Volume 3
 image_number: '8'
-head: Asaph
-entry: "<a href='/digital-beehive/num7/num_2374/'>1582 [Asaph]</a>"
+head: assurance
+entry: "<a href='/digital-beehive/num4/num_1205/'>914 [Security, he that promises
+  for another]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-11ffa249b"
+item: "#item-aba74d57d"
 unparsed:
-line: 'Head: Asaph|Entry: 1582 [Asaph]|#item-11ffa249b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,2072,467,138/full/0/default.jpg
+line: 'Head: assurance|Entry: 914 [Security, he that promises for another]|#item-aba74d57d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1779,2857,520,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631667139
-sort_value: '300832072'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631940908
+sort_value: '300832857'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,2072,467,138/150,/0/default.jpg
-label: Asaph
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1779,2857,520,145/150,/0/default.jpg
+label: assurance
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0220'
 layout: index_item
 collection: index1

@@ -2,29 +2,28 @@
 pid: index_2171
 volume: Volume 3
 image_number: '27'
-head: knife
-entry: 758 [PAGE_MISSING]
+head: last unction
+entry: "<a href='/digital-beehive/alpha3/alpha_0517/'>a</a>"
 topic:
-first_letter: K
-page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
+first_letter: L
+page:
 add:
 xref:
 see:
 index:
-item: "#item-29bb76f2b"
+item: "#item-51e0fafcf"
 unparsed:
-line: 'Head: knife|Page: p.10 [Image 1.70]|Entry: 758 [PAGE_MISSING]|#item-29bb76f2b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/839,2040,472,157/full/0/default.jpg
+line: 'Head: last unction|Entry: a|#item-51e0fafcf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1533,1912,495,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762430953
-sort_value: '302722040'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835976203
+sort_value: '302731912'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/839,2040,472,157/150,/0/default.jpg
-label: knife
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1533,1912,495,111/150,/0/default.jpg
+label: last unction
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '253'
+order: '286'
 layout: index_item
 collection: index3
 ---

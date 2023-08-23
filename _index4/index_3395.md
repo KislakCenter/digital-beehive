@@ -1,9 +1,9 @@
 ---
 pid: index_3395
 volume: Volume 3
-image_number: '39'
-head: to restrain
-entry: "<a href='/digital-beehive/num5/num_1418/'>1055 [To Restrain]</a>"
+image_number: '40'
+head: root
+entry: "<a href='/digital-beehive/num2/num_0440/'>368 [Root]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4655efa18"
+item: "#item-84afff1f8"
 unparsed:
-line: 'Head: to restrain|Entry: 1055 [To Restrain]|#item-4655efa18'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1486,2020,624,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229977216
-sort_value: '303932020'
+line: 'Head: root|Entry: 368 [Root]|#item-84afff1f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1170,1350,326,98/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233466297
+sort_value: '304021350'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1486,2020,624,156/150,/0/default.jpg
-label: to restrain
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1170,1350,326,98/150,/0/default.jpg
+label: root
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0643'
+order: '0687'
 layout: index_item
 collection: index4
 ---

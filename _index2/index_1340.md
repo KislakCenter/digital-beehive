@@ -2,8 +2,8 @@
 pid: index_1340
 volume: Volume 3
 image_number: '19'
-head: execrable
-entry: "<a href='/digital-beehive/num6/num_1850/'>1320 [Unacceptable]</a>"
+head: to extirpate
+entry: 777 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-dcd91300c"
+item: "#item-79ec0df3d"
 unparsed:
-line: 'Head: execrable|Entry: 1320 [Unacceptable]|#item-dcd91300c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1551,272,548,122/full/0/default.jpg
+line: 'Head: to extirpate|Entry: 777 [PAGE_MISSING]|#item-79ec0df3d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1506,2739,584,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561041751656
-sort_value: '301930272'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561396926897
+sort_value: '301932739'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1551,272,548,122/150,/0/default.jpg
-label: execrable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1506,2739,584,137/150,/0/default.jpg
+label: to extirpate
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '159'
+order: '181'
 layout: index_item
 collection: index2
 ---

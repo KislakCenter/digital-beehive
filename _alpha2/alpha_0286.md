@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1904/'>1347 [England]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1253/'>England</a>"
+index: "<a href='/digital-beehive/index2/index_1230/'>England</a>"
 item: "#item-04417cb2f"
 unparsed:
 line: 'Entry: England|Topic: England|Xref: 1347 [England]|Index: England|#item-04417cb2f'

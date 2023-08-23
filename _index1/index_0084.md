@@ -2,8 +2,8 @@
 pid: index_0084
 volume: Volume 3
 image_number: '7'
-head: alacrity
-entry: "<a href='/digital-beehive/num6/num_1839/'>1316 [Alacrity]</a>"
+head: alarum
+entry: 856 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-85f6d865b"
+item: "#item-fed1c7f7a"
 unparsed:
-line: 'Head: alacrity|Entry: 1316 [Alacrity]|#item-85f6d865b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1613,441,446,141/full/0/default.jpg
+line: 'Head: alarum|Entry: 856 [PAGE_MISSING]|#item-fed1c7f7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1612,617,416,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767900037
-sort_value: '300730441'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768004851
+sort_value: '300730617'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1613,441,446,141/150,/0/default.jpg
-label: alacrity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1612,617,416,116/150,/0/default.jpg
+label: alarum
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0083'
 layout: index_item
 collection: index1

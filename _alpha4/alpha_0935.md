@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0309/'>274 [Lords Supper]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3991/'>Lord's Supper</a>"
+index: "<a href='/digital-beehive/index4/index_3932/'>Lord's Supper</a>"
 item: "#item-7c8fc1861"
 unparsed:
 line: 'Entry: the Lords Supper|Topic: the Lords Supper|Xref: 274 [Lords Supper]|Index:

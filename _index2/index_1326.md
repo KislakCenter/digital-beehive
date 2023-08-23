@@ -2,8 +2,8 @@
 pid: index_1326
 volume: Volume 3
 image_number: '19'
-head: exalting
-entry: "<a href='/digital-beehive/num1/num_0069/'>68 [Exaltation]</a>"
+head: expectation
+entry: "<a href='/digital-beehive/num2/num_0612/'>489 [Expectation]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0fb90c56c"
+item: "#item-90cc89cc1"
 unparsed:
-line: 'Head: exalting|Entry: 68 [Exaltation]|#item-0fb90c56c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/834,2209,474,159/full/0/default.jpg
+line: 'Head: expectation|Entry: 489 [Expectation]|#item-90cc89cc1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1541,1245,599,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352869220
-sort_value: '301922209'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044099469
+sort_value: '301931245'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/834,2209,474,159/150,/0/default.jpg
-label: exalting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1541,1245,599,122/150,/0/default.jpg
+label: expectation
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '145'
+order: '167'
 layout: index_item
 collection: index2
 ---

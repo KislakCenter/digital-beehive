@@ -2,28 +2,27 @@
 pid: index_0412
 volume: Volume 3
 image_number: '10'
-head: books for the fire
-entry: "<a href='/digital-beehive/num11/num_3540/'>4844 [Vain Books]</a>"
+head: bothways
+entry: "<a href='/digital-beehive/alpha1/alpha_0096/'>a</a>"
 topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-3418a1272"
+item: "#item-78b9ecccc"
 unparsed:
-line: 'Head: books for the fire|Page: p.62 [Image 1.129]|Entry: 4844 [Vain Books]|#item-3418a1272'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1797,1625,691,135/full/0/default.jpg
+line: 'Head: bothways|Entry: a|#item-78b9ecccc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1776,2563,407,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531154558434
-sort_value: '301031625'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531416711278
+sort_value: '301032563'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1797,1625,691,135/150,/0/default.jpg
-label: books for the fire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1776,2563,407,136/150,/0/default.jpg
+label: bothways
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0411'
 layout: index_item
 collection: index1

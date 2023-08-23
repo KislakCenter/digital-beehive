@@ -1,9 +1,9 @@
 ---
 pid: index_2015
 volume: Volume 3
-image_number: '25'
-head: independency
-entry: "<a href='/digital-beehive/num5/num_1694/'>1231 [Independent : Soveraign]</a>"
+image_number: '26'
+head: Inkhorn
+entry: "<a href='/digital-beehive/num2/num_0507/'>410 [Ink-horn]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e706cfe7a"
+item: "#item-0892f5c85"
 unparsed:
-line: 'Head: independency|Entry: 1231 [Independent : Soveraign]|#item-e706cfe7a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1517,2920,602,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672756235
-sort_value: '302532920'
+line: 'Head: Inkhorn|Entry: 410 [Ink-horn]|#item-0892f5c85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/714,3281,433,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745580815
+sort_value: '302613281'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1517,2920,602,169/150,/0/default.jpg
-label: independency
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/714,3281,433,119/150,/0/default.jpg
+label: Inkhorn
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '097'
+order: '130'
 layout: index_item
 collection: index3
 ---

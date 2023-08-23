@@ -2,9 +2,8 @@
 pid: index_0099
 volume: Volume 3
 image_number: '7'
-head: alliance
-entry: "<a href='/digital-beehive/alpha1/alpha_0020/'>a</a>|<a href='/digital-beehive/num6/num_1978/'>1384
-  [Alliance]</a>|4503 [PAGE_MISSING]"
+head: allum
+entry: "<a href='/digital-beehive/num9/num_3088/'>2146 [Allum]</a>"
 topic:
 first_letter: A
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-f541d0d4f"
+item: "#item-457d83e19"
 unparsed:
-line: 'Head: alliance|Entry: a|Entry: 1384 [Alliance]|Entry: 4503 [PAGE_MISSING]|#item-f541d0d4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1595,1606,688,116/full/0/default.jpg
+line: 'Head: allum|Entry: 2146 [Allum]|#item-457d83e19'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1607,1780,387,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769779596
-sort_value: '300731606'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769902911
+sort_value: '300731780'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1595,1606,688,116/150,/0/default.jpg
-label: alliance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1607,1780,387,91/150,/0/default.jpg
+label: allum
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0098'
 layout: index_item
 collection: index1

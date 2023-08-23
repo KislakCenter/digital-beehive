@@ -1,31 +1,29 @@
 ---
 pid: index_3585
 volume: Volume 3
-image_number: '41'
-head: secret writing or num.
-entry: "<a href='/digital-beehive/num6/num_2185/'>1481 [Secret Writing]</a>"
+image_number: '42'
+head: serjeant
+entry: "<a href='/digital-beehive/alpha4/alpha_0862/'>a</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.300]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-19d9ec7e9"
+item: "#item-bf0abffbb"
 unparsed:
-line: 'Head: secret writing or num.|Page: p.380 [Image 2.300]|Entry: 1481 [Secret
-  Writing]|#item-19d9ec7e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1576,1845,641,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242663038
-sort_value: '304131845'
+line: 'Head: serjeant|Entry: a|#item-bf0abffbb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1086,578,530,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573602403
+sort_value: '304220578'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1576,1845,641,127/150,/0/default.jpg
-label: secret writing or num.
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1086,578,530,144/150,/0/default.jpg
+label: serjeant
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0833'
+order: '0877'
 layout: index_item
 collection: index4
 ---

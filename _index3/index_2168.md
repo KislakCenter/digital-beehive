@@ -2,29 +2,29 @@
 pid: index_2168
 volume: Volume 3
 image_number: '27'
-head: kite
-entry: "<a href='/digital-beehive/num6/num_1912/'>1351 [a Kite : a Hawk]</a>"
+head: last day
+entry: "<a href='/digital-beehive/alpha3/alpha_0514/'>a</a>|<a href='/digital-beehive/num4/num_1318/'>988
+  [Last day of Judgmt]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-844baa882"
+item: "#item-2301461de"
 unparsed:
-line: 'Head: kite|Entry: 1351 [a Kite : a Hawk]|#item-844baa882'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/847,1748,342,131/full/0/default.jpg
+line: 'Head: last day|Entry: a|Entry: 988 [Last day of Judgmt]|#item-2301461de'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1543,1632,491,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762275399
-sort_value: '302721748'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835914458
+sort_value: '302731632'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/847,1748,342,131/150,/0/default.jpg
-label: kite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1543,1632,491,128/150,/0/default.jpg
+label: last day
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '250'
+order: '283'
 layout: index_item
 collection: index3
 ---

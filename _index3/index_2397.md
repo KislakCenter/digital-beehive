@@ -1,30 +1,29 @@
 ---
 pid: index_2397
 volume: Volume 3
-image_number: '29'
-head: malefactor
+image_number: '30'
+head: martyrologies
 entry:
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-ab8964f08"
+item: "#item-a9963fa83"
 unparsed:
-line: 'Head: malefactor|Page: p.42 [Image 1.102]|#item-ab8964f08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,890,510,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194113695
-sort_value: '302930890'
+line: 'Head: martyrologies|Page: p.379 [Image 2.201]|#item-a9963fa83'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/400,1088,648,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263521929
+sort_value: '303011088'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,890,510,142/150,/0/default.jpg
-label: malefactor
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/400,1088,648,140/150,/0/default.jpg
+label: martyrologies
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '479'
+order: '512'
 layout: index_item
 collection: index3
 ---

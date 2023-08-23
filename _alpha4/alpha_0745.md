@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0859/'>Self profit</a>|<a href='/d
   href='/digital-beehive/alpha5/alpha_1012/'>Unprofitable</a>|<a href='/digital-beehive/alpha5/alpha_1020/'>Utility</a>|<a
   href='/digital-beehive/num7/num_2608/'>1692 [Gain]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3180/'>profit</a>"
+index: "<a href='/digital-beehive/index4/index_3130/'>profit</a>"
 item: "#item-c82c2327d"
 unparsed:
 line: 'Entry: Profit|Topic: Profit|Xref: Self profit|Xref: Lucre|Xref: Unprofitable|Xref:

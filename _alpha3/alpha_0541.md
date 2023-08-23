@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0070/'>69 [Life]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2283/'>life</a>"
+index: "<a href='/digital-beehive/index3/index_2246/'>life</a>"
 item: "#item-96006f264"
 unparsed:
 line: 'Entry: Life|Topic: Life|Xref: 69 [Life]|Index: life|#item-96006f264'

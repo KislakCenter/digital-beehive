@@ -2,9 +2,9 @@
 pid: index_3148
 volume: Volume 3
 image_number: '37'
-head: prevention
-entry: "<a href='/digital-beehive/alpha4/alpha_0734/'>a</a>|<a href='/digital-beehive/num5/num_1518/'>1122
-  [Preventing]</a>"
+head: prophets
+entry: "<a href='/digital-beehive/alpha4/alpha_0755/'>a</a>|<a href='/digital-beehive/num4/num_1333/'>1000
+  [Prophets]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-430f88fb1"
+item: "#item-18936ccab"
 unparsed:
-line: 'Head: prevention|Entry: a|Entry: 1122 [Preventing]|#item-430f88fb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/79,1930,680,149/full/0/default.jpg
+line: 'Head: prophets|Entry: a|Entry: 1000 [Prophets]|#item-18936ccab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1498,903,580,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866639049
-sort_value: '303711930'
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869156410
+sort_value: '303730903'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/79,1930,680,149/150,/0/default.jpg
-label: prevention
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1498,903,580,175/150,/0/default.jpg
+label: prophets
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0396'
+order: '0440'
 layout: index_item
 collection: index4
 ---

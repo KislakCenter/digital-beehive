@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0586/'>melancholy</a>|<a href='/digital-beehive/alpha3/alpha_0617/'>mourning</a>|<a
   href='/digital-beehive/num5/num_1610/'>1181 [Mourning]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3486/'>sadness</a>"
+index: "<a href='/digital-beehive/index4/index_3433/'>sadness</a>"
 item: "#item-fcbec4f94"
 unparsed:
 line: 'Entry: Sadness|Topic: Sadness|Xref: melancholy|Xref: mourning|Xref: 1181 [Mourning]|Index:

@@ -2,8 +2,9 @@
 pid: index_1072
 volume: Volume 3
 image_number: '17'
-head: discretion
-entry: "<a href='/digital-beehive/alpha1/alpha_0245/'>a</a>"
+head: displeasure
+entry: "<a href='/digital-beehive/num3/num_0823/'>615 [Displeasure]</a>|<a href='/digital-beehive/num6/num_2187/'>1482
+  [Displeasure]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-54b89fbe3"
+item: "#item-43f22c6f4"
 unparsed:
-line: 'Head: discretion|Entry: a|#item-54b89fbe3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,633,477,101/full/0/default.jpg
+line: 'Head: displeasure|Entry: 615 [Displeasure]|Entry: 1482 [Displeasure]|#item-43f22c6f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/118,2740,696,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175346858
-sort_value: '301710633'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804477583
+sort_value: '301712740'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,633,477,101/150,/0/default.jpg
-label: discretion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/118,2740,696,132/150,/0/default.jpg
+label: displeasure
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1071'
 layout: index_item
 collection: index1

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0144/'>139 [Reprobates]</a>|<a href='/digital-beehive/alpha2/alpha_0319/'>Fate</a>|<a
   href='/digital-beehive/num1/num_0243/'>228 [Predestination]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3120/'>predestination</a>"
+index: "<a href='/digital-beehive/index4/index_3070/'>predestination</a>"
 item: "#item-d6466de3e"
 unparsed:
 line: 'Entry: Predestination|Topic: Predestination|Xref: 139 [Reprobates]|Xref: Fate|Xref:
@@ -24,9 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/804,1754,600,180/250,/0/default.jpg
 label: Predestination
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
-issue: The point of reference for "Reprobates" is not entirely clear. We linked to
-  139 [Reprobates], which is the first relevant entry in the numerical section of
-  the Alvearium.
+issue: The point of reference for "Reprobates" is not entirely clear, as there is
+  no alphabetical entry for this term. The Octavo Index indicates that 139 [Reprobates]
+  may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
 also_in_entry:
 order: '080'
 layout: alpha_item

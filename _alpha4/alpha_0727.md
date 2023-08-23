@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0431/'>Honour</a>|<a href='/digital-beehive/alpha2/alpha_0332/'>Flatterers</a>|<a
   href='/digital-beehive/num5/num_1506/'>1112 [Praise of God or Men]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3105/'>praise of God</a>|<a href='/digital-beehive/index4/index_3106/'>praise
+index: "<a href='/digital-beehive/index4/index_3055/'>praise of God</a>|<a href='/digital-beehive/index4/index_3056/'>praise
   of men</a>"
 item: "#item-36f07197e"
 unparsed:

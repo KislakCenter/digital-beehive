@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0298/'>Example</a>|[WORD_ILLEGIBLE]"
 see:
-index: "<a href='/digital-beehive/index3/index_1959/'>imitation</a>"
+index: "<a href='/digital-beehive/index3/index_1925/'>imitation</a>"
 item: "#item-4bce0df37"
 unparsed:
 line: 'Entry: Imitation|Topic: Imitation|Xref: Example|Xref: [WORD_ILLEGIBLE]|Index:

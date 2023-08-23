@@ -2,8 +2,8 @@
 pid: index_1630
 volume: Volume 3
 image_number: '22'
-head: glyster
-entry: "<a href='/digital-beehive/num9/num_3086/'>2145 [Glyster]</a>"
+head: Gods
+entry: "<a href='/digital-beehive/num2/num_0354/'>310 [Gods]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-72659344c"
+item: "#item-2900e7bb9"
 unparsed:
-line: 'Head: glyster|Entry: 2145 [Glyster]|#item-72659344c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1116,720,480,133/full/0/default.jpg
+line: 'Head: Gods|Entry: 310 [Gods]|#item-2900e7bb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1161,2922,314,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561045758638
-sort_value: '302220720'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561050680210
+sort_value: '302222922'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1116,720,480,133/150,/0/default.jpg
-label: glyster
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1161,2922,314,161/150,/0/default.jpg
+label: Gods
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '449'
+order: '471'
 layout: index_item
 collection: index2
 ---

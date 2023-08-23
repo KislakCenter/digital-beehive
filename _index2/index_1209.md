@@ -2,8 +2,8 @@
 pid: index_1209
 volume: Volume 3
 image_number: '18'
-head: Edward VI
-entry: 1838 [PAGE_MISSING]
+head: embalm
+entry: "<a href='/digital-beehive/num7/num_2472/'>1629 [Mummy]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0ab65ee8a"
+item: "#item-ccffa8da0"
 unparsed:
-line: 'Head: Edward VI|Entry: 1838 [PAGE_MISSING]|#item-0ab65ee8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1173,1001,509,81/full/0/default.jpg
+line: 'Head: embalm|Entry: 1629 [Mummy]|#item-ccffa8da0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1159,3028,468,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672943422
-sort_value: '301821001'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559680475790
+sort_value: '301823028'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1173,1001,509,81/150,/0/default.jpg
-label: Edward VI
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1159,3028,468,113/150,/0/default.jpg
+label: embalm
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '028'
+order: '050'
 layout: index_item
 collection: index2
 ---

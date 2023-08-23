@@ -2,28 +2,28 @@
 pid: index_0547
 volume: Volume 3
 image_number: '12'
-head: carpenters rule
-entry:
+head: cat
+entry: "<a href='/digital-beehive/alpha1/alpha_0127/'>a</a>|<a href='/digital-beehive/num8/num_2693/'>1761
+  [Cat]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-89a667290"
+item: "#item-ee77e9e0a"
 unparsed:
-line: 'Head: carpenters rule|Page: p.39 [Image 1.99]|#item-89a667290'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/422,786,596,117/full/0/default.jpg
+line: 'Head: cat|Page: p.34 [Image 1.94]|Entry: a|Entry: 1761 [Cat]|#item-ee77e9e0a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,2113,599,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531496908282
-sort_value: '301210786'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098164302
+sort_value: '301212113'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/422,786,596,117/150,/0/default.jpg
-label: carpenters rule
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,2113,599,131/150,/0/default.jpg
+label: cat
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0546'
 layout: index_item
 collection: index1

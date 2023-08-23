@@ -2,28 +2,27 @@
 pid: index_1078
 volume: Volume 3
 image_number: '17'
-head: dish
-entry: 4652 [PAGE_MISSING]
+head: dissolute
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3408/'>rude</a>"
 index:
-item: "#item-00698c434"
+item: "#item-490d1c483"
 unparsed:
-line: 'Head: dish|Entry: 4652 [PAGE_MISSING]|#item-00698c434'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/147,1288,427,89/full/0/default.jpg
+line: 'Head: dissolute|See: rude|#item-490d1c483'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/139,3284,539,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541803892479
-sort_value: '301711288'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804737211
+sort_value: '301713284'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/147,1288,427,89/150,/0/default.jpg
-label: dish
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/139,3284,539,128/150,/0/default.jpg
+label: dissolute
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1077'
 layout: index_item
 collection: index1

@@ -2,8 +2,8 @@
 pid: index_1031
 volume: Volume 3
 image_number: '16'
-head: detriment
-entry: "<a href='/digital-beehive/num3/num_0760/'>587 [Decrement]</a>"
+head: digression
+entry: "<a href='/digital-beehive/num2/num_0403/'>347 [Digression]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-07d74aeb1"
+item: "#item-28cffae74"
 unparsed:
-line: 'Head: detriment|Entry: 587 [Decrement]|#item-07d74aeb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1063,3444,575,79/full/0/default.jpg
+line: 'Head: digression|Entry: 347 [Digression]|#item-28cffae74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1780,1663,526,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605296868
-sort_value: '301623444'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783796508
+sort_value: '301631663'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1063,3444,575,79/150,/0/default.jpg
-label: detriment
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1780,1663,526,130/150,/0/default.jpg
+label: digression
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1030'
 layout: index_item
 collection: index1

@@ -1,31 +1,29 @@
 ---
 pid: index_4378
 volume: Volume 3
-image_number: '50'
-head: unfit
-entry: "<a href='/digital-beehive/num3/num_0996/'>694 [Fitness]</a>|<a href='/digital-beehive/num3/num_0997/'>694
-  [Unfitness]</a>|<a href='/digital-beehive/num10/num_3199/'>2251 [Unfit]</a>"
+image_number: '51'
+head: utensils
+entry:
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2035/'>instrumts</a>"
 index:
-item: "#item-95d933fbf"
+item: "#item-58983f705"
 unparsed:
-line: 'Head: unfit|Entry: 694 [Fitness]|Entry: 694 [Unfitness]|Entry: 2251 [Unfit]|#item-95d933fbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/420,3526,570,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560874053257
-sort_value: '305013526'
+line: 'Head: utensils|See: instrumts|#item-58983f705'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/959,1868,679,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646898817
+sort_value: '305121868'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/420,3526,570,143/150,/0/default.jpg
-label: unfit
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/959,1868,679,121/150,/0/default.jpg
+label: utensils
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '340'
+order: '401'
 layout: index_item
 collection: index5
 ---

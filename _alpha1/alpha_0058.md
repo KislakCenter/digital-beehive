@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0077/'>76 [Dainty meats]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0287/'>banquetting stuff</a>"
+index: "<a href='/digital-beehive/index1/index_0280/'>banquetting stuff</a>"
 item: "#item-680b110e2"
 unparsed:
 line: 'Entry: Banquetting Stuff|Topic: Banquetting Stuff|Xref: 76 [Dainty meats]|Index:

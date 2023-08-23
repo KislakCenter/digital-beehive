@@ -1,31 +1,29 @@
 ---
 pid: index_4453
 volume: Volume 3
-image_number: '51'
-head: the vulgar
-entry: "<a href='/digital-beehive/alpha5/alpha_1021/'>a</a>|<a href='/digital-beehive/num5/num_1544/'>1136
-  [Vulgar]</a>"
+image_number: '52'
+head: West Indies
+entry: "<a href='/digital-beehive/num5/num_1520/'>1122 [West Indies]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-dbbfd747f"
+item: "#item-1b38e5fa0"
 unparsed:
-line: 'Head: the vulgar|Entry: a|Entry: 1136 [Vulgar]|#item-dbbfd747f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/934,2554,671,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647103464
-sort_value: '305122554'
+line: 'Head: West Indies|Entry: 1122 [West Indies]|#item-1b38e5fa0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1076,2003,483,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969155104
+sort_value: '305222003'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/934,2554,671,148/150,/0/default.jpg
-label: the vulgar
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1076,2003,483,150/150,/0/default.jpg
+label: West Indies
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '415'
+order: '476'
 layout: index_item
 collection: index5
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_3963
 volume: Volume 3
-image_number: '45'
-head: subtile
-entry: 732 [PAGE_MISSING]
+image_number: '46'
+head: swelling
+entry: "<a href='/digital-beehive/num4/num_1212/'>916 [Swelling]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2b3b059ef"
+item: "#item-9de1cd143"
 unparsed:
-line: 'Head: subtile|Entry: 732 [PAGE_MISSING]|#item-2b3b059ef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1613,2059,413,111/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530468953471
-sort_value: '304532059'
+line: 'Head: swelling|Entry: 916 [Swelling]|#item-9de1cd143'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1097,2108,424,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531691996476
+sort_value: '304622108'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1613,2059,413,111/150,/0/default.jpg
-label: subtile
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1097,2108,424,136/150,/0/default.jpg
+label: swelling
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1211'
+order: '1255'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0745/'>Profit</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4408/'>unprofitable</a>"
+index: "<a href='/digital-beehive/index5/index_4339/'>unprofitable</a>"
 item: "#item-b19ce7f25"
 unparsed:
 line: 'Entry: Unprofitable|Topic: Unprofitable|Xref: Profit|Index: unprofitable|#item-b19ce7f25'

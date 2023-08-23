@@ -1,9 +1,9 @@
 ---
 pid: index_4063
 volume: Volume 3
-image_number: '46'
-head: tartar
-entry: "<a href='/digital-beehive/num9/num_3073/'>2133 [Tartar]</a>"
+image_number: '47'
+head: though
+entry: "<a href='/digital-beehive/num2/num_0304/'>270 [Although]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-cb10b761c"
+item: "#item-c1ea790a2"
 unparsed:
-line: 'Head: tartar|Entry: 2133 [Tartar]|#item-cb10b761c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1828,2927,401,73/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743566077
-sort_value: '304632927'
+line: 'Head: though|Entry: 270 [Although]|#item-c1ea790a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,2524,354,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532722980499
+sort_value: '304722524'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1828,2927,401,73/150,/0/default.jpg
-label: tartar
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,2524,354,137/150,/0/default.jpg
+label: though
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '025'
+order: '086'
 layout: index_item
 collection: index5
 ---

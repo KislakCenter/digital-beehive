@@ -1,10 +1,9 @@
 ---
 pid: index_3553
 volume: Volume 3
-image_number: '41'
-head: scolding words
-entry: "<a href='/digital-beehive/num3/num_0955/'>680 [to Chide]</a>|<a href='/digital-beehive/num7/num_2676/'>1747
-  [Scurrilous Epithetes, Scheltwort]</a>"
+image_number: '42'
+head: Self confident
+entry: "<a href='/digital-beehive/num1/num_0133/'>128 [Self-confident]</a>"
 topic:
 first_letter: S
 page:
@@ -12,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-58874eac1"
+item: "#item-9ed3d76d0"
 unparsed:
-line: 'Head: scolding words|Entry: 680 [to Chide]|Entry: 1747 [Scurrilous Epithetes,
-  Scheltwort]|#item-58874eac1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/829,1787,791,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240970465
-sort_value: '304121787'
+line: 'Head: Self confident|Entry: 128 [Self-confident]|#item-9ed3d76d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/445,801,697,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244110197
+sort_value: '304210801'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/829,1787,791,140/150,/0/default.jpg
-label: scolding words
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/445,801,697,100/150,/0/default.jpg
+label: Self confident
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0801'
+order: '0845'
 layout: index_item
 collection: index4
 ---

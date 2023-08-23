@@ -2,29 +2,28 @@
 pid: index_4278
 volume: Volume 3
 image_number: '49'
-head: two headed
-entry: "<a href='/digital-beehive/num7/num_2435/'>1612 [Double-headed]</a>"
+head: vitriol
+entry: "<a href='/digital-beehive/num9/num_3071/'>2131 [Vitriolum]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-aaec67f99"
+item: "#item-732c0febb"
 unparsed:
-line: 'Head: two headed|Entry: 1612 [Double-headed]|#item-aaec67f99'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2782,460,110/full/0/default.jpg
+line: 'Head: vitriol|Entry: 2131 [Vitriolum]|#item-732c0febb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1647,3273,419,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657157179
-sort_value: '304912782'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661601988
+sort_value: '304933273'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2782,460,110/150,/0/default.jpg
-label: two headed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1647,3273,419,109/150,/0/default.jpg
+label: vitriol
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '240'
+order: '301'
 layout: index_item
 collection: index5
 ---

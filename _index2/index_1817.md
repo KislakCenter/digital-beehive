@@ -2,8 +2,8 @@
 pid: index_1817
 volume: Volume 3
 image_number: '24'
-head: "[:58.]"
-entry:
+head: hither
+entry: "<a href='/digital-beehive/num2/num_0524/'>422 [Hither]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b3038d87e"
-unparsed: 'Type: Index|Insertion Xref: [:58.]|#item-b3038d87e'
-line: 'Type: Index|Insertion Xref: [:58.]|#item-b3038d87e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1018,784,167,90/full/0/default.jpg
+item: "#item-fc67ca024"
+unparsed:
+line: 'Head: hither|Entry: 422 [Hither]|#item-fc67ca024'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,573,391,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198284792
-sort_value: '302410784'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581342386
+sort_value: '302420573'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1018,784,167,90/150,/0/default.jpg
-label: "[:58.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,573,391,114/150,/0/default.jpg
+label: hither
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4727/'>heros</a>"
-order: '636'
+order: '658'
 layout: index_item
 collection: index2
 ---

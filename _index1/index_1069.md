@@ -2,8 +2,8 @@
 pid: index_1069
 volume: Volume 3
 image_number: '17'
-head: discovery
-entry: 734 [PAGE_MISSING]
+head: dispatch
+entry: "<a href='/digital-beehive/num1/num_0183/'>175 [Dispatch]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-04cbb309b"
+item: "#item-8082059de"
 unparsed:
-line: 'Head: discovery|Entry: 734 [PAGE_MISSING]|#item-04cbb309b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/156,278,523,172/full/0/default.jpg
+line: 'Head: dispatch|Entry: 175 [Dispatch]|#item-8082059de'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/147,2324,475,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541803589963
-sort_value: '301710278'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804372967
+sort_value: '301712324'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/156,278,523,172/150,/0/default.jpg
-label: discovery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/147,2324,475,156/150,/0/default.jpg
+label: dispatch
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1068'
 layout: index_item
 collection: index1

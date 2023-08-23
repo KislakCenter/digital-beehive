@@ -1,10 +1,9 @@
 ---
 pid: index_3397
 volume: Volume 3
-image_number: '39'
-head: resurrection
-entry: "<a href='/digital-beehive/alpha4/alpha_0803/'>a</a>|<a href='/digital-beehive/num6/num_1773/'>1277
-  [Resurrection]</a>|<a href='/digital-beehive/num9/num_3182/'>2236 [Resurrection]</a>"
+image_number: '40'
+head: rope dancers
+entry: "<a href='/digital-beehive/num7/num_2398/'>1595 [Rope-Dancers]</a>"
 topic:
 first_letter: R
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c15953b51"
+item: "#item-f4e5479c4"
 unparsed:
-line: 'Head: resurrection|Entry: a|Entry: 1277 [Resurrection]|Entry: 2236 [Resurrection]|#item-c15953b51'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1483,2247,738,190/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230077799
-sort_value: '303932247'
+line: 'Head: rope dancers|Entry: 1595 [Rope-Dancers]|#item-f4e5479c4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1147,1545,448,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233519538
+sort_value: '304021545'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1483,2247,738,190/150,/0/default.jpg
-label: resurrection
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1147,1545,448,162/150,/0/default.jpg
+label: rope dancers
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0645'
+order: '0689'
 layout: index_item
 collection: index4
 ---

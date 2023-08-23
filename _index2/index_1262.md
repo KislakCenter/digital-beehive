@@ -1,9 +1,10 @@
 ---
 pid: index_1262
 volume: Volume 3
-image_number: '18'
-head: engraving
-entry: 4524 [PAGE_MISSING]
+image_number: '19'
+head: equality
+entry: "<a href='/digital-beehive/alpha2/alpha_0291/'>a</a>|<a href='/digital-beehive/num5/num_1533/'>1129
+  [Equality]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2f3e30a08"
+item: "#item-cacfe1453"
 unparsed:
-line: 'Head: engraving|Entry: 4524 [PAGE_MISSING]|#item-2f3e30a08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1842,2193,548,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559834999332
-sort_value: '301832193'
+line: 'Head: equality|Entry: a|Entry: 1129 [Equality]|#item-cacfe1453'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/135,1141,577,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844147532
+sort_value: '301911141'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1842,2193,548,169/150,/0/default.jpg
-label: engraving
-location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/135,1141,577,162/150,/0/default.jpg
+label: equality
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '081'
+order: '103'
 layout: index_item
 collection: index2
 ---

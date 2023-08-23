@@ -2,28 +2,27 @@
 pid: index_0834
 volume: Volume 3
 image_number: '14'
-head: convenient
-entry: 828 [PAGE_MISSING]
+head: corn
+entry: "<a href='/digital-beehive/num3/num_0921/'>664 [Corn]</a>"
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-062f5206f"
+item: "#item-1233ea878"
 unparsed:
-line: 'Head: convenient|Entry: 828 [PAGE_MISSING]|#item-062f5206f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1836,1476,622,101/full/0/default.jpg
+line: 'Head: corn|Page: p.33 [Image 1.93]|Entry: 664 [Corn]|#item-1233ea878'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1825,2870,505,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559491959
-sort_value: '301431476'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537560111403
+sort_value: '301432870'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1836,1476,622,101/150,/0/default.jpg
-label: convenient
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1825,2870,505,131/150,/0/default.jpg
+label: corn
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0833'
 layout: index_item
 collection: index1

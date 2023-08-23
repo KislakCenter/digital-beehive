@@ -2,29 +2,28 @@
 pid: index_2352
 volume: Volume 3
 image_number: '29'
-head: lovers leap
-entry: 4714 [PAGE_MISSING]
+head: to maintain
+entry: "<a href='/digital-beehive/num6/num_1887/'>1339 [To maintain]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d870ef2e6"
+item: "#item-f4ff0226f"
 unparsed:
-line: 'Head: lovers leap|Entry: 4714 [PAGE_MISSING]|#item-d870ef2e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,2848,569,122/full/0/default.jpg
+line: 'Head: to maintain|Entry: 1339 [To maintain]|#item-f4ff0226f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1556,294,532,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180162139
-sort_value: '302912848'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560193820118
+sort_value: '302930294'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,2848,569,122/150,/0/default.jpg
-label: lovers leap
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1556,294,532,131/150,/0/default.jpg
+label: to maintain
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '434'
+order: '467'
 layout: index_item
 collection: index3
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_4112
 volume: Volume 3
-image_number: '47'
-head: there
-entry: "<a href='/digital-beehive/num4/num_1242/'>931 [There]</a>"
+image_number: '48'
+head: too consciec.
+entry: "<a href='/digital-beehive/num7/num_2404/'>1598 [Too Good]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0f141e64d"
+item: "#item-88bbb28b0"
 unparsed:
-line: 'Head: there|Entry: 931 [There]|#item-0f141e64d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/912,1183,327,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532720673743
-sort_value: '304721183'
+line: 'Head: too consciec.|Entry: 1598 [Too Good]|#item-88bbb28b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/472,1108,593,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559853530631
+sort_value: '304811108'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/912,1183,327,106/150,/0/default.jpg
-label: there
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/472,1108,593,137/150,/0/default.jpg
+label: too consciec.
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '074'
+order: '135'
 layout: index_item
 collection: index5
 ---

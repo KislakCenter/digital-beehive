@@ -2,31 +2,31 @@
 pid: index_2564
 volume: Volume 3
 image_number: '31'
-head: money
-entry: "<a href='/digital-beehive/alpha3/alpha_0605/'>a</a>|<a href='/digital-beehive/num5/num_1729/'>1249
-  [Money]</a>|<a href='/digital-beehive/num8/num_2933/'>1999 [Money]</a>"
+head: mourning
+entry: "<a href='/digital-beehive/alpha3/alpha_0617/'>a</a>|<a href='/digital-beehive/num5/num_1610/'>1181
+  [Mourning]</a>|<a href='/digital-beehive/num7/num_2638/'>1713 [Mourning]</a>|4731
+  [PAGE_MISSING]"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_081/'>p.31 [Image 1.91]</a>"
-add: "<a href='/digital-beehive/index1/index_0873/'>Counterfeit</a>"
+page:
+add:
 xref:
 see:
 index:
-item: "#item-141d3b962"
+item: "#item-47a551c0c"
 unparsed:
-line: 'Head: money|Page: p.31 [Image 1.91]|Entry: a|Entry: 1249 [Money]|Entry: 1999
-  [Money]|Add: Counterfeit|#item-141d3b962'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/851,362,818,190/full/0/default.jpg
+line: 'Head: mourning|Entry: a|Entry: 1181 [Mourning]|Entry: 1713 [Mourning]|Entry:
+  4731 [PAGE_MISSING]|#item-47a551c0c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1575,647,690,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560354627201
-sort_value: '303120362'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360678139
+sort_value: '303130647'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/851,362,818,190/150,/0/default.jpg
-label: money
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1575,647,690,140/150,/0/default.jpg
+label: mourning
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '646'
+order: '679'
 layout: index_item
 collection: index3
 ---

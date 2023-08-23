@@ -2,29 +2,28 @@
 pid: index_1743
 volume: Volume 3
 image_number: '23'
-head: hand
-entry: "<a href='/digital-beehive/alpha2/alpha_0395/'>a</a>"
+head: head
+entry: "<a href='/digital-beehive/alpha2/alpha_0405/'>a</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-2231a5bf1"
+item: "#item-9a4acde0b"
 unparsed:
-line: 'Head: hand|Page: p.43 [Image 1.103]|Entry: a|#item-2231a5bf1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/834,572,418,115/full/0/default.jpg
+line: 'Head: head|Entry: a|#item-9a4acde0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1587,247,266,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238290120
-sort_value: '302320572'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242079553
+sort_value: '302330247'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/834,572,418,115/150,/0/default.jpg
-label: hand
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1587,247,266,124/150,/0/default.jpg
+label: head
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '562'
+order: '584'
 layout: index_item
 collection: index2
 ---

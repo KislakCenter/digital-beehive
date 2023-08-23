@@ -2,30 +2,29 @@
 pid: index_4265
 volume: Volume 3
 image_number: '49'
-head: turk
-entry: "<a href='/digital-beehive/alpha5/alpha_0988/'>a</a>|<a href='/digital-beehive/num9/num_2988/'>2053
-  [Turk]</a>"
+head: vinegar
+entry: "<a href='/digital-beehive/alpha5/alpha_0997/'>a</a>|<a href='/digital-beehive/num7/num_2519/'>1649
+  [Vinegar]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-25ecdec36"
+item: "#item-77f784a30"
 unparsed:
-line: 'Head: turk|Entry: a|Entry: 2053 [Turk]|#item-25ecdec36'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/222,1406,485,116/full/0/default.jpg
+line: 'Head: vinegar|Entry: a|Entry: 1649 [Vinegar]|#item-77f784a30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1648,1692,479,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656531069
-sort_value: '304911406'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660761853
+sort_value: '304931692'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/222,1406,485,116/150,/0/default.jpg
-label: turk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1648,1692,479,125/150,/0/default.jpg
+label: vinegar
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '227'
+order: '288'
 layout: index_item
 collection: index5
 ---

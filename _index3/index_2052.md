@@ -2,9 +2,8 @@
 pid: index_2052
 volume: Volume 3
 image_number: '26'
-head: innocence
-entry: "<a href='/digital-beehive/alpha3/alpha_0481/'>a</a>|761 [PAGE_MISSING]|<a
-  href='/digital-beehive/num9/num_3163/'>2219 [Innocence]</a>"
+head: to intrude
+entry: 858 [PAGE_MISSING]
 topic:
 first_letter: I/J
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b856d6281"
+item: "#item-f9ec91c2a"
 unparsed:
-line: 'Head: innocence|Entry: a|Entry: 761 [PAGE_MISSING]|Entry: 2219 [Innocence]|#item-b856d6281'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/423,3525,715,162/full/0/default.jpg
+line: 'Head: to intrude|Entry: 858 [PAGE_MISSING]|#item-f9ec91c2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1823,692,539,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745921988
-sort_value: '302613525'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750904011
+sort_value: '302630692'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/423,3525,715,162/150,/0/default.jpg
-label: innocence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1823,692,539,84/150,/0/default.jpg
+label: to intrude
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '134'
+order: '167'
 layout: index_item
 collection: index3
 ---

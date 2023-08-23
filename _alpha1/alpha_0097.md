@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0375/'>goodness</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0424/'>bounty</a>"
+index: "<a href='/digital-beehive/index1/index_0415/'>bounty</a>"
 item: "#item-ea495da66"
 unparsed:
 line: 'Entry: [WORD_MISSING]|Topic: Bounty|Xref: goodness|Index: bounty|#item-ea495da66'

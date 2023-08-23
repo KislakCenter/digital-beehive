@@ -2,8 +2,8 @@
 pid: index_1220
 volume: Volume 3
 image_number: '18'
-head: election
-entry: "<a href='/digital-beehive/num2/num_0335/'>296 [Election]</a>"
+head: enamel
+entry: 4540 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-03abd63b4"
+item: "#item-90e599d8e"
 unparsed:
-line: 'Head: election|Entry: 296 [Election]|#item-03abd63b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1147,2147,436,145/full/0/default.jpg
+line: 'Head: enamel|Entry: 4540 [PAGE_MISSING]|#item-90e599d8e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1879,579,476,81/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674528113
-sort_value: '301822147'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745365209
+sort_value: '301830579'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1147,2147,436,145/150,/0/default.jpg
-label: election
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1879,579,476,81/150,/0/default.jpg
+label: enamel
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '039'
+order: '061'
 layout: index_item
 collection: index2
 ---

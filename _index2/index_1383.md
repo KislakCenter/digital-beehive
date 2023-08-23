@@ -2,8 +2,9 @@
 pid: index_1383
 volume: Volume 3
 image_number: '20'
-head: Faith & Patience
-entry: "<a href='/digital-beehive/num1/num_0137/'>132 [Faith & Patience]</a>"
+head: fashion of the Country
+entry: "<a href='/digital-beehive/alpha2/alpha_0317/'>a</a>|<a href='/digital-beehive/num6/num_1984/'>1386
+  [Fashion of the Countrey]</a>|1872 [PAGE_MISSING]"
 topic:
 first_letter: F
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-eaf07262a"
+item: "#item-739548319"
 unparsed:
-line: 'Head: Faith & Patience|Entry: 132 [Faith & Patience]|#item-eaf07262a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/356,1231,642,168/full/0/default.jpg
+line: 'Head: fashion of the Country|Entry: a|Entry: 1386 [Fashion of the Countrey]|Entry:
+  1872 [PAGE_MISSING]|#item-739548319'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/367,3159,753,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561401283900
-sort_value: '302011231'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660040452
+sort_value: '302013159'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/356,1231,642,168/150,/0/default.jpg
-label: Faith & Patience
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/367,3159,753,164/150,/0/default.jpg
+label: fashion of the Country
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '202'
+order: '224'
 layout: index_item
 collection: index2
 ---

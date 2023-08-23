@@ -2,32 +2,28 @@
 pid: index_3805
 volume: Volume 3
 image_number: '44'
-head: sorrow
-entry: "<a href='/digital-beehive/num3/num_0906/'>658 [Grief]</a>|<a href='/digital-beehive/num5/num_1610/'>1181
-  [Mourning]</a>|<a href='/digital-beehive/num5/num_1611/'>1181 [Sadness]</a>|<a href='/digital-beehive/num9/num_3108/'>2165
-  [Sorrow]</a>"
+head: spring. brun[n]
+entry: "<a href='/digital-beehive/alpha4/alpha_0909/'>a</a>"
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-bca3b259b"
+item: "#item-279998f53"
 unparsed:
-line: 'Head: sorrow|Entry: 658 [Grief]|Entry: 1181 [Mourning]|Entry: 1181 [Sadness]|Entry:
-  2165 [Sorrow]|#item-bca3b259b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/578,1911,500,128/full/0/default.jpg
+line: 'Head: spring. brun[n]|Page: p.30 [Image 1.90]|Entry: a|#item-279998f53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1808,1705,694,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529704419201
-sort_value: '304411911'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530105322859
+sort_value: '304431705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/578,1911,500,128/150,/0/default.jpg
-label: sorrow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1808,1705,694,117/150,/0/default.jpg
+label: spring. brun[n]
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1053'
+order: '1097'
 layout: index_item
 collection: index4
 ---

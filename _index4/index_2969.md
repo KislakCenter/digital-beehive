@@ -2,8 +2,8 @@
 pid: index_2969
 volume: Volume 3
 image_number: '35'
-head: person
-entry: "<a href='/digital-beehive/alpha4/alpha_0705/'>a</a>"
+head: pipe
+entry: 768 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1a3d585fd"
+item: "#item-25a2b555a"
 unparsed:
-line: 'Head: person|Entry: a|#item-1a3d585fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/819,653,393,119/full/0/default.jpg
+line: 'Head: pipe|Entry: 768 [PAGE_MISSING]|#item-25a2b555a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1527,1920,432,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974096793
-sort_value: '303520653'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976729314
+sort_value: '303531920'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/819,653,393,119/150,/0/default.jpg
-label: person
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1527,1920,432,116/150,/0/default.jpg
+label: pipe
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0217'
+order: '0261'
 layout: index_item
 collection: index4
 ---

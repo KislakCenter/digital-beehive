@@ -2,29 +2,28 @@
 pid: index_1715
 volume: Volume 3
 image_number: '23'
-head: grinding
-entry: "<a href='/digital-beehive/num5/num_1591/'>1167 [To whet]</a>"
+head: handsomness
+entry: "<a href='/digital-beehive/num3/num_0844/'>624 [Handsomlyness]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-04918d7db"
+item: "#item-c0180b28a"
 unparsed:
-line: 'Head: grinding|Entry: 1167 [To whet]|#item-04918d7db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/141,1491,446,156/full/0/default.jpg
+line: 'Head: handsomness|Entry: 624 [Handsomlyness]|#item-c0180b28a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/851,780,535,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231397598
-sort_value: '302311491'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238717500
+sort_value: '302320780'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/141,1491,446,156/150,/0/default.jpg
-label: grinding
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/851,780,535,116/150,/0/default.jpg
+label: handsomness
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '534'
+order: '556'
 layout: index_item
 collection: index2
 ---

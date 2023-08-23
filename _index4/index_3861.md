@@ -1,9 +1,9 @@
 ---
 pid: index_3861
 volume: Volume 3
-image_number: '44'
-head: "[:9.]"
-entry:
+image_number: '45'
+head: stove
+entry: 789 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c1cd4649a"
-unparsed: 'Type: Index|Insertion Xref: [:9.]|#item-c1cd4649a'
-line: 'Type: Index|Insertion Xref: [:9.]|#item-c1cd4649a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/2323,1585,203,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278186358
-sort_value: '304431585'
+item: "#item-bb97d403c"
+unparsed:
+line: 'Head: stove|Entry: 789 [PAGE_MISSING]|#item-bb97d403c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/897,763,371,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530449537055
+sort_value: '304520763'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/2323,1585,203,162/150,/0/default.jpg
-label: "[:9.]"
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/897,763,371,105/150,/0/default.jpg
+label: stove
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4672/'>Spouse, espousing</a>"
-order: '1109'
+order: '1153'
 layout: index_item
 collection: index4
 ---

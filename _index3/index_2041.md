@@ -2,29 +2,28 @@
 pid: index_2041
 volume: Volume 3
 image_number: '26'
-head: ingenuous
-entry:
+head: interjections
+entry: "<a href='/digital-beehive/num2/num_0385/'>333 [Exclam[m]ations or Interjections]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3724/'>sincerity</a>"
+see:
 index:
-item: "#item-8eada7410"
+item: "#item-b3ffe88a4"
 unparsed:
-line: 'Head: ingenuous|See: sincerity|#item-8eada7410'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,2502,657,157/full/0/default.jpg
+line: 'Head: interjections|Entry: 333 [Exclam[m]ations or Interjections]|#item-b3ffe88a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1150,2983,551,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745027802
-sort_value: '302612502'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749084434
+sort_value: '302622983'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,2502,657,157/150,/0/default.jpg
-label: ingenuous
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1150,2983,551,113/150,/0/default.jpg
+label: interjections
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '123'
+order: '156'
 layout: index_item
 collection: index3
 ---

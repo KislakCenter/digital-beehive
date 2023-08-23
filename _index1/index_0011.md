@@ -9,7 +9,7 @@ first_letter: A
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4423/'>untimely</a>"
+see: "<a href='/digital-beehive/index5/index_4354/'>untimely</a>"
 index:
 item: "#item-59e871534"
 unparsed:
@@ -23,7 +23,6 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/180,964,
 label: aborsmt
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0010'
 layout: index_item
 collection: index1

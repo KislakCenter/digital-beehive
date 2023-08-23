@@ -1,9 +1,11 @@
 ---
 pid: index_3285
 volume: Volume 3
-image_number: '38'
-head: to raise
-entry: 751 [PAGE_MISSING]
+image_number: '39'
+head: refutation
+entry: "<a href='/digital-beehive/num1/num_0260/'>242 [Refutation]</a>|<a href='/digital-beehive/num6/num_1789/'>1285
+  [Refutation]</a>|<a href='/digital-beehive/num8/num_2740/'>1806 [Refutation]</a>|4780
+  [[PAGE_MISSING]]"
 topic:
 first_letter: R
 page:
@@ -11,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-85dbbc53b"
+item: "#item-e5da4624d"
 unparsed:
-line: 'Head: to raise|Entry: 751 [PAGE_MISSING]|#item-85dbbc53b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1852,213,415,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459893867
-sort_value: '303830213'
+line: 'Head: refutation|Entry: 242 [Refutation]|Entry: 1285 [Refutation]|Entry: 1806
+  [Refutation]|Entry: 4780 [[PAGE_MISSING]]|#item-e5da4624d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/150,1821,675,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464713239
+sort_value: '303911821'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1852,213,415,160/150,/0/default.jpg
-label: to raise
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/150,1821,675,150/150,/0/default.jpg
+label: refutation
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0533'
+order: '0577'
 layout: index_item
 collection: index4
 ---

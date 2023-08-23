@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2148/'>1462 [Beard]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0318/'>beard</a>"
+index: "<a href='/digital-beehive/index1/index_0310/'>beard</a>"
 item: "#item-f6031a9ca"
 unparsed:
 line: 'Entry: Beard|Topic: Beard|Xref: 1462 [Beard]|Index: beard|#item-f6031a9ca'

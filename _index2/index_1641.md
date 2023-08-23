@@ -2,32 +2,28 @@
 pid: index_1641
 volume: Volume 3
 image_number: '22'
-head: God within
-entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with - & in men]</a>|<a
-  href='/digital-beehive/num2/num_0299/'>267 [God is in us]</a>|<a href='/digital-beehive/num4/num_1254/'>937
-  [Union with God]</a>"
+head: gospel of nicodemus
+entry:
 topic:
 first_letter: G
-page:
+page: "<a href='/digital-beehive/toc/toc1_074/'>p.24 [Image 1.84]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-afc78be45"
+item: "#item-8493a48f7"
 unparsed:
-line: 'Head: God within|Entry: 36 [God with - & in men]|Entry: 267 [God is in us]|Entry:
-  937 [Union with God]|#item-afc78be45'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1154,1650,642,131/full/0/default.jpg
+line: 'Head: gospel of nicodemus|Page: p.24 [Image 1.84]|#item-8493a48f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1855,794,669,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047205277
-sort_value: '302221650'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052046914
+sort_value: '302230794'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1154,1650,642,131/150,/0/default.jpg
-label: God within
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1855,794,669,94/150,/0/default.jpg
+label: gospel of nicodemus
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '460'
+order: '482'
 layout: index_item
 collection: index2
 ---

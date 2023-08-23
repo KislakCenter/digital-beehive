@@ -1,9 +1,9 @@
 ---
 pid: index_3774
 volume: Volume 3
-image_number: '43'
-head: sobriety
-entry: "<a href='/digital-beehive/num2/num_0344/'>303 [Sobriety or Soberness]</a>"
+image_number: '44'
+head: speechless
+entry: "<a href='/digital-beehive/num3/num_0698/'>551 [[WORD_ILLEGIBLE]]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-52ef1b7e6"
+item: "#item-27e743202"
 unparsed:
-line: 'Head: sobriety|Entry: 303 [Sobriety or Soberness]|#item-52ef1b7e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1593,1676,499,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586048696
-sort_value: '304331676'
+line: 'Head: speechless|Entry: 551 [[WORD_ILLEGIBLE]]|#item-27e743202'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1100,1402,364,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529789648319
+sort_value: '304421402'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1593,1676,499,147/150,/0/default.jpg
-label: sobriety
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1100,1402,364,122/150,/0/default.jpg
+label: speechless
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1022'
+order: '1066'
 layout: index_item
 collection: index4
 ---

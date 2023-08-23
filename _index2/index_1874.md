@@ -2,8 +2,9 @@
 pid: index_1874
 volume: Volume 3
 image_number: '24'
-head: horse Courser
-entry: "<a href='/digital-beehive/num7/num_2672/'>1743 [Horse-Courser]</a>"
+head: hunting
+entry: "<a href='/digital-beehive/alpha2/alpha_0442/'>a</a>|<a href='/digital-beehive/num6/num_1951/'>1371
+  [Hunting]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-8ff578e77"
+item: "#item-e8aa6babb"
 unparsed:
-line: 'Head: horse Courser|Entry: 1743 [Horse-Courser]|#item-8ff578e77'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1128,2958,438,125/full/0/default.jpg
+line: 'Head: hunting|Entry: a|Entry: 1371 [Hunting]|#item-e8aa6babb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1842,2274,675,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584036643
-sort_value: '302422958'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588159643
+sort_value: '302432274'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1128,2958,438,125/150,/0/default.jpg
-label: horse Courser
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1842,2274,675,163/150,/0/default.jpg
+label: hunting
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '693'
+order: '715'
 layout: index_item
 collection: index2
 ---

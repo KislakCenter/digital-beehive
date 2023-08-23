@@ -1,9 +1,10 @@
 ---
 pid: index_4542
 volume: Volume 3
-image_number: '52'
-head: whosoever
-entry: 1851 [PAGE_MISSING]
+image_number: '53'
+head: good works
+entry: "<a href='/digital-beehive/alpha5/alpha_1060/'>a</a>|<a href='/digital-beehive/num5/num_1430/'>1062
+  [Good Works]</a>|4769 [PAGE_MISSING]"
 topic:
 first_letter: W
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c982bb0f6"
+item: "#item-de86681a6"
 unparsed:
-line: 'Head: whosoever|Entry: 1851 [PAGE_MISSING]|#item-c982bb0f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1791,1248,510,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971787440
-sort_value: '305231248'
+line: 'Head: good works|Entry: a|Entry: 1062 [Good Works]|Entry: 4769 [PAGE_MISSING]|#item-de86681a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2455,693,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797161790
+sort_value: '305322455'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1791,1248,510,122/150,/0/default.jpg
-label: whosoever
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2455,693,153/150,/0/default.jpg
+label: good works
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '504'
+order: '565'
 layout: index_item
 collection: index5
 ---

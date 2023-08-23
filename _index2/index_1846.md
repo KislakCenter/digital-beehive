@@ -2,29 +2,28 @@
 pid: index_1846
 volume: Volume 3
 image_number: '24'
-head: histories Biblical
-entry:
+head: hospital at Glaucha
+entry: "<a href='/digital-beehive/num6/num_2043/'>1415 [Hospital]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_095/'>p.45 [Image 1.105]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-78747142d"
+item: "#item-71136cd03"
 unparsed:
-line: 'Head: histories Biblical|Page: p.45 [Image 1.105]|#item-78747142d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1166,234,646,160/full/0/default.jpg
+line: 'Head: hospital at Glaucha|Entry: 1415 [Hospital]|#item-71136cd03'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1129,3408,583,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580871327
-sort_value: '302420234'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584645764
+sort_value: '302423408'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1166,234,646,160/150,/0/default.jpg
-label: histories Biblical
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1129,3408,583,138/150,/0/default.jpg
+label: hospital at Glaucha
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '665'
+order: '687'
 layout: index_item
 collection: index2
 ---

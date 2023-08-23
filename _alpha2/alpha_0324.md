@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0932/'>Sunday</a>|<a href='/digital-beehive/num5/num_1477/'>1093
   [Holy days]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1423/'>feast, i.e. holy day</a>"
+index: "<a href='/digital-beehive/index2/index_1399/'>feast, i.e. holy day</a>"
 item: "#item-e37c358a2"
 unparsed:
 line: 'Entry: Feasts|Topic: Feasts|Xref: Sunday|Xref: 1093 [Holy days]|Index: feast,

@@ -2,8 +2,8 @@
 pid: index_2686
 volume: Volume 3
 image_number: '32'
-head: net
-entry: 773 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2666/'>1739 [Snare]</a>
+head: north
+entry: 864 [PAGE_MISSING]
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1cc47b37c"
+item: "#item-32802b677"
 unparsed:
-line: 'Head: net|Entry: 773 [PAGE_MISSING]|Entry: 1739 [Snare]|#item-1cc47b37c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1176,940,520,112/full/0/default.jpg
+line: 'Head: north|Entry: 864 [PAGE_MISSING]|#item-32802b677'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1823,1880,426,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441501644
-sort_value: '303220940'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449016561
+sort_value: '303231880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1176,940,520,112/150,/0/default.jpg
-label: net
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1823,1880,426,106/150,/0/default.jpg
+label: north
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '768'
+order: '801'
 layout: index_item
 collection: index3
 ---

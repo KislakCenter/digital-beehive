@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1039/'>Will</a>|<a href='/digital-beehive/num9/num_3170/'>2226
   [Will]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4097/'>testament</a>"
+index: "<a href='/digital-beehive/index5/index_4035/'>testament</a>"
 item: "#item-64d9caea7"
 unparsed:
 line: 'Entry: Testament|Topic: Testament|Xref: Will|Xref: 2226 [Will]|Index: testament|#item-64d9caea7'

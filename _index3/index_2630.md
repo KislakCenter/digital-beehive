@@ -1,9 +1,9 @@
 ---
 pid: index_2630
 volume: Volume 3
-image_number: '31'
-head: Nadir
-entry: 809 [PAGE_MISSING]
+image_number: '32'
+head: needs
+entry: "<a href='/digital-beehive/num7/num_2635/'>1710 [Needs]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-525b16c27"
+item: "#item-23d733d4a"
 unparsed:
-line: 'Head: Nadir|Entry: 809 [PAGE_MISSING]|#item-525b16c27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3029,391,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362621818
-sort_value: '303133029'
+line: 'Head: needs|Entry: 1710 [Needs]|#item-23d733d4a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/373,3208,387,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439352534
+sort_value: '303213208'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1538,3029,391,169/150,/0/default.jpg
-label: Nadir
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/373,3208,387,111/150,/0/default.jpg
+label: needs
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '712'
+order: '745'
 layout: index_item
 collection: index3
 ---

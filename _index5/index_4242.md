@@ -1,30 +1,29 @@
 ---
 pid: index_4242
 volume: Volume 3
-image_number: '48'
-head: Trismegist
-entry: "<a href='/digital-beehive/num5/num_1481/'>1094 [Mercurius or Hermes Trismegistus]</a>"
+image_number: '49'
+head: Venice
+entry: "<a href='/digital-beehive/num2/num_0545/'>440 [Venice]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-73b3dcbe4"
+item: "#item-d17224da7"
 unparsed:
-line: 'Head: Trismegist|Entry: 1094 [Mercurius or Hermes Trismegistus]|#item-73b3dcbe4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1781,1884,572,205/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089211080
-sort_value: '304831884'
+line: 'Head: Venice|Entry: 440 [Venice]|#item-d17224da7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/946,2584,440,78/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658695259
+sort_value: '304922584'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1781,1884,572,205/150,/0/default.jpg
-label: Trismegist
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/946,2584,440,78/150,/0/default.jpg
+label: Venice
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '204'
+order: '265'
 layout: index_item
 collection: index5
 ---

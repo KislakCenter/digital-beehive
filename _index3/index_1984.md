@@ -2,30 +2,29 @@
 pid: index_1984
 volume: Volume 3
 image_number: '25'
-head: impudence
-entry: "<a href='/digital-beehive/num2/num_0587/'>471 [Impudence]</a>|<a href='/digital-beehive/num3/num_1058/'>718
-  [Shameless]</a>"
+head: Indies
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: East & West Indies
 index:
-item: "#item-fdf079dbc"
+item: "#item-7f7e7dcbf"
 unparsed:
-line: 'Head: impudence|Entry: 471 [Impudence]|Entry: 718 [Shameless]|#item-fdf079dbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/849,3027,650,146/full/0/default.jpg
+line: 'Head: Indies|See: East & West Indies|#item-7f7e7dcbf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1542,3388,659,198/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668118328
-sort_value: '302523027'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673024990
+sort_value: '302533388'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/849,3027,650,146/150,/0/default.jpg
-label: impudence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1542,3388,659,198/150,/0/default.jpg
+label: Indies
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '066'
+issue: The cross-reference "East & West Indies" refers to two separate index headers.
+  There is currently no protocol to link to two different items.
+order: '099'
 layout: index_item
 collection: index3
 ---

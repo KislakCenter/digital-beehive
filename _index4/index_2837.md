@@ -2,29 +2,28 @@
 pid: index_2837
 volume: Volume 3
 image_number: '34'
-head: to overcome
+head: parish
 entry:
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4325/'>victory</a>"
+see: "<a href='/digital-beehive/index1/index_0645/'>Church</a>"
 index:
-item: "#item-b731aac05"
+item: "#item-2b203f05e"
 unparsed:
-line: 'Head: to overcome|See: victory|#item-b731aac05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/439,727,819,197/full/0/default.jpg
+line: 'Head: parish|See: Church|#item-2b203f05e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1122,1887,689,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425071468
-sort_value: '303410727'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494238344
+sort_value: '303421887'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/439,727,819,197/150,/0/default.jpg
-label: to overcome
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1122,1887,689,175/150,/0/default.jpg
+label: parish
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0085'
+order: '0129'
 layout: index_item
 collection: index4
 ---

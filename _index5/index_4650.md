@@ -1,30 +1,29 @@
 ---
 pid: index_4650
 volume: Volume 3
-image_number: '53'
-head: the young of beasts
-entry: "<a href='/digital-beehive/num5/num_1429/'>1061 [Chickens]</a>"
+image_number: '54'
+head: tomb
+entry:
 topic:
-first_letter: Y
+first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1668/'>grave</a>"
 index:
-item: "#item-384aa512d"
+item: "#item-e99bf76e6"
 unparsed:
-line: 'Head: the young of beasts|Entry: 1061 [Chickens]|#item-384aa512d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1578,2693,694,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799474919
-sort_value: '305332693'
+line: 'Type: Index|Insertion: [:54.]|Head: tomb|See: grave|#item-e99bf76e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1771,1166,706,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956597941
+sort_value: '305431166'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1578,2693,694,136/150,/0/default.jpg
-label: the young of beasts
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1771,1166,706,142/150,/0/default.jpg
+label: tomb
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '612'
+order: '673'
 layout: index_item
 collection: index5
 ---

@@ -2,9 +2,8 @@
 pid: index_3890
 volume: Volume 3
 image_number: '45'
-head: stealing
-entry: "<a href='/digital-beehive/num4/num_1079/'>866 [Stealing]</a>|<a href='/digital-beehive/num9/num_3031/'>2094
-  [Theft]</a>"
+head: to stumble
+entry: "<a href='/digital-beehive/num3/num_1028/'>706 [to Stumble]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-075aed43c"
+item: "#item-4a25ea1db"
 unparsed:
-line: 'Head: stealing|Entry: 866 [Stealing]|Entry: 2094 [Theft]|#item-075aed43c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/202,1235,614,140/full/0/default.jpg
+line: 'Head: to stumble|Entry: 706 [to Stumble]|#item-4a25ea1db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,368,515,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530219140983
-sort_value: '304511235'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467065285
+sort_value: '304530368'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/202,1235,614,140/150,/0/default.jpg
-label: stealing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,368,515,123/150,/0/default.jpg
+label: to stumble
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1138'
+order: '1182'
 layout: index_item
 collection: index4
 ---

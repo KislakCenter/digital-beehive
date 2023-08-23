@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0402/'>Haste</a>|[WORD_ILLEGIBLE]|<a
   href='/digital-beehive/num4/num_1282/'>961 [Too hasty]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4176/'>too hasty</a>"
+index: "<a href='/digital-beehive/index5/index_4113/'>too hasty</a>"
 item: "#item-333aac4a6"
 unparsed:
 line: 'Entry: Too hasty|Topic: Too hasty|Xref: Haste|Xref: [WORD_ILLEGIBLE]|Xref:

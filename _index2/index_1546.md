@@ -2,33 +2,28 @@
 pid: index_1546
 volume: Volume 3
 image_number: '21'
-head: friendship
-entry: "<a href='/digital-beehive/alpha2/alpha_0352/'>a</a>|<a href='/digital-beehive/num2/num_0532/'>429
-  [Friendship]</a>|<a href='/digital-beehive/num5/num_1598/'>1171 [Friendship]</a>|<a
-  href='/digital-beehive/num7/num_2573/'>1674 [Friendship]</a>|<a href='/digital-beehive/num11/num_3508/'>4813
-  [Friendship]</a>"
+head: gag
+entry: 4742 [PAGE_MISSING]
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-a6ff2f53a"
+item: "#item-b1f0dc4bc"
 unparsed:
-line: 'Head: friendship|Entry: a|Entry: 429 [Friendship]|Entry: 1171 [Friendship]|Entry:
-  1674 [Friendship]|Entry: 4813 [Friendship]|#item-a6ff2f53a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/844,2533,711,163/full/0/default.jpg
+line: 'Head: gag|Entry: 4742 [PAGE_MISSING]|#item-b1f0dc4bc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1970,1992,344,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560783712245
-sort_value: '302122533'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786458152
+sort_value: '302131992'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/844,2533,711,163/150,/0/default.jpg
-label: friendship
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1970,1992,344,143/150,/0/default.jpg
+label: gag
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '365'
+order: '387'
 layout: index_item
 collection: index2
 ---

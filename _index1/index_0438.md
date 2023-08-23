@@ -2,8 +2,8 @@
 pid: index_0438
 volume: Volume 3
 image_number: '11'
-head: brass
-entry: 1881 [PAGE_MISSING]
+head: breathing
+entry: "<a href='/digital-beehive/num3/num_0983/'>688 [Breathing with difficulty]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-941c4417b"
+item: "#item-38c471fcc"
 unparsed:
-line: 'Head: brass|Entry: 1881 [PAGE_MISSING]|#item-941c4417b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/179,705,331,122/full/0/default.jpg
+line: 'Head: breathing|Entry: 688 [Breathing with difficulty]|#item-38c471fcc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/161,1523,499,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417740733
-sort_value: '301110705'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565370971796
+sort_value: '301111523'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/179,705,331,122/150,/0/default.jpg
-label: brass
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/161,1523,499,185/150,/0/default.jpg
+label: breathing
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0437'
 layout: index_item
 collection: index1

@@ -1,30 +1,29 @@
 ---
 pid: index_1482
 volume: Volume 3
-image_number: '20'
-head: flint
-entry: "<a href='/digital-beehive/num9/num_3103/'>2161 [Flint-stone]</a>"
+image_number: '21'
+head: foretoken
+entry: 836 [PAGE_MISSING]
 topic:
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-3aae87be3"
+item: "#item-797fc091f"
 unparsed:
-line: 'Head: flint|Page: p.32 [Image 1.92]|Entry: 2161 [Flint-stone]|#item-3aae87be3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,3393,664,207/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562618367854
-sort_value: '302033393'
+line: 'Head: foretoken|Entry: 836 [PAGE_MISSING]|#item-797fc091f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/154,2501,554,98/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531502168985
+sort_value: '302112501'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,3393,664,207/150,/0/default.jpg
-label: flint
-location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/154,2501,554,98/150,/0/default.jpg
+label: foretoken
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '301'
+order: '323'
 layout: index_item
 collection: index2
 ---

@@ -2,32 +2,28 @@
 pid: index_1957
 volume: Volume 3
 image_number: '25'
-head: imagination
-entry: "<a href='/digital-beehive/alpha3/alpha_0460/'>a</a>|736 [PAGE_MISSING]|<a
-  href='/digital-beehive/num7/num_2490/'>1637 [Imagination]</a>|<a href='/digital-beehive/num9/num_3154/'>2210
-  [Imagination]</a>"
+head: incendiary
+entry: "<a href='/digital-beehive/num2/num_0442/'>369 [Incendiary]</a>"
 topic:
 first_letter: I/J
-page:
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a24337dfa"
+item: "#item-a9335a205"
 unparsed:
-line: 'Head: imagination|Entry: a|Entry: 736 [PAGE_MISSING]|Entry: 1637 [Imagination]|Entry:
-  2210 [Imagination]|#item-a24337dfa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/864,627,678,126/full/0/default.jpg
+line: 'Head: incendiary|Page: p.30 [Image 1.90]|Entry: 369 [Incendiary]|#item-a9335a205'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,645,593,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665047940
-sort_value: '302520627'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669868464
+sort_value: '302530645'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/864,627,678,126/150,/0/default.jpg
-label: imagination
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,645,593,147/150,/0/default.jpg
+label: incendiary
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '039'
+order: '072'
 layout: index_item
 collection: index3
 ---

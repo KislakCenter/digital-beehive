@@ -2,8 +2,9 @@
 pid: index_2478
 volume: Volume 3
 image_number: '30'
-head: to melt
-entry: "<a href='/digital-beehive/num3/num_1053/'>716 [to Melt]</a>"
+head: mind
+entry: "<a href='/digital-beehive/alpha3/alpha_0597/'>a</a>|<a href='/digital-beehive/num7/num_2453/'>1620
+  [Mind]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-416d53cb5"
+item: "#item-4e54db0a0"
 unparsed:
-line: 'Head: to melt|Entry: 716 [to Melt]|#item-416d53cb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1103,1485,496,180/full/0/default.jpg
+line: 'Head: mind|Entry: a|Entry: 1620 [Mind]|#item-4e54db0a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1810,2149,500,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268242535
-sort_value: '303021485'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274271545
+sort_value: '303032149'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1103,1485,496,180/150,/0/default.jpg
-label: to melt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1810,2149,500,109/150,/0/default.jpg
+label: mind
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '560'
+order: '593'
 layout: index_item
 collection: index3
 ---

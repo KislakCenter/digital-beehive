@@ -2,9 +2,8 @@
 pid: index_1968
 volume: Volume 3
 image_number: '25'
-head: imperfection
-entry: "<a href='/digital-beehive/alpha3/alpha_0466/'>a</a>|<a href='/digital-beehive/num6/num_1909/'>1350
-  [Imperfection]</a>"
+head: inconsiderancy
+entry: "<a href='/digital-beehive/alpha3/alpha_0470/'>a</a>|1884 [PAGE_MISSING]"
 topic:
 first_letter: I/J
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1a808b792"
+item: "#item-cec31195e"
 unparsed:
-line: 'Head: imperfection|Entry: a|Entry: 1350 [Imperfection]|#item-1a808b792'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/862,1584,708,126/full/0/default.jpg
+line: 'Head: inconsiderancy|Entry: a|Entry: 1884 [PAGE_MISSING]|#item-cec31195e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1568,1849,695,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665937796
-sort_value: '302521584'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671508386
+sort_value: '302531849'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/862,1584,708,126/150,/0/default.jpg
-label: imperfection
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1568,1849,695,154/150,/0/default.jpg
+label: inconsiderancy
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '050'
+order: '083'
 layout: index_item
 collection: index3
 ---

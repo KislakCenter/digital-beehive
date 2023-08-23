@@ -2,8 +2,8 @@
 pid: index_0357
 volume: Volume 3
 image_number: '10'
-head: beseeming
-entry: "<a href='/digital-beehive/num3/num_1033/'>709 [Unseemly]</a>"
+head: better
+entry: "<a href='/digital-beehive/num3/num_0680/'>539 [beter]</a>|4583 [PAGE_MISSING]"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-08c5b672d"
+item: "#item-70b1edd74"
 unparsed:
-line: 'Head: beseeming|Entry: 709 [Unseemly]|#item-08c5b672d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/371,2114,469,139/full/0/default.jpg
+line: 'Head: better|Entry: 539 [beter]|Entry: 4583 [PAGE_MISSING]|#item-70b1edd74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/363,3046,572,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531147970292
-sort_value: '301012114'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531148940538
+sort_value: '301013046'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/371,2114,469,139/150,/0/default.jpg
-label: beseeming
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/363,3046,572,146/150,/0/default.jpg
+label: better
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0356'
 layout: index_item
 collection: index1

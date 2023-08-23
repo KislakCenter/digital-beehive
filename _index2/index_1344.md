@@ -2,8 +2,8 @@
 pid: index_1344
 volume: Volume 3
 image_number: '19'
-head: ex. gr.
-entry: "<a href='/digital-beehive/num6/num_2061/'>1422 [Ex. gr.]</a>"
+head: to extricate
+entry: "<a href='/digital-beehive/num2/num_0306/'>271 [To escape]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-42e379249"
+item: "#item-ffad65cf1"
 unparsed:
-line: 'Head: ex. gr.|Entry: 1422 [Ex. gr.]|#item-42e379249'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1547,632,414,83/full/0/default.jpg
+line: 'Head: to extricate|Entry: 271 [To escape]|#item-ffad65cf1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1499,3208,561,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042241487
-sort_value: '301930632'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561397391774
+sort_value: '301933208'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1547,632,414,83/150,/0/default.jpg
-label: ex. gr.
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1499,3208,561,122/150,/0/default.jpg
+label: to extricate
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '163'
+order: '185'
 layout: index_item
 collection: index2
 ---

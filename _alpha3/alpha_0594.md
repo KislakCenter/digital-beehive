@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0584/'>Mediocrity</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2508/'>middle</a>"
+index: "<a href='/digital-beehive/index3/index_2467/'>middle</a>"
 item: "#item-65df4efaa"
 unparsed:
 line: 'Entry: Middle|Topic: Middle|Xref: Mediocrity|Index: middle|#item-65df4efaa'

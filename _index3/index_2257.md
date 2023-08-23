@@ -2,30 +2,28 @@
 pid: index_2257
 volume: Volume 3
 image_number: '28'
-head: leprosie
-entry: "<a href='/digital-beehive/alpha3/alpha_0532/'>a</a>|<a href='/digital-beehive/num9/num_3081/'>2141
-  [Leprosie]</a>"
+head: lillies
+entry: "<a href='/digital-beehive/num5/num_1719/'>1244 [Lilly]</a>"
 topic:
 first_letter: L
-page:
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-f3bc53fc9"
+item: "#item-e9ea40d0d"
 unparsed:
-line: 'Head: leprosie|Entry: a|Entry: 2141 [Leprosie]|#item-f3bc53fc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1145,392,610,123/full/0/default.jpg
+line: 'Head: lillies|Page: p.33 [Image 1.93]|Entry: 1244 [Lilly]|#item-e9ea40d0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1819,704,637,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844164211
-sort_value: '302820392'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848490031
+sort_value: '302830704'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1145,392,610,123/150,/0/default.jpg
-label: leprosie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1819,704,637,129/150,/0/default.jpg
+label: lillies
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '339'
+order: '372'
 layout: index_item
 collection: index3
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_2084
 volume: Volume 3
-image_number: '26'
-head: intricate
-entry: "<a href='/digital-beehive/num6/num_1761/'>1269 [Entangle & disentangle]</a>"
+image_number: '27'
+head: irrecuperable
+entry: "<a href='/digital-beehive/num3/num_0833/'>620 [Despair]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-cbf48ccb1"
+item: "#item-a049b842d"
 unparsed:
-line: 'Head: intricate|Entry: 1269 [Entangle & disentangle]|#item-cbf48ccb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1857,419,477,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750664051
-sort_value: '302630419'
+line: 'Head: irrecuperable|Entry: 620 [Despair]|#item-a049b842d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,399,566,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756365442
+sort_value: '302710399'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1857,419,477,117/150,/0/default.jpg
-label: intricate
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,399,566,136/150,/0/default.jpg
+label: irrecuperable
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '166'
+order: '199'
 layout: index_item
 collection: index3
 ---

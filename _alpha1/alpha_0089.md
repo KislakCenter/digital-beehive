@@ -10,7 +10,7 @@ page:
 add:
 xref: 834 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index1/index_0394/'>blood of Christ</a>"
+index: "<a href='/digital-beehive/index1/index_0386/'>blood of Christ</a>"
 item: "#item-e52bdb101"
 unparsed:
 line: 'Entry: blood of Xst|Topic: blood of Xst|Xref: 834 [PAGE_MISSING]|Index: blood

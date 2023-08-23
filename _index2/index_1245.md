@@ -2,8 +2,8 @@
 pid: index_1245
 volume: Volume 3
 image_number: '18'
-head: to encompass
-entry: 739 [PAGE_MISSING]
+head: ensigns
+entry: "<a href='/digital-beehive/num2/num_0282/'>257 [Arms]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5fa62318c"
+item: "#item-924a211f0"
 unparsed:
-line: 'Head: to encompass|Entry: 739 [PAGE_MISSING]|#item-5fa62318c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1846,718,569,180/full/0/default.jpg
+line: 'Head: ensigns|Entry: 257 [Arms]|#item-924a211f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1856,2788,384,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754088858
-sort_value: '301830718'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835669654
+sort_value: '301832788'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1846,718,569,180/150,/0/default.jpg
-label: to encompass
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1856,2788,384,116/150,/0/default.jpg
+label: ensigns
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '064'
+order: '086'
 layout: index_item
 collection: index2
 ---

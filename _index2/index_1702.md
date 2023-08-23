@@ -2,30 +2,29 @@
 pid: index_1702
 volume: Volume 3
 image_number: '23'
-head: gravity
-entry: "<a href='/digital-beehive/alpha2/alpha_0386/'>a</a>|<a href='/digital-beehive/num10/num_3320/'>2349
-  [Gravity]</a>"
+head: guns
+entry: "<a href='/digital-beehive/alpha2/alpha_0392/'>a</a>|<a href='/digital-beehive/num2/num_0393/'>339
+  [Guns]</a>"
 topic:
 first_letter: G
-page:
+page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-a120b63f2"
+item: "#item-4778e8d1f"
 unparsed:
-line: 'Head: gravity|Entry: a|Entry: 2349 [Gravity]|#item-a120b63f2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/116,359,562,116/full/0/default.jpg
+line: 'Head: guns|Page: p.40 [Image 1.100]|Entry: a|Entry: 339 [Guns]|#item-4778e8d1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/136,3055,506,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559228863233
-sort_value: '302310359'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233734784
+sort_value: '302313055'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/116,359,562,116/150,/0/default.jpg
-label: gravity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/136,3055,506,119/150,/0/default.jpg
+label: guns
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '521'
+order: '543'
 layout: index_item
 collection: index2
 ---

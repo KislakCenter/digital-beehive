@@ -1,9 +1,10 @@
 ---
 pid: index_2399
 volume: Volume 3
-image_number: '29'
-head: malice & malignity
-entry: "<a href='/digital-beehive/alpha3/alpha_0572/'>a</a>"
+image_number: '30'
+head: Queen Mary
+entry: "<a href='/digital-beehive/num6/num_2155/'>1466 [Queen Mary's]</a>|<a href='/digital-beehive/num9/num_3139/'>2195
+  [Queen Mary]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d6e2573d9"
+item: "#item-964a5eaa4"
 unparsed:
-line: 'Head: malice & malignity|Entry: a|#item-d6e2573d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1313,1093,604,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194191419
-sort_value: '302931093'
+line: 'Head: Queen Mary|Entry: 1466 [Queen Mary''s]|Entry: 2195 [Queen Mary]|#item-964a5eaa4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/414,1269,727,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263700245
+sort_value: '303011269'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1313,1093,604,160/150,/0/default.jpg
-label: malice & malignity
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/414,1269,727,110/150,/0/default.jpg
+label: Queen Mary
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '481'
+order: '514'
 layout: index_item
 collection: index3
 ---

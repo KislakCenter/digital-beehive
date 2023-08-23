@@ -2,29 +2,28 @@
 pid: index_2233
 volume: Volume 3
 image_number: '28'
-head: leaf
-entry: "<a href='/digital-beehive/num5/num_1398/'>1044 [Books]</a>"
+head: levity
+entry:
 topic:
 first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4351/'>unstable</a>"
 index:
-item: "#item-0ba291921"
+item: "#item-244d49d3e"
 unparsed:
-line: 'Head: leaf|Entry: 1044 [Books]|#item-0ba291921'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/406,1295,381,156/full/0/default.jpg
+line: 'Head: levity|See: unstable|#item-244d49d3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,1233,629,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841923531
-sort_value: '302811295'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845542601
+sort_value: '302821233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/406,1295,381,156/150,/0/default.jpg
-label: leaf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,1233,629,140/150,/0/default.jpg
+label: levity
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '315'
+order: '348'
 layout: index_item
 collection: index3
 ---

@@ -2,9 +2,9 @@
 pid: index_1496
 volume: Volume 3
 image_number: '21'
-head: foot
-entry: "<a href='/digital-beehive/alpha2/alpha_0340/'>a</a>|<a href='/digital-beehive/num6/num_2109/'>1444
-  [Foot]</a>"
+head: fortune
+entry: "<a href='/digital-beehive/alpha2/alpha_0346/'>a</a>|<a href='/digital-beehive/num5/num_1575/'>1154
+  [Fortune]</a>|4785 [PAGE_MISSING]"
 topic:
 first_letter: F
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-948592bfa"
+item: "#item-efb7dca61"
 unparsed:
-line: 'Head: foot|Entry: a|Entry: 1444 [Foot]|#item-948592bfa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/162,1420,463,107/full/0/default.jpg
+line: 'Head: fortune|Entry: a|Entry: 1154 [Fortune]|Entry: 4785 [PAGE_MISSING]|#item-efb7dca61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/897,544,689,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531233713485
-sort_value: '302111420'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560782817789
+sort_value: '302120544'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/162,1420,463,107/150,/0/default.jpg
-label: foot
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/897,544,689,132/150,/0/default.jpg
+label: fortune
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '315'
+order: '337'
 layout: index_item
 collection: index2
 ---

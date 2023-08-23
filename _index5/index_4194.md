@@ -1,30 +1,31 @@
 ---
 pid: index_4194
 volume: Volume 3
-image_number: '48'
-head: torch
-entry:
+image_number: '49'
+head: try all things
+entry: "<a href='/digital-beehive/num1/num_0047/'>47 [Try & Prove all things]</a>|<a
+  href='/digital-beehive/num4/num_1186/'>908 [Try all things]</a>"
 topic:
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-0f39a28e8"
+item: "#item-4a38fbe2a"
 unparsed:
-line: 'Head: torch|Page: p.30 [Image 1.90]|#item-0f39a28e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/463,3086,442,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277011264
-sort_value: '304813086'
+line: 'Head: try all things|Entry: 47 [Try & Prove all things]|Entry: 908 [Try all
+  things]|#item-4a38fbe2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,665,657,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655359846
+sort_value: '304910665'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/463,3086,442,149/150,/0/default.jpg
-label: torch
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,665,657,147/150,/0/default.jpg
+label: try all things
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '156'
+order: '217'
 layout: index_item
 collection: index5
 ---

@@ -2,9 +2,8 @@
 pid: index_2670
 volume: Volume 3
 image_number: '32'
-head: necessity
-entry: "<a href='/digital-beehive/alpha3/alpha_0639/'>a</a>|<a href='/digital-beehive/num4/num_1216/'>918
-  [Necessity]</a>|<a href='/digital-beehive/num9/num_2959/'>2024 [Necessity]</a>"
+head: nitre
+entry: "<a href='/digital-beehive/num7/num_2495/'>1639 [Nitre or Saltpetre]</a>"
 topic:
 first_letter: N
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ad0d4b82f"
+item: "#item-09beea9c3"
 unparsed:
-line: 'Head: necessity|Entry: a|Entry: 918 [Necessity]|Entry: 2024 [Necessity]|#item-ad0d4b82f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/385,2905,696,136/full/0/default.jpg
+line: 'Head: nitre|Entry: 1639 [Nitre or Saltpetre]|#item-09beea9c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1864,394,381,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439132420
-sort_value: '303212905'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560447308175
+sort_value: '303230394'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/385,2905,696,136/150,/0/default.jpg
-label: necessity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1864,394,381,139/150,/0/default.jpg
+label: nitre
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '752'
+order: '785'
 layout: index_item
 collection: index3
 ---

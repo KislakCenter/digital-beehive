@@ -2,29 +2,28 @@
 pid: index_3796
 volume: Volume 3
 image_number: '44'
-head: song
-entry:
+head: spleen
+entry: "<a href='/digital-beehive/num3/num_0774/'>595 [Liver]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3726/'>singing</a>"
+see:
 index:
-item: "#item-524654c0b"
+item: "#item-384cf85f8"
 unparsed:
-line: 'Head: song|See: singing|#item-524654c0b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/598,755,510,122/full/0/default.jpg
+line: 'Head: spleen|Entry: 595 [Liver]|#item-384cf85f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1830,882,404,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288185334
-sort_value: '304410755'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530104492005
+sort_value: '304430882'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/598,755,510,122/150,/0/default.jpg
-label: song
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1830,882,404,102/150,/0/default.jpg
+label: spleen
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1044'
+order: '1088'
 layout: index_item
 collection: index4
 ---

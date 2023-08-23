@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0550/'>Longsufferance</a>|<a href='/digital-beehive/num7/num_2562/'>1669
   [Forbearance]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1498/'>forbearance</a>"
+index: "<a href='/digital-beehive/index2/index_1473/'>forbearance</a>"
 item: "#item-798ba6561"
 unparsed:
 line: 'Entry: Forbearance|Topic: Forbearance|Xref: Longsufferance|Xref: 1669 [Forbearance]|Index:

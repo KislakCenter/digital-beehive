@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0597/'>mind</a>|<a href='/digital-beehive/num3/num_0638/'>507
   [Death passed upon all men]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3808/'>soul</a>"
+index: "<a href='/digital-beehive/index4/index_3751/'>soul</a>"
 item: "#item-7a3a1062e"
 unparsed:
 line: 'Entry: Soul|Topic: Soul|Xref: mind|Xref: 507 [Death passed upon all men]|Index:

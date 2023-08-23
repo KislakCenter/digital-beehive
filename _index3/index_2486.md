@@ -2,9 +2,8 @@
 pid: index_2486
 volume: Volume 3
 image_number: '30'
-head: merchants rules
-entry: "<a href='/digital-beehive/num6/num_2149/'>1463 [One friend Counsel the other
-  who newly begun to Merchandize]</a>"
+head: ministry
+entry: "<a href='/digital-beehive/num8/num_2703/'>1771 [Ministry]</a>"
 topic:
 first_letter: M
 page:
@@ -12,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-11c4111c8"
+item: "#item-361ba8e03"
 unparsed:
-line: 'Head: merchants rules|Entry: 1463 [One friend Counsel the other who newly begun
-  to Merchandize]|#item-11c4111c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,2415,506,108/full/0/default.jpg
+line: 'Head: ministry|Entry: 1771 [Ministry]|#item-361ba8e03'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1828,2878,450,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268838907
-sort_value: '303022415'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274751336
+sort_value: '303032878'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,2415,506,108/150,/0/default.jpg
-label: merchants rules
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1828,2878,450,105/150,/0/default.jpg
+label: ministry
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '568'
+order: '601'
 layout: index_item
 collection: index3
 ---

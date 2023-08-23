@@ -1,9 +1,9 @@
 ---
 pid: index_4150
 volume: Volume 3
-image_number: '47'
-head: till or until
-entry: "<a href='/digital-beehive/num6/num_2008/'>1398 [Till until]</a>"
+image_number: '48'
+head: Tranquebar
+entry: "<a href='/digital-beehive/num10/num_3341/'>2368 [Tranquebar]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-74a23949e"
+item: "#item-4955db645"
 unparsed:
-line: 'Head: till or until|Entry: 1398 [Till until]|#item-74a23949e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,1782,573,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294707150
-sort_value: '304731782'
+line: 'Head: Tranquebar|Entry: 2368 [Tranquebar]|#item-4955db645'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1098,1890,583,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561486301235
+sort_value: '304821890'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,1782,573,164/150,/0/default.jpg
-label: till or until
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1098,1890,583,131/150,/0/default.jpg
+label: Tranquebar
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '112'
+order: '173'
 layout: index_item
 collection: index5
 ---

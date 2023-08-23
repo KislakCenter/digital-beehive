@@ -1,30 +1,29 @@
 ---
 pid: index_4058
 volume: Volume 3
-image_number: '46'
-head: tapistry
-entry: "<a href='/digital-beehive/num8/num_2919/'>1987 [Tapistry]</a>"
+image_number: '47'
+head: thistles
+entry: "<a href='/digital-beehive/num3/num_0822/'>615 [Thorns]</a>"
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-829225285"
+item: "#item-2cad1692f"
 unparsed:
-line: 'Head: tapistry|Entry: 1987 [Tapistry]|#item-829225285'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1833,2492,431,91/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743323301
-sort_value: '304632492'
+line: 'Head: thistles|Page: p.33 [Image 1.93]|Entry: 615 [Thorns]|#item-2cad1692f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/922,2002,568,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532721340143
+sort_value: '304722002'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1833,2492,431,91/150,/0/default.jpg
-label: tapistry
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/922,2002,568,149/150,/0/default.jpg
+label: thistles
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '020'
+order: '081'
 layout: index_item
 collection: index5
 ---

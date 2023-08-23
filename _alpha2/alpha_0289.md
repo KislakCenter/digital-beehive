@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0807/'>Revelling</a>|<a href='/dig
   of the eye</a>|<a href='/digital-beehive/alpha4/alpha_0717/'>Pleasure</a>|<a href='/digital-beehive/alpha5/alpha_1063/'>Worldly</a>|<a
   href='/digital-beehive/num5/num_1466/'>1087 [Epicures]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1279/'>epicurism</a>"
+index: "<a href='/digital-beehive/index2/index_1256/'>epicurism</a>"
 item: "#item-42a12e4a4"
 unparsed:
 line: 'Entry: Epicurism|Topic: Epicurism|Xref: Revelling|Xref: lust of the eye|Xref:
@@ -25,8 +25,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/365,4511,600,180/250,/0/default.jpg
 label: Epicurism
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-issue: Damage partially obscures the cross reference to 1087 [Epicures], but we have
-  chosen to link to it.
+issue: 'Damage partially obscures the cross reference to 1087 [Epicures], but we have
+  chosen to link to it. '
 also_in_entry:
 order: '017'
 layout: alpha_item

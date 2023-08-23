@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0646/'>Nobility</a>|<a href='/digital-beehive/num11/num_3580/'>4884
   [Ignoble]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1948/'>ignoble</a>"
+index: "<a href='/digital-beehive/index3/index_1915/'>ignoble</a>"
 item: "#item-bebb1e5fa"
 unparsed:
 line: 'Entry: Ignoble|Topic: Ignoble|Xref: Nobility|Xref: 4884 [Ignoble]|Index: ignoble|#item-bebb1e5fa'

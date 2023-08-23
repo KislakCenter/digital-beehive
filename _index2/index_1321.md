@@ -2,8 +2,9 @@
 pid: index_1321
 volume: Volume 3
 image_number: '19'
-head: eunuch
-entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Eunuch]</a>"
+head: exercise
+entry: "<a href='/digital-beehive/alpha2/alpha_0301/'>a</a>|<a href='/digital-beehive/num6/num_1900/'>1345
+  [Exercise]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b422abbad"
+item: "#item-ef41cf1a9"
 unparsed:
-line: 'Head: eunuch|Entry: 333 [Eunuch]|#item-b422abbad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/844,1590,437,133/full/0/default.jpg
+line: 'Head: exercise|Entry: a|Entry: 1345 [Exercise]|#item-ef41cf1a9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1539,673,609,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352113503
-sort_value: '301921590'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042434090
+sort_value: '301930673'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/844,1590,437,133/150,/0/default.jpg
-label: eunuch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1539,673,609,105/150,/0/default.jpg
+label: exercise
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '140'
+order: '162'
 layout: index_item
 collection: index2
 ---

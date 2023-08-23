@@ -2,8 +2,8 @@
 pid: index_0250
 volume: Volume 3
 image_number: '9'
-head: austere
-entry: 760 [PAGE_MISSING]
+head: awaking
+entry: 793 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-7d0a7b790"
+item: "#item-ff6985a92"
 unparsed:
-line: 'Head: austere|Entry: 760 [PAGE_MISSING]|#item-7d0a7b790'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,1486,475,108/full/0/default.jpg
+line: 'Head: awaking|Entry: 793 [PAGE_MISSING]|#item-ff6985a92'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/166,2381,509,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015486663
-sort_value: '300911486'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016135609
+sort_value: '300912381'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,1486,475,108/150,/0/default.jpg
-label: austere
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/166,2381,509,207/150,/0/default.jpg
+label: awaking
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0249'
 layout: index_item
 collection: index1

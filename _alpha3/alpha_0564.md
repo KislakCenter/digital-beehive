@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2459/'>1623 [Love-potions]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2353/'>love potion</a>"
+index: "<a href='/digital-beehive/index3/index_2315/'>love potion</a>"
 item: "#item-ef0dc7445"
 unparsed:
 line: 'Entry: Love potions|Topic: Love potions|Xref: 1623 [Love-potions]|Index: love

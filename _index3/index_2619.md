@@ -1,30 +1,30 @@
 ---
 pid: index_2619
 volume: Volume 3
-image_number: '31'
-head: mushroom
-entry: "<a href='/digital-beehive/alpha3/alpha_0622/'>a</a>"
+image_number: '32'
+head: naughtiness
+entry: "<a href='/digital-beehive/alpha3/alpha_0637/'>a</a>|<a href='/digital-beehive/num6/num_2087/'>1432
+  [Naughtiness]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-665224971"
+item: "#item-24388fb57"
 unparsed:
-line: 'Head: mushroom|Entry: a|#item-665224971'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1558,1852,465,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361985267
-sort_value: '303131852'
+line: 'Head: naughtiness|Entry: a|Entry: 1432 [Naughtiness]|#item-24388fb57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/383,2259,719,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438525804
+sort_value: '303212259'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1558,1852,465,135/150,/0/default.jpg
-label: mushroom
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/383,2259,719,170/150,/0/default.jpg
+label: naughtiness
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '701'
+order: '734'
 layout: index_item
 collection: index3
 ---

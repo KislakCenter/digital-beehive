@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0344/'>forgetfulness</a>|832 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2481/'>memory</a>"
+index: "<a href='/digital-beehive/index3/index_2440/'>memory</a>"
 item: "#item-7c5b22926"
 unparsed:
 line: 'Entry: Memory|Topic: Memory|Xref: forgetfulness|Xref: 832 [PAGE_MISSING]|Index:

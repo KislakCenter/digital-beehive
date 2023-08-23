@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2400/'>1596 [Pore]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2557/'>mole. talpa</a>"
+index: "<a href='/digital-beehive/index3/index_2516/'>mole. talpa</a>"
 item: "#item-b3c0d1325"
 unparsed:
 line: 'Entry: Mole|Topic: Mole|Xref: 1596 [Pore]|Index: mole. talpa|#item-b3c0d1325'

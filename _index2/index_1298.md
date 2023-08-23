@@ -2,8 +2,8 @@
 pid: index_1298
 volume: Volume 3
 image_number: '19'
-head: escape
-entry: "<a href='/digital-beehive/num2/num_0306/'>271 [To escape]</a>"
+head: europe
+entry: "<a href='/digital-beehive/num2/num_0476/'>391 [European]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6a0e79a64"
+item: "#item-9f690b3f9"
 unparsed:
-line: 'Head: escape|Entry: 271 [To escape]|#item-6a0e79a64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/122,2596,398,148/full/0/default.jpg
+line: 'Head: europe|Entry: 391 [European]|#item-9f690b3f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/853,1737,389,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277513044
-sort_value: '301912596'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352322207
+sort_value: '301921737'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/122,2596,398,148/150,/0/default.jpg
-label: escape
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/853,1737,389,119/150,/0/default.jpg
+label: europe
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '117'
+order: '139'
 layout: index_item
 collection: index2
 ---

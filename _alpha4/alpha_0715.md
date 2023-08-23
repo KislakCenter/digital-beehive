@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2042/'>1414 [Seven Planets]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3033/'>planets</a>"
+index: "<a href='/digital-beehive/index4/index_2984/'>planets</a>"
 item: "#item-eb185b5f6"
 unparsed:
 line: 'Entry: Planets|Topic: Planets|Xref: 1414 [Seven Planets]|Index: planets| #item-eb185b5f6'

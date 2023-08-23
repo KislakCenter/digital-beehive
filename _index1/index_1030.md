@@ -2,28 +2,27 @@
 pid: index_1030
 volume: Volume 3
 image_number: '16'
-head: detract
+head: diffidence
 entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0986/'>defaming</a>"
+see: "<a href='/digital-beehive/index1/index_1087/'>distrust</a>"
 index:
-item: "#item-1bd7117c7"
+item: "#item-8dac9212c"
 unparsed:
-line: 'Head: detract|See: defaming|#item-1bd7117c7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1041,3303,742,151/full/0/default.jpg
+line: 'Head: diffidence|See: distrust|#item-8dac9212c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1858,1599,612,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605271970
-sort_value: '301623303'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783766709
+sort_value: '301631599'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1041,3303,742,151/150,/0/default.jpg
-label: detract
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1858,1599,612,109/150,/0/default.jpg
+label: diffidence
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1029'
 layout: index_item
 collection: index1

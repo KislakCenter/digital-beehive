@@ -2,8 +2,8 @@
 pid: index_1333
 volume: Volume 3
 image_number: '19'
-head: excess
-entry: "<a href='/digital-beehive/num5/num_1596/'>1169 [Extremity]</a>"
+head: expressly
+entry: 760 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5f619fd50"
+item: "#item-4a7cbe078"
 unparsed:
-line: 'Head: excess|Entry: 1169 [Extremity]|#item-5f619fd50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/840,3085,435,168/full/0/default.jpg
+line: 'Head: expressly|Entry: 760 [PAGE_MISSING]|#item-4a7cbe078'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1856,546,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360320914
-sort_value: '301923085'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561396029831
+sort_value: '301931856'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/840,3085,435,168/150,/0/default.jpg
-label: excess
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1856,546,158/150,/0/default.jpg
+label: expressly
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '152'
+order: '174'
 layout: index_item
 collection: index2
 ---

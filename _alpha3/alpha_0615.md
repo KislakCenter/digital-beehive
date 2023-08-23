@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0482/'>Inscription</a>|<a href='/digital-beehive/num1/num_0271/'>250
   [Embleme]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2601/'>motto</a>"
+index: "<a href='/digital-beehive/index3/index_2560/'>motto</a>"
 item: "#item-750c936c3"
 unparsed:
 line: 'Entry: Motto|Topic: Motto|Xref: Inscription|Xref: 250 [Embleme]|Index: motto|#item-750c936c3'

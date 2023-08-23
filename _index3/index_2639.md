@@ -2,29 +2,28 @@
 pid: index_2639
 volume: Volume 3
 image_number: '32'
-head: good name
-entry:
+head: Neptune
+entry: "<a href='/digital-beehive/num6/num_1975/'>1383 [Neptune]</a>"
 topic:
 first_letter: N
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3382/'>reputation</a>"
+see:
 index:
-item: "#item-b30107de1"
+item: "#item-fb48149db"
 unparsed:
-line: 'Head: good name|See: reputation|#item-b30107de1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/374,419,800,109/full/0/default.jpg
+line: 'Head: Neptune|Entry: 1383 [Neptune]|#item-fb48149db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1189,718,476,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560436649038
-sort_value: '303210419'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441308697
+sort_value: '303220718'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/374,419,800,109/150,/0/default.jpg
-label: good name
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1189,718,476,126/150,/0/default.jpg
+label: Neptune
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '721'
+order: '754'
 layout: index_item
 collection: index3
 ---

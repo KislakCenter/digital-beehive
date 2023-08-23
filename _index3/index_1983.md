@@ -2,29 +2,28 @@
 pid: index_1983
 volume: Volume 3
 image_number: '25'
-head: imprudence
-entry:
+head: Indian Corn
+entry: "<a href='/digital-beehive/num7/num_2626/'>1702 [Maiz]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2003/'>inconsid</a>"
+see:
 index:
-item: "#item-3868912b4"
+item: "#item-b71098526"
 unparsed:
-line: 'Head: imprudence|See: inconsid|#item-3868912b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/853,2861,666,170/full/0/default.jpg
+line: 'Head: Indian Corn|Entry: 1702 [Maiz]|#item-b71098526'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1513,3268,394,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668001235
-sort_value: '302522861'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672985712
+sort_value: '302533268'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/853,2861,666,170/150,/0/default.jpg
-label: imprudence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1513,3268,394,137/150,/0/default.jpg
+label: Indian Corn
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '065'
+order: '098'
 layout: index_item
 collection: index3
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_2398
 volume: Volume 3
-image_number: '29'
-head: malevolence
-entry:
+image_number: '30'
+head: Mary
+entry: "<a href='/digital-beehive/num4/num_1142/'>887 [Mary]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1767/'>hatred</a>"
+see:
 index:
-item: "#item-a34031ccd"
+item: "#item-8f62b4742"
 unparsed:
-line: 'Head: malevolence|See: hatred|#item-a34031ccd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1553,999,639,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194158091
-sort_value: '302930999'
+line: 'Head: Mary|Entry: 887 [Mary]|#item-8f62b4742'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/418,1204,345,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263600885
+sort_value: '303011204'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1553,999,639,154/150,/0/default.jpg
-label: malevolence
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/418,1204,345,105/150,/0/default.jpg
+label: Mary
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '480'
+order: '513'
 layout: index_item
 collection: index3
 ---

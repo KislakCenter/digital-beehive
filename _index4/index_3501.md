@@ -1,9 +1,9 @@
 ---
 pid: index_3501
 volume: Volume 3
-image_number: '40'
-head: sale
-entry: "<a href='/digital-beehive/num3/num_1045/'>714 [Market]</a>"
+image_number: '41'
+head: Scots
+entry: "<a href='/digital-beehive/num6/num_1968/'>1379 [Scots]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ea7f66eff"
+item: "#item-a7b6e32cc"
 unparsed:
-line: 'Head: sale|Entry: 714 [Market]|#item-ea7f66eff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1827,3438,350,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235448764
-sort_value: '304033438'
+line: 'Head: Scots|Entry: 1379 [Scots]|#item-a7b6e32cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/893,2305,400,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240968133
+sort_value: '304122305'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1827,3438,350,112/150,/0/default.jpg
-label: sale
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/893,2305,400,118/150,/0/default.jpg
+label: Scots
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0749'
+order: '0793'
 layout: index_item
 collection: index4
 ---

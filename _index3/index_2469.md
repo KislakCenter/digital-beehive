@@ -2,9 +2,8 @@
 pid: index_2469
 volume: Volume 3
 image_number: '30'
-head: meditation
-entry: "<a href='/digital-beehive/alpha3/alpha_0585/'>a</a>|<a href='/digital-beehive/num4/num_1090/'>868
-  [Meditation]</a>|4602 [PAGE_MISSING]"
+head: midwife
+entry: "<a href='/digital-beehive/num3/num_0787/'>600 [Midwifery]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a553073b1"
+item: "#item-e9b69a22f"
 unparsed:
-line: 'Head: meditation|Entry: a|Entry: 868 [Meditation]|Entry: 4602 [PAGE_MISSING]|#item-a553073b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1098,482,784,107/full/0/default.jpg
+line: 'Head: midwife|Entry: 600 [Midwifery]|#item-e9b69a22f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,1344,470,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267714014
-sort_value: '303020482'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273852381
+sort_value: '303031344'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1098,482,784,107/150,/0/default.jpg
-label: meditation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,1344,470,138/150,/0/default.jpg
+label: midwife
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '551'
+order: '584'
 layout: index_item
 collection: index3
 ---

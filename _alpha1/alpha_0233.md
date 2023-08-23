@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0712/'>Piety</a>|<a href='/digital
   href='/digital-beehive/num2/num_0611/'>489 [Turn in!]</a>|<a href='/digital-beehive/num9/num_3167/'>2223
   [Devotion]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1036/'>devotion</a>"
+index: "<a href='/digital-beehive/index1/index_1017/'>devotion</a>"
 item: "#item-19bd7db90"
 unparsed:
 line: 'Entry: Devotion|Topic: Devotion|Xref: Piety|Xref: Zeal|Xref: 489 [Turn in!]|Xref:

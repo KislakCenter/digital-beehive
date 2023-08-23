@@ -1,30 +1,30 @@
 ---
 pid: index_2100
 volume: Volume 3
-image_number: '26'
-head: Job
-entry: "<a href='/digital-beehive/num7/num_2226/'>1507 [Job]</a>"
+image_number: '27'
+head: judgmt of God
+entry: "<a href='/digital-beehive/alpha3/alpha_0498/'>a</a>|<a href='/digital-beehive/num7/num_2670/'>1742
+  [Judgmt of God]</a>"
 topic:
 first_letter: I/J
 page:
-add:
+add: last day
 xref:
 see:
 index:
-item: "#item-5683d9ce6"
+item: "#item-b35bec0d7"
 unparsed:
-line: 'Head: Job|Entry: 1507 [Job]|#item-5683d9ce6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1825,1969,335,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751954938
-sort_value: '302631969'
+line: 'Head: judgmt of God|Entry: a|Entry: 1742 [Judgmt of God]|Add: last day|#item-b35bec0d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/143,1909,595,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758255820
+sort_value: '302711909'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1825,1969,335,136/150,/0/default.jpg
-label: Job
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/143,1909,595,173/150,/0/default.jpg
+label: judgmt of God
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '182'
+order: '215'
 layout: index_item
 collection: index3
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0890/'>Sleep</a>|<a href='/digital-beehive/num3/num_0656/'>523
   [Bed]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0329/'>bed</a>"
+index: "<a href='/digital-beehive/index1/index_0321/'>bed</a>"
 item: "#item-384c11b92"
 unparsed:
 line: 'Entry: Bed|Topic: Bed|Xref: Sleep|Xref: 523 [Bed]|Index: bed|#item-384c11b92'

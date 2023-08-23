@@ -1,30 +1,29 @@
 ---
 pid: index_1357
 volume: Volume 3
-image_number: '19'
-head: expressly
-entry: 760 [PAGE_MISSING]
+image_number: '20'
+head: fairs
+entry: "<a href='/digital-beehive/num5/num_1407/'>1050 [Fairs]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4a7cbe078"
+item: "#item-8cc9a993d"
 unparsed:
-line: 'Head: expressly|Entry: 760 [PAGE_MISSING]|#item-4a7cbe078'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1856,546,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396029831
-sort_value: '301931856'
+line: 'Head: fairs|Entry: 1050 [Fairs]|#item-8cc9a993d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/373,905,408,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561400241760
+sort_value: '302010905'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1856,546,158/150,/0/default.jpg
-label: expressly
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/373,905,408,121/150,/0/default.jpg
+label: fairs
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '176'
+order: '198'
 layout: index_item
 collection: index2
 ---

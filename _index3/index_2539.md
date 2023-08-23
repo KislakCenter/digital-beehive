@@ -2,9 +2,8 @@
 pid: index_2539
 volume: Volume 3
 image_number: '31'
-head: misfortune
-entry: "<a href='/digital-beehive/alpha3/alpha_0601/'>a</a>|<a href='/digital-beehive/num7/num_2639/'>1714
-  [Misfortune]</a>"
+head: more
+entry: "<a href='/digital-beehive/num3/num_0808/'>609 [More]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-688743da9"
+item: "#item-b832f68fd"
 unparsed:
-line: 'Head: misfortune|Entry: a|Entry: 1714 [Misfortune]|#item-688743da9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,837,620,111/full/0/default.jpg
+line: 'Head: more|Entry: 609 [More]|#item-b832f68fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/874,1774,303,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351130669
-sort_value: '303110837'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565796112779
+sort_value: '303121774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,837,620,111/150,/0/default.jpg
-label: misfortune
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/874,1774,303,109/150,/0/default.jpg
+label: more
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '621'
+order: '654'
 layout: index_item
 collection: index3
 ---

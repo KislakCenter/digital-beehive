@@ -1,9 +1,9 @@
 ---
 pid: index_4362
 volume: Volume 3
-image_number: '50'
-head: uncharitableness
-entry: "<a href='/digital-beehive/num1/num_0100/'>97 [Uncharitable]</a>"
+image_number: '51'
+head: voracity
+entry: "<a href='/digital-beehive/num3/num_0946/'>677 [Voracity]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-00a6f1098"
+item: "#item-681900b02"
 unparsed:
-line: 'Head: uncharitableness|Entry: 97 [Uncharitable]|#item-00a6f1098'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/452,1764,667,157/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872616116
-sort_value: '305011764'
+line: 'Head: voracity|Entry: 677 [Voracity]|#item-681900b02'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/210,3341,500,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646073663
+sort_value: '305113341'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/452,1764,667,157/150,/0/default.jpg
-label: uncharitableness
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/210,3341,500,170/150,/0/default.jpg
+label: voracity
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '324'
+order: '385'
 layout: index_item
 collection: index5
 ---

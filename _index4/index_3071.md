@@ -2,9 +2,10 @@
 pid: index_3071
 volume: Volume 3
 image_number: '36'
-head: pope
-entry: "<a href='/digital-beehive/alpha4/alpha_0722/'>a</a>|<a href='/digital-beehive/num4/num_1167/'>898
-  [Pope]</a>|<a href='/digital-beehive/num6/num_2156/'>1467 [Pope]</a>|1860 [PAGE_MISSING]"
+head: preface
+entry: "<a href='/digital-beehive/num3/num_0837/'>621 [prefatory]</a>|<a href='/digital-beehive/num2/num_0436/'>366
+  [Preface]</a>|<a href='/digital-beehive/num7/num_2324/'>1558 [Preface]</a>|4600
+  [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -12,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-f73ae65e4"
+item: "#item-905b93405"
 unparsed:
-line: 'Head: pope|Entry: a|Entry: 898 [Pope]|Entry: 1467 [Pope]|Entry: 1860 [PAGE_MISSING]|#item-f73ae65e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1190,498,753,167/full/0/default.jpg
+line: 'Head: preface|Entry: 621 [prefatory]|Entry: 366 [Preface]|Entry: 1558 [Preface]|Entry:
+  4600 [PAGE_MISSING]|#item-905b93405'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1862,2140,707,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438306739
-sort_value: '303620498'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440602314
+sort_value: '303632140'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1190,498,753,167/150,/0/default.jpg
-label: pope
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1862,2140,707,163/150,/0/default.jpg
+label: preface
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0319'
+order: '0363'
 layout: index_item
 collection: index4
 ---

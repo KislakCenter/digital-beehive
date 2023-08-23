@@ -2,29 +2,27 @@
 pid: index_0490
 volume: Volume 3
 image_number: '11'
-head: business
-entry: "<a href='/digital-beehive/alpha1/alpha_0111/'>a</a>|<a href='/digital-beehive/num5/num_1608/'>1179
-  [Business]</a>"
+head: by little
+entry:
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_1973/'>Increase</a>"
 index:
-item: "#item-7729bdf1d"
+item: "#item-da10710b7"
 unparsed:
-line: 'Head: business|Entry: a|Entry: 1179 [Business]|#item-7729bdf1d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/894,2156,508,135/full/0/default.jpg
+line: 'Head: by little|See: Increase|#item-da10710b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/867,3156,759,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421770470
-sort_value: '301122156'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493620384
+sort_value: '301123156'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/894,2156,508,135/150,/0/default.jpg
-label: business
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/867,3156,759,154/150,/0/default.jpg
+label: by little
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0489'
 layout: index_item
 collection: index1

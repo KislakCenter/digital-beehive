@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3403/'>book of revelations</a>"
+index: "<a href='/digital-beehive/index4/index_3351/'>book of revelations</a>"
 item: "#item-03ec4de3c"
 unparsed:
 line: 'Entry: Book of Revelations|Topic: Book of Revelations|Index: book of revelations|#item-03ec4de3c'

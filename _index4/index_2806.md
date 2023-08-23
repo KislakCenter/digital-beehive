@@ -1,10 +1,9 @@
 ---
 pid: index_2806
 volume: Volume 3
-image_number: '33'
-head: opinion
-entry: "<a href='/digital-beehive/alpha4/alpha_0668/'>a</a>|<a href='/digital-beehive/num5/num_1377/'>1029
-  [Opinion]</a>"
+image_number: '34'
+head: ox
+entry: "<a href='/digital-beehive/alpha4/alpha_0676/'>a</a>"
 topic:
 first_letter: O
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5c930db8c"
+item: "#item-02b868b32"
 unparsed:
-line: 'Head: opinion|Entry: a|Entry: 1029 [Opinion]|#item-5c930db8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1516,630,620,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161354330
-sort_value: '303330630'
+line: 'Head: ox|Entry: a|#item-02b868b32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/472,2184,305,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425715650
+sort_value: '303412184'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1516,630,620,151/150,/0/default.jpg
-label: opinion
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/472,2184,305,111/150,/0/default.jpg
+label: ox
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0054'
+order: '0098'
 layout: index_item
 collection: index4
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_3210
 volume: Volume 3
-image_number: '37'
-head: proverbs
-entry: "<a href='/digital-beehive/alpha4/alpha_0758/'>a</a>"
+image_number: '38'
+head: quickly
+entry: 843 [PAGE_MISSING]
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9bc442e05"
+item: "#item-37d142e04"
 unparsed:
-line: 'Head: proverbs|Entry: a|#item-9bc442e05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1469,2392,458,78/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869560488
-sort_value: '303732392'
+line: 'Head: quickly|Entry: 843 [PAGE_MISSING]|#item-37d142e04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1163,855,429,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455124959
+sort_value: '303820855'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1469,2392,458,78/150,/0/default.jpg
-label: proverbs
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1163,855,429,144/150,/0/default.jpg
+label: quickly
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0458'
+order: '0502'
 layout: index_item
 collection: index4
 ---

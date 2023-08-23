@@ -14,7 +14,7 @@ xref: "<a href='/digital-beehive/alpha5/alpha_0990/'>Tyran[n]y</a>|<a href='/dig
   [Cruelty used against Quakers]</a>|<a href='/digital-beehive/num3/num_0646/'>514
   [Cruelty]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0918/'>cruelty</a>"
+index: "<a href='/digital-beehive/index1/index_0901/'>cruelty</a>"
 item: "#item-437531419"
 unparsed:
 line: 'Entry: Cruelty|Topic: Cruelty|Xref: Tyran[n]y|Xref: Severity|Xref: 197 [Oppression]|Index:

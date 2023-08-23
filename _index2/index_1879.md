@@ -2,8 +2,8 @@
 pid: index_1879
 volume: Volume 3
 image_number: '24'
-head: hospital at Glaucha
-entry: "<a href='/digital-beehive/num6/num_2043/'>1415 [Hospital]</a>"
+head: husk
+entry: "<a href='/digital-beehive/alpha2/alpha_0446/'>a</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-71136cd03"
+item: "#item-836824bec"
 unparsed:
-line: 'Head: hospital at Glaucha|Entry: 1415 [Hospital]|#item-71136cd03'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1129,3408,583,138/full/0/default.jpg
+line: 'Head: husk|Entry: a|#item-836824bec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1846,2961,358,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584645764
-sort_value: '302423408'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588719405
+sort_value: '302432961'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1129,3408,583,138/150,/0/default.jpg
-label: hospital at Glaucha
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1846,2961,358,132/150,/0/default.jpg
+label: husk
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '698'
+order: '720'
 layout: index_item
 collection: index2
 ---

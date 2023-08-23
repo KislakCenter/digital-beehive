@@ -2,8 +2,9 @@
 pid: index_0218
 volume: Volume 3
 image_number: '8'
-head: as if
-entry: "<a href='/digital-beehive/num8/num_2705/'>1773 [Lord's Supper]</a>"
+head: ass
+entry: "<a href='/digital-beehive/alpha1/alpha_0047/'>a</a>|<a href='/digital-beehive/num7/num_2553/'>1665
+  [Ass]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-851f883ef"
+item: "#item-e4adcec0d"
 unparsed:
-line: 'Head: as if|Entry: 1773 [Lord''s Supper]|#item-851f883ef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,1892,356,119/full/0/default.jpg
+line: 'Head: ass|Entry: a|Entry: 1665 [Ass]|#item-e4adcec0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1783,2446,421,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631600159
-sort_value: '300831892'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631779873
+sort_value: '300832446'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1787,1892,356,119/150,/0/default.jpg
-label: as if
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1783,2446,421,162/150,/0/default.jpg
+label: ass
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0217'
 layout: index_item
 collection: index1

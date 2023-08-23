@@ -1,9 +1,10 @@
 ---
 pid: index_3098
 volume: Volume 3
-image_number: '36'
-head: to pound
-entry: "<a href='/digital-beehive/num7/num_2671/'>1743 [Pounded]</a>"
+image_number: '37'
+head: prevention
+entry: "<a href='/digital-beehive/alpha4/alpha_0734/'>a</a>|<a href='/digital-beehive/num5/num_1518/'>1122
+  [Preventing]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-58086646b"
+item: "#item-430f88fb1"
 unparsed:
-line: 'Head: to pound|Entry: 1743 [Pounded]|#item-58086646b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1133,3308,596,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439255145
-sort_value: '303623308'
+line: 'Head: prevention|Entry: a|Entry: 1122 [Preventing]|#item-430f88fb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/79,1930,680,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866639049
+sort_value: '303711930'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1133,3308,596,169/150,/0/default.jpg
-label: to pound
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/79,1930,680,149/150,/0/default.jpg
+label: prevention
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0346'
+order: '0390'
 layout: index_item
 collection: index4
 ---

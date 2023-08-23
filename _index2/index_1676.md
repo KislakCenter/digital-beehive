@@ -1,9 +1,10 @@
 ---
 pid: index_1676
 volume: Volume 3
-image_number: '22'
-head: governess. hofmeisterin
-entry: "<a href='/digital-beehive/num6/num_2065/'>1424 [Governess]</a>"
+image_number: '23'
+head: great men
+entry: "<a href='/digital-beehive/num6/num_1826/'>1305 [Great men]</a>|<a href='/digital-beehive/num9/num_2999/'>2064
+  [Persons of quality]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f6b21d53a"
+item: "#item-c17f628e5"
 unparsed:
-line: 'Head: governess. hofmeisterin|Entry: 1424 [Governess]|#item-f6b21d53a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1835,1011,711,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052444983
-sort_value: '302231011'
+line: 'Head: great men|Entry: 1305 [Great men]|Entry: 2064 [Persons of quality]|#item-c17f628e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/146,817,588,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230084999
+sort_value: '302310817'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1835,1011,711,141/150,/0/default.jpg
-label: governess. hofmeisterin
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/146,817,588,95/150,/0/default.jpg
+label: great men
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '495'
+order: '517'
 layout: index_item
 collection: index2
 ---

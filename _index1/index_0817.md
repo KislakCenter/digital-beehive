@@ -2,8 +2,8 @@
 pid: index_0817
 volume: Volume 3
 image_number: '14'
-head: contagious
-entry: "<a href='/digital-beehive/num6/num_1869/'>1330 [To infect]</a>"
+head: contrition
+entry: "<a href='/digital-beehive/num7/num_2607/'>1692 [Contrition]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-61524e9aa"
+item: "#item-a3d849d58"
 unparsed:
-line: 'Head: contagious|Entry: 1330 [To infect]|#item-61524e9aa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1126,3060,537,99/full/0/default.jpg
+line: 'Head: contrition|Entry: 1692 [Contrition]|#item-a3d849d58'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1838,1359,580,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542155380
-sort_value: '301423060'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559468363
+sort_value: '301431359'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1126,3060,537,99/150,/0/default.jpg
-label: contagious
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1838,1359,580,99/150,/0/default.jpg
+label: contrition
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0816'
 layout: index_item
 collection: index1

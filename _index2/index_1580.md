@@ -1,32 +1,29 @@
 ---
 pid: index_1580
 volume: Volume 3
-image_number: '21'
-head: garden
-entry: "<a href='/digital-beehive/alpha2/alpha_0358/'>a</a>|1890 [PAGE_MISSING]"
+image_number: '22'
+head: gibberish
+entry: "<a href='/digital-beehive/num2/num_0426/'>360 [Canting]</a>"
 topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>|<a href='/digital-beehive/toc/toc1_087/'>p.37
-  [Image 1.97]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-91f06e853"
+item: "#item-01ed5789c"
 unparsed:
-line: 'Head: garden|Page: p.8 [Image 1.68]|Page: p.37 [Image 1.97]|Entry: a|Entry:
-  1890 [PAGE_MISSING]|#item-91f06e853'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1541,2538,813,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787168724
-sort_value: '302132538'
+line: 'Head: gibberish|Entry: 360 [Canting]|#item-01ed5789c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/412,1821,396,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043079548
+sort_value: '302211821'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1541,2538,813,135/150,/0/default.jpg
-label: garden
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/412,1821,396,119/150,/0/default.jpg
+label: gibberish
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '399'
+order: '421'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,27 @@
 pid: index_0684
 volume: Volume 3
 image_number: '13'
-head: clay
-entry: "<a href='/digital-beehive/num6/num_2005/'>1396 [Clay]</a>"
+head: cloister
+entry: "<a href='/digital-beehive/num2/num_0481/'>395 [Cloister]</a>"
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-5df1b65ec"
+item: "#item-f9a72e603"
 unparsed:
-line: 'Head: clay|Entry: 1396 [Clay]|#item-5df1b65ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/173,3289,347,146/full/0/default.jpg
+line: 'Head: cloister|Page: p.4 [Image 1.64]|Entry: 395 [Cloister]|#item-f9a72e603'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/861,1363,588,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536333610713
-sort_value: '301313289'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536606994276
+sort_value: '301321363'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/173,3289,347,146/150,/0/default.jpg
-label: clay
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/861,1363,588,154/150,/0/default.jpg
+label: cloister
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0683'
 layout: index_item
 collection: index1

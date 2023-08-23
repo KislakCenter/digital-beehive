@@ -1,30 +1,29 @@
 ---
 pid: index_1569
 volume: Volume 3
-image_number: '21'
-head: furies
-entry: 4666 [PAGE_MISSING]
+image_number: '22'
+head: Genoa
+entry: "<a href='/digital-beehive/num6/num_1807/'>1294 [Genoa]</a>"
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-eba0ae7e8"
+item: "#item-1182a7a16"
 unparsed:
-line: 'Head: furies|Entry: 4666 [PAGE_MISSING]|#item-eba0ae7e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1531,1597,512,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786299768
-sort_value: '302131597'
+line: 'Head: Genoa|Entry: 1294 [Genoa]|#item-1182a7a16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/414,641,419,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042243389
+sort_value: '302210641'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1531,1597,512,100/150,/0/default.jpg
-label: furies
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/414,641,419,149/150,/0/default.jpg
+label: Genoa
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '388'
+order: '410'
 layout: index_item
 collection: index2
 ---

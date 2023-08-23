@@ -1,9 +1,9 @@
 ---
 pid: index_3005
 volume: Volume 3
-image_number: '35'
-head: "[:23.]"
-entry:
+image_number: '36'
+head: pocketbook
+entry: a
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-af87e25ee"
-unparsed: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
-line: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2032,965,265,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277247869
-sort_value: '303530965'
+item: "#item-dea6dacb6"
+unparsed:
+line: 'Head: pocketbook|Entry: a|#item-dea6dacb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/437,1980,443,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208139567
+sort_value: '303611980'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2032,965,265,126/150,/0/default.jpg
-label: "[:23.]"
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4688/'>pike, Hecht</a>"
-order: '0253'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/437,1980,443,170/150,/0/default.jpg
+label: pocketbook
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+issue: Pastorius lists "a" but no alphabetical entry can be identified.
+order: '0297'
 layout: index_item
 collection: index4
 ---

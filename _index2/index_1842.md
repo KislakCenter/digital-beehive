@@ -2,30 +2,28 @@
 pid: index_1842
 volume: Volume 3
 image_number: '24'
-head: hireling
-entry: "<a href='/digital-beehive/alpha2/alpha_0425/'>a</a>|<a href='/digital-beehive/num6/num_1783/'>1282
-  [Hirelings]</a>|<a href='/digital-beehive/num10/num_3388/'>2414 [Hirelings]</a>"
+head: horse leech
+entry:
 topic:
 first_letter: H
-page:
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-eb0cf7036"
+item: "#item-8d074f5a6"
 unparsed:
-line: 'Head: hireling|Entry: a|Entry: 1282 [Hirelings]|Entry: 2414 [Hirelings]|#item-eb0cf7036'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/418,3259,733,171/full/0/default.jpg
+line: 'Head: horse leech|Page: p.37 [Image 1.97]|#item-8d074f5a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1135,3026,443,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559579723005
-sort_value: '302413259'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584067674
+sort_value: '302423026'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/418,3259,733,171/150,/0/default.jpg
-label: hireling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1135,3026,443,137/150,/0/default.jpg
+label: horse leech
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '661'
+order: '683'
 layout: index_item
 collection: index2
 ---

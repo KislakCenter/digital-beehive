@@ -1,30 +1,29 @@
 ---
 pid: index_3456
 volume: Volume 3
-image_number: '40'
-head: to rot
-entry: "<a href='/digital-beehive/num4/num_1083/'>866 [To Rot]</a>"
+image_number: '41'
+head: salvo honore
+entry: "<a href='/digital-beehive/num6/num_2103/'>1441 [With permission]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-f82a9baf0"
+item: "#item-7dd8a2e14"
 unparsed:
-line: 'Head: to rot|Entry: 866 [To Rot]|#item-f82a9baf0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,2018,388,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233730787
-sort_value: '304022018'
+line: 'Head: salvo honore|Entry: 1441 [With permission]|#item-7dd8a2e14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,922,585,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238456314
+sort_value: '304110922'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1162,2018,388,119/150,/0/default.jpg
-label: to rot
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,922,585,136/150,/0/default.jpg
+label: salvo honore
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0704'
+order: '0748'
 layout: index_item
 collection: index4
 ---

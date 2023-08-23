@@ -1,30 +1,28 @@
 ---
 pid: index_1068
 volume: Volume 3
-image_number: '16'
-head: discord
-entry: "<a href='/digital-beehive/alpha1/alpha_0243/'>a</a>|840 [PAGE_MISSING]|1854
-  [PAGE_MISSING]"
+image_number: '17'
+head: disown
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0990/'>denial</a>|<a href='/digital-beehive/index2/index_1312/'>excom[m]unication</a>"
 index:
-item: "#item-cec050802"
+item: "#item-14dfbaf46"
 unparsed:
-line: 'Head: discord|Entry: a|Entry: 840 [PAGE_MISSING]|Entry: 1854 [PAGE_MISSING]|#item-cec050802'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1808,3559,636,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784533878
-sort_value: '301633559'
+line: 'Head: disown|See: denial|See: excom[m]unication|#item-14dfbaf46'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/145,2171,623,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804305331
+sort_value: '301712171'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1808,3559,636,124/150,/0/default.jpg
-label: discord
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/145,2171,623,169/150,/0/default.jpg
+label: disown
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1067'
 layout: index_item
 collection: index1

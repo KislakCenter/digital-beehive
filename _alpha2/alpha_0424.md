@@ -8,14 +8,12 @@ topic: Hindrance
 first_letter: H
 page:
 add:
-xref: "<a href='/digital-beehive/num3/num_0737/'>576 [Hinderance]</a>|<a href='/digital-beehive/num2/num_0586/'>470
-  [Disappointmt]</a>"
+xref: "<a href='/digital-beehive/num3/num_0737/'>576 [Hinderance]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1838/'>hinderance</a>"
+index: "<a href='/digital-beehive/index2/index_1806/'>hinderance</a>"
 item: "#item-526731c25"
 unparsed:
-line: 'Entry: Hindrance|Topic: Hindrance|Xref: 576 [Hinderance]|Xref: 470 [Disappointmt]|Index:
-  hinderance|#item-526731c25'
+line: 'Entry: Hindrance|Topic: Hindrance|Xref: 576 [Hinderance]|Index: hinderance|#item-526731c25'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/706,3720,3032,582/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564756957509
@@ -24,9 +22,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/706,3720,600,180/250,/0/default.jpg
 label: Hindrance
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-issue: The point of reference for "Disappoint" is not entirely clear. We linked to
-  470 [Disappointmt], which is the first relevant entry in the numerical section of
-  the Alvearium.
+issue: The point of reference for "Disappoint" is not entirely clear, as there is
+  no alphabetical entry for this term. The Octavo Index indicates that 470 [Disappointmt]
+  may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
 also_in_entry:
 order: '152'
 layout: alpha_item

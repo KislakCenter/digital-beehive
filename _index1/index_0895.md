@@ -2,28 +2,27 @@
 pid: index_0895
 volume: Volume 3
 image_number: '15'
-head: crane
-entry:
+head: crooked
+entry: 857 [PAGE_MISSING]
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-c699badc8"
+item: "#item-c57b2e01d"
 unparsed:
-line: 'Head: crane|Page: p.35 [Image 1.95]|#item-c699badc8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/154,3615,424,141/full/0/default.jpg
+line: 'Head: crooked|Entry: 857 [PAGE_MISSING]|#item-c57b2e01d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/853,1953,464,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537975348617
-sort_value: '301513615'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577611227
+sort_value: '301521953'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/154,3615,424,141/150,/0/default.jpg
-label: crane
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/853,1953,464,126/150,/0/default.jpg
+label: crooked
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0894'
 layout: index_item
 collection: index1

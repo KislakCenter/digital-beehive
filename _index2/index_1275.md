@@ -1,10 +1,9 @@
 ---
 pid: index_1275
 volume: Volume 3
-image_number: '18'
-head: to entreat
-entry: "<a href='/digital-beehive/num2/num_0390/'>336 [To pray]</a>|<a href='/digital-beehive/num3/num_0897/'>652
-  [Petition, Request]</a>"
+image_number: '19'
+head: escape
+entry: "<a href='/digital-beehive/num2/num_0306/'>271 [To escape]</a>"
 topic:
 first_letter: E
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3f6e5bbe1"
+item: "#item-6a0e79a64"
 unparsed:
-line: 'Head: to entreat|Entry: 336 [To pray]|Entry: 652 [Petition, Request]|#item-3f6e5bbe1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1838,3581,628,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837665653
-sort_value: '301833581'
+line: 'Head: escape|Entry: 271 [To escape]|#item-6a0e79a64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/122,2596,398,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277513044
+sort_value: '301912596'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1838,3581,628,113/150,/0/default.jpg
-label: to entreat
-location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/122,2596,398,148/150,/0/default.jpg
+label: escape
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '094'
+order: '116'
 layout: index_item
 collection: index2
 ---

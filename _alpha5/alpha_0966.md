@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0905/'>Speech</a>|<a href='/digita
   href='/digital-beehive/alpha1/alpha_0050/'>babling</a>|<a href='/digital-beehive/num5/num_1620/'>1186
   [Tongue]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4173/'>tongue</a>"
+index: "<a href='/digital-beehive/index5/index_4110/'>tongue</a>"
 item: "#item-89b60c12d"
 unparsed:
 line: 'Entry: Tongue|Topic: Tongue|Xref: Speech|Xref: language|Xref: babling|Xref:

@@ -1,9 +1,9 @@
 ---
 pid: index_3090
 volume: Volume 3
-image_number: '36'
-head: postil
-entry: "<a href='/digital-beehive/num6/num_2032/'>1409 [a Sermon]</a>"
+image_number: '37'
+head: presumption
+entry: "<a href='/digital-beehive/num1/num_0058/'>57 [Presumption]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-27d3bcfb2"
+item: "#item-65694ecca"
 unparsed:
-line: 'Head: postil|Entry: 1409 [a Sermon]|#item-27d3bcfb2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1142,2306,506,174/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438941117
-sort_value: '303622306'
+line: 'Head: presumption|Entry: 57 [Presumption]|#item-65694ecca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/83,993,572,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866178483
+sort_value: '303710993'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1142,2306,506,174/150,/0/default.jpg
-label: postil
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/83,993,572,116/150,/0/default.jpg
+label: presumption
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0338'
+order: '0382'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_2668
 volume: Volume 3
 image_number: '32'
-head: neat
-entry: "<a href='/digital-beehive/num1/num_0204/'>195 [Ornament]</a>"
+head: Nile
+entry: "<a href='/digital-beehive/num7/num_2362/'>1574 [Nile]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6e99e8bc4"
+item: "#item-911955e07"
 unparsed:
-line: 'Head: neat|Entry: 195 [Ornament]|#item-6e99e8bc4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/383,2799,299,113/full/0/default.jpg
+line: 'Head: Nile|Entry: 1574 [Nile]|#item-911955e07'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1137,3457,386,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438955237
-sort_value: '303212799'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560446330105
+sort_value: '303223457'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/383,2799,299,113/150,/0/default.jpg
-label: neat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1137,3457,386,119/150,/0/default.jpg
+label: Nile
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '750'
+order: '783'
 layout: index_item
 collection: index3
 ---

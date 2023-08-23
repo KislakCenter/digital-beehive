@@ -1,30 +1,29 @@
 ---
 pid: index_4254
 volume: Volume 3
-image_number: '48'
-head: trusting in men
-entry: "<a href='/digital-beehive/num6/num_2040/'>1413 [Trusting in Men]</a>"
+image_number: '49'
+head: to vex
+entry:
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2918/'>perplex</a>|<a href='/digital-beehive/index5/index_4182/'>trouble</a>"
 index:
-item: "#item-de1555682"
+item: "#item-994d33754"
 unparsed:
-line: 'Head: trusting in men|Entry: 1413 [Trusting in Men]|#item-de1555682'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1795,3387,529,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562090489161
-sort_value: '304833387'
+line: 'Head: to vex|See: perplex|See: trouble|#item-994d33754'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,371,740,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659561107
+sort_value: '304930371'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1795,3387,529,132/150,/0/default.jpg
-label: trusting in men
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1624,371,740,158/150,/0/default.jpg
+label: to vex
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '216'
+order: '277'
 layout: index_item
 collection: index5
 ---

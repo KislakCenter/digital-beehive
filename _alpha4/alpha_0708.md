@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0250/'>Divinity</a>|<a href='/digital-beehive/num2/num_0564/'>453
   [Philosophy]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3022/'>philosophy</a>"
+index: "<a href='/digital-beehive/index4/index_2973/'>philosophy</a>"
 item: "#item-f7e68601d"
 unparsed:
 line: 'Entry: Philosophy|Topic: Philosophy|Xref: Divinity|Xref: 453 [Philosophy]|Index:

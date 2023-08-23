@@ -14,7 +14,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0764/'>Punishment, continued</a>|<
   [Impunity]</a>|<a href='/digital-beehive/alpha1/alpha_0120/'>Capital Offence</a>|<a
   href='/digital-beehive/num5/num_1508/'>1113 [Punishmt]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3228/'>punishmt</a>"
+index: "<a href='/digital-beehive/index4/index_3178/'>punishmt</a>"
 item: "#item-79ffc5944"
 unparsed:
 line: 'Entry: Punishment|Topic: Punishment|Xref: Punishment, continued|Xref: Discipline|Xref:
@@ -28,7 +28,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/728,4385,600,180/250,/0/default.jpg
 label: Punishment
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
-issue: The entry continues onto the next page.
+issue: This entry continues this topic on the following page of the Alvearium as Punishment,
+  continued.
 also_in_entry:
 order: '111'
 layout: alpha_item

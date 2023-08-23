@@ -2,8 +2,8 @@
 pid: index_0379
 volume: Volume 3
 image_number: '10'
-head: bitter
-entry: 748 [PAGE_MISSING]
+head: blasphemy
+entry:
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-55059940e"
+item: "#item-7d67fd69b"
 unparsed:
-line: 'Head: bitter|Entry: 748 [PAGE_MISSING]|#item-55059940e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1081,1274,373,111/full/0/default.jpg
+line: 'Head: blasphemy|#item-7d67fd69b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2056,380,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531150304788
-sort_value: '301021274'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531150752768
+sort_value: '301022056'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1081,1274,373,111/150,/0/default.jpg
-label: bitter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2056,380,158/150,/0/default.jpg
+label: blasphemy
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0378'
 layout: index_item
 collection: index1

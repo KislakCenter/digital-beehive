@@ -2,29 +2,28 @@
 pid: index_2840
 volume: Volume 3
 image_number: '34'
-head: overmeasure
-entry: "<a href='/digital-beehive/num6/num_2127/'>1452 [An Over measure]</a>"
+head: paroxysm
+entry: "<a href='/digital-beehive/num9/num_3056/'>2118 [Fit or Paroxysm]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7990ad9cd"
+item: "#item-8717a59d6"
 unparsed:
-line: 'Head: overmeasure|Entry: 1452 [An Over measure]|#item-7990ad9cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/482,1142,676,103/full/0/default.jpg
+line: 'Head: paroxysm|Entry: 2118 [Fit or Paroxysm]|#item-8717a59d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1144,2204,580,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276838616
-sort_value: '303411142'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494352740
+sort_value: '303422204'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/482,1142,676,103/150,/0/default.jpg
-label: overmeasure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1144,2204,580,158/150,/0/default.jpg
+label: paroxysm
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0088'
+order: '0132'
 layout: index_item
 collection: index4
 ---

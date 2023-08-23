@@ -2,10 +2,8 @@
 pid: index_1645
 volume: Volume 3
 image_number: '22'
-head: God's help
-entry: "<a href='/digital-beehive/alpha2/alpha_0371/'>a</a>|<a href='/digital-beehive/num1/num_0167/'>160
-  [Gods help]</a>|<a href='/digital-beehive/num7/num_2620/'>1698 [God's help]</a>|<a
-  href='/digital-beehive/num10/num_3238/'>2277 [God's help]</a>"
+head: governess. hofmeisterin
+entry: "<a href='/digital-beehive/num6/num_2065/'>1424 [Governess]</a>"
 topic:
 first_letter: G
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-29dcade3d"
+item: "#item-f6b21d53a"
 unparsed:
-line: 'Head: God''s help|Entry: a|Entry: 160 [Gods help]|Entry: 1698 [God''s help]|Entry:
-  2277 [God''s help]|#item-29dcade3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1171,1969,704,98/full/0/default.jpg
+line: 'Head: governess. hofmeisterin|Entry: 1424 [Governess]|#item-f6b21d53a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1835,1011,711,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047519352
-sort_value: '302221969'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052444983
+sort_value: '302231011'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1171,1969,704,98/150,/0/default.jpg
-label: God's help
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1835,1011,711,141/150,/0/default.jpg
+label: governess. hofmeisterin
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '464'
+order: '486'
 layout: index_item
 collection: index2
 ---

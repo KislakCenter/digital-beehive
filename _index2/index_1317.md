@@ -2,8 +2,8 @@
 pid: index_1317
 volume: Volume 3
 image_number: '19'
-head: every
-entry: "<a href='/digital-beehive/num3/num_1076/'>724 [Each]</a>"
+head: executors
+entry: "<a href='/digital-beehive/num11/num_3529/'>4833 [Executors]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5d925b98b"
+item: "#item-cecce5fda"
 unparsed:
-line: 'Head: every|Entry: 724 [Each]|#item-5d925b98b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/858,1309,395,114/full/0/default.jpg
+line: 'Head: executors|Entry: 4833 [Executors]|#item-cecce5fda'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1580,377,530,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351485840
-sort_value: '301921309'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561041868924
+sort_value: '301930377'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/858,1309,395,114/150,/0/default.jpg
-label: every
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1580,377,530,84/150,/0/default.jpg
+label: executors
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '136'
+order: '158'
 layout: index_item
 collection: index2
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0153/'>Cloister</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2748/'>nun</a>"
+index: "<a href='/digital-beehive/index3/index_2704/'>nun</a>"
 item: "#item-fdb9a60d2"
 unparsed:
 line: 'Entry: Nun|Topic: Nun|Xref: Cloister|Index: nun|#item-fdb9a60d2'

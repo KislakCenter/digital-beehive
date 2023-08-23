@@ -1,10 +1,10 @@
 ---
 pid: index_3780
 volume: Volume 3
-image_number: '43'
-head: Sodom and Sodomy
-entry: "<a href='/digital-beehive/num2/num_0556/'>447 [Sodomy]</a>|<a href='/digital-beehive/num8/num_2720/'>1787
-  [Sodom & Sodomy]</a>"
+image_number: '44'
+head: spices
+entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>|<a href='/digital-beehive/num8/num_2855/'>1937
+  [Spices]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-23418998c"
+item: "#item-730c04aab"
 unparsed:
-line: 'Head: Sodom and Sodomy|Entry: 447 [Sodomy]|Entry: 1787 [Sodom & Sodomy]|#item-23418998c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1567,2332,640,191/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586307905
-sort_value: '304332332'
+line: 'Head: spices|Entry: a|Entry: 1937 [Spices]|#item-730c04aab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1118,2272,476,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942166942
+sort_value: '304422272'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1567,2332,640,191/150,/0/default.jpg
-label: Sodom and Sodomy
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1118,2272,476,112/150,/0/default.jpg
+label: spices
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1028'
+order: '1072'
 layout: index_item
 collection: index4
 ---

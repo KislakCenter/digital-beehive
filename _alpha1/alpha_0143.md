@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1075/'>Youth</a>|1865 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0633/'>childhood</a>"
+index: "<a href='/digital-beehive/index1/index_0620/'>childhood</a>"
 item: "#item-f2856bbe4"
 unparsed:
 line: 'Entry: Childhood|Topic: Childhood|Xref: Youth|Xref: 1865 [PAGE_MISSING]|Index:

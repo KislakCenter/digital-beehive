@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1714/'>1241 [Gout]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1679/'>gout</a>"
+index: "<a href='/digital-beehive/index2/index_1648/'>gout</a>"
 item: "#item-d2563939d"
 unparsed:
 line: 'Entry: Gout|Topic: Gout|Xref: 1241 [Gout]|Index: gout|#item-d2563939d'

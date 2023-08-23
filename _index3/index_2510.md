@@ -1,30 +1,29 @@
 ---
 pid: index_2510
 volume: Volume 3
-image_number: '30'
-head: midwife
-entry: "<a href='/digital-beehive/num3/num_0787/'>600 [Midwifery]</a>"
+image_number: '31'
+head: mock
+entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3498/'>scorn</a>"
 index:
-item: "#item-e9b69a22f"
+item: "#item-8ffe8d422"
 unparsed:
-line: 'Head: midwife|Entry: 600 [Midwifery]|#item-e9b69a22f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,1344,470,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273852381
-sort_value: '303031344'
+line: 'Head: mock|See: scorn|#item-8ffe8d422'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/168,2198,475,159/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352283535
+sort_value: '303112198'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,1344,470,138/150,/0/default.jpg
-label: midwife
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/168,2198,475,159/150,/0/default.jpg
+label: mock
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '592'
+order: '625'
 layout: index_item
 collection: index3
 ---

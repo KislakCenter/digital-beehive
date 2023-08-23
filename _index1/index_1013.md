@@ -2,8 +2,8 @@
 pid: index_1013
 volume: Volume 3
 image_number: '16'
-head: deprecation
-entry: "<a href='/digital-beehive/alpha1/alpha_0229/'>a</a>"
+head: devastation
+entry: 1880 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-4572b819a"
+item: "#item-574b8966c"
 unparsed:
-line: 'Head: deprecation|Entry: a|#item-4572b819a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1101,1244,563,107/full/0/default.jpg
+line: 'Head: devastation|Entry: 1880 [PAGE_MISSING]|#item-574b8966c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1096,3509,567,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507922515309
-sort_value: '301621244'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605327922
+sort_value: '301623509'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1101,1244,563,107/150,/0/default.jpg
-label: deprecation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1096,3509,567,84/150,/0/default.jpg
+label: devastation
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1012'
 layout: index_item
 collection: index1

@@ -1,31 +1,29 @@
 ---
 pid: index_3396
 volume: Volume 3
-image_number: '39'
-head: retaliation
-entry: "<a href='/digital-beehive/num1/num_0156/'>150 [Retaliation]</a>|<a href='/digital-beehive/num4/num_1138/'>886
-  [Retaliation]</a>"
+image_number: '40'
+head: rope
+entry: "<a href='/digital-beehive/num2/num_0407/'>348 [A rope]</a>"
 topic:
 first_letter: R
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-cd90bc6fe"
+item: "#item-8d84b6ab3"
 unparsed:
-line: 'Head: retaliation|Entry: 150 [Retaliation]|Entry: 886 [Retaliation]|#item-cd90bc6fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1516,2152,670,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230026170
-sort_value: '303932152'
+line: 'Head: rope|Page: p.38 [Image 1.98]|Entry: 348 [A rope]|#item-8d84b6ab3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1172,1463,454,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233486935
+sort_value: '304021463'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1516,2152,670,147/150,/0/default.jpg
-label: retaliation
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1172,1463,454,111/150,/0/default.jpg
+label: rope
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0644'
+order: '0688'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_2358
 volume: Volume 3
 image_number: '29'
-head: lowse
-entry: "<a href='/digital-beehive/alpha3/alpha_0565/'>a</a>"
+head: malefactor
+entry:
 topic:
-first_letter: L
-page:
+first_letter: M
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-65901c0a8"
+item: "#item-ab8964f08"
 unparsed:
-line: 'Head: lowse|Entry: a|#item-65901c0a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,3260,270,116/full/0/default.jpg
+line: 'Head: malefactor|Page: p.42 [Image 1.102]|#item-ab8964f08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,890,510,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180577096
-sort_value: '302913260'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194113695
+sort_value: '302930890'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/178,3260,270,116/150,/0/default.jpg
-label: lowse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,890,510,142/150,/0/default.jpg
+label: malefactor
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '440'
+order: '473'
 layout: index_item
 collection: index3
 ---

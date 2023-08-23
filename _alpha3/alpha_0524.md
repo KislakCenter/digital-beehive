@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0523/'>Law</a>|<a href='/digital-beehive/alpha4/alpha_0813/'>Right</a>|<a
   href='/digital-beehive/alpha5/alpha_0951/'>Old Testamt</a>|786 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2222/'>Law</a>"
+index: "<a href='/digital-beehive/index3/index_2186/'>Law</a>"
 item: "#item-28853d36d"
 unparsed:
 line: 'Entry: Law, continued|Topic: Law, continued|Xref: Law|Xref: Right|Xref: Old

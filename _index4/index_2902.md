@@ -1,9 +1,10 @@
 ---
 pid: index_2902
 volume: Volume 3
-image_number: '34'
-head: partridge
-entry: "<a href='/digital-beehive/num7/num_2432/'>1611 [Partridges]</a>"
+image_number: '35'
+head: Pen[n]silvania
+entry: "<a href='/digital-beehive/num6/num_2013/'>1399 [Pen[n]silvania]</a>|<a href='/digital-beehive/num6/num_2014/'>1399
+  [Pen[n]silvania, continued]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-3db62a19e"
+item: "#item-c75112755"
 unparsed:
-line: 'Head: partridge|Entry: 1611 [Partridges]|#item-3db62a19e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1081,3389,635,186/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494819568
-sort_value: '303423389'
+line: 'Head: Pen[n]silvania|Entry: 1399 [Pen[n]silvania]|Entry: 1399 [Pen[n]silvania,
+  continued]|#item-c75112755'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/105,1680,655,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972658171
+sort_value: '303511680'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1081,3389,635,186/150,/0/default.jpg
-label: partridge
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/105,1680,655,158/150,/0/default.jpg
+label: Pen[n]silvania
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0150'
+order: '0194'
 layout: index_item
 collection: index4
 ---

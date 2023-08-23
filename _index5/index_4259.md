@@ -2,31 +2,28 @@
 pid: index_4259
 volume: Volume 3
 image_number: '49'
-head: try all things
-entry: "<a href='/digital-beehive/num1/num_0047/'>47 [Try & Prove all things]</a>|<a
-  href='/digital-beehive/num4/num_1186/'>908 [Try all things]</a>"
+head: vigilance
+entry: 4655 [PAGE_MISSING]
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3161/'>providence</a>"
 index:
-item: "#item-4a38fbe2a"
+item: "#item-c8efae733"
 unparsed:
-line: 'Head: try all things|Entry: 47 [Try & Prove all things]|Entry: 908 [Try all
-  things]|#item-4a38fbe2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,665,657,147/full/0/default.jpg
+line: 'Head: vigilance|See: providence|Entry: 4655 [PAGE_MISSING]|#item-c8efae733'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1631,1006,714,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655359846
-sort_value: '304910665'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659992552
+sort_value: '304931006'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,665,657,147/150,/0/default.jpg
-label: try all things
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1631,1006,714,127/150,/0/default.jpg
+label: vigilance
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '221'
+order: '282'
 layout: index_item
 collection: index5
 ---

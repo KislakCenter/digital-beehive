@@ -1,10 +1,10 @@
 ---
 pid: index_2497
 volume: Volume 3
-image_number: '30'
-head: metal
-entry: "<a href='/digital-beehive/alpha3/alpha_0592/'>a</a>|<a href='/digital-beehive/num5/num_1587/'>1164
-  [Metal]</a>"
+image_number: '31'
+head: misery
+entry: "<a href='/digital-beehive/alpha3/alpha_0600/'>a</a>|<a href='/digital-beehive/num6/num_1949/'>1370
+  [Misery]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-23e8695a7"
+item: "#item-f2929cbce"
 unparsed:
-line: 'Head: metal|Entry: a|Entry: 1164 [Metal]|#item-23e8695a7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1836,203,510,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273111054
-sort_value: '303030203'
+line: 'Head: misery|Entry: a|Entry: 1370 [Misery]|#item-f2929cbce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/187,728,498,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351026717
+sort_value: '303110728'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1836,203,510,98/150,/0/default.jpg
-label: metal
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/187,728,498,145/150,/0/default.jpg
+label: misery
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '579'
+order: '612'
 layout: index_item
 collection: index3
 ---

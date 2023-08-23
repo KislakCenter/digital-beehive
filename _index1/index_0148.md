@@ -2,8 +2,8 @@
 pid: index_0148
 volume: Volume 3
 image_number: '8'
-head: annulling
-entry: "<a href='/digital-beehive/num2/num_0432/'>363 [Annulling]</a>"
+head: ant
+entry: "<a href='/digital-beehive/alpha1/alpha_0032/'>a</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-cdaa941a8"
+item: "#item-53c024cae"
 unparsed:
-line: 'Head: annulling|Entry: 363 [Annulling]|#item-cdaa941a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/370,2083,554,161/full/0/default.jpg
+line: 'Head: ant|Entry: a|#item-53c024cae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/372,2531,297,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758780608
-sort_value: '300812083'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759137729
+sort_value: '300812531'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/370,2083,554,161/150,/0/default.jpg
-label: annulling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/372,2531,297,116/150,/0/default.jpg
+label: ant
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0147'
 layout: index_item
 collection: index1

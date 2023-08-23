@@ -2,9 +2,9 @@
 pid: index_0329
 volume: Volume 3
 image_number: '9'
-head: bed
-entry: "<a href='/digital-beehive/alpha1/alpha_0070/'>a</a>|<a href='/digital-beehive/num3/num_0656/'>523
-  [Bed]</a>|4619 [PAGE_MISSING]"
+head: begging
+entry: "<a href='/digital-beehive/alpha1/alpha_0073/'>a</a>|<a href='/digital-beehive/num6/num_1878/'>1335
+  [Begging]</a>|<a href='/digital-beehive/num10/num_3228/'>2270 [Begging]</a>"
 topic:
 first_letter: B
 page:
@@ -12,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-889389dac"
+item: "#item-6cc9d635c"
 unparsed:
-line: 'Head: bed|Entry: a|Entry: 523 [Bed]|Entry: 4619 [PAGE_MISSING]|#item-889389dac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1506,2503,584,170/full/0/default.jpg
+line: 'Head: begging|Entry: a|Entry: 1335 [Begging]|Entry: 2270 [Begging]|#item-6cc9d635c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1585,3424,729,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018658053
-sort_value: '300932503'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531146214674
+sort_value: '300933424'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1506,2503,584,170/150,/0/default.jpg
-label: bed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1585,3424,729,123/150,/0/default.jpg
+label: begging
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0328'
 layout: index_item
 collection: index1

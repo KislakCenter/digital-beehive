@@ -1,31 +1,29 @@
 ---
 pid: index_4400
 volume: Volume 3
-image_number: '50'
-head: unlearned
-entry: "<a href='/digital-beehive/num1/num_0067/'>66 [Unlearned]</a>|<a href='/digital-beehive/num8/num_2731/'>1797
-  [Unlearned]</a>"
+image_number: '51'
+head: want of appetite
+entry: 4527 [PAGE_MISSING]
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-aa643f053"
+item: "#item-36963b150"
 unparsed:
-line: 'Head: unlearned|Entry: 66 [Unlearned]|Entry: 1797 [Unlearned]|#item-aa643f053'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1101,2800,618,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560882336392
-sort_value: '305022800'
+line: 'Head: want of appetite|Entry: 4527 [PAGE_MISSING]|#item-36963b150'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1643,1571,616,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647882576
+sort_value: '305131571'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1101,2800,618,140/150,/0/default.jpg
-label: unlearned
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1643,1571,616,103/150,/0/default.jpg
+label: want of appetite
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '362'
+order: '423'
 layout: index_item
 collection: index5
 ---

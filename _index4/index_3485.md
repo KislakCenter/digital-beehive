@@ -1,30 +1,29 @@
 ---
 pid: index_3485
 volume: Volume 3
-image_number: '40'
-head: sadduces
-entry: "<a href='/digital-beehive/num6/num_2189/'>1483 [Sadduces]</a>"
+image_number: '41'
+head: scarifying
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0387/'>bloodletting</a>"
 index:
-item: "#item-bdb90dfff"
+item: "#item-00d400f81"
 unparsed:
-line: 'Head: sadduces|Entry: 1483 [Sadduces]|#item-bdb90dfff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1775,1845,549,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234844484
-sort_value: '304031845'
+line: 'Head: scarifying|See: bloodletting|#item-00d400f81'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/864,343,749,187/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240239660
+sort_value: '304120343'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1775,1845,549,138/150,/0/default.jpg
-label: sadduces
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/864,343,749,187/150,/0/default.jpg
+label: scarifying
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0733'
+order: '0777'
 layout: index_item
 collection: index4
 ---

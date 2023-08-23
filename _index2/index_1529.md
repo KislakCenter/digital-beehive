@@ -2,29 +2,28 @@
 pid: index_1529
 volume: Volume 3
 image_number: '21'
-head: 'Geo: Fox'
-entry: "<a href='/digital-beehive/num3/num_0717/'>563 [George Fox]</a>"
+head: fruit
+entry: "<a href='/digital-beehive/alpha2/alpha_0354/'>a</a>"
 topic:
 first_letter: F
-page:
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-4c0eb99da"
+item: "#item-282a5f752"
 unparsed:
-line: 'Head: Geo: Fox|Entry: 563 [George Fox]|#item-4c0eb99da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/863,1321,497,123/full/0/default.jpg
+line: 'Head: fruit|Page: p.33 [Image 1.93]|Entry: a|#item-282a5f752'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1620,259,507,178/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531763238609
-sort_value: '302121321'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560785379854
+sort_value: '302130259'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/863,1321,497,123/150,/0/default.jpg
-label: 'Geo: Fox'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1620,259,507,178/150,/0/default.jpg
+label: fruit
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '348'
+order: '370'
 layout: index_item
 collection: index2
 ---

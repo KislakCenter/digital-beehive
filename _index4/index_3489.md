@@ -1,30 +1,29 @@
 ---
 pid: index_3489
 volume: Volume 3
-image_number: '40'
-head: saffe
-entry: "<a href='/digital-beehive/num8/num_2918/'>1986 [Saffe]</a>"
+image_number: '41'
+head: sceptre
+entry: 826 [PAGE_MISSING]
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-1886ba88d"
+item: "#item-358e2e594"
 unparsed:
-line: 'Head: saffe|Entry: 1986 [Saffe]|#item-1886ba88d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1813,2326,405,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234965369
-sort_value: '304032326'
+line: 'Head: sceptre|Page: p.39 [Image 1.99]|Entry: 826 [PAGE_MISSING]|#item-358e2e594'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/870,761,636,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240355165
+sort_value: '304120761'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1813,2326,405,99/150,/0/default.jpg
-label: saffe
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/870,761,636,152/150,/0/default.jpg
+label: sceptre
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0737'
+order: '0781'
 layout: index_item
 collection: index4
 ---

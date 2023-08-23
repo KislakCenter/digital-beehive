@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2341/'>love of Christ</a>"
+index: "<a href='/digital-beehive/index3/index_2303/'>love of Christ</a>"
 item: "#item-554daa050"
 unparsed:
 line: 'Entry: Love of Christ|Topic: Love of Christ|Index: love of Christ|#item-554daa050'

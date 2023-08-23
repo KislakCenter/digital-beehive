@@ -1,30 +1,29 @@
 ---
 pid: index_4610
 volume: Volume 3
-image_number: '53'
-head: word by word
-entry: "<a href='/digital-beehive/num3/num_0675/'>536 [Verbatim]</a>"
+image_number: '54'
+head: Barclay
+entry: "<a href='/digital-beehive/num8/num_2928/'>1995 [Barclay]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-80af139f1"
+item: "#item-8ce931c41"
 unparsed:
-line: 'Head: word by word|Entry: 536 [Verbatim]|#item-80af139f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/881,2087,577,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796972488
-sort_value: '305322087'
+line: 'Type: Index|Insertion: [:18.]|Head: Barclay|Entry: 1995 [Barclay]|#item-8ce931c41'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/390,2701,588,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885043290
+sort_value: '305412701'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/881,2087,577,149/150,/0/default.jpg
-label: word by word
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/390,2701,588,155/150,/0/default.jpg
+label: Barclay
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '572'
+order: '633'
 layout: index_item
 collection: index5
 ---

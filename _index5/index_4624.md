@@ -1,31 +1,30 @@
 ---
 pid: index_4624
 volume: Volume 3
-image_number: '53'
-head: will worship
-entry: "<a href='/digital-beehive/alpha5/alpha_1065/'>a</a>|<a href='/digital-beehive/num2/num_0613/'>490
-  [Will-worship]</a>|<a href='/digital-beehive/num10/num_3363/'>2390 [Will-worship]</a>"
+image_number: '54'
+head: pink. gillifl.
+entry: "<a href='/digital-beehive/num10/num_3267/'>2302 [Pincks : Gilli flowers]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-42eb3eb7d"
+item: "#item-946c74a5a"
 unparsed:
-line: 'Head: will worship|Entry: a|Entry: 490 [Will-worship]|Entry: 2390 [Will-worship]|#item-42eb3eb7d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/834,3545,742,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797782183
-sort_value: '305323545'
+line: 'Type: Index|Insertion: [:31.]|Head: pink. gillifl. |Entry: 2302 [Pincks : Gilli
+  flowers]|#item-946c74a5a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1080,1151,707,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954441481
+sort_value: '305421151'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/834,3545,742,120/150,/0/default.jpg
-label: will worship
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1080,1151,707,176/150,/0/default.jpg
+label: pink. gillifl.
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '586'
+order: '647'
 layout: index_item
 collection: index5
 ---

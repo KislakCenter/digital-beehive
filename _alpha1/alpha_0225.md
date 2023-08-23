@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2001/'>1395 [Deluge]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1003/'>deluge</a>"
+index: "<a href='/digital-beehive/index1/index_0984/'>deluge</a>"
 item: "#item-a503485d3"
 unparsed:
 line: 'Entry: Deluge|Topic: Deluge|Xref: 1395 [Deluge]|Index: deluge|#item-a503485d3'

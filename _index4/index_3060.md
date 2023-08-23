@@ -2,8 +2,9 @@
 pid: index_3060
 volume: Volume 3
 image_number: '36'
-head: English poets
-entry: "<a href='/digital-beehive/num7/num_2379/'>1585 [Verses]</a>"
+head: prayers & Lords prayer
+entry: "<a href='/digital-beehive/alpha4/alpha_0728/'>a</a>|<a href='/digital-beehive/num6/num_1993/'>1391
+  [Prayer]</a>|<a href='/digital-beehive/num8/num_2887/'>1962 [Prayer]</a>|4648 [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-29db00300"
+item: "#item-f73a3cdbd"
 unparsed:
-line: 'Head: English poets|Entry: 1585 [Verses]|#item-29db00300'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/432,2529,596,168/full/0/default.jpg
+line: 'Head: prayers & Lords prayer|Entry: a|Entry: 1391 [Prayer]|Entry: 1962 [Prayer]|Entry:
+  4648 [PAGE_MISSING]|#item-f73a3cdbd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1901,1019,703,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208644532
-sort_value: '303612529'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440046380
+sort_value: '303631019'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/432,2529,596,168/150,/0/default.jpg
-label: English poets
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1901,1019,703,161/150,/0/default.jpg
+label: prayers & Lords prayer
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0308'
+order: '0352'
 layout: index_item
 collection: index4
 ---

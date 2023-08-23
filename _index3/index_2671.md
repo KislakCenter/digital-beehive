@@ -2,8 +2,8 @@
 pid: index_2671
 volume: Volume 3
 image_number: '32'
-head: neck
-entry: "<a href='/digital-beehive/num3/num_0956/'>681 [Neck]</a>"
+head: 'no'
+entry: "<a href='/digital-beehive/num2/num_0620/'>495 [No]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f5e04fd40"
+item: "#item-083678759"
 unparsed:
-line: 'Head: neck|Entry: 681 [Neck]|#item-f5e04fd40'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/375,3007,333,109/full/0/default.jpg
+line: 'Head: no|Entry: 495 [No]|#item-083678759'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1856,520,257,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439188474
-sort_value: '303213007'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560447419008
+sort_value: '303230520'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/375,3007,333,109/150,/0/default.jpg
-label: neck
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1856,520,257,124/150,/0/default.jpg
+label: 'no'
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '753'
+order: '786'
 layout: index_item
 collection: index3
 ---

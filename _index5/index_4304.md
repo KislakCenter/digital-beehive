@@ -1,9 +1,9 @@
 ---
 pid: index_4304
 volume: Volume 3
-image_number: '49'
-head: vehicles
-entry: "<a href='/digital-beehive/num10/num_3405/'>2429 [Vehicles]</a>"
+image_number: '50'
+head: to undervalue
+entry: "<a href='/digital-beehive/num2/num_0302/'>269 [Contempt]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9dcc8e56e"
+item: "#item-fe83e1671"
 unparsed:
-line: 'Head: vehicles|Entry: 2429 [Vehicles]|#item-9dcc8e56e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/966,2032,439,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658482921
-sort_value: '304922032'
+line: 'Head: to undervalue|Entry: 269 [Contempt]|#item-fe83e1671'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/407,2960,659,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560873648440
+sort_value: '305012960'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/966,2032,439,121/150,/0/default.jpg
-label: vehicles
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/407,2960,659,148/150,/0/default.jpg
+label: to undervalue
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '266'
+order: '327'
 layout: index_item
 collection: index5
 ---

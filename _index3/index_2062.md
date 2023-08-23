@@ -2,8 +2,8 @@
 pid: index_2062
 volume: Volume 3
 image_number: '26'
-head: insolence
-entry: "<a href='/digital-beehive/num5/num_1678/'>1224 [Insolence]</a>"
+head: invocation of Saints
+entry: "<a href='/digital-beehive/num8/num_2799/'>1906 [Invocation of Saints]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-465174e5e"
+item: "#item-4ef806d6f"
 unparsed:
-line: 'Head: insolence|Entry: 1224 [Insolence]|#item-465174e5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1317,480,113/full/0/default.jpg
+line: 'Head: invocation of Saints|Entry: 1906 [Invocation of Saints]|#item-4ef806d6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1729,669,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747694877
-sort_value: '302621317'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751692486
+sort_value: '302631729'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1317,480,113/150,/0/default.jpg
-label: insolence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,1729,669,135/150,/0/default.jpg
+label: invocation of Saints
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '144'
+order: '177'
 layout: index_item
 collection: index3
 ---

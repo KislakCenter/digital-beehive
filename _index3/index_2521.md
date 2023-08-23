@@ -1,10 +1,9 @@
 ---
 pid: index_2521
 volume: Volume 3
-image_number: '30'
-head: mine. minerals
-entry: "<a href='/digital-beehive/alpha3/alpha_0598/'>a</a>|<a href='/digital-beehive/num9/num_3096/'>2154
-  [Mineral]</a>"
+image_number: '31'
+head: moment
+entry: "<a href='/digital-beehive/num7/num_2351/'>1569 [Prescience]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4844f4227"
+item: "#item-38304b919"
 unparsed:
-line: 'Head: mine. minerals|Entry: a|Entry: 2154 [Mineral]|#item-4844f4227'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,2248,643,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274415273
-sort_value: '303032248'
+line: 'Head: moment|Entry: 1569 [Prescience]|#item-38304b919'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/158,3366,539,167/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560353602310
+sort_value: '303113366'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,2248,643,137/150,/0/default.jpg
-label: mine. minerals
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/158,3366,539,167/150,/0/default.jpg
+label: moment
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '603'
+order: '636'
 layout: index_item
 collection: index3
 ---

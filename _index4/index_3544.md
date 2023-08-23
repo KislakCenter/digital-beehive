@@ -2,8 +2,8 @@
 pid: index_3544
 volume: Volume 3
 image_number: '41'
-head: scepticism
-entry: "<a href='/digital-beehive/num6/num_1740/'>1254 [Scepticism]</a>"
+head: Selandia
+entry: "<a href='/digital-beehive/num7/num_2363/'>1575 [Selandia]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5fcc01c1b"
+item: "#item-102f45353"
 unparsed:
-line: 'Head: scepticism|Entry: 1254 [Scepticism]|#item-5fcc01c1b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/846,633,546,139/full/0/default.jpg
+line: 'Head: Selandia|Entry: 1575 [Selandia]|#item-102f45353'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1580,3555,595,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240329694
-sort_value: '304120633'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243290732
+sort_value: '304133555'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/846,633,546,139/150,/0/default.jpg
-label: scepticism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1580,3555,595,124/150,/0/default.jpg
+label: Selandia
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0792'
+order: '0836'
 layout: index_item
 collection: index4
 ---

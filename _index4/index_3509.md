@@ -2,8 +2,8 @@
 pid: index_3509
 volume: Volume 3
 image_number: '41'
-head: salvo honore
-entry: "<a href='/digital-beehive/num6/num_2103/'>1441 [With permission]</a>"
+head: scrupulous
+entry: "<a href='/digital-beehive/num4/num_1217/'>918 [Doubtful]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7dd8a2e14"
+item: "#item-7c7e33ba9"
 unparsed:
-line: 'Head: salvo honore|Entry: 1441 [With permission]|#item-7dd8a2e14'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,922,585,136/full/0/default.jpg
+line: 'Head: scrupulous|Entry: 918 [Doubtful]|#item-7c7e33ba9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/887,3059,567,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238456314
-sort_value: '304110922'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241717729
+sort_value: '304123059'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/162,922,585,136/150,/0/default.jpg
-label: salvo honore
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/887,3059,567,137/150,/0/default.jpg
+label: scrupulous
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0757'
+order: '0801'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1495/'>1103 [Mediocrity]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2468/'>mediocrity</a>"
+index: "<a href='/digital-beehive/index3/index_2427/'>mediocrity</a>"
 item: "#item-8c6e50d25"
 unparsed:
 line: 'Entry: Mediocrity|Topic: Mediocrity|Xref: 1103 [Mediocrity]|Index: mediocrity|#item-8c6e50d25'

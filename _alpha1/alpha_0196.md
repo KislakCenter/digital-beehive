@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0095/'>Borrowing</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0900/'>credit</a>"
+index: "<a href='/digital-beehive/index1/index_0883/'>credit</a>"
 item: "#item-6574f5f56"
 unparsed:
 line: 'Entry: Credit|Topic: Credit|Xref: Borrowing|Index: credit|#item-6574f5f56'

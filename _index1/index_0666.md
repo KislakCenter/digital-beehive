@@ -2,9 +2,9 @@
 pid: index_0666
 volume: Volume 3
 image_number: '13'
-head: chymist
-entry: "<a href='/digital-beehive/num3/num_1011/'>700 [Chymistry]</a>|<a href='/digital-beehive/num6/num_1890/'>1340
-  [Chymistry]</a>"
+head: civility
+entry: "<a href='/digital-beehive/alpha1/alpha_0152/'>a</a>|<a href='/digital-beehive/num9/num_2946/'>2011
+  [Civility]</a>"
 topic:
 first_letter: C
 page:
@@ -12,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-bbbd44aca"
+item: "#item-78ca20588"
 unparsed:
-line: 'Head: chymist|Entry: 700 [Chymistry]|Entry: 1340 [Chymistry]|#item-bbbd44aca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/147,1733,574,144/full/0/default.jpg
+line: 'Head: civility|Entry: a|Entry: 2011 [Civility]|#item-78ca20588'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,2924,536,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532620246903
-sort_value: '301311733'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333241862
+sort_value: '301312924'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/147,1733,574,144/150,/0/default.jpg
-label: chymist
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,2924,536,154/150,/0/default.jpg
+label: civility
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0665'
 layout: index_item
 collection: index1

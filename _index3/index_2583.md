@@ -2,31 +2,29 @@
 pid: index_2583
 volume: Volume 3
 image_number: '31'
-head: morning
-entry: "<a href='/digital-beehive/alpha3/alpha_0610/'>a</a>|<a href='/digital-beehive/num4/num_1291/'>969
-  [morning]</a>|4540 [PAGE_MISSING]"
+head: mutation
+entry: "<a href='/digital-beehive/alpha3/alpha_0628/'>a</a>|<a href='/digital-beehive/num1/num_0263/'>244
+  [Mutation]</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_077/'>p.27 [Image 1.87]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-198556c22"
+item: "#item-1862ee1e6"
 unparsed:
-line: 'Head: morning|Page: p.27 [Image 1.87]|Entry: a|Entry: 969 [morning]|Entry:
-  4540 [PAGE_MISSING]|#item-198556c22'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/855,2053,844,132/full/0/default.jpg
+line: 'Head: mutation|Entry: a|Entry: 244 [Mutation]|#item-1862ee1e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1548,2489,578,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356264923
-sort_value: '303122053'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362400924
+sort_value: '303132489'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/855,2053,844,132/150,/0/default.jpg
-label: morning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1548,2489,578,104/150,/0/default.jpg
+label: mutation
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '665'
+order: '698'
 layout: index_item
 collection: index3
 ---

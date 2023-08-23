@@ -1,9 +1,10 @@
 ---
 pid: index_4324
 volume: Volume 3
-image_number: '49'
-head: vice versâ
-entry: "<a href='/digital-beehive/num3/num_0987/'>690 [Contrariety]</a>"
+image_number: '50'
+head: universities
+entry: "<a href='/digital-beehive/alpha5/alpha_1009/'>a</a>|<a href='/digital-beehive/num6/num_1762/'>1270
+  [Universities]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-959b9a2fa"
+item: "#item-7c7919bac"
 unparsed:
-line: 'Head: vice versâ|Entry: 690 [Contrariety]|#item-959b9a2fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1636,628,522,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659650775
-sort_value: '304930628'
+line: 'Head: universities|Entry: a|Entry: 1270 [Universities]|#item-7c7919bac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1115,1918,657,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560881412902
+sort_value: '305021918'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1636,628,522,139/150,/0/default.jpg
-label: vice versâ
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1115,1918,657,141/150,/0/default.jpg
+label: universities
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '286'
+order: '347'
 layout: index_item
 collection: index5
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0745/'>Profit</a>|<a href='/digital-beehive/alpha1/alpha_0079/'>Benefit</a>|<a
   href='/digital-beehive/alpha5/alpha_1020/'>Utility</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0047/'>advantage</a>"
+index: "<a href='/digital-beehive/index1/index_0046/'>advantage</a>"
 item: "#item-186cc582d"
 unparsed:
 line: 'Entry: Advantage|Topic: Advantage|Xref: Profit|Xref: Benefit|Xref: Utility|Index:

@@ -2,28 +2,29 @@
 pid: index_0793
 volume: Volume 3
 image_number: '14'
-head: congrat
-entry:
+head: considerable and to consider
+entry: "<a href='/digital-beehive/num1/num_0239/'>224 [Considerable]</a>|855 [PAGE_MISSING]|<a
+  href='/digital-beehive/num10/num_3478/'>4490 [Considerable]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1698/'>gratulation</a>"
+see:
 index:
-item: "#item-1994cb60e"
+item: "#item-6e003ec53"
 unparsed:
-line: 'Head: congrat|See: gratulation|#item-1994cb60e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1168,472,768,155/full/0/default.jpg
+line: 'Head: considerable and to consider|Entry: 224 [Considerable]|Entry: 855 [PAGE_MISSING]|Entry:
+  4490 [Considerable]|#item-6e003ec53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1149,2036,705,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541109425
-sort_value: '301420472'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541734488
+sort_value: '301422036'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1168,472,768,155/150,/0/default.jpg
-label: congrat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1149,2036,705,169/150,/0/default.jpg
+label: considerable and to consider
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0792'
 layout: index_item
 collection: index1

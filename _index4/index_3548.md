@@ -1,9 +1,9 @@
 ---
 pid: index_3548
 volume: Volume 3
-image_number: '41'
-head: schole fellows
-entry: "<a href='/digital-beehive/num6/num_2046/'>1416 [Schoolfellow]</a>"
+image_number: '42'
+head: Self accusation
+entry: "<a href='/digital-beehive/num3/num_0684/'>542 [Accuse himself]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-106e9a67c"
+item: "#item-2f460d17e"
 unparsed:
-line: 'Head: schole fellows|Entry: 1416 [Schoolfellow]|#item-106e9a67c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,1117,547,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240513597
-sort_value: '304121117'
+line: 'Head: Self accusation|Entry: 542 [Accuse himself]|#item-2f460d17e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/438,552,566,92/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243901278
+sort_value: '304210552'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,1117,547,146/150,/0/default.jpg
-label: schole fellows
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/438,552,566,92/150,/0/default.jpg
+label: Self accusation
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0796'
+order: '0840'
 layout: index_item
 collection: index4
 ---

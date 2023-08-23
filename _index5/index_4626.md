@@ -1,31 +1,29 @@
 ---
 pid: index_4626
 volume: Volume 3
-image_number: '53'
-head: wounds
-entry: "<a href='/digital-beehive/alpha5/alpha_1067/'>a</a>|<a href='/digital-beehive/num5/num_1562/'>1146
-  [Wound]</a>"
+image_number: '54'
+head: pin money
+entry: 4791 [WORD_MISSING]
 topic:
-first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+first_letter: insertion
+page:
 add:
 xref:
 see:
 index:
-item: "#item-485132c6b"
+item: "#item-b50f2098e"
 unparsed:
-line: 'Head: wounds|Page: p.43 [Image 1.103]|Entry: a|Entry: 1146 [Wound]|#item-485132c6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1619,393,616,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798394781
-sort_value: '305330393'
+line: 'Type: Index|Insertion: [:31.]|Head: pin money|Entry: 4791 [WORD_MISSING]|#item-b50f2098e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1127,1240,659,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954529370
+sort_value: '305421240'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1619,393,616,139/150,/0/default.jpg
-label: wounds
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1127,1240,659,133/150,/0/default.jpg
+label: pin money
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '588'
+order: '649'
 layout: index_item
 collection: index5
 ---

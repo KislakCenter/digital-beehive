@@ -2,8 +2,8 @@
 pid: index_0671
 volume: Volume 3
 image_number: '13'
-head: circulation
-entry: "<a href='/digital-beehive/num7/num_2516/'>1648 [Circulatio]</a>"
+head: to cleanse
+entry: "<a href='/digital-beehive/num3/num_0907/'>659 [Purge]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ad81626f5"
+item: "#item-829be16b8"
 unparsed:
-line: 'Head: circulation|Entry: 1648 [Circulatio]|#item-ad81626f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/162,2130,556,115/full/0/default.jpg
+line: 'Head: to cleanse|Entry: 659 [Purge]|#item-829be16b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532620858764
-sort_value: '301312130'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333738126
+sort_value: '301313399'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/162,2130,556,115/150,/0/default.jpg
-label: circulation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/150,/0/default.jpg
+label: to cleanse
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0670'
 layout: index_item
 collection: index1

@@ -1,30 +1,32 @@
 ---
 pid: index_2410
 volume: Volume 3
-image_number: '29'
-head: manhood
-entry:
+image_number: '30'
+head: matter, eijter
+entry: "<a href='/digital-beehive/num3/num_0759/'>587 [Corruption & Matter, Eijter]</a>"
 topic:
 first_letter: M
 page:
-add:
+add: 831 [PAGE_MISSING; thing]|4592 [PAGE_MISSING; theme]
 xref:
-see: "<a href='/digital-beehive/index1/index_0645/'>Christ</a>"
+see:
 index:
-item: "#item-171409b2c"
+item: "#item-2dd387dbd"
 unparsed:
-line: 'Head: manhood|See: Christ|#item-171409b2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,1949,535,157/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195693402
-sort_value: '302931949'
+line: 'Head: matter, eijter|Entry: 587 [Corruption & Matter, Eijter]|Add: 831 [PAGE_MISSING;
+  thing]|Add: 4592 [PAGE_MISSING; theme]|#item-2dd387dbd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/394,2209,775,209/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265264338
+sort_value: '303012209'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,1949,535,157/150,/0/default.jpg
-label: manhood
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '492'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/394,2209,775,209/150,/0/default.jpg
+label: matter, eijter
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+issue: Pastorius appears to create a reference to 1592. However, it is likely that
+  this was an error, and he meant to cross-reference 4592, which is on a missing page
+  of the Alvearium but appears elsewhere in the index under "theme."
+order: '525'
 layout: index_item
 collection: index3
 ---

@@ -2,9 +2,8 @@
 pid: index_3793
 volume: Volume 3
 image_number: '44'
-head: 'Son: sonship'
-entry: "<a href='/digital-beehive/alpha4/alpha_0898/'>a</a>|<a href='/digital-beehive/num2/num_0356/'>311
-  [Sonship]</a>"
+head: spiritual iniquities
+entry: "<a href='/digital-beehive/num4/num_1319/'>989 [Spiritual Iniquities]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-df652d3fd"
+item: "#item-a84debf16"
 unparsed:
-line: 'Head: Son: sonship|Entry: a|Entry: 311 [Sonship]|#item-df652d3fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/466,594,599,89/full/0/default.jpg
+line: 'Head: spiritual iniquities|Entry: 989 [Spiritual Iniquities]|#item-a84debf16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1790,490,570,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529702862386
-sort_value: '304410594'
+annotation_uri: http://dev.llgc.org.uk/annotation/1529943278893
+sort_value: '304430490'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/466,594,599,89/150,/0/default.jpg
-label: 'Son: sonship'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1790,490,570,132/150,/0/default.jpg
+label: spiritual iniquities
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1041'
+order: '1085'
 layout: index_item
 collection: index4
 ---

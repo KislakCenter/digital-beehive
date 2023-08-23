@@ -2,9 +2,8 @@
 pid: index_2332
 volume: Volume 3
 image_number: '29'
-head: loquacity
-entry: "<a href='/digital-beehive/num2/num_0533/'>430 [Babbling]</a>|<a href='/digital-beehive/num7/num_2653/'>1728
-  [Babbling]</a>"
+head: Luther
+entry: "<a href='/digital-beehive/num1/num_0116/'>112 [Lutherans]</a>"
 topic:
 first_letter: L
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-53377a99c"
+item: "#item-983759127"
 unparsed:
-line: 'Head: loquacity|Entry: 430 [Babbling]|Entry: 1728 [Babbling]|#item-53377a99c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/183,1205,565,125/full/0/default.jpg
+line: 'Head: Luther|Entry: 112 [Lutherans]|#item-983759127'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/830,1247,459,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178071036
-sort_value: '302911205'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185731256
+sort_value: '302921247'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/183,1205,565,125/150,/0/default.jpg
-label: loquacity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/830,1247,459,142/150,/0/default.jpg
+label: Luther
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '414'
+order: '447'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1599/'>1172 [Community of Goods]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0743/'>common goods</a>"
+index: "<a href='/digital-beehive/index1/index_0729/'>common goods</a>"
 item: "#item-8f4d83e15"
 unparsed:
 line: 'Entry: Common goods|Topic: Common goods|Xref: 1172 [Community of Goods]|Index:

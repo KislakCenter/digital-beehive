@@ -2,29 +2,27 @@
 pid: index_0864
 volume: Volume 3
 image_number: '15'
-head: cosmographical books
-entry:
+head: be of good Courage
+entry: 4560 [PAGE_MISSING]
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-a878f7352"
+item: "#item-5d7565cbc"
 unparsed:
-line: 'Head: cosmographical books|Page: p.379 [Image 2.201]|#item-a878f7352'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/147,599,756,122/full/0/default.jpg
+line: 'Head: be of good Courage|Entry: 4560 [PAGE_MISSING]|#item-5d7565cbc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/143,2316,512,74/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974061920
-sort_value: '301510599'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974774390
+sort_value: '301512316'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/147,599,756,122/150,/0/default.jpg
-label: cosmographical books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/143,2316,512,74/150,/0/default.jpg
+label: be of good Courage
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: Pastorius writes p.279, but "post num. 1005," which refers to pages 375ff.
-  It can be inferred Pastorius means p.379.
-insertion_xref:
+issue:
 order: '0863'
 layout: index_item
 collection: index1

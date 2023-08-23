@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2031/'>infant killing</a>"
+index: "<a href='/digital-beehive/index3/index_1996/'>infant killing</a>"
 item: "#item-3532e502e"
 unparsed:
 line: 'Entry: Infant Killing|Topic: Infant Killing|Index: infant killing|#item-3532e502e'

@@ -1,30 +1,29 @@
 ---
 pid: index_1472
 volume: Volume 3
-image_number: '20'
-head: flanders
-entry:
+image_number: '21'
+head: footstep
+entry: "<a href='/digital-beehive/num4/num_1082/'>866 [Footstep]</a>"
 topic:
 first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2669/'>neatherlands</a>"
+see:
 index:
-item: "#item-385e82a97"
+item: "#item-a4d95c9c9"
 unparsed:
-line: 'Head: flanders|See: neatherlands|#item-385e82a97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1785,2283,761,218/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562616079818
-sort_value: '302032283'
+line: 'Head: footstep|Entry: 866 [Footstep]|#item-a4d95c9c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/180,1481,424,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565622574396
+sort_value: '302111481'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1785,2283,761,218/150,/0/default.jpg
-label: flanders
-location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/180,1481,424,134/150,/0/default.jpg
+label: footstep
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '291'
+order: '313'
 layout: index_item
 collection: index2
 ---

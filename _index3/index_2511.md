@@ -1,30 +1,29 @@
 ---
 pid: index_2511
 volume: Volume 3
-image_number: '30'
-head: might
+image_number: '31'
+head: mode
 entry:
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3102/'>power</a>"
+see: "<a href='/digital-beehive/index1/index_0083/'>alamode</a>"
 index:
-item: "#item-02aef911f"
+item: "#item-9f270ccb1"
 unparsed:
-line: 'Head: might|See: power|#item-02aef911f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,1468,522,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273872894
-sort_value: '303031468'
+line: 'Head: mode|See: alamode|#item-9f270ccb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/179,2305,605,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352303792
+sort_value: '303112305'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,1468,522,160/150,/0/default.jpg
-label: might
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/179,2305,605,111/150,/0/default.jpg
+label: mode
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '593'
+order: '626'
 layout: index_item
 collection: index3
 ---

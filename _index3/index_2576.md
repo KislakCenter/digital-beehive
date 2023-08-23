@@ -2,8 +2,8 @@
 pid: index_2576
 volume: Volume 3
 image_number: '31'
-head: moose
-entry: "<a href='/digital-beehive/num7/num_2270/'>1529 [Moose : Elk]</a>"
+head: murrain
+entry: "<a href='/digital-beehive/num9/num_3114/'>2170 [Murrain]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-724f0aac4"
+item: "#item-f996432e9"
 unparsed:
-line: 'Head: moose|Entry: 1529 [Moose : Elk]|#item-724f0aac4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/876,1560,395,134/full/0/default.jpg
+line: 'Head: murrain|Entry: 2170 [Murrain]|#item-f996432e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1551,1836,502,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355670477
-sort_value: '303121560'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361963242
+sort_value: '303131836'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/876,1560,395,134/150,/0/default.jpg
-label: moose
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1551,1836,502,86/150,/0/default.jpg
+label: murrain
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '658'
+order: '691'
 layout: index_item
 collection: index3
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_2805
 volume: Volume 3
-image_number: '33'
-head: Opera
-entry:
+image_number: '34'
+head: to own
+entry: "<a href='/digital-beehive/num2/num_0321/'>284 [To own]</a>"
 topic:
 first_letter: O
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0729/'>Comedy</a>"
+see:
 index:
-item: "#item-70cfce8d7"
+item: "#item-074920651"
 unparsed:
-line: 'Head: Opera|See: Comedy|#item-70cfce8d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1487,487,631,188/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161220768
-sort_value: '303330487'
+line: 'Head: to own|Entry: 284 [To own]|#item-074920651'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/456,2060,518,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425625090
+sort_value: '303412060'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1487,487,631,188/150,/0/default.jpg
-label: Opera
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/456,2060,518,136/150,/0/default.jpg
+label: to own
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0053'
+order: '0097'
 layout: index_item
 collection: index4
 ---

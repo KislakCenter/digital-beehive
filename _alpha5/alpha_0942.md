@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/digital-beehive/num5/num_1486/'>1097
   [Tautology]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4067/'>tautology</a>"
+index: "<a href='/digital-beehive/index5/index_4006/'>tautology</a>"
 item: "#item-e1219527a"
 unparsed:
 line: 'Entry: Tautology|Topic: Tautology|Xref: Babbling|Xref: 1097 [Tautology]|Index:

@@ -1,9 +1,10 @@
 ---
 pid: index_2504
 volume: Volume 3
-image_number: '30'
-head: methuselah
-entry: "<a href='/digital-beehive/num8/num_2779/'>1897 [Methuselah]</a>"
+image_number: '31'
+head: mistake
+entry: "<a href='/digital-beehive/num1/num_0252/'>234 [Mistake]</a>|<a href='/digital-beehive/num7/num_2329/'>1560
+  [Mistake]</a>|<a href='/digital-beehive/num10/num_3425/'>4446 [Mistake]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e40ac8cd3"
+item: "#item-dcaddc345"
 unparsed:
-line: 'Head: methuselah|Entry: 1897 [Methuselah]|#item-e40ac8cd3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1842,836,562,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273618397
-sort_value: '303030836'
+line: 'Head: mistake|Entry: 234 [Mistake]|Entry: 1560 [Mistake]|Entry: 4446 [Mistake]|#item-dcaddc345'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,1438,758,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351990491
+sort_value: '303111438'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1842,836,562,106/150,/0/default.jpg
-label: methuselah
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,1438,758,142/150,/0/default.jpg
+label: mistake
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '586'
+order: '619'
 layout: index_item
 collection: index3
 ---

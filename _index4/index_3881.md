@@ -2,8 +2,8 @@
 pid: index_3881
 volume: Volume 3
 image_number: '45'
-head: state
-entry: "<a href='/digital-beehive/num4/num_1152/'>891 [State]</a>"
+head: strictly
+entry: 4656 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-025192bc1"
+item: "#item-108c49fbc"
 unparsed:
-line: 'Head: state|Entry: 891 [State]|#item-025192bc1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/210,281,365,105/full/0/default.jpg
+line: 'Head: strictly|Entry: 4656 [PAGE_MISSING]|#item-108c49fbc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/908,2685,466,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530107641682
-sort_value: '304510281'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290857932
+sort_value: '304522685'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/210,281,365,105/150,/0/default.jpg
-label: state
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/908,2685,466,140/150,/0/default.jpg
+label: strictly
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1129'
+order: '1173'
 layout: index_item
 collection: index4
 ---

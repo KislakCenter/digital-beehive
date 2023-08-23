@@ -2,9 +2,8 @@
 pid: index_3626
 volume: Volume 3
 image_number: '42'
-head: Self profit
-entry: "<a href='/digital-beehive/alpha4/alpha_0859/'>a</a>|<a href='/digital-beehive/num2/num_0566/'>455
-  [Self-profit]</a>|<a href='/digital-beehive/num7/num_2460/'>1623 [Self Profit]</a>"
+head: shoemaker
+entry: "<a href='/digital-beehive/num5/num_1541/'>1134 [Shoemaker]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0eb164c43"
+item: "#item-cd71b14cd"
 unparsed:
-line: 'Head: Self profit|Entry: a|Entry: 455 [Self-profit]|Entry: 1623 [Self Profit]|#item-0eb164c43'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/387,2236,717,139/full/0/default.jpg
+line: 'Head: shoemaker|Entry: 1134 [Shoemaker]|#item-cd71b14cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1798,1929,523,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244857373
-sort_value: '304212236'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576256577
+sort_value: '304231929'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/387,2236,717,139/150,/0/default.jpg
-label: Self profit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1798,1929,523,134/150,/0/default.jpg
+label: shoemaker
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0874'
+order: '0918'
 layout: index_item
 collection: index4
 ---

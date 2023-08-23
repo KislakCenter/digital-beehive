@@ -2,29 +2,28 @@
 pid: index_0255
 volume: Volume 3
 image_number: '9'
-head: authority
-entry: "<a href='/digital-beehive/alpha1/alpha_0049/'>a</a>|<a href='/digital-beehive/num10/num_3317/'>2346
-  [Authority]</a>"
+head: bacchanals
+entry: "<a href='/digital-beehive/alpha1/alpha_0052/'>a</a>|<a href='/digital-beehive/num1/num_0236/'>222
+  [Shrovetide]</a>"
 topic:
-first_letter: A
+first_letter: B
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e828db472"
+item: "#item-ef81501dd"
 unparsed:
-line: 'Head: authority|Entry: a|Entry: 2346 [Authority]|#item-e828db472'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/177,2120,636,142/full/0/default.jpg
+line: 'Head: bacchanals|Entry: a|Entry: 222 [Shrovetide]|#item-ef81501dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/183,3038,669,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015964802
-sort_value: '300912120'
+annotation_uri: http://dev.llgc.org.uk/annotation/1504210863575
+sort_value: '300913038'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/177,2120,636,142/150,/0/default.jpg
-label: authority
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/183,3038,669,116/150,/0/default.jpg
+label: bacchanals
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0254'
 layout: index_item
 collection: index1

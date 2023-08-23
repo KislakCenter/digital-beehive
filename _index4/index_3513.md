@@ -2,9 +2,9 @@
 pid: index_3513
 volume: Volume 3
 image_number: '41'
-head: the same
-entry: "<a href='/digital-beehive/num2/num_0296/'>264 [The Same]</a>|<a href='/digital-beehive/num7/num_2455/'>1621
-  [The Same]</a>"
+head: Sea
+entry: "<a href='/digital-beehive/alpha4/alpha_0842/'>a</a>|<a href='/digital-beehive/num6/num_2162/'>1470
+  [Sea]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ec046365a"
+item: "#item-d0282e415"
 unparsed:
-line: 'Head: the same|Entry: 264 [The Same]|Entry: 1621 [The Same]|#item-ec046365a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/154,1158,621,136/full/0/default.jpg
+line: 'Head: Sea|Entry: a|Entry: 1470 [Sea]|#item-d0282e415'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1582,255,453,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238847411
-sort_value: '304111158'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241908063
+sort_value: '304130255'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/154,1158,621,136/150,/0/default.jpg
-label: the same
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1582,255,453,137/150,/0/default.jpg
+label: Sea
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0761'
+order: '0805'
 layout: index_item
 collection: index4
 ---

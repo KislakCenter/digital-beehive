@@ -2,30 +2,29 @@
 pid: index_1816
 volume: Volume 3
 image_number: '24'
-head: hermit
-entry: "<a href='/digital-beehive/alpha2/alpha_0421/'>a</a>|<a href='/digital-beehive/num9/num_3030/'>2093
-  [Hermit]</a>"
+head: to hit
+entry: "<a href='/digital-beehive/num10/num_3422/'>2444 [To hit]</a>"
 topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0779/'>Conjecture</a>|<a href='/digital-beehive/index4/index_3627/'>Shooting</a>"
 index:
-item: "#item-9d676a8bb"
+item: "#item-b288981d0"
 unparsed:
-line: 'Head: hermit|Page: p.37 [Image 1.97]|Entry: a|Entry: 2093 [Hermit]|#item-9d676a8bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/435,689,652,150/full/0/default.jpg
+line: 'Head: to hit|See: Conjecture|See: Shooting|Entry: 2444 [To hit]|#item-b288981d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,438,857,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574923454
-sort_value: '302410689'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581247857
+sort_value: '302420438'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/435,689,652,150/150,/0/default.jpg
-label: hermit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1138,438,857,186/150,/0/default.jpg
+label: to hit
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '635'
+issue: Pastorius appears to have written 2244 under this entry. However, he likely
+  meant to write 2444 [To hit].
+order: '657'
 layout: index_item
 collection: index2
 ---

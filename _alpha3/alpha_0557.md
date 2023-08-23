@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num6/num_1831/'>1309 [Love to God & the Brethren]</a>|<a
   href='/digital-beehive/num9/num_2975/'>2040 [Love of God]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2340/'>love of God</a>"
+index: "<a href='/digital-beehive/index3/index_2302/'>love of God</a>"
 item: "#item-7b863a95e"
 unparsed:
 line: 'Entry: Love of God|Topic: Love of God|Xref: 1309 [Love to God & the Brethren]|Xref:

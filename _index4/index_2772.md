@@ -2,8 +2,8 @@
 pid: index_2772
 volume: Volume 3
 image_number: '33'
-head: to offer
-entry: "<a href='/digital-beehive/num4/num_1190/'>911 [To offer]</a>"
+head: Pr. of Orange
+entry: "<a href='/digital-beehive/num6/num_1752/'>1262 [Prince Wm. of Orange]</a>"
 topic:
 first_letter: O
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c3bbe726c"
+item: "#item-5a7ba321f"
 unparsed:
-line: 'Head: to offer|Entry: 911 [To offer]|#item-c3bbe726c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/780,366,512,154/full/0/default.jpg
+line: 'Head: Pr. of Orange|Entry: 1262 [Prince Wm. of Orange]|#item-5a7ba321f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1505,1721,632,193/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347915381
-sort_value: '303320366'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161942369
+sort_value: '303331721'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/780,366,512,154/150,/0/default.jpg
-label: to offer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1505,1721,632,193/150,/0/default.jpg
+label: Pr. of Orange
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0020'
+order: '0064'
 layout: index_item
 collection: index4
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_4640
 volume: Volume 3
-image_number: '53'
-head: year
-entry: "<a href='/digital-beehive/alpha5/alpha_1073/'>a</a>"
+image_number: '54'
+head: Rat
+entry:
 topic:
-first_letter: Y
+first_letter: insertion
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2565/'>mouse</a>"
 index:
-item: "#item-dc956c8ce"
-unparsed:
-line: 'Head: year|Entry: a|#item-dc956c8ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1598,1943,261,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798901054
-sort_value: '305331943'
-insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1598,1943,261,98/150,/0/default.jpg
-label: year
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+item: "#item-a4dfde37b"
+unparsed: Type Index|Insertion [:44.]
+line: 'Type: Index|Insertion: [:44.]|Head: Rat|See: mouse|#item-a4dfde37b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1033,3018,699,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558462897256
+sort_value: '305423018'
+insertion: "[:44.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1033,3018,699,154/150,/0/default.jpg
+label: Rat
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '602'
+order: '663'
 layout: index_item
 collection: index5
 ---

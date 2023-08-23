@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1984/'>1386 [Fashion of the Countrey]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1407/'>fashion of the Country</a>"
+index: "<a href='/digital-beehive/index2/index_1383/'>fashion of the Country</a>"
 item: "#item-4be979543"
 unparsed:
 line: 'Entry: Fashion of the Country|Topic: Fashion of the Countrey|XRef: 1386 [Fashion

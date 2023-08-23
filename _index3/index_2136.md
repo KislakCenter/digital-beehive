@@ -2,30 +2,28 @@
 pid: index_2136
 volume: Volume 3
 image_number: '27'
-head: juggling
-entry: "<a href='/digital-beehive/num2/num_0523/'>422 [Juggling]</a>|<a href='/digital-beehive/num7/num_2304/'>1547
-  [Juggling]</a>"
+head: knight
+entry: "<a href='/digital-beehive/num8/num_2692/'>1760 [Knighthood]</a>"
 topic:
-first_letter: I/J
+first_letter: K
 page:
 add:
 xref:
 see:
 index:
-item: "#item-fff2e8bd4"
+item: "#item-ca15f6fdf"
 unparsed:
-line: 'Head: juggling|Entry: 422 [Juggling]|Entry: 1547 [Juggling]|#item-fff2e8bd4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/140,2043,582,150/full/0/default.jpg
+line: 'Head: knight|Entry: 1760 [Knighthood]|#item-ca15f6fdf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/843,2113,460,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758370568
-sort_value: '302712043'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762505905
+sort_value: '302722113'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/140,2043,582,150/150,/0/default.jpg
-label: juggling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/843,2113,460,125/150,/0/default.jpg
+label: knight
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '218'
+order: '251'
 layout: index_item
 collection: index3
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_4214
 volume: Volume 3
-image_number: '48'
-head: tranquillity
-entry: "<a href='/digital-beehive/num3/num_0794/'>603 [Tranquillity]</a>"
+image_number: '49'
+head: to ty
+entry: "<a href='/digital-beehive/num3/num_0800/'>605 [To tye]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b4447cb03"
+item: "#item-b013fb7fe"
 unparsed:
-line: 'Head: tranquillity|Entry: 603 [Tranquillity]|#item-b4447cb03'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1103,1952,586,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561486464121
-sort_value: '304821952'
+line: 'Head: to ty|Entry: 605 [To tye]|#item-b013fb7fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2942,344,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657254918
+sort_value: '304912942'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1103,1952,586,154/150,/0/default.jpg
-label: tranquillity
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2942,344,142/150,/0/default.jpg
+label: to ty
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '176'
+order: '237'
 layout: index_item
 collection: index5
 ---

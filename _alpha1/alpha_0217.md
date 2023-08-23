@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1906/'>1348 [Epistle Dedicatory]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0981/'>dedication</a>"
+index: "<a href='/digital-beehive/index1/index_0962/'>dedication</a>"
 item: "#item-1fd55f37c"
 unparsed:
 line: 'Entry: Dedication|Topic: Dedication|Xref: 1348 [Epistle Dedicatory]|Index:

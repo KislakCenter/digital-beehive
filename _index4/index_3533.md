@@ -2,8 +2,8 @@
 pid: index_3533
 volume: Volume 3
 image_number: '41'
-head: scabine
-entry: "<a href='/digital-beehive/alpha4/alpha_0837/'>a</a>"
+head: sedition
+entry: "<a href='/digital-beehive/num5/num_1634/'>1197 [Rebellion]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e43295dd5"
+item: "#item-3b9935ca1"
 unparsed:
-line: 'Head: scabine|Entry: a|#item-e43295dd5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/147,2775,388,108/full/0/default.jpg
+line: 'Head: sedition|Entry: 1197 [Rebellion]|#item-3b9935ca1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1590,2399,532,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240038077
-sort_value: '304112775'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242915179
+sort_value: '304132399'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/147,2775,388,108/150,/0/default.jpg
-label: scabine
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1590,2399,532,159/150,/0/default.jpg
+label: sedition
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0781'
+order: '0825'
 layout: index_item
 collection: index4
 ---

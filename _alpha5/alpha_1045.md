@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0760/'>Prudence</a>|<a href='/digital-beehive/num5/num_1499/'>1107
   [Wisdom]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4567/'>wisdom</a>"
+index: "<a href='/digital-beehive/index5/index_4497/'>wisdom</a>"
 item: "#item-e42300dfe"
 unparsed:
 line: 'Entry: Wisedom|Topic: Wisedom|Xref: Prudence|Xref: 1107 [Wisdom]|Index: wisdom|#item-e42300dfe'

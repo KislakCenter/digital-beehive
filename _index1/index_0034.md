@@ -2,28 +2,27 @@
 pid: index_0034
 volume: Volume 3
 image_number: '7'
-head: acquaintance
-entry: "<a href='/digital-beehive/num1/num_0087/'>86 [Acquaintance]</a>"
+head: acquittance
+entry: 857 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2713/'>obliga[ti]on</a>"
 index:
-item: "#item-d8fe32c06"
+item: "#item-e23e0abc9"
 unparsed:
-line: 'Head: acquaintance|Entry: 86 [Acquaintance]|#item-d8fe32c06'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/160,3133,642,151/full/0/default.jpg
+line: 'Head: acquittance|Entry: 857 [PAGE_MISSING]|See: obliga[ti]on|#item-e23e0abc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/159,3219,741,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760037064
-sort_value: '300713133'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760121978
+sort_value: '300713219'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/160,3133,642,151/150,/0/default.jpg
-label: acquaintance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/159,3219,741,175/150,/0/default.jpg
+label: acquittance
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0033'
 layout: index_item
 collection: index1

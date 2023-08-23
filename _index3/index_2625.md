@@ -1,31 +1,29 @@
 ---
 pid: index_2625
 volume: Volume 3
-image_number: '31'
-head: mutation
-entry: "<a href='/digital-beehive/alpha3/alpha_0628/'>a</a>|<a href='/digital-beehive/num1/num_0263/'>244
-  [Mutation]</a>"
+image_number: '32'
+head: neatherlands
+entry: "<a href='/digital-beehive/num2/num_0410/'>351 [Holland]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1862ee1e6"
+item: "#item-9a4dbf8d7"
 unparsed:
-line: 'Head: mutation|Entry: a|Entry: 244 [Mutation]|#item-1862ee1e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1548,2489,578,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362400924
-sort_value: '303132489'
+line: 'Head: neatherlands|Entry: 351 [Holland]|#item-9a4dbf8d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/368,2846,547,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439037428
+sort_value: '303212846'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1548,2489,578,104/150,/0/default.jpg
-label: mutation
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/368,2846,547,93/150,/0/default.jpg
+label: neatherlands
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '707'
+order: '740'
 layout: index_item
 collection: index3
 ---

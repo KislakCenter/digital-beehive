@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0851/'>Seeming</a>|<a href='/digital-beehive/alpha4/alpha_0869/'>Shape</a>|<a
   href='/digital-beehive/num2/num_0541/'>437 [External Appearance]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1360/'>external appearance</a>"
+index: "<a href='/digital-beehive/index2/index_1336/'>external appearance</a>"
 item: "#item-e1e329d42"
 unparsed:
 line: 'Entry: External appearance|Topic: External appearance|Xref: Seeming|Xref: Shape|Xref:

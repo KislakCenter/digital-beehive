@@ -1,9 +1,9 @@
 ---
 pid: index_4539
 volume: Volume 3
-image_number: '52'
-head: whole
-entry: 772 [PAGE_MISSING]
+image_number: '53'
+head: word by word
+entry: "<a href='/digital-beehive/num3/num_0675/'>536 [Verbatim]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e0571c26c"
+item: "#item-80af139f1"
 unparsed:
-line: 'Head: whole|Entry: 772 [PAGE_MISSING]|#item-e0571c26c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1768,890,470,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971590321
-sort_value: '305230890'
+line: 'Head: word by word|Entry: 536 [Verbatim]|#item-80af139f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/881,2087,577,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796972488
+sort_value: '305322087'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1768,890,470,124/150,/0/default.jpg
-label: whole
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/881,2087,577,149/150,/0/default.jpg
+label: word by word
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '501'
+order: '562'
 layout: index_item
 collection: index5
 ---

@@ -1,9 +1,10 @@
 ---
 pid: index_0956
 volume: Volume 3
-image_number: '15'
-head: "[:15.]"
-entry:
+image_number: '16'
+head: debt
+entry: "<a href='/digital-beehive/alpha1/alpha_0216/'>a</a>|<a href='/digital-beehive/num6/num_1914/'>1352
+  [Debt]</a>|<a href='/digital-beehive/num10/num_3392/'>2418 [Debt]</a>"
 topic:
 first_letter: D
 page:
@@ -11,20 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-bdfa4200d"
-unparsed: 'Type: Index|Insertion Xref: [:15.]|#item-bdfa4200d'
-line: 'Type: Index|Insertion Xref: [:15.]|#item-bdfa4200d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/2146,2164,170,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276016097
-sort_value: '301532164'
+item: "#item-0eef8a610"
+unparsed:
+line: 'Head: debt|Entry: a|Entry: 1352 [Debt]|Entry: 2418 [Debt]|#item-0eef8a610'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/411,305,580,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507573310963
+sort_value: '301610305'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/2146,2164,170,167/150,/0/default.jpg
-label: "[:15.]"
-location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/411,305,580,130/150,/0/default.jpg
+label: debt
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4678/'>holiness of places
-  and times</a>"
 order: '0955'
 layout: index_item
 collection: index1

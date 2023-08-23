@@ -1,30 +1,30 @@
 ---
 pid: index_1356
 volume: Volume 3
-image_number: '19'
-head: exploit
-entry:
+image_number: '20'
+head: fair words
+entry: "<a href='/digital-beehive/alpha2/alpha_0311/'>a</a>|<a href='/digital-beehive/num10/num_3343/'>2370
+  [Fair Words]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0983/'>deed</a>"
+see:
 index:
-item: "#item-6e7ee6f60"
+item: "#item-3931703db"
 unparsed:
-line: 'Head: exploit|See: deed|#item-6e7ee6f60'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1548,1728,527,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561395612943
-sort_value: '301931728'
+line: 'Head: fair words|Entry: a|Entry: 2370 [Fair Words]|#item-3931703db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/357,776,700,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561400137989
+sort_value: '302010776'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1548,1728,527,151/150,/0/default.jpg
-label: exploit
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/357,776,700,121/150,/0/default.jpg
+label: fair words
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '175'
+order: '197'
 layout: index_item
 collection: index2
 ---

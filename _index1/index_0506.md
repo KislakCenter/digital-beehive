@@ -2,8 +2,8 @@
 pid: index_0506
 volume: Volume 3
 image_number: '11'
-head: Cain
-entry: "<a href='/digital-beehive/num7/num_2252/'>1520 [Cain]</a>"
+head: camphire
+entry: 740 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-b661107ba"
+item: "#item-8495960fb"
 unparsed:
-line: 'Head: Cain|Entry: 1520 [Cain]|#item-b661107ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,339,424,70/full/0/default.jpg
+line: 'Head: camphire|Entry: 740 [PAGE_MISSING]|#item-8495960fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1572,1240,523,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494083914
-sort_value: '301130339'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494837299
+sort_value: '301131240'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,339,424,70/150,/0/default.jpg
-label: Cain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1572,1240,523,135/150,/0/default.jpg
+label: camphire
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0505'
 layout: index_item
 collection: index1

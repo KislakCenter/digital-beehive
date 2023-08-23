@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3099/'>2157 [Demoniack]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1007/'>demoniack</a>"
+index: "<a href='/digital-beehive/index1/index_0988/'>demoniack</a>"
 item: "#item-f423d53cf"
 unparsed:
 line: 'Entry: Demoniack|Topic: Demoniack|Xref: 2157 [Demoniack]|Index: demoniack|#item-f423d53cf'

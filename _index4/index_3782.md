@@ -1,9 +1,9 @@
 ---
 pid: index_3782
 volume: Volume 3
-image_number: '43'
-head: to solder
-entry: 822 [PAGE_MISSING]
+image_number: '44'
+head: spie
+entry: 825 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2215/'>1502 [Spy]</a>
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c7c4e608a"
+item: "#item-ad7f17545"
 unparsed:
-line: 'Head: to solder|Entry: 822 [PAGE_MISSING]|#item-c7c4e608a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1599,2593,471,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586369671
-sort_value: '304332593'
+line: 'Head: spie|Entry: 825 [PAGE_MISSING]|Entry: 1502 [Spy]|#item-ad7f17545'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1095,2538,533,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942325346
+sort_value: '304422538'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1599,2593,471,166/150,/0/default.jpg
-label: to solder
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1095,2538,533,109/150,/0/default.jpg
+label: spie
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1030'
+order: '1074'
 layout: index_item
 collection: index4
 ---

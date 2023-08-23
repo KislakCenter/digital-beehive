@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0387/'>gratulation</a>|<a href='/digital-beehive/num4/num_1110/'>875
   [Wish]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4570/'>wish</a>"
+index: "<a href='/digital-beehive/index5/index_4500/'>wish</a>"
 item: "#item-ab89b6a9f"
 unparsed:
 line: 'Entry: Wish|Topic: Wish|Xref: gratulation|Xref: 875 [Wish]|Index: wish|#item-ab89b6a9f'

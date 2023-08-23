@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0447/'>Idleness</a>|<a href='/digital-beehive/alpha3/alpha_0526/'>Laziness</a>|<a
   href='/digital-beehive/num7/num_2325/'>1558 [To Neglect]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2680/'>negligence</a>"
+index: "<a href='/digital-beehive/index3/index_2636/'>negligence</a>"
 item: "#item-dfd2d85c3"
 unparsed:
 line: 'Entry: Negligenge|Topic: Negligenge|Xref: Idleness|Xref: Laziness|Xref: 1558

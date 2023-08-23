@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0934/'>Superstition</a>|<a href='/digital-beehive/num1/num_0244/'>229
   [Formality]</a>|<a href='/digital-beehive/num2/num_0613/'>490 [Will-worship]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4624/'>will worship</a>"
+index: "<a href='/digital-beehive/index5/index_4553/'>will worship</a>"
 item: "#item-d4a3712ee"
 unparsed:
 line: 'Entry: Will-Worship|Topic: Will-Worship|Xref: Superstition|Xref: 229 [Formality]|Xref:
@@ -24,9 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/322,852,600,180/250,/0/default.jpg
 label: Will-Worship
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-issue: The point of reference for "Formality" is not entirely clear. We linked to
-  229 [Formality], which is the first relevant entry in the numerical section of the
-  Alvearium.
+issue: The point of reference for "1316" is unclear.
 also_in_entry:
 order: '125'
 layout: alpha_item

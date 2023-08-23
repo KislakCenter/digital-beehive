@@ -1,30 +1,29 @@
 ---
 pid: index_4448
 volume: Volume 3
-image_number: '51'
-head: utensils of war
-entry:
+image_number: '52'
+head: welfare
+entry: "<a href='/digital-beehive/num4/num_1202/'>913 [Welfare]</a>"
 topic:
-first_letter: U/V
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
-add: weapons
+first_letter: W
+page:
+add:
 xref:
 see:
 index:
-item: "#item-34fdc1ae0"
+item: "#item-a7f83eeee"
 unparsed:
-line: 'Head: utensils of war|Page: p.6 [Image 1.66]|Add: weapons|#item-34fdc1ae0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/955,1983,838,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646970779
-sort_value: '305121983'
+line: 'Head: welfare|Entry: 913 [Welfare]|#item-a7f83eeee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1099,1314,446,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968837534
+sort_value: '305221314'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/955,1983,838,132/150,/0/default.jpg
-label: utensils of war
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1099,1314,446,145/150,/0/default.jpg
+label: welfare
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '410'
+order: '471'
 layout: index_item
 collection: index5
 ---

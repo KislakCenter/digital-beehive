@@ -1,32 +1,29 @@
 ---
 pid: index_2811
 volume: Volume 3
-image_number: '33'
-head: oppression
-entry: "<a href='/digital-beehive/num1/num_0206/'>197 [Oppression]</a>|<a href='/digital-beehive/num2/num_0592/'>474
-  [Oppression]</a>|<a href='/digital-beehive/num10/num_3248/'>2287 [Oppressions]</a>"
+image_number: '34'
+head: painting
+entry: "<a href='/digital-beehive/num3/num_0735/'>575 [Painting]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-80c2dc60e"
+item: "#item-aadd15fb1"
 unparsed:
-line: 'Head: oppression|Entry: 197 [Oppression]|Entry: 474 [Oppression]|Entry: 2287
-  [Oppressions]|#item-80c2dc60e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1479,1143,734,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161687452
-sort_value: '303331143'
+line: 'Head: painting|Entry: 575 [Painting]|#item-aadd15fb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/446,2749,592,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425859834
+sort_value: '303412749'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1479,1143,734,156/150,/0/default.jpg
-label: oppression
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/446,2749,592,164/150,/0/default.jpg
+label: painting
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0059'
+order: '0103'
 layout: index_item
 collection: index4
 ---

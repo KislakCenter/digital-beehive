@@ -2,8 +2,9 @@
 pid: index_1667
 volume: Volume 3
 image_number: '22'
-head: goodness
-entry: "<a href='/digital-beehive/alpha2/alpha_0375/'>a</a>"
+head: gratulation
+entry: "<a href='/digital-beehive/alpha2/alpha_0387/'>a</a>|<a href='/digital-beehive/num6/num_1983/'>1386
+  [Gratulation]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-537a90821"
+item: "#item-c6bdb2e7b"
 unparsed:
-line: 'Head: goodness|Entry: a|#item-537a90821'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1853,380,360,117/full/0/default.jpg
+line: 'Head: gratulation|Entry: a|Entry: 1386 [Gratulation]|#item-c6bdb2e7b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1840,3344,612,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561051875429
-sort_value: '302230380'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053711296
+sort_value: '302233344'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1853,380,360,117/150,/0/default.jpg
-label: goodness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1840,3344,612,155/150,/0/default.jpg
+label: gratulation
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '486'
+order: '508'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,27 @@
 pid: index_0595
 volume: Volume 3
 image_number: '12'
-head: chance
-entry:
+head: charity Schools
+entry: "<a href='/digital-beehive/num10/num_3326/'>2354 [Schools]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0556/'>casualty</a>"
+see:
 index:
-item: "#item-fc8b599b5"
+item: "#item-09e5b4591"
 unparsed:
-line: 'Head: chance|See: casualty|#item-fc8b599b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1129,2773,602,132/full/0/default.jpg
+line: 'Head: charity Schools|Entry: 2354 [Schools]|#item-09e5b4591'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1131,3581,552,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532442314678
-sort_value: '301222773'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443637159
+sort_value: '301223581'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1129,2773,602,132/150,/0/default.jpg
-label: chance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1131,3581,552,108/150,/0/default.jpg
+label: charity Schools
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0594'
 layout: index_item
 collection: index1

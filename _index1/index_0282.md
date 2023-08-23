@@ -2,29 +2,32 @@
 pid: index_0282
 volume: Volume 3
 image_number: '9'
-head: bands
-entry: "<a href='/digital-beehive/num2/num_0406/'>348 [a Band]</a>|773 [PAGE_MISSING]|<a
-  href='/digital-beehive/num8/num_2825/'>1919 [Bands]</a>"
+head: baptism
+entry: "<a href='/digital-beehive/alpha1/alpha_0059/'>a</a>|<a href='/digital-beehive/num2/num_0308/'>273
+  [Baptism]</a>|<a href='/digital-beehive/num5/num_1360/'>1018 [Baptism]</a>|<a href='/digital-beehive/num5/num_1404/'>1048
+  [Baptism]</a>|<a href='/digital-beehive/num9/num_3169/'>2225 [Baptism]</a>|<a href='/digital-beehive/num9/num_3185/'>2239
+  [Baptism]</a>"
 topic:
 first_letter: B
 page:
-add:
+add: "<a href='/digital-beehive/index1/index_0188/'>Arab</a>|<a href='/digital-beehive/index3/index_1995/'>Infant
+  baptism</a>"
 xref:
 see:
 index:
-item: "#item-953bbbb39"
+item: "#item-3d8a16820"
 unparsed:
-line: 'Head: bands|Entry: 348 [a Band]|Entry: 773 [PAGE_MISSING]|Entry: 1919 [Bands]|#item-953bbbb39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1314,668,138/full/0/default.jpg
+line: 'Head: baptism|Entry: a|Entry: 273 [Baptism]|Entry: 1018 [Baptism]|Entry: 1048
+  [Baptism]|Entry: 2225 [Baptism]|Entry: 2239 [Baptism]|Add: Arab|Add: Infant baptism|#item-3d8a16820'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/899,2135,713,242/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403846905
-sort_value: '300921314'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017318186
+sort_value: '300922135'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1314,668,138/150,/0/default.jpg
-label: bands
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/899,2135,713,242/150,/0/default.jpg
+label: baptism
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue:
-insertion_xref:
+issue: The intended reference of "add. Arab" cannot be determined.
 order: '0281'
 layout: index_item
 collection: index1

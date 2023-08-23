@@ -1,10 +1,9 @@
 ---
 pid: index_3404
 volume: Volume 3
-image_number: '39'
-head: revelling. sauß und schmauß
-entry: "<a href='/digital-beehive/alpha4/alpha_0807/'>a</a>|<a href='/digital-beehive/num4/num_1323/'>990
-  [Revelling]</a>"
+image_number: '40'
+head: roughness
+entry: 861 [PAGE_MISSING]
 topic:
 first_letter: R
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7331cd107"
+item: "#item-5ee5734cf"
 unparsed:
-line: 'Head: revelling. sauß und schmauß|Entry: a|Entry: 990 [Revelling]|#item-7331cd107'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1435,3085,838,214/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230482310
-sort_value: '303933085'
+line: 'Head: roughness|Entry: 861 [PAGE_MISSING]|#item-5ee5734cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1156,2136,473,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233752493
+sort_value: '304022136'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1435,3085,838,214/150,/0/default.jpg
-label: revelling. sauß und schmauß
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1156,2136,473,152/150,/0/default.jpg
+label: roughness
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0652'
+order: '0696'
 layout: index_item
 collection: index4
 ---

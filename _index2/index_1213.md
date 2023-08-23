@@ -2,8 +2,8 @@
 pid: index_1213
 volume: Volume 3
 image_number: '18'
-head: effeminate
-entry: "<a href='/digital-beehive/num5/num_1624/'>1192 [Effeminate]</a>"
+head: embryo
+entry: "<a href='/digital-beehive/num6/num_2172/'>1474 [Embryo]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0b00f09e0"
+item: "#item-a13f4a5ae"
 unparsed:
-line: 'Head: effeminate|Entry: 1192 [Effeminate]|#item-0b00f09e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1176,1341,512,125/full/0/default.jpg
+line: 'Head: embryo|Entry: 1474 [Embryo]|#item-a13f4a5ae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,3329,421,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673249807
-sort_value: '301821341'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744021370
+sort_value: '301823329'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1176,1341,512,125/150,/0/default.jpg
-label: effeminate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,3329,421,116/150,/0/default.jpg
+label: embryo
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '032'
+order: '054'
 layout: index_item
 collection: index2
 ---

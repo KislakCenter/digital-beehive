@@ -1,9 +1,9 @@
 ---
 pid: index_1788
 volume: Volume 3
-image_number: '23'
-head: hebrew
-entry: "<a href='/digital-beehive/num4/num_1316/'>986 [Hebrew]</a>|1858 [PAGE_MISSING]"
+image_number: '24'
+head: Herr
+entry: "<a href='/digital-beehive/num8/num_2728/'>1794 [Mr. Hales : Sieur]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-93d34088e"
+item: "#item-2068979d1"
 unparsed:
-line: 'Head: hebrew|Entry: 986 [Hebrew]|Entry: 1858 [PAGE_MISSING]|#item-93d34088e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1533,1585,494,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244863809
-sort_value: '302331585'
+line: 'Head: Herr|Entry: 1794 [Mr. Hales : Sieur]|#item-2068979d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/418,891,366,98/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575335916
+sort_value: '302410891'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1533,1585,494,107/150,/0/default.jpg
-label: hebrew
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/418,891,366,98/150,/0/default.jpg
+label: Herr
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '607'
+order: '629'
 layout: index_item
 collection: index2
 ---

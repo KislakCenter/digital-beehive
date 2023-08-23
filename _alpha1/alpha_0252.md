@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num8/num_2733/'>1799 [Theologia Scholastica]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1115/'>divinity scholastica</a>"
+index: "<a href='/digital-beehive/index1/index_1095/'>divinity scholastica</a>"
 item: "#item-dc50d6578"
 unparsed:
 line: 'Entry: Theola Scholastica|Topic: Theola Scholastica|Xref: 1799 [Theologia Scholastica]|Index:

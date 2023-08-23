@@ -1,9 +1,9 @@
 ---
 pid: index_1804
 volume: Volume 3
-image_number: '23'
-head: Heraclitus
-entry: "<a href='/digital-beehive/num7/num_2434/'>1612 [Democritus & Heraclitus]</a>"
+image_number: '24'
+head: high Church
+entry: "<a href='/digital-beehive/num8/num_2698/'>1766 [High Church]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2750fd938"
+item: "#item-0a0c6e2f3"
 unparsed:
-line: 'Head: Heraclitus|Entry: 1612 [Democritus & Heraclitus]|#item-2750fd938'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1509,2995,456,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559572052146
-sort_value: '302332995'
+line: 'Head: high Church|Entry: 1766 [High Church]|#item-0a0c6e2f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/423,2583,559,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577216909
+sort_value: '302412583'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1509,2995,456,100/150,/0/default.jpg
-label: Heraclitus
-location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/423,2583,559,108/150,/0/default.jpg
+label: high Church
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '623'
+order: '645'
 layout: index_item
 collection: index2
 ---

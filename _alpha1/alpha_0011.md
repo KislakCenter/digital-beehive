@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0065/'>Baudry</a>|<a href='/digital-beehive/alpha5/alpha_1036/'>Whoredom</a>|<a
   href='/digital-beehive/num5/num_1336/'>1002 [Adultery]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0052/'>adultery</a>"
+index: "<a href='/digital-beehive/index1/index_0051/'>adultery</a>"
 item: "#item-7dab944a8"
 unparsed:
 line: 'Entry: [WORD_MISSING]|Topic: Adultery|Xref: Baudry|Xref: Whoredom|Xref: 1002

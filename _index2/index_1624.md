@@ -2,29 +2,28 @@
 pid: index_1624
 volume: Volume 3
 image_number: '22'
-head: glory
-entry: "<a href='/digital-beehive/alpha2/alpha_0365/'>a</a>"
+head: God's reward
+entry: "<a href='/digital-beehive/num4/num_1290/'>968 [Example]</a>"
 topic:
 first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3361/'>reward</a>"
 index:
-item: "#item-6f3a419cb"
+item: "#item-90468997f"
 unparsed:
-line: 'Head: glory|Entry: a|#item-6f3a419cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/429,3488,293,144/full/0/default.jpg
+line: 'Head: God''s reward|See: reward|Entry: 968 [Example]|#item-90468997f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1165,2411,688,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044302593
-sort_value: '302213488'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561048007379
+sort_value: '302222411'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/429,3488,293,144/150,/0/default.jpg
-label: glory
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1165,2411,688,109/150,/0/default.jpg
+label: God's reward
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '443'
+order: '465'
 layout: index_item
 collection: index2
 ---

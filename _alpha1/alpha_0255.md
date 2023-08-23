@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0237/'>Difference</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1111/'>diversity</a>"
+index: "<a href='/digital-beehive/index1/index_1091/'>diversity</a>"
 item: "#item-c1e8cd7f5"
 unparsed:
 line: 'Entry: Diversity|Topic: Diversity|Xref: Difference|Index: diversity|#item-c1e8cd7f5'

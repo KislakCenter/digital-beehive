@@ -2,29 +2,28 @@
 pid: index_1971
 volume: Volume 3
 image_number: '25'
-head: implicit faith
-entry: "<a href='/digital-beehive/num2/num_0559/'>449 [Implicite Faith]</a>"
+head: incorrigible
+entry:
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3887/'>stubborn</a>"
 index:
-item: "#item-90b8ab42e"
+item: "#item-cdec7222c"
 unparsed:
-line: 'Head: implicit faith|Entry: 449 [Implicite Faith]|#item-90b8ab42e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/871,1719,630,126/full/0/default.jpg
+line: 'Head: incorrigible|See: stubborn|#item-cdec7222c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1559,2222,747,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666052881
-sort_value: '302521719'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671906600
+sort_value: '302532222'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/871,1719,630,126/150,/0/default.jpg
-label: implicit faith
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1559,2222,747,149/150,/0/default.jpg
+label: incorrigible
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '053'
+order: '086'
 layout: index_item
 collection: index3
 ---

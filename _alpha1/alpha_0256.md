@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2209/'>1498 [Divorsement]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_1118/'>divorcement</a>"
+index: "<a href='/digital-beehive/index1/index_1098/'>divorcement</a>"
 item: "#item-2283b131d"
 unparsed:
 line: 'Entry: Divorcement|Topic: Divorcement|Xref: 1498 [Divorsement]|Index: divorcement|#item-2283b131d'

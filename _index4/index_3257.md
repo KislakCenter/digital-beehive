@@ -2,29 +2,28 @@
 pid: index_3257
 volume: Volume 3
 image_number: '38'
-head: Queen
-entry:
+head: how to read the bible
+entry: "<a href='/digital-beehive/num10/num_3444/'>4461 [The Bible we should read]</a>"
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2162/'>king</a>"
+see:
 index:
-item: "#item-1a4a2e57e"
+item: "#item-5ff128513"
 unparsed:
-line: 'Head: Queen|See: king|#item-1a4a2e57e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1154,543,520,174/full/0/default.jpg
+line: 'Head: how to read the bible|Entry: 4461 [The Bible we should read]|#item-5ff128513'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1867,1968,676,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455056347
-sort_value: '303820543'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461366361
+sort_value: '303831968'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1154,543,520,174/150,/0/default.jpg
-label: Queen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1867,1968,676,129/150,/0/default.jpg
+label: how to read the bible
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0505'
+order: '0549'
 layout: index_item
 collection: index4
 ---

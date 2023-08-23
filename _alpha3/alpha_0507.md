@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Ignorance</a>|<a href='/dig
   href='/digital-beehive/alpha5/alpha_1010/'>Unknown</a>|<a href='/digital-beehive/num1/num_0194/'>185
   [Knowledge]</a>|<a href='/digital-beehive/num2/num_0566/'>455 [Self-profit]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2177/'>knowledge</a>"
+index: "<a href='/digital-beehive/index3/index_2141/'>knowledge</a>"
 item: "#item-90ec2f469"
 unparsed:
 line: 'Entry: Knowledge|Topic: Knowledge|Xref: Ignorance|Xref: Skill|Xref: Unknown|Xref:

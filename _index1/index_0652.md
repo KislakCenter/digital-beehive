@@ -2,9 +2,9 @@
 pid: index_0652
 volume: Volume 3
 image_number: '13'
-head: christians
-entry: "<a href='/digital-beehive/num1/num_0228/'>216 [Christians]</a>|<a href='/digital-beehive/num8/num_2681/'>1751
-  [Christians]</a>|<a href='/digital-beehive/num9/num_3191/'>2245 [Failings]</a>"
+head: chymist
+entry: "<a href='/digital-beehive/num3/num_1011/'>700 [Chymistry]</a>|<a href='/digital-beehive/num6/num_1890/'>1340
+  [Chymistry]</a>"
 topic:
 first_letter: C
 page:
@@ -12,20 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-cdf4af1e1"
+item: "#item-bbbd44aca"
 unparsed:
-line: 'Head: christians|Entry: 216 [Christians]|Entry: 1751 [Christians]|Entry: 2245
-  [Failings]|#item-cdf4af1e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/144,612,771,134/full/0/default.jpg
+line: 'Head: chymist|Entry: 700 [Chymistry]|Entry: 1340 [Chymistry]|#item-bbbd44aca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/147,1733,574,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532618655380
-sort_value: '301310612'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532620246903
+sort_value: '301311733'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/144,612,771,134/150,/0/default.jpg
-label: christians
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/147,1733,574,144/150,/0/default.jpg
+label: chymist
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0651'
 layout: index_item
 collection: index1

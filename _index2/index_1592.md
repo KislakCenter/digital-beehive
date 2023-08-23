@@ -2,29 +2,28 @@
 pid: index_1592
 volume: Volume 3
 image_number: '22'
-head: genesis
-entry: "<a href='/digital-beehive/num11/num_3555/'>4859 [Genesis]</a>"
+head: glass windows
+entry:
 topic:
 first_letter: G
-page:
+page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-6291df636"
+item: "#item-79becc34a"
 unparsed:
-line: 'Head: genesis|Entry: 4859 [Genesis]|#item-6291df636'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/391,353,490,114/full/0/default.jpg
+line: 'Head: glass windows|Page: p.10 [Image 1.70]|#item-79becc34a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/410,3058,523,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561041945611
-sort_value: '302210353'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044066476
+sort_value: '302213058'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/391,353,490,114/150,/0/default.jpg
-label: genesis
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/410,3058,523,124/150,/0/default.jpg
+label: glass windows
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '411'
+order: '433'
 layout: index_item
 collection: index2
 ---

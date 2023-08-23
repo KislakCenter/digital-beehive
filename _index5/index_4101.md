@@ -2,9 +2,9 @@
 pid: index_4101
 volume: Volume 3
 image_number: '47'
-head: testimony
-entry: "<a href='/digital-beehive/alpha5/alpha_0953/'>a</a>|<a href='/digital-beehive/num1/num_0062/'>61
-  [Testimony]</a>|<a href='/digital-beehive/num9/num_3153/'>2209 [Witness]</a>"
+head: to ye end that
+entry: "<a href='/digital-beehive/num4/num_1184/'>907 [Purposely]</a>|<a href='/digital-beehive/num4/num_1185/'>907
+  [to the end]</a>"
 topic:
 first_letter: T
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-afe88d42f"
+item: "#item-ed4564e03"
 unparsed:
-line: 'Head: testimony|Entry: a|Entry: 61 [Testimony]|Entry: 2209 [Witness]|#item-afe88d42f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/170,3390,669,150/full/0/default.jpg
+line: 'Head: to ye end that|Entry: 907 [Purposely]|Entry: 907 [to the end]|#item-ed4564e03'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1567,3461,456,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529416045404
-sort_value: '304713390'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560281620411
+sort_value: '304733461'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/170,3390,669,150/150,/0/default.jpg
-label: testimony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1567,3461,456,207/150,/0/default.jpg
+label: to ye end that
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '063'
+order: '124'
 layout: index_item
 collection: index5
 ---

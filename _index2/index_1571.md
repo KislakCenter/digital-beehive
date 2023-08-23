@@ -1,30 +1,29 @@
 ---
 pid: index_1571
 volume: Volume 3
-image_number: '21'
-head: Gain
+image_number: '22'
+head: geography
 entry:
 topic:
 first_letter: G
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2360/'>lucre</a>|<a href='/digital-beehive/index4/index_3180/'>profit</a>"
+see: "<a href='/digital-beehive/index1/index_0846/'>Cosmography</a>"
 index:
-item: "#item-9b87fe671"
+item: "#item-efe5a2466"
 unparsed:
-line: 'Head: Gain|See: lucre|See: profit|#item-9b87fe671'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1563,1852,747,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786413885
-sort_value: '302131852'
+line: 'Head: geography|See: Cosmography|#item-efe5a2466'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/432,855,746,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042331699
+sort_value: '302210855'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1563,1852,747,135/150,/0/default.jpg
-label: Gain
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/432,855,746,152/150,/0/default.jpg
+label: geography
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '390'
+order: '412'
 layout: index_item
 collection: index2
 ---

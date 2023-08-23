@@ -2,29 +2,28 @@
 pid: index_2156
 volume: Volume 3
 image_number: '27'
-head: kidneys
-entry: "<a href='/digital-beehive/num8/num_2796/'>1905 [Kidneys]</a>"
+head: lampoon
+entry: 1836 [PAGE_MISSING]
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d02dd7e8f"
+item: "#item-b660b3906"
 unparsed:
-line: 'Head: kidneys|Entry: 1905 [Kidneys]|#item-d02dd7e8f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/814,465,472,143/full/0/default.jpg
+line: 'Head: lampoon|Entry: 1836 [PAGE_MISSING]|#item-b660b3906'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1567,626,586,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761307281
-sort_value: '302720465'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559834419778
+sort_value: '302730626'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/814,465,472,143/150,/0/default.jpg
-label: kidneys
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1567,626,586,129/150,/0/default.jpg
+label: lampoon
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '238'
+order: '271'
 layout: index_item
 collection: index3
 ---

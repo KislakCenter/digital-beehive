@@ -1,10 +1,9 @@
 ---
 pid: index_4333
 volume: Volume 3
-image_number: '49'
-head: vineyard
-entry: "<a href='/digital-beehive/alpha5/alpha_0999/'>a</a>|<a href='/digital-beehive/num8/num_2922/'>1990
-  [Vin[e]yards]</a>"
+image_number: '50'
+head: to unload
+entry: 4663 [PAGE_MISSING]
 topic:
 first_letter: U/V
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-43dac4520"
+item: "#item-617466ea7"
 unparsed:
-line: 'Head: vineyard|Entry: a|Entry: 1990 [Vin[e]yards]|#item-43dac4520'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1629,1558,485,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660662003
-sort_value: '304931558'
+line: 'Head: to unload|Entry: 4663 [PAGE_MISSING]|#item-617466ea7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1086,3009,505,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882514455
+sort_value: '305023009'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1629,1558,485,136/150,/0/default.jpg
-label: vineyard
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1086,3009,505,128/150,/0/default.jpg
+label: to unload
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '295'
+order: '356'
 layout: index_item
 collection: index5
 ---

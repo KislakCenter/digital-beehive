@@ -1,9 +1,9 @@
 ---
 pid: index_4462
 volume: Volume 3
-image_number: '51'
-head: Waldenses
-entry: "<a href='/digital-beehive/num1/num_0063/'>62 [Waldenses or Lyonists]</a>"
+image_number: '52'
+head: whetstone
+entry: "<a href='/digital-beehive/num6/num_1788/'>1284 [a Whetstone]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0e30db187"
+item: "#item-be0c7d747"
 unparsed:
-line: 'Head: Waldenses|Entry: 62 [Waldenses or Lyonists]|#item-0e30db187'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1624,760,480,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647619162
-sort_value: '305130760'
+line: 'Head: whetstone|Entry: 1284 [a Whetstone]|#item-be0c7d747'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,3304,564,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970165716
+sort_value: '305223304'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1624,760,480,156/150,/0/default.jpg
-label: Waldenses
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,3304,564,139/150,/0/default.jpg
+label: whetstone
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '424'
+order: '485'
 layout: index_item
 collection: index5
 ---

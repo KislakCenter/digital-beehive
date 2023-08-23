@@ -1,9 +1,9 @@
 ---
 pid: index_1464
 volume: Volume 3
-image_number: '20'
-head: fishery
-entry: "<a href='/digital-beehive/num10/num_3207/'>2257 [Fishery]</a>"
+image_number: '21'
+head: flux & reflux
+entry: "<a href='/digital-beehive/num11/num_3531/'>4835 [Flux and reflux]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7272eee01"
+item: "#item-ac3718678"
 unparsed:
-line: 'Head: fishery|Entry: 2257 [Fishery]|#item-7272eee01'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1769,1824,517,187/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562614996379
-sort_value: '302031824'
+line: 'Head: flux & reflux|Entry: 4835 [Flux and reflux]|#item-ac3718678'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/174,563,549,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531232906011
+sort_value: '302110563'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1769,1824,517,187/150,/0/default.jpg
-label: fishery
-location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/174,563,549,93/150,/0/default.jpg
+label: flux & reflux
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '283'
+order: '305'
 layout: index_item
 collection: index2
 ---

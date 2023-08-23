@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0219/'>Deer</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1762/'>hart</a>"
+index: "<a href='/digital-beehive/index2/index_1731/'>hart</a>"
 item: "#item-7736252de"
 unparsed:
 line: 'Entry: Hart|Topic: Hart|Xref: Deer|Index: hart|#item-7736252de'

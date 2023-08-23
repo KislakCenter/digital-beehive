@@ -2,29 +2,28 @@
 pid: index_1614
 volume: Volume 3
 image_number: '22'
-head: girl
-entry:
+head: God's friends
+entry: "<a href='/digital-beehive/num8/num_2852/'>1936 [God's friends]</a>"
 topic:
 first_letter: G
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2386/'>maid</a>"
+see:
 index:
-item: "#item-577daa240"
+item: "#item-00722bbca"
 unparsed:
-line: 'Head: girl|See: maid|#item-577daa240'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/411,2301,449,148/full/0/default.jpg
+line: 'Head: God''s friends|Entry: 1936 [God''s friends]|#item-00722bbca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,1848,482,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043693834
-sort_value: '302212301'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047285569
+sort_value: '302221848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/411,2301,449,148/150,/0/default.jpg
-label: girl
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,1848,482,112/150,/0/default.jpg
+label: God's friends
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '433'
+order: '455'
 layout: index_item
 collection: index2
 ---

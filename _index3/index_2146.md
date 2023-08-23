@@ -2,29 +2,28 @@
 pid: index_2146
 volume: Volume 3
 image_number: '27'
-head: justs
-entry: "<a href='/digital-beehive/num6/num_1862/'>1325 [a Tournament]</a>"
+head: labourers
+entry: 4608 [PAGE_MISSING]
 topic:
-first_letter: I/J
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-4478bd418"
+item: "#item-8bce1e586"
 unparsed:
-line: 'Head: justs|Entry: 1325 [a Tournament]|#item-4478bd418'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,2849,353,128/full/0/default.jpg
+line: 'Head: labourers|Entry: 4608 [PAGE_MISSING]|#item-8bce1e586'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/838,2950,509,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759377341
-sort_value: '302712849'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832035621
+sort_value: '302722950'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,2849,353,128/150,/0/default.jpg
-label: justs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/838,2950,509,101/150,/0/default.jpg
+label: labourers
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '228'
+order: '261'
 layout: index_item
 collection: index3
 ---

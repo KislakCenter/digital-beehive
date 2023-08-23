@@ -2,9 +2,8 @@
 pid: index_0451
 volume: Volume 3
 image_number: '11'
-head: bribe
-entry: "<a href='/digital-beehive/alpha1/alpha_0101/'>a</a>|<a href='/digital-beehive/num3/num_0758/'>587
-  [Corrupted]</a>|<a href='/digital-beehive/num3/num_0763/'>588 [Bribe]</a>"
+head: to bring
+entry: "<a href='/digital-beehive/alpha1/alpha_0104/'>a</a>"
 topic:
 first_letter: B
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-4d9d5969c"
+item: "#item-df0e49ce5"
 unparsed:
-line: 'Head: bribe|Entry: a|Entry: 587 [Corrupted]|Entry: 588 [Bribe]|#item-4d9d5969c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/157,1826,558,131/full/0/default.jpg
+line: 'Head: to bring|Entry: a|#item-df0e49ce5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/159,2880,395,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531418788339
-sort_value: '301111826'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531419798694
+sort_value: '301112880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/157,1826,558,131/150,/0/default.jpg
-label: bribe
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/159,2880,395,119/150,/0/default.jpg
+label: to bring
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0450'
 layout: index_item
 collection: index1

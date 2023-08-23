@@ -2,8 +2,8 @@
 pid: index_0422
 volume: Volume 3
 image_number: '10'
-head: "[:5.]"
-entry:
+head: boy
+entry: "<a href='/digital-beehive/num4/num_1247/'>934 [a Boy]</a>"
 topic:
 first_letter: B
 page:
@@ -11,20 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-0187d4b7f"
-unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-0187d4b7f'
-line: 'Type: Index|Insertion Xref: [:5.]|#item-0187d4b7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/2307,2739,160,141/full/0/default.jpg
+item: "#item-a075cc3ee"
+unparsed:
+line: 'Head: boy|Entry: 934 [a Boy]|#item-a075cc3ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1770,3452,305,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559684389930
-sort_value: '301032739'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417339457
+sort_value: '301033452'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/2307,2739,160,141/150,/0/default.jpg
-label: "[:5.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1770,3452,305,125/150,/0/default.jpg
+label: boy
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
-  or winnow</a>"
 order: '0421'
 layout: index_item
 collection: index1

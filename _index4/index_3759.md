@@ -1,10 +1,9 @@
 ---
 pid: index_3759
 volume: Volume 3
-image_number: '43'
-head: smart
-entry: "<a href='/digital-beehive/num3/num_0906/'>658 [Grief]</a>|<a href='/digital-beehive/num9/num_3033/'>2096
-  [Smart]</a>"
+image_number: '44'
+head: Andr. Sowle
+entry: "<a href='/digital-beehive/num8/num_2917/'>1985 [Andrew Sowle]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4a6f05a68"
+item: "#item-7ae0d5a55"
 unparsed:
-line: 'Head: smart|Entry: 658 [Grief]|Entry: 2096 [Smart]|#item-4a6f05a68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/896,3247,609,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584916065
-sort_value: '304323247'
+line: 'Head: Andr. Sowle|Entry: 1985 [Andrew Sowle]|#item-7ae0d5a55'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/595,3467,512,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288526893
+sort_value: '304413467'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/896,3247,609,156/150,/0/default.jpg
-label: smart
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/595,3467,512,146/150,/0/default.jpg
+label: Andr. Sowle
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1007'
+order: '1051'
 layout: index_item
 collection: index4
 ---

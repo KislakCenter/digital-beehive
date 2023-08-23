@@ -1,9 +1,9 @@
 ---
 pid: index_0971
 volume: Volume 3
-image_number: '15'
-head: deathly
-entry: "<a href='/digital-beehive/num9/num_3013/'>2078 [Mortal]</a>"
+image_number: '16'
+head: deformity
+entry: 4571 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-48fc46b9b"
+item: "#item-99fefb682"
 unparsed:
-line: 'Head: deathly|Entry: 2078 [Mortal]|#item-48fc46b9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1524,3436,512,85/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540392469595
-sort_value: '301533436'
+line: 'Head: deformity|Entry: 4571 [PAGE_MISSING]|#item-99fefb682'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/379,2030,627,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507576410464
+sort_value: '301612030'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1524,3436,512,85/150,/0/default.jpg
-label: deathly
-location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/379,2030,627,128/150,/0/default.jpg
+label: deformity
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0970'
 layout: index_item
 collection: index1

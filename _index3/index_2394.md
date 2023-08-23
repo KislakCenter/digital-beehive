@@ -1,30 +1,29 @@
 ---
 pid: index_2394
 volume: Volume 3
-image_number: '29'
-head: makebate
-entry:
+image_number: '30'
+head: marsh
+entry: "<a href='/digital-beehive/num3/num_0892/'>650 [a Fen or Marsh]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3941/'>strife</a>"
+see:
 index:
-item: "#item-05af7b703"
+item: "#item-3fbb96c97"
 unparsed:
-line: 'Head: makebate|See: strife|#item-05af7b703'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,578,596,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560193974714
-sort_value: '302930578'
+line: 'Head: marsh|Entry: 650 [a Fen or Marsh]|#item-3fbb96c97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/411,742,331,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263341713
+sort_value: '303010742'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1554,578,596,159/150,/0/default.jpg
-label: makebate
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/411,742,331,103/150,/0/default.jpg
+label: marsh
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '476'
+order: '509'
 layout: index_item
 collection: index3
 ---

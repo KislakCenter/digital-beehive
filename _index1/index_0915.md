@@ -2,28 +2,27 @@
 pid: index_0915
 volume: Volume 3
 image_number: '15'
-head: crown
-entry: "<a href='/digital-beehive/alpha1/alpha_0201/'>a</a>|4544 [PAGE_MISSING]"
+head: customers
+entry: "<a href='/digital-beehive/num7/num_2480/'>1632 [Buy]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-f2a2a381f"
+item: "#item-14a6f0958"
 unparsed:
-line: 'Head: crown|Page: p.4 [Image 1.64]|Entry: a|Entry: 4544 [PAGE_MISSING]|#item-f2a2a381f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/864,2295,677,128/full/0/default.jpg
+line: 'Head: customers|Entry: 1632 [Buy]|#item-14a6f0958'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1571,548,486,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577704025
-sort_value: '301522295'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539810876047
+sort_value: '301530548'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/864,2295,677,128/150,/0/default.jpg
-label: crown
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1571,548,486,76/150,/0/default.jpg
+label: customers
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0914'
 layout: index_item
 collection: index1

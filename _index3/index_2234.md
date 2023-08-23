@@ -2,29 +2,28 @@
 pid: index_2234
 volume: Volume 3
 image_number: '28'
-head: to leak
-entry: "<a href='/digital-beehive/num2/num_0448/'>371 [Leak or leakage]</a>"
+head: libel
+entry:
 topic:
 first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2856/'>pasquil</a>"
 index:
-item: "#item-630d10951"
+item: "#item-d2d675434"
 unparsed:
-line: 'Head: to leak|Entry: 371 [Leak or leakage]|#item-630d10951'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/399,1419,438,103/full/0/default.jpg
+line: 'Head: libel|See: pasquil|#item-d2d675434'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1136,1372,577,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841975506
-sort_value: '302811419'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845582540
+sort_value: '302821372'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/399,1419,438,103/150,/0/default.jpg
-label: to leak
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1136,1372,577,131/150,/0/default.jpg
+label: libel
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '316'
+order: '349'
 layout: index_item
 collection: index3
 ---

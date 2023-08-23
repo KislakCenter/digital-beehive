@@ -2,29 +2,28 @@
 pid: index_4266
 volume: Volume 3
 image_number: '49'
-head: turky
-entry: "<a href='/digital-beehive/num6/num_2021/'>1404 [Turky-cock]</a>"
+head: violence
+entry:
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1476/'>force</a>|<a href='/digital-beehive/index4/index_3860/'>storm</a>"
 index:
-item: "#item-7d198f7d2"
+item: "#item-e97d8d93f"
 unparsed:
-line: 'Head: turky|Entry: 1404 [Turky-cock]|#item-7d198f7d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,1528,398,144/full/0/default.jpg
+line: 'Head: violence|See: force|See: storm|#item-e97d8d93f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1623,1793,723,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656559692
-sort_value: '304911528'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660815116
+sort_value: '304931793'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,1528,398,144/150,/0/default.jpg
-label: turky
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1623,1793,723,170/150,/0/default.jpg
+label: violence
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '228'
+order: '289'
 layout: index_item
 collection: index5
 ---

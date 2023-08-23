@@ -2,8 +2,9 @@
 pid: index_1491
 volume: Volume 3
 image_number: '21'
-head: fodder
-entry: "<a href='/digital-beehive/num4/num_1116/'>878 [Pasture]</a>"
+head: forsake all
+entry: "<a href='/digital-beehive/num4/num_1256/'>938 [Forsake all for Christ's sake]</a>|<a
+  href='/digital-beehive/num9/num_2970/'>2035 [Forsake all]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-77cd9b069"
+item: "#item-470136d89"
 unparsed:
-line: 'Head: fodder|Entry: 878 [Pasture]|#item-77cd9b069'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/198,743,380,113/full/0/default.jpg
+line: 'Head: forsake all|Entry: 938 [Forsake all for Christ''s sake]|Entry: 2035 [Forsake
+  all]|#item-470136d89'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/164,3269,597,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531232982198
-sort_value: '302110743'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565622708493
+sort_value: '302113269'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/198,743,380,113/150,/0/default.jpg
-label: fodder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/164,3269,597,153/150,/0/default.jpg
+label: forsake all
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '310'
+issue: It is unclear if "all" is part of this entry, the following entry, or both.
+order: '332'
 layout: index_item
 collection: index2
 ---

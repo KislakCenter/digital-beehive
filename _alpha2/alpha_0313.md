@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0982/'>Treachery</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1385/'>faithfulness</a>"
+index: "<a href='/digital-beehive/index2/index_1361/'>faithfulness</a>"
 item: "#item-d0ddf2293"
 unparsed:
 line: 'Entry: Faithfulness|Topic: Faithfulness|Xref: Treachery|Index: faithfulness|#item-d0ddf2293'

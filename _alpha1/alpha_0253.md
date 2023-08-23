@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index1/index_1114/'>divinity mystica</a>"
+index: "<a href='/digital-beehive/index1/index_1094/'>divinity mystica</a>"
 item: "#item-a42afa50a"
 unparsed:
 line: 'Entry: Theola Mystica|Topic: Theola Mystica|Index: divinity mystica|#item-a42afa50a'

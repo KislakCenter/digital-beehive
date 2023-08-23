@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3037/'>2100 [Lookingglass]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2328/'>lookingglass</a>"
+index: "<a href='/digital-beehive/index3/index_2290/'>lookingglass</a>"
 item: "#item-57db9a5a1"
 unparsed:
 line: 'Entry: Lookingglass|Topic: Lookingglass|Xref: 2100 [Lookingglass]|Index: lookingglass|#item-57db9a5a1'

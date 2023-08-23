@@ -1,9 +1,10 @@
 ---
 pid: index_3573
 volume: Volume 3
-image_number: '41'
-head: Sea man
-entry: 764 [PAGE_MISSING]
+image_number: '42'
+head: Self will
+entry: "<a href='/digital-beehive/alpha4/alpha_0860/'>a</a>|<a href='/digital-beehive/num5/num_1341/'>1005
+  [Self will]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-510f587f7"
+item: "#item-45b3e3bdf"
 unparsed:
-line: 'Head: Sea man|Entry: 764 [PAGE_MISSING]|#item-510f587f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1549,541,451,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242213079
-sort_value: '304130541'
+line: 'Head: Self will|Entry: a|Entry: 1005 [Self will]|#item-45b3e3bdf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/398,2581,554,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244963434
+sort_value: '304212581'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1549,541,451,94/150,/0/default.jpg
-label: Sea man
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/398,2581,554,100/150,/0/default.jpg
+label: Self will
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0821'
+order: '0865'
 layout: index_item
 collection: index4
 ---

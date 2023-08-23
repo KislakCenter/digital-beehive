@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0461/'>Imitation</a>|<a href='/digital-beehive/num2/num_0327/'>290
   [for Example]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1328/'>example</a>"
+index: "<a href='/digital-beehive/index2/index_1304/'>example</a>"
 item: "#item-c5b1d56a6"
 unparsed:
 line: 'Entry: Example|Topic: Example|Xref: Imitation|Xref: 290 [for Example]|Index:

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0016/'>Agriculture</a>|<a href='/digital-beehive/alpha4/alpha_0659/'>Oeconomy</a>|<a
   href='/digital-beehive/num2/num_0316/'>281 [Husbandry]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1911/'>husbandry and huswifery</a>"
+index: "<a href='/digital-beehive/index2/index_1878/'>husbandry and huswifery</a>"
 item: "#item-2ad75fadf"
 unparsed:
 line: 'Entry: Husbandry|Topic: Husbandry|Xref: Agriculture|Xref: Oeconomy|Xref: 281

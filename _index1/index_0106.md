@@ -2,28 +2,27 @@
 pid: index_0106
 volume: Volume 3
 image_number: '7'
-head: almond
-entry: 1856 [PAGE_MISSING]
+head: alone
+entry:
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2753/'>only</a>"
 index:
-item: "#item-a56ea2e06"
+item: "#item-14cb1bb03"
 unparsed:
-line: 'Head: almond|Entry: 1856 [PAGE_MISSING]|#item-a56ea2e06'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1605,1989,389,91/full/0/default.jpg
+line: 'Head: alone|See: only|#item-14cb1bb03'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1589,2297,466,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770165654
-sort_value: '300731989'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770411806
+sort_value: '300732297'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1605,1989,389,91/150,/0/default.jpg
-label: almond
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1589,2297,466,155/150,/0/default.jpg
+label: alone
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0105'
 layout: index_item
 collection: index1

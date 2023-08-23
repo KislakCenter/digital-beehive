@@ -2,28 +2,27 @@
 pid: index_0581
 volume: Volume 3
 image_number: '12'
-head: censure
-entry:
+head: chamber pot
+entry: 809 [PAGE_MISSING]
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4658/'>Zoilus</a>"
+see:
 index:
-item: "#item-5b42a131b"
+item: "#item-ab1261919"
 unparsed:
-line: 'Head: censure|See: Zoilus|#item-5b42a131b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1139,1451,541,131/full/0/default.jpg
+line: 'Head: chamber pot|Entry: 809 [PAGE_MISSING]|#item-ab1261919'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1127,2545,440,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532099374868
-sort_value: '301221451'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532100838116
+sort_value: '301222545'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1139,1451,541,131/150,/0/default.jpg
-label: censure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1127,2545,440,127/150,/0/default.jpg
+label: chamber pot
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0580'
 layout: index_item
 collection: index1

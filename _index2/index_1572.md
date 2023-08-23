@@ -1,9 +1,9 @@
 ---
 pid: index_1572
 volume: Volume 3
-image_number: '21'
-head: Gainsaying
-entry: 823 [PAGE_MISSING]
+image_number: '22'
+head: geometry
+entry: "<a href='/digital-beehive/num6/num_1769/'>1274 [Geometry]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9f12c071e"
+item: "#item-328fb527c"
 unparsed:
-line: 'Head: Gainsaying|Entry: 823 [PAGE_MISSING]|#item-9f12c071e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1552,1932,569,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786441739
-sort_value: '302131932'
+line: 'Head: geometry|Entry: 1274 [Geometry]|#item-328fb527c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/412,920,500,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042437274
+sort_value: '302210920'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1552,1932,569,118/150,/0/default.jpg
-label: Gainsaying
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/412,920,500,122/150,/0/default.jpg
+label: geometry
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '391'
+order: '413'
 layout: index_item
 collection: index2
 ---

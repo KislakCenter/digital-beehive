@@ -1,30 +1,29 @@
 ---
 pid: index_1680
 volume: Volume 3
-image_number: '22'
-head: gown
-entry: "<a href='/digital-beehive/num4/num_1197/'>912 [Gown]</a>"
+image_number: '23'
+head: green
+entry: "<a href='/digital-beehive/num8/num_2688/'>1757 [Green]</a>"
 topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-1169ca412"
+item: "#item-dc6d17ebd"
 unparsed:
-line: 'Head: gown|Page: p.38 [Image 1.98]|Entry: 912 [Gown]|#item-1169ca412'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1860,1376,459,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052639914
-sort_value: '302231376'
+line: 'Head: green|Entry: 1757 [Green]|#item-dc6d17ebd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,1210,398,88/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230629707
+sort_value: '302311210'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1860,1376,459,99/150,/0/default.jpg
-label: gown
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,1210,398,88/150,/0/default.jpg
+label: green
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '499'
+order: '521'
 layout: index_item
 collection: index2
 ---

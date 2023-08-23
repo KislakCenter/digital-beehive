@@ -2,9 +2,8 @@
 pid: index_3619
 volume: Volume 3
 image_number: '42'
-head: Self knowledge
-entry: "<a href='/digital-beehive/alpha4/alpha_0855/'>a</a>|<a href='/digital-beehive/num1/num_0221/'>210
-  [Self-knowledge]</a>"
+head: shingle
+entry: "<a href='/digital-beehive/num2/num_0431/'>362 [a Shingle]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b3db62192"
+item: "#item-042fc500d"
 unparsed:
-line: 'Head: Self knowledge|Entry: a|Entry: 210 [Self-knowledge]|#item-b3db62192'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/396,1705,715,119/full/0/default.jpg
+line: 'Head: shingle|Entry: 362 [a Shingle]|#item-042fc500d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1816,1048,506,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244627402
-sort_value: '304211705'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575861276
+sort_value: '304231048'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/396,1705,715,119/150,/0/default.jpg
-label: Self knowledge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1816,1048,506,150/150,/0/default.jpg
+label: shingle
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0867'
+order: '0911'
 layout: index_item
 collection: index4
 ---

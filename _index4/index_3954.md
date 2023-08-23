@@ -1,30 +1,29 @@
 ---
 pid: index_3954
 volume: Volume 3
-image_number: '45'
-head: submission
-entry:
+image_number: '46'
+head: swallowing
+entry: "<a href='/digital-beehive/num8/num_2839/'>1926 [Swallowing]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4648/'>yielding</a>"
+see:
 index:
-item: "#item-90b84a133"
+item: "#item-6e2961c74"
 unparsed:
-line: 'Head: submission|See: yielding|#item-90b84a133'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1592,858,657,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530467522360
-sort_value: '304530858'
+line: 'Head: swallowing|Entry: 1926 [Swallowing]|#item-6e2961c74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1098,1145,542,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565293218432
+sort_value: '304621145'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1592,858,657,154/150,/0/default.jpg
-label: submission
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1098,1145,542,124/150,/0/default.jpg
+label: swallowing
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1202'
+order: '1246'
 layout: index_item
 collection: index4
 ---

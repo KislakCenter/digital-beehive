@@ -2,28 +2,27 @@
 pid: index_0552
 volume: Volume 3
 image_number: '12'
-head: casting out of devils
-entry:
+head: caterpillars
+entry: "<a href='/digital-beehive/num5/num_1534/'>1129 [Caterpillers]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1349/'>exorcism</a>"
+see:
 index:
-item: "#item-f4658cd9d"
+item: "#item-22ee3e9a8"
 unparsed:
-line: 'Head: casting out of devils|See: exorcism|#item-f4658cd9d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/399,1406,739,170/full/0/default.jpg
+line: 'Head: caterpillars|Entry: 1129 [Caterpillers]|#item-22ee3e9a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,2759,625,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532097821131
-sort_value: '301211406'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098537057
+sort_value: '301212759'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/399,1406,739,170/150,/0/default.jpg
-label: casting out of devils
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,2759,625,164/150,/0/default.jpg
+label: caterpillars
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0551'
 layout: index_item
 collection: index1

@@ -1,30 +1,29 @@
 ---
 pid: index_4102
 volume: Volume 3
-image_number: '47'
-head: testimonial
-entry: "<a href='/digital-beehive/num5/num_1345/'>1007 [Witnesses]</a>"
+image_number: '48'
+head: toad
+entry:
 topic:
 first_letter: T
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1523/'>frog</a>"
 index:
-item: "#item-3bf3ffca8"
+item: "#item-999c97a00"
 unparsed:
-line: 'Head: testimonial|Entry: 1007 [Witnesses]|#item-3bf3ffca8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/164,3537,520,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532719315599
-sort_value: '304713537'
+line: 'Head: toad|See: frog|#item-999c97a00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,264,451,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844746251
+sort_value: '304810264'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/164,3537,520,117/150,/0/default.jpg
-label: testimonial
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/473,264,451,136/150,/0/default.jpg
+label: toad
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '064'
+order: '125'
 layout: index_item
 collection: index5
 ---

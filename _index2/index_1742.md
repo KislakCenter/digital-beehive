@@ -2,29 +2,28 @@
 pid: index_1742
 volume: Volume 3
 image_number: '23'
-head: ham[m]er
-entry: 756 [PAGE_MISSING]
+head: hazard
+entry:
 topic:
 first_letter: H
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0047/'>adventure</a>"
 index:
-item: "#item-2be0592a2"
+item: "#item-8988557ba"
 unparsed:
-line: 'Head: ham[m]er|Entry: 756 [PAGE_MISSING]|#item-2be0592a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/848,459,356,99/full/0/default.jpg
+line: 'Head: hazard|See: adventure|#item-8988557ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/814,3540,673,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238185375
-sort_value: '302320459'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241946776
+sort_value: '302323540'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/848,459,356,99/150,/0/default.jpg
-label: ham[m]er
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/814,3540,673,164/150,/0/default.jpg
+label: hazard
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '561'
+order: '583'
 layout: index_item
 collection: index2
 ---

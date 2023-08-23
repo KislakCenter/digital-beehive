@@ -2,8 +2,9 @@
 pid: index_2678
 volume: Volume 3
 image_number: '32'
-head: proof of a Negative
-entry: "<a href='/digital-beehive/num4/num_1201/'>913 [to prove a Negative]</a>"
+head: noise
+entry: "<a href='/digital-beehive/num1/num_0154/'>148 [Noise]</a>|<a href='/digital-beehive/num7/num_2498/'>1640
+  [Sound]</a>|<a href='/digital-beehive/num8/num_2900/'>1971 [Noise]</a>"
 topic:
 first_letter: N
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e71737611"
+item: "#item-8810fad6f"
 unparsed:
-line: 'Head: proof of a Negative|Entry: 913 [to prove a Negative]|#item-e71737611'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1174,242,672,154/full/0/default.jpg
+line: 'Head: noise|Entry: 148 [Noise]|Entry: 1640 [Sound]|Entry: 1971 [Noise]|#item-8810fad6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1839,1201,650,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560440797032
-sort_value: '303220242'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448639600
+sort_value: '303231201'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1174,242,672,154/150,/0/default.jpg
-label: proof of a Negative
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1839,1201,650,123/150,/0/default.jpg
+label: noise
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '760'
+order: '793'
 layout: index_item
 collection: index3
 ---

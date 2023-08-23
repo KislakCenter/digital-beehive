@@ -1,9 +1,9 @@
 ---
 pid: index_4055
 volume: Volume 3
-image_number: '46'
-head: tanning
-entry: "<a href='/digital-beehive/num3/num_0902/'>654 [Hide]</a>|767 [PAGE_MISSING]"
+image_number: '47'
+head: thing
+entry: 831 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c6b9a7e10"
+item: "#item-88a17fda7"
 unparsed:
-line: 'Head: tanning|Entry: 654 [Hide]|Entry: 767 [PAGE_MISSING]|#item-c6b9a7e10'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1835,2131,544,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743113745
-sort_value: '304632131'
+line: 'Head: thing|Entry: 831 [PAGE_MISSING]|#item-88a17fda7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/904,1777,372,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532721055603
+sort_value: '304721777'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1835,2131,544,152/150,/0/default.jpg
-label: tanning
-location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/904,1777,372,101/150,/0/default.jpg
+label: thing
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '017'
+order: '078'
 layout: index_item
 collection: index5
 ---

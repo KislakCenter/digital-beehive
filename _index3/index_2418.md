@@ -1,10 +1,9 @@
 ---
 pid: index_2418
 volume: Volume 3
-image_number: '29'
-head: manufactures
-entry: "<a href='/digital-beehive/num3/num_1046/'>714 [Wares]</a>|<a href='/digital-beehive/num8/num_2923/'>1991
-  [Manufactures]</a>"
+image_number: '30'
+head: means
+entry: "<a href='/digital-beehive/num1/num_0180/'>172 [Means]</a>|4703 [PAGE_MISSING]"
 topic:
 first_letter: M
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f55637a3d"
+item: "#item-c49d06113"
 unparsed:
-line: 'Head: manufactures|Entry: 714 [Wares]|Entry: 1991 [Manufactures]|#item-f55637a3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,2810,640,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196583044
-sort_value: '302932810'
+line: 'Head: means|Entry: 172 [Means]|Entry: 4703 [PAGE_MISSING]|#item-c49d06113'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/423,3015,558,87/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265859166
+sort_value: '303013015'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,2810,640,125/150,/0/default.jpg
-label: manufactures
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/423,3015,558,87/150,/0/default.jpg
+label: means
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '500'
+order: '533'
 layout: index_item
 collection: index3
 ---

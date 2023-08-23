@@ -1,9 +1,9 @@
 ---
 pid: index_3571
 volume: Volume 3
-image_number: '41'
-head: Sea devil
-entry: "<a href='/digital-beehive/num6/num_2166/'>1472 [Sea-Devil]</a>"
+image_number: '42'
+head: Self punishmt
+entry: "<a href='/digital-beehive/num1/num_0060/'>59 [Self-hurt or dam[m]age]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-dfd4db042"
+item: "#item-868a43b4b"
 unparsed:
-line: 'Head: Sea devil|Entry: 1472 [Sea-Devil]|#item-dfd4db042'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1563,411,459,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242051635
-sort_value: '304130411'
+line: 'Head: Self punishmt|Entry: 59 [Self-hurt or dam[m]age]|#item-868a43b4b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,2343,764,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244890879
+sort_value: '304212343'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1563,411,459,132/150,/0/default.jpg
-label: Sea devil
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,2343,764,119/150,/0/default.jpg
+label: Self punishmt
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0819'
+order: '0863'
 layout: index_item
 collection: index4
 ---

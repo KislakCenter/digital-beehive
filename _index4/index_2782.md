@@ -2,9 +2,9 @@
 pid: index_2782
 volume: Volume 3
 image_number: '33'
-head: old
-entry: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0419/'>355
-  [Old and obsolete]</a>|4599 [PAGE_MISSING]"
+head: original Sin
+entry: "<a href='/digital-beehive/alpha4/alpha_0671/'>a</a>|<a href='/digital-beehive/num5/num_1728/'>1248
+  [Original Sin]</a>|<a href='/digital-beehive/num10/num_3366/'>2393 [Original Pollution]</a>"
 topic:
 first_letter: O
 page:
@@ -12,21 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-531172bf5"
+item: "#item-8d09edae6"
 unparsed:
-line: 'Head: old|Entry: 12 [Old friends]|Entry: 355 [Old and obsolete]|Entry: 4599
-  [PAGE_MISSING]|#item-531172bf5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/823,1472,627,132/full/0/default.jpg
+line: 'Head: original Sin|Entry: a|Entry: 1248 [Original Sin]|Entry: 2393 [Original
+  Pollution]|#item-8d09edae6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1484,2824,766,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348271147
-sort_value: '303321472'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163705785
+sort_value: '303332824'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/823,1472,627,132/150,/0/default.jpg
-label: old
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1484,2824,766,180/150,/0/default.jpg
+label: original Sin
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0030'
+order: '0074'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,29 @@
 pid: index_2780
 volume: Volume 3
 image_number: '33'
-head: ointment
-entry: 821 [PAGE_MISSING]
+head: organs
+entry: 4719 [PAGE_MISSING]
 topic:
 first_letter: O
-page:
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>|<a href='/digital-beehive/toc/toc1_089/'>p.39
+  [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-77ac84bcf"
+item: "#item-0e4f9b94f"
 unparsed:
-line: 'Head: ointment|Entry: 821 [PAGE_MISSING]|#item-77ac84bcf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/828,1209,524,101/full/0/default.jpg
+line: 'Head: organs|Page: p.4 [Image 1.64]|Page: p.39 [Image 1.99]|Entry: 4719 [PAGE_MISSING]|#item-0e4f9b94f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1503,2593,717,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348172580
-sort_value: '303321209'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163492888
+sort_value: '303332593'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/828,1209,524,101/150,/0/default.jpg
-label: ointment
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1503,2593,717,153/150,/0/default.jpg
+label: organs
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0028'
+order: '0072'
 layout: index_item
 collection: index4
 ---

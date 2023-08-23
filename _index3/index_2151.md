@@ -2,29 +2,28 @@
 pid: index_2151
 volume: Volume 3
 image_number: '27'
-head: Tho. of Kempis
-entry: "<a href='/digital-beehive/num5/num_1349/'>1009 [Thomas of Kempis]</a>"
+head: lake
+entry: 4505 [PAGE_MISSING]
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3513/'>Sea</a>"
 index:
-item: "#item-58914e255"
+item: "#item-1e2573473"
 unparsed:
-line: 'Head: Tho. of Kempis|Entry: 1009 [Thomas of Kempis]|#item-58914e255'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/121,3530,613,127/full/0/default.jpg
+line: 'Head: lake|See: Sea|Entry: 4505 [PAGE_MISSING]|#item-1e2573473'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/811,3409,710,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759660997
-sort_value: '302713530'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832456028
+sort_value: '302723409'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/121,3530,613,127/150,/0/default.jpg
-label: Tho. of Kempis
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/811,3409,710,153/150,/0/default.jpg
+label: lake
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '233'
+order: '266'
 layout: index_item
 collection: index3
 ---

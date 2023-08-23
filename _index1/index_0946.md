@@ -2,9 +2,11 @@
 pid: index_0946
 volume: Volume 3
 image_number: '15'
-head: darkness
-entry: "<a href='/digital-beehive/alpha1/alpha_0210/'>a</a>|<a href='/digital-beehive/num5/num_1672/'>1220
-  [Darkness]</a>"
+head: death
+entry: "<a href='/digital-beehive/alpha1/alpha_0213/'>a</a>|<a href='/digital-beehive/num3/num_0638/'>507
+  [Death passed upon all men]</a>|<a href='/digital-beehive/num5/num_1589/'>1166 [Death]</a>|<a
+  href='/digital-beehive/num5/num_1725/'>1247 [Death]</a>|<a href='/digital-beehive/num10/num_3364/'>2391
+  [Death]</a>"
 topic:
 first_letter: D
 page:
@@ -12,19 +14,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b468baa05"
+item: "#item-725443b1e"
 unparsed:
-line: 'Head: darkness|Entry: a|Entry: 1220 [Darkness]|#item-b468baa05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1514,1474,619,124/full/0/default.jpg
+line: 'Head: death|Entry: a|Entry: 507 [Death passed upon all men]|Entry: 1166 [Death]|Entry:
+  1247 [Death]|Entry: 2391 [Death]|#item-725443b1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1418,2857,865,208/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391199497
-sort_value: '301531474'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507322361555
+sort_value: '301532857'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1514,1474,619,124/150,/0/default.jpg
-label: darkness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1418,2857,865,208/150,/0/default.jpg
+label: death
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0945'
 layout: index_item
 collection: index1

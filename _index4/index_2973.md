@@ -2,9 +2,10 @@
 pid: index_2973
 volume: Volume 3
 image_number: '35'
-head: pestilence
-entry: "<a href='/digital-beehive/alpha4/alpha_0707/'>a</a>|<a href='/digital-beehive/num7/num_2661/'>1734
-  [Pestilence]</a>|<a href='/digital-beehive/num9/num_3113/'>2170 [Pestilence]</a>"
+head: philosophy
+entry: "<a href='/digital-beehive/alpha4/alpha_0708/'>a</a>|<a href='/digital-beehive/num2/num_0564/'>453
+  [Philosophy]</a>|<a href='/digital-beehive/num7/num_2619/'>1698 [Philosophy]</a>|<a
+  href='/digital-beehive/num11/num_3520/'>4824 [Philosophy]</a>"
 topic:
 first_letter: P
 page:
@@ -12,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-0ddce70bf"
+item: "#item-d7608cf75"
 unparsed:
-line: 'Head: pestilence|Entry: a|Entry: 1734 [Pestilence]|Entry: 2170 [Pestilence]|#item-0ddce70bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/822,1165,718,136/full/0/default.jpg
+line: 'Head: philosophy|Entry: a|Entry: 453 [Philosophy]|Entry: 1698 [Philosophy]|Entry:
+  4824 [Philosophy]|#item-d7608cf75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/796,2422,1036,206/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974237170
-sort_value: '303521165'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976995304
+sort_value: '303532422'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/822,1165,718,136/150,/0/default.jpg
-label: pestilence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/796,2422,1036,206/150,/0/default.jpg
+label: philosophy
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0221'
+order: '0265'
 layout: index_item
 collection: index4
 ---

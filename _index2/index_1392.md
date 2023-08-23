@@ -2,29 +2,28 @@
 pid: index_1392
 volume: Volume 3
 image_number: '20'
-head: false brethren
-entry: "<a href='/digital-beehive/num8/num_2906/'>1975 [Hypocrisie]</a>"
+head: fault
+entry: "<a href='/digital-beehive/alpha2/alpha_0321/'>a</a>"
 topic:
 first_letter: F
 page:
-add: surreptitious
+add:
 xref:
 see:
 index:
-item: "#item-8ad1cca5a"
+item: "#item-520af49c0"
 unparsed:
-line: 'Head: false brethren|Entry: 1975 [Hypocrisie]|Add: surreptitious|#item-8ad1cca5a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/393,1981,563,168/full/0/default.jpg
+line: 'Head: fault|Entry: a|#item-520af49c0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1141,675,283,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561402797642
-sort_value: '302011981'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661101529
+sort_value: '302020675'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/393,1981,563,168/150,/0/default.jpg
-label: false brethren
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1141,675,283,113/150,/0/default.jpg
+label: fault
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '211'
+order: '233'
 layout: index_item
 collection: index2
 ---

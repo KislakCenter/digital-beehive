@@ -1,10 +1,9 @@
 ---
 pid: index_2312
 volume: Volume 3
-image_number: '28'
-head: livelyhood
-entry: "<a href='/digital-beehive/alpha3/alpha_0546/'>a</a>|<a href='/digital-beehive/num7/num_2485/'>1635
-  [Livelyhood]</a>"
+image_number: '29'
+head: platonick love
+entry: "<a href='/digital-beehive/num7/num_2328/'>1559 [Platonical Love]</a>"
 topic:
 first_letter: L
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-777fb0808"
+item: "#item-204741b1b"
 unparsed:
-line: 'Head: livelyhood|Entry: a|Entry: 1635 [Livelyhood]|#item-777fb0808'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1820,2507,590,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849774166
-sort_value: '302832507'
+line: 'Head: platonick love|Entry: 1559 [Platonical Love]|#item-204741b1b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/164,2719,615,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180035033
+sort_value: '302912719'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1820,2507,590,151/150,/0/default.jpg
-label: livelyhood
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/164,2719,615,133/150,/0/default.jpg
+label: platonick love
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '394'
+order: '427'
 layout: index_item
 collection: index3
 ---

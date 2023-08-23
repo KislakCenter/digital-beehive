@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0499/'>Justice</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Law</a>|<a
   href='/digital-beehive/alpha4/alpha_0813/'>Right</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1289/'>equity</a>"
+index: "<a href='/digital-beehive/index2/index_1266/'>equity</a>"
 item: "#item-814bcd187"
 unparsed:
 line: 'Entry: Equity|Topic: Equity|Xref: Justice|Xref: Law|Xref: Right|Index: equity|#item-814bcd187'

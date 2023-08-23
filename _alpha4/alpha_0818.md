@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0818/'>Fables</a>|<a href='/digital-beehive/num6/num_1998/'>1393
   [Romances]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3443/'>romance</a>"
+index: "<a href='/digital-beehive/index4/index_3390/'>romance</a>"
 item: "#item-af75dbbde"
 unparsed:
 line: 'Entry: Romances|Topic: Romances|Xref: Fables|Xref: 1393 [Romances]|Index: romance|#item-af75dbbde'

@@ -1,9 +1,9 @@
 ---
 pid: index_1156
 volume: Volume 3
-image_number: '17'
-head: dropsie
-entry: "<a href='/digital-beehive/num3/num_0773/'>594 [Dropsie]</a>"
+image_number: '18'
+head: to dwell
+entry: "<a href='/digital-beehive/num6/num_2113/'>1446 [To Dwell]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-7303167f5"
+item: "#item-6f049f2d7"
 unparsed:
-line: 'Head: dropsie|Entry: 594 [Dropsie]|#item-7303167f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1428,2792,506,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560453084473
-sort_value: '301732792'
+line: 'Head: to dwell|Entry: 1446 [To Dwell]|#item-6f049f2d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/426,1365,486,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559664921533
+sort_value: '301811365'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1428,2792,506,145/150,/0/default.jpg
-label: dropsie
-location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/426,1365,486,116/150,/0/default.jpg
+label: to dwell
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1155'
 layout: index_item
 collection: index1

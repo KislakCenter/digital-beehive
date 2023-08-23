@@ -2,8 +2,9 @@
 pid: index_0522
 volume: Volume 3
 image_number: '11'
-head: I can not
-entry: 4597 [PAGE_MISSING]
+head: capital offence
+entry: "<a href='/digital-beehive/alpha1/alpha_0120/'>a</a>|<a href='/digital-beehive/num3/num_0866/'>638
+  [Capital Offences]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-7c30b188a"
+item: "#item-51a813e34"
 unparsed:
-line: 'Head: I can not|Entry: 4597 [PAGE_MISSING]|#item-7c30b188a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1577,1651,459,98/full/0/default.jpg
+line: 'Head: capital offence|Entry: a|Entry: 638 [Capital Offences]|#item-51a813e34'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,2713,718,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531495123983
-sort_value: '301131651'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496060203
+sort_value: '301132713'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1577,1651,459,98/150,/0/default.jpg
-label: I can not
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1570,2713,718,143/150,/0/default.jpg
+label: capital offence
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0521'
 layout: index_item
 collection: index1

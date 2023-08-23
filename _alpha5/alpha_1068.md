@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index5/index_4627/'>wounds of Christ</a>"
+index: "<a href='/digital-beehive/index5/index_4556/'>wounds of Christ</a>"
 item: "#item-95a4a8f71"
 unparsed:
 line: 'Entry: Christs Wounds|Topic: Christs Wounds|Index: wounds of Christ|#item-95a4a8f71'

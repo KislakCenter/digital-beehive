@@ -2,28 +2,27 @@
 pid: index_0493
 volume: Volume 3
 image_number: '11'
-head: butts
-entry: 4577 [PAGE_MISSING]
+head: cabbages
+entry: "<a href='/digital-beehive/num3/num_0939/'>675 [Cabbages]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
 see:
 index:
-item: "#item-41e9c063f"
+item: "#item-a3a7966b0"
 unparsed:
-line: 'Head: butts|Entry: 4577 [PAGE_MISSING]|#item-41e9c063f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/886,2504,378,103/full/0/default.jpg
+line: 'Head: cabbages|Entry: 675 [Cabbages]|#item-a3a7966b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/881,3466,507,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421921068
-sort_value: '301122504'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493829941
+sort_value: '301123466'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/886,2504,378,103/150,/0/default.jpg
-label: butts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/881,3466,507,143/150,/0/default.jpg
+label: cabbages
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0492'
 layout: index_item
 collection: index1

@@ -1,9 +1,9 @@
 ---
 pid: index_2898
 volume: Volume 3
-image_number: '34'
-head: 'partakers of oth: Sins'
-entry: "<a href='/digital-beehive/num10/num_3389/'>2415 [Partake not with the wicked]</a>"
+image_number: '35'
+head: Is. Penington
+entry: "<a href='/digital-beehive/num5/num_1406/'>1050 [Isaac Penington]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0e2eecca7"
+item: "#item-b04ffe052"
 unparsed:
-line: 'Head: partakers of oth: Sins|Entry: 2415 [Partake not with the wicked]|#item-0e2eecca7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,3098,678,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494698453
-sort_value: '303423098'
+line: 'Head: Is. Penington|Entry: 1050 [Isaac Penington]|#item-b04ffe052'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/115,1184,665,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972510909
+sort_value: '303511184'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,3098,678,146/150,/0/default.jpg
-label: 'partakers of oth: Sins'
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/115,1184,665,135/150,/0/default.jpg
+label: Is. Penington
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0146'
+order: '0190'
 layout: index_item
 collection: index4
 ---

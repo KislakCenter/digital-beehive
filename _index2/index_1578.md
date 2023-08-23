@@ -1,9 +1,10 @@
 ---
 pid: index_1578
 volume: Volume 3
-image_number: '21'
-head: galilee
-entry: "<a href='/digital-beehive/num11/num_3564/'>4868 [Galileans]</a>"
+image_number: '22'
+head: h. Ghost
+entry: "<a href='/digital-beehive/alpha2/alpha_0362/'>a</a>|<a href='/digital-beehive/num5/num_1353/'>1012
+  [h: Ghost]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-89eca517d"
+item: "#item-1cd0eea23"
 unparsed:
-line: 'Head: galilee|Entry: 4868 [Galileans]|#item-89eca517d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2276,521,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787067680
-sort_value: '302132276'
+line: 'Head: h. Ghost|Entry: a|Entry: 1012 [h: Ghost]|#item-1cd0eea23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/422,1568,493,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042979521
+sort_value: '302211568'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2276,521,140/150,/0/default.jpg
-label: galilee
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/422,1568,493,142/150,/0/default.jpg
+label: h. Ghost
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '397'
+order: '419'
 layout: index_item
 collection: index2
 ---

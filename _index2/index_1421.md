@@ -2,9 +2,8 @@
 pid: index_1421
 volume: Volume 3
 image_number: '20'
-head: fear of death
-entry: "<a href='/digital-beehive/num5/num_1701/'>1234 [Fear & Contempt of Death]</a>|4605
-  [PAGE_MISSING]"
+head: to fill
+entry: "<a href='/digital-beehive/num3/num_1015/'>701 [To Fillup]</a>"
 topic:
 first_letter: F
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5a886f50b"
+item: "#item-ada71777b"
 unparsed:
-line: 'Head: fear of death|Entry: 1234 [Fear & Contempt of Death]|Entry: 4605 [PAGE_MISSING]|#item-5a886f50b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1144,1166,719,158/full/0/default.jpg
+line: 'Head: to fill|Entry: 701 [To Fillup]|#item-ada71777b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1099,3471,443,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562183762763
-sort_value: '302021166'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562599765459
+sort_value: '302023471'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1144,1166,719,158/150,/0/default.jpg
-label: fear of death
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1099,3471,443,167/150,/0/default.jpg
+label: to fill
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '240'
+order: '262'
 layout: index_item
 collection: index2
 ---

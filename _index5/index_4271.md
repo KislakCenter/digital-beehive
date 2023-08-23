@@ -2,29 +2,28 @@
 pid: index_4271
 volume: Volume 3
 image_number: '49'
-head: "[:26.]"
-entry:
+head: Virginia
+entry: "<a href='/digital-beehive/num7/num_2255/'>1521 [Virginia]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-2203475c8"
-unparsed: 'Type: Index|Insertion Xref: [:26.]|#item-2203475c8'
-line: 'Type: Index|Insertion Xref: [:26.]|#item-2203475c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/713,2154,265,200/full/0/default.jpg
+item: "#item-606867e5f"
+unparsed:
+line: 'Head: Virginia|Entry: 1521 [Virginia]|#item-606867e5f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1632,2333,446,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661662765
-sort_value: '304912154'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661059857
+sort_value: '304932333'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/713,2154,265,200/150,/0/default.jpg
-label: "[:26.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1632,2333,446,150/150,/0/default.jpg
+label: Virginia
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4691/'>Turpentine</a>"
-order: '233'
+order: '294'
 layout: index_item
 collection: index5
 ---

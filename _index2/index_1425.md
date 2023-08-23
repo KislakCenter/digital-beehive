@@ -2,8 +2,8 @@
 pid: index_1425
 volume: Volume 3
 image_number: '20'
-head: feeling
-entry: 847 [PAGE_MISSING]
+head: finger
+entry: "<a href='/digital-beehive/num8/num_2787/'>1902 [Finger]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6c814295b"
+item: "#item-1d9ad2121"
 unparsed:
-line: 'Head: feeling|Entry: 847 [PAGE_MISSING]|#item-6c814295b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1119,1668,429,175/full/0/default.jpg
+line: 'Head: finger|Entry: 1902 [Finger]|#item-1d9ad2121'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,511,498,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562184151481
-sort_value: '302021668'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562600660655
+sort_value: '302030511'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1119,1668,429,175/150,/0/default.jpg
-label: feeling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,511,498,152/150,/0/default.jpg
+label: finger
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '244'
+order: '266'
 layout: index_item
 collection: index2
 ---

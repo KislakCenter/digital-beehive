@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num2/num_0311/'>276 [Original Sin]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2826/'>original Sin</a>"
+index: "<a href='/digital-beehive/index4/index_2782/'>original Sin</a>"
 item: "#item-9576f643d"
 unparsed:
 line: 'Entry: Original Sin|Topic: Original Sin|Xref: 276 [Original Sin]|Index: original

@@ -2,8 +2,8 @@
 pid: index_0450
 volume: Volume 3
 image_number: '11'
-head: brewing
-entry: 4615 [PAGE_MISSING]
+head: brimstone
+entry: "<a href='/digital-beehive/num4/num_1194/'>911 [Brimstone]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d5633354a"
+item: "#item-e1a6ba41e"
 unparsed:
-line: 'Head: brewing|Entry: 4615 [PAGE_MISSING]|#item-d5633354a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1799,502,144/full/0/default.jpg
+line: 'Head: brimstone|Entry: 911 [Brimstone]|#item-e1a6ba41e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/170,2723,449,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565371034202
-sort_value: '301111799'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531419774010
+sort_value: '301112723'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,1799,502,144/150,/0/default.jpg
-label: brewing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/170,2723,449,151/150,/0/default.jpg
+label: brimstone
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0449'
 layout: index_item
 collection: index1

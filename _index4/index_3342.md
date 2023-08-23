@@ -2,29 +2,28 @@
 pid: index_3342
 volume: Volume 3
 image_number: '39'
-head: reign
-entry:
+head: restoration
+entry: "<a href='/digital-beehive/num7/num_2527/'>1652 [Restoration]</a>"
 topic:
 first_letter: R
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1240/'>empire</a>"
+see:
 index:
-item: "#item-cca72b48d"
+item: "#item-73835f792"
 unparsed:
-line: 'Head: reign|See: empire|#item-cca72b48d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/108,2515,581,135/full/0/default.jpg
+line: 'Head: restoration|Entry: 1652 [Restoration]|#item-73835f792'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1500,1880,600,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464995406
-sort_value: '303912515'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229933154
+sort_value: '303931880'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/108,2515,581,135/150,/0/default.jpg
-label: reign
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1500,1880,600,154/150,/0/default.jpg
+label: restoration
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0590'
+order: '0634'
 layout: index_item
 collection: index4
 ---

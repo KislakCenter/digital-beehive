@@ -10,7 +10,7 @@ page:
 add:
 xref: 784 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index5/index_4325/'>victory</a>"
+index: "<a href='/digital-beehive/index5/index_4257/'>victory</a>"
 item: "#item-b691fee42"
 unparsed:
 line: 'Entry: Victory|Topic: Victory|Xref: 784 [PAGE_MISSING]|Index: victory|#item-b691fee42'

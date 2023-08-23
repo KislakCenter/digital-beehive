@@ -2,29 +2,28 @@
 pid: index_4575
 volume: Volume 3
 image_number: '53'
-head: witchcraft natural
-entry: "<a href='/digital-beehive/num7/num_2297/'>1543 [Fascination]</a>"
+head: yesterday
+entry: "<a href='/digital-beehive/num5/num_1693/'>1230 [Yesterday]</a>"
 topic:
-first_letter: W
+first_letter: Y
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1ae98fbe1"
+item: "#item-4c258ee38"
 unparsed:
-line: 'Head: witchcraft natural|Entry: 1543 [Fascination]|#item-1ae98fbe1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/171,1764,537,106/full/0/default.jpg
+line: 'Head: yesterday|Entry: 1230 [Yesterday]|#item-4c258ee38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1566,2376,550,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792385732
-sort_value: '305311764'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799205710
+sort_value: '305332376'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/171,1764,537,106/150,/0/default.jpg
-label: witchcraft natural
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1566,2376,550,130/150,/0/default.jpg
+label: yesterday
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '537'
+order: '598'
 layout: index_item
 collection: index5
 ---

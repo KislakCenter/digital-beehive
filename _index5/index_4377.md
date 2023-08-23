@@ -1,30 +1,29 @@
 ---
 pid: index_4377
 volume: Volume 3
-image_number: '50'
-head: unfaithful
-entry:
+image_number: '51'
+head: usury
+entry: "<a href='/digital-beehive/alpha5/alpha_1019/'>a</a>|862 [PAGE_MISSING]"
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2033/'>infidelity</a>"
+see:
 index:
-item: "#item-8c2c95ecb"
+item: "#item-ce9fa03d4"
 unparsed:
-line: 'Head: unfaithful|See: infidelity|#item-8c2c95ecb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/424,3376,773,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560873940995
-sort_value: '305013376'
+line: 'Head: usury|Entry: a|Entry: 862 [PAGE_MISSING]|#item-ce9fa03d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/967,1749,499,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646870974
+sort_value: '305121749'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/424,3376,773,165/150,/0/default.jpg
-label: unfaithful
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/967,1749,499,128/150,/0/default.jpg
+label: usury
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '339'
+order: '400'
 layout: index_item
 collection: index5
 ---

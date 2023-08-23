@@ -2,29 +2,29 @@
 pid: index_3423
 volume: Volume 3
 image_number: '40'
-head: riddle
-entry: "<a href='/digital-beehive/num9/num_3168/'>2224 [Riddle]</a>"
+head: Sabbath
+entry: "<a href='/digital-beehive/alpha4/alpha_0824/'>a</a>|<a href='/digital-beehive/num4/num_1240/'>930
+  [Sabbath]</a>|<a href='/digital-beehive/num7/num_2385/'>1589 [Sabbath]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6db15d4f0"
+item: "#item-a1aa7c2f5"
 unparsed:
-line: 'Head: riddle|Entry: 2224 [Riddle]|#item-6db15d4f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/410,1933,583,140/full/0/default.jpg
+line: 'Head: Sabbath|Entry: a|Entry: 930 [Sabbath]|Entry: 1589 [Sabbath]|#item-a1aa7c2f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1817,1007,657,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231873094
-sort_value: '304011933'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234498089
+sort_value: '304031007'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/410,1933,583,140/150,/0/default.jpg
-label: riddle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1817,1007,657,164/150,/0/default.jpg
+label: Sabbath
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0671'
+order: '0715'
 layout: index_item
 collection: index4
 ---

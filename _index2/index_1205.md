@@ -2,29 +2,28 @@
 pid: index_1205
 volume: Volume 3
 image_number: '18'
-head: edge
-entry:
+head: elk
+entry: "<a href='/digital-beehive/num7/num_2270/'>1529 [Moose : Elk]</a>"
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0399/'>blunt</a>|<a href='/digital-beehive/index4/index_3664/'>sharp</a>"
+see:
 index:
-item: "#item-9dafb966c"
+item: "#item-153cebef1"
 unparsed:
-line: 'Head: edge|See: blunt|See: sharp|#item-9dafb966c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1160,717,682,138/full/0/default.jpg
+line: 'Head: elk|Entry: 1529 [Moose : Elk]|#item-153cebef1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1158,2661,329,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671796377
-sort_value: '301820717'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559680002578
+sort_value: '301822661'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1160,717,682,138/150,/0/default.jpg
-label: edge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1158,2661,329,131/150,/0/default.jpg
+label: elk
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '024'
+order: '046'
 layout: index_item
 collection: index2
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0341/'>forbearance</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2324/'>long sufferance</a>"
+index: "<a href='/digital-beehive/index3/index_2286/'>long sufferance</a>"
 item: "#item-8ae6416e0"
 unparsed:
 line: 'Entry: Longsufferance|Topic: Longsufferance|Xref: forbearance|Index: long sufferance|#item-8ae6416e0'

@@ -1,30 +1,32 @@
 ---
 pid: index_2612
 volume: Volume 3
-image_number: '31'
-head: to mumble
-entry: "<a href='/digital-beehive/num4/num_1113/'>876 [to Whisper]</a>"
+image_number: '32'
+head: natural philosophy
+entry: "<a href='/digital-beehive/alpha3/alpha_0635/'>a</a>|<a href='/digital-beehive/num7/num_2296/'>1543
+  [Natural Philosophy]</a>|<a href='/digital-beehive/num9/num_3069/'>2129 [Natural
+  Philosophy]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-618f16dcd"
+item: "#item-ee3b7ecd2"
 unparsed:
-line: 'Head: to mumble|Entry: 876 [to Whisper]|#item-618f16dcd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,1167,496,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361084483
-sort_value: '303131167'
+line: 'Head: natural philosophy|Entry: a|Entry: 1543 [Natural Philosophy]|Entry: 2129
+  [Natural Philosophy]|#item-ee3b7ecd2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/385,1751,860,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438068923
+sort_value: '303211751'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,1167,496,112/150,/0/default.jpg
-label: to mumble
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/385,1751,860,116/150,/0/default.jpg
+label: natural philosophy
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '694'
+order: '727'
 layout: index_item
 collection: index3
 ---

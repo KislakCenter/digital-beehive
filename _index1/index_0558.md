@@ -2,29 +2,27 @@
 pid: index_0558
 volume: Volume 3
 image_number: '12'
-head: cat
-entry: "<a href='/digital-beehive/alpha1/alpha_0127/'>a</a>|<a href='/digital-beehive/num8/num_2693/'>1761
-  [Cat]</a>"
+head: cave
+entry:
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page: "<a href='/digital-beehive/toc/toc1_081/'>p.31 [Image 1.91]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-ee77e9e0a"
+item: "#item-35a7df372"
 unparsed:
-line: 'Head: cat|Page: p.34 [Image 1.94]|Entry: a|Entry: 1761 [Cat]|#item-ee77e9e0a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,2113,599,131/full/0/default.jpg
+line: 'Head: cave|Page: p.31 [Image 1.91]|#item-35a7df372'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1130,213,363,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098164302
-sort_value: '301212113'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098790407
+sort_value: '301220213'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/409,2113,599,131/150,/0/default.jpg
-label: cat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1130,213,363,142/150,/0/default.jpg
+label: cave
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0557'
 layout: index_item
 collection: index1

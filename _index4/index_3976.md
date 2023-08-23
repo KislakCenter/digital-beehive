@@ -2,8 +2,8 @@
 pid: index_3976
 volume: Volume 3
 image_number: '46'
-head: sugar
-entry: "<a href='/digital-beehive/alpha4/alpha_0930/'>a</a>"
+head: Synonimy
+entry: 850 [PAGE_MISSING]
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-8226cbe9a"
+item: "#item-1a523ffe2"
 unparsed:
-line: 'Head: sugar|Entry: a|#item-8226cbe9a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/466,287,337,115/full/0/default.jpg
+line: 'Head: Synonimy|Entry: 850 [PAGE_MISSING]|#item-1a523ffe2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1106,3379,467,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565292567066
-sort_value: '304610287'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742073627
+sort_value: '304623379'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/466,287,337,115/150,/0/default.jpg
-label: sugar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1106,3379,467,158/150,/0/default.jpg
+label: Synonimy
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1224'
+order: '1268'
 layout: index_item
 collection: index4
 ---

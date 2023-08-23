@@ -2,9 +2,8 @@
 pid: index_1771
 volume: Volume 3
 image_number: '23'
-head: hay
-entry: "<a href='/digital-beehive/num4/num_1116/'>878 [Pasture]</a>|<a href='/digital-beehive/num9/num_3093/'>2151
-  [Grass & Pasture]</a>"
+head: Henry IV. K. of Fr
+entry: "<a href='/digital-beehive/num6/num_1851/'>1321 [Henry IV]</a>"
 topic:
 first_letter: H
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c7c65f67e"
+item: "#item-fb9e535ef"
 unparsed:
-line: 'Head: hay|Entry: 878 [Pasture]|Entry: 2151 [Grass & Pasture]|#item-c7c65f67e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/827,3307,460,145/full/0/default.jpg
+line: 'Head: Henry IV. K. of Fr|Entry: 1321 [Henry IV]|#item-fb9e535ef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1511,2841,607,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241651976
-sort_value: '302323307'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571929549
+sort_value: '302332841'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/827,3307,460,145/150,/0/default.jpg
-label: hay
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1511,2841,607,146/150,/0/default.jpg
+label: Henry IV. K. of Fr
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '590'
+order: '612'
 layout: index_item
 collection: index2
 ---

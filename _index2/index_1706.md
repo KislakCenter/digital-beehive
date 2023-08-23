@@ -2,31 +2,29 @@
 pid: index_1706
 volume: Volume 3
 image_number: '23'
-head: great
-entry: "<a href='/digital-beehive/alpha2/alpha_0389/'>a</a>|<a href='/digital-beehive/num3/num_0861/'>635
-  [Great, rich & eminent Persons]</a>|800 [PAGE_MISSING]"
+head: hair
+entry: "<a href='/digital-beehive/alpha2/alpha_0394/'>a</a>|<a href='/digital-beehive/num6/num_1882/'>1337
+  [Hair & Perriwigs]</a>|<a href='/digital-beehive/num10/num_3396/'>2422 [Hair & Periwigs]</a>"
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
 see:
 index:
-item: "#item-dc437600a"
+item: "#item-66d989896"
 unparsed:
-line: 'Head: great|Entry: a|Entry: 635 [Great, rich & eminent Persons]|Entry: 800
-  [PAGE_MISSING]|#item-dc437600a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/147,756,535,102/full/0/default.jpg
+line: 'Head: hair|Entry: a|Entry: 1337 [Hair & Perriwigs]|Entry: 2422 [Hair & Periwigs]|#item-66d989896'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/153,3493,615,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229762887
-sort_value: '302310756'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234459732
+sort_value: '302313493'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/147,756,535,102/150,/0/default.jpg
-label: great
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/153,3493,615,121/150,/0/default.jpg
+label: hair
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '525'
+order: '547'
 layout: index_item
 collection: index2
 ---

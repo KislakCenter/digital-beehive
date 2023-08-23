@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0592/'>Metal</a>|4549 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2116/'>iron</a>"
+index: "<a href='/digital-beehive/index3/index_2081/'>iron</a>"
 item: "#item-a5dae48ef"
 unparsed:
 line: 'Entry: Iron|Topic: Iron|Xref: Metal|Xref: 4549 [PAGE_MISSING]|Index: iron|#item-a5dae48ef'

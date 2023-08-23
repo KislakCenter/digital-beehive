@@ -1,30 +1,30 @@
 ---
 pid: index_3205
 volume: Volume 3
-image_number: '37'
-head: protection
-entry: "<a href='/digital-beehive/alpha4/alpha_0757/'>a</a>|1855 [PAGE_MISSING]"
+image_number: '38'
+head: winter quarter
+entry: a
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-0d901129b"
+item: "#item-960432a6f"
 unparsed:
-line: 'Head: protection|Entry: a|Entry: 1855 [PAGE_MISSING]|#item-0d901129b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1503,1806,581,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869422505
-sort_value: '303731806'
+line: 'Head: winter quarter|Entry: a|#item-960432a6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1156,357,512,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455013008
+sort_value: '303820357'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1503,1806,581,149/150,/0/default.jpg
-label: protection
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue:
-insertion_xref:
-order: '0453'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1156,357,512,107/150,/0/default.jpg
+label: winter quarter
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
+order: '0497'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0560/'>love of our neighbour</a>|4617
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index3/index_2681/'>neighbour</a>"
+index: "<a href='/digital-beehive/index3/index_2637/'>neighbour</a>"
 item: "#item-54616bebe"
 unparsed:
 line: 'Entry: Neighbour|Topic: Neighbour|Xref: love of our neighbour|Xref: 4617 [PAGE_MISSING]|Index:

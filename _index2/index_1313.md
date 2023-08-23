@@ -2,29 +2,28 @@
 pid: index_1313
 volume: Volume 3
 image_number: '19'
-head: evangelists
-entry:
+head: excrements
+entry: "<a href='/digital-beehive/num2/num_0362/'>314 [Foam]</a>"
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1671/'>gospel</a>"
+see:
 index:
-item: "#item-17332b14b"
+item: "#item-e1274210c"
 unparsed:
-line: 'Head: evangelists|See: gospel|#item-17332b14b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/855,832,697,184/full/0/default.jpg
+line: 'Head: excrements|Entry: 314 [Foam]|#item-e1274210c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/821,3475,540,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350963400
-sort_value: '301920832'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560364438930
+sort_value: '301923475'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/855,832,697,184/150,/0/default.jpg
-label: evangelists
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/821,3475,540,103/150,/0/default.jpg
+label: excrements
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '132'
+order: '154'
 layout: index_item
 collection: index2
 ---

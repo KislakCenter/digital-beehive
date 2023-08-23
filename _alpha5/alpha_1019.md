@@ -10,7 +10,7 @@ page:
 add:
 xref: 862 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index5/index_4446/'>usury</a>"
+index: "<a href='/digital-beehive/index5/index_4377/'>usury</a>"
 item: "#item-c64fdb463"
 unparsed:
 line: 'Entry: Usury|Topic: Usury|Xref: 862 [PAGE_MISSING]|Index: usury|#item-c64fdb463'

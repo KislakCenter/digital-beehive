@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1255/'>938 [Self denial]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3613/'>Self denial</a>"
+index: "<a href='/digital-beehive/index4/index_3557/'>Self denial</a>"
 item: "#item-e12c96c89"
 unparsed:
 line: 'Entry: Self denial|Topic: Self denial|Xref: 938 [Self denial]|Index: Self denial|#item-e12c96c89'

@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0790/'>Regeneration</a>|<a href='/
   href='/digital-beehive/num2/num_0511/'>413 [Infant baptism]</a>|<a href='/digital-beehive/num2/num_0308/'>273
   [Baptism]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0289/'>baptism</a>"
+index: "<a href='/digital-beehive/index1/index_0282/'>baptism</a>"
 item: "#item-b6dca95d2"
 unparsed:
 line: 'Entry: Baptism|Topic: Baptism|Xref: Regeneration|Xref: Washing|Xref: 413 [Infant

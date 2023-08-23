@@ -2,8 +2,8 @@
 pid: index_0464
 volume: Volume 3
 image_number: '11'
-head: broom
-entry: 842 [PAGE_MISSING]
+head: bugs
+entry: "<a href='/digital-beehive/alpha1/alpha_0108/'>a</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d55e3f41e"
+item: "#item-8dd030ce2"
 unparsed:
-line: 'Head: broom|Entry: 842 [PAGE_MISSING]|#item-d55e3f41e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/172,3257,397,117/full/0/default.jpg
+line: 'Head: bugs|Entry: a|#item-8dd030ce2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/889,661,263,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419951730
-sort_value: '301113257'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531420415270
+sort_value: '301120661'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/172,3257,397,117/150,/0/default.jpg
-label: broom
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/889,661,263,131/150,/0/default.jpg
+label: bugs
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0463'
 layout: index_item
 collection: index1

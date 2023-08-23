@@ -2,8 +2,8 @@
 pid: index_1452
 volume: Volume 3
 image_number: '20'
-head: firewood
-entry: 4614 [PAGE_MISSING]
+head: flegm
+entry: "<a href='/digital-beehive/num10/num_3216/'>2262 [Phlegm or Flegm]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6635f864a"
+item: "#item-315da2958"
 unparsed:
-line: 'Head: firewood|Entry: 4614 [PAGE_MISSING]|#item-6635f864a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,730,521,212/full/0/default.jpg
+line: 'Head: flegm|Entry: 2262 [Phlegm or Flegm]|#item-315da2958'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,2804,478,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562612879607
-sort_value: '302030730'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562617298259
+sort_value: '302032804'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,730,521,212/150,/0/default.jpg
-label: firewood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,2804,478,169/150,/0/default.jpg
+label: flegm
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '271'
+order: '293'
 layout: index_item
 collection: index2
 ---

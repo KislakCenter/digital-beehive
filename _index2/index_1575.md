@@ -1,9 +1,10 @@
 ---
 pid: index_1575
 volume: Volume 3
-image_number: '21'
-head: gall
-entry: "<a href='/digital-beehive/num5/num_1474/'>1090 [Gall]</a>"
+image_number: '22'
+head: by gess
+entry: "<a href='/digital-beehive/num1/num_0130/'>125 [Conjectures]</a>|<a href='/digital-beehive/num4/num_1243/'>932
+  [Conjecture]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-a8d267488"
+item: "#item-b0be343ef"
 unparsed:
-line: 'Head: gall|Entry: 1090 [Gall]|#item-a8d267488'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2100,413,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786636721
-sort_value: '302132100'
+line: 'Head: by gess|Entry: 125 [Conjectures]|Entry: 932 [Conjecture]|#item-b0be343ef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/427,1155,525,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042834323
+sort_value: '302211155'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1516,2100,413,137/150,/0/default.jpg
-label: gall
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/427,1155,525,127/150,/0/default.jpg
+label: by gess
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '394'
+order: '416'
 layout: index_item
 collection: index2
 ---

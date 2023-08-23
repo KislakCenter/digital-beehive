@@ -2,29 +2,28 @@
 pid: index_2258
 volume: Volume 3
 image_number: '28'
-head: less
-entry: "<a href='/digital-beehive/num3/num_0899/'>653 [Less]</a>"
+head: lime
+entry: "<a href='/digital-beehive/num6/num_2004/'>1396 [Lime]</a>"
 topic:
 first_letter: L
-page:
+page: "<a href='/digital-beehive/toc/toc1_081/'>p.31 [Image 1.91]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-c2a0a9073"
+item: "#item-1d7f895f3"
 unparsed:
-line: 'Head: less|Entry: 653 [Less]|#item-c2a0a9073'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1145,510,314,162/full/0/default.jpg
+line: 'Head: lime|Page: p.31 [Image 1.91]|Entry: 1396 [Lime]|#item-1d7f895f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1841,814,479,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844232234
-sort_value: '302820510'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848573959
+sort_value: '302830814'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1145,510,314,162/150,/0/default.jpg
-label: less
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1841,814,479,154/150,/0/default.jpg
+label: lime
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '340'
+order: '373'
 layout: index_item
 collection: index3
 ---

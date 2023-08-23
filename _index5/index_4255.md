@@ -1,30 +1,30 @@
 ---
 pid: index_4255
 volume: Volume 3
-image_number: '48'
-head: true story
-entry: "<a href='/digital-beehive/num6/num_1801/'>1291 [True Story]</a>"
+image_number: '49'
+head: vice
+entry: "<a href='/digital-beehive/num5/num_1602/'>1175 [Vices]</a>|<a href='/digital-beehive/num9/num_2945/'>2010
+  [Vices]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c650dfbae"
+item: "#item-659a89c8f"
 unparsed:
-line: 'Head: true story|Entry: 1291 [True Story]|#item-c650dfbae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1794,3481,525,197/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562090561365
-sort_value: '304833481'
+line: 'Head: vice|Entry: 1175 [Vices]|Entry: 2010 [Vices]|#item-659a89c8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,505,513,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659592980
+sort_value: '304930505'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1794,3481,525,197/150,/0/default.jpg
-label: true story
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,505,513,115/150,/0/default.jpg
+label: vice
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '217'
+order: '278'
 layout: index_item
 collection: index5
 ---

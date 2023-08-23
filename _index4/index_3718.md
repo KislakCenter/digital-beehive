@@ -2,10 +2,9 @@
 pid: index_3718
 volume: Volume 3
 image_number: '43'
-head: sin
-entry: "<a href='/digital-beehive/alpha4/alpha_0883/'>a</a>|<a href='/digital-beehive/num5/num_1440/'>1069
-  [Sin]</a>|<a href='/digital-beehive/num6/num_2031/'>1409 [Sin]</a>|<a href='/digital-beehive/num10/num_3368/'>2395
-  [Sin]</a>"
+head: Societies
+entry: "<a href='/digital-beehive/num7/num_2280/'>1532 [Societies for Reformation
+  of Manners]</a>"
 topic:
 first_letter: S
 page:
@@ -13,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-955a1f5bb"
+item: "#item-ec85578b1"
 unparsed:
-line: 'Head: sin|Entry: a|Entry: 1069 [Sin]|Entry: 1409 [Sin]|Entry: 2395 [Sin]|#item-955a1f5bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/192,2739,782,129/full/0/default.jpg
+line: 'Head: Societies|Entry: 1532 [Societies for Reformation of Manners]|#item-ec85578b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1597,1792,481,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582469600
-sort_value: '304312739'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586089723
+sort_value: '304331792'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/192,2739,782,129/150,/0/default.jpg
-label: sin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1597,1792,481,116/150,/0/default.jpg
+label: Societies
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0966'
+order: '1010'
 layout: index_item
 collection: index4
 ---

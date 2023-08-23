@@ -1,9 +1,10 @@
 ---
 pid: index_4465
 volume: Volume 3
-image_number: '51'
-head: walks. spatzieren
-entry: "<a href='/digital-beehive/num6/num_2105/'>1441 [Walks : walking places]</a>"
+image_number: '52'
+head: whimsies
+entry: "<a href='/digital-beehive/num2/num_0339/'>299 [idle fancies]</a>|<a href='/digital-beehive/num10/num_3469/'>4481
+  [Whimsies]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-13176ba53"
+item: "#item-d75959fe0"
 unparsed:
-line: 'Head: walks. spatzieren|Entry: 1441 [Walks : walking places]|#item-13176ba53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1636,1055,670,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647744045
-sort_value: '305131055'
+line: 'Head: whimsies|Entry: 299 [idle fancies]|Entry: 4481 [Whimsies]|#item-d75959fe0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1780,247,695,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970965038
+sort_value: '305230247'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1636,1055,670,170/150,/0/default.jpg
-label: walks. spatzieren
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1780,247,695,132/150,/0/default.jpg
+label: whimsies
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '427'
+order: '488'
 layout: index_item
 collection: index5
 ---

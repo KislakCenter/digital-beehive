@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index1/index_0571/'>cause of Sin</a>"
+index: "<a href='/digital-beehive/index1/index_0560/'>cause of Sin</a>"
 item: "#item-bc4d70036"
 unparsed:
 line: 'Entry: Cause of Sin|Topic: Cause of Sin|Index: cause of Sin|#item-bc4d70036'

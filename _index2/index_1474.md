@@ -1,30 +1,29 @@
 ---
 pid: index_1474
 volume: Volume 3
-image_number: '20'
-head: flax
-entry: 853 [PAGE_MISSING]
+image_number: '21'
+head: forbidden things
+entry: "<a href='/digital-beehive/alpha2/alpha_0342/'>a</a>"
 topic:
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-8bb352856"
+item: "#item-a403e007a"
 unparsed:
-line: 'Head: flax|Page: p.38 [Image 1.98]|Entry: 853 [PAGE_MISSING]|#item-8bb352856'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1798,2505,546,195/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562616345582
-sort_value: '302032505'
+line: 'Head: forbidden things|Entry: a|#item-a403e007a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/165,1757,625,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560782024257
+sort_value: '302111757'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1798,2505,546,195/150,/0/default.jpg
-label: flax
-location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/165,1757,625,124/150,/0/default.jpg
+label: forbidden things
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '293'
+order: '315'
 layout: index_item
 collection: index2
 ---

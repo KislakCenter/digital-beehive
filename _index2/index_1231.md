@@ -2,8 +2,8 @@
 pid: index_1231
 volume: Volume 3
 image_number: '18'
-head: embalm
-entry: "<a href='/digital-beehive/num7/num_2472/'>1629 [Mummy]</a>"
+head: England new
+entry: 766 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ccffa8da0"
+item: "#item-ef0f60d21"
 unparsed:
-line: 'Head: embalm|Entry: 1629 [Mummy]|#item-ccffa8da0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1159,3028,468,113/full/0/default.jpg
+line: 'Head: England new|Entry: 766 [PAGE_MISSING]|#item-ef0f60d21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1823,1568,403,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559680475790
-sort_value: '301823028'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756254114
+sort_value: '301831568'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1159,3028,468,113/150,/0/default.jpg
-label: embalm
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1823,1568,403,94/150,/0/default.jpg
+label: England new
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '050'
+order: '072'
 layout: index_item
 collection: index2
 ---

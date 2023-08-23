@@ -2,8 +2,8 @@
 pid: index_1940
 volume: Volume 3
 image_number: '25'
-head: Jesus
-entry: "<a href='/digital-beehive/alpha3/alpha_0452/'>a</a>"
+head: impostumes
+entry: "<a href='/digital-beehive/num3/num_0780/'>597 [Impostumes]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f7f96b109"
+item: "#item-bd0bb1e85"
 unparsed:
-line: 'Head: Jesus|Entry: a|#item-f7f96b109'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/162,2081,296,176/full/0/default.jpg
+line: 'Head: impostumes|Entry: 597 [Impostumes]|#item-bd0bb1e85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/860,2197,476,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661112556
-sort_value: '302512081'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666640783
+sort_value: '302522197'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/162,2081,296,176/150,/0/default.jpg
-label: Jesus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/860,2197,476,147/150,/0/default.jpg
+label: impostumes
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '022'
+order: '055'
 layout: index_item
 collection: index3
 ---

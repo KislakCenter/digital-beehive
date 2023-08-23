@@ -2,8 +2,8 @@
 pid: index_0693
 volume: Volume 3
 image_number: '13'
-head: clerk
-entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
+head: coach
+entry: "<a href='/digital-beehive/num5/num_1584/'>1162 [Carriage]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-b6f5abb5c"
+item: "#item-44198db57"
 unparsed:
-line: 'Head: clerk|Entry: 260 [Scribe or publick Notary]|#item-b6f5abb5c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/850,805,416,123/full/0/default.jpg
+line: 'Head: coach|Entry: 1162 [Carriage]|#item-44198db57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/873,2233,401,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536334214371
-sort_value: '301320805'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536607890224
+sort_value: '301322233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/850,805,416,123/150,/0/default.jpg
-label: clerk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/873,2233,401,141/150,/0/default.jpg
+label: coach
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0692'
 layout: index_item
 collection: index1

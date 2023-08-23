@@ -8,14 +8,12 @@ topic: Oracle
 first_letter: O
 page:
 add:
-xref: "<a href='/digital-beehive/num6/num_1837/'>1315 [Divination]</a>|<a href='/digital-beehive/num7/num_2247/'>1518
-  [Oracles]</a>"
+xref: "<a href='/digital-beehive/num7/num_2247/'>1518 [Oracles]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2815/'>oracle</a>"
+index: "<a href='/digital-beehive/index4/index_2771/'>oracle</a>"
 item: "#item-211319dde"
 unparsed:
-line: 'Entry: Oracle|Topic: Oracle|Xref: 1315 [Divination]|Xref: 1518 [Oracles]|Index:
-  oracle|#item-211319dde'
+line: 'Entry: Oracle|Topic: Oracle|Xref: 1518 [Oracles]|Index: oracle|#item-211319dde'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/351,4716,2995,373/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565018174995
@@ -24,7 +22,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/351,4716,600,180/250,/0/default.jpg
 label: Oracle
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue: The point of reference for "Divination" is unclear.
+issue: The point of reference for "Divination" is not entirely clear, as there is
+  no alphabetical entry for this term. The Octavo Index indicates that 1315 [Divination]
+  may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
 also_in_entry:
 order: '017'
 layout: alpha_item

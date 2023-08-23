@@ -2,8 +2,9 @@
 pid: index_0248
 volume: Volume 3
 image_number: '9'
-head: avoiding
-entry: "<a href='/digital-beehive/num3/num_1062/'>719 [To Avoid]</a>"
+head: authority
+entry: "<a href='/digital-beehive/alpha1/alpha_0049/'>a</a>|<a href='/digital-beehive/num10/num_3317/'>2346
+  [Authority]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-fd7744287"
+item: "#item-e828db472"
 unparsed:
-line: 'Head: avoiding|Entry: 719 [To Avoid]|#item-fd7744287'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/192,1330,461,174/full/0/default.jpg
+line: 'Head: authority|Entry: a|Entry: 2346 [Authority]|#item-e828db472'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/177,2120,636,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015361677
-sort_value: '300911330'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015964802
+sort_value: '300912120'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/192,1330,461,174/150,/0/default.jpg
-label: avoiding
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/177,2120,636,142/150,/0/default.jpg
+label: authority
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0247'
 layout: index_item
 collection: index1

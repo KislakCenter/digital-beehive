@@ -2,9 +2,9 @@
 pid: index_1283
 volume: Volume 3
 image_number: '19'
-head: epistolography
-entry: "<a href='/digital-beehive/num7/num_2365/'>1576 [Having in one of my other
-  Manuscripts composed an Epistolography by itself : I. Vulgar Titles]</a>"
+head: "&c"
+entry: "<a href='/digital-beehive/num2/num_0453/'>374 [Brevity]</a>|<a href='/digital-beehive/num4/num_1244/'>932
+  [Brevity]</a>|<a href='/digital-beehive/num7/num_2572/'>1674 [&c]</a>"
 topic:
 first_letter: E
 page:
@@ -12,21 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4dfa8148b"
+item: "#item-802b2c28f"
 unparsed:
-line: 'Head: epistolography|Entry: 1576 [Having in one of my other Manuscripts composed
-  an Epistolography by itself : I. Vulgar Titles]|#item-4dfa8148b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/138,846,670,167/full/0/default.jpg
+line: 'Head: &c|Entry: 374 [Brevity]|Entry: 932 [Brevity]|Entry: 1674 [&c]|#item-802b2c28f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/879,261,609,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843348033
-sort_value: '301910846'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560349186535
+sort_value: '301920261'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/138,846,670,167/150,/0/default.jpg
-label: epistolography
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/879,261,609,137/150,/0/default.jpg
+label: "&c"
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '102'
+order: '124'
 layout: index_item
 collection: index2
 ---

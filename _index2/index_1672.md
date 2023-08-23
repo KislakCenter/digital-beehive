@@ -1,30 +1,29 @@
 ---
 pid: index_1672
 volume: Volume 3
-image_number: '22'
-head: gospel of nicodemus
-entry:
+image_number: '23'
+head: gray hairs
+entry: "<a href='/digital-beehive/alpha2/alpha_0382/'>a</a>"
 topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_074/'>p.24 [Image 1.84]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-8493a48f7"
+item: "#item-ee64de4e8"
 unparsed:
-line: 'Head: gospel of nicodemus|Page: p.24 [Image 1.84]|#item-8493a48f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1855,794,669,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052046914
-sort_value: '302230794'
+line: 'Head: gray hairs|Entry: a|#item-ee64de4e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/129,457,504,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559228941091
+sort_value: '302310457'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1855,794,669,94/150,/0/default.jpg
-label: gospel of nicodemus
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/129,457,504,131/150,/0/default.jpg
+label: gray hairs
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '491'
+order: '513'
 layout: index_item
 collection: index2
 ---

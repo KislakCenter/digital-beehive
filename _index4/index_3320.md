@@ -1,9 +1,10 @@
 ---
 pid: index_3320
 volume: Volume 3
-image_number: '38'
-head: reconciliation universal
-entry: "<a href='/digital-beehive/num2/num_0456/'>379 [Reconciliatio universalis]</a>"
+image_number: '39'
+head: report
+entry: "<a href='/digital-beehive/alpha4/alpha_0797/'>a</a>|779 [PAGE_MISSING]|<a
+  href='/digital-beehive/num9/num_3188/'>2242 [Report & Hear-say]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-93706d7fe"
+item: "#item-44e9b761e"
 unparsed:
-line: 'Head: reconciliation universal|Entry: 379 [Reconciliatio universalis]|#item-93706d7fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1826,3462,678,215/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558462142147
-sort_value: '303833462'
+line: 'Head: report|Entry: a|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & Hear-say]|#item-44e9b761e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/799,2508,719,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469484989
+sort_value: '303922508'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1826,3462,678,215/150,/0/default.jpg
-label: reconciliation universal
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/799,2508,719,153/150,/0/default.jpg
+label: report
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0568'
+order: '0612'
 layout: index_item
 collection: index4
 ---

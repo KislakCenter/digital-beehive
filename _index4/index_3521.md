@@ -2,9 +2,8 @@
 pid: index_3521
 volume: Volume 3
 image_number: '41'
-head: satiety
-entry: "<a href='/digital-beehive/num1/num_0230/'>218 [Sufficient]</a>|<a href='/digital-beehive/num5/num_1667/'>1218
-  [Satiety]</a>"
+head: to search
+entry: "<a href='/digital-beehive/num3/num_0845/'>625 [Inquiry]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ac6d62f95"
+item: "#item-e0d32688c"
 unparsed:
-line: 'Head: satiety|Entry: 218 [Sufficient]|Entry: 1218 [Satiety]|#item-ac6d62f95'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/133,1803,619,100/full/0/default.jpg
+line: 'Head: to search|Entry: 625 [Inquiry]|#item-e0d32688c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1569,986,456,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239096765
-sort_value: '304111803'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242338731
+sort_value: '304130986'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/133,1803,619,100/150,/0/default.jpg
-label: satiety
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1569,986,456,148/150,/0/default.jpg
+label: to search
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0769'
+order: '0813'
 layout: index_item
 collection: index4
 ---

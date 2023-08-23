@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0117/'>Calumny</a>|<a href='/digital-beehive/alpha4/alpha_0835/'>Satyre</a>|<a
   href='/digital-beehive/num3/num_0898/'>653 [Slander]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3742/'>slander</a>"
+index: "<a href='/digital-beehive/index4/index_3685/'>slander</a>"
 item: "#item-6f4b8314c"
 unparsed:
 line: 'Entry: Slander|Topic: Slander|Xref: Calumny|Xref: Satyre|Xref: 653 [Slander]|Index:

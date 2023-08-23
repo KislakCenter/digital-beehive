@@ -1,9 +1,9 @@
 ---
 pid: index_3692
 volume: Volume 3
-image_number: '42'
-head: to shut
-entry: "<a href='/digital-beehive/num2/num_0486/'>397 [to Shut]</a>"
+image_number: '43'
+head: slender
+entry: "<a href='/digital-beehive/num2/num_0355/'>310 [Leanness]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d07555d77"
+item: "#item-d49da5e43"
 unparsed:
-line: 'Head: to shut|Entry: 397 [to Shut]|#item-d07555d77'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1804,3113,464,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576632144
-sort_value: '304233113'
+line: 'Head: slender|Entry: 310 [Leanness]|#item-d49da5e43'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/903,2436,448,90/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584598588
+sort_value: '304322436'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1804,3113,464,124/150,/0/default.jpg
-label: to shut
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/903,2436,448,90/150,/0/default.jpg
+label: slender
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0940'
+order: '0984'
 layout: index_item
 collection: index4
 ---

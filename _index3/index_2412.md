@@ -1,10 +1,9 @@
 ---
 pid: index_2412
 volume: Volume 3
-image_number: '29'
-head: manage
-entry: "<a href='/digital-beehive/num1/num_0161/'>155 [Use]</a>|<a href='/digital-beehive/num7/num_2333/'>1561
-  [Manage]</a>"
+image_number: '30'
+head: Maxims
+entry: "<a href='/digital-beehive/num9/num_2983/'>2048 [Maxims]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2a28c435c"
+item: "#item-7dd721b2b"
 unparsed:
-line: 'Head: manage|Entry: 155 [Use]|Entry: 1561 [Manage]|#item-2a28c435c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1522,2216,605,173/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195923807
-sort_value: '302932216'
+line: 'Head: Maxims|Entry: 2048 [Maxims]|#item-7dd721b2b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,2473,490,86/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265396084
+sort_value: '303012473'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1522,2216,605,173/150,/0/default.jpg
-label: manage
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/399,2473,490,86/150,/0/default.jpg
+label: Maxims
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '494'
+order: '527'
 layout: index_item
 collection: index3
 ---

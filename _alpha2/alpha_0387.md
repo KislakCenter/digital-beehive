@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1983/'>1386 [Gratulation]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1698/'>gratulation</a>"
+index: "<a href='/digital-beehive/index2/index_1667/'>gratulation</a>"
 item: "#item-e07dea125"
 unparsed:
 line: 'Entry: Gratulation|Topic: Gratulation|Xref: 1386 [Gratulation]|Index: gratulation|#item-e07dea125'

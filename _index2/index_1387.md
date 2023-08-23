@@ -2,9 +2,8 @@
 pid: index_1387
 volume: Volume 3
 image_number: '20'
-head: fall
-entry: "<a href='/digital-beehive/alpha2/alpha_0314/'>a</a>|<a href='/digital-beehive/num4/num_1312/'>983
-  [Fall]</a>|<a href='/digital-beehive/num10/num_3352/'>2379 [Fall]</a>"
+head: fat. aroina
+entry: "<a href='/digital-beehive/num9/num_3076/'>2136 [Fat : Sewet]</a>"
 topic:
 first_letter: F
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f8fb359a2"
+item: "#item-a9081188e"
 unparsed:
-line: 'Head: fall|Entry: a|Entry: 983 [Fall]|Entry: 2379 [Fall]|#item-f8fb359a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/384,1680,616,144/full/0/default.jpg
+line: 'Head: fat. aroina|Entry: 2136 [Fat : Sewet]|#item-a9081188e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,3547,585,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561401743275
-sort_value: '302011680'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660533716
+sort_value: '302013547'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/384,1680,616,144/150,/0/default.jpg
-label: fall
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,3547,585,126/150,/0/default.jpg
+label: fat. aroina
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '206'
+order: '228'
 layout: index_item
 collection: index2
 ---

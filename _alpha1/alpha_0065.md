@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1036/'>Whoredom</a>|765 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0311/'>baudry</a>"
+index: "<a href='/digital-beehive/index1/index_0303/'>baudry</a>"
 item: "#item-c20186c9f"
 unparsed:
 line: 'Entry: Baudry|Topic: Baudry|Xref: Whoredom|Xref: 765 [PAGE_MISSING]|Index:

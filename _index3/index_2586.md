@@ -2,9 +2,9 @@
 pid: index_2586
 volume: Volume 3
 image_number: '31'
-head: mortality
-entry: "<a href='/digital-beehive/alpha3/alpha_0611/'>a</a>|<a href='/digital-beehive/num5/num_1450/'>1075
-  [Mortality]</a>"
+head: mystery
+entry: "<a href='/digital-beehive/alpha3/alpha_0629/'>a</a>|<a href='/digital-beehive/num5/num_1343/'>1006
+  [Mystery]</a>"
 topic:
 first_letter: M
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-608363013"
+item: "#item-569ede8f3"
 unparsed:
-line: 'Head: mortality|Entry: a|Entry: 1075 [Mortality]|#item-608363013'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/862,2267,537,148/full/0/default.jpg
+line: 'Head: mystery|Entry: a|Entry: 1006 [Mystery]|#item-569ede8f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2768,568,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356414560
-sort_value: '303122267'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362568999
+sort_value: '303132768'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/862,2267,537,148/150,/0/default.jpg
-label: mortality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2768,568,113/150,/0/default.jpg
+label: mystery
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '668'
+order: '701'
 layout: index_item
 collection: index3
 ---

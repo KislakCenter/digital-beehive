@@ -2,8 +2,9 @@
 pid: index_3627
 volume: Volume 3
 image_number: '42'
-head: Self punishmt
-entry: "<a href='/digital-beehive/num1/num_0060/'>59 [Self-hurt or dam[m]age]</a>"
+head: shooting
+entry: "<a href='/digital-beehive/alpha4/alpha_0873/'>a</a>|<a href='/digital-beehive/num7/num_2264/'>1526
+  [Shooting]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-868a43b4b"
+item: "#item-2480e53da"
 unparsed:
-line: 'Head: Self punishmt|Entry: 59 [Self-hurt or dam[m]age]|#item-868a43b4b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,2343,764,119/full/0/default.jpg
+line: 'Head: shooting|Entry: a|Entry: 1526 [Shooting]|#item-2480e53da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1805,2063,598,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244890879
-sort_value: '304212343'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576294122
+sort_value: '304232063'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,2343,764,119/150,/0/default.jpg
-label: Self punishmt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1805,2063,598,130/150,/0/default.jpg
+label: shooting
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0875'
+order: '0919'
 layout: index_item
 collection: index4
 ---

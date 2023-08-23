@@ -1,9 +1,9 @@
 ---
 pid: index_3582
 volume: Volume 3
-image_number: '41'
-head: secondly
-entry: "<a href='/digital-beehive/num6/num_2056/'>1420 [Secondly]</a>"
+image_number: '42'
+head: Sentinel
+entry:
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3a8ebb712"
+item: "#item-8570bcde1"
 unparsed:
-line: 'Head: secondly|Entry: 1420 [Secondly]|#item-3a8ebb712'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1556,1457,539,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242530709
-sort_value: '304131457'
+line: 'Head: Sentinel|#item-8570bcde1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1129,225,376,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571836651
+sort_value: '304220225'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1556,1457,539,146/150,/0/default.jpg
-label: secondly
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1129,225,376,150/150,/0/default.jpg
+label: Sentinel
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0830'
+order: '0874'
 layout: index_item
 collection: index4
 ---

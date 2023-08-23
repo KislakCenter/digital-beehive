@@ -1,30 +1,30 @@
 ---
 pid: index_3552
 volume: Volume 3
-image_number: '41'
-head: scoff
-entry: 814 [PAGE_MISSING]
+image_number: '42'
+head: Self condemnation
+entry: "<a href='/digital-beehive/num2/num_0519/'>418 [Renouncing]</a>|<a href='/digital-beehive/num10/num_3235/'>2275
+  [Recantation]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3554/'>scorn</a>"
+see:
 index:
-item: "#item-3155f87ea"
+item: "#item-12649f587"
 unparsed:
-line: 'Head: scoff|See: scorn|Entry: 814 [PAGE_MISSING]|#item-3155f87ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/888,1662,644,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240729978
-sort_value: '304121662'
+line: 'Head: Self condemnation|Entry: 418 [Renouncing]|Entry: 2275 [Recantation]|#item-12649f587'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/434,773,840,83/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244049682
+sort_value: '304210773'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/888,1662,644,136/150,/0/default.jpg
-label: scoff
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/434,773,840,83/150,/0/default.jpg
+label: Self condemnation
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0800'
+order: '0844'
 layout: index_item
 collection: index4
 ---

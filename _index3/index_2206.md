@@ -1,9 +1,9 @@
 ---
 pid: index_2206
 volume: Volume 3
-image_number: '27'
-head: last time
-entry: "<a href='/digital-beehive/alpha3/alpha_0516/'>a</a>"
+image_number: '28'
+head: leather
+entry: 767 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2926196df"
+item: "#item-b306ff255"
 unparsed:
-line: 'Head: last time|Entry: a|#item-2926196df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1537,1829,371,84/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835959722
-sort_value: '302731829'
+line: 'Head: leather|Entry: 767 [PAGE_MISSING]|#item-b306ff255'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/392,2498,468,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842444900
+sort_value: '302812498'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1537,1829,371,84/150,/0/default.jpg
-label: last time
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/392,2498,468,111/150,/0/default.jpg
+label: leather
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '288'
+order: '321'
 layout: index_item
 collection: index3
 ---

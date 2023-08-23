@@ -1,30 +1,29 @@
 ---
 pid: index_1678
 volume: Volume 3
-image_number: '22'
-head: gourmandizing
-entry: 816 [PAGE_MISSING]
+image_number: '23'
+head: greediness
+entry:
 topic:
 first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4362/'>voracity</a>"
 index:
-item: "#item-30ec98db0"
+item: "#item-1dcfaf667"
 unparsed:
-line: 'Head: gourmandizing|Entry: 816 [PAGE_MISSING]|#item-30ec98db0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1856,1180,623,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052510650
-sort_value: '302231180'
+line: 'Head: greediness|See: voracity|#item-1dcfaf667'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,1003,614,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230342660
+sort_value: '302311003'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1856,1180,623,136/150,/0/default.jpg
-label: gourmandizing
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,1003,614,142/150,/0/default.jpg
+label: greediness
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '497'
+order: '519'
 layout: index_item
 collection: index2
 ---

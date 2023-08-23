@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0191/'>182 [Comfort]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0732/'>comfort</a>"
+index: "<a href='/digital-beehive/index1/index_0718/'>comfort</a>"
 item: "#item-8e30c0ab5"
 unparsed:
 line: 'Entry: Comfort|Topic: Comfort|Xref: 182 [Comfort]|Index: comfort|#item-8e30c0ab5'

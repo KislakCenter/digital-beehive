@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0214/'>Death, continued</a>|<a hre
   href='/digital-beehive/alpha3/alpha_0611/'>Mortality</a>|<a href='/digital-beehive/num3/num_0638/'>507
   [Death passed upon all men]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0965/'>death</a>"
+index: "<a href='/digital-beehive/index1/index_0946/'>death</a>"
 item: "#item-7e364ca49"
 unparsed:
 line: 'Entry: Death|Topic: Death|Xref: Death, continued|Xref: Agony|Xref: Mortality|Xref:
@@ -25,7 +25,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/402,4442,600,180/250,/0/default.jpg
 label: Death
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-issue: The entry continues onto the next page.
+issue: This entry continues this topic on the following page of the Alvearium as Death,
+  continued.
 also_in_entry:
 order: '212'
 layout: alpha_item

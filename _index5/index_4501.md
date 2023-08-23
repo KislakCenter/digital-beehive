@@ -1,9 +1,10 @@
 ---
 pid: index_4501
 volume: Volume 3
-image_number: '52'
-head: weary
-entry: "<a href='/digital-beehive/num3/num_1061/'>719 [Weariness]</a>"
+image_number: '53'
+head: wit. witticism
+entry: "<a href='/digital-beehive/num2/num_0358/'>313 [Wit]</a>|<a href='/digital-beehive/num10/num_3356/'>2383
+  [Wit]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-05476ee44"
+item: "#item-43eb9c689"
 unparsed:
-line: 'Head: weary|Entry: 719 [Weariness]|#item-05476ee44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/473,2645,407,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961114550
-sort_value: '305212645'
+line: 'Head: wit. witticism|Entry: 313 [Wit]|Entry: 2383 [Wit]|#item-43eb9c689'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,1338,743,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792021065
+sort_value: '305311338'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/473,2645,407,151/150,/0/default.jpg
-label: weary
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,1338,743,121/150,/0/default.jpg
+label: wit. witticism
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '463'
+order: '524'
 layout: index_item
 collection: index5
 ---

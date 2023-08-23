@@ -2,29 +2,28 @@
 pid: index_3539
 volume: Volume 3
 image_number: '41'
-head: Scare Crow
-entry:
+head: seeking God
+entry: "<a href='/digital-beehive/num10/num_3367/'>2394 [Coming to God]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-695a913cc"
+item: "#item-89816b84d"
 unparsed:
-line: 'Head: Scare Crow|Page: p.39 [Image 1.99]|#item-695a913cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/847,241,523,155/full/0/default.jpg
+line: 'Head: seeking God|Entry: 2394 [Coming to God]|#item-89816b84d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1600,3102,447,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240189993
-sort_value: '304120241'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243140451
+sort_value: '304133102'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/847,241,523,155/150,/0/default.jpg
-label: Scare Crow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1600,3102,447,120/150,/0/default.jpg
+label: seeking God
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0787'
+order: '0831'
 layout: index_item
 collection: index4
 ---

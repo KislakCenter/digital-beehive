@@ -2,28 +2,27 @@
 pid: index_0827
 volume: Volume 3
 image_number: '14'
-head: contract
-entry:
+head: copy
+entry: "<a href='/digital-beehive/num2/num_0563/'>452 [Copy]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0081/'>agreemt</a>"
+see: "<a href='/digital-beehive/index2/index_1319/'>exemplar</a>"
 index:
-item: "#item-f5743bc2e"
+item: "#item-169833124"
 unparsed:
-line: 'Head: contract|See: agreemt|#item-f5743bc2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1853,549,686,152/full/0/default.jpg
+line: 'Head: copy|See: exemplar|Entry: 452 [Copy]|#item-169833124'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1830,2377,709,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559256587
-sort_value: '301430549'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559880868
+sort_value: '301432377'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1853,549,686,152/150,/0/default.jpg
-label: contract
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1830,2377,709,102/150,/0/default.jpg
+label: copy
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0826'
 layout: index_item
 collection: index1

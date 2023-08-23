@@ -1,32 +1,29 @@
 ---
 pid: index_3547
 volume: Volume 3
-image_number: '41'
-head: schole
-entry: "<a href='/digital-beehive/alpha4/alpha_0839/'>a</a>|839 [PAGE_MISSING]|<a
-  href='/digital-beehive/num10/num_3326/'>2354 [Schools]</a>"
+image_number: '42'
+head: Self acting
+entry:
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4553/'>Will worship</a>"
 index:
-item: "#item-a59e4a28d"
+item: "#item-3e31bf942"
 unparsed:
-line: 'Head: schole|Page: p.5 [Image 1.65]|Entry: a|Entry: 839 [PAGE_MISSING]|Entry:
-  2354 [Schools]|#item-a59e4a28d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/875,1023,731,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240472942
-sort_value: '304121023'
+line: 'Head: Self acting|See: Will worship|#item-3e31bf942'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/448,464,719,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243813490
+sort_value: '304210464'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/875,1023,731,136/150,/0/default.jpg
-label: schole
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/448,464,719,121/150,/0/default.jpg
+label: Self acting
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0795'
+order: '0839'
 layout: index_item
 collection: index4
 ---

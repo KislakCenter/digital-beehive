@@ -2,29 +2,28 @@
 pid: index_1709
 volume: Volume 3
 image_number: '23'
-head: greediness
-entry:
+head: hallelujah
+entry: 791 [PAGE_MISSING]
 topic:
-first_letter: G
+first_letter: H
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4431/'>voracity</a>"
+see:
 index:
-item: "#item-1dcfaf667"
+item: "#item-f3ffad451"
 unparsed:
-line: 'Head: greediness|See: voracity|#item-1dcfaf667'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,1003,614,142/full/0/default.jpg
+line: 'Head: hallelujah|Entry: 791 [PAGE_MISSING]|#item-f3ffad451'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/833,342,463,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230342660
-sort_value: '302311003'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238001715
+sort_value: '302320342'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,1003,614,142/150,/0/default.jpg
-label: greediness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/833,342,463,125/150,/0/default.jpg
+label: hallelujah
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '528'
+order: '550'
 layout: index_item
 collection: index2
 ---

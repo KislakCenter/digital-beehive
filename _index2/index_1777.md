@@ -2,30 +2,28 @@
 pid: index_1777
 volume: Volume 3
 image_number: '23'
-head: drinking of health
-entry: "<a href='/digital-beehive/alpha2/alpha_0407/'>a</a>|<a href='/digital-beehive/num6/num_2017/'>1403
-  [Drinking of healths]</a>"
+head: herdsmen
+entry: "<a href='/digital-beehive/num8/num_2844/'>1929 [Shepherds]</a>"
 topic:
 first_letter: H
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0557/'>cattel</a>"
 index:
-item: "#item-d60a7e938"
+item: "#item-2cd310b1a"
 unparsed:
-line: 'Head: drinking of health|Entry: a|Entry: 1403 [Drinking of healths]|#item-d60a7e938'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1421,450,802,175/full/0/default.jpg
+line: 'Head: herdsmen|See: cattel|Entry: 1929 [Shepherds]|#item-2cd310b1a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1509,3348,763,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243479842
-sort_value: '302330450'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559572458192
+sort_value: '302333348'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1421,450,802,175/150,/0/default.jpg
-label: drinking of health
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1509,3348,763,165/150,/0/default.jpg
+label: herdsmen
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '596'
+order: '618'
 layout: index_item
 collection: index2
 ---

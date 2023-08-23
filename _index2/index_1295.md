@@ -2,8 +2,8 @@
 pid: index_1295
 volume: Volume 3
 image_number: '19'
-head: error
-entry: 759 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_2991/'>2056 [Error]</a>
+head: evil
+entry: "<a href='/digital-beehive/num8/num_2786/'>1901 [Evil]</a>"
 topic:
 first_letter: E
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-304f3006a"
+item: "#item-b292e56e4"
 unparsed:
-line: 'Head: error|Entry: 759 [PAGE_MISSING]|Entry: 2056 [Error]|#item-304f3006a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/133,2324,577,157/full/0/default.jpg
+line: 'Head: evil|Entry: 1901 [Evil]|#item-b292e56e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/834,1464,335,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275773421
-sort_value: '301912324'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351732045
+sort_value: '301921464'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/133,2324,577,157/150,/0/default.jpg
-label: error
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/834,1464,335,144/150,/0/default.jpg
+label: evil
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '114'
+order: '136'
 layout: index_item
 collection: index2
 ---

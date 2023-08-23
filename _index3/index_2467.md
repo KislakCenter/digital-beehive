@@ -2,29 +2,28 @@
 pid: index_2467
 volume: Volume 3
 image_number: '30'
-head: medicine books
-entry:
+head: middle
+entry: "<a href='/digital-beehive/alpha3/alpha_0594/'>a</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-72064cf15"
+item: "#item-5e55a96cf"
 unparsed:
-line: 'Head: medicine books|Page: p.379 [Image 2.201]|#item-72064cf15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1118,286,457,109/full/0/default.jpg
+line: 'Head: middle|Entry: a|#item-5e55a96cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1828,1080,395,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267248226
-sort_value: '303020286'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273756413
+sort_value: '303031080'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1118,286,457,109/150,/0/default.jpg
-label: medicine books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1828,1080,395,121/150,/0/default.jpg
+label: middle
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '549'
+order: '582'
 layout: index_item
 collection: index3
 ---

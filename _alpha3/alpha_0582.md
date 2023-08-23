@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0487/'>Intercession</a>|<a href='/digital-beehive/alpha4/alpha_0697/'>Peacemaker</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2464/'>mediator</a>"
+index: "<a href='/digital-beehive/index3/index_2423/'>mediator</a>"
 item: "#item-e03fccbbb"
 unparsed:
 line: 'Entry: Mediatour|Topic: Mediatour|Xref: Intercession|Xref: Peacemaker|Index:

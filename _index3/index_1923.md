@@ -2,29 +2,30 @@
 pid: index_1923
 volume: Volume 3
 image_number: '25'
-head: Jailer
-entry: "<a href='/digital-beehive/num2/num_0489/'>399 [Jailer]</a>"
+head: images
+entry: "<a href='/digital-beehive/alpha3/alpha_0458/'>a</a>|<a href='/digital-beehive/num4/num_1274/'>955
+  [Images]</a>|4632 [PAGE_MISSING]"
 topic:
 first_letter: I/J
-page:
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-e30834ea8"
+item: "#item-84345db13"
 unparsed:
-line: 'Head: Jailer|Entry: 399 [Jailer]|#item-e30834ea8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/154,451,416,139/full/0/default.jpg
+line: 'Head: images|Page: p.4 [Image 1.64]|Entry: a|Entry: 955 [Images]|Entry: 4632
+  [PAGE_MISSING]|#item-84345db13'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/875,502,663,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658251678
-sort_value: '302510451'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559664857096
+sort_value: '302520502'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/154,451,416,139/150,/0/default.jpg
-label: Jailer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/875,502,663,141/150,/0/default.jpg
+label: images
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '005'
+order: '038'
 layout: index_item
 collection: index3
 ---

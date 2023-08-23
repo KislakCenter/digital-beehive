@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_2947/'>2012 [Propriety]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3202/'>propriety</a>"
+index: "<a href='/digital-beehive/index4/index_3152/'>propriety</a>"
 item: "#item-c9b87ff69"
 unparsed:
 line: 'Entry: Propriety|Topic: Propriety|Xref: 2012 [Propriety]|Index: propriety|#item-c9b87ff69'

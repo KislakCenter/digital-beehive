@@ -2,8 +2,8 @@
 pid: index_2068
 volume: Volume 3
 image_number: '26'
-head: instigation
-entry: "<a href='/digital-beehive/num3/num_0792/'>602 [Instigation]</a>"
+head: John Evang
+entry: "<a href='/digital-beehive/num10/num_3380/'>2406 [John the Evangelist]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9d9d393bf"
+item: "#item-9d69593d5"
 unparsed:
-line: 'Head: instigation|Entry: 602 [Instigation]|#item-9d9d393bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1166,1893,558,146/full/0/default.jpg
+line: 'Head: John Evang|Entry: 2406 [John the Evangelist]|#item-9d69593d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1844,2219,524,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748185836
-sort_value: '302621893'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559752062527
+sort_value: '302632219'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1166,1893,558,146/150,/0/default.jpg
-label: instigation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1844,2219,524,128/150,/0/default.jpg
+label: John Evang
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '150'
+order: '183'
 layout: index_item
 collection: index3
 ---

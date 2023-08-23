@@ -1,9 +1,9 @@
 ---
 pid: index_4199
 volume: Volume 3
-image_number: '48'
-head: to touch
-entry: 847 [PAGE_MISSING]
+image_number: '49'
+head: tumultuous, turbulent
+entry: "<a href='/digital-beehive/num11/num_3548/'>4852 [Turbulent : troublesom]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-70c5ce6f2"
+item: "#item-aab709aa1"
 unparsed:
-line: 'Head: to touch|Entry: 847 [PAGE_MISSING]|#item-70c5ce6f2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1109,252,475,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278489686
-sort_value: '304820252'
+line: 'Head: tumultuous, turbulent|Entry: 4852 [Turbulent : troublesom]|#item-aab709aa1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/203,1313,739,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656084819
+sort_value: '304911313'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1109,252,475,122/150,/0/default.jpg
-label: to touch
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/203,1313,739,104/150,/0/default.jpg
+label: tumultuous, turbulent
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '161'
+order: '222'
 layout: index_item
 collection: index5
 ---

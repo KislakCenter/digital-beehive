@@ -1,9 +1,9 @@
 ---
 pid: index_2986
 volume: Volume 3
-image_number: '35'
-head: philosophy par[ae]netick
-entry: "<a href='/digital-beehive/num5/num_1394/'>1041 [Com[m]andments]</a>"
+image_number: '36'
+head: plantation
+entry: 796 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-fa5c9c104"
+item: "#item-edf53e8b7"
 unparsed:
-line: 'Head: philosophy par[ae]netick|Entry: 1041 [Com[m]andments]|#item-fa5c9c104'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/841,2637,634,192/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974763441
-sort_value: '303522637'
+line: 'Head: plantation|Entry: 796 [PAGE_MISSING]|#item-edf53e8b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/467,239,658,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1542052764512
+sort_value: '303610239'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/841,2637,634,192/150,/0/default.jpg
-label: philosophy par[ae]netick
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/467,239,658,151/150,/0/default.jpg
+label: plantation
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0234'
+order: '0278'
 layout: index_item
 collection: index4
 ---

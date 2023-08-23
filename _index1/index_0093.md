@@ -2,10 +2,9 @@
 pid: index_0093
 volume: Volume 3
 image_number: '7'
-head: Alexand M.
-entry: "<a href='/digital-beehive/num5/num_1531/'>1128 [Alexander M]</a>|<a href='/digital-beehive/num7/num_2636/'>1711
-  [Alexander the Great]</a>|<a href='/digital-beehive/num9/num_3002/'>2067 [Alexander
-  M]</a>"
+head: allegiance
+entry: "<a href='/digital-beehive/num2/num_0477/'>392 [Allegiance]</a>|<a href='/digital-beehive/num10/num_3254/'>2290
+  [Allegiance]</a>"
 topic:
 first_letter: A
 page:
@@ -13,20 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-0dc380287"
+item: "#item-6c0ce0d94"
 unparsed:
-line: 'Head: Alexand M.|Entry: 1128 [Alexander M]|Entry: 1711 [Alexander the Great]|Entry:
-  2067 [Alexander M]|#item-0dc380287'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1585,1101,750,161/full/0/default.jpg
+line: 'Head: allegiance|Entry: 392 [Allegiance]|Entry: 2290 [Allegiance]|#item-6c0ce0d94'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1596,1407,655,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768626029
-sort_value: '300731101'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768719049
+sort_value: '300731407'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1585,1101,750,161/150,/0/default.jpg
-label: Alexand M.
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1596,1407,655,129/150,/0/default.jpg
+label: allegiance
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0092'
 layout: index_item
 collection: index1

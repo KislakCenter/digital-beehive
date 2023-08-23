@@ -2,8 +2,8 @@
 pid: index_3901
 volume: Volume 3
 image_number: '45'
-head: stiff
-entry: "<a href='/digital-beehive/num3/num_0977/'>686 [Firm]</a>"
+head: substantial
+entry: "<a href='/digital-beehive/num1/num_0094/'>92 [Substantial]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-52a48a7e3"
+item: "#item-c48e90069"
 unparsed:
-line: 'Head: stiff|Entry: 686 [Firm]|#item-52a48a7e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/193,2245,284,78/full/0/default.jpg
+line: 'Head: substantial|Entry: 92 [Substantial]|#item-c48e90069'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1606,1637,485,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530221318498
-sort_value: '304512245'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530468809311
+sort_value: '304531637'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/193,2245,284,78/150,/0/default.jpg
-label: stiff
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1606,1637,485,140/150,/0/default.jpg
+label: substantial
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1149'
+order: '1193'
 layout: index_item
 collection: index4
 ---

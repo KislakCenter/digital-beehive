@@ -2,28 +2,30 @@
 pid: index_0974
 volume: Volume 3
 image_number: '16'
-head: Debora
-entry: "<a href='/digital-beehive/num7/num_2373/'>1581 [Debora]</a>"
+head: degree
+entry: "<a href='/digital-beehive/alpha1/alpha_0222/'>a</a>|<a href='/digital-beehive/num10/num_3350/'>2377
+  [Degrees]</a>|<a href='/digital-beehive/num7/num_2582/'>1679 [University-Degrees]</a>|<a
+  href='/digital-beehive/num10/num_3383/'>2409 [Degree]</a>"
 topic:
 first_letter: D
 page:
-add:
+add: university degrees
 xref:
 see:
 index:
-item: "#item-e59f91987"
+item: "#item-d7e80b885"
 unparsed:
-line: 'Head: Debora|Entry: 1581 [Debora]|#item-e59f91987'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/388,207,405,102/full/0/default.jpg
+line: 'Head: degree|Entry: a|Entry: 2377 [Degrees]|Entry: 1679 [University-Degrees]|Entry:
+  2409 [Degree]|Add: university degrees|#item-d7e80b885'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/365,2407,767,223/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540569939630
-sort_value: '301610207'
+annotation_uri: http://dev.llgc.org.uk/annotation/1507576558301
+sort_value: '301612407'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/388,207,405,102/150,/0/default.jpg
-label: Debora
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/365,2407,767,223/150,/0/default.jpg
+label: degree
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue:
-insertion_xref:
+issue: This entry mistakenly lists 1377. Pastorius likely meant to list 2377 [Degrees].
 order: '0973'
 layout: index_item
 collection: index1

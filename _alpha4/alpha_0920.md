@@ -10,7 +10,7 @@ page:
 add:
 xref: 4519 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index4/index_3926/'>strange</a>"
+index: "<a href='/digital-beehive/index4/index_3867/'>strange</a>"
 item: "#item-d5a5d259c"
 unparsed:
 line: 'Entry: Strange|Topic: Strange|Xref: 4519 [PAGE_MISSING]|Index: strange|#item-d5a5d259c'

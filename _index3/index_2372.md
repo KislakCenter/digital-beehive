@@ -2,30 +2,29 @@
 pid: index_2372
 volume: Volume 3
 image_number: '29'
-head: luxury
-entry: "<a href='/digital-beehive/num1/num_0198/'>189 [Luxury]</a>|<a href='/digital-beehive/num5/num_1613/'>1183
-  [Luxury]</a>"
+head: manage
+entry: "<a href='/digital-beehive/num1/num_0161/'>155 [Use]</a>|<a href='/digital-beehive/num7/num_2333/'>1561
+  [Manage]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-31d0317a1"
+item: "#item-2a28c435c"
 unparsed:
-line: 'Head: luxury|Entry: 189 [Luxury]|Entry: 1183 [Luxury]|#item-31d0317a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/867,1526,494,141/full/0/default.jpg
+line: 'Head: manage|Entry: 155 [Use]|Entry: 1561 [Manage]|#item-2a28c435c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1522,2216,605,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185979637
-sort_value: '302921526'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195923807
+sort_value: '302932216'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/867,1526,494,141/150,/0/default.jpg
-label: luxury
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1522,2216,605,173/150,/0/default.jpg
+label: manage
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '454'
+order: '487'
 layout: index_item
 collection: index3
 ---

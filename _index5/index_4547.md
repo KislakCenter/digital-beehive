@@ -1,9 +1,9 @@
 ---
 pid: index_4547
 volume: Volume 3
-image_number: '52'
-head: wild
-entry: "<a href='/digital-beehive/num1/num_0139/'>134 [Wild]</a>"
+image_number: '53'
+head: worlds. end
+entry: "<a href='/digital-beehive/alpha5/alpha_1062/'>a</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9cedc07b0"
+item: "#item-b1c57f420"
 unparsed:
-line: 'Head: wild|Entry: 134 [Wild]|#item-9cedc07b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1762,1939,356,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972143858
-sort_value: '305231939'
+line: 'Head: worlds. end|Entry: a|#item-b1c57f420'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/848,2977,385,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797367398
+sort_value: '305322977'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1762,1939,356,131/150,/0/default.jpg
-label: wild
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/848,2977,385,137/150,/0/default.jpg
+label: worlds. end
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '509'
+order: '570'
 layout: index_item
 collection: index5
 ---

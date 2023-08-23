@@ -2,9 +2,9 @@
 pid: index_4562
 volume: Volume 3
 image_number: '53'
-head: artificial Wines
-entry: "<a href='/digital-beehive/num3/num_0766/'>590 [artificial Wines]</a>|<a href='/digital-beehive/num8/num_2863/'>1940
-  [Artificial Wines]</a>"
+head: writing
+entry: "<a href='/digital-beehive/alpha5/alpha_1072/'>a</a>|<a href='/digital-beehive/num6/num_1962/'>1376
+  [Writing]</a>"
 topic:
 first_letter: W
 page:
@@ -12,21 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7b85a04f4"
+item: "#item-c3dc78ea7"
 unparsed:
-line: 'Head: artificial Wines|Entry: 590 [artificial Wines]|Entry: 1940 [Artificial
-  Wines]|#item-7b85a04f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/175,475,710,169/full/0/default.jpg
+line: 'Head: writing|Entry: a|Entry: 1376 [Writing]|#item-c3dc78ea7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1581,1069,579,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791321924
-sort_value: '305310475'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798648853
+sort_value: '305331069'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/175,475,710,169/150,/0/default.jpg
-label: artificial Wines
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1581,1069,579,124/150,/0/default.jpg
+label: writing
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '524'
+order: '585'
 layout: index_item
 collection: index5
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: Old rags|<a href='/digital-beehive/num6/num_1981/'>1385 [Reliques]</a>
 see:
-index: "<a href='/digital-beehive/index4/index_3350/'>reliques</a>"
+index: "<a href='/digital-beehive/index4/index_3298/'>reliques</a>"
 item: "#item-d3ad071e9"
 unparsed:
 line: 'Entry: Reliques|Topic: Reliques|Xref: Old rags|Xref: 1385 [Reliques]|Index:
@@ -23,7 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/268,236,600,180/250,/0/default.jpg
 label: Reliques
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
-issue: The point of reference for "Old rags" is unclear.
+issue: The point of reference for "Old rags" is unclear, as there is no alphabetical
+  entry for this term.
 also_in_entry:
 order: '140'
 layout: alpha_item

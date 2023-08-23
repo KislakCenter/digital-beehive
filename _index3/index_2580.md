@@ -2,8 +2,8 @@
 pid: index_2580
 volume: Volume 3
 image_number: '31'
-head: more
-entry: "<a href='/digital-beehive/num3/num_0808/'>609 [More]</a>"
+head: must
+entry: "<a href='/digital-beehive/alpha3/alpha_0624/'>a</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b832f68fd"
+item: "#item-e8be93a82"
 unparsed:
-line: 'Head: more|Entry: 609 [More]|#item-b832f68fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/874,1774,303,109/full/0/default.jpg
+line: 'Head: must|Entry: a|#item-e8be93a82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1549,2147,324,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565796112779
-sort_value: '303121774'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362281220
+sort_value: '303132147'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/874,1774,303,109/150,/0/default.jpg
-label: more
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1549,2147,324,107/150,/0/default.jpg
+label: must
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '662'
+order: '695'
 layout: index_item
 collection: index3
 ---

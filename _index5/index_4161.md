@@ -1,9 +1,9 @@
 ---
 pid: index_4161
 volume: Volume 3
-image_number: '47'
-head: titlepage
-entry: "<a href='/digital-beehive/num5/num_1658/'>1212 [Title page]</a>"
+image_number: '48'
+head: to tread upon
+entry: "<a href='/digital-beehive/num2/num_0484/'>396 [To tread (: down :) upon]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-815df4f24"
+item: "#item-20deafb5f"
 unparsed:
-line: 'Head: titlepage|Entry: 1212 [Title page]|#item-815df4f24'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1619,3158,471,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281397802
-sort_value: '304733158'
+line: 'Head: to tread upon|Entry: 396 [To tread (: down :) upon]|#item-20deafb5f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1093,3347,570,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561489862336
+sort_value: '304823347'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1619,3158,471,151/150,/0/default.jpg
-label: titlepage
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1093,3347,570,166/150,/0/default.jpg
+label: to tread upon
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '123'
+order: '184'
 layout: index_item
 collection: index5
 ---

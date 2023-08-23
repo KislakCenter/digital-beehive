@@ -2,9 +2,8 @@
 pid: index_2275
 volume: Volume 3
 image_number: '28'
-head: liberty
-entry: "<a href='/digital-beehive/alpha3/alpha_0536/'>a</a>|769 [PAGE_MISSING]|<a
-  href='/digital-beehive/num5/num_1501/'>1108 [Liberty]</a>|4606 [PAGE_MISSING]"
+head: livery or badge
+entry: "<a href='/digital-beehive/num10/num_3447/'>4464 [Livery or Badge]</a>"
 topic:
 first_letter: L
 page:
@@ -12,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0666f3db6"
+item: "#item-7cf15af50"
 unparsed:
-line: 'Head: liberty|Entry: a|Entry: 769 [PAGE_MISSING]|Entry: 1108 [Liberty]|Entry:
-  4606 [PAGE_MISSING]|#item-0666f3db6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1137,1972,705,143/full/0/default.jpg
+line: 'Head: livery or badge|Entry: 4464 [Livery or Badge]|#item-7cf15af50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1821,2584,668,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845990527
-sort_value: '302821972'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849840609
+sort_value: '302832584'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1137,1972,705,143/150,/0/default.jpg
-label: liberty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1821,2584,668,150/150,/0/default.jpg
+label: livery or badge
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '357'
+order: '390'
 layout: index_item
 collection: index3
 ---

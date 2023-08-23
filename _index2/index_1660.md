@@ -2,8 +2,8 @@
 pid: index_1660
 volume: Volume 3
 image_number: '22'
-head: Gods
-entry: "<a href='/digital-beehive/num2/num_0354/'>310 [Gods]</a>"
+head: grandfather
+entry: "<a href='/digital-beehive/num10/num_3379/'>2405 [Grandfather]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2900e7bb9"
+item: "#item-1eea1fd00"
 unparsed:
-line: 'Head: Gods|Entry: 310 [Gods]|#item-2900e7bb9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1161,2922,314,161/full/0/default.jpg
+line: 'Head: grandfather|Entry: 2405 [Grandfather]|#item-1eea1fd00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1871,2395,571,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050680210
-sort_value: '302222922'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053309950
+sort_value: '302232395'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1161,2922,314,161/150,/0/default.jpg
-label: Gods
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1871,2395,571,115/150,/0/default.jpg
+label: grandfather
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '479'
+order: '501'
 layout: index_item
 collection: index2
 ---

@@ -2,8 +2,9 @@
 pid: index_3136
 volume: Volume 3
 image_number: '37'
-head: preservation
-entry: "<a href='/digital-beehive/num5/num_1524/'>1124 [Preserved]</a>"
+head: prolixness
+entry: "<a href='/digital-beehive/num2/num_0323/'>286 [Prolixness]</a>|<a href='/digital-beehive/num9/num_3121/'>2177
+  [Prolixity]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-55f502f9b"
+item: "#item-807f93df4"
 unparsed:
-line: 'Head: preservation|Entry: 1124 [Preserved]|#item-55f502f9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/76,628,680,156/full/0/default.jpg
+line: 'Head: prolixness|Entry: 286 [Prolixness]|Entry: 2177 [Prolixity]|#item-807f93df4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/796,2842,658,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550865983609
-sort_value: '303710628'
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868552770
+sort_value: '303722842'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/76,628,680,156/150,/0/default.jpg
-label: preservation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/796,2842,658,136/150,/0/default.jpg
+label: prolixness
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0384'
+order: '0428'
 layout: index_item
 collection: index4
 ---

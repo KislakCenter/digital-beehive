@@ -2,29 +2,29 @@
 pid: index_3528
 volume: Volume 3
 image_number: '41'
-head: saucidge
-entry:
+head: secret parts
+entry: "<a href='/digital-beehive/num2/num_0570/'>458 [Privy parts]</a>|<a href='/digital-beehive/num9/num_3136/'>2192
+  [Privy parts]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3221/'>pudding</a>"
+see:
 index:
-item: "#item-585f2a74f"
+item: "#item-fd8cfb194"
 unparsed:
-line: 'Head: saucidge|See: pudding|#item-585f2a74f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/171,2258,655,174/full/0/default.jpg
+line: 'Head: secret parts|Entry: 458 [Privy parts]|Entry: 2192 [Privy parts]|#item-fd8cfb194'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1605,1681,658,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239381989
-sort_value: '304112258'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242615279
+sort_value: '304131681'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/171,2258,655,174/150,/0/default.jpg
-label: saucidge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1605,1681,658,171/150,/0/default.jpg
+label: secret parts
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0776'
+order: '0820'
 layout: index_item
 collection: index4
 ---

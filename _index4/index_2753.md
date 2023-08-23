@@ -2,9 +2,8 @@
 pid: index_2753
 volume: Volume 3
 image_number: '33'
-head: oath
-entry: "<a href='/digital-beehive/alpha4/alpha_0653/'>a</a>|<a href='/digital-beehive/num3/num_0736/'>576
-  [Oath]</a>|<a href='/digital-beehive/num6/num_1765/'>1272 [Oath]</a>"
+head: only
+entry: "<a href='/digital-beehive/num3/num_0839/'>622 [Only]</a>"
 topic:
 first_letter: O
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c1aecfb23"
+item: "#item-496a88c94"
 unparsed:
-line: 'Head: oath|Entry: a|Entry: 576 [Oath]|Entry: 1272 [Oath]|#item-c1aecfb23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/180,1442,651,96/full/0/default.jpg
+line: 'Head: only|Entry: 622 [Only]|#item-496a88c94'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/851,3141,438,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1510673928480
-sort_value: '303311442'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538159851945
+sort_value: '303323141'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/180,1442,651,96/150,/0/default.jpg
-label: oath
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/851,3141,438,125/150,/0/default.jpg
+label: only
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0001'
+order: '0045'
 layout: index_item
 collection: index4
 ---

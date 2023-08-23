@@ -1,10 +1,9 @@
 ---
 pid: index_4511
 volume: Volume 3
-image_number: '52'
-head: weeping
-entry: "<a href='/digital-beehive/alpha5/alpha_1035/'>a</a>|<a href='/digital-beehive/num3/num_0855/'>630
-  [Weeping]</a>|<a href='/digital-beehive/num6/num_2075/'>1428 [Weeping]</a>"
+image_number: '53'
+head: without Christ
+entry: "<a href='/digital-beehive/num2/num_0320/'>284 [Without Xst]</a>"
 topic:
 first_letter: W
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2097ff5cb"
+item: "#item-2ed880806"
 unparsed:
-line: 'Head: weeping|Entry: a|Entry: 630 [Weeping]|Entry: 1428 [Weeping]|#item-2097ff5cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1081,638,719,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968218634
-sort_value: '305220638'
+line: 'Head: without Christ|Entry: 284 [Without Xst]|#item-2ed880806'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/186,2283,452,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792762311
+sort_value: '305312283'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1081,638,719,120/150,/0/default.jpg
-label: weeping
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/186,2283,452,118/150,/0/default.jpg
+label: without Christ
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '473'
+order: '534'
 layout: index_item
 collection: index5
 ---

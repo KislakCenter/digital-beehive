@@ -2,29 +2,29 @@
 pid: index_2274
 volume: Volume 3
 image_number: '28'
-head: libertines
-entry:
+head: livelyhood
+entry: "<a href='/digital-beehive/alpha3/alpha_0546/'>a</a>|<a href='/digital-beehive/num7/num_2485/'>1635
+  [Livelyhood]</a>"
 topic:
 first_letter: L
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1279/'>Epicurism</a>|<a href='/digital-beehive/index4/index_3289/'>Ranters</a>"
+see:
 index:
-item: "#item-4ca7a6dbb"
+item: "#item-777fb0808"
 unparsed:
-line: 'Head: libertines|See: Epicurism|See: Ranters|#item-4ca7a6dbb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1114,1777,793,169/full/0/default.jpg
+line: 'Head: livelyhood|Entry: a|Entry: 1635 [Livelyhood]|#item-777fb0808'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1820,2507,590,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845744328
-sort_value: '302821777'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849774166
+sort_value: '302832507'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1114,1777,793,169/150,/0/default.jpg
-label: libertines
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1820,2507,590,151/150,/0/default.jpg
+label: livelyhood
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '356'
+order: '389'
 layout: index_item
 collection: index3
 ---

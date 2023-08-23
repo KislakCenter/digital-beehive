@@ -1,30 +1,29 @@
 ---
 pid: index_2623
 volume: Volume 3
-image_number: '31'
-head: I must
-entry: "<a href='/digital-beehive/alpha3/alpha_0625/'>a</a>|4586 [PAGE_MISSING]"
+image_number: '32'
+head: near
+entry: "<a href='/digital-beehive/num3/num_1021/'>703 [Near]</a>|813 [PAGE_MISSING]"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-65561c6ab"
+item: "#item-8ff969460"
 unparsed:
-line: 'Head: I must|Entry: a|Entry: 4586 [PAGE_MISSING]|#item-65561c6ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1517,2240,562,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362333193
-sort_value: '303132240'
+line: 'Head: near|Entry: 703 [Near]|Entry: 813 [PAGE_MISSING]|#item-8ff969460'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/378,2696,511,85/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438803600
+sort_value: '303212696'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1517,2240,562,144/150,/0/default.jpg
-label: I must
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/378,2696,511,85/150,/0/default.jpg
+label: near
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '705'
+order: '738'
 layout: index_item
 collection: index3
 ---

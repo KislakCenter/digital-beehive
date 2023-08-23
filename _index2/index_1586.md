@@ -1,30 +1,29 @@
 ---
 pid: index_1586
 volume: Volume 3
-image_number: '21'
-head: Gazet
-entry: 4574 [PAGE_MISSING]
+image_number: '22'
+head: girl
+entry:
 topic:
 first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2348/'>maid</a>"
 index:
-item: "#item-9cdce11eb"
+item: "#item-577daa240"
 unparsed:
-line: 'Head: Gazet|Entry: 4574 [PAGE_MISSING]|#item-9cdce11eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1507,3218,440,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787698549
-sort_value: '302133218'
+line: 'Head: girl|See: maid|#item-577daa240'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/411,2301,449,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043693834
+sort_value: '302212301'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1507,3218,440,107/150,/0/default.jpg
-label: Gazet
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/411,2301,449,148/150,/0/default.jpg
+label: girl
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '405'
+order: '427'
 layout: index_item
 collection: index2
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_2209
 volume: Volume 3
-image_number: '27'
-head: to last or endure
-entry: "<a href='/digital-beehive/alpha3/alpha_0518/'>a</a>"
+image_number: '28'
+head: lechery
+entry:
 topic:
 first_letter: L
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0920/'>dainty</a>"
 index:
-item: "#item-b403e920b"
+item: "#item-7a66f2665"
 unparsed:
-line: 'Head: to last or endure|Entry: a|#item-b403e920b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,2131,596,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836068046
-sort_value: '302732131'
+line: 'Head: lechery|See: dainty|#item-7a66f2665'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/379,2860,574,168/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842576721
+sort_value: '302812860'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,2131,596,133/150,/0/default.jpg
-label: to last or endure
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/379,2860,574,168/150,/0/default.jpg
+label: lechery
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '291'
+order: '324'
 layout: index_item
 collection: index3
 ---

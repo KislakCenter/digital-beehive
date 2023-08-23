@@ -1,30 +1,29 @@
 ---
 pid: index_4392
 volume: Volume 3
-image_number: '50'
-head: universalists
-entry: "<a href='/digital-beehive/num1/num_0093/'>91 [Universalists]</a>"
+image_number: '51'
+head: wakes
+entry:
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0255/'>bacchanals</a>"
 index:
-item: "#item-98456ab8a"
+item: "#item-6c3aead0e"
 unparsed:
-line: 'Head: universalists|Entry: 91 [Universalists]|#item-98456ab8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1112,1783,527,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560881358385
-sort_value: '305021783'
+line: 'Head: wakes|See: bacchanals|#item-6c3aead0e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1633,603,679,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647591164
+sort_value: '305130603'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1112,1783,527,133/150,/0/default.jpg
-label: universalists
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1633,603,679,149/150,/0/default.jpg
+label: wakes
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '354'
+order: '415'
 layout: index_item
 collection: index5
 ---

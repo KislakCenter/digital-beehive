@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0407/'>Drinking of healths</a>|<a href='/digital-beehive/alpha5/alpha_0955/'>Thirst</a>|775
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_1151/'>drink</a>"
+index: "<a href='/digital-beehive/index1/index_1131/'>drink</a>"
 item: "#item-6376317e7"
 unparsed:
 line: 'Entry: Drink|Topic: Drink|Xref: Drinking of healths|Xref: Thirst|Xref: 775

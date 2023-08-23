@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num3/num_0667/'>532 [letter]</a>|<a href='/digital-beehive/num5/num_1662/'>1214
   [Letters]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2265/'>letters</a>"
+index: "<a href='/digital-beehive/index3/index_2228/'>letters</a>"
 item: "#item-96d8869ae"
 unparsed:
 line: 'Entry: Letters|Topic: Letters|Xref: 532 [letter]|Xref: 1214 [Letters]|Index:

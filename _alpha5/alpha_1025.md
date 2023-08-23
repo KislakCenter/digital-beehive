@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num3/num_0805/'>608 [Ruin]</a>|<a href='/digital-beehive/num6/num_2044/'>1416
   [Evils of war]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4475/'>wars miseries</a>"
+index: "<a href='/digital-beehive/index5/index_4406/'>wars miseries</a>"
 item: "#item-05ccd66db"
 unparsed:
 line: 'Entry: Wars miseries|Topic: Wars miseries|Xref: 608 [Ruin]|Xref: 1416 [Evils

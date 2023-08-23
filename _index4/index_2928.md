@@ -1,9 +1,10 @@
 ---
 pid: index_2928
 volume: Volume 3
-image_number: '34'
-head: pawn
-entry: "<a href='/digital-beehive/alpha4/alpha_0694/'>a</a>"
+image_number: '35'
+head: petition
+entry: "<a href='/digital-beehive/num3/num_0897/'>652 [Petition, Request]</a>|4767
+  [PAGE_MISSING]"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-39feb8380"
+item: "#item-d81ab7943"
 unparsed:
-line: 'Head: pawn|Entry: a|#item-39feb8380'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1799,2442,492,181/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495814433
-sort_value: '303432442'
+line: 'Head: petition|Entry: 652 [Petition, Request]|Entry: 4767 [PAGE_MISSING]|#item-d81ab7943'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/847,1371,636,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974301545
+sort_value: '303521371'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1799,2442,492,181/150,/0/default.jpg
-label: pawn
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/847,1371,636,155/150,/0/default.jpg
+label: petition
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0176'
+order: '0220'
 layout: index_item
 collection: index4
 ---

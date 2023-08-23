@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0404/'>Hatred</a>|<a href='/digital-beehive/alpha3/alpha_0561/'>Love
   of enemies</a>|858 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index2/index_1265/'>enmity</a>"
+index: "<a href='/digital-beehive/index2/index_1242/'>enmity</a>"
 item: "#item-a6c8131c3"
 unparsed:
 line: 'Entry: Enmity|Topic: Enmity|Xref: Hatred|Xref: Love of enemies|Xref: 858 [PAGE_MISSING]|Index:

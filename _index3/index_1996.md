@@ -1,9 +1,9 @@
 ---
 pid: index_1996
 volume: Volume 3
-image_number: '25'
-head: inclination
-entry: 811 [PAGE_MISSING]
+image_number: '26'
+head: infant killing
+entry: "<a href='/digital-beehive/alpha3/alpha_0474/'>a</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-70b912a92"
+item: "#item-a73f077c1"
 unparsed:
-line: 'Head: inclination|Entry: 811 [PAGE_MISSING]|#item-70b912a92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1564,1004,531,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559670804226
-sort_value: '302531004'
+line: 'Head: infant killing|Entry: a|#item-a73f077c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/440,1275,469,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744168230
+sort_value: '302611275'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1564,1004,531,102/150,/0/default.jpg
-label: inclination
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/440,1275,469,173/150,/0/default.jpg
+label: infant killing
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '078'
+order: '111'
 layout: index_item
 collection: index3
 ---

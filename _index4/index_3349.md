@@ -2,9 +2,8 @@
 pid: index_3349
 volume: Volume 3
 image_number: '39'
-head: religion
-entry: "<a href='/digital-beehive/alpha4/alpha_0791/'>a</a>|<a href='/digital-beehive/num1/num_0241/'>226
-  [Religion]</a>|<a href='/digital-beehive/num8/num_2743/'>1809 [Religion]</a>"
+head: return
+entry: 787 [PAGE_MISSING]
 topic:
 first_letter: R
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-202c05a00"
+item: "#item-5cc984f98"
 unparsed:
-line: 'Head: religion|Entry: a|Entry: 226 [Religion]|Entry: 1809 [Religion]|#item-202c05a00'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/94,3226,652,182/full/0/default.jpg
+line: 'Head: return|Entry: 787 [PAGE_MISSING]|#item-5cc984f98'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1495,2757,480,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468694826
-sort_value: '303913226'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230229623
+sort_value: '303932757'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/94,3226,652,182/150,/0/default.jpg
-label: religion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1495,2757,480,148/150,/0/default.jpg
+label: return
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0597'
+order: '0641'
 layout: index_item
 collection: index4
 ---

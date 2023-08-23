@@ -2,9 +2,8 @@
 pid: index_0481
 volume: Volume 3
 image_number: '11'
-head: to burn
-entry: "<a href='/digital-beehive/num3/num_0933/'>672 [To Burn]</a>|<a href='/digital-beehive/num9/num_2956/'>2021
-  [To burn]</a>"
+head: but
+entry: "<a href='/digital-beehive/num3/num_0752/'>584 [But]</a>"
 topic:
 first_letter: B
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-35a5e7fb8"
+item: "#item-c183e49e6"
 unparsed:
-line: 'Head: to burn|Entry: 672 [To Burn]|Entry: 2021 [To burn]|#item-35a5e7fb8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,1512,639,110/full/0/default.jpg
+line: 'Head: but|Entry: 584 [But]|#item-c183e49e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/870,2302,332,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421137593
-sort_value: '301121512'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421829266
+sort_value: '301122302'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,1512,639,110/150,/0/default.jpg
-label: to burn
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/870,2302,332,113/150,/0/default.jpg
+label: but
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0480'
 layout: index_item
 collection: index1

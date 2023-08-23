@@ -1,11 +1,9 @@
 ---
 pid: index_3647
 volume: Volume 3
-image_number: '42'
-head: servitude
-entry: "<a href='/digital-beehive/alpha4/alpha_0864/'>a</a>|813 [PAGE_MISSING]|<a
-  href='/digital-beehive/num5/num_1699/'>1233 [Servants]</a>|<a href='/digital-beehive/num5/num_1700/'>1233
-  [friendliest office]</a>"
+image_number: '43'
+head: sign posts
+entry: "<a href='/digital-beehive/num4/num_1155/'>892 [Mark]</a>"
 topic:
 first_letter: S
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ec91b719f"
+item: "#item-8d1ef2515"
 unparsed:
-line: 'Head: servitude|Entry: a|Entry: 813 [PAGE_MISSING]|Entry: 1233 [Servants]|Entry:
-  1233 [friendliest office]|#item-ec91b719f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1096,1324,726,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574067348
-sort_value: '304221324'
+line: 'Head: sign posts|Entry: 892 [Mark]|#item-8d1ef2515'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/196,1044,477,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581897732
+sort_value: '304311044'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1096,1324,726,142/150,/0/default.jpg
-label: servitude
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/196,1044,477,93/150,/0/default.jpg
+label: sign posts
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0895'
+order: '0939'
 layout: index_item
 collection: index4
 ---

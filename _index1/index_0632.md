@@ -2,29 +2,30 @@
 pid: index_0632
 volume: Volume 3
 image_number: '12'
-head: childbed
-entry: "<a href='/digital-beehive/num3/num_0790/'>601 [Childbed]</a>|<a href='/digital-beehive/num8/num_2832/'>1922
-  [Childbed]</a>"
+head: Christ
+entry: "<a href='/digital-beehive/alpha1/alpha_0147/'>a</a>|<a href='/digital-beehive/num2/num_0298/'>266
+  [Christ]</a>|<a href='/digital-beehive/num3/num_0659/'>526 [Xst Jesus]</a>|<a href='/digital-beehive/num5/num_1400/'>1046
+  [Christ]</a>|<a href='/digital-beehive/num6/num_1933/'>1361 [Christ Jesus]</a>"
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_096/'>p.46 [Image 1.106]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-f6a6a532c"
+item: "#item-1ec82c400"
 unparsed:
-line: 'Head: childbed|Entry: 601 [Childbed]|Entry: 1922 [Childbed]|#item-f6a6a532c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1801,2200,675,130/full/0/default.jpg
+line: 'Head: Christ|Page: p.46 [Image 1.106]|Entry: a|Entry: 266 [Christ]|Entry: 526
+  [Xst Jesus]|Entry: 1046 [Christ]|Entry: 1361 [Christ Jesus]|#item-1ec82c400'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1823,3371,675,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460923731
-sort_value: '301232200'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532461900579
+sort_value: '301233371'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1801,2200,675,130/150,/0/default.jpg
-label: childbed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1823,3371,675,168/150,/0/default.jpg
+label: Christ
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0631'
 layout: index_item
 collection: index1

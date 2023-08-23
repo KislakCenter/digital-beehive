@@ -10,7 +10,7 @@ page:
 add:
 xref: 4639 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index3/index_2241/'>leasure</a>"
+index: "<a href='/digital-beehive/index3/index_2205/'>leasure</a>"
 item: "#item-6797039d9"
 unparsed:
 line: 'Entry: Leasure|Topic: Leasure|Xref: 4639 [PAGE_MISSING]|Index: leasure|#item-6797039d9'

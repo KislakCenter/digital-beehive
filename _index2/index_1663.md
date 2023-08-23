@@ -2,29 +2,28 @@
 pid: index_1663
 volume: Volume 3
 image_number: '22'
-head: Gog & Magog
-entry: "<a href='/digital-beehive/alpha2/alpha_0374/'>a</a>"
+head: grass
+entry: "<a href='/digital-beehive/num4/num_1116/'>878 [Pasture]</a>"
 topic:
 first_letter: G
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2867/'>pasture</a>"
 index:
-item: "#item-e6051f44e"
+item: "#item-0b9d41798"
 unparsed:
-line: 'Head: Gog & Magog|Entry: a|#item-e6051f44e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1167,3313,538,120/full/0/default.jpg
+line: 'Head: grass|See: pasture|Entry: 878 [Pasture]|#item-0b9d41798'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1847,2753,640,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050836214
-sort_value: '302223313'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053467475
+sort_value: '302232753'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1167,3313,538,120/150,/0/default.jpg
-label: Gog & Magog
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1847,2753,640,168/150,/0/default.jpg
+label: grass
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '482'
+order: '504'
 layout: index_item
 collection: index2
 ---

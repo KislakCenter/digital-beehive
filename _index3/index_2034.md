@@ -2,8 +2,8 @@
 pid: index_2034
 volume: Volume 3
 image_number: '26'
-head: infinite
-entry: "<a href='/digital-beehive/num2/num_0497/'>406 [Infinitness]</a>"
+head: instinct
+entry: "<a href='/digital-beehive/num5/num_1681/'>1226 [Instinct]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-70073e237"
+item: "#item-f51774283"
 unparsed:
-line: 'Head: infinite|Entry: 406 [Infinitness]|#item-70073e237'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,1673,477,142/full/0/default.jpg
+line: 'Head: instinct|Entry: 1226 [Instinct]|#item-f51774283'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1172,2041,451,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744355946
-sort_value: '302611673'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748283072
+sort_value: '302622041'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/426,1673,477,142/150,/0/default.jpg
-label: infinite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1172,2041,451,95/150,/0/default.jpg
+label: instinct
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '116'
+order: '149'
 layout: index_item
 collection: index3
 ---

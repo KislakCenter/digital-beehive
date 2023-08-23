@@ -2,8 +2,8 @@
 pid: index_1844
 volume: Volume 3
 image_number: '24'
-head: history ecclesiastical
-entry: "<a href='/digital-beehive/num6/num_2207/'>1497 [Historia Ecclesiastica]</a>"
+head: horse traces
+entry: "<a href='/digital-beehive/num4/num_1097/'>871 [traces]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-38cc4d6e3"
+item: "#item-c5065827c"
 unparsed:
-line: 'Head: history ecclesiastical |Entry: 1497 [Historia Ecclesiastica]|#item-38cc4d6e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/382,3493,632,125/full/0/default.jpg
+line: 'Head: horse traces|Entry: 871 [traces]|#item-c5065827c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1114,3206,449,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580033481
-sort_value: '302413493'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584457062
+sort_value: '302423206'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/382,3493,632,125/150,/0/default.jpg
-label: history ecclesiastical
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1114,3206,449,108/150,/0/default.jpg
+label: horse traces
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '663'
+order: '685'
 layout: index_item
 collection: index2
 ---

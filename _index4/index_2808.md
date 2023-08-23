@@ -1,31 +1,29 @@
 ---
 pid: index_2808
 volume: Volume 3
-image_number: '33'
-head: opportunity
-entry: "<a href='/digital-beehive/num3/num_0738/'>578 [Seasonable]</a>|<a href='/digital-beehive/num9/num_3147/'>2203
-  [Seasonable Opportunity]</a>"
+image_number: '34'
+head: Pacification
+entry:
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_2883/'>peace</a>"
 index:
-item: "#item-05f04fb4c"
+item: "#item-7b6f7e476"
 unparsed:
-line: 'Head: opportunity|Entry: 578 [Seasonable]|Entry: 2203 [Seasonable Opportunity]|#item-05f04fb4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1519,878,835,157/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161571809
-sort_value: '303330878'
+line: 'Head: Pacification|See: peace|#item-7b6f7e476'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/442,2332,742,197/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425770718
+sort_value: '303412332'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1519,878,835,157/150,/0/default.jpg
-label: opportunity
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/442,2332,742,197/150,/0/default.jpg
+label: Pacification
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0056'
+order: '0100'
 layout: index_item
 collection: index4
 ---

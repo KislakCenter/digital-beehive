@@ -2,8 +2,9 @@
 pid: index_0928
 volume: Volume 3
 image_number: '15'
-head: "[:16.]"
-entry:
+head: darkness
+entry: "<a href='/digital-beehive/alpha1/alpha_0210/'>a</a>|<a href='/digital-beehive/num5/num_1672/'>1220
+  [Darkness]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-73acd12ec"
-unparsed: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
-line: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1349,3536,171,145/full/0/default.jpg
+item: "#item-b468baa05"
+unparsed:
+line: 'Head: darkness|Entry: a|Entry: 1220 [Darkness]|#item-b468baa05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1514,1474,619,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275970444
-sort_value: '301523536'
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391199497
+sort_value: '301531474'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1349,3536,171,145/150,/0/default.jpg
-label: "[:16.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1514,1474,619,124/150,/0/default.jpg
+label: darkness
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4679/'>Cures. curable</a>"
 order: '0927'
 layout: index_item
 collection: index1

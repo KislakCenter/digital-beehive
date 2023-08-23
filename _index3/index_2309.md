@@ -1,10 +1,9 @@
 ---
 pid: index_2309
 volume: Volume 3
-image_number: '28'
-head: liturgy
-entry: "<a href='/digital-beehive/num2/num_0285/'>259 [Book Prayers]</a>|<a href='/digital-beehive/num2/num_0286/'>259
-  [Com[m]on Prayer Book]</a>"
+image_number: '29'
+head: love of the world
+entry: "<a href='/digital-beehive/alpha3/alpha_0563/'>a</a>"
 topic:
 first_letter: L
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4d2d66327"
+item: "#item-1dc095897"
 unparsed:
-line: 'Head: liturgy|Entry: 259 [Book Prayers]|Entry: 259 [Com[m]on Prayer Book]|#item-4d2d66327'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1811,2182,436,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849559392
-sort_value: '302832182'
+line: 'Head: love of the world|Entry: a|#item-1dc095897'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/153,2515,484,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179729749
+sort_value: '302912515'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1811,2182,436,134/150,/0/default.jpg
-label: liturgy
-location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: The correct entry for 249 is ambiguous.
-insertion_xref:
-order: '391'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/153,2515,484,104/150,/0/default.jpg
+label: love of the world
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+issue:
+order: '424'
 layout: index_item
 collection: index3
 ---

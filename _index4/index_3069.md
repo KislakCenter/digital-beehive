@@ -2,8 +2,8 @@
 pid: index_3069
 volume: Volume 3
 image_number: '36'
-head: pond
-entry: "<a href='/digital-beehive/num4/num_1232/'>927 [Pond]</a>"
+head: precise
+entry: "<a href='/digital-beehive/num1/num_0153/'>147 [Exactness]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-31edf89f1"
+item: "#item-62c81c7ab"
 unparsed:
-line: 'Head: pond|Entry: 927 [Pond]|#item-31edf89f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1208,242,412,151/full/0/default.jpg
+line: 'Head: precise|Entry: 147 [Exactness]|#item-62c81c7ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1882,1898,446,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438212652
-sort_value: '303620242'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440503966
+sort_value: '303631898'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1208,242,412,151/150,/0/default.jpg
-label: pond
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1882,1898,446,111/150,/0/default.jpg
+label: precise
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0317'
+order: '0361'
 layout: index_item
 collection: index4
 ---

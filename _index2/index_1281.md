@@ -2,29 +2,28 @@
 pid: index_1281
 volume: Volume 3
 image_number: '19'
-head: epigrams
-entry: "<a href='/digital-beehive/num1/num_0268/'>248 [Epigram[m]s]</a>"
+head: estrich
+entry:
 topic:
 first_letter: E
-page:
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0367/'>Birds</a>"
 index:
-item: "#item-beb90e260"
+item: "#item-91c8116df"
 unparsed:
-line: 'Head: epigrams|Entry: 248 [Epigram[m]s]|#item-beb90e260'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/129,643,512,147/full/0/default.jpg
+line: 'Head: estrich|Page: p.35 [Image 1.95]|See: Birds|#item-91c8116df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/118,3424,692,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842743689
-sort_value: '301910643'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560348725465
+sort_value: '301913424'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/129,643,512,147/150,/0/default.jpg
-label: epigrams
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/118,3424,692,162/150,/0/default.jpg
+label: estrich
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '100'
+order: '122'
 layout: index_item
 collection: index2
 ---

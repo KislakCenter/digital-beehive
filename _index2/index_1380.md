@@ -2,9 +2,8 @@
 pid: index_1380
 volume: Volume 3
 image_number: '20'
-head: fair words
-entry: "<a href='/digital-beehive/alpha2/alpha_0311/'>a</a>|<a href='/digital-beehive/num10/num_3343/'>2370
-  [Fair Words]</a>"
+head: farmer
+entry: 1882 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3931703db"
+item: "#item-764cc29d6"
 unparsed:
-line: 'Head: fair words|Entry: a|Entry: 2370 [Fair Words]|#item-3931703db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/357,776,700,121/full/0/default.jpg
+line: 'Head: farmer|Entry: 1882 [PAGE_MISSING]|#item-764cc29d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/409,3003,415,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561400137989
-sort_value: '302010776'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659685600
+sort_value: '302013003'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/357,776,700,121/150,/0/default.jpg
-label: fair words
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/409,3003,415,87/150,/0/default.jpg
+label: farmer
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '199'
+order: '221'
 layout: index_item
 collection: index2
 ---

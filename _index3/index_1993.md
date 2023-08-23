@@ -1,9 +1,9 @@
 ---
 pid: index_1993
 volume: Volume 3
-image_number: '25'
-head: incense
-entry: "<a href='/digital-beehive/num8/num_2793/'>1904 [Incense]</a>"
+image_number: '26'
+head: infamy
+entry: 737 [PAGE_MISSING]|<a href='/digital-beehive/num1/num_0011/'>11 [Ill Name]</a>
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-30b5be789"
+item: "#item-0c41c6a2b"
 unparsed:
-line: 'Head: incense|Entry: 1904 [Incense]|#item-30b5be789'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1573,737,451,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559670713555
-sort_value: '302530737'
+line: 'Head: infamy|Entry: 737 [PAGE_MISSING]|Entry: 11 [Ill Name]|#item-0c41c6a2b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/455,940,524,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744025186
+sort_value: '302610940'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1573,737,451,117/150,/0/default.jpg
-label: incense
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/455,940,524,158/150,/0/default.jpg
+label: infamy
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '075'
+order: '108'
 layout: index_item
 collection: index3
 ---

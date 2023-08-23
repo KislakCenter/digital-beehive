@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0291/'>Equality</a>|<a href='/digital-beehive/num6/num_2026/'>1407
   [Inequality]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2024/'>inequality</a>"
+index: "<a href='/digital-beehive/index3/index_1989/'>inequality</a>"
 item: "#item-bafe6a7d2"
 unparsed:
 line: 'Entry: Inequality|Topic: Inequality|Xref: Equality|Xref: 1407 [Inequality]|Index:

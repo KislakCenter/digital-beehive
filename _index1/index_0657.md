@@ -2,8 +2,8 @@
 pid: index_0657
 volume: Volume 3
 image_number: '13'
-head: chronology
-entry: "<a href='/digital-beehive/num5/num_1347/'>1008 [Chronology]</a>"
+head: circulation
+entry: "<a href='/digital-beehive/num7/num_2516/'>1648 [Circulatio]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d7f39db6b"
+item: "#item-ad81626f5"
 unparsed:
-line: 'Head: chronology|Entry: 1008 [Chronology]|#item-d7f39db6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/146,999,578,166/full/0/default.jpg
+line: 'Head: circulation|Entry: 1648 [Circulatio]|#item-ad81626f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/162,2130,556,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619141667
-sort_value: '301310999'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532620858764
+sort_value: '301312130'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/146,999,578,166/150,/0/default.jpg
-label: chronology
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/162,2130,556,115/150,/0/default.jpg
+label: circulation
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0656'
 layout: index_item
 collection: index1

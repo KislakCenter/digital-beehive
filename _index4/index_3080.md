@@ -2,29 +2,28 @@
 pid: index_3080
 volume: Volume 3
 image_number: '36'
-head: portion
-entry:
+head: prescience
+entry: "<a href='/digital-beehive/num7/num_2351/'>1569 [Prescience]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2895/'>part</a>"
+see:
 index:
-item: "#item-7b451fa0e"
+item: "#item-22da0235b"
 unparsed:
-line: 'Head: portion|See: part|#item-7b451fa0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1203,1330,725,139/full/0/default.jpg
+line: 'Head: prescience|Entry: 1569 [Prescience]|#item-22da0235b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1836,3262,640,208/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438685789
-sort_value: '303621330'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440940958
+sort_value: '303633262'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1203,1330,725,139/150,/0/default.jpg
-label: portion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1836,3262,640,208/150,/0/default.jpg
+label: prescience
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: The meaning of "It. dowry" cannot be determined.
-insertion_xref:
-order: '0328'
+issue:
+order: '0372'
 layout: index_item
 collection: index4
 ---

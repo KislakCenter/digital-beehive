@@ -2,28 +2,28 @@
 pid: index_0312
 volume: Volume 3
 image_number: '9'
-head: to be
-entry: 853 [PAGE_MISSING]
+head: to learn of beasts
+entry: "<a href='/digital-beehive/num5/num_1484/'>1096 [Beasts to learn of]</a>"
 topic:
 first_letter: B
-page:
+page: "<a href='/digital-beehive/toc/toc1_051/'>p.1 [Image 1.61]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-76c0f729b"
+item: "#item-7c8f38d90"
 unparsed:
-line: 'Head: to be|Entry: 853 [PAGE_MISSING]|#item-76c0f729b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1588,1210,362,117/full/0/default.jpg
+line: 'Head: to learn of beasts|Page: p.1 [Image 1.61]|Entry: 1096 [Beasts to learn
+  of]|#item-7c8f38d90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1584,1891,694,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018091358
-sort_value: '300931210'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891764758
+sort_value: '300931891'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1588,1210,362,117/150,/0/default.jpg
-label: to be
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1584,1891,694,146/150,/0/default.jpg
+label: to learn of beasts
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0311'
 layout: index_item
 collection: index1

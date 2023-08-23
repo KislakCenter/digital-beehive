@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1584/'>1162 [Carriage]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0549/'>carriage</a>"
+index: "<a href='/digital-beehive/index1/index_0538/'>carriage</a>"
 item: "#item-6ac61a69c"
 unparsed:
 line: 'Entry: Carriage|Topic: Carriage|Xref: 1162 [Carriage]|Index: carriage|#item-6ac61a69c'

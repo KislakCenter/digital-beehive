@@ -1,9 +1,9 @@
 ---
 pid: index_2802
 volume: Volume 3
-image_number: '33'
-head: opacous
-entry: "<a href='/digital-beehive/num7/num_2486/'>1635 [Transparent]</a>"
+image_number: '34'
+head: outward blessings
+entry: "<a href='/digital-beehive/num5/num_1628/'>1193 [Outward Blessings & Privileges]</a>"
 topic:
 first_letter: O
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-16d320664"
+item: "#item-121f402c7"
 unparsed:
-line: 'Head: opacous|Entry: 1635 [Transparent]|#item-16d320664'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1507,235,528,190/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538160652899
-sort_value: '303330235'
+line: 'Head: outward blessings|Entry: 1193 [Outward Blessings & Privileges]|#item-121f402c7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/430,1692,605,206/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425538894
+sort_value: '303411692'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1507,235,528,190/150,/0/default.jpg
-label: opacous
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/430,1692,605,206/150,/0/default.jpg
+label: outward blessings
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0050'
+order: '0094'
 layout: index_item
 collection: index4
 ---

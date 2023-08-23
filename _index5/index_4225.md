@@ -1,30 +1,29 @@
 ---
 pid: index_4225
 volume: Volume 3
-image_number: '48'
-head: high treason
-entry: "<a href='/digital-beehive/num6/num_1852/'>1321 [High treason]</a>"
+image_number: '49'
+head: valour
+entry:
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2343/'>magnanimity</a>"
 index:
-item: "#item-b8e6ce6bf"
+item: "#item-c9475f7a0"
 unparsed:
-line: 'Head: high treason|Entry: 1321 [High treason]|#item-b8e6ce6bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1125,3489,586,155/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561489965121
-sort_value: '304823489'
+line: 'Head: valour|See: magnanimity|#item-c9475f7a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/948,874,680,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657688552
+sort_value: '304920874'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1125,3489,586,155/150,/0/default.jpg
-label: high treason
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/948,874,680,134/150,/0/default.jpg
+label: valour
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '187'
+order: '248'
 layout: index_item
 collection: index5
 ---

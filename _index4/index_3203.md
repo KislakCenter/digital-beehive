@@ -1,30 +1,29 @@
 ---
 pid: index_3203
 volume: Volume 3
-image_number: '37'
-head: proselyte
-entry: 836 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2587/'>1682 [Proselyse]</a>
+image_number: '38'
+head: quarries
+entry: "<a href='/digital-beehive/num8/num_2921/'>1989 [Quarries]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-00060c8fb"
+item: "#item-3d6d22212"
 unparsed:
-line: 'Head: proselyte|Entry: 836 [PAGE_MISSING]|Entry: 1682 [Proselyse]|#item-00060c8fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1483,1540,680,115/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869367610
-sort_value: '303731540'
+line: 'Head: quarries|Entry: 1989 [Quarries]|#item-3d6d22212'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1164,181,601,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454913322
+sort_value: '303820181'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1483,1540,680,115/150,/0/default.jpg
-label: proselyte
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1164,181,601,147/150,/0/default.jpg
+label: quarries
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0451'
+order: '0495'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2003/'>1396 [Obliga[ti]on]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2757/'>obligation</a>"
+index: "<a href='/digital-beehive/index4/index_2713/'>obligation</a>"
 item: "#item-3f76e6e63"
 unparsed:
 line: 'Entry: Obligation|Topic: Obligation|Xref: 1396 [Obliga[ti]on]|Index: obligation|#item-3f76e6e63'

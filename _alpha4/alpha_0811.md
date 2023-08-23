@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0003/'>Abundance</a>|854 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3420/'>riches</a>"
+index: "<a href='/digital-beehive/index4/index_3367/'>riches</a>"
 item: "#item-821b8e68d"
 unparsed:
 line: 'Entry: Riches|Topic: Riches|Xref: Abundance|Xref: 854 [PAGE_MISSING]|Index:

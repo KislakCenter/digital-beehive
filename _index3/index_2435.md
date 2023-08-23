@@ -2,29 +2,28 @@
 pid: index_2435
 volume: Volume 3
 image_number: '30'
-head: martial discipline
-entry:
+head: melancholy
+entry: "<a href='/digital-beehive/alpha3/alpha_0586/'>a</a>|1847 [PAGE_MISSING]"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4474/'>war</a>"
+see:
 index:
-item: "#item-c8bb7cbb6"
+item: "#item-54cd1ee27"
 unparsed:
-line: 'Head: martial discipline|See: war|#item-c8bb7cbb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/397,836,739,145/full/0/default.jpg
+line: 'Head: melancholy|Entry: a|Entry: 1847 [PAGE_MISSING]|#item-54cd1ee27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,1253,676,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263371644
-sort_value: '303010836'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268130690
+sort_value: '303021253'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/397,836,739,145/150,/0/default.jpg
-label: martial discipline
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,1253,676,153/150,/0/default.jpg
+label: melancholy
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '517'
+order: '550'
 layout: index_item
 collection: index3
 ---

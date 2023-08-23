@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1177/'>906 [Kingdom]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2163/'>kingdom of God</a>"
+index: "<a href='/digital-beehive/index3/index_2127/'>kingdom of God</a>"
 item: "#item-7bb39ac95"
 unparsed:
 line: 'Entry: Kingdom of God|Topic: Kingdom of God|Xref: 906 [Kingdom]|Index: kingdom

@@ -2,28 +2,27 @@
 pid: index_0498
 volume: Volume 3
 image_number: '11'
-head: by the by
-entry: "<a href='/digital-beehive/num2/num_0403/'>347 [Digression]</a>"
+head: calf
+entry: "<a href='/digital-beehive/num9/num_3116/'>2172 [Calf]</a>"
 topic:
-first_letter: B
+first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0557/'>cattle</a>"
 index:
-item: "#item-63090b40f"
+item: "#item-72ad4b4e4"
 unparsed:
-line: 'Head: by the by|Entry: 347 [Digression]|#item-63090b40f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/874,2915,490,102/full/0/default.jpg
+line: 'Head: calf|See: cattle|Entry: 2172 [Calf]|#item-72ad4b4e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,449,648,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493558979
-sort_value: '301122915'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494249871
+sort_value: '301130449'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/874,2915,490,102/150,/0/default.jpg
-label: by the by
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,449,648,104/150,/0/default.jpg
+label: calf
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0497'
 layout: index_item
 collection: index1

@@ -2,29 +2,30 @@
 pid: index_1429
 volume: Volume 3
 image_number: '20'
-head: felo de se
-entry: "<a href='/digital-beehive/num5/num_1609/'>1180 [Self Murder]</a>"
+head: fire
+entry: "<a href='/digital-beehive/alpha2/alpha_0328/'>a</a>|<a href='/digital-beehive/num5/num_1570/'>1152
+  [Fire]</a>|<a href='/digital-beehive/num8/num_2881/'>1956 [Fire]</a>"
 topic:
 first_letter: F
-page:
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-e35cde42c"
+item: "#item-a1eb3df1d"
 unparsed:
-line: 'Head: felo de se|Entry: 1180 [Self Murder]|#item-e35cde42c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1118,2024,503,173/full/0/default.jpg
+line: 'Head: fire|Page: p.30 [Image 1.90]|Entry: a|Entry: 1152 [Fire]|Entry: 1956
+  [Fire]|#item-a1eb3df1d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1793,816,740,187/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562184752390
-sort_value: '302022024'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562613126400
+sort_value: '302030816'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1118,2024,503,173/150,/0/default.jpg
-label: felo de se
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1793,816,740,187/150,/0/default.jpg
+label: fire
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '248'
+order: '270'
 layout: index_item
 collection: index2
 ---

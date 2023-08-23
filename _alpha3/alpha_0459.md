@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3012/'>2077 [Image of God]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_1955/'>Image of God</a>"
+index: "<a href='/digital-beehive/index3/index_1922/'>Image of God</a>"
 item: "#item-ab2c15b5b"
 unparsed:
 line: 'Entry: Image of God|Topic: Image of God|Xref: 2077 [Image of God]|Index: Image

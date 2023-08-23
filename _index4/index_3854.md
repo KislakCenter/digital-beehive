@@ -1,30 +1,29 @@
 ---
 pid: index_3854
 volume: Volume 3
-image_number: '44'
-head: splendour
-entry: "<a href='/digital-beehive/num2/num_0530/'>427 [Bright]</a>"
+image_number: '45'
+head: stones precious
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_1911/'>Jewel</a>"
 index:
-item: "#item-0e73c1af3"
+item: "#item-62241e8dc"
 unparsed:
-line: 'Head: splendour|Entry: 427 [Bright]|#item-0e73c1af3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1853,957,399,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530104615868
-sort_value: '304430957'
+line: 'Head: stones precious|See: Jewel|#item-62241e8dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/200,3475,671,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290494967
+sort_value: '304513475'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1853,957,399,95/150,/0/default.jpg
-label: splendour
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/200,3475,671,158/150,/0/default.jpg
+label: stones precious
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1102'
+order: '1146'
 layout: index_item
 collection: index4
 ---

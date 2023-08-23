@@ -2,8 +2,8 @@
 pid: index_0662
 volume: Volume 3
 image_number: '13'
-head: church history
-entry: "<a href='/digital-beehive/num6/num_2207/'>1497 [Historia Ecclesiastica]</a>"
+head: citron
+entry: "<a href='/digital-beehive/num7/num_2441/'>1614 [Citron]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-9bff70a2e"
+item: "#item-90b7724e0"
 unparsed:
-line: 'Head: church history|Entry: 1497 [Historia Ecclesiastica]|#item-9bff70a2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,1479,511,130/full/0/default.jpg
+line: 'Head: citron|Entry: 1614 [Citron]|#item-90b7724e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/155,2595,388,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619863386
-sort_value: '301311479'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536332872418
+sort_value: '301312595'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,1479,511,130/150,/0/default.jpg
-label: church history
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/155,2595,388,104/150,/0/default.jpg
+label: citron
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0661'
 layout: index_item
 collection: index1

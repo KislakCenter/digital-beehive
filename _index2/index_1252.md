@@ -2,29 +2,29 @@
 pid: index_1252
 volume: Volume 3
 image_number: '18'
-head: engin
-entry:
+head: to entreat
+entry: "<a href='/digital-beehive/num2/num_0390/'>336 [To pray]</a>|<a href='/digital-beehive/num3/num_0897/'>652
+  [Petition, Request]</a>"
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2070/'>instrumt</a>"
+see:
 index:
-item: "#item-33b30681e"
+item: "#item-3f6e5bbe1"
 unparsed:
-line: 'Head: engin|See: instrumt|#item-33b30681e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1819,1320,631,176/full/0/default.jpg
+line: 'Head: to entreat|Entry: 336 [To pray]|Entry: 652 [Petition, Request]|#item-3f6e5bbe1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1838,3581,628,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559755663795
-sort_value: '301831320'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559837665653
+sort_value: '301833581'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1819,1320,631,176/150,/0/default.jpg
-label: engin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1838,3581,628,113/150,/0/default.jpg
+label: to entreat
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '071'
+order: '093'
 layout: index_item
 collection: index2
 ---

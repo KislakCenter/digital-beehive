@@ -2,28 +2,27 @@
 pid: index_0479
 volume: Volume 3
 image_number: '11'
-head: burdock
-entry: "<a href='/digital-beehive/num3/num_0936/'>674 [Bur-dock]</a>"
+head: busie body
+entry:
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3868/'>strange bus</a>"
 index:
-item: "#item-71e5acb51"
+item: "#item-4b30ba236"
 unparsed:
-line: 'Head: burdock|Entry: 674 [Bur-dock]|#item-71e5acb51'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,1294,435,124/full/0/default.jpg
+line: 'Head: busie body|See: strange bus|#item-4b30ba236'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/896,1986,661,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420921449
-sort_value: '301121294'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421745116
+sort_value: '301121986'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,1294,435,124/150,/0/default.jpg
-label: burdock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/896,1986,661,147/150,/0/default.jpg
+label: busie body
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0478'
 layout: index_item
 collection: index1

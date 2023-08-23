@@ -2,8 +2,8 @@
 pid: index_1603
 volume: Volume 3
 image_number: '22'
-head: gestures
-entry: "<a href='/digital-beehive/num3/num_0784/'>599 [Gestures]</a>"
+head: goaler
+entry: "<a href='/digital-beehive/num2/num_0489/'>399 [Jailer]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5713dd8d9"
+item: "#item-14afdcce4"
 unparsed:
-line: 'Head: gestures|Entry: 599 [Gestures]|#item-5713dd8d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/420,1280,445,144/full/0/default.jpg
+line: 'Head: goaler|Entry: 399 [Jailer]|#item-14afdcce4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1149,777,400,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042887533
-sort_value: '302211280'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561045938924
+sort_value: '302220777'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/420,1280,445,144/150,/0/default.jpg
-label: gestures
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1149,777,400,155/150,/0/default.jpg
+label: goaler
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '422'
+order: '444'
 layout: index_item
 collection: index2
 ---

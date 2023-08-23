@@ -2,29 +2,29 @@
 pid: index_2161
 volume: Volume 3
 image_number: '27'
-head: kindred
-entry: "<a href='/digital-beehive/num1/num_0176/'>168 [Kindred]</a>"
+head: language
+entry: "<a href='/digital-beehive/alpha3/alpha_0511/'>a</a>|<a href='/digital-beehive/num6/num_2041/'>1413
+  [Languages]</a>|4755 [PAGE_MISSING]"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7f608343d"
+item: "#item-6fc916d2f"
 unparsed:
-line: 'Head: kindred|Entry: 168 [Kindred]|#item-7f608343d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/841,941,452,137/full/0/default.jpg
+line: 'Head: language|Entry: a|Entry: 1413 [Languages]|Entry: 4755 [PAGE_MISSING]|#item-6fc916d2f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1559,915,713,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761665345
-sort_value: '302720941'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835072604
+sort_value: '302730915'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/841,941,452,137/150,/0/default.jpg
-label: kindred
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1559,915,713,131/150,/0/default.jpg
+label: language
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '243'
+order: '276'
 layout: index_item
 collection: index3
 ---

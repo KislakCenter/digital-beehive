@@ -10,7 +10,7 @@ page:
 add:
 xref: 789 [PAGE_MISSING]
 see:
-index: "<a href='/digital-beehive/index4/index_3660/'>shamefaced</a>"
+index: "<a href='/digital-beehive/index4/index_3604/'>shamefaced</a>"
 item: "#item-bc7a8049a"
 unparsed:
 line: 'Entry: Shamefacedness|Topic: Shamefacedness|Xref: 789 [PAGE_MISSING]|Index:

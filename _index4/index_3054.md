@@ -2,8 +2,8 @@
 pid: index_3054
 volume: Volume 3
 image_number: '36'
-head: pocket
-entry: "<a href='/digital-beehive/alpha4/alpha_0718/'>a</a>"
+head: pr[ae]fiscine
+entry: "<a href='/digital-beehive/num10/num_3206/'>2256 [Pr[ae]fiscine]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d6d65b194"
+item: "#item-4f24374fc"
 unparsed:
-line: 'Head: pocket|Entry: a|#item-d6d65b194'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/458,1943,396,117/full/0/default.jpg
+line: 'Head: pr[ae]fiscine|Entry: 2256 [Pr[ae]fiscine]|#item-4f24374fc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1941,463,536,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208121710
-sort_value: '303611943'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439497824
+sort_value: '303630463'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/458,1943,396,117/150,/0/default.jpg
-label: pocket
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1941,463,536,139/150,/0/default.jpg
+label: pr[ae]fiscine
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0302'
+order: '0346'
 layout: index_item
 collection: index4
 ---

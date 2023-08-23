@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0758/'>587 [Corrupted]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0451/'>bribe</a>"
+index: "<a href='/digital-beehive/index1/index_0442/'>bribe</a>"
 item: "#item-fd76c8de4"
 unparsed:
 line: 'Entry: Bribe|Topic:  Bribe|Xref: 587 [Corrupted]|Index: bribe|#item-fd76c8de4'

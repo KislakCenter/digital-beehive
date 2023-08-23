@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num5/num_1570/'>1152 [Fire]</a>|<a href='/digital-beehive/num6/num_2159/'>1468
   [London]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2321/'>London</a>"
+index: "<a href='/digital-beehive/index3/index_2283/'>London</a>"
 item: "#item-74d4d3984"
 unparsed:
 line: 'Entry: London|Topic: London|Xref: 1152 [Fire]|Xref: 1468 [London]|Index: London|#item-74d4d3984'

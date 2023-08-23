@@ -2,8 +2,8 @@
 pid: index_0236
 volume: Volume 3
 image_number: '9'
-head: atom
-entry: 838 [PAGE_MISSING]
+head: attorney
+entry: "<a href='/digital-beehive/num3/num_1065/'>721 [Attorney]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-b36e68baa"
+item: "#item-12e4a650f"
 unparsed:
-line: 'Head: atom|Entry: 838 [PAGE_MISSING]|#item-b36e68baa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/174,488,401,106/full/0/default.jpg
+line: 'Head: attorney|Entry: 721 [Attorney]|#item-12e4a650f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/169,971,506,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565014763518
-sort_value: '300910488'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015088626
+sort_value: '300910971'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/174,488,401,106/150,/0/default.jpg
-label: atom
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/169,971,506,143/150,/0/default.jpg
+label: attorney
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0235'
 layout: index_item
 collection: index1

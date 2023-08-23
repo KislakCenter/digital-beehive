@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num7/num_2407/'>1599 [Circumcision]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0672/'>circumcision</a>"
+index: "<a href='/digital-beehive/index1/index_0658/'>circumcision</a>"
 item: "#item-e3e7fb1e1"
 unparsed:
 line: 'Entry: Circumcision|Topic: Circumcision|Xref: 1599 [Circumcision]|Index: circumcision|#item-e3e7fb1e1'

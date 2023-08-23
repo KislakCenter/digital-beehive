@@ -1,30 +1,29 @@
 ---
 pid: index_3832
 volume: Volume 3
-image_number: '44'
-head: spell or charm
-entry: "<a href='/digital-beehive/num7/num_2295/'>1542 [homerical Medicines]</a>"
+image_number: '45'
+head: steel
+entry:
 topic:
 first_letter: S
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2081/'>Iron</a>"
 index:
-item: "#item-e634bb17d"
+item: "#item-e7596f93c"
 unparsed:
-line: 'Head: spell or charm|Entry: 1542 [homerical Medicines]|#item-e634bb17d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1112,1552,692,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529789732245
-sort_value: '304421552'
+line: 'Head: steel|See: Iron|#item-e7596f93c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/226,1352,414,71/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530219165232
+sort_value: '304511352'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1112,1552,692,143/150,/0/default.jpg
-label: spell or charm
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/226,1352,414,71/150,/0/default.jpg
+label: steel
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1080'
+order: '1124'
 layout: index_item
 collection: index4
 ---

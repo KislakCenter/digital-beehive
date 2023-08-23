@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num3/num_0693/'>549 [Hirelings]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1842/'>hireling</a>"
+index: "<a href='/digital-beehive/index2/index_1810/'>hireling</a>"
 item: "#item-2c8f931b4"
 unparsed:
 line: 'Entry: Hireling|Topic: Hireling|Xref: 549 [Hirelings]|Index: hireling|#item-2c8f931b4|'

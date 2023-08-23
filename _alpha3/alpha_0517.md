@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num5/num_1416/'>1054 [Epictetus]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2207/'>last unction</a>"
+index: "<a href='/digital-beehive/index3/index_2171/'>last unction</a>"
 item: "#item-40e40de28"
 unparsed:
 line: 'Entry: Last unction|Topic: Last unction|Xref: 1054 [Epictetus]|Index: last

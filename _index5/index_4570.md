@@ -2,30 +2,28 @@
 pid: index_4570
 volume: Volume 3
 image_number: '53'
-head: wish
-entry: "<a href='/digital-beehive/alpha5/alpha_1046/'>a</a>|<a href='/digital-beehive/num4/num_1110/'>875
-  [Wish]</a>|<a href='/digital-beehive/num7/num_2549/'>1663 [Wish]</a>"
+head: year of release
+entry: "<a href='/digital-beehive/num6/num_2052/'>1418 [To Remit]</a>"
 topic:
-first_letter: W
+first_letter: Y
 page:
 add:
 xref:
 see:
 index:
-item: "#item-77b48c754"
+item: "#item-a486663c0"
 unparsed:
-line: 'Head: wish|Entry: a|Entry: 875 [Wish]|Entry: 1663 [Wish]|#item-77b48c754'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,1218,555,101/full/0/default.jpg
+line: 'Head: year of release|Entry: 1418 [To Remit]|#item-a486663c0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1601,1950,602,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791862715
-sort_value: '305311218'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798952558
+sort_value: '305331950'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,1218,555,101/150,/0/default.jpg
-label: wish
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1601,1950,602,124/150,/0/default.jpg
+label: year of release
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '532'
+order: '593'
 layout: index_item
 collection: index5
 ---

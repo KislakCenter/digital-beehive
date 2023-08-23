@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha2/alpha_0284/'>Empire</a>|<a href='/digita
   href='/digital-beehive/alpha3/alpha_0604/'>Monarchy</a>|<a href='/digital-beehive/num5/num_1648/'>1207
   [King]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2162/'>king</a>"
+index: "<a href='/digital-beehive/index3/index_2126/'>king</a>"
 item: "#item-a083a8567"
 unparsed:
 line: 'Entry: King|Topic: King|Xref: Empire|Xref: Prince|Xref: Monarchy|Xref: 1207

@@ -2,8 +2,8 @@
 pid: index_0127
 volume: Volume 3
 image_number: '8'
-head: am[m]unition
-entry: 863 [PAGE_MISSING]
+head: amphibious
+entry:
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-64e45eb1d"
+item: "#item-03848f4f9"
 unparsed:
-line: 'Head: am[m]unition|Entry: 863 [PAGE_MISSING]|#item-64e45eb1d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/414,515,541,81/full/0/default.jpg
+line: 'Head: amphibious|#item-03848f4f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/343,870,568,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491237569118
-sort_value: '300810515'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757769973
+sort_value: '300810870'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/414,515,541,81/150,/0/default.jpg
-label: am[m]unition
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/343,870,568,155/150,/0/default.jpg
+label: amphibious
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0126'
 layout: index_item
 collection: index1

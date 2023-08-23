@@ -1,31 +1,29 @@
 ---
 pid: index_2609
 volume: Volume 3
-image_number: '31'
-head: Mugletonians
-entry: "<a href='/digital-beehive/num1/num_0039/'>39 [Muggletonians]</a>|<a href='/digital-beehive/num5/num_1414/'>1054
-  [Muggletonians]</a>"
+image_number: '32'
+head: natural affection
+entry: 4717 [PAGE_MISSING]
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-8d6330e61"
+item: "#item-4e881ea9d"
 unparsed:
-line: 'Head: Mugletonians|Entry: 39 [Muggletonians]|Entry: 1054 [Muggletonians]|#item-8d6330e61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1571,1052,666,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360973615
-sort_value: '303131052'
+line: 'Head: natural affection|Entry: 4717 [PAGE_MISSING]|#item-4e881ea9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/392,1650,740,80/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437870626
+sort_value: '303211650'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1571,1052,666,127/150,/0/default.jpg
-label: Mugletonians
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/392,1650,740,80/150,/0/default.jpg
+label: natural affection
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '691'
+order: '724'
 layout: index_item
 collection: index3
 ---

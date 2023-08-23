@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0199/'>Cross</a>|<a href='/digital-beehive/num2/num_0364/'>316
   [Affliction]</a>|<a href='/digital-beehive/num3/num_1040/'>712 [Adversity]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0049/'>adversity</a>"
+index: "<a href='/digital-beehive/index1/index_0048/'>adversity</a>"
 item: "#item-fb558fcd2"
 unparsed:
 line: 'Entry: Adversity|Topic: Adversity|Xref: Cross|Xref: 316 [Affliction]|Xref:
@@ -24,7 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0430/371,4364,600,180/250,/0/default.jpg
 label: Adversity
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
-issue: The point of reference for "Gods affection" is unclear.
+issue:
 also_in_entry:
 order: '009'
 layout: alpha_item

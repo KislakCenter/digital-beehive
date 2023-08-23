@@ -2,28 +2,27 @@
 pid: index_0599
 volume: Volume 3
 image_number: '12'
-head: change of Sex
-entry: "<a href='/digital-beehive/num8/num_2909/'>1978 [Changed their Sex]</a>"
+head: charnelhouse
+entry:
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-fbe93edc3"
+item: "#item-2f6dfd57d"
 unparsed:
-line: 'Head: change of Sex|Entry: 1978 [Changed their Sex]|#item-fbe93edc3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,3045,538,100/full/0/default.jpg
+line: 'Head: charnelhouse|Page: p.44 [Image 1.104]|#item-2f6dfd57d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1826,569,644,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532442656627
-sort_value: '301223045'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443903911
+sort_value: '301230569'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1123,3045,538,100/150,/0/default.jpg
-label: change of Sex
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1826,569,644,138/150,/0/default.jpg
+label: charnelhouse
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0598'
 layout: index_item
 collection: index1

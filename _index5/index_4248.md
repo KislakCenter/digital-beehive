@@ -1,30 +1,29 @@
 ---
 pid: index_4248
 volume: Volume 3
-image_number: '48'
-head: troublesom
-entry: "<a href='/digital-beehive/num11/num_3548/'>4852 [Turbulent : troublesom]</a>"
+image_number: '49'
+head: Verdrießen
+entry:
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_1072/'>Displeasure</a>"
 index:
-item: "#item-b8e553252"
+item: "#item-3a9e09858"
 unparsed:
-line: 'Head: troublesom|Entry: 4852 [Turbulent : troublesom]|#item-b8e553252'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1803,2685,430,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565619835688
-sort_value: '304832685'
+line: 'Head: Verdrießen|See: Displeasure|#item-3a9e09858'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/911,3120,848,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658896689
+sort_value: '304923120'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1803,2685,430,108/150,/0/default.jpg
-label: troublesom
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/911,3120,848,144/150,/0/default.jpg
+label: Verdrießen
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '210'
+order: '271'
 layout: index_item
 collection: index5
 ---

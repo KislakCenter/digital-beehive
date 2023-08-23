@@ -1,30 +1,29 @@
 ---
 pid: index_3118
 volume: Volume 3
-image_number: '36'
-head: precipitation
-entry:
+image_number: '37'
+head: privy parts
+entry: "<a href='/digital-beehive/num2/num_0570/'>458 [Privy parts]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4176/'>too hasty</a>"
+see:
 index:
-item: "#item-9616bc4eb"
+item: "#item-ce41a5f3c"
 unparsed:
-line: 'Head: precipitation|See: too hasty|#item-9616bc4eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1860,1834,705,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440480682
-sort_value: '303631834'
+line: 'Head: privy parts|Entry: 458 [Privy parts]|#item-ce41a5f3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,936,441,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867668788
+sort_value: '303720936'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1860,1834,705,132/150,/0/default.jpg
-label: precipitation
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,936,441,121/150,/0/default.jpg
+label: privy parts
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0366'
+order: '0410'
 layout: index_item
 collection: index4
 ---

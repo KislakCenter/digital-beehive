@@ -2,9 +2,8 @@
 pid: index_1539
 volume: Volume 3
 image_number: '21'
-head: french
-entry: "<a href='/digital-beehive/alpha2/alpha_0351/'>a</a>|<a href='/digital-beehive/num6/num_1795/'>1288
-  [French]</a>|4644 [PAGE_MISSING]"
+head: furniture
+entry: "<a href='/digital-beehive/num3/num_1060/'>718 [Household stuff]</a>"
 topic:
 first_letter: F
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5c9e32b4d"
+item: "#item-acde67f78"
 unparsed:
-line: 'Head: french|Entry: a|Entry: 1288 [French]|Entry: 4644 [PAGE_MISSING]|#item-5c9e32b4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/870,2068,675,105/full/0/default.jpg
+line: 'Head: furniture|Entry: 718 [Household stuff]|#item-acde67f78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1544,1260,576,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619002953
-sort_value: '302122068'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786109894
+sort_value: '302131260'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/870,2068,675,105/150,/0/default.jpg
-label: french
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1544,1260,576,138/150,/0/default.jpg
+label: furniture
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '358'
+order: '380'
 layout: index_item
 collection: index2
 ---

@@ -1,32 +1,29 @@
 ---
 pid: index_3199
 volume: Volume 3
-image_number: '37'
-head: false prophets
-entry: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/num3/num_0666/'>531
-  [unholy man to be a Gospel-minister]</a>"
+image_number: '38'
+head: qualities
+entry: "<a href='/digital-beehive/num2/num_0544/'>440 [Qualities]</a>"
 topic:
-first_letter: P
+first_letter: Q
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7920f1dbf"
+item: "#item-dfd60fb83"
 unparsed:
-line: 'Head: false prophets|Entry: 41 [False Prophets]|Entry: 531 [unholy man to be
-  a Gospel-minister]|#item-7920f1dbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1452,1010,535,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869200957
-sort_value: '303731010'
+line: 'Head: qualities|Entry: 440 [Qualities]|#item-dfd60fb83'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/402,3197,510,187/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454730696
+sort_value: '303813197'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1452,1010,535,135/150,/0/default.jpg
-label: false prophets
-location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/402,3197,510,187/150,/0/default.jpg
+label: qualities
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0447'
+order: '0491'
 layout: index_item
 collection: index4
 ---

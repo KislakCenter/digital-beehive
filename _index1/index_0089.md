@@ -2,31 +2,27 @@
 pid: index_0089
 volume: Volume 3
 image_number: '7'
-head: alchymie
-entry: "<a href='/digital-beehive/alpha1/alpha_0018/'>a</a>|<a href='/digital-beehive/num6/num_1864/'>1326
-  [Alchymie]</a>|<a href='/digital-beehive/num7/num_2306/'>1548 [Alchymie]</a>|<a
-  href='/digital-beehive/num9/num_3027/'>2090 [Alchymie]</a>|4555 [PAGE_MISSING]"
+head: ale
+entry:
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0325/'>beer</a>"
 index:
-item: "#item-acedd3f25"
+item: "#item-075736695"
 unparsed:
-line: 'Head: alchymie|Entry: a|Entry: 1326 [Alchymie]|Entry: 1548 [Alchymie]|Entry:
-  2090 [Alchymie]|Entry: 4555 [PAGE_MISSING]|#item-acedd3f25'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1608,722,717,154/full/0/default.jpg
+line: 'Head: ale|See: beer|#item-075736695'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1000,353,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768095550
-sort_value: '300730722'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768572306
+sort_value: '300731000'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1608,722,717,154/150,/0/default.jpg
-label: alchymie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1599,1000,353,136/150,/0/default.jpg
+label: ale
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0088'
 layout: index_item
 collection: index1

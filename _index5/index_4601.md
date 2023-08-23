@@ -1,30 +1,29 @@
 ---
 pid: index_4601
 volume: Volume 3
-image_number: '53'
-head: wonderful things
-entry: "<a href='/digital-beehive/alpha5/alpha_1055/'>a</a>"
+image_number: '54'
+head: Duke
+entry: "<a href='/digital-beehive/num8/num_2800/'>1907 [Duke]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9d54d55d6"
+item: "#item-864b155f7"
 unparsed:
-line: 'Head: wonderful things|Entry: a|#item-9d54d55d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/873,1132,586,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796213984
-sort_value: '305321132'
+line: 'Type: Index|Insertion: [:10.]|Head: Duke|Entry: 1907 [Duke]|#item-864b155f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/383,1730,573,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560868397906
+sort_value: '305411730'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/873,1132,586,146/150,/0/default.jpg
-label: wonderful things
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/383,1730,573,147/150,/0/default.jpg
+label: Duke
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '563'
+order: '624'
 layout: index_item
 collection: index5
 ---

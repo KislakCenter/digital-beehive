@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0591/'>merit</a>|<a href='/digital-beehive/alpha4/alpha_0831/'>Salary</a>|<a
   href='/digital-beehive/num2/num_0534/'>431 [Reward]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3413/'>reward</a>"
+index: "<a href='/digital-beehive/index4/index_3361/'>reward</a>"
 item: "#item-dc4895cb5"
 unparsed:
 line: 'Entry: Reward|Topic: Reward|Xref: merit|Xref: Salary|Xref: 431 [Reward]|Index:

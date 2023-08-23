@@ -2,9 +2,9 @@
 pid: index_2693
 volume: Volume 3
 image_number: '32'
-head: new
-entry: "<a href='/digital-beehive/alpha3/alpha_0643/'>a</a>|<a href='/digital-beehive/num7/num_2535/'>1656
-  [New : News]</a>"
+head: nothing
+entry: "<a href='/digital-beehive/alpha3/alpha_0648/'>a</a>|<a href='/digital-beehive/num7/num_2491/'>1638
+  [Nothing]</a>"
 topic:
 first_letter: N
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-06247a9a1"
+item: "#item-c1a28d550"
 unparsed:
-line: 'Head: new|Entry: a|Entry: 1656 [New : News]|#item-06247a9a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1158,1627,452,107/full/0/default.jpg
+line: 'Head: nothing|Entry: a|Entry: 1638 [Nothing]|#item-c1a28d550'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1829,2621,579,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442364918
-sort_value: '303221627'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449607434
+sort_value: '303232621'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1158,1627,452,107/150,/0/default.jpg
-label: new
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1829,2621,579,138/150,/0/default.jpg
+label: nothing
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '775'
+order: '808'
 layout: index_item
 collection: index3
 ---

@@ -1,32 +1,29 @@
 ---
 pid: index_4651
 volume: Volume 3
-image_number: '53'
-head: to grow young
-entry: "<a href='/digital-beehive/num6/num_1742/'>1255 [To grow young again]</a>|<a
-  href='/digital-beehive/num9/num_3092/'>2150 [To grow young again]</a>"
+image_number: '54'
+head: tenant
+entry: "<a href='/digital-beehive/num2/num_0413/'>352 [Erbpacht]</a>"
 topic:
-first_letter: Y
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-0dab9057d"
+item: "#item-17b2d4751"
 unparsed:
-line: 'Head: to grow young|Entry: 1255 [To grow young again]|Entry: 2150 [To grow
-  young again]|#item-0dab9057d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1565,2802,733,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799579947
-sort_value: '305332802'
+line: 'Type: Index|Insertion: [:55.]|Head: tenant|Entry: 352 [Erbpacht]|#item-17b2d4751'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1773,1298,591,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956681732
+sort_value: '305431298'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1565,2802,733,127/150,/0/default.jpg
-label: to grow young
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1773,1298,591,141/150,/0/default.jpg
+label: tenant
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '613'
+order: '674'
 layout: index_item
 collection: index5
 ---

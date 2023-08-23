@@ -1,9 +1,9 @@
 ---
 pid: index_3116
 volume: Volume 3
-image_number: '36'
-head: precedency
-entry: "<a href='/digital-beehive/alpha4/alpha_0731/'>a</a>"
+image_number: '37'
+head: priviledge
+entry: "<a href='/digital-beehive/alpha4/alpha_0742/'>a</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e2af07b89"
+item: "#item-0f6dd47f5"
 unparsed:
-line: 'Head: precedency|Entry: a|#item-e2af07b89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1868,1659,553,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440322576
-sort_value: '303631659'
+line: 'Head: priviledge|Entry: a|#item-0f6dd47f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/776,725,443,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867594234
+sort_value: '303720725'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1868,1659,553,96/150,/0/default.jpg
-label: precedency
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/776,725,443,143/150,/0/default.jpg
+label: priviledge
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0364'
+order: '0408'
 layout: index_item
 collection: index4
 ---

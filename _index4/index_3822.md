@@ -1,9 +1,9 @@
 ---
 pid: index_3822
 volume: Volume 3
-image_number: '44'
-head: speak out!
-entry: 824 [PAGE_MISSING]
+image_number: '45'
+head: state
+entry: "<a href='/digital-beehive/num4/num_1152/'>891 [State]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-25f5aeca5"
+item: "#item-025192bc1"
 unparsed:
-line: 'Head: speak out!|Entry: 824 [PAGE_MISSING]|#item-25f5aeca5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1121,528,533,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288632623
-sort_value: '304420528'
+line: 'Head: state|Entry: 891 [State]|#item-025192bc1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/210,281,365,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530107641682
+sort_value: '304510281'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1121,528,533,142/150,/0/default.jpg
-label: speak out!
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/210,281,365,105/150,/0/default.jpg
+label: state
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1070'
+order: '1114'
 layout: index_item
 collection: index4
 ---

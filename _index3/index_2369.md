@@ -2,29 +2,28 @@
 pid: index_2369
 volume: Volume 3
 image_number: '29'
-head: lusty
-entry: "<a href='/digital-beehive/num4/num_1127/'>882 [Pleasure]</a>"
+head: maneaters
+entry: "<a href='/digital-beehive/num2/num_0606/'>485 [Canibal]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-05fed984b"
+item: "#item-357eccd2c"
 unparsed:
-line: 'Head: lusty|Entry: 882 [Pleasure]|#item-05fed984b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/862,1115,368,127/full/0/default.jpg
+line: 'Head: maneaters|Entry: 485 [Canibal]|#item-357eccd2c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,1868,513,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185672888
-sort_value: '302921115'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195671184
+sort_value: '302931868'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/862,1115,368,127/150,/0/default.jpg
-label: lusty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1540,1868,513,112/150,/0/default.jpg
+label: maneaters
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '451'
+order: '484'
 layout: index_item
 collection: index3
 ---

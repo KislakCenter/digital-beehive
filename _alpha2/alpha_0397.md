@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num4/num_1225/'>923 [Blessings of God are upon the
   wicked]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1750/'>happiness of the wicked</a>"
+index: "<a href='/digital-beehive/index2/index_1719/'>happiness of the wicked</a>"
 item: "#item-7b5ae19be"
 unparsed:
 line: 'Entry: Happiness of the Wicked|Topic: Happiness of the Wicked|Xref: 923 [Blessings

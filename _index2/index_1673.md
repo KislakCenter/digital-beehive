@@ -1,11 +1,9 @@
 ---
 pid: index_1673
 volume: Volume 3
-image_number: '22'
-head: church governmt
-entry: "<a href='/digital-beehive/num2/num_0493/'>402 [Order & Discipline in the Church]</a>|<a
-  href='/digital-beehive/num7/num_2409/'>1600 [Church-Discipline]</a>|<a href='/digital-beehive/num8/num_2742/'>1808
-  [Church Governmt]</a>"
+image_number: '23'
+head: grazing
+entry: "<a href='/digital-beehive/num8/num_2920/'>1988 [Grazing]</a>"
 topic:
 first_letter: G
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-244d864ac"
+item: "#item-85db98277"
 unparsed:
-line: 'Head: church governmt|Entry: 402 [Order & Discipline in the Church]|Entry:
-  1600 [Church-Discipline]|Entry: 1808 [Church Governmt]|#item-244d864ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1720,842,838,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052165286
-sort_value: '302230842'
+line: 'Head: grazing|Entry: 1988 [Grazing]|#item-85db98277'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/132,549,481,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229105508
+sort_value: '302310549'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1720,842,838,94/150,/0/default.jpg
-label: church governmt
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/132,549,481,96/150,/0/default.jpg
+label: grazing
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '492'
+order: '514'
 layout: index_item
 collection: index2
 ---

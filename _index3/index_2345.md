@@ -2,29 +2,28 @@
 pid: index_2345
 volume: Volume 3
 image_number: '29'
-head: love of money
-entry:
+head: magnificence
+entry: "<a href='/digital-beehive/num4/num_1196/'>912 [Magnificen(ce:)]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0868/'>Covetousness</a>"
+see:
 index:
-item: "#item-227f351c8"
+item: "#item-6b7f20efe"
 unparsed:
-line: 'Head: love of money|See: Covetousness|#item-227f351c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/161,2365,648,138/full/0/default.jpg
+line: 'Head: magnificence|Entry: 912 [Magnificen(ce:)]|#item-6b7f20efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/819,2826,558,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179670621
-sort_value: '302912365'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560187149848
+sort_value: '302922826'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/161,2365,648,138/150,/0/default.jpg
-label: love of money
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/819,2826,558,177/150,/0/default.jpg
+label: magnificence
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '427'
+order: '460'
 layout: index_item
 collection: index3
 ---

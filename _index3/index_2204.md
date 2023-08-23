@@ -1,10 +1,9 @@
 ---
 pid: index_2204
 volume: Volume 3
-image_number: '27'
-head: last day
-entry: "<a href='/digital-beehive/alpha3/alpha_0514/'>a</a>|<a href='/digital-beehive/num4/num_1318/'>988
-  [Last day of Judgmt]</a>"
+image_number: '28'
+head: least
+entry: 812 [PAGE_MISSING]
 topic:
 first_letter: L
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-2301461de"
+item: "#item-24464ef2c"
 unparsed:
-line: 'Head: last day|Entry: a|Entry: 988 [Last day of Judgmt]|#item-2301461de'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1543,1632,491,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835914458
-sort_value: '302731632'
+line: 'Head: least|Entry: 812 [PAGE_MISSING]|#item-24464ef2c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/390,2247,371,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842380058
+sort_value: '302812247'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1543,1632,491,128/150,/0/default.jpg
-label: last day
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/390,2247,371,112/150,/0/default.jpg
+label: least
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '286'
+order: '319'
 layout: index_item
 collection: index3
 ---

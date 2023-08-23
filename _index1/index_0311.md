@@ -2,9 +2,9 @@
 pid: index_0311
 volume: Volume 3
 image_number: '9'
-head: baudry
-entry: "<a href='/digital-beehive/alpha1/alpha_0065/'>a</a>|765 [PAGE_MISSING]|<a
-  href='/digital-beehive/num9/num_3003/'>2068 [Bawdry]</a>"
+head: beast
+entry: "<a href='/digital-beehive/alpha1/alpha_0068/'>a</a>|<a href='/digital-beehive/num5/num_1617/'>1185
+  [Beasts]</a>"
 topic:
 first_letter: B
 page:
@@ -12,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-d0dbf82cc"
+item: "#item-f8e4353ce"
 unparsed:
-line: 'Head: baudry|Entry: a|Entry: 765 [PAGE_MISSING]|Entry: 2068 [Bawdry]|#item-d0dbf82cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1585,1084,667,167/full/0/default.jpg
+line: 'Head: beast|Entry: a|Entry: 1185 [Beasts]|#item-f8e4353ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1601,1815,472,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018049041
-sort_value: '300931084'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891696035
+sort_value: '300931815'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1585,1084,667,167/150,/0/default.jpg
-label: baudry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1601,1815,472,119/150,/0/default.jpg
+label: beast
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0310'
 layout: index_item
 collection: index1

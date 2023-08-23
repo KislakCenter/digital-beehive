@@ -2,29 +2,30 @@
 pid: index_1553
 volume: Volume 3
 image_number: '21'
-head: froth
-entry: "<a href='/digital-beehive/num7/num_2304/'>1547 [Juggling]</a>"
+head: garden
+entry: "<a href='/digital-beehive/alpha2/alpha_0358/'>a</a>|1890 [PAGE_MISSING]"
 topic:
-first_letter: F
-page:
+first_letter: G
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>|<a href='/digital-beehive/toc/toc1_087/'>p.37
+  [Image 1.97]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-2f2265ac8"
+item: "#item-91f06e853"
 unparsed:
-line: 'Head: froth|Entry: 1547 [Juggling]|#item-2f2265ac8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/841,3288,390,109/full/0/default.jpg
+line: 'Head: garden|Page: p.8 [Image 1.68]|Page: p.37 [Image 1.97]|Entry: a|Entry:
+  1890 [PAGE_MISSING]|#item-91f06e853'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1541,2538,813,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784582976
-sort_value: '302123288'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787168724
+sort_value: '302132538'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/841,3288,390,109/150,/0/default.jpg
-label: froth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1541,2538,813,135/150,/0/default.jpg
+label: garden
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '372'
+order: '394'
 layout: index_item
 collection: index2
 ---

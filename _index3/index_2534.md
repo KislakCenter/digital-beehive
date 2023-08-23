@@ -2,29 +2,28 @@
 pid: index_2534
 volume: Volume 3
 image_number: '31'
-head: miscarry
-entry:
+head: moor
+entry: "<a href='/digital-beehive/num2/num_0461/'>382 [Neger or Negro]</a>"
 topic:
 first_letter: M
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4423/'>untimely</a>"
+see:
 index:
-item: "#item-fafa8c453"
+item: "#item-c8739f3ee"
 unparsed:
-line: 'Head: miscarry|See: untimely|#item-fafa8c453'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/157,260,719,152/full/0/default.jpg
+line: 'Head: moor|Entry: 382 [Neger or Negro]|#item-c8739f3ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/887,1456,346,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350499044
-sort_value: '303110260'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355608571
+sort_value: '303121456'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/157,260,719,152/150,/0/default.jpg
-label: miscarry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/887,1456,346,100/150,/0/default.jpg
+label: moor
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '616'
+order: '649'
 layout: index_item
 collection: index3
 ---

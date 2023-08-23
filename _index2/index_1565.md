@@ -1,30 +1,29 @@
 ---
 pid: index_1565
 volume: Volume 3
-image_number: '21'
-head: fun[n]el
-entry:
+image_number: '22'
+head: genesis
+entry: "<a href='/digital-beehive/num11/num_3555/'>4859 [Genesis]</a>"
 topic:
-first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+first_letter: G
+page:
 add:
 xref:
 see:
 index:
-item: "#item-4876c76f0"
+item: "#item-6291df636"
 unparsed:
-line: 'Head: fun[n]el|Page: p.38 [Image 1.98]|#item-4876c76f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1558,1114,418,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786067981
-sort_value: '302131114'
+line: 'Head: genesis|Entry: 4859 [Genesis]|#item-6291df636'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/391,353,490,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561041945611
+sort_value: '302210353'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1558,1114,418,168/150,/0/default.jpg
-label: fun[n]el
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/391,353,490,114/150,/0/default.jpg
+label: genesis
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '384'
+order: '406'
 layout: index_item
 collection: index2
 ---

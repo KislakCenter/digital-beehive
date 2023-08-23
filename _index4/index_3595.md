@@ -1,9 +1,9 @@
 ---
 pid: index_3595
 volume: Volume 3
-image_number: '41'
-head: seeking God
-entry: "<a href='/digital-beehive/num10/num_3367/'>2394 [Coming to God]</a>"
+image_number: '42'
+head: to sew
+entry: "<a href='/digital-beehive/num3/num_0843/'>624 [To Sew]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-89816b84d"
+item: "#item-aa9d854f7"
 unparsed:
-line: 'Head: seeking God|Entry: 2394 [Coming to God]|#item-89816b84d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1600,3102,447,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243140451
-sort_value: '304133102'
+line: 'Head: to sew|Entry: 624 [To Sew]|#item-aa9d854f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1096,1708,448,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574302112
+sort_value: '304221708'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1600,3102,447,120/150,/0/default.jpg
-label: seeking God
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1096,1708,448,130/150,/0/default.jpg
+label: to sew
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0843'
+order: '0887'
 layout: index_item
 collection: index4
 ---

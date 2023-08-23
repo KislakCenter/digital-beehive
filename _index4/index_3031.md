@@ -1,30 +1,29 @@
 ---
 pid: index_3031
 volume: Volume 3
-image_number: '35'
-head: plain language
-entry:
+image_number: '36'
+head: possam
+entry: "<a href='/digital-beehive/num3/num_0793/'>602 [Possam]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4128/'>thouing</a>"
+see:
 index:
-item: "#item-5c3f1e8a1"
+item: "#item-a718c5bc8"
 unparsed:
-line: 'Head: plain language|See: thouing|#item-5c3f1e8a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1538,3184,800,237/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977225497
-sort_value: '303533184'
+line: 'Head: possam|Entry: 602 [Possam]|#item-a718c5bc8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1161,1406,492,87/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438718472
+sort_value: '303621406'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1538,3184,800,237/150,/0/default.jpg
-label: plain language
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1161,1406,492,87/150,/0/default.jpg
+label: possam
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0279'
+order: '0323'
 layout: index_item
 collection: index4
 ---

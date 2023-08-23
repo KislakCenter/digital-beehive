@@ -1,31 +1,29 @@
 ---
 pid: index_2019
 volume: Volume 3
-image_number: '25'
-head: Indies
-entry:
+image_number: '26'
+head: in[n]umerable
+entry: "<a href='/digital-beehive/num3/num_0870/'>639 [Innumerable]</a>"
 topic:
 first_letter: I/J
 page:
 add:
 xref:
-see: East & West Indies
+see:
 index:
-item: "#item-7f7e7dcbf"
+item: "#item-dc5e08fd1"
 unparsed:
-line: 'Head: Indies|See: East & West Indies|#item-7f7e7dcbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1542,3388,659,198/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673024990
-sort_value: '302533388'
+line: 'Head: in[n]umerable|Entry: 639 [Innumerable]|#item-dc5e08fd1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1168,248,570,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559746857353
+sort_value: '302620248'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1542,3388,659,198/150,/0/default.jpg
-label: Indies
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: The cross-reference "East & West Indies" refers to two separate index headers.
-  There is currently no protocol to link to two different items.
-insertion_xref:
-order: '101'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1168,248,570,164/150,/0/default.jpg
+label: in[n]umerable
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+issue:
+order: '134'
 layout: index_item
 collection: index3
 ---

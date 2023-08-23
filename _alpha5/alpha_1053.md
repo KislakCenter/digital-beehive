@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num6/num_1987/'>1388 [Love of Women]</a>|<a href='/digital-beehive/num5/num_1624/'>1192
   [Effeminate]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4589/'>womanish</a>"
+index: "<a href='/digital-beehive/index5/index_4519/'>womanish</a>"
 item: "#item-25cdbc304"
 unparsed:
 line: 'Entry: Womanish|Topic: Womanish|Xref: 1388 [Love of Women]|Xref: 1192 [Effeminate]|Index:

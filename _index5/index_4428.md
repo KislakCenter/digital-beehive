@@ -1,30 +1,30 @@
 ---
 pid: index_4428
 volume: Volume 3
-image_number: '51'
-head: void
-entry: "<a href='/digital-beehive/num7/num_2419/'>1603 [Unlawful]</a>"
+image_number: '52'
+head: way broad & small
+entry: "<a href='/digital-beehive/alpha5/alpha_1032/'>a</a>|<a href='/digital-beehive/num11/num_3583/'>4887
+  [broad & small Way]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5276548d7"
+item: "#item-c3b0b2fde"
 unparsed:
-line: 'Head: void|Entry: 1603 [Unlawful]|#item-5276548d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/212,2890,322,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645937842
-sort_value: '305112890'
+line: 'Head: way broad & small|Entry: a|Entry: 4887 [broad & small Way]|#item-c3b0b2fde'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/477,1985,613,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960897641
+sort_value: '305211985'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/212,2890,322,142/150,/0/default.jpg
-label: void
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/477,1985,613,144/150,/0/default.jpg
+label: way broad & small
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '390'
+order: '451'
 layout: index_item
 collection: index5
 ---

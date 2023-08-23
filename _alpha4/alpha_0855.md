@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0221/'>210 [Self-knowledge]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3619/'>Self knowledge</a>"
+index: "<a href='/digital-beehive/index4/index_3563/'>Self knowledge</a>"
 item: "#item-fb36375da"
 unparsed:
 line: 'Entry: Self knowledge|Topic: Self knowledge|Xref: 210 [Self-knowledge]|Index:

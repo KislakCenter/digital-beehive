@@ -1,30 +1,29 @@
 ---
 pid: index_2602
 volume: Volume 3
-image_number: '31'
-head: mouldy
-entry: "<a href='/digital-beehive/num3/num_0761/'>587 [mouldy]</a>"
+image_number: '32'
+head: narrative
+entry:
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1811/'>history</a>"
 index:
-item: "#item-d58ad5b28"
+item: "#item-ab62c539a"
 unparsed:
-line: 'Head: mouldy|Entry: 587 [mouldy]|#item-d58ad5b28'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1583,318,390,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360359701
-sort_value: '303130318'
+line: 'Head: narrative|See: history|#item-ab62c539a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/398,902,631,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437473354
+sort_value: '303210902'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1583,318,390,143/150,/0/default.jpg
-label: mouldy
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/398,902,631,154/150,/0/default.jpg
+label: narrative
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '684'
+order: '717'
 layout: index_item
 collection: index3
 ---

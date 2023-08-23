@@ -2,8 +2,8 @@
 pid: index_3816
 volume: Volume 3
 image_number: '44'
-head: Andr. Sowle
-entry: "<a href='/digital-beehive/num8/num_2917/'>1985 [Andrew Sowle]</a>"
+head: stam[m]ering
+entry: "<a href='/digital-beehive/num3/num_1069/'>722 [Stammering]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7ae0d5a55"
+item: "#item-4bbdc1604"
 unparsed:
-line: 'Head: Andr. Sowle|Entry: 1985 [Andrew Sowle]|#item-7ae0d5a55'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/595,3467,512,146/full/0/default.jpg
+line: 'Head: stam[m]ering|Entry: 722 [Stammering]|#item-4bbdc1604'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1798,3032,581,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288526893
-sort_value: '304413467'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530106495645
+sort_value: '304433032'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/595,3467,512,146/150,/0/default.jpg
-label: Andr. Sowle
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1798,3032,581,127/150,/0/default.jpg
+label: stam[m]ering
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1064'
+order: '1108'
 layout: index_item
 collection: index4
 ---

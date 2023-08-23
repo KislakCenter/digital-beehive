@@ -1,30 +1,29 @@
 ---
 pid: index_3971
 volume: Volume 3
-image_number: '45'
-head: to suffer or bear
-entry: "<a href='/digital-beehive/num6/num_1976/'>1383 [To bear : endure]</a>"
+image_number: '46'
+head: Symboles onomastical
+entry:
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_105/'>p.55 [Image 1.115]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-7d44da9fb"
+item: "#item-78a2cc220"
 unparsed:
-line: 'Head: to suffer or bear|Entry: 1383 [To bear : endure]|#item-7d44da9fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1594,2960,671,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530470044262
-sort_value: '304532960'
+line: 'Head: Symboles onomastical|Page: p.55 [Image 1.115]|#item-78a2cc220'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1095,2848,715,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531741754019
+sort_value: '304622848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1594,2960,671,151/150,/0/default.jpg
-label: to suffer or bear
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1095,2848,715,93/150,/0/default.jpg
+label: Symboles onomastical
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1219'
+order: '1263'
 layout: index_item
 collection: index4
 ---

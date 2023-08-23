@@ -2,8 +2,9 @@
 pid: index_0280
 volume: Volume 3
 image_number: '9'
-head: ballance
-entry: "<a href='/digital-beehive/num1/num_0231/'>219 [Balance]</a>"
+head: banquetting stuff
+entry: "<a href='/digital-beehive/alpha1/alpha_0058/'>a</a>|<a href='/digital-beehive/num3/num_1001/'>696
+  [Dainty meats]</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-7140736d4"
+item: "#item-8f1969fcf"
 unparsed:
-line: 'Head: ballance|Entry: 219 [Balance]|#item-7140736d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/918,1196,406,91/full/0/default.jpg
+line: 'Head: banquetting stuff|Entry: a|Entry: 696 [Dainty meats]|#item-8f1969fcf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/898,1972,631,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403588344
-sort_value: '300921196'
+annotation_uri: http://dev.llgc.org.uk/annotation/1505404658350
+sort_value: '300921972'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/918,1196,406,91/150,/0/default.jpg
-label: ballance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/898,1972,631,138/150,/0/default.jpg
+label: banquetting stuff
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0279'
 layout: index_item
 collection: index1

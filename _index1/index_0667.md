@@ -2,8 +2,8 @@
 pid: index_0667
 volume: Volume 3
 image_number: '13'
-head: Cicero
-entry: "<a href='/digital-beehive/num5/num_1657/'>1212 [Cicero]</a>"
+head: claim
+entry: "<a href='/digital-beehive/num6/num_1989/'>1389 [of Courting women]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ba8c98c0e"
+item: "#item-e9efa9f72"
 unparsed:
-line: 'Head: Cicero|Entry: 1212 [Cicero]|#item-ba8c98c0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/169,1859,349,94/full/0/default.jpg
+line: 'Head: claim|Entry: 1389 [of Courting women]|#item-e9efa9f72'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/155,3058,403,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532620295330
-sort_value: '301311859'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333363533
+sort_value: '301313058'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/169,1859,349,94/150,/0/default.jpg
-label: Cicero
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/155,3058,403,116/150,/0/default.jpg
+label: claim
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0666'
 layout: index_item
 collection: index1

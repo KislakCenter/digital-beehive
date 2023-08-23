@@ -2,29 +2,28 @@
 pid: index_4583
 volume: Volume 3
 image_number: '53'
-head: 2. Witnesses slain
-entry: "<a href='/digital-beehive/num7/num_2290/'>1539 [Two Witnesses Slain]</a>"
+head: Zenith
+entry: 809 [PAGE_MISSING]
 topic:
-first_letter: W
+first_letter: Z
 page:
 add:
 xref:
 see:
 index:
-item: "#item-03149b386"
+item: "#item-104b756c9"
 unparsed:
-line: 'Head: 2. Witnesses slain|Entry: 1539 [Two Witnesses Slain]|#item-03149b386'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/185,2550,634,143/full/0/default.jpg
+line: 'Head: Zenith|Entry: 809 [PAGE_MISSING]|#item-104b756c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1587,3178,413,90/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792924780
-sort_value: '305312550'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560869711509
+sort_value: '305333178'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/185,2550,634,143/150,/0/default.jpg
-label: 2. Witnesses slain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1587,3178,413,90/150,/0/default.jpg
+label: Zenith
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '545'
+order: '606'
 layout: index_item
 collection: index5
 ---

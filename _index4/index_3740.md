@@ -1,9 +1,9 @@
 ---
 pid: index_3740
 volume: Volume 3
-image_number: '43'
-head: skillfully
-entry: "<a href='/digital-beehive/num8/num_2712/'>1780 [Expert]</a>"
+image_number: '44'
+head: soot
+entry: "<a href='/digital-beehive/num7/num_2414/'>1601 [Soot]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9339cd36d"
+item: "#item-2c2d0a90e"
 unparsed:
-line: 'Head: skillfully|Entry: 1780 [Expert]|#item-9339cd36d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/879,1513,515,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583392589
-sort_value: '304321513'
+line: 'Head: soot|Entry: 1601 [Soot]|#item-2c2d0a90e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/576,815,345,88/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288204087
+sort_value: '304410815'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/879,1513,515,102/150,/0/default.jpg
-label: skillfully
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/576,815,345,88/150,/0/default.jpg
+label: soot
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0988'
+order: '1032'
 layout: index_item
 collection: index4
 ---

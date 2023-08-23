@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0801/'>Resistance</a>|<a href='/digital-beehive/alpha4/alpha_0808/'>Revenge</a>|<a
   href='/digital-beehive/alpha5/alpha_1024/'>War</a>|739 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0988/'>defence</a>"
+index: "<a href='/digital-beehive/index1/index_0969/'>defence</a>"
 item: "#item-7da8743c5"
 unparsed:
 line: 'Entry: Defence|Topic: Defence|Xref: Resistance|Xref: Revenge|Xref: War|Xref:
@@ -24,7 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/786,2758,600,180/250,/0/default.jpg
 label: Defence
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-issue: It is unclear whether "It. War. Revenge" should be considered cross-references.
+issue: It is unclear if "it. War. revenge." should be considered as cross references.
+  We have linked to both entries, which occur in the Alphabetical section of the Alvearium.
 also_in_entry:
 order: '219'
 layout: alpha_item

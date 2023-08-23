@@ -2,29 +2,28 @@
 pid: index_3818
 volume: Volume 3
 image_number: '44'
-head: spaniards
-entry: "<a href='/digital-beehive/num5/num_1436/'>1066 [Spaniard]</a>"
+head: standard
+entry:
 topic:
 first_letter: S
-page:
+page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0278/'>ban[n]er</a>"
 index:
-item: "#item-239400fa2"
+item: "#item-52883e06e"
 unparsed:
-line: 'Head: spaniards|Entry: 1066 [Spaniard]|#item-239400fa2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1129,255,543,108/full/0/default.jpg
+line: 'Head: standard|Page: p.6 [Image 1.66]|See: ban[n]er|#item-52883e06e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1812,3297,669,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529788251747
-sort_value: '304420255'
+annotation_uri: http://dev.llgc.org.uk/annotation/1530106644135
+sort_value: '304433297'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1129,255,543,108/150,/0/default.jpg
-label: spaniards
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1812,3297,669,125/150,/0/default.jpg
+label: standard
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1066'
+order: '1110'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0220/'>defense</a>|<a href='/digital-beehive/alpha5/alpha_1074/'>Yielding</a>|4640
   [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index4/index_3388/'>resistance</a>"
+index: "<a href='/digital-beehive/index4/index_3336/'>resistance</a>"
 item: "#item-36a15c3c8"
 unparsed:
 line: 'Entry: Resistance|Topic: Resistance|Xref: defense|Xref: Yielding|Xref: 4640
@@ -24,7 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/354,3942,600,180/250,/0/default.jpg
 label: Resistance
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
-issue: The point of reference for "fielding" is unclear.
+issue:
 also_in_entry:
 order: '149'
 layout: alpha_item

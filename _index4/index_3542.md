@@ -2,8 +2,8 @@
 pid: index_3542
 volume: Volume 3
 image_number: '41'
-head: scarlet
-entry: "<a href='/digital-beehive/num8/num_2808/'>1913 [Purple]</a>"
+head: seers
+entry: "<a href='/digital-beehive/num6/num_1836/'>1314 [Second sighted]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-809cc81ff"
+item: "#item-33f5cbfe2"
 unparsed:
-line: 'Head: scarlet|Entry: 1913 [Purple]|#item-809cc81ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/854,466,457,101/full/0/default.jpg
+line: 'Head: seers|Entry: 1314 [Second sighted]|#item-33f5cbfe2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1605,3409,407,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240280239
-sort_value: '304120466'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243241679
+sort_value: '304133409'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/854,466,457,101/150,/0/default.jpg
-label: scarlet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1605,3409,407,148/150,/0/default.jpg
+label: seers
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0790'
+order: '0834'
 layout: index_item
 collection: index4
 ---

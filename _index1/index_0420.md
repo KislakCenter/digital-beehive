@@ -2,28 +2,27 @@
 pid: index_0420
 volume: Volume 3
 image_number: '10'
-head: bothways
-entry: "<a href='/digital-beehive/alpha1/alpha_0096/'>a</a>"
+head: bowling greens
+entry: "<a href='/digital-beehive/num8/num_2764/'>1828 [Bowling]</a>"
 topic:
 first_letter: B
-page:
+page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-78b9ecccc"
+item: "#item-340d56348"
 unparsed:
-line: 'Head: bothways|Entry: a|#item-78b9ecccc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1776,2563,407,136/full/0/default.jpg
+line: 'Head: bowling greens|Page: p.7 [Image 1.67]|Entry: 1828 [Bowling]|#item-340d56348'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1770,3315,753,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531416711278
-sort_value: '301032563'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417209574
+sort_value: '301033315'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1776,2563,407,136/150,/0/default.jpg
-label: bothways
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1770,3315,753,143/150,/0/default.jpg
+label: bowling greens
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0419'
 layout: index_item
 collection: index1

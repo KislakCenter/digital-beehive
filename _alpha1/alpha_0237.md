@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0473/'>Inequality</a>|860 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_1047/'>difference</a>"
+index: "<a href='/digital-beehive/index1/index_1028/'>difference</a>"
 item: "#item-90a5b16f8"
 unparsed:
 line: 'Entry: Difference|Topic: Difference|Xref: Inequality|Xref: 860 [PAGE_MISSING]|Index:

@@ -2,29 +2,28 @@
 pid: index_3243
 volume: Volume 3
 image_number: '38'
-head: pyramid
-entry: 861 [PAGE_MISSING]
+head: rashly
+entry:
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_1968/'>Inconsider</a>"
 index:
-item: "#item-1d1fd790d"
+item: "#item-24de66b05"
 unparsed:
-line: 'Head: pyramid|Entry: 861 [PAGE_MISSING]|#item-1d1fd790d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/403,2564,450,106/full/0/default.jpg
+line: 'Head: rashly|See: Inconsider|#item-24de66b05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1856,854,678,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452630070
-sort_value: '303812564'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460476771
+sort_value: '303830854'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/403,2564,450,106/150,/0/default.jpg
-label: pyramid
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1856,854,678,138/150,/0/default.jpg
+label: rashly
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0491'
+order: '0535'
 layout: index_item
 collection: index4
 ---

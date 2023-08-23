@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_2052/'>1418 [To Remit]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4640/'>year</a>"
+index: "<a href='/digital-beehive/index5/index_4569/'>year</a>"
 item: "#item-54e887c65"
 unparsed:
 line: 'Entry: Year|Topic: Year|Xref: 1418 [To Remit]|Index: year|#item-54e887c65'

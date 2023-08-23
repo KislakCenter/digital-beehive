@@ -2,8 +2,9 @@
 pid: index_3064
 volume: Volume 3
 image_number: '36'
-head: polytheism
-entry: 4633 [PAGE_MISSING]
+head: preaching
+entry: "<a href='/digital-beehive/alpha4/alpha_0730/'>a</a>|<a href='/digital-beehive/num3/num_0644/'>512
+  [Preaching]</a>|<a href='/digital-beehive/num8/num_2893/'>1967 [Preaching]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-05cb35c4f"
+item: "#item-b38545441"
 unparsed:
-line: 'Head: polytheism|Entry: 4633 [PAGE_MISSING]|#item-05cb35c4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/447,3022,616,104/full/0/default.jpg
+line: 'Head: preaching|Entry: a|Entry: 512 [Preaching]|Entry: 1967 [Preaching]|#item-b38545441'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1884,1456,685,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438022386
-sort_value: '303613022'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440217986
+sort_value: '303631456'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/447,3022,616,104/150,/0/default.jpg
-label: polytheism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1884,1456,685,139/150,/0/default.jpg
+label: preaching
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0312'
+order: '0356'
 layout: index_item
 collection: index4
 ---

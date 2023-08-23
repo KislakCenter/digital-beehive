@@ -1,9 +1,9 @@
 ---
 pid: index_3010
 volume: Volume 3
-image_number: '35'
-head: pills
-entry: "<a href='/digital-beehive/num3/num_1009/'>699 [Pills]</a>"
+image_number: '36'
+head: English poets
+entry: "<a href='/digital-beehive/num7/num_2379/'>1585 [Verses]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-12307cfdf"
+item: "#item-29db00300"
 unparsed:
-line: 'Head: pills|Entry: 699 [Pills]|#item-12307cfdf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1517,1404,355,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976412860
-sort_value: '303531404'
+line: 'Head: English poets|Entry: 1585 [Verses]|#item-29db00300'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/432,2529,596,168/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208644532
+sort_value: '303612529'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1517,1404,355,141/150,/0/default.jpg
-label: pills
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/432,2529,596,168/150,/0/default.jpg
+label: English poets
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0258'
+order: '0302'
 layout: index_item
 collection: index4
 ---

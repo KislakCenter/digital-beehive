@@ -1,31 +1,29 @@
 ---
 pid: index_4613
 volume: Volume 3
-image_number: '53'
-head: good works
-entry: "<a href='/digital-beehive/alpha5/alpha_1060/'>a</a>|<a href='/digital-beehive/num5/num_1430/'>1062
-  [Good Works]</a>|4769 [PAGE_MISSING]"
+image_number: '54'
+head: Abyssines
+entry: "<a href='/digital-beehive/num7/num_2470/'>1628 [Negro]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-de86681a6"
+item: "#item-58afa4f00"
 unparsed:
-line: 'Head: good works|Entry: a|Entry: 1062 [Good Works]|Entry: 4769 [PAGE_MISSING]|#item-de86681a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2455,693,153/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797161790
-sort_value: '305322455'
+line: 'Type: Index|Insertion: [:21.]|Head: Abyssines|Entry: 1628 [Negro]|#item-58afa4f00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/403,3074,638,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885233858
+sort_value: '305413074'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/868,2455,693,153/150,/0/default.jpg
-label: good works
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/403,3074,638,128/150,/0/default.jpg
+label: Abyssines
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '575'
+order: '636'
 layout: index_item
 collection: index5
 ---

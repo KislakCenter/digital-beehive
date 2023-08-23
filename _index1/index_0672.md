@@ -2,9 +2,8 @@
 pid: index_0672
 volume: Volume 3
 image_number: '13'
-head: circumcision
-entry: "<a href='/digital-beehive/alpha1/alpha_0151/'>a</a>|<a href='/digital-beehive/num7/num_2407/'>1599
-  [Circumcision]</a>"
+head: cleanness
+entry: "<a href='/digital-beehive/num3/num_0782/'>598 [Cleanliness]</a>"
 topic:
 first_letter: C
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-869bf4f1e"
+item: "#item-2c4db7c99"
 unparsed:
-line: 'Head: circumcision|Entry: a|Entry: 1599 [Circumcision]|#item-869bf4f1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/143,2249,644,122/full/0/default.jpg
+line: 'Head: cleanness|Entry: 598 [Cleanliness]|#item-2c4db7c99'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,3442,492,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536332292971
-sort_value: '301312249'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333786206
+sort_value: '301313442'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/143,2249,644,122/150,/0/default.jpg
-label: circumcision
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,3442,492,135/150,/0/default.jpg
+label: cleanness
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0671'
 layout: index_item
 collection: index1

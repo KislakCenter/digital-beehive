@@ -2,29 +2,29 @@
 pid: index_2955
 volume: Volume 3
 image_number: '35'
-head: to perform
-entry:
+head: piety
+entry: "<a href='/digital-beehive/alpha4/alpha_0712/'>a</a>|<a href='/digital-beehive/num7/num_2281/'>1532
+  [Godliness]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_1119/'>do</a>"
+see:
 index:
-item: "#item-7df8eacf5"
+item: "#item-ac408b9a4"
 unparsed:
-line: 'Head: to perform|See: do|#item-7df8eacf5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/100,2296,573,145/full/0/default.jpg
+line: 'Head: piety|Entry: a|Entry: 1532 [Godliness]|#item-ac408b9a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1506,763,496,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973084783
-sort_value: '303512296'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975984840
+sort_value: '303530763'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/100,2296,573,145/150,/0/default.jpg
-label: to perform
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1506,763,496,135/150,/0/default.jpg
+label: piety
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0203'
+order: '0247'
 layout: index_item
 collection: index4
 ---

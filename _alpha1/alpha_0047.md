@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0087/'>Blockhead</a>|<a href='/digital-beehive/num7/num_2553/'>1665
   [Ass]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0224/'>ass</a>"
+index: "<a href='/digital-beehive/index1/index_0218/'>ass</a>"
 item: "#item-3355c94e5"
 unparsed:
 line: 'Entry: Ass|Topic: Ass|Xref: Blockhead|Xref: 1665 [Ass]|Index: ass|#item-3355c94e5'

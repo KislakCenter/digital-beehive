@@ -1,9 +1,9 @@
 ---
 pid: index_3378
 volume: Volume 3
-image_number: '39'
-head: reprobates
-entry: "<a href='/digital-beehive/num1/num_0144/'>139 [Reprobates]</a>"
+image_number: '40'
+head: rimes
+entry: "<a href='/digital-beehive/num7/num_2379/'>1585 [Verses]</a>"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-acae272a9"
+item: "#item-03bca2c24"
 unparsed:
-line: 'Head: reprobates|Entry: 139 [Reprobates]|#item-acae272a9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/819,3209,588,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469637672
-sort_value: '303923209'
+line: 'Head: rimes|Entry: 1585 [Verses]|#item-03bca2c24'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/440,2671,400,80/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232387458
+sort_value: '304012671'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/819,3209,588,112/150,/0/default.jpg
-label: reprobates
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/440,2671,400,80/150,/0/default.jpg
+label: rimes
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0626'
+order: '0670'
 layout: index_item
 collection: index4
 ---

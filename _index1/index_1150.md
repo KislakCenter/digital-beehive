@@ -1,29 +1,28 @@
 ---
 pid: index_1150
 volume: Volume 3
-image_number: '17'
-head: drift
-entry: "<a href='/digital-beehive/num3/num_1037/'>711 [Drift]</a>"
+image_number: '18'
+head: dust
+entry:
 topic:
 first_letter: D
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1165/'>earth</a>"
 index:
-item: "#item-3eb36df88"
+item: "#item-815d91783"
 unparsed:
-line: 'Head: drift|Entry: 711 [Drift]|#item-3eb36df88'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1497,2148,334,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452605939
-sort_value: '301732148'
+line: 'Head: dust|See: earth|#item-815d91783'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/419,923,425,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559663929313
+sort_value: '301810923'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1497,2148,334,129/150,/0/default.jpg
-label: drift
-location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/419,923,425,114/150,/0/default.jpg
+label: dust
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1149'
 layout: index_item
 collection: index1

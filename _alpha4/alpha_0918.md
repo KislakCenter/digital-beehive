@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num3/num_0776/'>596 [The Stone Gravel of the Kidneys]</a>|<a
   href='/digital-beehive/num6/num_1788/'>1284 [a Whetstone]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3911/'>stones</a>"
+index: "<a href='/digital-beehive/index4/index_3852/'>stones</a>"
 item: "#item-e9d5e9a7f"
 unparsed:
 line: 'Entry: Stone|Topic: Stone|Xref: 596 [The Stone Gravel of the Kidneys]|Xref:

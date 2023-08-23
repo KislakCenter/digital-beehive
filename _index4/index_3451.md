@@ -1,31 +1,29 @@
 ---
 pid: index_3451
 volume: Volume 3
-image_number: '40'
-head: rose
-entry: "<a href='/digital-beehive/alpha4/alpha_0820/'>a</a>|<a href='/digital-beehive/num8/num_2842/'>1928
-  [Rose]</a>"
+image_number: '41'
+head: to sally
+entry: "<a href='/digital-beehive/num3/num_0850/'>628 [To sally]</a>"
 topic:
-first_letter: R
+first_letter: S
 page:
 add:
 xref:
 see:
 index:
-item: "#item-98def931e"
+item: "#item-a1087d897"
 unparsed:
-line: 'Head: rose|Entry: a|Entry: 1928 [Rose]|#item-98def931e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1170,1670,404,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233578457
-sort_value: '304021670'
+line: 'Head: to sally|Entry: 628 [To sally]|#item-a1087d897'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/154,382,405,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238268136
+sort_value: '304110382'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1170,1670,404,123/150,/0/default.jpg
-label: rose
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/154,382,405,131/150,/0/default.jpg
+label: to sally
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0699'
+order: '0743'
 layout: index_item
 collection: index4
 ---

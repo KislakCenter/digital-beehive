@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0233/'>Devotion</a>|<a href='/digital-beehive/num7/num_2281/'>1532
   [Godliness]</a>|<a href='/digital-beehive/num5/num_1448/'>1073 [Pietism]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3002/'>piety</a>"
+index: "<a href='/digital-beehive/index4/index_2955/'>piety</a>"
 item: "#item-77c2a979b"
 unparsed:
 line: 'Entry: Piety|Topic: Piety|Xref: Devotion|Xref: 1532 [Godliness]|Xref: 1073

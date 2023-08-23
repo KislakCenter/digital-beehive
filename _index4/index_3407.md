@@ -2,9 +2,8 @@
 pid: index_3407
 volume: Volume 3
 image_number: '40'
-head: revenues. ecclesiastical
-entry: "<a href='/digital-beehive/num1/num_0034/'>34 [Ecclesiastical (: excessive
-  :) Revenues]</a>"
+head: to rub
+entry: "<a href='/digital-beehive/num9/num_3038/'>2101 [Rubbing]</a>"
 topic:
 first_letter: R
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-857d30b80"
+item: "#item-8cf4cd870"
 unparsed:
-line: 'Head: revenues. ecclesiastical|Entry: 34 [Ecclesiastical (: excessive :) Revenues]|#item-857d30b80'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/419,343,635,100/full/0/default.jpg
+line: 'Head: to rub|Entry: 2101 [Rubbing]|#item-8cf4cd870'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1152,2378,382,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230890122
-sort_value: '304010343'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233829598
+sort_value: '304022378'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/419,343,635,100/150,/0/default.jpg
-label: revenues. ecclesiastical
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1152,2378,382,115/150,/0/default.jpg
+label: to rub
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0655'
+order: '0699'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_2841
 volume: Volume 3
 image_number: '34'
-head: "[:1.]"
-entry:
+head: parricide
+entry: "<a href='/digital-beehive/num11/num_3503/'>4808 [Parricide]</a>"
 topic:
 first_letter: P
 page:
@@ -11,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-37fa65ab6"
-unparsed: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
-line: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1010,1216,115,80/full/0/default.jpg
+item: "#item-ee9ea2143"
+unparsed:
+line: 'Head: parricide|Entry: 4808 [Parricide]|#item-ee9ea2143'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1140,2262,614,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276862104
-sort_value: '303411216'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494378330
+sort_value: '303422262'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1010,1216,115,80/150,/0/default.jpg
-label: "[:1.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1140,2262,614,181/150,/0/default.jpg
+label: parricide
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4662/'>to oversee or overslip</a>|<a
-  href='/digital-beehive/index5/index_4663/'>overseer</a>"
-order: '0089'
+order: '0133'
 layout: index_item
 collection: index4
 ---

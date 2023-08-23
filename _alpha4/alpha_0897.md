@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0741/'>Privacy</a>|<a href='/digit
   href='/digital-beehive/alpha1/alpha_0153/'>Cloister</a>|<a href='/digital-beehive/alpha4/alpha_0739/'>Prison</a>|<a
   href='/digital-beehive/num3/num_1068/'>722 [Solitude]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3786/'>solitude</a>"
+index: "<a href='/digital-beehive/index4/index_3729/'>solitude</a>"
 item: "#item-4fa38d446"
 unparsed:
 line: 'Entry: Solitude|Topic: Solitude|Xref: Privacy|Xref: Company|Xref: Cloister|Xref:

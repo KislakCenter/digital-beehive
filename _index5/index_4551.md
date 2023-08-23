@@ -1,9 +1,10 @@
 ---
 pid: index_4551
 volume: Volume 3
-image_number: '52'
-head: will with a wisp
-entry: "<a href='/digital-beehive/num7/num_2386/'>1589 [Ignis fatuus]</a>"
+image_number: '53'
+head: worse & worst
+entry: "<a href='/digital-beehive/num3/num_0731/'>573 [Worse]</a>|<a href='/digital-beehive/num7/num_2478/'>1632
+  [Worse]</a>"
 topic:
 first_letter: W
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d71671646"
+item: "#item-f4af7e24f"
 unparsed:
-line: 'Head: will with a wisp|Entry: 1589 [Ignis fatuus]|#item-d71671646'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1744,2472,627,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972280366
-sort_value: '305232472'
+line: 'Head: worse & worst|Entry: 573 [Worse]|Entry: 1632 [Worse]|#item-f4af7e24f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3346,692,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797627649
+sort_value: '305323346'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1744,2472,627,142/150,/0/default.jpg
-label: will with a wisp
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/861,3346,692,129/150,/0/default.jpg
+label: worse & worst
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '513'
+order: '574'
 layout: index_item
 collection: index5
 ---

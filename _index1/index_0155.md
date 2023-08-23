@@ -2,8 +2,8 @@
 pid: index_0155
 volume: Volume 3
 image_number: '8'
-head: antego
-entry: "<a href='/digital-beehive/num7/num_2248/'>1518 [Antego]</a>"
+head: antipodes
+entry: "<a href='/digital-beehive/alpha1/alpha_0035/'>a</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-48287515a"
+item: "#item-63f6fc04f"
 unparsed:
-line: 'Head: antego|Entry: 1518 [Antego]|#item-48287515a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/386,2650,434,137/full/0/default.jpg
+line: 'Head: antipodes|Entry: a|#item-63f6fc04f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/389,3306,439,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759160447
-sort_value: '300812650'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759315947
+sort_value: '300813306'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/386,2650,434,137/150,/0/default.jpg
-label: antego
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/389,3306,439,148/150,/0/default.jpg
+label: antipodes
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0154'
 layout: index_item
 collection: index1

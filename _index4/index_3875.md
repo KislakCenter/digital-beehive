@@ -1,9 +1,9 @@
 ---
 pid: index_3875
 volume: Volume 3
-image_number: '44'
-head: stam[m]ering
-entry: "<a href='/digital-beehive/num3/num_1069/'>722 [Stammering]</a>"
+image_number: '45'
+head: straw
+entry: "<a href='/digital-beehive/num2/num_0504/'>409 [Straw]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4bbdc1604"
+item: "#item-fa88afee9"
 unparsed:
-line: 'Head: stam[m]ering|Entry: 722 [Stammering]|#item-4bbdc1604'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1798,3032,581,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530106495645
-sort_value: '304433032'
+line: 'Head: straw|Entry: 409 [Straw]|#item-fa88afee9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,2139,349,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290784556
+sort_value: '304522139'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1798,3032,581,127/150,/0/default.jpg
-label: stam[m]ering
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,2139,349,119/150,/0/default.jpg
+label: straw
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1123'
+order: '1167'
 layout: index_item
 collection: index4
 ---

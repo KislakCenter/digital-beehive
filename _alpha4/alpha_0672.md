@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3043/'>2105 [Original Tongues]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2827/'>original tongues</a>"
+index: "<a href='/digital-beehive/index4/index_2783/'>original tongues</a>"
 item: "#item-dc3f33b5e"
 unparsed:
 line: 'Entry: Original tongues|Topic: Original tongues|Xref: 2105 [Original Tongues]|Index:

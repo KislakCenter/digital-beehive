@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Coward</a>|<a href='/digita
   href='/digital-beehive/alpha5/alpha_0949/'>Terrour</a>|<a href='/digital-beehive/num1/num_0214/'>203
   [Fear]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1419/'>fear</a>"
+index: "<a href='/digital-beehive/index2/index_1395/'>fear</a>"
 item: "#item-c9de27b2b"
 unparsed:
 line: 'Entry: Fear|Topic: Fear|Xref: Coward|Xref: fainthearted|Xref: Terrour|Xref:

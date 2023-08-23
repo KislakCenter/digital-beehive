@@ -2,29 +2,28 @@
 pid: index_3441
 volume: Volume 3
 image_number: '40'
-head: rogue
-entry: "<a href='/digital-beehive/num3/num_1030/'>707 [Roguery]</a>"
+head: to sail
+entry: "<a href='/digital-beehive/num10/num_3220/'>2266 [To Sail]</a>"
 topic:
-first_letter: R
-page:
+first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-3374503cb"
+item: "#item-77132ecd1"
 unparsed:
-line: 'Head: rogue|Entry: 707 [Roguery]|#item-3374503cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1166,612,432,96/full/0/default.jpg
+line: 'Head: to sail|Page: p.39 [Image 1.99]|Entry: 2266 [To Sail]|#item-77132ecd1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1764,2782,588,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232978875
-sort_value: '304020612'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235194579
+sort_value: '304032782'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1166,612,432,96/150,/0/default.jpg
-label: rogue
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1764,2782,588,113/150,/0/default.jpg
+label: to sail
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0689'
+order: '0733'
 layout: index_item
 collection: index4
 ---

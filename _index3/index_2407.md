@@ -1,9 +1,9 @@
 ---
 pid: index_2407
 volume: Volume 3
-image_number: '29'
-head: one man ye others wolf
-entry: "<a href='/digital-beehive/num5/num_1692/'>1230 [homo homini lupus e]</a>"
+image_number: '30'
+head: materia prima
+entry: "<a href='/digital-beehive/num7/num_2585/'>1681 [Creation]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-235058173"
+item: "#item-d19ce408f"
 unparsed:
-line: 'Head: one man ye others wolf|Entry: 1230 [homo homini lupus e]|#item-235058173'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1544,1732,752,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195306887
-sort_value: '302931732'
+line: 'Head: materia prima|Entry: 1681 [Creation]|#item-d19ce408f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/384,1928,652,91/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560264328625
+sort_value: '303011928'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1544,1732,752,148/150,/0/default.jpg
-label: one man ye others wolf
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/384,1928,652,91/150,/0/default.jpg
+label: materia prima
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '489'
+order: '522'
 layout: index_item
 collection: index3
 ---

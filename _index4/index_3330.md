@@ -2,8 +2,8 @@
 pid: index_3330
 volume: Volume 3
 image_number: '39'
-head: to refine
-entry: "<a href='/digital-beehive/num3/num_0907/'>659 [Purge]</a>"
+head: reputation
+entry: "<a href='/digital-beehive/alpha4/alpha_0799/'>a</a>|829 [PAGE_MISSING]"
 topic:
 first_letter: R
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-46694198c"
+item: "#item-bd29c2e7c"
 unparsed:
-line: 'Head: to refine|Entry: 659 [Purge]|#item-46694198c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/150,1158,517,143/full/0/default.jpg
+line: 'Head: reputation|Entry: a|Entry: 829 [PAGE_MISSING]|#item-bd29c2e7c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1496,430,705,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463657405
-sort_value: '303911158'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469726636
+sort_value: '303930430'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/150,1158,517,143/150,/0/default.jpg
-label: to refine
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1496,430,705,186/150,/0/default.jpg
+label: reputation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0578'
+order: '0622'
 layout: index_item
 collection: index4
 ---

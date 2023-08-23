@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0439/'>humanity</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2044/'>inhumanity</a>"
+index: "<a href='/digital-beehive/index3/index_2009/'>inhumanity</a>"
 item: "#item-60d045282"
 unparsed:
 line: 'Entry: Inhumanity|Topic: Inhumanity|Xref: humanity|Index: inhumanity|#item-60d045282'

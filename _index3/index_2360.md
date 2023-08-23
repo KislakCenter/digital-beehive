@@ -2,30 +2,28 @@
 pid: index_2360
 volume: Volume 3
 image_number: '29'
-head: lucre
-entry: "<a href='/digital-beehive/alpha3/alpha_0566/'>a</a>|<a href='/digital-beehive/num6/num_1735/'>1252
-  [Gainful]</a>"
+head: malice & malignity
+entry: "<a href='/digital-beehive/alpha3/alpha_0572/'>a</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-554775c9a"
+item: "#item-d6e2573d9"
 unparsed:
-line: 'Head: lucre|Entry: a|Entry: 1252 [Gainful]|#item-554775c9a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/875,254,451,143/full/0/default.jpg
+line: 'Head: malice & malignity|Entry: a|#item-d6e2573d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1313,1093,604,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560184741060
-sort_value: '302920254'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194191419
+sort_value: '302931093'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/875,254,451,143/150,/0/default.jpg
-label: lucre
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1313,1093,604,160/150,/0/default.jpg
+label: malice & malignity
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '442'
+order: '475'
 layout: index_item
 collection: index3
 ---

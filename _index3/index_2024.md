@@ -2,9 +2,8 @@
 pid: index_2024
 volume: Volume 3
 image_number: '26'
-head: inequality
-entry: "<a href='/digital-beehive/alpha3/alpha_0473/'>a</a>|<a href='/digital-beehive/num6/num_2026/'>1407
-  [Inequality]</a>"
+head: insects
+entry: 792 [PAGE_MISSING]
 topic:
 first_letter: I/J
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-556305ea4"
+item: "#item-10d020022"
 unparsed:
-line: 'Head: inequality|Entry: a|Entry: 1407 [Inequality]|#item-556305ea4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/455,621,586,124/full/0/default.jpg
+line: 'Head: insects|Entry: 792 [PAGE_MISSING]|#item-10d020022'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,896,384,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674579865
-sort_value: '302610621'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747407769
+sort_value: '302620896'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/455,621,586,124/150,/0/default.jpg
-label: inequality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,896,384,135/150,/0/default.jpg
+label: insects
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '106'
+order: '139'
 layout: index_item
 collection: index3
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0239/'>Diligence</a>|<a href='/digital-beehive/num4/num_1266/'>948
   [Labour]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2181/'>Labour</a>"
+index: "<a href='/digital-beehive/index3/index_2145/'>Labour</a>"
 item: "#item-151493662"
 unparsed:
 line: 'Entry: Labour|Topic: Labour|Xref: Diligence|Xref: 948 [Labour]|Index: Labour|#item-151493662'

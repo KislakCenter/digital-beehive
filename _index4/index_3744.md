@@ -1,10 +1,9 @@
 ---
 pid: index_3744
 volume: Volume 3
-image_number: '43'
-head: slavery
-entry: "<a href='/digital-beehive/alpha4/alpha_0891/'>a</a>|<a href='/digital-beehive/num5/num_1552/'>1141
-  [Slavery]</a>|<a href='/digital-beehive/num10/num_3399/'>2425 [Slavery]</a>"
+image_number: '44'
+head: sophistry
+entry: "<a href='/digital-beehive/num2/num_0312/'>277 [Sophistry]</a>"
 topic:
 first_letter: S
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-1c271a362"
+item: "#item-eea01b965"
 unparsed:
-line: 'Head: slavery|Entry: a|Entry: 1141 [Slavery]|Entry: 2425 [Slavery]|#item-1c271a362'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/891,1928,733,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583527481
-sort_value: '304321928'
+line: 'Heads: sophistry|Entry: 277 [Sophistry]|#item-eea01b965'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/577,1346,467,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529703958948
+sort_value: '304411346'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/891,1928,733,117/150,/0/default.jpg
-label: slavery
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/577,1346,467,126/150,/0/default.jpg
+label: sophistry
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0992'
+order: '1036'
 layout: index_item
 collection: index4
 ---

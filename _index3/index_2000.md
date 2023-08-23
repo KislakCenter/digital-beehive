@@ -1,30 +1,29 @@
 ---
 pid: index_2000
 volume: Volume 3
-image_number: '25'
-head: incompatible
-entry: 4476 [WORD_MISSING]
+image_number: '26'
+head: infirmeries
+entry:
 topic:
 first_letter: I/J
-page:
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0160/'>antipathy</a>"
+see:
 index:
-item: "#item-e8a55ed2c"
+item: "#item-2d26819c8"
 unparsed:
-line: 'Head: incompatible|See: antipathy|Entry: 4476 [WORD_MISSING]|#item-e8a55ed2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1570,1485,763,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671226803
-sort_value: '302531485'
+line: 'Head: infirmeries|Page: p.4 [Image 1.64]|#item-2d26819c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/446,1795,484,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744399838
+sort_value: '302611795'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1570,1485,763,162/150,/0/default.jpg
-label: incompatible
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/446,1795,484,136/150,/0/default.jpg
+label: infirmeries
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '082'
+order: '115'
 layout: index_item
 collection: index3
 ---

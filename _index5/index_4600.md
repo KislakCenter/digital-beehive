@@ -1,31 +1,30 @@
 ---
 pid: index_4600
 volume: Volume 3
-image_number: '53'
-head: wonder
-entry: "<a href='/digital-beehive/alpha5/alpha_1054/'>a</a>|<a href='/digital-beehive/num6/num_2062/'>1423
-  [Wonder]</a>"
+image_number: '54'
+head: Spouse, espousing
+entry: "<a href='/digital-beehive/num8/num_2774/'>1893 [Betrothing or Espousing]</a>"
 topic:
-first_letter: W
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-d8d033f7a"
+item: "#item-7b959eae0"
 unparsed:
-line: 'Head: wonder|Entry: a|Entry: 1423 [Wonder]|#item-d8d033f7a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,1037,517,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796197843
-sort_value: '305321037'
+line: 'Type: Index|Insertion: [:9.]|Head: Spouse, espousing|Entry: 1893 [Betrothing
+  or Espousing]|#item-7b959eae0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/375,1611,706,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560868335499
+sort_value: '305411611'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/879,1037,517,109/150,/0/default.jpg
-label: wonder
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/375,1611,706,152/150,/0/default.jpg
+label: Spouse, espousing
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '562'
+order: '623'
 layout: index_item
 collection: index5
 ---

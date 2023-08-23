@@ -2,8 +2,8 @@
 pid: index_4088
 volume: Volume 3
 image_number: '47'
-head: tenderness
-entry: 833 [PAGE_MISSING]
+head: till or until
+entry: "<a href='/digital-beehive/num6/num_2008/'>1398 [Till until]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-476398229"
+item: "#item-74a23949e"
 unparsed:
-line: 'Head: tenderness|Entry: 833 [PAGE_MISSING]|#item-476398229'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/171,2112,471,120/full/0/default.jpg
+line: 'Head: till or until|Entry: 1398 [Till until]|#item-74a23949e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,1782,573,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532714267057
-sort_value: '304712112'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294707150
+sort_value: '304731782'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/171,2112,471,120/150,/0/default.jpg
-label: tenderness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,1782,573,164/150,/0/default.jpg
+label: till or until
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '050'
+order: '111'
 layout: index_item
 collection: index5
 ---

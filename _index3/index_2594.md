@@ -2,29 +2,28 @@
 pid: index_2594
 volume: Volume 3
 image_number: '31'
-head: most
-entry: 851 [PAGE_MISSING]
+head: nameless
+entry: "<a href='/digital-beehive/num2/num_0291/'>262 [Anonymous or Nameless]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-a2a512e4d"
+item: "#item-a4df14154"
 unparsed:
-line: 'Head: most|Entry: 851 [PAGE_MISSING]|#item-a2a512e4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/842,3092,349,95/full/0/default.jpg
+line: 'Head: nameless|Entry: 262 [Anonymous or Nameless]|#item-a4df14154'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1518,3659,478,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356808020
-sort_value: '303123092'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560363269536
+sort_value: '303133659'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/842,3092,349,95/150,/0/default.jpg
-label: most
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1518,3659,478,119/150,/0/default.jpg
+label: nameless
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '676'
+order: '709'
 layout: index_item
 collection: index3
 ---

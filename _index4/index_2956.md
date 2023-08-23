@@ -2,29 +2,29 @@
 pid: index_2956
 volume: Volume 3
 image_number: '35'
-head: perfume
-entry: 4548 [PAGE_MISSING]
+head: pietists
+entry: "<a href='/digital-beehive/num5/num_1448/'>1073 [Pietism]</a>|<a href='/digital-beehive/num10/num_3329/'>2356
+  [Pietism]</a>"
 topic:
 first_letter: P
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3760/'>smell</a>"
+see:
 index:
-item: "#item-a64462e26"
+item: "#item-0e4568f44"
 unparsed:
-line: 'Head: perfume|See: smell|Entry: 4548 [PAGE_MISSING]|#item-a64462e26'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/87,2414,798,184/full/0/default.jpg
+line: 'Head: pietists|Entry: 1073 [Pietism]|Entry: 2356 [Pietism]|#item-0e4568f44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1507,894,663,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973112084
-sort_value: '303512414'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976015716
+sort_value: '303530894'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/87,2414,798,184/150,/0/default.jpg
-label: perfume
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1507,894,663,111/150,/0/default.jpg
+label: pietists
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0204'
+order: '0248'
 layout: index_item
 collection: index4
 ---

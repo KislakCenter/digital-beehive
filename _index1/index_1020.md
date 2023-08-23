@@ -2,28 +2,27 @@
 pid: index_1020
 volume: Volume 3
 image_number: '16'
-head: desert
-entry:
+head: dial
+entry: "<a href='/digital-beehive/num3/num_0724/'>568 [Dial]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2490/'>merit</a>"
+see:
 index:
-item: "#item-e8192b591"
+item: "#item-06b3a1987"
 unparsed:
-line: 'Head: desert|See: merit|#item-e8192b591'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1145,2076,495,125/full/0/default.jpg
+line: 'Head: dial|Entry: 568 [Dial]|#item-06b3a1987'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1802,611,379,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541604968105
-sort_value: '301622076'
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783440637
+sort_value: '301630611'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1145,2076,495,125/150,/0/default.jpg
-label: desert
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1802,611,379,119/150,/0/default.jpg
+label: dial
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1019'
 layout: index_item
 collection: index1

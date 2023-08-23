@@ -1,30 +1,29 @@
 ---
 pid: index_4137
 volume: Volume 3
-image_number: '47'
-head: throughout
+image_number: '48'
+head: touchstone
 entry:
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_1988/'>in</a>"
+see:
 index:
-item: "#item-a81fa0062"
+item: "#item-748a87ef3"
 unparsed:
-line: 'Head: throughout|See: in|#item-a81fa0062'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,386,512,92/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552666270552
-sort_value: '304730386'
+line: 'Head: touchstone|Page: p.32 [Image 1.92]|#item-748a87ef3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1105,371,457,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560285281421
+sort_value: '304820371'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,386,512,92/150,/0/default.jpg
-label: throughout
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1105,371,457,109/150,/0/default.jpg
+label: touchstone
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '099'
+order: '160'
 layout: index_item
 collection: index5
 ---

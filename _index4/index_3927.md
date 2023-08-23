@@ -1,9 +1,10 @@
 ---
 pid: index_3927
 volume: Volume 3
-image_number: '45'
-head: strange business
-entry: "<a href='/digital-beehive/alpha4/alpha_0921/'>a</a>|858 [PAGE_MISSING]"
+image_number: '46'
+head: superfluity
+entry: "<a href='/digital-beehive/alpha4/alpha_0933/'>a</a>|<a href='/digital-beehive/num5/num_1720/'>1245
+  [Superfluous : Needless]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-242efaed6"
+item: "#item-df6c01305"
 unparsed:
-line: 'Head: strange business|Entry: a|Entry: 858 [PAGE_MISSING]|#item-242efaed6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/907,1344,484,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530461509388
-sort_value: '304521344'
+line: 'Head: superfluity|Entry: a|Entry: 1245 [Superfluous : Needless]|#item-df6c01305'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/458,1405,634,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473370148
+sort_value: '304611405'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/907,1344,484,141/150,/0/default.jpg
-label: strange business
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/458,1405,634,116/150,/0/default.jpg
+label: superfluity
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1175'
+order: '1219'
 layout: index_item
 collection: index4
 ---

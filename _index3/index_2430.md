@@ -2,29 +2,28 @@
 pid: index_2430
 volume: Volume 3
 image_number: '30'
-head: market place
-entry:
+head: meekness
+entry: "<a href='/digital-beehive/num6/num_2006/'>1397 [Meekness]</a>"
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-83ef1daa1"
+item: "#item-263a3ba0d"
 unparsed:
-line: 'Head: market place|Page: p.7 [Image 1.67]|#item-83ef1daa1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/410,406,421,137/full/0/default.jpg
+line: 'Head: meekness|Entry: 1397 [Meekness]|#item-263a3ba0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,698,556,194/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560262908816
-sort_value: '303010406'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267833593
+sort_value: '303020698'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/410,406,421,137/150,/0/default.jpg
-label: market place
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1128,698,556,194/150,/0/default.jpg
+label: meekness
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '512'
+order: '545'
 layout: index_item
 collection: index3
 ---

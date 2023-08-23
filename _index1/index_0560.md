@@ -2,29 +2,27 @@
 pid: index_0560
 volume: Volume 3
 image_number: '12'
-head: to catch
-entry:
+head: cause of Sin
+entry: "<a href='/digital-beehive/alpha1/alpha_0133/'>a</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3766/'>snare</a>|<a href='/digital-beehive/index5/index_4047/'>to
-  take</a>"
+see:
 index:
-item: "#item-b954b3ab2"
+item: "#item-2b0f18163"
 unparsed:
-line: 'Head: to catch|See: snare|See: to take|#item-b954b3ab2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/398,2329,723,176/full/0/default.jpg
+line: 'Head: cause of Sin|Entry: a|#item-2b0f18163'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1142,411,472,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098365059
-sort_value: '301212329'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098853707
+sort_value: '301220411'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/398,2329,723,176/150,/0/default.jpg
-label: to catch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1142,411,472,89/150,/0/default.jpg
+label: cause of Sin
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0559'
 layout: index_item
 collection: index1

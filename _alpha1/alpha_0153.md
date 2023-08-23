@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0606/'>Monk</a>|<a href='/digital-
   href='/digital-beehive/alpha4/alpha_0897/'>Solitude</a>|<a href='/digital-beehive/num2/num_0481/'>395
   [Cloister]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0698/'>cloister</a>"
+index: "<a href='/digital-beehive/index1/index_0684/'>cloister</a>"
 item: "#item-baae14d3b"
 unparsed:
 line: 'Entry: Cloister|Topic: Cloister|Xref: Monk|Xref: Nun|Xref: Solitude|Xref: 395

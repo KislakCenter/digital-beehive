@@ -2,29 +2,28 @@
 pid: index_3061
 volume: Volume 3
 image_number: '36'
-head: poetical toys
-entry:
+head: prayers for the dead
+entry: "<a href='/digital-beehive/num2/num_0501/'>408 [Prayers for the Dead]</a>"
 topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_247/'>p.79 [Image 1.257]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-87cc8ae4f"
+item: "#item-b1293121b"
 unparsed:
-line: 'Head: poetical toys|Page: p.79 [Image 1.257]|#item-87cc8ae4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/444,2662,577,141/full/0/default.jpg
+line: 'Head: prayers for the dead|Entry: 408 [Prayers for the Dead]|#item-b1293121b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1850,1147,602,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548437908063
-sort_value: '303612662'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440103552
+sort_value: '303631147'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/444,2662,577,141/150,/0/default.jpg
-label: poetical toys
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1850,1147,602,150/150,/0/default.jpg
+label: prayers for the dead
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: The page reference refers to Pastorius's older system of pagination.
-insertion_xref:
-order: '0309'
+issue:
+order: '0353'
 layout: index_item
 collection: index4
 ---

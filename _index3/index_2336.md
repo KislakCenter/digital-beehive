@@ -2,8 +2,8 @@
 pid: index_2336
 volume: Volume 3
 image_number: '29'
-head: lost arts
-entry: "<a href='/digital-beehive/num7/num_2429/'>1610 [Lost Arts]</a>"
+head: lycanthropia
+entry: 1535 [Lycanthrapia]
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bda7724be"
+item: "#item-5b3c8598b"
 unparsed:
-line: 'Head: lost arts|Entry: 1610 [Lost Arts]|#item-bda7724be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1693,453,109/full/0/default.jpg
+line: 'Head: lycanthropia|Entry: 1535 [Lycanthrapia]|#item-5b3c8598b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,1753,540,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178419120
-sort_value: '302911693'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186238272
+sort_value: '302921753'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1693,453,109/150,/0/default.jpg
-label: lost arts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,1753,540,142/150,/0/default.jpg
+label: lycanthropia
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '418'
+order: '451'
 layout: index_item
 collection: index3
 ---

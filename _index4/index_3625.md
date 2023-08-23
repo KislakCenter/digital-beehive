@@ -2,8 +2,9 @@
 pid: index_3625
 volume: Volume 3
 image_number: '42'
-head: Self preservation
-entry: "<a href='/digital-beehive/num9/num_3004/'>2069 [Selfpreservation]</a>"
+head: shoe
+entry: "<a href='/digital-beehive/alpha4/alpha_0872/'>a</a>|<a href='/digital-beehive/num6/num_2160/'>1469
+  [Shoe]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-4d214eed3"
+item: "#item-4bdc4a5b0"
 unparsed:
-line: 'Head: Self preservation|Entry: 2069 [Selfpreservation]|#item-4d214eed3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/404,2143,725,145/full/0/default.jpg
+line: 'Head: shoe|Entry: a|Entry: 1469 [Shoe]|#item-4bdc4a5b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1799,1826,483,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244811244
-sort_value: '304212143'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576222379
+sort_value: '304231826'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/404,2143,725,145/150,/0/default.jpg
-label: Self preservation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1799,1826,483,128/150,/0/default.jpg
+label: shoe
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0873'
+order: '0917'
 layout: index_item
 collection: index4
 ---

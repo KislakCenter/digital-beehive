@@ -2,8 +2,8 @@
 pid: index_2027
 volume: Volume 3
 image_number: '26'
-head: infallibility
-entry: "<a href='/digital-beehive/num1/num_0032/'>32 [Infallibility]</a>"
+head: insolence
+entry: "<a href='/digital-beehive/num5/num_1678/'>1224 [Insolence]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e1c3937d9"
+item: "#item-465174e5e"
 unparsed:
-line: 'Head: infallibility|Entry: 32 [Infallibility]|#item-e1c3937d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/457,822,531,160/full/0/default.jpg
+line: 'Head: insolence|Entry: 1224 [Insolence]|#item-465174e5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1317,480,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559743941001
-sort_value: '302610822'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747694877
+sort_value: '302621317'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/457,822,531,160/150,/0/default.jpg
-label: infallibility
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1154,1317,480,113/150,/0/default.jpg
+label: insolence
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '109'
+order: '142'
 layout: index_item
 collection: index3
 ---

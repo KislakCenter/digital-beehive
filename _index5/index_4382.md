@@ -1,9 +1,9 @@
 ---
 pid: index_4382
 volume: Volume 3
-image_number: '50'
-head: unhappy
-entry: "<a href='/digital-beehive/num3/num_1052/'>716 [Unhappiness]</a>"
+image_number: '51'
+head: vulcan
+entry: "<a href='/digital-beehive/num2/num_0350/'>306 [Smith]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-7449cc3fa"
+item: "#item-d5a1b8059"
 unparsed:
-line: 'Head: unhappy|Entry: 716 [Unhappiness]|#item-7449cc3fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1124,663,456,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560878168027
-sort_value: '305020663'
+line: 'Head: vulcan|Entry: 306 [Smith]|#item-d5a1b8059'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/968,2347,456,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647038637
+sort_value: '305122347'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1124,663,456,139/150,/0/default.jpg
-label: unhappy
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/968,2347,456,112/150,/0/default.jpg
+label: vulcan
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '344'
+order: '405'
 layout: index_item
 collection: index5
 ---

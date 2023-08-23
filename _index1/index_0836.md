@@ -2,29 +2,27 @@
 pid: index_0836
 volume: Volume 3
 image_number: '14'
-head: conversation
-entry: "<a href='/digital-beehive/num1/num_0129/'>124 [Conversation]</a>|<a href='/digital-beehive/num6/num_1812/'>1297
-  [Governmt of thoughts]</a>"
+head: coronet
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0898/'>Crown</a>"
 index:
-item: "#item-9106b218c"
+item: "#item-fb2b9e185"
 unparsed:
-line: 'Head: conversation|Entry: 124 [Conversation]|Entry: 1297 [Governmt of thoughts]|#item-9106b218c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1844,1712,716,125/full/0/default.jpg
+line: 'Head: coronet|See: Crown|#item-fb2b9e185'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1815,3060,595,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559608508
-sort_value: '301431712'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565637841907
+sort_value: '301433060'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1844,1712,716,125/150,/0/default.jpg
-label: conversation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1815,3060,595,114/150,/0/default.jpg
+label: coronet
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0835'
 layout: index_item
 collection: index1

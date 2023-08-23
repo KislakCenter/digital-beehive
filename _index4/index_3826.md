@@ -1,31 +1,29 @@
 ---
 pid: index_3826
 volume: Volume 3
-image_number: '44'
-head: spectacles
-entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>|<a href='/digital-beehive/num7/num_2494/'>1639
-  [Spectacles]</a>"
+image_number: '45'
+head: statist
+entry:
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3015/'>politick</a>"
 index:
-item: "#item-e2084c925"
+item: "#item-fc320bcf0"
 unparsed:
-line: 'Head: spectacles|Page: p.39 [Image 1.99]|Entry: a|Entry: 1639 [Spectacles]|#item-e2084c925'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1125,819,740,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288694648
-sort_value: '304420819'
+line: 'Head: statist|See: politick|#item-fc320bcf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/198,739,613,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530218776455
+sort_value: '304510739'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1125,819,740,131/150,/0/default.jpg
-label: spectacles
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/198,739,613,150/150,/0/default.jpg
+label: statist
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1074'
+order: '1118'
 layout: index_item
 collection: index4
 ---

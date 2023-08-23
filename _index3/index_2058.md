@@ -2,29 +2,28 @@
 pid: index_2058
 volume: Volume 3
 image_number: '26'
-head: inscriptions
-entry: "<a href='/digital-beehive/alpha3/alpha_0482/'>a</a>"
+head: invincible
+entry: "<a href='/digital-beehive/num3/num_0799/'>605 [Invincible]</a>"
 topic:
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-d99fbd113"
+item: "#item-6c8152e9e"
 unparsed:
-line: 'Head: inscriptions|Page: p.2 [Image 1.62]|Entry: a|#item-d99fbd113'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,743,678,183/full/0/default.jpg
+line: 'Head: invincible|Entry: 605 [Invincible]|#item-6c8152e9e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1863,1248,501,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747359676
-sort_value: '302620743'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751321716
+sort_value: '302631248'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,743,678,183/150,/0/default.jpg
-label: inscriptions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1863,1248,501,106/150,/0/default.jpg
+label: invincible
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '140'
+order: '173'
 layout: index_item
 collection: index3
 ---

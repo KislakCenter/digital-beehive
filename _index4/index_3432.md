@@ -2,30 +2,28 @@
 pid: index_3432
 volume: Volume 3
 image_number: '40'
-head: ring
-entry: "<a href='/digital-beehive/alpha4/alpha_0814/'>a</a>|<a href='/digital-beehive/num6/num_2183/'>1480
-  [Ring]</a>"
+head: sadduces
+entry: "<a href='/digital-beehive/num6/num_2189/'>1483 [Sadduces]</a>"
 topic:
-first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+first_letter: S
+page:
 add:
 xref:
 see:
 index:
-item: "#item-ccea25773"
+item: "#item-bdb90dfff"
 unparsed:
-line: 'Head: ring|Page: p.38 [Image 1.98]|Entry: a|Entry: 1480 [Ring]|#item-ccea25773'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/448,2717,602,125/full/0/default.jpg
+line: 'Head: sadduces|Entry: 1483 [Sadduces]|#item-bdb90dfff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1775,1845,549,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232422769
-sort_value: '304012717'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234844484
+sort_value: '304031845'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/448,2717,602,125/150,/0/default.jpg
-label: ring
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1775,1845,549,138/150,/0/default.jpg
+label: sadduces
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0680'
+order: '0724'
 layout: index_item
 collection: index4
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_1694
 volume: Volume 3
-image_number: '22'
-head: grass
-entry: "<a href='/digital-beehive/num4/num_1116/'>878 [Pasture]</a>"
+image_number: '23'
+head: Guiana
+entry: "<a href='/digital-beehive/num7/num_2246/'>1517 [Guiana]</a>"
 topic:
 first_letter: G
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_2914/'>pasture</a>"
+see:
 index:
-item: "#item-0b9d41798"
+item: "#item-950038cde"
 unparsed:
-line: 'Head: grass|See: pasture|Entry: 878 [Pasture]|#item-0b9d41798'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1847,2753,640,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053467475
-sort_value: '302232753'
+line: 'Head: Guiana|Entry: 1517 [Guiana]|#item-950038cde'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/139,2210,405,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232528527
+sort_value: '302312210'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1847,2753,640,168/150,/0/default.jpg
-label: grass
-location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/139,2210,405,124/150,/0/default.jpg
+label: Guiana
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '513'
+order: '535'
 layout: index_item
 collection: index2
 ---

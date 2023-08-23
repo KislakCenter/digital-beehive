@@ -2,29 +2,28 @@
 pid: index_3253
 volume: Volume 3
 image_number: '38'
-head: quarries
-entry: "<a href='/digital-beehive/num8/num_2921/'>1989 [Quarries]</a>"
+head: raw
+entry: "<a href='/digital-beehive/num3/num_0948/'>678 [Raw]</a>"
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-3d6d22212"
+item: "#item-4263f08ae"
 unparsed:
-line: 'Head: quarries|Entry: 1989 [Quarries]|#item-3d6d22212'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1164,181,601,147/full/0/default.jpg
+line: 'Head: raw|Entry: 678 [Raw]|#item-4263f08ae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1847,1581,425,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454913322
-sort_value: '303820181'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461167683
+sort_value: '303831581'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1164,181,601,147/150,/0/default.jpg
-label: quarries
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1847,1581,425,150/150,/0/default.jpg
+label: raw
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0501'
+order: '0545'
 layout: index_item
 collection: index4
 ---

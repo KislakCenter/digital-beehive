@@ -1,9 +1,9 @@
 ---
 pid: index_1060
 volume: Volume 3
-image_number: '16'
-head: disagree
-entry: "<a href='/digital-beehive/num7/num_2523/'>1650 [Disagree]</a>"
+image_number: '17'
+head: dish cloth
+entry:
 topic:
 first_letter: D
 page:
@@ -11,19 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f7e6faaf4"
+item: "#item-ccd73012c"
 unparsed:
-line: 'Head: disagree|Entry: 1650 [Disagree]|#item-f7e6faaf4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1779,2554,504,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784069638
-sort_value: '301632554'
+line: 'Head: dish cloth|#item-ccd73012c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/167,1380,357,79/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803949182
+sort_value: '301711380'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1779,2554,504,114/150,/0/default.jpg
-label: disagree
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue:
-insertion_xref:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/167,1380,357,79/150,/0/default.jpg
+label: dish cloth
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+issue: It is unclear whether "dish cloth" should be its own entry or merely mark a
+  variant of "dish clout."
 order: '1059'
 layout: index_item
 collection: index1

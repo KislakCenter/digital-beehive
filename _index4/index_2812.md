@@ -1,30 +1,29 @@
 ---
 pid: index_2812
 volume: Volume 3
-image_number: '33'
-head: opprobrious words
-entry: "<a href='/digital-beehive/num3/num_0954/'>680 [Scheltwort]</a>"
+image_number: '34'
+head: a pair
+entry: "<a href='/digital-beehive/num2/num_0383/'>332 [a Pair]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-8417bf938"
+item: "#item-9285bcba9"
 unparsed:
-line: 'Head: opprobrious words|Entry: 680 [Scheltwort]|#item-8417bf938'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1469,1247,763,196/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161752769
-sort_value: '303331247'
+line: 'Head: a pair|Entry: 332 [a Pair]|#item-9285bcba9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/421,2830,528,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425885188
+sort_value: '303412830'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1469,1247,763,196/150,/0/default.jpg
-label: opprobrious words
-location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/421,2830,528,164/150,/0/default.jpg
+label: a pair
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0060'
+order: '0104'
 layout: index_item
 collection: index4
 ---

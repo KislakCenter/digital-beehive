@@ -2,8 +2,8 @@
 pid: index_0054
 volume: Volume 3
 image_number: '7'
-head: "[AE]olus"
-entry: "<a href='/digital-beehive/num9/num_3102/'>2160 [Wind]</a>"
+head: "[AE]sop"
+entry: "<a href='/digital-beehive/num2/num_0349/'>305 [[AE]sop]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-efe316e0f"
+item: "#item-c2b701dde"
 unparsed:
-line: 'Head: [AE]olus|Entry: 2160 [Wind]|#item-efe316e0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1255,1251,354,111/full/0/default.jpg
+line: 'Head: [AE]sop|Entry: 305 [[AE]sop]|#item-c2b701dde'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/905,1262,331,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765995953
-sort_value: '300721251'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564765812501
+sort_value: '300721262'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1255,1251,354,111/150,/0/default.jpg
-label: "[AE]olus"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/905,1262,331,103/150,/0/default.jpg
+label: "[AE]sop"
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0053'
 layout: index_item
 collection: index1

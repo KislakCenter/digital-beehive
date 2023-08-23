@@ -2,28 +2,27 @@
 pid: index_0094
 volume: Volume 3
 image_number: '7'
-head: aliens
-entry: "<a href='/digital-beehive/num5/num_1453/'>1076 [Stranger]</a>|4772 [PAGE_MISSING]"
+head: allegory
+entry: "<a href='/digital-beehive/num2/num_0297/'>265 [Metaphor or figurative Speech]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2459/'>metaphor</a>"
 index:
-item: "#item-2794e4a23"
+item: "#item-05a2fdfb9"
 unparsed:
-line: 'Head: aliens|Entry: 1076 [Stranger]|Entry: 4772 [PAGE_MISSING]|#item-2794e4a23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1601,1218,651,97/full/0/default.jpg
+line: 'Head: allegory|See: metaphor|Entry: 265 [Metaphor or figurative Speech]|#item-05a2fdfb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1600,1481,728,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491236235603
-sort_value: '300731218'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769500558
+sort_value: '300731481'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1601,1218,651,97/150,/0/default.jpg
-label: aliens
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1600,1481,728,158/150,/0/default.jpg
+label: allegory
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0093'
 layout: index_item
 collection: index1

@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2170/'>kneeling</a>"
+index: "<a href='/digital-beehive/index3/index_2134/'>kneeling</a>"
 item: "#item-b9d62fe60"
 unparsed:
 line: 'Entry: Kneeling|Topic: Kneeling|Index: kneeling|#item-b9d62fe60'

@@ -2,29 +2,28 @@
 pid: index_2866
 volume: Volume 3
 image_number: '34'
-head: "[:48.]"
+head: pastime
 entry:
 topic:
 first_letter: P
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index4/index_3272/'>recreation</a>"
 index:
-item: "#item-c0d5c506b"
-unparsed: 'Type: Index|Insertion Xref: [:48.]|#item-c0d5c506b'
-line: 'Type: Index|Insertion Xref: [:48.]|#item-c0d5c506b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1704,414,204,96/full/0/default.jpg
+item: "#item-ca0a5480e"
+unparsed:
+line: 'Head: pastime|See: recreation|#item-ca0a5480e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1837,1285,710,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276694321
-sort_value: '303420414'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495219389
+sort_value: '303431285'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1704,414,204,96/150,/0/default.jpg
-label: "[:48.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1837,1285,710,180/150,/0/default.jpg
+label: pastime
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref: "<a href='/digital-beehive/index5/index_4716/'>Pan</a>"
-order: '0114'
+order: '0158'
 layout: index_item
 collection: index4
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_4461
 volume: Volume 3
-image_number: '51'
-head: wakes
-entry:
+image_number: '52'
+head: to whet
+entry: "<a href='/digital-beehive/num5/num_1591/'>1167 [To whet]</a>"
 topic:
 first_letter: W
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
+see:
 index:
-item: "#item-6c3aead0e"
+item: "#item-b7c1cf150"
 unparsed:
-line: 'Head: wakes|See: bacchanals|#item-6c3aead0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1633,603,679,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647591164
-sort_value: '305130603'
+line: 'Head: to whet|Entry: 1167 [To whet]|#item-b7c1cf150'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1056,3172,538,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970111040
+sort_value: '305223172'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1633,603,679,149/150,/0/default.jpg
-label: wakes
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1056,3172,538,170/150,/0/default.jpg
+label: to whet
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '423'
+order: '484'
 layout: index_item
 collection: index5
 ---

@@ -1,30 +1,29 @@
 ---
 pid: index_3936
 volume: Volume 3
-image_number: '45'
-head: street
-entry:
+image_number: '46'
+head: I am sure
+entry: "<a href='/digital-beehive/num9/num_3157/'>2213 [I am Sure]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index5/index_4496/'>way</a>"
+see:
 index:
-item: "#item-f07c45357"
+item: "#item-bf648a399"
 unparsed:
-line: 'Head: street|See: way|#item-f07c45357'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/903,2261,423,91/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530465464360
-sort_value: '304522261'
+line: 'Head: I am sure|Entry: 2213 [I am Sure]|#item-bf648a399'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/449,2602,518,92/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530648255201
+sort_value: '304612602'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/903,2261,423,91/150,/0/default.jpg
-label: street
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/449,2602,518,92/150,/0/default.jpg
+label: I am sure
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1184'
+order: '1228'
 layout: index_item
 collection: index4
 ---

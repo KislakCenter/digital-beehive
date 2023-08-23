@@ -1,9 +1,9 @@
 ---
 pid: index_0967
 volume: Volume 3
-image_number: '15'
-head: great death
-entry:
+image_number: '16'
+head: defaming
+entry: 737 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-a7e32b244"
+item: "#item-e64d9ed29"
 unparsed:
-line: 'Head: great death|#item-a7e32b244'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1650,3095,361,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565629717948
-sort_value: '301533095'
+line: 'Head: defaming|Entry: 737 [PAGE_MISSING]|#item-e64d9ed29'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/348,1515,493,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540570781143
+sort_value: '301611515'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1650,3095,361,130/150,/0/default.jpg
-label: great death
-location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/348,1515,493,142/150,/0/default.jpg
+label: defaming
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0966'
 layout: index_item
 collection: index1

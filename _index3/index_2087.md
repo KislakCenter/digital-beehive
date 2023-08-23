@@ -1,9 +1,9 @@
 ---
 pid: index_2087
 volume: Volume 3
-image_number: '26'
-head: to intrude
-entry: 858 [PAGE_MISSING]
+image_number: '27'
+head: irresolution
+entry: "<a href='/digital-beehive/num10/num_3260/'>2295 [Irresolution]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f9ec91c2a"
+item: "#item-87af2b04f"
 unparsed:
-line: 'Head: to intrude|Entry: 858 [PAGE_MISSING]|#item-f9ec91c2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1823,692,539,84/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750904011
-sort_value: '302630692'
+line: 'Head: irresolution|Entry: 2295 [Irresolution]|#item-87af2b04f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/156,705,568,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756657097
+sort_value: '302710705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1823,692,539,84/150,/0/default.jpg
-label: to intrude
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/156,705,568,113/150,/0/default.jpg
+label: irresolution
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '169'
+order: '202'
 layout: index_item
 collection: index3
 ---

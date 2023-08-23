@@ -1,31 +1,29 @@
 ---
 pid: index_3686
 volume: Volume 3
-image_number: '42'
-head: short
-entry:
+image_number: '43'
+head: slate
+entry: "<a href='/digital-beehive/num4/num_1106/'>873 [Paper]</a>"
 topic:
 first_letter: S
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>|<a href='/digital-beehive/index1/index_1177/'>dwarf</a>|<a
-  href='/digital-beehive/index5/index_4216/'>transitory</a>"
+see:
 index:
-item: "#item-de2a7d9a5"
+item: "#item-c8e732559"
 unparsed:
-line: 'Head: short|See: brevity|See: dwarf|See: transitory|#item-de2a7d9a5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1809,2454,699,193/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576420141
-sort_value: '304232454'
+line: 'Head: slate|Entry: 873 [Paper]|#item-c8e732559'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/885,1828,464,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583493541
+sort_value: '304321828'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1809,2454,699,193/150,/0/default.jpg
-label: short
-location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/885,1828,464,125/150,/0/default.jpg
+label: slate
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0934'
+order: '0978'
 layout: index_item
 collection: index4
 ---

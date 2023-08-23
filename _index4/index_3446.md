@@ -2,29 +2,28 @@
 pid: index_3446
 volume: Volume 3
 image_number: '40'
-head: roof
-entry: "<a href='/digital-beehive/num2/num_0431/'>362 [a Shingle]</a>"
+head: salamander stone
+entry:
 topic:
-first_letter: R
-page:
+first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index2/index_1449/'>flax</a>"
 index:
-item: "#item-194cd1463"
+item: "#item-bb53de5e3"
 unparsed:
-line: 'Head: roof|Entry: 362 [a Shingle]|#item-194cd1463'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1158,1137,313,116/full/0/default.jpg
+line: 'Head: salamander stone|Page: p.30 [Image 1.90]|See: flax|#item-bb53de5e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1848,3167,607,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233394683
-sort_value: '304021137'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235335317
+sort_value: '304033167'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1158,1137,313,116/150,/0/default.jpg
-label: roof
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1848,3167,607,137/150,/0/default.jpg
+label: salamander stone
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0694'
+order: '0738'
 layout: index_item
 collection: index4
 ---

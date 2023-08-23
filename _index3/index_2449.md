@@ -2,8 +2,9 @@
 pid: index_2449
 volume: Volume 3
 image_number: '30'
-head: mathematicks
-entry: "<a href='/digital-beehive/alpha3/alpha_0580/'>a</a>"
+head: merit
+entry: "<a href='/digital-beehive/alpha3/alpha_0591/'>a</a>|<a href='/digital-beehive/num7/num_2557/'>1667
+  [Merit]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-818ed69a4"
+item: "#item-684a78cce"
 unparsed:
-line: 'Head: mathematicks|Entry: a|#item-818ed69a4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/395,2055,585,140/full/0/default.jpg
+line: 'Head: merit|Entry: a|Entry: 1667 [Merit]|#item-684a78cce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1103,2829,497,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560264560193
-sort_value: '303012055'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269409008
+sort_value: '303022829'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/395,2055,585,140/150,/0/default.jpg
-label: mathematicks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1103,2829,497,93/150,/0/default.jpg
+label: merit
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '531'
+order: '564'
 layout: index_item
 collection: index3
 ---

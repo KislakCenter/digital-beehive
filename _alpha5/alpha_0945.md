@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0093/'>Boldness</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4079/'>temerity</a>"
+index: "<a href='/digital-beehive/index5/index_4018/'>temerity</a>"
 item: "#item-71c1ec9e2"
 unparsed:
 line: 'Entry: Temerity|Topic: Temerity|Xref: Boldness|Index: temerity|#item-71c1ec9e2'

@@ -2,28 +2,27 @@
 pid: index_1111
 volume: Volume 3
 image_number: '17'
-head: diversity
-entry: "<a href='/digital-beehive/alpha1/alpha_0255/'>a</a>"
+head: door
+entry: "<a href='/digital-beehive/num3/num_0834/'>621 [Door]</a>"
 topic:
 first_letter: D
-page:
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-618c2e032"
+item: "#item-f12cabe5a"
 unparsed:
-line: 'Head: diversity|Entry: a|#item-618c2e032'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/743,1237,574,145/full/0/default.jpg
+line: 'Head: door|Page: p.8 [Image 1.68]|Entry: 621 [Door]|#item-f12cabe5a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1459,279,480,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849180342
-sort_value: '301721237'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367542413
+sort_value: '301730279'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/743,1237,574,145/150,/0/default.jpg
-label: diversity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1459,279,480,139/150,/0/default.jpg
+label: door
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1110'
 layout: index_item
 collection: index1

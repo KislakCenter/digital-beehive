@@ -1,30 +1,30 @@
 ---
 pid: index_1986
 volume: Volume 3
-image_number: '25'
-head: impurity
-entry:
+image_number: '26'
+head: indifferency
+entry: "<a href='/digital-beehive/num1/num_0184/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
 topic:
 first_letter: I/J
 page:
-add:
+add: "<a href='/digital-beehive/index1/index_0041/'>adiaph</a>"
 xref:
-see: "<a href='/digital-beehive/index1/index_1059/'>dirt</a>"
+see:
 index:
-item: "#item-22a9b0eab"
+item: "#item-b6ea78923"
 unparsed:
-line: 'Head: impurity|See: dirt|#item-22a9b0eab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/850,3241,582,191/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668321351
-sort_value: '302523241'
+line: 'Head: indifferency|Entry: 176 [Indifferency]|Entry: 1850 [PAGE_MISSING]|Add:
+  adiaph|#item-b6ea78923'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/439,229,825,179/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674225380
+sort_value: '302610229'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/850,3241,582,191/150,/0/default.jpg
-label: impurity
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/439,229,825,179/150,/0/default.jpg
+label: indifferency
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '068'
+order: '101'
 layout: index_item
 collection: index3
 ---

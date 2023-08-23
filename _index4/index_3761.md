@@ -1,30 +1,29 @@
 ---
 pid: index_3761
 volume: Volume 3
-image_number: '43'
-head: smith
-entry: "<a href='/digital-beehive/num2/num_0350/'>306 [Smith]</a>"
+image_number: '44'
+head: spaniards
+entry: "<a href='/digital-beehive/num5/num_1436/'>1066 [Spaniard]</a>"
 topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-b9c55c561"
+item: "#item-239400fa2"
 unparsed:
-line: 'Head: smith|Page: p.38 [Image 1.98]|Entry: 306 [Smith]|#item-b9c55c561'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/903,3473,563,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584956441
-sort_value: '304323473'
+line: 'Head: spaniards|Entry: 1066 [Spaniard]|#item-239400fa2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1129,255,543,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529788251747
+sort_value: '304420255'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/903,3473,563,144/150,/0/default.jpg
-label: smith
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1129,255,543,108/150,/0/default.jpg
+label: spaniards
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1009'
+order: '1053'
 layout: index_item
 collection: index4
 ---

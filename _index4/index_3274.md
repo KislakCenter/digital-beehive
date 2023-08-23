@@ -1,30 +1,29 @@
 ---
 pid: index_3274
 volume: Volume 3
-image_number: '38'
-head: quotations of heathens
-entry: "<a href='/digital-beehive/num7/num_2564/'>1670 [Quotations]</a>"
+image_number: '39'
+head: to rectify
+entry: "<a href='/digital-beehive/num2/num_0579/'>464 [Amending]</a>"
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e6bb8c9b2"
+item: "#item-8c7d9fdfd"
 unparsed:
-line: 'Head: quotations of heathens|Entry: 1670 [Quotations]|#item-e6bb8c9b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1144,2381,568,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455905048
-sort_value: '303822381'
+line: 'Head: to rectify|Entry: 464 [Amending]|#item-8c7d9fdfd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/124,744,453,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463275579
+sort_value: '303910744'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1144,2381,568,99/150,/0/default.jpg
-label: quotations of heathens
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/124,744,453,93/150,/0/default.jpg
+label: to rectify
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0522'
+order: '0566'
 layout: index_item
 collection: index4
 ---

@@ -1,33 +1,31 @@
 ---
 pid: index_4154
 volume: Volume 3
-image_number: '47'
-head: time
-entry: "<a href='/digital-beehive/alpha5/alpha_0961/'>a</a>|<a href='/digital-beehive/num5/num_1679/'>1225
-  [Time]</a>|<a href='/digital-beehive/num9/num_2994/'>2059 [Time]</a>|<a href='/digital-beehive/num11/num_3510/'>4815
-  [Time]</a>"
+image_number: '48'
+head: translation
+entry: "<a href='/digital-beehive/num4/num_1224/'>923 [Interpretation]</a>|<a href='/digital-beehive/num6/num_2099/'>1438
+  [Interpreta-(Transla-)tion]</a>|1857 [PAGE_MISSING]"
 topic:
 first_letter: T
 page:
-add: "<a href='/digital-beehive/index3/index_2295/'>lilly time</a>"
+add:
 xref:
 see:
 index:
-item: "#item-df6275575"
+item: "#item-1012d570c"
 unparsed:
-line: 'Head: time|Entry: a|Entry: 1225 [Time]|Entry: 2059 [Time]|Entry: 4815 [Time]|Add:
-  lilly time|#item-df6275575'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1594,2233,686,342/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565800136088
-sort_value: '304732233'
+line: 'Head: translation|Entry: 923 [Interpretation]|Entry: 1438 [Interpreta-(Transla-)tion]|Entry:
+  1857 [PAGE_MISSING]|#item-1012d570c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1098,2353,805,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561487446978
+sort_value: '304822353'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1594,2233,686,342/150,/0/default.jpg
-label: time
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1098,2353,805,151/150,/0/default.jpg
+label: translation
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '116'
+order: '177'
 layout: index_item
 collection: index5
 ---

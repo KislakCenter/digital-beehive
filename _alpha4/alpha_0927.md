@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num2/num_0477/'>392 [Allegiance]</a>|<a href='/digital-beehive/num6/num_1945/'>1368
   [the duties of Subjects]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3953/'>subjects</a>"
+index: "<a href='/digital-beehive/index4/index_3894/'>subjects</a>"
 item: "#item-da31c4125"
 unparsed:
 line: 'Entry: Subjects|Topic: Subjects|Xref: 392 [Allegiance]|Xref: 1368 [the duties

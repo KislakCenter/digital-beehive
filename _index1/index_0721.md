@@ -2,28 +2,27 @@
 pid: index_0721
 volume: Volume 3
 image_number: '13'
-head: collections of friends books
-entry:
+head: coming to Christ
+entry: "<a href='/digital-beehive/num10/num_3367/'>2394 [Coming to God]</a>"
 topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_107/'>p.56 [Image 1.117]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-4832b3ed5"
+item: "#item-6711e590b"
 unparsed:
-line: 'Head: collections of friends books|Page: p.56 [Image 1.117]|#item-4832b3ed5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1555,282,716,135/full/0/default.jpg
+line: 'Head: coming to Christ|Entry: 2394 [Coming to God]|#item-6711e590b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1545,1724,643,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536609745411
-sort_value: '301330282'
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611226748
+sort_value: '301331724'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1555,282,716,135/150,/0/default.jpg
-label: collections of friends books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1545,1724,643,96/150,/0/default.jpg
+label: coming to Christ
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0720'
 layout: index_item
 collection: index1

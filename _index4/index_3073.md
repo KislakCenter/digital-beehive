@@ -2,8 +2,9 @@
 pid: index_3073
 volume: Volume 3
 image_number: '36'
-head: poppy
-entry: "<a href='/digital-beehive/num5/num_1661/'>1213 [Poppy-Juice]</a>"
+head: prejudice
+entry: "<a href='/digital-beehive/num3/num_0803/'>607 [Prejudice]</a>|<a href='/digital-beehive/num9/num_3111/'>2168
+  [Prejudice]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f5c387fd4"
+item: "#item-3d09c3281"
 unparsed:
-line: 'Head: poppy|Entry: 1213 [Poppy-Juice]|#item-f5c387fd4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1207,742,431,180/full/0/default.jpg
+line: 'Head: prejudice|Entry: 607 [Prejudice]|Entry: 2168 [Prejudice]|#item-3d09c3281'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1830,2398,682,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438385394
-sort_value: '303620742'
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440692218
+sort_value: '303632398'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1207,742,431,180/150,/0/default.jpg
-label: poppy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1830,2398,682,170/150,/0/default.jpg
+label: prejudice
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0321'
+order: '0365'
 layout: index_item
 collection: index4
 ---

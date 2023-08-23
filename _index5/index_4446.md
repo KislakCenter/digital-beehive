@@ -1,30 +1,29 @@
 ---
 pid: index_4446
 volume: Volume 3
-image_number: '51'
-head: usury
-entry: "<a href='/digital-beehive/alpha5/alpha_1019/'>a</a>|862 [PAGE_MISSING]"
+image_number: '52'
+head: Welch tongue
+entry: "<a href='/digital-beehive/num3/num_0676/'>537 [Welch Tongues]</a>"
 topic:
-first_letter: U/V
+first_letter: W
 page:
 add:
 xref:
 see:
 index:
-item: "#item-ce9fa03d4"
+item: "#item-44addf8d0"
 unparsed:
-line: 'Head: usury|Entry: a|Entry: 862 [PAGE_MISSING]|#item-ce9fa03d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/967,1749,499,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646870974
-sort_value: '305121749'
+line: 'Head: Welch tongue|Entry: 537 [Welch Tongues]|#item-44addf8d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1078,1033,518,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968715428
+sort_value: '305221033'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/967,1749,499,128/150,/0/default.jpg
-label: usury
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1078,1033,518,147/150,/0/default.jpg
+label: Welch tongue
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '408'
+order: '469'
 layout: index_item
 collection: index5
 ---

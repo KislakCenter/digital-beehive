@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0347/'>foundation</a>|<a href='/digital-beehive/alpha2/alpha_0438/'>house</a>|<a
   href='/digital-beehive/num7/num_2546/'>1662 [Architecture]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0474/'>building</a>"
+index: "<a href='/digital-beehive/index1/index_0465/'>building</a>"
 item: "#item-b623cd115"
 unparsed:
 line: 'Entry: Building|Topic: Building|Xref: foundation|Xref: house|Xref: 1662 [Architecture]|Index:

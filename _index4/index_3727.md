@@ -2,8 +2,8 @@
 pid: index_3727
 volume: Volume 3
 image_number: '43'
-head: singular
-entry: 755 [PAGE_MISSING]
+head: solecism
+entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d8f26e5c0"
+item: "#item-09309a132"
 unparsed:
-line: 'Head: singular|Entry: 755 [PAGE_MISSING]|#item-d8f26e5c0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/849,379,534,128/full/0/default.jpg
+line: 'Head: solecism|Entry: 537 [Terms in didascalia]|#item-09309a132'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1585,2779,482,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582857225
-sort_value: '304320379'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586422103
+sort_value: '304332779'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/849,379,534,128/150,/0/default.jpg
-label: singular
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1585,2779,482,117/150,/0/default.jpg
+label: solecism
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0975'
+order: '1019'
 layout: index_item
 collection: index4
 ---

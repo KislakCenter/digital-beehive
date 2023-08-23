@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1252/'>936 [Eclipse]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1204/'>eclipse</a>"
+index: "<a href='/digital-beehive/index2/index_1182/'>eclipse</a>"
 item: "#item-3a398c693"
 unparsed:
 line: 'Entry: Eclipse|Topic: Eclipse|Xref: 936 [Eclipse]|Index: eclipse|#item-3a398c693'

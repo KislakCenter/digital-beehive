@@ -1,11 +1,10 @@
 ---
 pid: index_3121
 volume: Volume 3
-image_number: '36'
-head: preface
-entry: "<a href='/digital-beehive/num3/num_0837/'>621 [prefatory]</a>|<a href='/digital-beehive/num2/num_0436/'>366
-  [Preface]</a>|<a href='/digital-beehive/num7/num_2324/'>1558 [Preface]</a>|4600
-  [PAGE_MISSING]"
+image_number: '37'
+head: process in law
+entry: "<a href='/digital-beehive/alpha4/alpha_0743/'>a</a>|790 [PAGE_MISSING]|4451
+  [WORD_MISSING]"
 topic:
 first_letter: P
 page:
@@ -13,21 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-905b93405"
+item: "#item-5936ca540"
 unparsed:
-line: 'Head: preface|Entry: 621 [prefatory]|Entry: 366 [Preface]|Entry: 1558 [Preface]|Entry:
-  4600 [PAGE_MISSING]|#item-905b93405'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1862,2140,707,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440602314
-sort_value: '303632140'
+line: 'Head: process in law|Entry: a|Entry: 790 [PAGE_MISSING]|Entry: 4451 [WORD_MISSING]|#item-5936ca540'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/802,1187,662,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867783744
+sort_value: '303721187'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1862,2140,707,163/150,/0/default.jpg
-label: preface
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/802,1187,662,152/150,/0/default.jpg
+label: process in law
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0369'
+order: '0413'
 layout: index_item
 collection: index4
 ---

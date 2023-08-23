@@ -2,9 +2,8 @@
 pid: index_0030
 volume: Volume 3
 image_number: '7'
-head: accustoming
-entry: "<a href='/digital-beehive/num1/num_0132/'>127 [Accustoming]</a>|<a href='/digital-beehive/num4/num_1248/'>934
-  [Accustoming]</a>"
+head: acidul[ae]
+entry: "<a href='/digital-beehive/num7/num_2583/'>1680 [Hot baths]</a>"
 topic:
 first_letter: A
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-503202feb"
+item: "#item-2efdddb3b"
 unparsed:
-line: 'Head: accustoming|Entry: 127 [Accustoming]|Entry: 934 [Accustoming]|#item-503202feb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/167,2697,703,172/full/0/default.jpg
+line: 'Head: acidul[ae]|Entry: 1680 [Hot baths]|#item-2efdddb3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/164,2825,654,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759909901
-sort_value: '300712697'
+annotation_uri: http://dev.llgc.org.uk/annotation/1491191575907
+sort_value: '300712825'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/167,2697,703,172/150,/0/default.jpg
-label: accustoming
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/164,2825,654,111/150,/0/default.jpg
+label: acidul[ae]
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0029'
 layout: index_item
 collection: index1

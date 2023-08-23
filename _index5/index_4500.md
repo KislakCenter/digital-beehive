@@ -1,31 +1,30 @@
 ---
 pid: index_4500
 volume: Volume 3
-image_number: '52'
-head: weapons
-entry: "<a href='/digital-beehive/alpha5/alpha_1033/'>a</a>|<a href='/digital-beehive/num5/num_1603/'>1175
-  [Weapons]</a>"
+image_number: '53'
+head: wish
+entry: "<a href='/digital-beehive/alpha5/alpha_1046/'>a</a>|<a href='/digital-beehive/num4/num_1110/'>875
+  [Wish]</a>|<a href='/digital-beehive/num7/num_2549/'>1663 [Wish]</a>"
 topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-315af01da"
+item: "#item-77b48c754"
 unparsed:
-line: 'Head: weapons|Page: p.40 [Image 1.100]|Entry: a|Entry: 1175 [Weapons]|#item-315af01da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/498,2490,587,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961062076
-sort_value: '305212490'
+line: 'Head: wish|Entry: a|Entry: 875 [Wish]|Entry: 1663 [Wish]|#item-77b48c754'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,1218,555,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791862715
+sort_value: '305311218'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/498,2490,587,145/150,/0/default.jpg
-label: weapons
-location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/177,1218,555,101/150,/0/default.jpg
+label: wish
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '462'
+order: '523'
 layout: index_item
 collection: index5
 ---

@@ -2,9 +2,9 @@
 pid: index_1391
 volume: Volume 3
 image_number: '20'
-head: falshood
-entry: "<a href='/digital-beehive/alpha2/alpha_0315/'>a</a>|<a href='/digital-beehive/num4/num_1307/'>979
-  [Falsehood]</a>"
+head: fatness
+entry: "<a href='/digital-beehive/alpha2/alpha_0320/'>a</a>|<a href='/digital-beehive/num3/num_0864/'>636
+  [Fatness]</a>"
 topic:
 first_letter: F
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-f7ff6c2f2"
+item: "#item-c93743a22"
 unparsed:
-line: 'Head: falshood|Entry: a|Entry: 979 [Falsehood]|#item-f7ff6c2f2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,1913,615,137/full/0/default.jpg
+line: 'Head: fatness|Entry: a|Entry: 636 [Fatness]|#item-c93743a22'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1161,548,460,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561402153990
-sort_value: '302011913'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661037674
+sort_value: '302020548'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/387,1913,615,137/150,/0/default.jpg
-label: falshood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1161,548,460,136/150,/0/default.jpg
+label: fatness
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '210'
+order: '232'
 layout: index_item
 collection: index2
 ---

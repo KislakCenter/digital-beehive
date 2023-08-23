@@ -1,30 +1,29 @@
 ---
 pid: index_2615
 volume: Volume 3
-image_number: '31'
-head: Bp of Munster
-entry: "<a href='/digital-beehive/num6/num_1905/'>1348 [Chr. Bernard Bishop of Munster]</a>"
+image_number: '32'
+head: naturaliza[ti]on
+entry: "<a href='/digital-beehive/num2/num_0336/'>297 [Naturalization]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-c0bedd696"
+item: "#item-42ee29374"
 unparsed:
-line: 'Head: Bp of Munster|Entry: 1348 [Chr. Bernard Bishop of Munster]|#item-c0bedd696'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1547,1452,616,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361406501
-sort_value: '303131452'
+line: 'Head: naturaliza[ti]on|Entry: 297 [Naturalization]|#item-42ee29374'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1943,636,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438228638
+sort_value: '303211943'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1547,1452,616,152/150,/0/default.jpg
-label: Bp of Munster
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1943,636,122/150,/0/default.jpg
+label: naturaliza[ti]on
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '697'
+order: '730'
 layout: index_item
 collection: index3
 ---

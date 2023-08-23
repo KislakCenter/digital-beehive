@@ -2,28 +2,27 @@
 pid: index_0457
 volume: Volume 3
 image_number: '11'
-head: bright
-entry: "<a href='/digital-beehive/num2/num_0530/'>427 [Bright]</a>"
+head: brother
+entry: "<a href='/digital-beehive/alpha1/alpha_0105/'>a</a>"
 topic:
 first_letter: B
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2301/'>Love</a>"
 index:
-item: "#item-8cd30dfed"
+item: "#item-70e28330f"
 unparsed:
-line: 'Head: bright|Entry: 427 [Bright]|#item-8cd30dfed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/174,2588,387,108/full/0/default.jpg
+line: 'Head: brother|Entry: a|See: Love|#item-70e28330f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/149,3398,419,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419650947
-sort_value: '301112588'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531420044011
+sort_value: '301113398'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/174,2588,387,108/150,/0/default.jpg
-label: bright
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/149,3398,419,192/150,/0/default.jpg
+label: brother
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0456'
 layout: index_item
 collection: index1

@@ -2,8 +2,9 @@
 pid: index_2483
 volume: Volume 3
 image_number: '30'
-head: mental reserv
-entry: "<a href='/digital-beehive/num4/num_1298/'>973 [Mental Reservations]</a>"
+head: ministers of State
+entry: "<a href='/digital-beehive/num1/num_0182/'>174 [Ministers of State]</a>|1843
+  [PAGE_MISSING]"
 topic:
 first_letter: M
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ad2e9d274"
+item: "#item-1d57a4335"
 unparsed:
-line: 'Head: mental reserv|Entry: 973 [Mental Reservations]|#item-ad2e9d274'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1138,2017,629,163/full/0/default.jpg
+line: 'Head: ministers of State|Entry: 174 [Ministers of State]|Entry: 1843 [PAGE_MISSING]|#item-1d57a4335'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1838,2530,617,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268491732
-sort_value: '303022017'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274512102
+sort_value: '303032530'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1138,2017,629,163/150,/0/default.jpg
-label: mental reserv
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1838,2530,617,145/150,/0/default.jpg
+label: ministers of State
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '565'
+order: '598'
 layout: index_item
 collection: index3
 ---

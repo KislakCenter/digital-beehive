@@ -2,8 +2,8 @@
 pid: index_0182
 volume: Volume 3
 image_number: '8'
-head: appetite
-entry: "<a href='/digital-beehive/num3/num_1003/'>697 [Appetite]</a>"
+head: approaching
+entry: "<a href='/digital-beehive/num3/num_0747/'>581 [to Approach]</a>"
 topic:
 first_letter: A
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-0b8021720"
+item: "#item-6d26a4a84"
 unparsed:
-line: 'Head: appetite|Entry: 697 [Appetite]|#item-0b8021720'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1116,1798,467,120/full/0/default.jpg
+line: 'Head: approaching|Entry: 581 [to Approach]|#item-6d26a4a84'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1099,2507,581,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760575061
-sort_value: '300821798'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760926009
+sort_value: '300822507'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1116,1798,467,120/150,/0/default.jpg
-label: appetite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1099,2507,581,140/150,/0/default.jpg
+label: approaching
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0181'
 layout: index_item
 collection: index1

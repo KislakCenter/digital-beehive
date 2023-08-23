@@ -2,28 +2,27 @@
 pid: index_0050
 volume: Volume 3
 image_number: '7'
-head: advertisemts
-entry: "<a href='/digital-beehive/num11/num_3491/'>4797 [Advertisemts]</a>"
+head: advice
+entry: "<a href='/digital-beehive/num5/num_1663/'>1215 [Counsel]</a>"
 topic:
 first_letter: A
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0854/'>counsel</a>"
 index:
-item: "#item-ee1cb18d2"
+item: "#item-9ab5e7e38"
 unparsed:
-line: 'Head: advertisemts|Entry: 4797 [Advertisemts]|#item-ee1cb18d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/893,916,598,106/full/0/default.jpg
+line: 'Head: advice|See: counsel|Entry: 1215 [Counsel]|#item-9ab5e7e38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,945,704,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761176461
-sort_value: '300720916'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761231227
+sort_value: '300720945'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/893,916,598,106/150,/0/default.jpg
-label: advertisemts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,945,704,115/150,/0/default.jpg
+label: advice
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0049'
 layout: index_item
 collection: index1

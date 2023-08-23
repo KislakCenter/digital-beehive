@@ -2,8 +2,8 @@
 pid: index_0894
 volume: Volume 3
 image_number: '15'
-head: cramp
-entry: "<a href='/digital-beehive/num3/num_0781/'>597 [Cramp]</a>"
+head: Cromwell
+entry: "<a href='/digital-beehive/num5/num_1652/'>1209 [Cromwell]</a>|4508 [PAGE_MISSING]"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-35a777660"
+item: "#item-7f5921ff2"
 unparsed:
-line: 'Head: cramp|Entry: 597 [Cramp]|#item-35a777660'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/170,3491,398,132/full/0/default.jpg
+line: 'Head: Cromwell|Entry: 1209 [Cromwell]|Entry: 4508 [PAGE_MISSING]|#item-7f5921ff2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/864,1848,670,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537975328283
-sort_value: '301513491'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577577435
+sort_value: '301521848'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/170,3491,398,132/150,/0/default.jpg
-label: cramp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/864,1848,670,131/150,/0/default.jpg
+label: Cromwell
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0893'
 layout: index_item
 collection: index1

@@ -1,9 +1,10 @@
 ---
 pid: index_2635
 volume: Volume 3
-image_number: '31'
-head: name of God
-entry: a
+image_number: '32'
+head: neger
+entry: "<a href='/digital-beehive/num2/num_0461/'>382 [Neger or Negro]</a>|<a href='/digital-beehive/num7/num_2470/'>1628
+  [Negro]</a>"
 topic:
 first_letter: N
 page:
@@ -11,21 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-b8e96a41b"
+item: "#item-87116ca3c"
 unparsed:
-line: 'Head: name of God|Entry: a|#item-b8e96a41b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1505,3540,465,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560363213954
-sort_value: '303133540'
+line: 'Head: neger|Entry: 382 [Neger or Negro]|Entry: 1628 [Negro]|#item-87116ca3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1182,349,512,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560440944942
+sort_value: '303220349'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1505,3540,465,134/150,/0/default.jpg
-label: name of God
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: The "a" links to an alphabetical entry which is indexed more than once. There
-  is no protocol at this point to handle multiple indexing for alphabetical entries.
-insertion_xref:
-order: '717'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1182,349,512,144/150,/0/default.jpg
+label: neger
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+issue:
+order: '750'
 layout: index_item
 collection: index3
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0248/'>disputation</a>|<a href='/digital-beehive/alpha1/alpha_0243/'>discord</a>|<a
   href='/digital-beehive/num2/num_0414/'>352 [Strife]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3941/'>strife</a>"
+index: "<a href='/digital-beehive/index4/index_3882/'>strife</a>"
 item: "#item-e31e6f186"
 unparsed:
 line: 'Entry: Strife|Topic: Strife|Xref: disputation|Xref: discord|Xref: 352 [Strife]|Index:

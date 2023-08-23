@@ -1,30 +1,29 @@
 ---
 pid: index_1371
 volume: Volume 3
-image_number: '19'
-head: eye bright
-entry: "<a href='/digital-beehive/num3/num_0962/'>682 [Eye-bright]</a>"
+image_number: '20'
+head: familiar spirits
+entry: "<a href='/digital-beehive/num6/num_1833/'>1311 [Familiar Spirits]</a>"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-469080892"
+item: "#item-7ef024536"
 unparsed:
-line: 'Head: eye bright|Entry: 682 [Eye-bright]|#item-469080892'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1496,3431,515,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561398031091
-sort_value: '301933431'
+line: 'Head: familiar spirits| Entry: 1311 [Familiar Spirits]|#item-7ef024536'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/374,2270,519,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657538498
+sort_value: '302012270'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1496,3431,515,142/150,/0/default.jpg
-label: eye bright
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/374,2270,519,141/150,/0/default.jpg
+label: familiar spirits
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '190'
+order: '212'
 layout: index_item
 collection: index2
 ---

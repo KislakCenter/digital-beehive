@@ -1,9 +1,10 @@
 ---
 pid: index_3942
 volume: Volume 3
-image_number: '45'
-head: string
-entry: "<a href='/digital-beehive/num2/num_0407/'>348 [A rope]</a>|773 [PAGE_MISSING]"
+image_number: '46'
+head: surity. sicher
+entry: "<a href='/digital-beehive/num4/num_1205/'>914 [Security, he that promises
+  for another]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e7357ed0b"
+item: "#item-83d2a8eb6"
 unparsed:
-line: 'Head: string|Entry: 348 [A rope]|Entry: 773 [PAGE_MISSING]|#item-e7357ed0b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/896,2894,570,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290914237
-sort_value: '304522894'
+line: 'Head: surity. sicher|Entry: 914 [Security, he that promises for another]|#item-83d2a8eb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/467,3108,640,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531683828216
+sort_value: '304613108'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/896,2894,570,154/150,/0/default.jpg
-label: string
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/467,3108,640,137/150,/0/default.jpg
+label: surity. sicher
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1190'
+order: '1234'
 layout: index_item
 collection: index4
 ---

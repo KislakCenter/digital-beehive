@@ -2,29 +2,30 @@
 pid: index_3268
 volume: Volume 3
 image_number: '38'
-head: quince
-entry: "<a href='/digital-beehive/num8/num_2708/'>1776 [Quince]</a>"
+head: reconciliation
+entry: 770 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1959/'>1375 [Reconciliation]</a>|<a
+  href='/digital-beehive/num8/num_2882/'>1957 [Reconciliation]</a>
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-fba8a7d9b"
+item: "#item-8e3ce07f3"
 unparsed:
-line: 'Head: quince|Entry: 1776 [Quince]|#item-fba8a7d9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1184,1681,363,113/full/0/default.jpg
+line: 'Head: reconciliation|Entry: 770 [PAGE_MISSING]|ENtry: 1375 [Reconciliation]|Entry:
+  1957 [Reconciliation]|#item-8e3ce07f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1821,3315,735,215/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455320537
-sort_value: '303821681'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558462106178
+sort_value: '303833315'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1184,1681,363,113/150,/0/default.jpg
-label: quince
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1821,3315,735,215/150,/0/default.jpg
+label: reconciliation
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0516'
+order: '0560'
 layout: index_item
 collection: index4
 ---

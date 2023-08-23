@@ -1,30 +1,29 @@
 ---
 pid: index_2530
 volume: Volume 3
-image_number: '30'
-head: mints
-entry:
+image_number: '31'
+head: months
+entry: 4546 [PAGE_MISSING]
 topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
+page:
 add:
 xref:
 see:
 index:
-item: "#item-250494018"
+item: "#item-094f6833a"
 unparsed:
-line: 'Head: mints|Page: p.6 [Image 1.66]|#item-250494018'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,3173,350,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274912215
-sort_value: '303033173'
+line: 'Head: months|Entry: 4546 [PAGE_MISSING]|#item-094f6833a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/890,1020,474,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355200407
+sort_value: '303121020'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,3173,350,132/150,/0/default.jpg
-label: mints
-location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/890,1020,474,96/150,/0/default.jpg
+label: months
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '612'
+order: '645'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,9 @@
 pid: index_2861
 volume: Volume 3
 image_number: '34'
-head: Pallas
-entry: "<a href='/digital-beehive/num5/num_1362/'>1019 [Spinning]</a>"
+head: passions
+entry: "<a href='/digital-beehive/num1/num_0123/'>119 [Passions]</a>|<a href='/digital-beehive/num9/num_2978/'>2043
+  [Passions]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-07494ff5e"
+item: "#item-115249413"
 unparsed:
-line: 'Head: Pallas|Entry: 1019 [Spinning]|#item-07494ff5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/446,3168,469,156/full/0/default.jpg
+line: 'Head: passions|Entry: 119 [Passions]|Entry: 2043 [Passions]|#item-115249413'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1820,791,673,237/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538426339363
-sort_value: '303413168'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495066492
+sort_value: '303430791'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/446,3168,469,156/150,/0/default.jpg
-label: Pallas
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1820,791,673,237/150,/0/default.jpg
+label: passions
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0109'
+order: '0153'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1077/'>Zoilus</a>|<a href='/digital-beehive/num6/num_1980/'>1384
   [Satyr]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3524/'>Satyre</a>"
+index: "<a href='/digital-beehive/index4/index_3469/'>Satyre</a>"
 item: "#item-407803ef9"
 unparsed:
 line: 'Entry: Satyre|Topic: Satyre|Xref: Zoilus|Xref: 1384 [Satyr]|Index: Satyre|#item-407803ef9'

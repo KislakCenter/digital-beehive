@@ -1,10 +1,9 @@
 ---
 pid: index_0122
 volume: Volume 3
-image_number: '7'
-head: ambition
-entry: "<a href='/digital-beehive/alpha1/alpha_0024/'>a</a>|<a href='/digital-beehive/num5/num_1577/'>1156
-  [Ambition]</a>"
+image_number: '8'
+head: America
+entry: "<a href='/digital-beehive/num2/num_0475/'>391 [America]</a>"
 topic:
 first_letter: A
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-8cb197381"
+item: "#item-31d9334a7"
 unparsed:
-line: 'Head: ambition|Entry: a|Entry: 1156 [Ambition]|#item-8cb197381'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1584,3326,543,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564771239784
-sort_value: '300733326'
+line: 'Head: America|Entry: 391 [America]|#item-31d9334a7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/398,391,520,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757588342
+sort_value: '300810391'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1584,3326,543,107/150,/0/default.jpg
-label: ambition
-location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/398,391,520,152/150,/0/default.jpg
+label: America
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0121'
 layout: index_item
 collection: index1

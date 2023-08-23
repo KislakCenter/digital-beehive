@@ -2,8 +2,8 @@
 pid: index_1826
 volume: Volume 3
 image_number: '24'
-head: hickock
-entry: "<a href='/digital-beehive/num5/num_1656/'>1211 [Belchings]</a>"
+head: Holland
+entry: "<a href='/digital-beehive/num2/num_0410/'>351 [Holland]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-85e719765"
+item: "#item-3d1060fc9"
 unparsed:
-line: 'Head: hickock|Entry: 1211 [Belchings]|#item-85e719765'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/425,1453,458,119/full/0/default.jpg
+line: 'Head: Holland|Entry: 351 [Holland]|#item-3d1060fc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1140,1549,422,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576152868
-sort_value: '302411453'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582540792
+sort_value: '302421549'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/425,1453,458,119/150,/0/default.jpg
-label: hickock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1140,1549,422,101/150,/0/default.jpg
+label: Holland
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '645'
+order: '667'
 layout: index_item
 collection: index2
 ---

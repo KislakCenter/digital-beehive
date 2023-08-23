@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0382/'>gray hairs</a>|<a href='/digital-beehive/alpha4/alpha_0785/'>red
   haired</a>|<a href='/digital-beehive/num6/num_1882/'>1337 [Hair & Perriwigs]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1737/'>hair</a>"
+index: "<a href='/digital-beehive/index2/index_1706/'>hair</a>"
 item: "#item-40babfce6"
 unparsed:
 line: 'Entry: Hair|Topic: Hair|Xref: gray hairs|Xref: red haired|Xref: 1337 [Hair

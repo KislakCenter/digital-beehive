@@ -1,9 +1,9 @@
 ---
 pid: index_1477
 volume: Volume 3
-image_number: '20'
-head: flegm
-entry: "<a href='/digital-beehive/num10/num_3216/'>2262 [Phlegm or Flegm]</a>"
+image_number: '21'
+head: foregoing
+entry: "<a href='/digital-beehive/num8/num_2711/'>1779 [Foregoing]</a>"
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-315da2958"
+item: "#item-6de66383b"
 unparsed:
-line: 'Head: flegm|Entry: 2262 [Phlegm or Flegm]|#item-315da2958'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,2804,478,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562617298259
-sort_value: '302032804'
+line: 'Head: foregoing|Entry: 1779 [Foregoing]|#item-6de66383b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/154,1950,504,85/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531501943386
+sort_value: '302111950'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1792,2804,478,169/150,/0/default.jpg
-label: flegm
-location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/154,1950,504,85/150,/0/default.jpg
+label: foregoing
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '296'
+order: '318'
 layout: index_item
 collection: index2
 ---

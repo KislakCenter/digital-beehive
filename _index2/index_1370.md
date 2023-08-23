@@ -1,30 +1,29 @@
 ---
 pid: index_1370
 volume: Volume 3
-image_number: '19'
-head: eye salve
-entry: 4538 [PAGE_MISSING]
+image_number: '20'
+head: familiarity
+entry: "<a href='/digital-beehive/num1/num_0001/'>1 [Familiarity]</a>|4712 [PAGE_MISSING]"
 topic:
-first_letter: E
+first_letter: F
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e82ddb28a"
+item: "#item-a00efa3af"
 unparsed:
-line: 'Head: eye salve|Entry: 4538 [PAGE_MISSING]|#item-e82ddb28a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1519,3396,511,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561398169429
-sort_value: '301933396'
+line: 'Head: familiarity|Entry: 1 [Familiarity]|Entry: 4712 [PAGE_MISSING]|#item-a00efa3af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/376,2169,744,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656046381
+sort_value: '302012169'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1519,3396,511,95/150,/0/default.jpg
-label: eye salve
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/376,2169,744,157/150,/0/default.jpg
+label: familiarity
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '189'
+order: '211'
 layout: index_item
 collection: index2
 ---

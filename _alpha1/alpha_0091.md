@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0735/'>Pride</a>|728 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0400/'>boasting</a>"
+index: "<a href='/digital-beehive/index1/index_0392/'>boasting</a>"
 item: "#item-71c386bdf"
 unparsed:
 line: 'Entry: Boasting|Topic: Boasting|Xref: Pride|Xref: 728 [PAGE_MISSING]|Index:

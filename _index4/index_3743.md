@@ -1,9 +1,9 @@
 ---
 pid: index_3743
 volume: Volume 3
-image_number: '43'
-head: slate
-entry: "<a href='/digital-beehive/num4/num_1106/'>873 [Paper]</a>"
+image_number: '44'
+head: sope
+entry: "<a href='/digital-beehive/num4/num_1234/'>927 [Sope]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c8e732559"
+item: "#item-d91ae04a8"
 unparsed:
-line: 'Head: slate|Entry: 873 [Paper]|#item-c8e732559'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/885,1828,464,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583493541
-sort_value: '304321828'
+line: 'Head: sope|Entry: 927 [Sope]|#item-d91ae04a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/579,1233,357,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529703812108
+sort_value: '304411233'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/885,1828,464,125/150,/0/default.jpg
-label: slate
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/579,1233,357,115/150,/0/default.jpg
+label: sope
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0991'
+order: '1035'
 layout: index_item
 collection: index4
 ---

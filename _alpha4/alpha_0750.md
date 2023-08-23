@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0414/'>Help</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3189/'>promoting</a>"
+index: "<a href='/digital-beehive/index4/index_3139/'>promoting</a>"
 item: "#item-5413ee3e8"
 unparsed:
 line: 'Entry: Promoting|Topic: Promoting|Xref: Help|Index: promoting|#item-5413ee3e8'

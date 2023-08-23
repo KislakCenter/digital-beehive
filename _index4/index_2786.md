@@ -2,29 +2,28 @@
 pid: index_2786
 volume: Volume 3
 image_number: '33'
-head: Oligarchy
-entry:
+head: orphanage
+entry: "<a href='/digital-beehive/alpha4/alpha_0673/'>a</a>"
 topic:
 first_letter: O
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2563/'>monarchy</a>"
+see:
 index:
-item: "#item-ef9a714df"
+item: "#item-86cb5a911"
 unparsed:
-line: 'Head: Oligarchy|See: monarchy|#item-ef9a714df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/825,1878,778,177/full/0/default.jpg
+line: 'Head: orphanage|Entry: a|#item-86cb5a911'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1495,3310,475,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348405920
-sort_value: '303321878'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163946554
+sort_value: '303333310'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/825,1878,778,177/150,/0/default.jpg
-label: Oligarchy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1495,3310,475,152/150,/0/default.jpg
+label: orphanage
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0034'
+order: '0078'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,28 @@
 pid: index_4181
 volume: Volume 3
 image_number: '48'
-head: too much
-entry: "<a href='/digital-beehive/alpha5/alpha_0970/'>a</a>|815 [PAGE_MISSING]|4649
-  [PAGE_MISSING]"
+head: trophy
+entry:
 topic:
 first_letter: T
-page:
+page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-02bb8094e"
+item: "#item-a0491090d"
 unparsed:
-line: 'Head: too much|Entry: a|Entry: 815 [PAGE_MISSING]|Entry: 4649 [PAGE_MISSING]|#item-02bb8094e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/443,1635,713,134/full/0/default.jpg
+line: 'Head: trophy|Page: p.40 [Image 1.100]|#item-a0491090d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1811,2441,488,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274806427
-sort_value: '304811635'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562089560519
+sort_value: '304832441'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/443,1635,713,134/150,/0/default.jpg
-label: too much
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1811,2441,488,168/150,/0/default.jpg
+label: trophy
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '143'
+order: '204'
 layout: index_item
 collection: index5
 ---

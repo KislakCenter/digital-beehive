@@ -1,31 +1,29 @@
 ---
 pid: index_4307
 volume: Volume 3
-image_number: '49'
-head: vengeange
-entry: "<a href='/digital-beehive/num3/num_0634/'>504 [Revenge]</a>|<a href='/digital-beehive/num9/num_3192/'>2246
-  [Revenge]</a>"
+image_number: '50'
+head: uneasy
+entry:
 topic:
 first_letter: U/V
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index5/index_4432/'>weary</a>"
 index:
-item: "#item-b94b50d32"
+item: "#item-79c2d4bc9"
 unparsed:
-line: 'Head: vengeange|Entry: 504 [Revenge]|Entry: 2246 [Revenge]|#item-b94b50d32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/934,2327,705,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658627876
-sort_value: '304922327'
+line: 'Head: uneasy|See: weary|#item-79c2d4bc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/431,3305,560,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560873918172
+sort_value: '305013305'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/934,2327,705,139/150,/0/default.jpg
-label: vengeange
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/431,3305,560,141/150,/0/default.jpg
+label: uneasy
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '269'
+order: '330'
 layout: index_item
 collection: index5
 ---

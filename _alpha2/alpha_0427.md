@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num4/num_1322/'>990 [Holiness]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1854/'>holiness</a>"
+index: "<a href='/digital-beehive/index2/index_1822/'>holiness</a>"
 item: "#item-1ccaec402"
 unparsed:
 line: 'Entry: Holiness|Topic: Holiness|Xref: 990 [Holiness]|Index: holiness|#item-1ccaec402'

@@ -2,29 +2,28 @@
 pid: index_2836
 volume: Volume 3
 image_number: '34'
-head: oven
-entry: "<a href='/digital-beehive/num4/num_1091/'>869 [Oven]</a>"
+head: Paris
+entry: "<a href='/digital-beehive/alpha4/alpha_0683/'>a</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-02444b30e"
+item: "#item-51b3d5a1f"
 unparsed:
-line: 'Head: oven|Entry: 869 [Oven]|#item-02444b30e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/461,646,474,124/full/0/default.jpg
+line: 'Head: Paris|Entry: a|#item-51b3d5a1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1125,1774,360,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425043679
-sort_value: '303410646'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494215447
+sort_value: '303421774'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/461,646,474,124/150,/0/default.jpg
-label: oven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1125,1774,360,173/150,/0/default.jpg
+label: Paris
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0084'
+order: '0128'
 layout: index_item
 collection: index4
 ---

@@ -2,9 +2,9 @@
 pid: index_0764
 volume: Volume 3
 image_number: '14'
-head: complexions
-entry: "<a href='/digital-beehive/num7/num_2615/'>1696 [[WORD_ILLEGIBLE]]</a>|<a href='/digital-beehive/num6/num_2042/'>1414
-  [Seven Planets]</a>|1889 [[PAGE_MISSING]]"
+head: condemnation
+entry: "<a href='/digital-beehive/alpha1/alpha_0168/'>a</a>|<a href='/digital-beehive/num8/num_2751/'>1817
+  [Damnation]</a>"
 topic:
 first_letter: C
 page:
@@ -12,20 +12,18 @@ add:
 xref:
 see:
 index:
-item: "#item-3453e9738"
+item: "#item-b7d40955f"
 unparsed:
-line: 'Head: complexions|Entry: 1696 [[WORD_ILLEGIBLE]]|Entry: 1414 [Seven Planets]|Entry:
-  1889 [[PAGE_MISSING]]|#item-3453e9738'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/429,1043,737,137/full/0/default.jpg
+line: 'Head: condemnation|Entry: a|Entry: 1817 [Damnation]|#item-b7d40955f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/395,2471,738,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215383914
-sort_value: '301411043'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216680917
+sort_value: '301412471'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/429,1043,737,137/150,/0/default.jpg
-label: complexions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/395,2471,738,98/150,/0/default.jpg
+label: condemnation
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0763'
 layout: index_item
 collection: index1

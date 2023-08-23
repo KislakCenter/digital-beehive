@@ -2,29 +2,28 @@
 pid: index_3244
 volume: Volume 3
 image_number: '38'
-head: Pythagoras
-entry: "<a href='/digital-beehive/num5/num_1420/'>1056 [Pythagoras]</a>"
+head: rasor
+entry:
 topic:
-first_letter: P
+first_letter: R
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index3/index_2135/'>knife</a>"
 index:
-item: "#item-3e74dcc8c"
+item: "#item-209630a03"
 unparsed:
-line: 'Head: Pythagoras|Entry: 1056 [Pythagoras]|#item-3e74dcc8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/415,2638,568,147/full/0/default.jpg
+line: 'Head: rasor|See: knife|#item-209630a03'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,922,504,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452656125
-sort_value: '303812638'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460735423
+sort_value: '303830922'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/415,2638,568,147/150,/0/default.jpg
-label: Pythagoras
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,922,504,134/150,/0/default.jpg
+label: rasor
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0492'
+order: '0536'
 layout: index_item
 collection: index4
 ---

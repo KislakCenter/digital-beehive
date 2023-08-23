@@ -2,31 +2,27 @@
 pid: index_0650
 volume: Volume 3
 image_number: '13'
-head: christendom
-entry: "<a href='/digital-beehive/alpha1/alpha_0148/'>a</a>|<a href='/digital-beehive/num9/num_2972/'>2037
-  [Nominal Christians]</a>|<a href='/digital-beehive/num10/num_3374/'>2401 [Nominal
-  Christians]</a>"
+head: Churchman
+entry: "<a href='/digital-beehive/num6/num_1973/'>1381 [Robert Churchman]</a>"
 topic:
 first_letter: C
 page:
 add:
 xref:
-see: nominal christians
+see:
 index:
-item: "#item-65b1c7b30"
+item: "#item-841f4d4af"
 unparsed:
-line: 'Head: christendom|Entry: a|Entry: 2037 [Nominal Christians]|Entry: 2401 [Nominal
-  Christians]|See: nominal christians|#item-65b1c7b30'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/134,329,684,185/full/0/default.jpg
+line: 'Head: Churchman|Entry: 1381 [Robert Churchman]|#item-841f4d4af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/139,1577,549,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532618265643
-sort_value: '301310329'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532620076284
+sort_value: '301311577'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/134,329,684,185/150,/0/default.jpg
-label: christendom
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/139,1577,549,102/150,/0/default.jpg
+label: Churchman
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: The intended point of reference for "nominal christians" is unclear.
-insertion_xref:
+issue:
 order: '0649'
 layout: index_item
 collection: index1

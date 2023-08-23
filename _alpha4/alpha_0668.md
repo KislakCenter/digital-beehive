@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Imagination</a>|<a href='/digital-beehive/num5/num_1377/'>1029
   [Opinion]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2806/'>opinion</a>"
+index: "<a href='/digital-beehive/index4/index_2762/'>opinion</a>"
 item: "#item-e0c8b8a70"
 unparsed:
 line: 'Entry: Opinion|Topic: Opinion|Xref: Imagination|Xref: 1029 [Opinion]|Index:

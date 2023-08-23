@@ -2,8 +2,8 @@
 pid: index_1428
 volume: Volume 3
 image_number: '20'
-head: fellow sufferer
-entry: "<a href='/digital-beehive/num10/num_3205/'>2256 [Fellow Sufferer]</a>"
+head: firewood
+entry: 4614 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-61f77d756"
+item: "#item-6635f864a"
 unparsed:
-line: 'Head: fellow sufferer|Entry: 2256 [Fellow Sufferer]|#item-61f77d756'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,1956,599,177/full/0/default.jpg
+line: 'Head: firewood|Entry: 4614 [PAGE_MISSING]|#item-6635f864a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,730,521,212/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562184528585
-sort_value: '302021956'
+annotation_uri: http://dev.llgc.org.uk/annotation/1562612879607
+sort_value: '302030730'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,1956,599,177/150,/0/default.jpg
-label: fellow sufferer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,730,521,212/150,/0/default.jpg
+label: firewood
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '247'
+order: '269'
 layout: index_item
 collection: index2
 ---

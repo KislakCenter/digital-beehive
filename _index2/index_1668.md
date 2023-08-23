@@ -2,29 +2,28 @@
 pid: index_1668
 volume: Volume 3
 image_number: '22'
-head: good. gültig
-entry: "<a href='/digital-beehive/num5/num_1411/'>1052 [Good]</a>"
+head: grave
+entry: "<a href='/digital-beehive/alpha2/alpha_0388/'>a</a>"
 topic:
 first_letter: G
-page:
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-74b53e86a"
+item: "#item-ed7255698"
 unparsed:
-line: 'Head: good. gültig|Entry: 1052 [Good]|#item-74b53e86a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1848,486,552,132/full/0/default.jpg
+line: 'Head: grave|Page: p.44 [Image 1.104]|Entry: a|#item-ed7255698'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1854,3499,513,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561051914983
-sort_value: '302230486'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053724754
+sort_value: '302233499'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1848,486,552,132/150,/0/default.jpg
-label: good. gültig
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1854,3499,513,130/150,/0/default.jpg
+label: grave
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '487'
+order: '509'
 layout: index_item
 collection: index2
 ---

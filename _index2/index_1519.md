@@ -2,9 +2,8 @@
 pid: index_1519
 volume: Volume 3
 image_number: '21'
-head: fort
-entry: "<a href='/digital-beehive/alpha2/alpha_0345/'>a</a>|<a href='/digital-beehive/num2/num_0338/'>298
-  [Fortress]</a>"
+head: friend union
+entry: "<a href='/digital-beehive/num6/num_1816/'>1300 [Union of Friends]</a>"
 topic:
 first_letter: F
 page:
@@ -12,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e56a26260"
+item: "#item-9428d43df"
 unparsed:
-line: 'Head: fort|Entry: a|Entry: 298 [Fortress]|#item-e56a26260'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/171,3482,468,142/full/0/default.jpg
+line: 'Head: friend union|Entry: 1300 [Union of Friends]|#item-9428d43df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/862,2456,510,62/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762744756
-sort_value: '302113482'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560783910765
+sort_value: '302122456'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/171,3482,468,142/150,/0/default.jpg
-label: fort
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/862,2456,510,62/150,/0/default.jpg
+label: friend union
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '338'
+order: '360'
 layout: index_item
 collection: index2
 ---

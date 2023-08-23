@@ -1,9 +1,9 @@
 ---
 pid: index_4364
 volume: Volume 3
-image_number: '50'
-head: to uncloath
-entry: "<a href='/digital-beehive/num9/num_2997/'>2062 [To uncloath]</a>"
+image_number: '51'
+head: vow
+entry: "<a href='/digital-beehive/num5/num_1691/'>1229 [of Vows & Promises to God]</a>"
 topic:
 first_letter: U/V
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c2df1ceed"
+item: "#item-fc3c77106"
 unparsed:
-line: 'Head: to uncloath|Entry: 2062 [To uncloath]|#item-c2df1ceed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/434,2025,583,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872737067
-sort_value: '305012025'
+line: 'Head: vow|Entry: 1229 [of Vows & Promises to God]|#item-fc3c77106'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/950,311,357,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646429998
+sort_value: '305120311'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/434,2025,583,110/150,/0/default.jpg
-label: to uncloath
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/950,311,357,146/150,/0/default.jpg
+label: vow
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '326'
+order: '387'
 layout: index_item
 collection: index5
 ---

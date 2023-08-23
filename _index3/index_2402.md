@@ -1,9 +1,9 @@
 ---
 pid: index_2402
 volume: Volume 3
-image_number: '29'
-head: Mamut
-entry: "<a href='/digital-beehive/num6/num_1841/'>1317 [Mamut]</a>"
+image_number: '30'
+head: masquerade
+entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-94133a51f"
+item: "#item-7a4a4f18b"
 unparsed:
-line: 'Head: Mamut|Entry: 1317 [Mamut]|#item-94133a51f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194354143
-sort_value: '302931232'
+line: 'Head: masquerade|Entry: 129 [Vizard]|#item-7a4a4f18b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/412,1491,564,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263864447
+sort_value: '303011491'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/150,/0/default.jpg
-label: Mamut
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/412,1491,564,121/150,/0/default.jpg
+label: masquerade
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '484'
+order: '517'
 layout: index_item
 collection: index3
 ---

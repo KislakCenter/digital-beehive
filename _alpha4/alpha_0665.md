@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0575/'>461
   [Old age]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2784/'>old age</a>"
+index: "<a href='/digital-beehive/index4/index_2740/'>old age</a>"
 item: "#item-b98f24942"
 unparsed:
 line: 'Entry: Old age|Topic: Old age|Xref: 12 [Old friends]|Xref: 461 [Old age]|Index:

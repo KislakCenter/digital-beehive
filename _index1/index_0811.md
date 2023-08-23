@@ -2,29 +2,27 @@
 pid: index_0811
 volume: Volume 3
 image_number: '14'
-head: conspiracy
-entry: "<a href='/digital-beehive/num2/num_0487/'>398 [Fifth-monarchy men]</a>|<a
-  href='/digital-beehive/num7/num_2222/'>1505 [Conspiracy]</a>"
+head: contract
+entry:
 topic:
 first_letter: C
 page:
 add:
 xref:
-see:
+see: "<a href='/digital-beehive/index1/index_0079/'>agreemt</a>"
 index:
-item: "#item-f17c19975"
+item: "#item-f5743bc2e"
 unparsed:
-line: 'Head: conspiracy|Entry: 398 [Fifth-monarchy men]|Entry: 1505 [Conspiracy]|#item-f17c19975'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1147,2334,665,125/full/0/default.jpg
+line: 'Head: contract|See: agreemt|#item-f5743bc2e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1853,549,686,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541842657
-sort_value: '301422334'
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559256587
+sort_value: '301430549'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1147,2334,665,125/150,/0/default.jpg
-label: conspiracy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1853,549,686,152/150,/0/default.jpg
+label: contract
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0810'
 layout: index_item
 collection: index1

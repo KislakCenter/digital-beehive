@@ -2,29 +2,28 @@
 pid: index_2347
 volume: Volume 3
 image_number: '29'
-head: love of the world
-entry: "<a href='/digital-beehive/alpha3/alpha_0563/'>a</a>"
+head: Mahomet
+entry: "<a href='/digital-beehive/num6/num_1798/'>1290 [Religion of Mahomet]</a>"
 topic:
-first_letter: L
+first_letter: M
 page:
 add:
 xref:
 see:
 index:
-item: "#item-1dc095897"
+item: "#item-ba533a961"
 unparsed:
-line: 'Head: love of the world|Entry: a|#item-1dc095897'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/153,2515,484,104/full/0/default.jpg
+line: 'Head: Mahomet|Entry: 1290 [Religion of Mahomet]|#item-ba533a961'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/822,3069,505,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179729749
-sort_value: '302912515'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189485263
+sort_value: '302923069'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/153,2515,484,104/150,/0/default.jpg
-label: love of the world
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/822,3069,505,144/150,/0/default.jpg
+label: Mahomet
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '429'
+order: '462'
 layout: index_item
 collection: index3
 ---

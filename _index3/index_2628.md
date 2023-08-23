@@ -1,31 +1,29 @@
 ---
 pid: index_2628
 volume: Volume 3
-image_number: '31'
-head: mystery
-entry: "<a href='/digital-beehive/alpha3/alpha_0629/'>a</a>|<a href='/digital-beehive/num5/num_1343/'>1006
-  [Mystery]</a>"
+image_number: '32'
+head: neck cloth
+entry: "<a href='/digital-beehive/num7/num_2654/'>1729 [Neck cloth]</a>"
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-569ede8f3"
+item: "#item-6682d301a"
 unparsed:
-line: 'Head: mystery|Entry: a|Entry: 1006 [Mystery]|#item-569ede8f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2768,568,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362568999
-sort_value: '303132768'
+line: 'Head: neck cloth|Entry: 1729 [Neck cloth]|#item-6682d301a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/370,3096,480,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439245651
+sort_value: '303213096'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2768,568,113/150,/0/default.jpg
-label: mystery
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/370,3096,480,140/150,/0/default.jpg
+label: neck cloth
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '710'
+order: '743'
 layout: index_item
 collection: index3
 ---

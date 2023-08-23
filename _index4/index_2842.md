@@ -2,29 +2,28 @@
 pid: index_2842
 volume: Volume 3
 image_number: '34'
-head: overthwart
-entry: 735 [PAGE_MISSING]
+head: paronomasia
+entry: "<a href='/digital-beehive/num11/num_3532/'>4835 [Paronomasia]</a>"
 topic:
-first_letter: O
+first_letter: P
 page:
 add:
 xref:
 see:
 index:
-item: "#item-7d7cae382"
+item: "#item-044f9e31c"
 unparsed:
-line: 'Head: overthwart|Entry: 735 [PAGE_MISSING]|#item-7d7cae382'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/479,1260,630,128/full/0/default.jpg
+line: 'Head: paronomasia|Entry: 4835 [Paronomasia]|#item-044f9e31c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1131,2326,638,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425271193
-sort_value: '303411260'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494414862
+sort_value: '303422326'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/479,1260,630,128/150,/0/default.jpg
-label: overthwart
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1131,2326,638,168/150,/0/default.jpg
+label: paronomasia
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0090'
+order: '0134'
 layout: index_item
 collection: index4
 ---

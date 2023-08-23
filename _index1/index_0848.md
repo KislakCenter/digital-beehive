@@ -1,9 +1,9 @@
 ---
 pid: index_0848
 volume: Volume 3
-image_number: '14'
-head: cord
-entry: "<a href='/digital-beehive/num2/num_0407/'>348 [A rope]</a>|773 [PAGE_MISSING]"
+image_number: '15'
+head: costive
+entry: "<a href='/digital-beehive/num9/num_3135/'>2191 [Costive]</a>"
 topic:
 first_letter: C
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ec09dcc16"
+item: "#item-b4529346a"
 unparsed:
-line: 'Head: cord|Entry: 348 [A rope]|Entry: 773 [PAGE_MISSING]|#item-ec09dcc16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1777,2623,548,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537560013160
-sort_value: '301432623'
+line: 'Head: costive|Entry: 2191 [Costive]|#item-b4529346a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/172,697,416,84/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974084548
+sort_value: '301510697'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1777,2623,548,114/150,/0/default.jpg
-label: cord
-location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/172,697,416,84/150,/0/default.jpg
+label: costive
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0847'
 layout: index_item
 collection: index1

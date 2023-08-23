@@ -1,9 +1,9 @@
 ---
 pid: index_4342
 volume: Volume 3
-image_number: '49'
-head: virgula divinatoria
-entry: "<a href='/digital-beehive/num6/num_1837/'>1315 [Divination]</a>"
+image_number: '51'
+head: unready
+entry: 541 [WORD_MISSING]
 topic:
 first_letter: U/V
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-5100167c8"
+item: "#item-e4c343520"
 unparsed:
-line: 'Head: virgula divinatoria|Entry: 1315 [Divination]|#item-5100167c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1634,2580,648,172/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661259446
-sort_value: '304932580'
+line: 'Head: unready|Entry: 541 [WORD_MISSING]|#item-e4c343520'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/200,565,471,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645401075
+sort_value: '305110565'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1634,2580,648,172/150,/0/default.jpg
-label: virgula divinatoria
-location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/200,565,471,162/150,/0/default.jpg
+label: unready
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '304'
+order: '365'
 layout: index_item
 collection: index5
 ---

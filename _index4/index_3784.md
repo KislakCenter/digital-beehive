@@ -1,9 +1,9 @@
 ---
 pid: index_3784
 volume: Volume 3
-image_number: '43'
-head: solecism
-entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>"
+image_number: '44'
+head: spight
+entry: "<a href='/digital-beehive/num3/num_0820/'>614 [In Spight]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-09309a132"
+item: "#item-fafec8940"
 unparsed:
-line: 'Head: solecism|Entry: 537 [Terms in didascalia]|#item-09309a132'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1585,2779,482,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586422103
-sort_value: '304332779'
+line: 'Head: spight|Entry: 614 [In Spight]|#item-fafec8940'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1088,2769,478,161/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288791345
+sort_value: '304422769'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1585,2779,482,117/150,/0/default.jpg
-label: solecism
-location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1088,2769,478,161/150,/0/default.jpg
+label: spight
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1032'
+order: '1076'
 layout: index_item
 collection: index4
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_2894
 volume: Volume 3
-image_number: '34'
-head: parsnip
-entry: "<a href='/digital-beehive/num3/num_0984/'>689 [Parsnip]</a>"
+image_number: '35'
+head: Pelagians
+entry: "<a href='/digital-beehive/num1/num_0049/'>49 [Pelagius]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-6b7640f32"
+item: "#item-3e0b30c49"
 unparsed:
-line: 'Head: parsnip|Entry: 689 [Parsnip]|#item-6b7640f32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1141,2753,488,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494535102
-sort_value: '303422753'
+line: 'Head: Pelagians|Entry: 49 [Pelagius]|#item-3e0b30c49'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/117,783,602,177/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539971857990
+sort_value: '303510783'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1141,2753,488,166/150,/0/default.jpg
-label: parsnip
-location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/117,783,602,177/150,/0/default.jpg
+label: Pelagians
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0142'
+order: '0186'
 layout: index_item
 collection: index4
 ---

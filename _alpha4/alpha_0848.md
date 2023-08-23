@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0923/'>Stratagem</a>|<a href='/digital-beehive/num5/num_1571/'>1152
   [Seducing]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3590/'>seducing</a>"
+index: "<a href='/digital-beehive/index4/index_3534/'>seducing</a>"
 item: "#item-cf90882e1"
 unparsed:
 line: 'Entry: Seducing|Topic: Seducing|Xref: Stratagem|Xref: 1152 [Seducing]|Index:

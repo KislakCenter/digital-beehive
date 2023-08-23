@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0349/'>fraud</a>|<a href='/digital-beehive/alpha4/alpha_0923/'>Stratagem</a>|<a
   href='/digital-beehive/num5/num_1688/'>1228 [Craftiness]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0893/'>craftiness</a>"
+index: "<a href='/digital-beehive/index1/index_0876/'>craftiness</a>"
 item: "#item-a392dd95e"
 unparsed:
 line: 'Entry: Craftiness|Topic: Craftiness|Xref: fraud|Xref: Stratagem|Xref: 1228

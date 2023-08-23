@@ -2,28 +2,27 @@
 pid: index_0624
 volume: Volume 3
 image_number: '12'
-head: chest
-entry: "<a href='/digital-beehive/num4/num_1100/'>871 [a Chest]</a>"
+head: chimney
+entry: "<a href='/digital-beehive/alpha1/alpha_0145/'>a</a>"
 topic:
 first_letter: C
-page:
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-8ca7db9b3"
+item: "#item-e3e3d8ebc"
 unparsed:
-line: 'Head: chest|Entry: 871 [a Chest]|#item-8ca7db9b3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1824,1508,384,108/full/0/default.jpg
+line: 'Head: chimney|Page: p.8 [Image 1.68]|Entry: a|#item-e3e3d8ebc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1818,2705,538,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459668533
-sort_value: '301231508'
+annotation_uri: http://dev.llgc.org.uk/annotation/1532461182664
+sort_value: '301232705'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1824,1508,384,108/150,/0/default.jpg
-label: chest
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1818,2705,538,124/150,/0/default.jpg
+label: chimney
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0623'
 layout: index_item
 collection: index1

@@ -2,8 +2,8 @@
 pid: index_1081
 volume: Volume 3
 image_number: '17'
-head: to disjoint
-entry: "<a href='/digital-beehive/num3/num_0771/'>593 [disjoint]</a>"
+head: distance
+entry: 748 [PAGE_MISSING]
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-f05c35345"
+item: "#item-a62cdf9ce"
 unparsed:
-line: 'Head: to disjoint|Entry: 593 [disjoint]|#item-f05c35345'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/160,1448,511,116/full/0/default.jpg
+line: 'Head: distance|Entry: 748 [PAGE_MISSING]|#item-a62cdf9ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/794,259,605,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541803986602
-sort_value: '301711448'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559843236407
+sort_value: '301720259'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/160,1448,511,116/150,/0/default.jpg
-label: to disjoint
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/794,259,605,177/150,/0/default.jpg
+label: distance
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1080'
 layout: index_item
 collection: index1

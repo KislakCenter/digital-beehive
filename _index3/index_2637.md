@@ -2,8 +2,8 @@
 pid: index_2637
 volume: Volume 3
 image_number: '32'
-head: namesake
-entry: "<a href='/digital-beehive/num3/num_0703/'>555 [Synonomasticon]</a>"
+head: neighbour
+entry: "<a href='/digital-beehive/alpha3/alpha_0641/'>a</a>|4617 [PAGE_MISSING]"
 topic:
 first_letter: N
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-c583ba989"
+item: "#item-d3ce408aa"
 unparsed:
-line: 'Head: namesake|Entry: 555 [Synonomasticon]|#item-c583ba989'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/410,226,505,148/full/0/default.jpg
+line: 'Head: neighbour|Entry: a|Entry: 4617 [PAGE_MISSING]|#item-d3ce408aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,576,665,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560436513205
-sort_value: '303210226'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441019999
+sort_value: '303220576'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/410,226,505,148/150,/0/default.jpg
-label: namesake
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,576,665,156/150,/0/default.jpg
+label: neighbour
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '719'
+order: '752'
 layout: index_item
 collection: index3
 ---

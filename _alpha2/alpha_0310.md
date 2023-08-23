@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Coward</a>|<a href='/digital-beehive/num10/num_3339/'>2366
   [Fainthearted]</a>"
 see:
-index: "<a href='/digital-beehive/index2/index_1378/'>fainthearted</a>"
+index: "<a href='/digital-beehive/index2/index_1354/'>fainthearted</a>"
 item: "#item-335e81f7c"
 unparsed:
 line: 'Entry: Faintheartedness|Topic: Faintheartedness|Xref: Coward|Xref: 2366 [Fainthearted]|Index:

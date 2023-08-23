@@ -2,29 +2,28 @@
 pid: index_2154
 volume: Volume 3
 image_number: '27'
-head: to kick
-entry: "<a href='/digital-beehive/num2/num_0483/'>396 [To Kick]</a>"
+head: lamentation
+entry: "<a href='/digital-beehive/num3/num_0679/'>539 [Lamentation]</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-94429e71d"
+item: "#item-bb8d2541a"
 unparsed:
-line: 'Head: to kick|Entry: 396 [To Kick]|#item-94429e71d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/869,378,411,164/full/0/default.jpg
+line: 'Head: lamentation|Entry: 539 [Lamentation]|#item-bb8d2541a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1576,420,590,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761230191
-sort_value: '302720378'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559834277446
+sort_value: '302730420'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/869,378,411,164/150,/0/default.jpg
-label: to kick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1576,420,590,168/150,/0/default.jpg
+label: lamentation
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '236'
+order: '269'
 layout: index_item
 collection: index3
 ---

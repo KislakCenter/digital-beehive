@@ -2,8 +2,8 @@
 pid: index_2476
 volume: Volume 3
 image_number: '30'
-head: melancholy
-entry: "<a href='/digital-beehive/alpha3/alpha_0586/'>a</a>|1847 [PAGE_MISSING]"
+head: Milton
+entry: 4786 [PAGE_MISSING]
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-54cd1ee27"
+item: "#item-b82a77c9a"
 unparsed:
-line: 'Head: melancholy|Entry: a|Entry: 1847 [PAGE_MISSING]|#item-54cd1ee27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,1253,676,153/full/0/default.jpg
+line: 'Head: Milton|Entry: 4786 [PAGE_MISSING]|#item-b82a77c9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/2122,2085,371,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268130690
-sort_value: '303021253'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274214148
+sort_value: '303032085'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,1253,676,153/150,/0/default.jpg
-label: melancholy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/2122,2085,371,120/150,/0/default.jpg
+label: Milton
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '558'
+order: '591'
 layout: index_item
 collection: index3
 ---

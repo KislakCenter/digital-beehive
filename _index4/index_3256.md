@@ -2,29 +2,28 @@
 pid: index_3256
 volume: Volume 3
 image_number: '38'
-head: to quench
-entry: 782 [PAGE_MISSING]
+head: how to read books
+entry:
 topic:
-first_letter: Q
-page:
+first_letter: R
+page: "<a href='/digital-beehive/toc/toc1_051/'>p.1 [Image 1.61]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-4b4a3949c"
+item: "#item-29108d91c"
 unparsed:
-line: 'Head: to quench|Entry: 782 [PAGE_MISSING]|#item-4b4a3949c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,439,521,137/full/0/default.jpg
+line: 'Head: how to read books|Page: p.1 [Image 1.61]|#item-29108d91c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1866,1911,642,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455041456
-sort_value: '303820439'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461332191
+sort_value: '303831911'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1176,439,521,137/150,/0/default.jpg
-label: to quench
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1866,1911,642,120/150,/0/default.jpg
+label: how to read books
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0504'
+order: '0548'
 layout: index_item
 collection: index4
 ---

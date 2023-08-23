@@ -2,8 +2,8 @@
 pid: index_3137
 volume: Volume 3
 image_number: '37'
-head: press
-entry: "<a href='/digital-beehive/num2/num_0478/'>392 [Press]</a>"
+head: to prolong
+entry: 851 [PAGE_MISSING]
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-bbadabb72"
+item: "#item-60da04bab"
 unparsed:
-line: 'Head: press|Entry: 392 [Press]|#item-bbadabb72'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/101,743,379,135/full/0/default.jpg
+line: 'Head: to prolong|Entry: 851 [PAGE_MISSING]|#item-60da04bab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,2972,468,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565204382778
-sort_value: '303710743'
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868577278
+sort_value: '303722972'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/101,743,379,135/150,/0/default.jpg
-label: press
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,2972,468,130/150,/0/default.jpg
+label: to prolong
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0385'
+order: '0429'
 layout: index_item
 collection: index4
 ---

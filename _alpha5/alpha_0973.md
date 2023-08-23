@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0402/'>Hast</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4184/'>too soon</a>"
+index: "<a href='/digital-beehive/index5/index_4121/'>too soon</a>"
 item: "#item-f03e16ad5"
 unparsed:
 line: 'Entry: Too soon|Topic: Too soon|Xref: Hast|Index: too soon|#item-f03e16ad5'

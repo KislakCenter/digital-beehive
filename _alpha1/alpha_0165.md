@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0590/'>Mercy</a>|<a href='/digital
   href='/digital-beehive/alpha1/alpha_0158/'>Comfort</a>|<a href='/digital-beehive/num6/num_2095/'>1436
   [Commiseration]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0758/'>compassion</a>"
+index: "<a href='/digital-beehive/index1/index_0744/'>compassion</a>"
 item: "#item-69f0cc6f4"
 unparsed:
 line: 'Entry: Compassion|Topic: Compassion|Xref: Mercy|Xref: Quarter|Xref: misery|Xref:

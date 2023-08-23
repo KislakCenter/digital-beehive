@@ -2,29 +2,28 @@
 pid: index_4274
 volume: Volume 3
 image_number: '49'
-head: twilight
-entry: 759 [PAGE_MISSING]
+head: vision
+entry: "<a href='/digital-beehive/num2/num_0503/'>409 [Vision]</a>"
 topic:
-first_letter: T
+first_letter: U/V
 page:
 add:
 xref:
 see:
 index:
-item: "#item-74f07fb45"
+item: "#item-ebfa2d080"
 unparsed:
-line: 'Head: twilight|Entry: 759 [PAGE_MISSING]|#item-74f07fb45'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/233,2361,449,174/full/0/default.jpg
+line: 'Head: vision|Entry: 409 [Vision]|#item-ebfa2d080'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,2752,414,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656942800
-sort_value: '304912361'
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661289432
+sort_value: '304932752'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/233,2361,449,174/150,/0/default.jpg
-label: twilight
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,2752,414,142/150,/0/default.jpg
+label: vision
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '236'
+order: '297'
 layout: index_item
 collection: index5
 ---

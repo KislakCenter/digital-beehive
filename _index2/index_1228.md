@@ -2,29 +2,29 @@
 pid: index_1228
 volume: Volume 3
 image_number: '18'
-head: elope
-entry:
+head: to endure
+entry: "<a href='/digital-beehive/num6/num_1976/'>1383 [To bear : endure]</a>|<a href='/digital-beehive/num4/num_1313/'>983
+  [To Endure]</a>"
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3471/'>run away</a>"
+see:
 index:
-item: "#item-17736a732"
+item: "#item-eee08d62b"
 unparsed:
-line: 'Head: elope|See: run away|#item-17736a732'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1150,2778,564,164/full/0/default.jpg
+line: 'Head: to endure|Entry: 1383 [To bear : endure]|Entry: 983 [To Endure]|#item-eee08d62b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1832,1237,626,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559680033554
-sort_value: '301822778'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559755497808
+sort_value: '301831237'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1150,2778,564,164/150,/0/default.jpg
-label: elope
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1832,1237,626,120/150,/0/default.jpg
+label: to endure
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '047'
+order: '069'
 layout: index_item
 collection: index2
 ---

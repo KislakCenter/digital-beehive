@@ -2,29 +2,28 @@
 pid: index_2173
 volume: Volume 3
 image_number: '27'
-head: knight errant
-entry: "<a href='/digital-beehive/num7/num_2389/'>1591 [A Knight Errant]</a>"
+head: to last or endure
+entry: "<a href='/digital-beehive/alpha3/alpha_0518/'>a</a>"
 topic:
-first_letter: K
+first_letter: L
 page:
 add:
 xref:
 see:
 index:
-item: "#item-9ec4c70b2"
+item: "#item-b403e920b"
 unparsed:
-line: 'Head: knight errant|Entry: 1591 [A Knight Errant]|#item-9ec4c70b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/834,2172,599,163/full/0/default.jpg
+line: 'Head: to last or endure|Entry: a|#item-b403e920b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,2131,596,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762579111
-sort_value: '302722172'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836068046
+sort_value: '302732131'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/834,2172,599,163/150,/0/default.jpg
-label: knight errant
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1521,2131,596,133/150,/0/default.jpg
+label: to last or endure
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '255'
+order: '288'
 layout: index_item
 collection: index3
 ---

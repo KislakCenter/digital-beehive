@@ -1,30 +1,29 @@
 ---
 pid: index_4647
 volume: Volume 3
-image_number: '53'
-head: yet
-entry: "<a href='/digital-beehive/num2/num_0457/'>379 [Yet]</a>"
+image_number: '54'
+head: Parc[ae]
+entry: 4541 [PAGE_MISSING]
 topic:
-first_letter: Y
+first_letter: insertion
 page:
 add:
 xref:
 see:
 index:
-item: "#item-bf0ee6049"
+item: "#item-7eb1c8b58"
 unparsed:
-line: 'Head: yet|Entry: 379 [Yet]|#item-bf0ee6049'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1595,2498,295,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799261351
-sort_value: '305332498'
+line: 'Type: Index|Insertion: [:51.]|Head: Parc[ae]|Entry: 4541 [PAGE_MISSING]|#item-7eb1c8b58'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1762,726,537,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956405881
+sort_value: '305430726'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1595,2498,295,118/150,/0/default.jpg
-label: yet
-location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1762,726,537,136/150,/0/default.jpg
+label: Parc[ae]
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '609'
+order: '670'
 layout: index_item
 collection: index5
 ---

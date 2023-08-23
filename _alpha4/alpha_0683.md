@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num6/num_1805/'>1293 [Paris]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2883/'>Paris</a>"
+index: "<a href='/digital-beehive/index4/index_2836/'>Paris</a>"
 item: "#item-379a4ca51"
 unparsed:
 line: 'Entry: Paris|Topic: Paris|Xref: 1293 [Paris]|Index: Paris|#item-379a4ca51'

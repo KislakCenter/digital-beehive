@@ -1,9 +1,9 @@
 ---
 pid: index_3870
 volume: Volume 3
-image_number: '44'
-head: stable
-entry: 827 [PAGE_MISSING]
+image_number: '45'
+head: to strangle
+entry: "<a href='/digital-beehive/num4/num_1123/'>881 [Hanging]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-0d36dbf86"
+item: "#item-23a5058cd"
 unparsed:
-line: 'Head: stable|Entry: 827 [PAGE_MISSING]|#item-0d36dbf86'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1822,2389,409,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530105828190
-sort_value: '304432389'
+line: 'Head: to strangle|Entry: 881 [Hanging]|#item-23a5058cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,1612,487,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530461686613
+sort_value: '304521612'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1822,2389,409,105/150,/0/default.jpg
-label: stable
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,1612,487,132/150,/0/default.jpg
+label: to strangle
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1118'
+order: '1162'
 layout: index_item
 collection: index4
 ---

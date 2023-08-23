@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2051/'>inn & in[n]keeper</a>"
+index: "<a href='/digital-beehive/index3/index_2016/'>inn & in[n]keeper</a>"
 item: "#item-223d88960"
 unparsed:
 line: 'Entry: Inn & Innkeeper|Topic: Inn & Innkeeper|Xref: 201 [Taverns]|Index: inn

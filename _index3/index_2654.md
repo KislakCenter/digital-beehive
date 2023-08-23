@@ -2,29 +2,29 @@
 pid: index_2654
 volume: Volume 3
 image_number: '32'
-head: natural light
-entry:
+head: new terms
+entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>|<a
+  href='/digital-beehive/num6/num_1938/'>1364 [Casuists]</a>"
 topic:
 first_letter: N
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index4/index_3310/'>reason</a>"
+see:
 index:
-item: "#item-a6fabe136"
+item: "#item-42851bcde"
 unparsed:
-line: 'Head: natural light|See: reason|#item-a6fabe136'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/389,1713,673,106/full/0/default.jpg
+line: 'Head: new terms|Entry: 537 [Terms in didascalia]|Entry: 1364 [Casuists]|#item-42851bcde'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1136,2111,634,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437986580
-sort_value: '303211713'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442557379
+sort_value: '303222111'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/389,1713,673,106/150,/0/default.jpg
-label: natural light
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1136,2111,634,80/150,/0/default.jpg
+label: new terms
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '736'
+order: '769'
 layout: index_item
 collection: index3
 ---

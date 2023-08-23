@@ -2,8 +2,8 @@
 pid: index_1124
 volume: Volume 3
 image_number: '17'
-head: doctrine false
-entry: "<a href='/digital-beehive/num2/num_0452/'>373 [Heterodox]</a>"
+head: Drawing near to God
+entry: "<a href='/digital-beehive/num10/num_3367/'>2394 [Coming to God]</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-45ffef8e6"
+item: "#item-07c81762e"
 unparsed:
-line: 'Head: doctrine false|Entry: 373 [Heterodox]|#item-45ffef8e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/797,2713,464,137/full/0/default.jpg
+line: 'Head: Drawing near to God|Entry: 2394 [Coming to God]|#item-07c81762e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1532,1533,641,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367058287
-sort_value: '301722713'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560451874199
+sort_value: '301731533'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/797,2713,464,137/150,/0/default.jpg
-label: doctrine false
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1532,1533,641,80/150,/0/default.jpg
+label: Drawing near to God
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1123'
 layout: index_item
 collection: index1

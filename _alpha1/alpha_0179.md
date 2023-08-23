@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>|<a href='/digital-beehive/num4/num_1171/'>901
   [Contradiction]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0828/'>contradiction</a>"
+index: "<a href='/digital-beehive/index1/index_0812/'>contradiction</a>"
 item: "#item-ecfae9f9c"
 unparsed:
 line: 'Entry: Contradiction|Topic: Contradiction|Xref: 201 [Taverns]|Xref: 901 [Contradiction]|Index:

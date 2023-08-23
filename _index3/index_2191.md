@@ -1,9 +1,9 @@
 ---
 pid: index_2191
 volume: Volume 3
-image_number: '27'
-head: lamp
-entry: "<a href='/digital-beehive/num7/num_2402/'>1597 [Lamps]</a>"
+image_number: '28'
+head: Lawrence
+entry: "<a href='/digital-beehive/num3/num_0819/'>613 [St. Lawrence]</a>"
 topic:
 first_letter: L
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-49795a895"
+item: "#item-cd8f623b9"
 unparsed:
-line: 'Head: lamp|Entry: 1597 [Lamps]|#item-49795a895'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1573,545,352,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559834375245
-sort_value: '302730545'
+line: 'Head: Lawrence|Entry: 613 [St. Lawrence]|#item-cd8f623b9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/401,564,471,84/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559841249839
+sort_value: '302810564'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1573,545,352,139/150,/0/default.jpg
-label: lamp
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/401,564,471,84/150,/0/default.jpg
+label: Lawrence
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '273'
+order: '306'
 layout: index_item
 collection: index3
 ---

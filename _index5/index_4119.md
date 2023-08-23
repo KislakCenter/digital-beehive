@@ -1,9 +1,9 @@
 ---
 pid: index_4119
 volume: Volume 3
-image_number: '47'
-head: thirst
-entry: "<a href='/digital-beehive/alpha5/alpha_0955/'>a</a>"
+image_number: '48'
+head: too much liberty
+entry: "<a href='/digital-beehive/num3/num_0721/'>565 [too much liberty]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-37735fce9"
+item: "#item-fdae64102"
 unparsed:
-line: 'Head: thirst|Entry: a|#item-37735fce9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/919,1890,352,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529517315139
-sort_value: '304721890'
+line: 'Head: too much liberty|Entry: 565 [too much liberty]|#item-fdae64102'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/452,1760,581,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274987579
+sort_value: '304811760'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/919,1890,352,101/150,/0/default.jpg
-label: thirst
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/452,1760,581,129/150,/0/default.jpg
+label: too much liberty
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '081'
+order: '142'
 layout: index_item
 collection: index5
 ---

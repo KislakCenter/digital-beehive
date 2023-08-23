@@ -1,30 +1,29 @@
 ---
 pid: index_2614
 volume: Volume 3
-image_number: '31'
-head: mum[m]y
-entry: "<a href='/digital-beehive/num7/num_2472/'>1629 [Mummy]</a>"
+image_number: '32'
+head: natural fool
+entry: 804 [PAGE_MISSING]
 topic:
-first_letter: M
+first_letter: N
 page:
 add:
 xref:
 see:
 index:
-item: "#item-a5afcd9ad"
+item: "#item-b423fb45d"
 unparsed:
-line: 'Head: mum[m]y|Entry: 1629 [Mummy]|#item-a5afcd9ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1564,1363,416,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361281753
-sort_value: '303131363'
+line: 'Head: natural fool|Entry: 804 [PAGE_MISSING]|#item-b423fb45d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1837,415,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438156836
+sort_value: '303211837'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1564,1363,416,138/150,/0/default.jpg
-label: mum[m]y
-location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1837,415,102/150,/0/default.jpg
+label: natural fool
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '696'
+order: '729'
 layout: index_item
 collection: index3
 ---

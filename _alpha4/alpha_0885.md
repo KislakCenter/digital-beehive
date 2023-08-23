@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0623/'>Musick</a>|<a href='/digital-beehive/alpha4/alpha_0761/'>Psalm</a>|<a
   href='/digital-beehive/num2/num_0604/'>483 [Singing]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3726/'>Singing</a>"
+index: "<a href='/digital-beehive/index4/index_3669/'>Singing</a>"
 item: "#item-d8a54e24a"
 unparsed:
 line: 'Entry: Singing|Topic: Singing|Xref: Musick|Xref: Psalm|Xref: 483 [Singing]|Index:

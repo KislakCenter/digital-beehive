@@ -1,9 +1,9 @@
 ---
 pid: index_1053
 volume: Volume 3
-image_number: '16'
-head: diminishing
-entry: 736 [PAGE_MISSING]
+image_number: '17'
+head: discretness
+entry: "<a href='/digital-beehive/alpha1/alpha_0244/'>a</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-7a50128ba"
+item: "#item-d8e6d46ba"
 unparsed:
-line: 'Head: diminishing|Entry: 736 [PAGE_MISSING]|#item-7a50128ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1813,2026,544,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783887625
-sort_value: '301632026'
+line: 'Head: discretness|Entry: a|#item-d8e6d46ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/158,737,480,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175223087
+sort_value: '301710737'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1813,2026,544,149/150,/0/default.jpg
-label: diminishing
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/158,737,480,150/150,/0/default.jpg
+label: discretness
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1052'
 layout: index_item
 collection: index1

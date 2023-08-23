@@ -1,30 +1,29 @@
 ---
 pid: index_4210
 volume: Volume 3
-image_number: '48'
-head: tragedy
-entry:
+image_number: '49'
+head: twins
+entry: 756 [PAGE_MISSING]
 topic:
 first_letter: T
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0729/'>comedy</a>"
+see:
 index:
-item: "#item-49716a4e6"
+item: "#item-82230af46"
 unparsed:
-line: 'Head: tragedy|See: comedy|#item-49716a4e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1122,1515,549,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561485145194
-sort_value: '304821515'
+line: 'Head: twins|Entry: 756 [PAGE_MISSING]|#item-82230af46'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/212,2547,383,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656983426
+sort_value: '304912547'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1122,1515,549,167/150,/0/default.jpg
-label: tragedy
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/212,2547,383,104/150,/0/default.jpg
+label: twins
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '172'
+order: '233'
 layout: index_item
 collection: index5
 ---

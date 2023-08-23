@@ -2,8 +2,8 @@
 pid: index_1739
 volume: Volume 3
 image_number: '23'
-head: half
-entry: 823 [PAGE_MISSING]
+head: haughtiness
+entry: "<a href='/digital-beehive/num5/num_1678/'>1224 [Insolence]</a>"
 topic:
 first_letter: H
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-305ab2a99"
+item: "#item-ea505f647"
 unparsed:
-line: 'Head: half|Entry: 823 [PAGE_MISSING]|#item-305ab2a99'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/861,247,322,132/full/0/default.jpg
+line: 'Head: haughtiness|Entry: 1224 [Insolence]|#item-ea505f647'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/818,3187,551,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235659023
-sort_value: '302320247'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241414503
+sort_value: '302323187'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/861,247,322,132/150,/0/default.jpg
-label: half
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/818,3187,551,141/150,/0/default.jpg
+label: haughtiness
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '558'
+order: '580'
 layout: index_item
 collection: index2
 ---

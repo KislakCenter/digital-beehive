@@ -2,10 +2,8 @@
 pid: index_2037
 volume: Volume 3
 image_number: '26'
-head: influence
-entry: "<a href='/digital-beehive/num6/num_2144/'>1460 [Influence of the Planets]</a>|<a
-  href='/digital-beehive/num7/num_2393/'>1593 [Influence]</a>|<a href='/digital-beehive/num9/num_3090/'>2148
-  [Influence]</a>"
+head: integrity
+entry: "<a href='/digital-beehive/num6/num_1840/'>1317 [Sincerity]</a>"
 topic:
 first_letter: I/J
 page:
@@ -13,21 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d636e54e0"
+item: "#item-1b1f86c83"
 unparsed:
-line: 'Head: influence|Entry: 1460 [Influence of the Planets]|Entry: 1593 [Influence]|Entry:
-  2148 [Influence]|#item-d636e54e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/423,2053,776,140/full/0/default.jpg
+line: 'Head: integrity|Entry: 1317 [Sincerity]|#item-1b1f86c83'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1151,2445,479,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744757556
-sort_value: '302612053'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748873357
+sort_value: '302622445'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/423,2053,776,140/150,/0/default.jpg
-label: influence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1151,2445,479,124/150,/0/default.jpg
+label: integrity
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '119'
+order: '152'
 layout: index_item
 collection: index3
 ---

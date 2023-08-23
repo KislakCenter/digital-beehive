@@ -1,9 +1,9 @@
 ---
 pid: index_1475
 volume: Volume 3
-image_number: '20'
-head: flea
-entry: "<a href='/digital-beehive/alpha2/alpha_0333/'>a</a>"
+image_number: '21'
+head: forbidden books
+entry: 4761 [PAGE_MISSING]
 topic:
 first_letter: F
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d275ed091"
+item: "#item-bbd7cdcf8"
 unparsed:
-line: 'Head: flea|Entry: a|#item-d275ed091'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1805,2608,364,193/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562616373566
-sort_value: '302032608'
+line: 'Head: forbidden books|Entry: 4761 [PAGE_MISSING]|#item-bbd7cdcf8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/177,1817,504,83/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531501870961
+sort_value: '302111817'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1805,2608,364,193/150,/0/default.jpg
-label: flea
-location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/177,1817,504,83/150,/0/default.jpg
+label: forbidden books
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '294'
+order: '316'
 layout: index_item
 collection: index2
 ---

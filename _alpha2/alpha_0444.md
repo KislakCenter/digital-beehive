@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0315/'>falshood</a>|793 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index2/index_1915/'>hypocrisy</a>"
+index: "<a href='/digital-beehive/index2/index_1882/'>hypocrisy</a>"
 item: "#item-5821466fa"
 unparsed:
 line: 'Entry: Hypocrisy|Topic: Hypocrisy|Xref: falshood|Xref: 793 [PAGE_MISSING]|Index:

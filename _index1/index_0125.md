@@ -2,9 +2,8 @@
 pid: index_0125
 volume: Volume 3
 image_number: '8'
-head: amending
-entry: "<a href='/digital-beehive/alpha1/alpha_0025/'>a</a>|<a href='/digital-beehive/num2/num_0579/'>464
-  [Amending]</a>|<a href='/digital-beehive/num10/num_3382/'>2408 [Amendment]</a>"
+head: among
+entry: 795 [PAGE_MISSING]
 topic:
 first_letter: A
 page:
@@ -12,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-97556cd88"
+item: "#item-1a81cb6ea"
 unparsed:
-line: 'Head: amending|Entry: a|Entry: 464 [Amending]|Entry: 2408 [Amendment]|#item-97556cd88'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/406,307,706,167/full/0/default.jpg
+line: 'Head: among|Entry: 795 [PAGE_MISSING]|#item-1a81cb6ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/378,677,506,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564757561302
-sort_value: '300810307'
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757690888
+sort_value: '300810677'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/406,307,706,167/150,/0/default.jpg
-label: amending
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/378,677,506,150/150,/0/default.jpg
+label: among
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0124'
 layout: index_item
 collection: index1

@@ -2,8 +2,9 @@
 pid: index_2053
 volume: Volume 3
 image_number: '26'
-head: Innovations
-entry: "<a href='/digital-beehive/num3/num_0657/'>524 [Novelty]</a>|4705 [PAGE_MISSING]"
+head: in vain
+entry: "<a href='/digital-beehive/num3/num_0924/'>666 [In vain]</a>|<a href='/digital-beehive/num7/num_2317/'>1553
+  [In vain]</a>"
 topic:
 first_letter: I/J
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-3812e78d2"
+item: "#item-abc8a6b6b"
 unparsed:
-line: 'Head: Innovations|Entry: 524 [Novelty]|Entry: 4705 [PAGE_MISSING]|#item-3812e78d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/402,3617,731,117/full/0/default.jpg
+line: 'Head: in vain|Entry: 666 [In vain]|Entry: 1553 [In vain]|#item-abc8a6b6b|'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1858,766,556,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559746017369
-sort_value: '302613617'
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750990240
+sort_value: '302630766'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/402,3617,731,117/150,/0/default.jpg
-label: Innovations
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1858,766,556,113/150,/0/default.jpg
+label: in vain
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '135'
+order: '168'
 layout: index_item
 collection: index3
 ---

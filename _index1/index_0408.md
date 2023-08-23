@@ -2,8 +2,8 @@
 pid: index_0408
 volume: Volume 3
 image_number: '10'
-head: bonfire
-entry: "<a href='/digital-beehive/num5/num_1424/'>1058 [Bonfires]</a>"
+head: borrowing
+entry: "<a href='/digital-beehive/alpha1/alpha_0095/'>a</a>"
 topic:
 first_letter: B
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-b744bf8c9"
+item: "#item-b8c27f6cf"
 unparsed:
-line: 'Head: bonfire|Entry: 1058 [Bonfires]|#item-b744bf8c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1804,1145,407,119/full/0/default.jpg
+line: 'Head: borrowing|Entry: a|#item-b8c27f6cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,2132,465,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531152735874
-sort_value: '301031145'
+annotation_uri: http://dev.llgc.org.uk/annotation/1531416504240
+sort_value: '301032132'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1804,1145,407,119/150,/0/default.jpg
-label: bonfire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1779,2132,465,164/150,/0/default.jpg
+label: borrowing
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0407'
 layout: index_item
 collection: index1

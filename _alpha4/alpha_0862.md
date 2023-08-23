@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num1/num_0110/'>106 [Serjant or Catchpoll]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_3641/'>serjeant</a>"
+index: "<a href='/digital-beehive/index4/index_3585/'>serjeant</a>"
 item: "#item-93ac3f69f"
 unparsed:
 line: 'Entry: Serjeant|Topic: Serjeant|Xref: 106 [Serjant or Catchpoll]|Index: serjeant|#item-93ac3f69f'

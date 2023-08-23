@@ -2,28 +2,27 @@
 pid: index_1099
 volume: Volume 3
 image_number: '17'
-head: to dissolve
-entry:
+head: to do
+entry: "<a href='/digital-beehive/num4/num_1129/'>883 [To act]</a>"
 topic:
 first_letter: D
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index3/index_2478/'>melt</a>"
+see:
 index:
-item: "#item-951f871b7"
+item: "#item-cfbc63fa7"
 unparsed:
-line: 'Head: to dissolve|See: melt|#item-951f871b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/127,3395,600,143/full/0/default.jpg
+line: 'Head: to do|Entry: 883 [To act]|#item-cfbc63fa7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,2167,396,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804761519
-sort_value: '301713395'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560366695818
+sort_value: '301722167'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/127,3395,600,143/150,/0/default.jpg
-label: to dissolve
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/783,2167,396,140/150,/0/default.jpg
+label: to do
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1098'
 layout: index_item
 collection: index1

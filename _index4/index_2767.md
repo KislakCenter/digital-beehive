@@ -2,8 +2,9 @@
 pid: index_2767
 volume: Volume 3
 image_number: '33'
-head: to occupy
-entry: "<a href='/digital-beehive/num1/num_0257/'>239 [Possession]</a>"
+head: oppression
+entry: "<a href='/digital-beehive/num1/num_0206/'>197 [Oppression]</a>|<a href='/digital-beehive/num2/num_0592/'>474
+  [Oppression]</a>|<a href='/digital-beehive/num10/num_3248/'>2287 [Oppressions]</a>"
 topic:
 first_letter: O
 page:
@@ -11,20 +12,20 @@ add:
 xref:
 see:
 index:
-item: "#item-c296b4ec9"
+item: "#item-80c2dc60e"
 unparsed:
-line: 'Head: to occupy|Entry: 239 [Possession]|#item-c296b4ec9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/102,3130,645,186/full/0/default.jpg
+line: 'Head: oppression|Entry: 197 [Oppression]|Entry: 474 [Oppression]|Entry: 2287
+  [Oppressions]|#item-80c2dc60e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1479,1143,734,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347623287
-sort_value: '303313130'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161687452
+sort_value: '303331143'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/102,3130,645,186/150,/0/default.jpg
-label: to occupy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1479,1143,734,156/150,/0/default.jpg
+label: oppression
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0015'
+order: '0059'
 layout: index_item
 collection: index4
 ---

@@ -1,9 +1,9 @@
 ---
 pid: index_3125
 volume: Volume 3
-image_number: '36'
-head: preoccupation
-entry: "<a href='/digital-beehive/num3/num_0802/'>606 [Preoccupation]</a>"
+image_number: '37'
+head: procreation
+entry: "<a href='/digital-beehive/num7/num_2403/'>1597 [Generation]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-aae7dd8fd"
+item: "#item-020311f1e"
 unparsed:
-line: 'Head: preoccupation|Entry: 606 [Preoccupation]|#item-aae7dd8fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1860,2660,639,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565202199674
-sort_value: '303632660'
+line: 'Head: procreation|Entry: 1597 [Generation]|#item-020311f1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/787,1663,598,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868043693
+sort_value: '303721663'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1860,2660,639,117/150,/0/default.jpg
-label: preoccupation
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/787,1663,598,122/150,/0/default.jpg
+label: procreation
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0373'
+order: '0417'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,30 @@
 pid: index_4488
 volume: Volume 3
 image_number: '52'
-head: watch
-entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/num6/num_1958/'>1374 [Clock]</a>
+head: wind
+entry: "<a href='/digital-beehive/alpha5/alpha_1042/'>a</a>|<a href='/digital-beehive/num6/num_1764/'>1271
+  [Wind]</a>|<a href='/digital-beehive/num9/num_3102/'>2160 [Wind]</a>"
 topic:
 first_letter: W
-page:
+page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"
 add:
 xref:
-see: "<a href='/digital-beehive/index1/index_0696/'>Clock</a>"
+see:
 index:
-item: "#item-86e74d2b7"
+item: "#item-e86a4a246"
 unparsed:
-line: 'Head: watch|See: Clock|Entry: 758 [PAGE_MISSING]|Entry: 1374 [Clock]|#item-86e74d2b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/530,898,579,160/full/0/default.jpg
+line: 'Head: wind|Page: p.29 [Image 1.89]|Entry: a|Entry: 1271 [Wind]|Entry: 2160
+  [Wind]|#item-e86a4a246'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1786,3263,728,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960247640
-sort_value: '305210898'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972707160
+sort_value: '305233263'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/530,898,579,160/150,/0/default.jpg
-label: watch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1786,3263,728,171/150,/0/default.jpg
+label: wind
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '450'
+order: '511'
 layout: index_item
 collection: index5
 ---

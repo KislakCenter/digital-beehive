@@ -1,9 +1,9 @@
 ---
 pid: index_3088
 volume: Volume 3
-image_number: '36'
-head: posterity
-entry: "<a href='/digital-beehive/alpha4/alpha_0724/'>a</a>"
+image_number: '37'
+head: to press souldiers
+entry: "<a href='/digital-beehive/num2/num_0614/'>490 [To list souldiers]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-cd0e8a50a"
+item: "#item-5c7d4ef26"
 unparsed:
-line: 'Head: posterity|Entry: a|#item-cd0e8a50a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1155,2073,483,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438899071
-sort_value: '303622073'
+line: 'Head: to press souldiers|Entry: 490 [To list souldiers]|#item-5c7d4ef26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/106,809,671,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866106434
+sort_value: '303710809'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1155,2073,483,113/150,/0/default.jpg
-label: posterity
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/106,809,671,108/150,/0/default.jpg
+label: to press souldiers
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0336'
+order: '0380'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,27 @@
 pid: index_0921
 volume: Volume 3
 image_number: '15'
-head: crystal
-entry: "<a href='/digital-beehive/num7/num_2508/'>1645 [Chrystall]</a>"
+head: dairy
+entry: "<a href='/digital-beehive/num6/num_2091/'>1434 [Milk]</a>"
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
 see:
 index:
-item: "#item-3dc168891"
+item: "#item-13cb439f6"
 unparsed:
-line: 'Head: crystal|Entry: 1645 [Chrystall]|#item-3dc168891'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/855,2896,428,134/full/0/default.jpg
+line: 'Head: dairy|Entry: 1434 [Milk]|#item-13cb439f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1507,914,409,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577911644
-sort_value: '301522896'
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390933289
+sort_value: '301530914'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/855,2896,428,134/150,/0/default.jpg
-label: crystal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1507,914,409,93/150,/0/default.jpg
+label: dairy
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0920'
 layout: index_item
 collection: index1

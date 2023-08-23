@@ -1,9 +1,10 @@
 ---
 pid: index_1574
 volume: Volume 3
-image_number: '21'
-head: Galenus
-entry: "<a href='/digital-beehive/num9/num_3173/'>2228 [Noia Medicorum]</a>"
+image_number: '22'
+head: Germany
+entry: "<a href='/digital-beehive/alpha2/alpha_0361/'>a</a>|<a href='/digital-beehive/num6/num_1966/'>1378
+  [Germany]</a>"
 topic:
 first_letter: G
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-e4f0eda64"
+item: "#item-a7fda94d8"
 unparsed:
-line: 'Head: Galenus|Entry: 2228 [Noia Medicorum]|#item-e4f0eda64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1556,2054,430,79/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786520040
-sort_value: '302132054'
+line: 'Head: Germany|Entry: a|Entry: 1378 [Germany]|#item-a7fda94d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/424,1025,543,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042691372
+sort_value: '302211025'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1556,2054,430,79/150,/0/default.jpg
-label: Galenus
-location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/424,1025,543,123/150,/0/default.jpg
+label: Germany
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '393'
+order: '415'
 layout: index_item
 collection: index2
 ---

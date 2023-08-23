@@ -1,9 +1,9 @@
 ---
 pid: index_2990
 volume: Volume 3
-image_number: '35'
-head: phrase
-entry: "<a href='/digital-beehive/num3/num_0677/'>537 [Terms in didascalia]</a>"
+image_number: '36'
+head: plausible
+entry: "<a href='/digital-beehive/num1/num_0097/'>94 [a Plausible man]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ef576384a"
+item: "#item-acf4a12ff"
 unparsed:
-line: 'Head: phrase|Entry: 537 [Terms in didascalia]|#item-ef576384a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/862,3064,429,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974903556
-sort_value: '303523064'
+line: 'Head: plausible|Entry: 94 [a Plausible man]|#item-acf4a12ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/462,605,516,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1542052862912
+sort_value: '303610605'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/862,3064,429,154/150,/0/default.jpg
-label: phrase
-location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/462,605,516,144/150,/0/default.jpg
+label: plausible
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0238'
+order: '0282'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0981/'>Travelling</a>|<a href='/digital-beehive/num3/num_0841/'>623
   [Vagabond]</a>"
 see:
-index: "<a href='/digital-beehive/index5/index_4287/'>vagabonds</a>"
+index: "<a href='/digital-beehive/index5/index_4221/'>vagabonds</a>"
 item: "#item-f345db47e"
 unparsed:
 line: 'Entry: Vagabonds|Topic: Vagabonds|Xref: Travelling|Xref: 623 [Vagabond]|Index:

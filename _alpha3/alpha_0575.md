@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0135/'>Celibate</a>|<a href='/digital-beehive/num2/num_0322/'>285
   [Marriage]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2432/'>marriage</a>"
+index: "<a href='/digital-beehive/index3/index_2392/'>marriage</a>"
 item: "#item-315abb275"
 unparsed:
 line: 'Entry: Marriage|Topic: Marriage|Xref: Celibate|Xref: 285 [Marriage]|Index:

@@ -1,9 +1,9 @@
 ---
 pid: index_2103
 volume: Volume 3
-image_number: '26'
-head: John Evang
-entry: "<a href='/digital-beehive/num10/num_3380/'>2406 [John the Evangelist]</a>"
+image_number: '27'
+head: Julianus apostata
+entry: 4650 [PAGE_MISSING]
 topic:
 first_letter: I/J
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-9d69593d5"
+item: "#item-700478724"
 unparsed:
-line: 'Head: John Evang|Entry: 2406 [John the Evangelist]|#item-9d69593d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1844,2219,524,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559752062527
-sort_value: '302632219'
+line: 'Head: Julianus apostata|Entry: 4650 [PAGE_MISSING]|#item-700478724'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/159,2209,679,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758545067
+sort_value: '302712209'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1844,2219,524,128/150,/0/default.jpg
-label: John Evang
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/159,2209,679,106/150,/0/default.jpg
+label: Julianus apostata
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '185'
+order: '218'
 layout: index_item
 collection: index3
 ---

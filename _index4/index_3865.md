@@ -1,9 +1,9 @@
 ---
 pid: index_3865
 volume: Volume 3
-image_number: '44'
-head: sprinkling
-entry: "<a href='/digital-beehive/num8/num_2810/'>1914 [Sprinkling]</a>"
+image_number: '45'
+head: to strain a sinew
+entry: "<a href='/digital-beehive/num10/num_3236/'>2275 [Luxation]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d2bdb60b3"
+item: "#item-311db591c"
 unparsed:
-line: 'Head: sprinkling|Entry: 1914 [Sprinkling]|#item-d2bdb60b3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1804,1883,471,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565289075347
-sort_value: '304431883'
+line: 'Head: to strain a sinew|Entry: 2275 [Luxation]|#item-311db591c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/882,1083,585,89/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290651344
+sort_value: '304521083'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1804,1883,471,127/150,/0/default.jpg
-label: sprinkling
-location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/882,1083,585,89/150,/0/default.jpg
+label: to strain a sinew
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '1113'
+order: '1157'
 layout: index_item
 collection: index4
 ---

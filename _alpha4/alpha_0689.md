@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0463/'>Impart</a>|<a href='/digita
   href='/digital-beehive/alpha4/alpha_0789/'>Regarding of persons</a>|<a href='/digital-beehive/num1/num_0102/'>99
   [A partial man]</a>"
 see:
-index: "<a href='/digital-beehive/index4/index_2899/'>partiality</a>"
+index: "<a href='/digital-beehive/index4/index_2852/'>partiality</a>"
 item: "#item-0857cafe1"
 unparsed:
 line: 'Entry: Partiality|Topic: Partiality|Xref: Impart|Xref: Neutrality|Xref: Regarding

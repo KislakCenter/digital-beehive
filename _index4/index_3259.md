@@ -2,31 +2,31 @@
 pid: index_3259
 volume: Volume 3
 image_number: '38'
-head: quick
-entry: "<a href='/digital-beehive/alpha4/alpha_0772/'>a</a>|<a href='/digital-beehive/num11/num_3568/'>4872
-  [Quick]</a>"
+head: reason
+entry: "<a href='/digital-beehive/alpha4/alpha_0781/'>a</a>|<a href='/digital-beehive/num6/num_1746/'>1258
+  [Reason]</a>|<a href='/digital-beehive/num7/num_2612/'>1694 [Reason]</a>|<a href='/digital-beehive/num10/num_3451/'>4466
+  [[WORD_MISSING]]</a>"
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-5f1cbc8f4"
+item: "#item-813035c2a"
 unparsed:
-line: 'Head: quick|Entry: a|Entry: 4872 [Quick]|#item-5f1cbc8f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1185,799,519,140/full/0/default.jpg
+line: 'Head: reason|Entry: a|Entry: 1258 [Reason]|Entry: 1694 [Reason]|Entry: 4466
+  [[WORD_MISSING]]|#item-813035c2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1863,2178,679,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455106178
-sort_value: '303820799'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461507525
+sort_value: '303832178'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1185,799,519,140/150,/0/default.jpg
-label: quick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1863,2178,679,174/150,/0/default.jpg
+label: reason
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: Pastorius appears to have written 1872 under this entry. However, he likely
-  meant to write 4872 [Quick].
-insertion_xref:
-order: '0507'
+issue:
+order: '0551'
 layout: index_item
 collection: index4
 ---

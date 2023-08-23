@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_3154/'>priesthood</a>"
+index: "<a href='/digital-beehive/index4/index_3104/'>priesthood</a>"
 item: "#item-ad8e73282"
 unparsed:
 line: 'Entry: Priesthood|Topic: Priesthood|Index: priesthood|#item-ad8e73282'

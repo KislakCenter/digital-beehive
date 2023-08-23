@@ -1,9 +1,9 @@
 ---
 pid: index_4142
 volume: Volume 3
-image_number: '47'
-head: thumb
-entry:
+image_number: '48'
+head: tower
+entry: "<a href='/digital-beehive/num3/num_0651/'>520 [Tower]</a>"
 topic:
 first_letter: T
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-00870319d"
+item: "#item-665c6db45"
 unparsed:
-line: 'Head: thumb|#item-00870319d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1598,908,254,58/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552667189818
-sort_value: '304730908'
+line: 'Head: tower|Entry: 520 [Tower]|#item-665c6db45'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1108,902,361,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561484087706
+sort_value: '304820902'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1598,908,254,58/150,/0/default.jpg
-label: thumb
-location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1108,902,361,102/150,/0/default.jpg
+label: tower
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '104'
+order: '165'
 layout: index_item
 collection: index5
 ---

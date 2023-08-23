@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index3/index_2102/'>John Bapt</a>"
+index: "<a href='/digital-beehive/index3/index_2067/'>John Bapt</a>"
 item: "#item-ab6a81988"
 unparsed:
 line: 'Entry: John the baptist|Topic: John the baptist|Index: John Bapt|#item-ab6a81988'

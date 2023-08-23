@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0747/'>Progress</a>|<a href='/digital-beehive/num3/num_0797/'>604
   [Increase]</a>"
 see:
-index: "<a href='/digital-beehive/index3/index_2008/'>increase</a>"
+index: "<a href='/digital-beehive/index3/index_1973/'>increase</a>"
 item: "#item-ecb0ab2df"
 unparsed:
 line: 'Entry: Increase|Topic: Increase|Xref: Progress|Xref: 604 [Increase]|Index:

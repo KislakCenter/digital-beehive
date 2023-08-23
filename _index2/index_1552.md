@@ -2,29 +2,28 @@
 pid: index_1552
 volume: Volume 3
 image_number: '21'
-head: frost
-entry: "<a href='/digital-beehive/num7/num_2518/'>1649 [Frost]</a>"
+head: gaping
+entry: "<a href='/digital-beehive/num3/num_1024/'>704 [to Gape]</a>"
 topic:
-first_letter: F
+first_letter: G
 page:
 add:
 xref:
 see:
 index:
-item: "#item-40ecb3b8a"
+item: "#item-dc6a1c620"
 unparsed:
-line: 'Head: frost|Entry: 1649 [Frost]|#item-40ecb3b8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/849,3210,378,153/full/0/default.jpg
+line: 'Head: gaping|Entry: 704 [to Gape]|#item-dc6a1c620'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1530,2377,470,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784499900
-sort_value: '302123210'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787120452
+sort_value: '302132377'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/849,3210,378,153/150,/0/default.jpg
-label: frost
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1530,2377,470,130/150,/0/default.jpg
+label: gaping
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '371'
+order: '393'
 layout: index_item
 collection: index2
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref:
 see:
-index: "<a href='/digital-beehive/index4/index_2888/'>parricide</a>"
+index: "<a href='/digital-beehive/index4/index_2841/'>parricide</a>"
 item: "#item-6ff19a160"
 unparsed:
 line: 'Entry: Parricidal|Topic: Parricidal|Index: parricide|#item-6ff19a160'

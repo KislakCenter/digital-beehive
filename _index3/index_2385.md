@@ -2,8 +2,8 @@
 pid: index_2385
 volume: Volume 3
 image_number: '29'
-head: Mahomet
-entry: "<a href='/digital-beehive/num6/num_1798/'>1290 [Religion of Mahomet]</a>"
+head: marigolds
+entry: "<a href='/digital-beehive/num3/num_0976/'>686 [Marigolds]</a>"
 topic:
 first_letter: M
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ba533a961"
+item: "#item-4e0711290"
 unparsed:
-line: 'Head: Mahomet|Entry: 1290 [Religion of Mahomet]|#item-ba533a961'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/822,3069,505,144/full/0/default.jpg
+line: 'Head: marigolds|Entry: 686 [Marigolds]|#item-4e0711290'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,3468,494,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560189485263
-sort_value: '302923069'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560197230520
+sort_value: '302933468'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/822,3069,505,144/150,/0/default.jpg
-label: Mahomet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1527,3468,494,157/150,/0/default.jpg
+label: marigolds
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '467'
+order: '500'
 layout: index_item
 collection: index3
 ---

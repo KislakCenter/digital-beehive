@@ -2,30 +2,29 @@
 pid: index_3263
 volume: Volume 3
 image_number: '38'
-head: quicksilver
-entry: "<a href='/digital-beehive/alpha4/alpha_0771/'>a</a>|<a href='/digital-beehive/num7/num_2344/'>1566
-  [Quick Silver]</a>|<a href='/digital-beehive/num9/num_3095/'>2153 [Mercurius]</a>"
+head: to recant
+entry: "<a href='/digital-beehive/num2/num_0519/'>418 [Renouncing]</a>|<a href='/digital-beehive/num10/num_3235/'>2275
+  [Recantation]</a>"
 topic:
-first_letter: Q
+first_letter: R
 page:
 add:
 xref:
 see:
 index:
-item: "#item-6fa3a55d2"
+item: "#item-6a07605d4"
 unparsed:
-line: 'Head: quicksilver|Entry: a|Entry: 1566 [Quick Silver]|Entry: 2153 [Mercurius]|#item-6fa3a55d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1160,1199,701,111/full/0/default.jpg
+line: 'Head: to recant|Entry: 418 [Renouncing]|Entry: 2275 [Recantation]|#item-6a07605d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1857,2643,651,229/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455224280
-sort_value: '303821199'
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461931389
+sort_value: '303832643'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1160,1199,701,111/150,/0/default.jpg
-label: quicksilver
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1857,2643,651,229/150,/0/default.jpg
+label: to recant
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0511'
+order: '0555'
 layout: index_item
 collection: index4
 ---

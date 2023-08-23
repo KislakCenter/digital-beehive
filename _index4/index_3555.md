@@ -1,9 +1,9 @@
 ---
 pid: index_3555
 volume: Volume 3
-image_number: '41'
-head: scratching
-entry: "<a href='/digital-beehive/num7/num_2536/'>1657 [Scratch]</a>"
+image_number: '42'
+head: Self deceit
+entry: "<a href='/digital-beehive/num6/num_1970/'>1380 [Self-deceit]</a>"
 topic:
 first_letter: S
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-ff751220b"
+item: "#item-ef6f3cd94"
 unparsed:
-line: 'Head: scratching|Entry: 1657 [Scratch]|#item-ff751220b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/852,2052,561,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240815336
-sort_value: '304122052'
+line: 'Head: Self deceit|Entry: 1380 [Self-deceit]|#item-ef6f3cd94'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,1014,500,76/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244197412
+sort_value: '304211014'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/852,2052,561,142/150,/0/default.jpg
-label: scratching
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,1014,500,76/150,/0/default.jpg
+label: Self deceit
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0803'
+order: '0847'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/num9/num_3100/'>2158 [Blood-letting]</a>"
 see:
-index: "<a href='/digital-beehive/index1/index_0395/'>bloodletting</a>"
+index: "<a href='/digital-beehive/index1/index_0387/'>bloodletting</a>"
 item: "#item-dd06ebe15"
 unparsed:
 line: 'Entry: Blood-letting|Topic: Blood-letting|Xref: 2158 [Blood-letting]|Index:

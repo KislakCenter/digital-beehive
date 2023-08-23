@@ -2,8 +2,8 @@
 pid: index_2948
 volume: Volume 3
 image_number: '35'
-head: pen[n]ance
-entry: "<a href='/digital-beehive/num2/num_0560/'>450 [Pennance]</a>"
+head: physicians Names
+entry: "<a href='/digital-beehive/num9/num_3173/'>2228 [Noia Medicorum]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-674cec081"
+item: "#item-c8af6cb5e"
 unparsed:
-line: 'Head: pen[n]ance|Entry: 450 [Pennance]|#item-674cec081'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/140,1587,520,127/full/0/default.jpg
+line: 'Head: physicians Names|Entry: 2228 [Noia Medicorum]|#item-c8af6cb5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/839,3464,722,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972629460
-sort_value: '303511587'
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975725437
+sort_value: '303523464'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/140,1587,520,127/150,/0/default.jpg
-label: pen[n]ance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/839,3464,722,165/150,/0/default.jpg
+label: physicians Names
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0196'
+order: '0240'
 layout: index_item
 collection: index4
 ---

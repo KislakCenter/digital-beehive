@@ -2,9 +2,9 @@
 pid: index_2760
 volume: Volume 3
 image_number: '33'
-head: obscurity
-entry: "<a href='/digital-beehive/alpha4/alpha_0656/'>a</a>|<a href='/digital-beehive/num6/num_1804/'>1292
-  [Obscurity]</a>"
+head: to open
+entry: "<a href='/digital-beehive/num3/num_0654/'>521 [Open. to Open]</a>|<a href='/digital-beehive/num10/num_3213/'>2260
+  [To Open]</a>"
 topic:
 first_letter: O
 page:
@@ -12,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d09fc2786"
+item: "#item-be1f59eb9"
 unparsed:
-line: 'Head: obscurity|Entry: a|Entry: 1292 [Obscurity]|#item-d09fc2786'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/124,2247,726,207/full/0/default.jpg
+line: 'Head: to open|Entry: 521 [Open. to Open]|Entry: 2260 [To Open]|#item-be1f59eb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1526,461,596,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347367008
-sort_value: '303312247'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161198648
+sort_value: '303330461'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/124,2247,726,207/150,/0/default.jpg
-label: obscurity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1526,461,596,100/150,/0/default.jpg
+label: to open
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0008'
+order: '0052'
 layout: index_item
 collection: index4
 ---

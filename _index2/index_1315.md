@@ -2,29 +2,28 @@
 pid: index_1315
 volume: Volume 3
 image_number: '19'
-head: event
-entry:
+head: excursion
+entry: 4504 [PAGE_MISSING]
 topic:
 first_letter: E
 page:
 add:
 xref:
-see: "<a href='/digital-beehive/index2/index_1248/'>end</a>"
+see:
 index:
-item: "#item-2377440e4"
+item: "#item-ce772de52"
 unparsed:
-line: 'Head: event|See: end|#item-2377440e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/841,1067,492,136/full/0/default.jpg
+line: 'Head: excursion|Entry: 4504 [PAGE_MISSING]|#item-ce772de52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/820,3585,546,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351168039
-sort_value: '301921067'
+annotation_uri: http://dev.llgc.org.uk/annotation/1560365700992
+sort_value: '301923585'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/841,1067,492,136/150,/0/default.jpg
-label: event
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/820,3585,546,132/150,/0/default.jpg
+label: excursion
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '134'
+order: '156'
 layout: index_item
 collection: index2
 ---

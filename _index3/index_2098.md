@@ -1,10 +1,11 @@
 ---
 pid: index_2098
 volume: Volume 3
-image_number: '26'
-head: inward
-entry: "<a href='/digital-beehive/num2/num_0611/'>489 [Turn in!]</a>|<a href='/digital-beehive/num10/num_3242/'>2281
-  [Turn in : Inward]</a>"
+image_number: '27'
+head: judge who can
+entry: "<a href='/digital-beehive/num2/num_0622/'>496 [Judge who can]</a>|<a href='/digital-beehive/num7/num_2332/'>1561
+  [Let heaven & earth Judge]</a>|<a href='/digital-beehive/num10/num_3321/'>2350 [Judge
+  who can!]</a>"
 topic:
 first_letter: I/J
 page:
@@ -12,20 +13,20 @@ add:
 xref:
 see:
 index:
-item: "#item-af7c595b4"
+item: "#item-91c5c6702"
 unparsed:
-line: 'Head: inward|Entry: 489 [Turn in!]|Entry: 2281 [Turn in : Inward]|#item-af7c595b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1869,1787,556,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751844981
-sort_value: '302631787'
+line: 'Head: judge who can|Entry: 496 [Judge who can]|Entry: 1561 [Let heaven & earth
+  Judge]|Entry: 2350 [Judge who can!]|#item-91c5c6702'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,1683,741,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758039471
+sort_value: '302711683'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1869,1787,556,136/150,/0/default.jpg
-label: inward
-location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/137,1683,741,107/150,/0/default.jpg
+label: judge who can
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '180'
+order: '213'
 layout: index_item
 collection: index3
 ---

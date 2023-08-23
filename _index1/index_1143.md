@@ -1,9 +1,9 @@
 ---
 pid: index_1143
 volume: Volume 3
-image_number: '17'
-head: Drawings of God
-entry: "<a href='/digital-beehive/num3/num_0877/'>642 [To Draw]</a>"
+image_number: '18'
+head: duck
+entry: "<a href='/digital-beehive/alpha1/alpha_0268/'>a</a>"
 topic:
 first_letter: D
 page:
@@ -11,19 +11,18 @@ add:
 xref:
 see:
 index:
-item: "#item-ac20a3838"
+item: "#item-17acbd83d"
 unparsed:
-line: 'Head: Drawings of God|Entry: 642 [To Draw]|#item-ac20a3838'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1441,1492,739,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560451762852
-sort_value: '301731492'
+line: 'Head: duck|Entry: a|#item-17acbd83d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/441,207,323,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559662892888
+sort_value: '301810207'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1441,1492,739,102/150,/0/default.jpg
-label: Drawings of God
-location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/441,207,323,144/150,/0/default.jpg
+label: duck
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '1142'
 layout: index_item
 collection: index1

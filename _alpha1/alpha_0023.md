@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0039/'>Apostle</a>|1876 [PAGE_MISSING]"
 see:
-index: "<a href='/digital-beehive/index1/index_0120/'>ambassage</a>"
+index: "<a href='/digital-beehive/index1/index_0116/'>ambassage</a>"
 item: "#item-a5a2772a2"
 unparsed:
 line: 'Entry: Ambassage|Topic: Ambassage|Xref: Apostle|Xref: 1876 [PAGE_MISSING]|Index:

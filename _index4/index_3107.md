@@ -1,9 +1,9 @@
 ---
 pid: index_3107
 volume: Volume 3
-image_number: '36'
-head: praise
-entry: 4757 [PAGE_MISSING]
+image_number: '37'
+head: primum mobile
+entry: "<a href='/digital-beehive/num5/num_1604/'>1176 [Heaven]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +11,19 @@ add:
 xref:
 see:
 index:
-item: "#item-d1914bf33"
+item: "#item-c679ad477"
 unparsed:
-line: 'Head: praise|Entry: 4757 [PAGE_MISSING]|#item-d1914bf33'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1893,686,484,79/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439889674
-sort_value: '303630686'
+line: 'Head: primum mobile|Entry: 1176 [Heaven]|#item-c679ad477'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2968,639,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867077069
+sort_value: '303712968'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1893,686,484,79/150,/0/default.jpg
-label: praise
-location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2968,639,137/150,/0/default.jpg
+label: primum mobile
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0355'
+order: '0399'
 layout: index_item
 collection: index4
 ---

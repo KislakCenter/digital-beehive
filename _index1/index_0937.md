@@ -2,28 +2,27 @@
 pid: index_0937
 volume: Volume 3
 image_number: '15'
-head: cynicks
-entry: "<a href='/digital-beehive/num5/num_1582/'>1161 [Cynicks]</a>"
+head: first day
+entry: "<a href='/digital-beehive/num3/num_0643/'>511 [First day of the Week]</a>"
 topic:
-first_letter: C
+first_letter: D
 page:
 add:
 xref:
 see:
 index:
-item: "#item-e8c7dd39e"
+item: "#item-5e96bfd68"
 unparsed:
-line: 'Head: cynicks|Entry: 1161 [Cynicks]|#item-e8c7dd39e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1568,699,481,135/full/0/default.jpg
+line: 'Head: first day|Entry: 511 [First day of the Week]|#item-5e96bfd68'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1528,2153,472,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390874499
-sort_value: '301530699'
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391656745
+sort_value: '301532153'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1568,699,481,135/150,/0/default.jpg
-label: cynicks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1528,2153,472,96/150,/0/default.jpg
+label: first day
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue:
-insertion_xref:
 order: '0936'
 layout: index_item
 collection: index1

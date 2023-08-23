@@ -2,28 +2,27 @@
 pid: index_0251
 volume: Volume 3
 image_number: '9'
-head: authentick
-entry: a
+head: awl
+entry:
 topic:
 first_letter: A
-page:
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add:
 xref:
 see:
 index:
-item: "#item-33edc908a"
+item: "#item-f9946597b"
 unparsed:
-line: 'Head: authentick|Entry: a|#item-33edc908a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,1579,493,134/full/0/default.jpg
+line: 'Head: awl|Page: p.38 [Image 1.98]|#item-f9946597b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/178,2533,368,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015540861
-sort_value: '300911579'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016181590
+sort_value: '300912533'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,1579,493,134/150,/0/default.jpg
-label: authentick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/178,2533,368,174/150,/0/default.jpg
+label: awl
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified.
-insertion_xref:
+issue:
 order: '0250'
 layout: index_item
 collection: index1

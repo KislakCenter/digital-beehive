@@ -2,8 +2,9 @@
 pid: index_2865
 volume: Volume 3
 image_number: '34'
-head: pamphlet
-entry: "<a href='/digital-beehive/num10/num_3223/'>2267 [Pamphlet]</a>"
+head: past remedy
+entry: "<a href='/digital-beehive/num3/num_0833/'>620 [Despair]</a>|<a href='/digital-beehive/num7/num_2602/'>1689
+  [Despair]</a>"
 topic:
 first_letter: P
 page:
@@ -11,20 +12,19 @@ add:
 xref:
 see:
 index:
-item: "#item-61db78316"
+item: "#item-0bcce8094"
 unparsed:
-line: 'Head: pamphlet|Entry: 2267 [Pamphlet]|#item-61db78316'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1165,332,569,144/full/0/default.jpg
+line: 'Head: past remedy|Entry: 620 [Despair]|Entry: 1689 [Despair]|#item-0bcce8094'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1790,1168,688,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538491737759
-sort_value: '303420332'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495196947
+sort_value: '303431168'
 insertion:
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1165,332,569,144/150,/0/default.jpg
-label: pamphlet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1790,1168,688,147/150,/0/default.jpg
+label: past remedy
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue:
-insertion_xref:
-order: '0113'
+order: '0157'
 layout: index_item
 collection: index4
 ---
