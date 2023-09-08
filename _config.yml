@@ -338,6 +338,8 @@ menu:
         link: 'data/' 
       - label: 'Contact'
         link: '/contact/'
+      - label: 'The Team'
+        link: '/team/'
   - label: 'Contents'
     sub:
       - label: 'Introduction'
