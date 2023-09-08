@@ -91,8 +91,8 @@ all the cross-references and index entries as hyperlinks, allowing users to quic
 connections that Pastorius aimed to create across this vast manuscript and to click between relevant 
 entries and pages.
 
-Users can also access our [code and raw data sets](https://github.com/KislakCenter/
-beehive-annotation-scripts).
+Users can also access our [code](https://github.com/KislakCenter/
+beehive-annotation-scripts) and [data sets](https://github.com/KislakCenter/beehive-data).
 
 #### Other notes on the Digital Beehive
 
