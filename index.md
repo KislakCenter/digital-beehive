@@ -30,7 +30,7 @@ books he read or knew; copies of letters; and notes on science, useful herbs, an
 This website provides two major opportunities for readers of Pastorius's manuscript. Under the "Contents"
 tab in the top bar, readers can find an interactive table of contents that allows them to read through
 digital facsimiles of every page in the manuscript, following the order of pages and division of sections
-sections from Pastorius's original text. Following the manuscript's twentieth-century restorers, our
+from Pastorius's original text. Following the manuscript's twentieth-century restorers, our
 presentation of the digitized manuscript divides the main text into 
 [Volume 1](https://kislakcenter.github.io/digital-beehive/tocvol1/) and 
 [Volume 2](https://kislakcenter.github.io/digital-beehive/tocvol2/), in addition to the digitized 
