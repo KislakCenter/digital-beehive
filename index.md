@@ -59,6 +59,6 @@ the Alvearium, please visit our [data model page]
 (https://github.com/KislakCenter/beehive-annotation-scripts).
 
 Support for this project has been provided by the [Price Lab for Digital Humanities]
-(https://pricelab.sas.upenn.edu/), the [McNeil Center for Early American Studies](https://www.mceas.org),
-and the [Kislak Center for Special Collections, Rare Books, and Manuscripts]
-(https://www.library.upenn.edu/kislak/).
+(https://pricelab.sas.upenn.edu/), the [McNeil Center for Early American Studies]
+(https://www.mceas.org), and the [Kislak Center for Special Collections, Rare Books, and Manuscripts]
+(https://library.upenn.edu/kislak).
