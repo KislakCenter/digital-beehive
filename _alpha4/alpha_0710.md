@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/794,2968
 label: Picture
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 issue: The point of reference for "Painting" is not entirely clear, as there is no
-  alphabetical entry for this term.The Octavo Index indicates that 575 [Painting]
+  alphabetical entry for this term. The Octavo Index indicates that 575 [Painting]
   may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
 also_in_entry:
 order: '058'

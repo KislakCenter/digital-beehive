@@ -25,11 +25,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/807,214,600,180/250,/0/default.jpg
 label: Proof, continued
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
-issue: The points of reference for "Trial" and "Essay" are not entirely clear, as
-  there are no alphabetical entries for these terms. The Octavo Index indicates that
-  783 [Argument, trial or essay] may be the earliest occurrence of these topics in
-  the Numerical section of the Alvearium, but the page where it would appear is missing
-  from the manuscript.
+issue:
 also_in_entry:
 order: '100'
 layout: alpha_item

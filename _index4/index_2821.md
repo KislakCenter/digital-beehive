@@ -13,7 +13,7 @@ see:
 index:
 item: "#item-d07576602"
 unparsed:
-line: 'Head: to pant|Entry: 688 [Breathing with difficulty]|#item-d07576602'
+line: 'Head: to print|Entry: 688 [Breathing with difficulty]|#item-d07576602'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1168,425,527,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560276685110

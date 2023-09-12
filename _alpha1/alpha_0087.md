@@ -25,11 +25,10 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/342,1627,600,180/250,/0/default.jpg
 label: Blockhead
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
-issue: It is unclear whether "It. nick-name" should be considered a cross-reference.
-  The point of reference for "Stupidity" is not entirely clear, as there is no alphabetical
-  entry for this term. The Octavo Index indicates that 711 [Stupidity] may be the
-  earliest occurrence of this topic in the Numerical section of the Alvearium. It
-  is also not totally clear if "It. nick-name" should be considered a cross reference.
+issue: The point of reference for "Stupidity" is not entirely clear, as there is no
+  alphabetical entry for this term. The Octavo Index indicates that 711 [Stupidity]
+  may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
+  It is also not totally clear if "It. nick-name" should be considered a cross reference.
   We have linked to 181 [Nickname].
 also_in_entry:
 order: '086'

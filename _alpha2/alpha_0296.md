@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/769,2744
 label: Eternity
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 issue: The points of reference for "Always"and "Immortality" are not entirely clear,
-  as there are no alphabetical entires for these terms.The Octavo Index indicates
+  as there are no alphabetical entires for these terms. The Octavo Index indicates
   that 287 [Always] and 474 [Immortal] may be the earliest occurrences of these topics
   in the Numerical section of the Alvearium.
 also_in_entry:

@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/312,1736
 label: Company
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 issue: The points of reference for "Stock" and "Train" are not entirely clear, as
-  there are no alphabetical entries for these terms.The Octavo Index indicates that
+  there are no alphabetical entries for these terms. The Octavo Index indicates that
   632 [Stock] and 866 [Train] may be the earliest occurrences of these topics in the
   Numerical section of the Alvearium.
 also_in_entry:

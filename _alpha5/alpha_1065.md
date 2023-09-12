@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/322,852,600,180/250,/0/default.jpg
 label: Will-Worship
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-issue: The point of reference for "1316" is unclear.
+issue: The point of reference for "Formality" is not entirely clear, as there is no
+  alphabetical entry for this term. The Octavo Index indicates that 229 [Formality]
+  may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
 also_in_entry:
 order: '125'
 layout: alpha_item

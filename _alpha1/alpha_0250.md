@@ -23,7 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/370,220,600,180/250,/0/default.jpg
 label: Divinity
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
-issue: 'The correct cross reference at entry 1371 cannot be determined. '
+issue: The correct cross reference at entry 1371 cannot be determined.
 also_in_entry:
 order: '249'
 layout: alpha_item

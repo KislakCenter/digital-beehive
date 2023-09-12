@@ -9,13 +9,13 @@ first_letter: T
 page:
 add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0366/'>Gloss</a>|<a href='/digital-beehive/num2/num_0605/'>484
-  [Tradition]</a>|<a href='/digital-beehive/num9/num_3188/'>2242 [Report & Hear-say]</a>"
+  [Tradition]</a>"
 see:
 index: "<a href='/digital-beehive/index5/index_4146/'>tradition</a>"
 item: "#item-606ddb1f8"
 unparsed:
-line: 'Entry: Tradition|Topic: Tradition|Xref: Gloss|Xref: 484 [Tradition]|Xref: 2242
-  [Report & Hear-say]|Index: tradition|#item-606ddb1f8'
+line: 'Entry: Tradition|Topic: Tradition|Xref: Gloss|Xref: 484 [Tradition]|Index:
+  tradition|#item-606ddb1f8'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/787,550,3002,490/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565114889479

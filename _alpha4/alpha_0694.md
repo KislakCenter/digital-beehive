@@ -13,7 +13,7 @@ see:
 index: "<a href='/digital-beehive/index4/index_2881/'>pawn</a>"
 item: "#item-ab2cfebee"
 unparsed:
-line: 'Entry: Pawn|Topic: Pawn|Index:  pawn|#item-ab2cfebee'
+line: 'Entry: Pawn|Topic: Pawn|Index: pawn|#item-ab2cfebee'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/318,2044,3030,329/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565021969018

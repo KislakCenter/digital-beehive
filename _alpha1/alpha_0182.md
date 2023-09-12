@@ -24,7 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0444/341,936,600,180/250,/0/default.jpg
 label: Covenant
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
-issue: 'The point of reference for (: old & new :) Testament is not entirely clear.
+issue: 'The point of reference for “(: old & new :) Testament” is not entirely clear.
   The Octavo Index points to entries for "Old Testamt" and "New Testamt" in the alphabetical
   section.'
 also_in_entry:

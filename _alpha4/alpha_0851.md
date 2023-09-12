@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/259,1355
 label: Seeming
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: The point of reference for "Substantial" is not entirely clear, as there is
-  no alphabetical entry for this term. The Octavo Index indicates that [Substantial]
+  no alphabetical entry for this term. The Octavo Index indicates that 92 [Substantial]
   may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
 also_in_entry:
 order: '199'

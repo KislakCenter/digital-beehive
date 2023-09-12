@@ -22,8 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/770,1121,600,180/250,/0/default.jpg
 label: Orphan
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-issue: The solitary "add" at the end of this entry may mark a cross-reference that
-  Pastorius mistakenly did not complete.
+issue: The "&" at the end of this entry may mark a cross-reference that Pastorius
+  mistakenly did not complete.
 also_in_entry:
 order: '021'
 layout: alpha_item

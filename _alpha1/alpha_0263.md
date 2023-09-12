@@ -24,7 +24,7 @@ label: Doubt
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: The points of reference for "Perplexity", "Pinch" and "Scepticism" are not
   entirely clear, as there are no alphabetical entries for these terms. The Octavo
-  Index indicates that 661 [Perplexity, 645 [Pinch], and 1254 [Scepticism] may be
+  Index indicates that 661 [Perplexity], 645 [Pinch], and 1254 [Scepticism] may be
   the earliest occurrences of these topics in the Numerical section of the Alvearium.
 also_in_entry:
 order: '262'
