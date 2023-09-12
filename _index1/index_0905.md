@@ -13,7 +13,7 @@ xref:
 see:
 index:
 item: "#item-9fa9be56a"
-unparsed:
+unparsed: Variant cuckow
 line: 'Head: cuckold|Variant: cuckow|Entry: a|Entry: 1730 [Cuckold]|Entry: 4749 [PAGE_MISSING]|#item-9fa9be56a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/829,2994,673,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg

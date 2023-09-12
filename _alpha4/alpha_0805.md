@@ -14,8 +14,8 @@ see:
 index: "<a href='/digital-beehive/index4/index_3350/'>revelation</a>"
 item: "#item-f56034c82"
 unparsed:
-line: 'Entry: Revelation   |Topic: Revelation|Xref: illumination|Xref: 409 [Vision]|Xref:
-  960 [Revelation]  |Index: revelation|#item-f56034c82|'
+line: 'Entry: Revelation  |Topic: Revelation|Xref: illumination|Xref: 409 [Vision]|Xref:
+  960 [Revelation] |Index: revelation|#item-f56034c82|'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/784,487,3027,715/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1523300706125

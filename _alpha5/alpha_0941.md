@@ -26,7 +26,7 @@ issue: The points of reference for "Seamster" and "to Sell" are not entirely cle
   as there are no alphabetical entries for these terms. The Octavo Index indicates
   that 604 [to Sell] may be the earliest occurrence of this topic in the Numerical
   section of the Alvearium. The Octavo Index indicates that 861 [Seamster] might be
-  the earliest occuring entry referencing "Seamster", but the page on which it would
+  the earliest occurring entry referencing "Seamster", but the page on which it would
   appear is missing from the manuscript.
 also_in_entry:
 order: '001'

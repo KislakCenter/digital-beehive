@@ -24,8 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/791,2148,600,180/250,/0/default.jpg
 label: University
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
-issue: 'The point of reference for "Professors" is unclear, as there is no alphabetical
-  entry for this term. '
+issue: The point of reference for "Professors" is unclear, as there is no alphabetical
+  entry for this term.
 also_in_entry:
 order: '069'
 layout: alpha_item

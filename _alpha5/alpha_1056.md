@@ -23,10 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0533/785,1079
 label: Wood
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
 issue: The point of reference for "Timber" is not entirely clear, as there is no alphabetical
-  entry for this term. The Octavo Index indicates that 798 [Timber] The point of reference
-  for "Timber" is not entirely clear, as there is no alphabetical entry for this term.
-  The Octavo Index indicates that 798 might the first relevant entry in the numerical
-  section of the Alvearium, but it appears on a missing page, but the page on which
+  entry for this term. The Octavo Index indicates that 798 [Timber] might the first
+  relevant entry in the numerical section of the Alvearium, but the page on which
   it would appear is missing from the manuscript.
 also_in_entry:
 order: '116'

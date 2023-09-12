@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0432/296,2730
 label: AntiChrist
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 issue: The point of reference for "False Prophets" is not entirely clear, as there
-  is no alphabetical entry for this term.The Octavo Index indicates that 41 [False
+  is no alphabetical entry for this term. The Octavo Index indicates that 41 [False
   Prophets] may be the earliest occurrence of this topic in the Numerical section
   of the Alvearium.
 also_in_entry:

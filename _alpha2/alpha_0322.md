@@ -23,7 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/411,252,600,180/250,/0/default.jpg
 label: Favour and Disfavour
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-issue: The point of reference for "Disfavour" cannot be determined.
+issue:
 also_in_entry:
 order: '050'
 layout: alpha_item

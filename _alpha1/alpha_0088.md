@@ -23,8 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/305,1852,600,180/250,/0/default.jpg
 label: Blood
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
-issue: 'It is unclear whether "blood of Xst" should be considered a separate entry.
-  We have chosen to annotate it as its own entity. '
+issue: It is unclear whether "blood of Xst" should be considered a separate entry.
+  We have chosen to annotate it as its own topic.
 also_in_entry:
 order: '087'
 layout: alpha_item

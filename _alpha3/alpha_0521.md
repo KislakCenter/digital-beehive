@@ -13,7 +13,7 @@ see:
 index: "<a href='/digital-beehive/index3/index_2177/'>late</a>"
 item: "#item-2bad963b5"
 unparsed:
-line: 'Entry: Late|Topic: Late|Xref: 20 [Too late]|Xref:  4786 [PAGE_MISSING]|Index:
+line: 'Entry: Late|Topic: Late|Xref: 20 [Too late]|Xref: 4786 [PAGE_MISSING]|Index:
   late|#item-2bad963b5'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/747,4194,2966,318/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg

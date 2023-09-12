@@ -1,7 +1,6 @@
 volume,image_number,item,entry,topic,problem,reference_link
 Volume 2,68,#item-eb4bf567f,2,Laconism,"This entry appears under two identical entries of the Octavo Index: ""few words"" in image 3.20, and ""few words"" in image 3.53.",
 Volume 2,68,#item-3624e23f3,11,Ill Name,"This entry appears under two identical entries of the Octavo Index: ""ill name"" in image 3.25, and ""ill name"" in image 3.32.",
-Volume 2,69,#item-f59bc66fa,21,Moderate,"The point of reference for ""Clemency"" is not entirely clear, as there is no alphabetical entry for this term. The Octavo Index indicates that 1120 [Clemency] may be the earliest occurrence of this topic in the Numerical section of the Alvearium.",
 Volume 2,70,#item-0abd40d8e,29,Curse,"The point of reference for ""Swearing"" is not entirely clear, as there is no alphabetical entry for this term. The Octavo Index indicates that 90 [Swearing] may be the earliest occurrence of this topic in the Numerical section of the Alvearium.",
 Volume 2,70,#item-b3df03bc1,35,Enthusiasm,"The points of reference for ""Swooning"" and ""Phanatick"" are not entirely clear, as there are no alphabetical entries for these terms. The Octavo Index indicates that 616 [Fanatick] may be the earliest occurrence of that topic in the Numerical section of the Alvearium, and that 728 [Swooning] might be the earliest occurrence of that topic in the Numerical section of the Alvearium. The page on which 728 [Swooning] would appear is missing from the manuscript. ",
 Volume 2,70,#item-f121e2d3b,40,Light,"The solitary ""add"" at the end of this entry may mark a cross-reference that Pastorius mistakenly did not complete.",
@@ -154,7 +153,7 @@ Volume 2,222,#item-1d03c8224,1093,Early,"The point of reference for ""Suppress""
 Volume 2,231,#item-e53b65789,1136,Thread,"Note that the entry refers to entry 1711, but we have linked to entry 711 [Explana[ti]on].",
 Volume 2,232,#item-c0fb2b660,1142,Be gone,"This entry appears under two identical entries of the Octavo Index: ""be gone"" in image 3.09, and ""be gone"" in image 3.22.",
 Volume 2,237,#item-036ae030c,1169,Laconism,"This entry appears under two identical entries of the Octavo Index: ""few words"" in image 3.20, and ""few words"" in image 3.53.",
-Volume 2,238,#item-f5c19aaff,1174,,This is a blank entry.,
+Volume 2,238,#item-f5c19aaff,1174,[WORD_MISSING],This is a blank entry.,
 Volume 2,238,#item-0bda2758b,1175,Vices,"The point of reference for ""Excess"" is not clear, as there is no alphabetical entry for this term. It is worth noting that 1169 [Extremity] is listed under ""excess"" in the Octavo Index.",
 Volume 2,242,#item-71e816617,1192,Want of Punishmt,"The point of reference for ""Indulgence"" is not clear, as there is no alphabetical entry for this term. The Octavo Index indicates that 667 [Indulgence] may be the earliest occurrence of this topic in the Numerical section of the Alvearium.",
 Volume 2,249,#item-8a83842d3,1228,Aristotle,"The solitary ""add"" at the end of this entry may mark a cross-reference that Pastorius mistakenly did not complete.",

@@ -22,10 +22,10 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0433/794,1522,600,180/250,/0/default.jpg
 label: Approbation
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
-issue: 'The points of reference for "Confirm", as there is no alphabetical entry for
-  this term.  The Octavo Index indicates that 852 [Confirmation] may be the earliest
-  relevant entry in the numerical section of the Alvearium, but it is on a missing
-  page. '
+issue: The point of reference for "Confirm" is not entirely clear, as there is no
+  alphabetical entry for this term. The Octavo Index indicates that 852 [Confirmation]
+  may be the earliest relevant entry in the numerical section of the Alvearium, but
+  it is on a missing page.
 also_in_entry:
 order: '043'
 layout: alpha_item

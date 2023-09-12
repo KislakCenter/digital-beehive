@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0431/575,1536
 label: Agreement
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 issue: The point of reference for "Consent" is not entirely clear, as there is no
-  alphabetical entry for this term.  The Octavo Index indicates that 649 [Consent]
+  alphabetical entry for this term. The Octavo Index indicates that 649 [Consent]
   may be the earliest occurrence of this topic in the Numerical section of the Alvearium.
 also_in_entry:
 order: '014'
