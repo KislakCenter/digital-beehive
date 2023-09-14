@@ -22,7 +22,7 @@
           {% for item in site.footer.logos %}
           {% assign link = item.link | default: '#' %}
           <a href="{{ link | absolute_url }}" aria-label="Logo link to resource">
-            <img src='{{ item.img | absolute_url }}' alt="logo"/>
+            <img src='{{ item.img | absolute_url }}' alt="{{ item.alt | absolute_url }}"/>
           </a>
           {% endfor %}
         </p>
