@@ -18,12 +18,16 @@
           {% unless forloop.last %} / {% endunless %}
           {% endfor %}
         </p>
-        <p class='footer-logos'>
+      </div>
+      <div class="col">
+        <p class='footer-title'>Sponsors</p>
+        <p class='footer-links'>
           {% for item in site.footer.logos %}
-          {% assign link = item.link | default: '#' %}
-          <a href="{{ link | absolute_url }}" aria-label="Logo link to resource">
-            <img src='{{ item.img | absolute_url }}' alt="logo"/>
-          </a>
+          <div class="footer-logos">
+            <a href="{{ item.link | absolute_url }}" aria-label="{{ item.aria }}">
+              <img src='{{ item.img | absolute_url }}' alt="{{ item.alt }}"/>
+            </a>
+          </div>
           {% endfor %}
         </p>
       </div>
